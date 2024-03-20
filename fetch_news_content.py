@@ -13,24 +13,18 @@ def reformat_url(url):
 
 def get_real_url(re_url):
     time.sleep(10)
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0;Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
-    }
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0;Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'}
     response = requests.get(re_url, headers = headers, allow_redirects=True, timeout=5)
     response.raise_for_status()
     real_url = response.url
     return real_url
 
 def fetch_article_content(url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0;Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
-    }
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0;Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'}
     response = requests.get(url, headers = headers)
     doc = Document(response.text)
     content = doc.summary(html_partial=True)
-    if content:
-        return content
-    return 'Article content not found or extraction selector incorrect.'
+    return content if content else 'Article content not found or extraction selector incorrect.'
 
 def load_processed_urls():
     if os.path.exists('processed_urls.json'):
@@ -42,6 +36,7 @@ def load_processed_urls():
 
 session = requests.Session()
 session.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0;Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
+
 processed_urls = load_processed_urls()
 
 if datetime.utcnow().hour == 0:
@@ -60,3 +55,6 @@ for entry in feed.entries:
         real_url = get_real_url(reformatted_url)
         if real_url and real_url not in processed_urls:
             processed_urls.add(real_url)
+            content = fetch_article_content(real_url)
+            with open('articles_content.txt', 'a', encoding='utf-8') as file:
+                file.write(content + '\n\n---\n\n')
