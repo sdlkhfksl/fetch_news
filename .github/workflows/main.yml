@@ -1,6 +1,6 @@
 name: Run Python Script
 
-on: 
+on:
   schedule:
     - cron: '0 * * * *'  # 这将会在每小时的第0分钟触发工作流
 
@@ -12,14 +12,14 @@ jobs:
     - name: Check out repository code
       uses: actions/checkout@v2
 
-    - name: Set up Python 3.8
+    - name: Set up Python 3.9
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8
+        python-version: 3.9
 
     - name: Install dependencies
       run: |
         pip install feedparser requests readability-lxml
 
     - name: Execute Python script
-      run: python fetch_news_content.py  # 把 your_python_script.py 替换为你的 Python 脚本的文件名
+      run: python your_python_script.py  # 把 your_python_script.py 替换为你的 Python 脚本的文件名
