@@ -5,6 +5,7 @@ import re
 import time
 from readability import Document
 from datetime import datetime
+import json
 
 def reformat_url(url):
     result = re.sub(r'https://cryptopanic.com/news/(\d+)/.*', r'https://cryptopanic.com/news/click/\1/', url)
@@ -31,20 +32,27 @@ def fetch_article_content(url):
         return content
     return 'Article content not found or extraction selector incorrect.'
 
+def load_processed_urls():
+    if os.path.exists('processed_urls.json'):
+        with open('processed_urls.json', 'r') as json_file:
+            data = json.load(json_file)
+            return set(data)
+    else:
+        return set()
 
 session = requests.Session()
 session.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0;Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
-processed_urls = set()
+processed_urls = load_processed_urls()
 
 if datetime.utcnow().hour == 0:
     with open('articles_content.txt', 'w') as file:
         file.truncate(0)
     processed_urls.clear()
-
+    with open('processed_urls.json', 'w') as json_file:
+        json.dump(list(processed_urls), json_file)
 
 feed_url = 'https://cryptopanic.com/news/rss/'
 feed = feedparser.parse(feed_url)
-
 
 for entry in feed.entries:
     reformatted_url = reformat_url(entry.link)
@@ -52,6 +60,3 @@ for entry in feed.entries:
         real_url = get_real_url(reformatted_url)
         if real_url and real_url not in processed_urls:
             processed_urls.add(real_url)
-            content = fetch_article_content(real_url)
-            with open('articles_content.txt', 'a', encoding='utf-8') as file:
-                file.write(content + '\n\n---\n\n')
