@@ -2,24 +2,27 @@ name: Run Python Script
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 这将会在每小时的第0分钟触发工作流
+    - cron: '0 * * * *'  # 这将使工作流每小时运行一次
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # 运行工作流的 GitHub Actions 虚拟环境
 
     steps:
-    - name: Check out repository code
+    - name: Checkout repository  # 将您的代码库检出到 runner
       uses: actions/checkout@v2
 
-    - name: Set up Python 3.9
+    - name: Set up Python 3.8  # 设置 Python 环境
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9
+        python-version: 3.8
 
-    - name: Install dependencies
+    - name: Install dependencies  # 安装您在脚本中所使用的 Python 库
       run: |
+        python -m pip install --upgrade pip
         pip install feedparser requests readability-lxml
 
-    - name: Execute Python script
-      run: python your_python_script.py  # 把 your_python_script.py 替换为你的 Python 脚本的文件名
+    - name: Execute script  # 运行 Python 脚本
+      run: python fetch_news_content.py
+
+# 不要忘记替换 'your_script.py' 为您的 Python 脚本文件的实际名称
