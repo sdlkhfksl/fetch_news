@@ -1,34 +1,48 @@
-name: Fetch and Process News Links
+name: Fetch News Links
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时执行一次
+    - cron: '0 * * * *' # 每小时执行一次
 
 jobs:
-  fetch_process_news:
+  fetch_news_links:
     runs-on: ubuntu-latest
     
     steps:
+      # 检出代码
       - name: Checkout repository
         uses: actions/checkout@v2
-        
+      
+      # 设置Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
-          
+
+      # 安装Python依赖
       - name: Install dependencies
         run: |
-          pip install requests feedparser
-      
-      - name: Fetch and process news links
+          python -m pip install --upgrade pip
+          pip install feedparser requests
+
+      # 运行脚本来获取新闻链接
+      - name: Fetch news links
         run: |
           python fetch_news.py
-          
-      - name: Commit and push changes
+
+      # 提交并推送新的累积链接文件
+      - name: Commit and push if there are changes
         run: |
-          git config --global user.email 'actions@github.com'
-          git config --global user.name 'GitHub Actions'
-          git add accumulated_links.txt
-          git commit -m "Update list of processed news links" || echo "No changes to commit"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update accumulated links list" -a || echo "No changes to commit"
+          git push
+
+      # 每天凌晨清空累积的链接文件
+      - name: Reset accumulated links daily
+        if: github.event.schedule == '0 0 * * *' # 每天凌晨
+        run: |
+          > accumulated_links.txt
+          git commit -m "Reset accumulated links" accumulated_links.txt
           git push
