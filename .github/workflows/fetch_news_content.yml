@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *'  # 每小时触发
 
 jobs:
-  fetch_news:
+  fetch_news_content:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -19,12 +19,10 @@ jobs:
       - name: Install Python Dependencies
         run: |
           pip install requests feedparser beautifulsoup4
-
+      
       - name: Fetch and Save Article Content
         run: python fetch_news_content.py
-        env:
-          # 如果需要，可以在这里设置环境变量
-
+      
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'GitHub Actions'
