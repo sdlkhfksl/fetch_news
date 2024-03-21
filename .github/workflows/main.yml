@@ -2,7 +2,7 @@ name: Run Python Script
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 这将使工作流每小时运行一次
+    - cron: '0 */4 * * *'  # 这将使工作流每4小时运行一次
 
 jobs:
   build:
