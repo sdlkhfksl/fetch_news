@@ -1,53 +1,64 @@
-import feedparser
+import os
+import datetime
+from readability import Document
 import requests
-import re
-from datetime import datetime
 
-# 创建会话并设置用户代理
-session = requests.Session()
-session.headers['User-Agent'] = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1'
+# Your provided function to fetch content from a URL using the readability library
+def fetch_article_content(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
+    }
+    response = requests.get(url, headers=headers)
+    doc = Document(response.text)
+    content = doc.summary(html_partial=True)
+    return content if content else 'Article content not found or extraction failed.'
 
-# 定义重定向和格式化URL的函数
-def reformat_url(url):
-    result = re.sub('https://cryptopanic.com/news/(\\d+)/.*', 'https://cryptopanic.com/news/click/\\1/', url)
-    return result
+# Function to clear the processed links file at midnight
+def clear_processed_links_file(processed_links_file):
+    now = datetime.datetime.now()
+    # Check if it's around midnight (00:00) with a 5-minute buffer
+    if now.hour == 0 and now.minute < 5:
+        open(processed_links_file, 'w').close()
 
-def get_real_url(re_url):
-    try:
-        response = session.get(re_url, timeout=5)
-        response.raise_for_status()
-        return response.url
-    except requests.exceptions.RequestException as e:
-        print(f'Error fetching real URL: {e}')
-        return None
+# Main function to fetch and write article contents
+def fetch_and_write_article_contents(links_file_url, output_file, processed_links_file):
+    # Clear processed links file if it's midnight
+    clear_processed_links_file(processed_links_file)
 
-# 读取累积的链接或初始化一个空集合
-try:
-    with open('accumulated_links.txt', 'r') as file:
-        accumulated_links = set(file.read().splitlines())
-except FileNotFoundError:
-    accumulated_links = set()
+    # Get the list of URLs from the provided text file
+    response = requests.get(links_file_url)
+    if response.status_code == 200:
+        # Split the content by new line to get individual URLs
+        links = response.text.strip().split('\n')
+        # Load already processed links
+        try:
+            with open(processed_links_file, 'r', encoding='utf-8') as f:
+                processed_links = f.read().split('\n')
+        except FileNotFoundError:
+            processed_links = []
 
-# 解析RSS feed
-feed_url = 'https://cryptopanic.com/news/rss/'
-feed = feedparser.parse(feed_url)
+        # Write the contents to the output file
+        with open(output_file, 'a', encoding='utf-8') as file, open(processed_links_file, 'a', encoding='utf-8') as processed_file:
+            for url in links:
+                # Skip the link if it has already been processed
+                if url in processed_links:
+                    continue
+                print(f'Fetching content for: {url}')
+                # Fetch the article content using the readability library
+                article_content = fetch_article_content(url)
+                # Write the content to the file
+                file.write(article_content + '\n\n')
+                # Add the url to processed links
+                processed_file.write(url + '\n')
+    else:
+        print(f'Failed to retrieve links file. Status code: {response.status_code}')
 
-for entry in feed.entries:
-    formatted_url = reformat_url(entry.link)
-    final_url = get_real_url(formatted_url)
-    
-    if final_url and final_url not in accumulated_links:
-        accumulated_links.add(final_url)  # 添加新链接到集合中
+# URL of the text file that contains the article links
+links_file_url = 'https://raw.githubusercontent.com/sdlkhfksl/fetch_news/main/accumulated_links.txt'
+# The output file where the article contents will be written
+output_file = 'articles_content.txt'
+# File to keep track of processed links
+processed_links_file = 'processed_links.txt'
 
-# 将新链接写入文件
-with open('accumulated_links.txt', 'w') as file:
-    for link in accumulated_links:
-        file.write(link + '\n')
-
-# 打印所有链接，可选操作
-for link in accumulated_links:
-    print(link)
-
-# 清空链接文件，这将在工作流中配置
-if datetime.now().hour == 0:  # 假设在UTC时间0点执行清空操作
-    open('accumulated_links.txt', 'w').close()
+# Call the main function to start the process
+fetch_and_write_article_contents(links_file_url, output_file, processed_links_file)
