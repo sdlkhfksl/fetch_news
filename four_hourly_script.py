@@ -1,6 +1,9 @@
-import requests
+import os
+import datetime
 from readability import Document
+import requests
 
+# Your provided function to fetch content from a URL using the readability library
 def fetch_article_content(url):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
@@ -10,7 +13,21 @@ def fetch_article_content(url):
     content = doc.summary(html_partial=True)
     return content if content else 'Article content not found or extraction failed.'
 
+# Function to clear the processed links file and articles content file at midnight
+def clear_files_at_midnight(processed_links_file, articles_content_file):
+    now = datetime.datetime.now()
+    # Check if it's around midnight (00:00) with a 5-minute buffer
+    if now.hour == 0 and now.minute < 5:
+        # Clear processed links file
+        open(processed_links_file, 'w').close()
+        # Additionally clear article contents file
+        open(articles_content_file, 'w').close()
+
+# Main function to fetch and write article contents
 def fetch_and_write_article_contents(links_file_url, output_file, processed_links_file):
+    # Clear processed links file and articles content file if it's midnight
+    clear_files_at_midnight(processed_links_file, output_file)
+
     # Get the list of URLs from the provided text file
     response = requests.get(links_file_url)
     if response.status_code == 200:
@@ -23,7 +40,7 @@ def fetch_and_write_article_contents(links_file_url, output_file, processed_link
         except FileNotFoundError:
             processed_links = []
 
-        # Write the contents to the output file
+        # Open the output file in append mode
         with open(output_file, 'a', encoding='utf-8') as file, open(processed_links_file, 'a', encoding='utf-8') as processed_file:
             for url in links:
                 # Skip the link if it has already been processed
