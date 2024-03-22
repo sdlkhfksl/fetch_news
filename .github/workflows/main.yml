@@ -53,7 +53,7 @@ jobs:
 
       - name: Run other script
         run: |
-          python path/to/your/other_script.py
+          python four_hourly_script.py
 
       - name: Commit and push if changes
         run: |
