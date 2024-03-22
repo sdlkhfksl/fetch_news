@@ -69,7 +69,7 @@ def fetch_and_write_article_contents(links_file_url, output_file, processed_link
         print(f'Failed to retrieve links file. Status code: {response.status_code}')
 
 # URLs file containing article links
-links_file_url = 'https://raw.githubusercontent.com/your-username/your-repo/main/links_file.txt'
+links_file_url = 'https://raw.githubusercontent.com/sdlkhfksl/fetch_news/main/accumulated_links.txt'
 # Output file where article contents will be written
 output_file = 'articles_content.txt'
 # File to keep track of processed links
