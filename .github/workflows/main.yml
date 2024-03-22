@@ -1,0 +1,64 @@
+name: Run Multiple Scripts with Different Schedules
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时执行一次
+    - cron: '0 */4 * * *'  # 每4小时执行一次
+
+jobs:
+  fetch_news_links_hourly:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 * * * *'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser
+
+      - name: Fetch and process news links
+        run: |
+          python fetch_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email 'actions@github.com'
+          git config --global user.name 'GitHub Actions'
+          git add accumulated_links.txt
+          git commit -m "Update list of processed news links" || echo "No changes to commit"
+          git push
+
+  run_other_script_every_4_hours:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 */4 * * *'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+          pip install readability-lxml
+
+      - name: Run other script
+        run: |
+          python path/to/your/other_script.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update articles content and processed links" -a || echo "No changes to commit"
+          git push
