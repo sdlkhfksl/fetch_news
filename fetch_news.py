@@ -1,6 +1,7 @@
 import feedparser
 import requests
 import re
+import time  # 这里添加了对time模块的导入
 from datetime import datetime
 
 # 创建会话并设置用户代理
@@ -49,6 +50,6 @@ with open('accumulated_links.txt', 'w') as file:
 for link in accumulated_links:
     print(link)
 
-# 清空链接文件，这将在工作流中配置
-if datetime.now().hour == 0:  # 假设在UTC时间0点执行清空操作
+# 如果当前是UTC时间0点，则清空accumulated_links.txt文件
+if datetime.utcnow().hour == 0 and datetime.utcnow().minute < 5:  # 修改为UTC时间并增加5分钟的缓冲
     open('accumulated_links.txt', 'w').close()
