@@ -1,9 +1,7 @@
-import os
-import datetime
-from readability import Document
 import requests
+from readability import Document
 from html.parser import HTMLParser
-from collections import deque  # 导入deque类
+from collections import deque
 
 # A simple HTML parser to remove HTML tags and retrieve text content
 class MLStripper(HTMLParser):
@@ -11,7 +9,7 @@ class MLStripper(HTMLParser):
         super().__init__()
         self.reset()
         self.strict = False
-        self.convert_charrefs= True
+        self.convert_charrefs = True
         self.text = []
 
     def handle_data(self, d):
@@ -28,14 +26,12 @@ def fetch_article_content(url):
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         doc = Document(response.text)
-        # Use MLStripper to remove HTML tags
         s = MLStripper()
         s.feed(doc.title())
         title = s.get_data()
         s = MLStripper()
         s.feed(doc.summary())
         content = s.get_data()
-        # Combine the title and the content
         formatted_content = title + "\n\n" + content
         return formatted_content
     else:
@@ -46,22 +42,34 @@ def fetch_and_write_article_contents(links_file_url, output_file, processed_link
     response = requests.get(links_file_url)
     if response.status_code == 200:
         links = response.text.strip().split('\n')
+        processed_links = deque(maxlen=300)
+        existing_contents = deque(maxlen=300)
+        
         try:
             with open(processed_links_file, 'r', encoding='utf-8') as f:
-                processed_links = deque(f.read().split('\n'), maxlen=300)
+                processed_links.extend(f.read().split('\n'))
         except FileNotFoundError:
-            processed_links = deque(maxlen=300)
-        with open(output_file, 'w', encoding='utf-8') as file:  # Open the file in write mode to overwrite existing content
+            pass
+        
+        try:
+            with open(output_file, 'r', encoding='utf-8') as file:
+                existing_contents.extend(file.read().split('\n\n----------------\n\n'))
+        except FileNotFoundError:
+            pass
+        
+        with open(output_file, 'w', encoding='utf-8') as file, open(processed_links_file, 'w', encoding='utf-8') as processed_file:
             for url in links:
                 if url not in processed_links:
                     print(f'Fetching content for: {url}')
                     content = fetch_article_content(url)
-                    processed_links.append(url)  # Add the URL to the deque
-                    file.write(content + '\n\n----------------\n\n')
-            # Write only the last 100 processed links back to the file
-            with open(processed_links_file, 'w', encoding='utf-8') as processed_file:
-                for link in processed_links:
-                    processed_file.write(link + '\n')
+                    if content != 'Article content not found or extraction failed.':
+                        existing_contents.append(content)
+                        processed_links.append(url)
+            
+            # Write the updated contents back to the file
+            file.write('\n\n----------------\n\n'.join(list(existing_contents)[-300:]))
+            # Update the processed links file
+            processed_file.write('\n'.join(list(processed_links)[-300:]))
     else:
         print(f'Failed to retrieve links file. Status code: {response.status_code}')
 
