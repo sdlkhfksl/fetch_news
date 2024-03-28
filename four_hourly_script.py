@@ -48,7 +48,7 @@ def fetch_and_write_article_contents(links_file_url, output_file, processed_link
         links = response.text.strip().split('\n')
         try:
             with open(processed_links_file, 'r', encoding='utf-8') as f:
-                processed_links = deque(f.read().split('\n'), maxlen=100)
+                processed_links = deque(f.read().split('\n'), maxlen=300)
         except FileNotFoundError:
             processed_links = deque(maxlen=100)
         with open(output_file, 'w', encoding='utf-8') as file:  # Open the file in write mode to overwrite existing content
