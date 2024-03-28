@@ -3697,3 +3697,618 @@ Starting April 2, 750 million ENA or 5% of the total supply, will get airdropped
 
 ----------------
 
+Casa Launches Global Inheritance Solution for Secure Digital Asset Transfer | Cryptopolitan
+
+Casa, a leading provider of self-custodial digital asset solutions, is taking a significant step forward by making its innovative inheritance product available to customers worldwide. This move aims to address what Casa identifies as the most pressing issue in self-custody: ensuring the safe transfer of digital assets, such as bitcoin, ether, and stablecoins USDT and USDC, to heirs.Simplifying Crypto inheritanceThe Casa Inheritance feature offers a streamlined approach to passing on digital assets. It stands as a robust alternative to traditional methods involving custodial providers or hardware wallets, which are often criticized for their vulnerability to loss. The company highlights a staggering $140 billion in bitcoin lost, largely due to misplaced keys, underscoring the need for a more secure solution.Previously exclusive to U.S. investors with significant bitcoin investments,the company’s expanded service builds upon its multi-key vault technology. This technology allows members to set up secure, conditional access to their digital vault for a chosen recipient, such as a family member, trustee, or estate executor, starting at $250 per year.How Casa inheritance worksCasa’s multi-key vaults enhance security by distributing control over assets across up to five keys, offering a more secure alternative to single-key solutions. This setup was extended last year to include ether and stablecoins alongside bitcoin, in response to client demand and technical advancements in Ethereum support.The multi-signature (multisig) approach requires approvals from multiple devices for transactions, safeguarding funds even if one key is compromised. Casa also provides an emergency recovery service, holding a backup key for users, adding an extra layer of security.To utilize the inheritance feature, members grant conditional access to their vault and share encrypted, locked keys with a designated recipient through the Casa app. In the event of the member’s incapacitation, the recipient can initiate a transfer request. This request triggers a six-month waiting period, during which Casa attempts to notify the member of the pending transfer. Only after this period does the recipient gain access to the vault.Beyond spot ETFsCasa’s commentary on the recent launch of U.S. spot Bitcoin ETFs is critical, noting that while these funds offer a convenient way to include bitcoin in retirement accounts or other regulated investment vehicles, they miss out on bitcoin’s core value proposition as truly ownable digital money. This, according to Casa, can only be fully realized through self-custody.The company also points out the centralization risks associated with spot Bitcoin ETFs, many of which rely on a single custodian, such as Coinbase, for the custody of bitcoin. Casa co-founder and CEO Nick Neuman emphasizes the growing trend among sophisticated investors towards self-custody for safeguarding generational wealth, especially for those viewing bitcoin as a long-term hedge against the financial system. Casa’s global expansion of its inheritance solution marks a critical development in the digital asset space, offering a secure and user-friendly option for managing the transfer of crypto assets across generations.
+
+
+----------------
+
+Top Analyst Says Ethereum Rival Looks Turbo Bullish, Updates Outlook on Arbitrum and Solana-Based Memecoin - The Daily Hodl
+
+
+								A top trader who accurately called Bitcoin’s (BTC) floor price during the 2018 bear market says one Ethereum (ETH) challenger looks extremely bullish.
+Pseudonymous analyst Bluntz tells his 251,100 followers on the social media platform X that he expects the native asset of the layer-1 protocol Near (NEAR) to rally to a level last seen in May 2022.
+
+
+
+
+
+
+
+
+
+
+According to the analyst, NEAR appears to be in the midst of a five-wave surge that could see the altcoin soaring close to $10 in a matter of days.
+“NEAR looks turbo bullish here IMO (in my opinion), clear ABC down from the highs, spent all weekend accumulating and now breaking out.
+Should be one of the first to make new highs IMO.” 
+Source: Bluntz/X
+Bluntz uses the Elliott Wave theory to predict the future price action of crypto assets. According to the theory, a bullish asset tends to witness a five-wave rally after completing an ABC corrective move.
+At time of writing, NEAR is worth $7.60, an increase of over 3% in the past day.
+The trader is also keeping a close watch on the Ethereum scaling solution Arbitrum (ARB). Bluntz says ARB is flashing multiple bullish reversal signals on the daily chart.
+“ARB not only looks like a nice clear as day ABC down but there’s also a daily bullish divergence now on that daily close print.
+ETH beta about to get some love again IMO.” 
+Source: Bluntz/X
+Traders often watch out for assets that give off a bullish divergence reading. It suggests that a bullish reversal is in sight as the asset gains momentum despite the price trending down or sideways.
+At time of writing, ARB is worth $1.70.
+Bluntz says he’s also expecting rallies for the Solana (SOL)-based meme token Slerf (SLERF).
+“Initial hype and first pullback on SLEF looks over. Took a punt now it’s cooled off.” 
+Source: Bluntz/X
+At time of writing, SLERF is worth $0.767, up over 17% in the last 24 hours.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on Twitter, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Ethereum ‘BlobScriptions’ lift off and it’s taking Blob fees with it
+
+A viral new method for minting data to the Ethereum blockchain dubbed “BlobScriptions” is pushing up the price of Blob fees — the amount required for a blob to be included in an Ethereum block. BlobScriptions were introduced on March 27 by a protocol called Ethscriptions, allowing users to inscribe data — from JPEGs to text — directly onto “blobs,” which were introduced to the Ethereum network as part of the network’s Dencun upgrade on March 13. Less than five hours after the introduction of BlobScriptions, the gas fees for Blobs soared as high as 585 gwei — equivalent to roughly $18, according to data from Ultrasound.money.This was a far cry from the average gas price for minting data on a blob before BlobScriptions, which averaged around one wei, equivalent to a tiny fraction of $0.01. Blob fees soared following the introduction of BlobScriptions. Source: Ultrasound.moneyHowever, Blob fees have since fallen considerably from its newly notched high. At the time of publication, blob fees are running at 35.8 gwei, equivalent to $1.20, per Coinbrain conversion data. Meanwhile, users have made over 4,500 inscriptions on blobs since the introduction of BlobScriptions, according to Dune Analytics data. In a March 27 post to X, Ethscriptions founder Tom Lehman — who goes by the alias Middlemarch — noted the spiking cost of “blobspace,” and urged users to mint BlobScriptions via the official blobscription protocol. Source: MiddlemarchMuch in a similar way to the early days of Bitcoin Ordinals, Ethereum users are opting to mint small pieces of text and seemingly random assortments of images to blobs, with the most recent activity on blobscription.io showing hundreds of new images added in the last few hours. Ethereum users are flooding the protocol to mint data on blobs. Source: BlobScriptionsNotably, blob data is only stored on Ethereum nodes for around 18 days meaning that after that period, BlobScriptions data will be removed from the network. However, Lehman added that the Ethscriptions indexer would store the data “indefinitely.” Related: Starknet targets increased throughput, lower fees with parallel transactions in 2024Blobs were introduced by way of EIP-4844 — a core data-saving feature of Ethereum’s Dencun upgrade — which was focused primarily on reducing transaction costs on layer-2 networks by a significant margin.Transaction fees on Ethereum L2s fell drastically following the Dencun upgrade, with swap fees on Arbitrum plunging from around $1.25 to below $0.02, while Polygon fees fell by a similar amount. As a way of lauding the decreased fees that came with blobs, one developer Ethereum managed to mint the entire script of the Bee Movie on an Ethereum blob less than 15 minutes after the upgrade went live all for less than $13 in ETH gas fees. Magazine: 5 dangers to beware when apeing into Solana memecoins
+
+
+----------------
+
+Shiba Inu Scores Another Major Exchange Listing Amid Recovering Prices | Bitcoinist.com
+
+
+								Shiba Inu has gained another remarkable milestone by scoring a major listing on Bit.com.au, an Australian cryptocurrency exchange. This achievement adds to SHIB’s growing list of accomplishments, reflecting the cryptocurrency’s recent surge in momentum and impressive performances.
+Australian Crypto Exchange Lists SHIB
+On Monday, March 25, Bitcoin.com.au officially announced the listing of Shiba Inu’s native token, SHIB on its platform. This move comes as part of the Australian exchange’s efforts to expand its cryptocurrency offerings and cater to the growing demand for cryptocurrencies among Australian investors.
+
+Interestingly, Bitcoin.com.au is a cryptocurrency exchange that has been operating since 2015, providing crypto trading services to thousands of users in Australia. The exchange’s decision to list Shiba Inu reflects its recognition of the cryptocurrency’s rising popularity and future potential. 
+Recently, SHIB has been gaining traction, growing rapidly in popularity in different regions globally. The cryptocurrency has also recorded a position as one of the top most searched digital currencies on Google, second to Bitcoin in regions like Europe. 
+Due to the meme coin’s increasing popularity, many exchanges including Binance, Coinbase, and Bybit have listed it on its platform. Additionally, its growing interest among traders and investors effectively underscores the cryptocurrency’s burgeoning potential and appeal. 
+In addition to Shiba Inu, Bitcoin.com.au offers a plethora of other cryptocurrency options, including leading digital assets like Bitcoin (BTC), Ethereum (ETH), XRP, and Dogecoin (DOGE). 
+Shiba Inu Extends Its Reach Into Australian Markets
+Shiba Inu’s official integration into Bitcoin.com.au’s crypto offerings marks a significant achievement, as it provides Australian investors access to the popular doggy-themed meme coin. This development effectively extends the reach of Shiba Inu into the Australian markets, providing solid ground for more growth and development within the ecosystem. 
+With Australia being home to a surging cryptocurrency community, SHIB is poised to potentially gain widespread adoption as investors delve into the opportunities available in the cryptocurrency. Additionally, Bitcoin.com.au may benefit from new users as well as Shiba Inu’s large community of investors and supporters. 
+This listing also comes at a time when Shiba Inu has been experiencing a resurgence in prices and investor interest. In the past month, the cryptocurrency has surged by approximately 215.32%, pushing its price up to about $0.00003, at the time of writing. 
+Despite previous market fluctuations, SHIB has demonstrated resilience and has continued to capture the attention of investors and traders globally. As the cryptocurrency continues to achieve new milestones in expanding its presence, its listing on Bitcoin.com.au further solidifies its position as a prominent player in the digital asset landscape.
+
+SHIB price begins another recovery trend | Source: SHIBUSDT on Tradingview.com
+Featured image from Coin Chapter, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Hashdex and Tidal partner to introduce groundbreaking Bitcoin ETF
+
+Maxwell especially enjoys penning pieces about blockchain and cryptocurrency. He started his venture into blogging in 2020, later focusing on the world of cryptocurrencies. His life's work is to introduce the concept of decentralization to people worldwide.
+
+----------------
+
+45 Days Until Altcoin Season: How to Prepare
+
+
+As the horizon brightens with the anticipation of another altcoin season, investors are on the lookout for the next big cryptocurrency. 
+With a diverse range of tokens gaining traction, the market is ripe with opportunities for those willing to dive into the depths of blockchain technology and its myriad applications.
+45 Days Until Altcoin Season
+According to renowned analyst Rekt Fencer, altcoin season might be around the corner. This optimistic outlook suggests it is now the time to select the right low-cap cryptocurrencies, aiming for the elusive 100x returns that many dream of.
+For this reason, it is crucial to understand the sequence of a typical bull run. Ran Neuner, a South African entrepreneur, explained that altcoin season traditionally starts with a surge in the price of Bitcoin. This is followed by Ethereum and then high-cap cryptocurrencies such as Solana and Avalanche. 
+
+“[Bitcoin is] attacking the all-time high with huge momentum. Now, the reality is that as soon as that all-time high is breached [again], and it could happen as soon as today, it is like the gun goes off for altcoins, and the race begins,” Neuner said.
+
+Neuner pointed out that becuase Bitcoin surpassed its previous all-time high, altcoins could also reach new highs about 70 days later. It is worth noting 22 days following Bitcoin’s peak, altcoins often undergo a correction period. 
+
+Read more: Which Are the Best Altcoins To Invest in April 2024?
+Bitcoin vs Altcoins Market. Source: TradingView
+The crypto market is currently 14 days into this correction phase, and the market is beginning to recover. This pattern suggests that if the cycle continues as it has historically, altcoins season could start in approximately 45 days.
+
+“To see how far [altcoins] have to go between now and hitting the all-time, that means that altcoins need to go up by 50%. Do you understand how violent a move of 50% in the next 45 days is going to be? It’s face melting,” Neuner emphasized.
+
+Meanwhile, Rekt Fencer highlighted that the low-cap coins and meme coins could benefit the most, albeit the higher risk. He said that achieving 2x to 10x gains is common, especially, in the early stages of altcoin season. 
+The Cryptocurrencies to Watch
+To navigate altcoin season, investors are advised to build a diversified crypto portfolio, stick to their investment narratives, and exercise patience. 
+
+Rekt Fencer shared a list of six under-the-radar altcoins that may have significant potential. Leading the pack is Polyhedra Network (ZK), a project focused on Web3 interoperability, scalability, and privacy through zero-knowledge proof technology. With a market cap of $286.3 million and a current price of $3.14, Polyhedra presents an interesting entry point.
+Not to be overlooked, the quirky meme coin Wolf Wif Ballz (BALLZ) continues to charm its way through the Solana ecosystem. With its blend of humor and investment potential, BALLZ, priced at $0.05 and boasting a $50.2 million market cap, exemplifies the unpredictable nature of meme coins.
+Portal (PORTAL) emerges in the GameFi space, offering a cross-chain gaming ecosystem that bridges disparate blockchain networks. Coupled with staking rewards, PORTAL, at $2.07 and a $306.6 million market cap, is crafting a new narrative for gamers.
+Read more: 11 Best Altcoin Exchanges for Crypto Trading in March 2024
+
+Portal Price Performance. Source: TradingView
+Meanwhile, Boson Protocol (BOSON) enables the tokenization, transfer, and trade of physical goods as NFTs. BOSON, priced at $0.68 with an $83.1 million market cap, aims to revolutionize the perception of value and ownership in the digital age.
+Finally, the market of artificial intelligence in crypto is led by pioneers such as VoluMint (VMINT) and Monai (MONAI). These projects leverage AI to enhance trading activity and integrate LLMs with blockchain protocols, respectively.
+In preparing for the upcoming altcoin season, investors should conduct thorough research, consider diversifying their portfolios, and remain cognizant of the risks associated with cryptocurrency investments. With the right strategy and a bit of patience, the next few months could be transformative for the savvy crypto investor.
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Could PEPE Price Hit New Highs as Exchange Supply Drops?
+
+
+PEPE supply on exchanges saw a significant drop in just one day, signaling that holders anticipate a rise in value, as an increasing Mean Coin Age suggests a lack of selling pressure and a phase of accumulation. 
+Though EMA lines don’t show a strong bullish trend, they indicate potential consolidation, setting the stage for a possible price surge. Despite a 442.77% increase this year, PEPE price struggles to surpass and maintain above the $0.0000080 threshold.
+PEPE Supply On Exchanges Triggered An Important Signal
+Between March 25 and March 26, the PEPE supply on exchanges experienced a significant reduction, dropping from 180.7 trillion to 178.7 trillion. 
+Such a sizable decrease in supply available for trading can have a substantial impact on PEPE’s price, primarily due to the principles of supply and demand. When the supply of PEPE on exchanges diminishes, but demand remains constant or increases, it naturally leads to upward pressure on the price. 
+PEPE Supply on Exchanges. Source: Santiment.
+Historically, a precedent for this scenario occurred when a similar reduction in supply was promptly followed by a notable price surge—from $0.000008 to $0.0000106 in just one day. 
+
+This pattern suggests that the recent drop in exchange supply could be a precursor to another significant price increase for PEPE, as reduced availability on trading platforms may prompt a spike in buying interest and price.
+Read More: How to Buy Pepe (PEPE) With a Credit Card: A Step-by-Step Guide
+PEPE Mean Coin Age Suggests Accumulation
+Since the beginning of March, the Mean Coin Age for PEPE has been on a consistent upward trajectory. Mean Coin Age measures the average age of all coins in a network, calculated from the time they were last moved. 
+This metric serves as an indicator of investor behavior. A growing Mean Coin Age suggests that holders are increasingly opting to hold onto their coins rather than sell them, indicating a period of accumulation. This trend is generally seen as a bullish signal for the cryptocurrency, as it implies a strong holding sentiment among investors and a potential decrease in selling pressure, which can lead to price increases.
+PEPE Mean Coin Age. Source: Santiment.
+The Mean Coin Age has shown stability in the last three days, hinting that PEPE may be entering a consolidation phase. Consolidation periods often precede significant market movements as they reflect a balance between supply and demand before a new trend emerges. 
+
+This stabilization of Mean Coin Age, therefore, could be an early indicator that PEPE is gearing up for the next phase of price surges, as the market consolidates and prepares for future volatility.
+PEPE Price Prediction: Can It Surpass Beyond $0.000011?
+On March 14, PEPE reached its all-time peak, hitting a remarkable price of $0.0000106. Since reaching this pinnacle, it has encountered challenges in maintaining its value above the $0.0000080 mark, showing signs of struggle in the market.
+Currently, three out of the four Exponential Moving Average (EMA) lines for PEPE are converging, aligning closely with the current price trajectory. This convergence, especially with short-term EMA lines positioned above the longer-term counterparts, sends a bullish signal to investors. This alignment suggests that the PEPE price might be stabilizing, potentially entering a phase of consolidation as market participants gauge their next moves.
+
+PEPE 4-Hour Price Chart and EMA Lines. Source: TradingView. 
+Exponential Moving Averages (EMA) focus more on recent data, making them quicker to react than Simple Moving Averages (SMA). They give more weight to the latest prices, decreasing this weight for older data.
+Read More: Pepe (PEPE) Price Prediction 2024/2025/2030
+Rising supply on exchanges and Mean Coin Age for PEPE show holders want to keep their assets. They expect gains, setting PEPE up for potential price increases. If PEPE breaks the $0.0000085 level, it may reach $0.000011 for the first time. However, if it falls below $0.0000070 support, the price could dip to $0.0000049.
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+XRP Ledger and Version 2.1.1 Update | Cryptopolitan
+
+The XRP Ledger community is showing advancements with it’s rollout of version 2.1.1 of rippled, the foundational server software of the ledger. The update marks an important moment in the ledger’s ongoing development.XRP introduces critical bug fixThe main thing for the version 2.1.1 update is the introduction of the fixAMMOverflowOffer amendment. The amendment was able to  address a critical bug that previously impacted the ledger’s payment engine in its dealings with AMMs. the issue has now been dealt with, the XRP Ledger wants to streamline the processing of transactions.  It also has a range of digital assets that include names like Bitcoin, ether, and popular stablecoins such as USDT and USDC. The necessity of this fix is vital, it directly influences the ledger’s ability to facilitate seamless and secure transactions. The integration of AMMs with the payment engine is a complex process. The presence of bugs has decreased the efficiency and security of the transactions. Now with an estimated $140 billion in bitcoin lost due to misplaced keys and other security issues, the importance of robust security measures in the digital asset space is clearer than ever. The fixAMMOverflowOffer amendment is a proactive step towards mitigating these risks and enhancing the overall integrity of the XRP Ledger.Participation and upgrade requiredThe amendment has to have over 80% support. This support is needed from trusted validators for any protocol changes. The voting phase for the fixAMMOverflowOffer amendment is currently underway. With the ledger’s developers setting the default vote to YES in the source code, this highlights the critical nature of this update. Server operators are encouraged to actively participate in this process and to configure their validators accordingly to support the network’s evolution.To ensure the continued smooth operation of the XRP Ledger and to partake in its latest advancements, server operators are urged to upgrade to version 2.1.1 by the specified deadline of April 8, 2024. This upgrade is essential not only for maintaining service continuity but also for contributing to the ledger’s collective security and efficiency. The decentralized nature of the XRP Ledger means that such updates are crucial for the network’s health and the trust of its users.Installation and supportFor those in the XRP Ledger community looking to install or upgrade to version 2.1.1, comprehensive instructions and support are readily available. The update is compatible with various platforms, ensuring that a wide range of users can easily access and implement the new version. This accessibility is key to the ledger’s mission of fostering an inclusive and user-friendly environment for digital asset management and transactions.The move has been set to expand support for ether and stablecoins.By continuing to evolve and adapt to the needs of its users, the XRP Ledger reinforces its position as a leading platform in the blockchain space, dedicated to innovation and security.
+
+
+----------------
+
+Coinbase Wallet triumph over SEC allegations is a ‘giant win’ for DeFi
+
+Crypto lawyers are hailing a recent decision by a United States judge to dismiss allegations against Coinbase Wallet as a win for self-custody wallets and decentralized finance (DeFi) apps.U.S. District Judge Katherine Failla on March 27 denied Coinbase’s bid to dismiss a Securities and Exchange Commission’s lawsuit, finding the SEC “sufficiently pleaded” Coinbase was unlicensed and its crypto staking offering was unregistered securities.The judge also determined the SEC failed to allege that Coinbase conducted brokerage activity through Coinbase Wallet — its self-custody crypto wallet app giving users full control of their assets.“[This] is a pretty giant win for browser-based wallet extensions, application front ends, and other similar applications,” said Ethena Labs general counsel Zach Rosenberg in a March 27 X post.“[It’s] not just that Coinbase won, but the basis for it,” Rosenberg emphasized. He explained that Coinbase helping Wallet users find token prices doesn’t mean it’s acting as a broker by “routing or making recommendations.”
+
+
+The court order could be used by DeFi app developers facing similar lawsuits to argue their way out of allegations they acted as an unregistered broker.Industry advocate body the Blockchain Association legal head Marisa Tashman Coppel posted she was “very pleased to see the court curb massive SEC overreach with regard to the Coinbase Wallet allegations.”Law firm Willkie Farr & Gallagher partner Mike Selig said in an X post the Coinbase Wallet dismissal was a “significant setback” for the SEC. “SEC aimed to discourage builders from developing peer-to-peer software. Didn’t work.”Crypto venture firm Variant legal chief Jake Chervinsky said, however, that while there are “some positives” in the judge’s order — “overall, SEC wins.”Related: US lawmakers demand SEC clarify position on Prometheum’s plans for Ether“It’s great for DeFi that Wallet is not a broker, and there’s good language on other issues,” he said. “But the court sided with the SEC (incorrectly, [in my opinion]) on several key issues.”Chervinsky explained Judge Failla said the Howey test — a legal framework to classify securities — applies to “purely secondary market transactions” and ignores the “‘contract’ in ‘investment contract.’”He claimed the court also adopted the SEC’s theory that a token project using sale profits to re-invest into its ecosystem is a “common enterprise” where buyers would reasonably expect profits — making it a security.“This is a disappointing outcome,” Chervinsky said. “But it’s only the beginning — not the end — of the SEC’s case against Coinbase specifically.”The case will now continue into discovery — where Coinbase and the SEC collect evidence for their arguments.The SEC first sued Coinbase in June last year, alleging it listed 13 tokens the regulator deemed securities and operated as an unlicenced exchange and broker-dealer, which Coinbase denies.X Hall of Flame: Coinbase ‘is going to win’ says MetaLawMan
+
+----------------
+
+Ethereum spot ETF could still be possible even if ETH is classified as a security: BlackRock CEO - Crypto Briefing
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefing's own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+----------------
+
+Edward Snowden Predicts SEC Will 'Lose So Hard In Court' against Coinbase: Gensler Had To Approve Bitcoin ETFs 'With Tears In His Eyes' - Coinbase Glb (NASDAQ:COIN) - Benzinga
+
+Whistleblower and Bitcoin BTC/USD supporter Edward Snowden isn’t bothered by the U.S. Securities and Exchange Commission’s latest legal wrangling with Coinbase Global Inc. COIN.What Happened: Snowden’s comment came in response to a tweet about a court ruling allowing the SEC to proceed with its lawsuit against Coinbase. The former National Security Agency contractor tweeted, “This doesn’t bother me. If the SEC keeps acting in bad faith like this, they’re going to lose so hard in court that they’ll never be able to do this to anyone ever again.”The post on X, formerly Twitter, also recalled a past incident where the SEC Chair Gary Gensler had to approve Bitcoin ETFs following a legal defeat.“Remember when the SEC got spanked so badly that Gensler had to approve BTC ETFs with tears in his eyes?”See Also: Here’s How Much $100 In Bitcoin Could Be Worth In 2030 If Cathie Wood’s New Price Target Is ReachedWhy It Matters: The SEC filed a lawsuit against Coinbase in June 2023, accusing the exchange of operating as an unregistered securities dealer. The court recently rejected Coinbase’s motion to dismiss the SEC’s allegations, marking a significant setback for the company. Snowden, a known supporter of Bitcoin, has previously called it the most significant monetary advancement since the invention of coinage. He has also predicted that a national government will be revealed this year to have been buying Bitcoin without disclosing the fact. Price Action: Coinbase shares ended the regular session 3.79% lower at $256.70. The shares were up nearly 0.9% in the after-hours trading. Bitcoin was seen trading 1.12% lower at $69,725.02.Photo Courtesy: Wikimedia CommonsRead Next: Bitcoin, Ethereum, Dogecoin Register Little Change Amid Bullish Momentum: Analyst Says $160K Could Be A ‘Conservative’ Price Target For King Crypto
+    
+        
+        
+        
+            Engineered by Benzinga Neuro, Edited by 
+                Shivdeep Dhaliwal
+            
+        
+        
+        
+            The GPT-4-based Benzinga Neuro content generation system exploits the extensive Benzinga Ecosystem, including native data, APIs, and more to create comprehensive and timely stories for you.
+            Learn more.
+        
+        
+    
+
+
+----------------
+
+Russian Government, Central Bank ‘Come to Crypto Consensus ’
+
+
+                        
+                            Russian Government, Central Bank ‘Come to Consensus on Crypto’                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              March 27, 2024 19:30 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Russian government bodies, the nation’s anti-money laundering agency, and the Central Bank have reportedly “come to a consensus” on crypto policy.The breakthrough could finally put an end to a long-standing crypto impasse in Moscow. It could also see Russia belatedly start regulating the crypto sector.Russian Government’s Crypto ‘Breakthrough’
+According to the media outlet RBC, the Ministry of Finance, the Central Bank, and Rosfinmonitoring have “agreed on an approach to regulating cryptocurrencies.”Rosfinmonitoring is the country’s anti-money laundering and counter-terrorism financing agency. It has recently called for Moscow to fast-track crypto regulations after the Financial Action Task Force (FATF) downgraded Russia’s compliance rating.The FATF noted that Russia had adopted “insufficient regulation of virtual assets and cryptocurrencies” at a February 23 plenary meeting.The Ministry of Finance and the Central Bank have been at loggerheads over crypto policy for years.The ministry wants to regulate crypto and legalize industrial mining. It also wants to let Russian firms use crypto as an international payment tool.Miners this month petitioned ministries in a third concerted effort to have their industry placed on an official register of licensed business activities.Ministries have responded “positively,” Russian reports have claimed. However, the Russian government is not united on the matter.The nation’s trade and industry ministry is reportedly unhappy with the proposal.However, the acting director of the Financial Policy Department of the Ministry of Finance, Alexey Yakovlev, said “both the state and market participants” were interested in legalizing the industry.Miners have claimed Moscow can expect to raise millions of dollars worth of tax every year from their booming industry.They have also claimed that if Moscow nurtures their industry, Russia will be able to displace the United States as the world’s biggest crypto mining power.Anton Siluanov (left), Russia’s Minister of Finance. (Source: Studio Production/YouTube)Third Time Lucky for Russian Crypto Miners?
+The Ministry of Finance has reportedly begun drafting a bill that will deal with matters related to crypto mining.The same ministry’s last attempt to create a crypto bill resulted in abject failure in 2022, when the Central Bank countered with its own rival bill.The crypto-skeptic Central Bank’s 2022 bill proposed a China-style ban on almost all forms of crypto-related activities.Crypto Consensus Forming in Moscow?
+However, Yakovlev offered hope. He said that both the bank and Rosfinmonitoring were “consulting” with the ministry on the draft bill.Yakovlev said the bill would address matters including how miners must handle coins. The bank has previously said it will only countenance crypto mining if miners swap their coins for fiat on overseas crypto trading platforms.Law enforcement agencies have expressed their destain for this plan, saying that it will “open the door to money laundering.”RBC also quoted a Ministry of Finance spokesperson as “expressing the hope” that the State Duma would “be able to consider a bill on the regulation of cryptocurrencies” in the current session.Yakovlev has previously said it “would be pointless” for the Russian government to “attempt to ban crypto mining.”In March 2022, he poured cold water on ministry proposals to ban “private” mining – and “legalize” industrial the mining sector.
+                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+$9.5 Billion In Bitcoin Options Poised To Expire This Friday: Market Turbulence Ahead?
+
+
+                            This Friday, the spotlight is turned to Deribit, the leading crypto derivatives exchange, as it gears up for a notable event in its trading history. Particularly, the exchange is poised to witness the expiration of over $9.5 billion in Bitcoin options open interest.
+For context, Open interest refers to the total number of outstanding derivative contracts, such as futures or options, that have not been settled or closed. It represents the number of contracts market participants hold at the end of each trading day. 
+This surge in open interest recorded by Deribit reflects increased market participation and signals heightened liquidity, marking a notable milestone in the crypto derivatives landscape.
+
+Record-Breaking Open Interest
+Notably, this event is significant in two ways: It underscores the growing interest in Bitcoin as an asset class and highlights the increasing “sophistication” of the cryptocurrency market. This is because Open interest can also serve as a critical indicator of market health and trader sentiment. 
+As such, the record levels of open interest set to expire on Deribit suggest a “vibrant” trading environment, with more investors engaging in complex financial instruments like options.
+According to Deribit data, the exchange is set to host one of its largest option expiries ever, with $9.5 billion worth of Bitcoin options poised for expiry at the end of the month. This figure represents a substantial portion, approximately 40%, of the exchange’s total options open interest, which stands at $26.3 billion. 
+Bitcoin Open Interest By Expiration. | Source: Deribit
+The magnitude of this expiry event eclipses previous months, with January and February end-of-month expiries totaling $3.74 billion and $3.72 billion, respectively. This trend indicates a large increase in market activity and investor engagement on the platform.
+Implications Of The Bitcoin Expiry
+The upcoming expiry has notable implications for the market, especially considering the current pricing dynamics of Bitcoin. 
+With Bitcoin’s spot price hovering below $70,000, an estimated $3.9 billion of the open interest is expected to expire “in the money,” according to Deribit analysts, presenting profitable opportunities for holders of these options contracts. 
+The “max pain” price, which represents the strike price at which the highest number of options would expire worthless, thereby causing the maximum financial loss to option holders, is identified at $50,000.
+Bitcoin Open Interest by Strike Price. | Source: Deribit
+According to the analysts, this scenario suggests that a significant number of traders are positioned to benefit from the current market conditions, potentially leading to “increased buying activity” as these options are exercised.
+Additionally, Deribit analysts speculate that the high level of “in-the-money expiries” could exert upward pressure on Bitcoin’s price or amplify market volatility. They added that as traders “hedge their positions” or “speculate on future price movements,” the market may witness a flurry of activity, impacting Bitcoin’s price trajectory in the short term.
+
+This comes at a time when Bitcoin has experienced a slight retracement from its recent all-time high above $73,000, with the price adjusting to approximately $68,946, at the time of writing
+BTC price is moving sideways on the 4-hour chart. Source: BTC/USD on TradingView.com
+Featured image from Unsplash, Chart from TradingView
+                                                        
+                                                        
+                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
+                                                                                        
+                                                            
+                                                    
+                    
+
+----------------
+
+Cardano [ADA] starts bull run as XRP lags behind - What's going on? - AMBCrypto
+
+
+
+Stagnant ADA tokens decreased, which is a bullish sign for the long term.
+XRP remained rangebound even as the MDIA fell.
+
+Bitcoin [BTC] was trading at $70.2k at press time, under 5% beneath its all-time high of $73.7k, as ETF inflows had another strong day.
+A Santiment post on X (formerly Twitter) noted that previously dormant wallets were getting active and bringing older BTC into circulation.
+This behavior is one of the “primary ingredients” for a bull run, Santiment’s tweet said. AMBCrypto used this metric to analyze Cardano [ADA] and Ripple [XRP] to understand whether their bull run has begun too.
+Cardano is off the marks
+The Mean Dollar Invested Age (MDIA) is the metric that both Santiment and AMBCrypto referred to earlier. It is slightly different from the mean coin age metric.
+The difference is that the mean dollar invested age accounts for the purchase price of the dormant BTC (or any other asset).
+An uptrend in an asset’s MDIA is considered normal and reflects the coins getting increasingly dormant over time. Holders prefer to hold, which is generally a good thing.
+However, when this happens for months at a time or longer, there is some stagnancy in the network. This is concerning because it would make it harder for prices to continue to rise.
+When the MDIA falls, it shows previously dormant coins waking up. In the long term, as prices trend higher, investors want to see the MDIA metric trend lower.
+
+The Cardano MDIA (5 years) has been on an uptrend since July 2021. In early March, the metric fell lower as if off a cliff. This was good news for long-term investors.
+Less stagnant ADA is generally associated with the beginning of a strong bull run that could last many months.
+The last time the MDIA of Cardano maintained a steady downtrend was in July 2020. ADA prices surged from $0.09 to $3.1 before correcting.
+During the price’s uptrend, the weekly RSI also formed a series of lower highs. This is technically a bearish divergence, but is not a signal to use for trading during the price discovery phase.
+As things stand, this set of lower highs was not present on the weekly RSI.
+While XRP investors fret
+
+XRP also saw a downtrend in its MDIA metric from September 2020 to April 2021. This began to reverse and prices trended lower.
+This trend strengthened the deeper it got into the bear market, signaling accumulation as prices slid.
+Like ADA, XRP also saw a sharp fall in the MDIA. However, this occurred in early December 2023, and the metric has trended higher since.
+The precipitous drop not followed by an uptrend could be from profit-taking activity or vast selling pressure from whales.
+
+Is your portfolio green? Check out the ADA Profit Calculator
+
+The MDIA alone is not enough to glean information on exactly where XRP is in the current cycle. Its uptrend since January hinted strongly that an accumulation phase was underway.
+XRP remained within a range and was unable to break the $0.7 key resistance level. The uptick in MDIA could be followed by a true bull run in the coming months.
+
+
+
+
+
+
+----------------
+
+Base to host more Coinbase USDC assets amid growth surge
+
+Maxwell especially enjoys penning pieces about blockchain and cryptocurrency. He started his venture into blogging in 2020, later focusing on the world of cryptocurrencies. His life's work is to introduce the concept of decentralization to people worldwide.
+
+----------------
+
+Gaming Platform Exploit Ends With $62M In Crypto Returned
+
+
+								In the late hours of Tuesday, the crypto community saw another exploit. Munchables, the Ethereum Layer-2 NFT gaming platform, reported being compromised on an X post.
+The crypto heist, which momentarily stole over $62 million, took a shocking turn of events after the attacker’s identity opened a Pandora’s box.
+
+Crypto Developer Turns Hacker
+Yesterday, Munchables, a gaming platform powered by Blast, suffered a security breach that resulted in the theft of 17,400 ETH, worth around $62.5 million. Immediately after the X announcement, crypto detective ZachXBT revealed the sum stolen and the address where the funds had been sent.
+It was later informed that the crypto heist had been an inside job instead of an external one, as one of the project’s developers seemed to be responsible.
+Solidity developer 0xQuit shared on X concerning information about Munchable. The developer pointed out that the smart contract was a “dangerously upgradeable proxy with an unverified implementation contract.”
+
+
+The exploit seemingly wasn’t “nothing complex” as it consisted of asking the contract for the stolen funds. However, it required the attacker to be an authorized party, confirming that the heist was a scheme carried out inside the project.
+After a deep dive into the matter, 0xQuit concluded that the attack had been plotted since deployment. Munchable’s developer used the contract’s upgradable nature to “assign himself an enormous ether balance before changing the contract implementation to one that appeared legit.”
+The developer “simply withdrew the balance” when the total value locked (TVL) was high enough. DeFiLlama data shows that, before the exploit, Munchables had a TLV of $96.16 million. At writing time, the TVL has plummeted to $34.05 million.
+As reported by BlockSec, the funds were sent to a multi-sig wallet. The attacker eventually shared all private keys with the Munchables team. The keys gave access to $62.5 million in ETH, 73 WETH, and the owner key, which contained the rest of the project’s funds. According to Solidity developer’s calculations, the total amount neared $100 million.
+
+
+Change Of Heart Or Fear Of The Crypto Community?
+Unfortunately, crypto exploits, hacks, and scams are common in the industry. Most play out similarly, with hackers taking massive sums and investors looking at their empty pockets.
+This time, the incident turned out more thrilling than usual, as the identity of the developer-turned-hacker untangled a web of lies and deception. As ZachXBT suggested, Munchable’s rogue developer was North Korean, seemingly tied to the Lazarus group.
+However, the movie doesn’t end there: the blockchain investigator revealed that four different developers hired by Munchables’ team were linked to the exploiter, and it seemed like they were all the same person.
+
+
+These developers recommended each other for the job and regularly transferred payments to the same two exchange deposit addresses, funding each other wallets. Journalist Laura Shin suggested the possibility of the developers not being the same person but different people working for the same entity, North Korea’s government.
+Pixelcraft Studios CEO added that he had done a trial hire with this developer in 2022. During the month the ex-Munchables developer worked for them, he exhibited practices “sketchy af.”
+The CEO believes that the North Korean link is possible. Additionally, he revealed that the MO was similar back then, as the developer tried to get “his friend” hired.
+An X user highlighted that the developer’s GitHub name was “grudev325,” pointing out that “gru” could be related to Russia’s Federal Agency for Foreign Military Intelligence.
+Pixelcrafts’s CEO commented that, at the time, the developer explained that the nickname was born after his love for the character Gru from the Despicable Me movies. Ironically, the character in question is a supervillain who spends most of the movie trying to steal the moon.
+
+
+
+Whether he was trying to steal the moon and failed like Gru, the developer ultimately returned the funds without asking for “compensation.” Many users believe that the suspicious “change of heart” results from ZackXBT’s deep dive into the attacker’s web of lies and the threats made.
+This thriller ends with the crypto investigator’s reply to a now-deleted post. In his reply, the detective threatened to destroy the developer and all his “other North Korean devs hard on-chain your country has another blackout.”
+
+Ethereum is trading at $3,583 in the hourly chart. Source: ETHUSDT on Tradingview.com 
+Featured Image from Unsplash.com, Chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+BlackRock's BUIDL Ethereum Fund Draws $245 Million In a Week - Decrypt
+
+The Ethereum-based BUIDL fund from investing giant BlackRock has raised $245 million in Ethereum tokens since its launch last week. According to data from Etherscan, ten transactions have entered the BlackRock USD Institutional Digital Liquidity Fund, beginning with $5 million on March 20 when the BUIDL fund launched.Over the next seven days, an additional $239.8 million flowed into the ERC-20-based fund, including $92 million in Ondo Short-Term US Government Treasuries from the tokenized real-world asset platform Ordo Finance.“We’re excited to see BlackRock embracing securities tokenization with the launch of BUIDL, especially its broad cooperation with ecosystem participants,” Ordo Finance said in a blog post on Wednesday. “Not only does this further validate our original concept of a tokenized US Treasury fund, but it also bolsters our thesis that tokenization of traditional securities on public blockchains represents the next major step in the evolution of financial markets.”While not a stablecoin like USDT or USDC, BlackRock says the value of BUIDL is intended to remain 1 to 1 with the U.S. dollar, where 1 BUIDL equals $1. Cryptocurrency stablecoins aim to provide some stability in the often volatile cryptocurrency market and provide a pathway to exchanges for fiat or other tokens.BlackRock said the fund invests 100% of its assets in cash, U.S. Treasury bills, and repurchase agreements.BlackRock filed documents for the British Virgin Island-based BlackRock USD Institutional Digital Liquidity Fund with the U.S. Securities and Exchange Commission on March 14. News of the application renewed hope that a spot Ethereum ETF could be on the horizon despite the SEC's pushback on BlackRock’s iShares Ethereum Trust ETF.Last week, the SEC also delayed a decision on Grayscale’s Ethereum ETF until the end of May.According to data from the Real-World Assets (RWA) platform, BlackRock’s BUIDL ranks second after Franklin Templeton’s Franklin OnChain U.S. Government Money Fund, which has a market capitalization of $360.2 million. The Ethereum-based BlackRock BUIDL fund has a market capitalization of 106.5 million.Speaking to CNBC in January, BlackRock CEO Larry Fink laid out the case of crypto-based exchange-traded funds after the SEC approved the first Bitcoin ETFs.“I see value in having an Ethereum ETF,” Fink said at the time. “As I said, these are just stepping stones towards tokenization.”While there is strong interest in an Ethereum spot ETF, such an investment vehicle is unlikely to draw anywhere near as much interest as those now available for Bitcoin, which attracted $4.5 billion in their first day of availability.Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Ondo Finance Joins BlackRock Tokenized Fund As Inflows Surpass $160M
+
+
+                            BlackRock, one of the largest asset managers globally, has witnessed notable success with its newly launched tokenized money-market fund, BUIDL. The fund, which records shared ownership on the Ethereum (ETH) blockchain, has attracted over $160 million in just one week since its debut. 
+BlackRock’s BUIDL Fund
+According to a Bloomberg report, the BlackRock USD Institutional Digital Liquidity Fund (BUIDL) primarily invests in cash, US Treasury bills, and repurchase agreements. The fund rewards its holders with a cryptocurrency, BUIDL, valued at $1 per token. 
+Shareholders can transfer these tokens to other validated addresses using digital wallets approved by Securitize, BlackRock’s partner for the investment vehicle. The tokenized fund serves several key use cases, including treasury management for crypto companies, support for derivatives of Treasury bills, and acting as collateral for borrowing and trading, thus providing an alternative to stablecoins.
+
+It is worth noting that Securitize Markets, an SEC-registered alternative trading system, plays a critical role in facilitating the transfer of tokens between market participants. 
+While the SEC has recently increased its scrutiny of Ethereum’s native token, ETH, Securitize CEO Carlos Domingo emphasizes that the investigations should be separate from the underlying blockchain infrastructure. Domingo also highlights the battle-tested nature of the public Ethereum blockchain, which provides a “robust foundation” for tokenization activities.
+As previously reported by our sister website, Bitcoinist, BlackRock has emerged as an advocate for cryptocurrencies and tokenization within mainstream financial institutions. Chairman and CEO Larry Fink believes every financial asset will eventually be tokenized. 
+The company’s iShares Bitcoin Trust (IBIT) has already attracted more than $13 billion in inflows since its launch as an exchange-traded fund (ETF) in January. With the BUIDL fund’s launch, BlackRock continues to demonstrate its willingness to explore new digital asset solutions.
+Ondo Finance To Transfer $95 Million In Assets To BlackRock
+Ondo Finance, a platform specializing in tokenized real-world assets (RWA), has moved $95 million worth of assets to BlackRock’s BUIDL fund. This strategic move enables Ondo Finance to facilitate instant settlements for its US Treasury-backed token, OUSG. 
+This makes Ondo Finance a major participant in the BUIDL ecosystem. According to on-chain researcher Tom Wan, it currently holds $15 million worth of BUIDL tokens, which, in addition to those above $95 million, will result in a substantial $110 million worth of BUIDL tokens.  
+
+The researcher noted that this collaboration further strengthens the tokenized US Treasury market, with the potential to reach $1 billion in value. In its announcement, the team behind the Ondo Finance platform summarized:
+We’re excited to see BlackRock embracing securities tokenization with the launch of BUIDL, especially its broad cooperation with ecosystem participants. Not only does this further validate our original concept of a tokenized US Treasury fund, but it also bolsters our thesis that tokenization of traditional securities on public blockchains represents the next major step in the evolution of financial markets.
+ONDO’s price is trending upwards on the 4-hour chart. Source: ONDOUSD on TradingView.com
+At the time of writing, the native token of Ondo Finance, ONDO, is trading at $0.909, exhibiting a surge of over 4% within the past 24 hours. This positive momentum adds to its impressive price uptrend of 115% recorded over the past 30 days. 
+Featured image from Shutterstock, chart from TradingView.com
+                                                        
+                                                        
+                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
+                                                                                        
+                                                            
+                                                    
+                    
+
+----------------
+
+BlackRock CEO ’very bullish’ on Bitcoin as its ETF crosses $17B
+
+BlackRock CEO Larry Fink has been “pleasantly surprised” by the performance of his firm’s spot Bitcoin (BTC) exchange-traded fund (ETF) and has reiterated he's “very bullish” on the long-term viability of Bitcoin. “IBIT is the fastest growing ETF in the history of ETFs. Nothing has gained assets as fast as IBIT in the history of ETFs,” Larry Fink said in a March 27 interview with Fox Business.Fink said the iShares Bitcoin Trust’s (IBIT) performance has even “surprised” him at how well it has performed over the first 11 trading weeks.IBIT has a strong start to trading, tallying $13.5 billion in flows in the first 11 weeks, with an $849 million daily high on March 12, according to Farside Investors. IBIT averages a little over $260 million in inflows per trading day.“We’re creating now a market that has more liquidity, more transparency and I'm pleasantly surprised. I would never have predicted it before we filed it that we were going to see this type of retail demand,” Fink said.Asked whether IBIT would “do good, but not this good,” Fink responded: “Yes, definitely.”“I’m very bullish on the long-term viability of Bitcoin,” the BlackRock CEO added.
+
+
+IBIT currently holds $17.1 billion in Bitcoin, according to BitMEX Research, and took only two months to reach the $10 billion mark — a milestone that took the first gold ETF two years to reach.Of all the currently approved ETFs, IBIT only trails the Grayscale Bitcoin Trust in Bitcoin holdings — at $23.6 billion in BTC. Grayscale's Bitcoin holdings have continued to slip, however, down from 620,000 BTC it held before converting to a spot Bitcoin ETF.Source: BitMEX ResearchThe nine-spot Bitcoin ETF issuers (excluding Grayscale) now hold over $34.1 billion in Bitcoin, with IBIT, the Fidelity Wise Origin Bitcoin Fund (FBTC) and ARK 21Shares Bitcoin ETF (ARKB) leading inflows. Related: Bitcoin currently in ‘middle of the bull run’ — Grayscale reportMeanwhile, some industry pundits predict that some spot Bitcoin ETF issuers could eventually shut down due to a lack of profits.“Most of the current ETFs launched will never even break even as costs will only work if they get to billions of assets under management, which they won’t,” Hector McNeil, the co-CEO and founder of white-label ETF provider HANetf, recently told Cointelegraph.Several ETF issuers have lowered fees to try to be competitive against some of the bigger players. But these smaller issuers “face an uphill battle in entering this turf war of giants,” according to Bloomberg ETF analyst Henry Jim.“If they match fees, they won’t have enough revenue to survive, and if they don’t lower fees, they won’t be able to gather enough critical mass assets to survive.”Asset management firm Hashdex had its spot Bitcoin ETF approved on March 27, making it the 11th and latest entrant to a competitive spot Bitcoin ETF market in the United States.Magazine: Wolf Of All Streets worries about a world where Bitcoin hits $1M: Hall of Flame
+
+
+
+
+
+----------------
+
+Anthropic's Claude AI Overthrows ChatGPT on Chatbot Arena Leaderboard - Decrypt
+
+While ChatGPT from Open AI enjoys the largest mainstream mindshare of all generative AI tools, its top spot has been stolen by the top-of-the-line Claude 3 Opus from perennial contender Anthropic on a popular crowdsourced leaderboard used by AI researchers.Claude’s ascension in the Chatbot Arena rankings marks the first time that OpenAI's GPT-4, which powers ChatGPT Plus, has been dethroned since it first appeared on the leaderboard in May of last year.Chatbot Arena is run by Large Model Systems Organization (LMSYS ORG), a research organization dedicated to open models that support collaboration between students and faculty at the University of California, Berkeley, UC San Diego, and Carnegie Mellon University. The platform presents users with two unlabeled language models and asks them to rate which one performs better based on any criteria they deem fit.After aggregating thousands of subjective comparisons, Chatbot Arena calculates the "best" models for the leaderboard, updating it over time.That subjective approach, based on participants' disparate personal tastes, is what sets Chatbot Arena apart from other AI benchmarks. Model trainers cannot "cheat" by tailoring their models to beat the algorithm, as they might with quantitative benchmarks. By measuring what people simply prefer, Chatbot Arena is a valuable, qualitative resource for AI researchers.The platform collects users’ feedback and runs it through the Bradley-Terry statistical model to predict the likelihood of a particular model outperforming others in direct competition. This approach enables the generation of comprehensive statistics, including confidence interval ranges for Elo rating estimates—the same technique used to measure the skill of chess players.The top 10 LLMs ranked by the Chatbot Arena. Image: HuggingfaceClaude 3 Opus's rise to the top is not the only significant development on the leaderboard. Claude 3 Sonnet (the medium size model available for free) and Claude 3 Haiku (a smaller, faster model), also developed by Anthropic, are currently in 4th and 6th place, respectively.The leaderboard includes different versions of GPT-4, such as GPT-4-0314 (the "original" version of GPT-4 from March 2023), GPT-4-0613, GPT-4-1106-preview, and GPT-4-0125-preview (the latest GPT-4 Turbo model available via API from January 2024). According to the ranking, Sonnet and Haiku are both better than the original GPT-4 with Sonnet also outpacing a tweaked version launched by OpenAI on June 2023.This also means that, sadly, there is only one open-source LLM currently in the top 10: Qwen, with Starling 7b and Mixtral 8x7B the only other open models in the top 20.One of the advantages of Claude over GPT-4 is its token context capacity and retrieval capability. The public version of Claude 3 Opus handles over 200K—and the organization claims to have a restricted version capable of handling 1 million tokens with almost perfect retrieval rates. This means that Claude can understand longer prompts and retain information more effectively than compared to GPT-4 Turbo, which handles 128K tokens and loses its retrieval capabilities with long prompts.Recall accuracy of Claude 3 Opus vs GPT-4 Turbo. Image from Decrypt using data from Anthropic and Greg Kamradt.Google's Gemini Advanced has also been gaining traction in the AI assistant space. The company offers a plan that includes 2TB of storage and AI capabilities in the suite of Google products for the same price as a Chat GPT Plus subscription ($20 per month).The free Gemini Pro is currently ranked number 4, between GPT-4 Turbo and Claude 3 Sonnet. The top-of-the-line Gemini Ultra model is unavailable for testing and is not yet featured in the rankings.Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+KuCoin Launches $10M Airdrop Following US Legal Charges | Cryptopolitan
+
+Damilola is a crypto enthusiast, content writer, and journalist. When he is not writing, he spends most of his time reading and keeping tabs on exciting projects in the blockchain space. He also studies the ramifications of Web3 and blockchain development to have a stake in the future economy.
+
+----------------
+
+What is ASI? SingularityNet, FetchAI, and Ocean's $7.6B Merger - DailyCoin
+
+
+        
+SingularityNet, FetchAI, and Ocean have joined an alliance. 
+
+
+
+The ASI alliance looks to take on Big Tech and its dominion over the AI industry. 
+
+
+
+The $7.5 billion alliance aims to accelerate the race to a more open and democratized AI industry. 
+Artificial Intelligence (AI) has been making waves in recent headlines, proving it is more than just another buzzword. The growing hype surrounding the technology has spurred a race among firms, especially Big Tech, as they vie for control over the sector.In this fast-paced competition, several blockchain companies have also joined the fray, aiming to ride the AI wave and democratize access to this transformative technology. However, despite these valiant efforts, Big Tech’s dominance remains, overshadowing the handful of blockchain AI projects. Enter the Artificial Superintelligence Alliance, a multi-billion dollar merger involving SingularityNet, Fetch.AI, and Ocean Protocol, poised to directly challenge the monopolistic control over AI.What is the ASI Alliance?The Artificial Superintelligence Alliance is a merger of the leading AI blockchain protocols in the industry. It includes SingularityNet, a blockchain-based AI marketplace; Fetch.AI, a decentralized multi-agent AI platform; and Ocean Protocol, a data exchange firm.Pending approval from their respective communities, this alliance is poised to establish the world’s largest open-sourced decentralized network via the ASI token, which will accelerate the collaborators’ race to Artificial General Intelligence (AGI).How will SingularityNet, FetchAI, and Ocean Merge Their Token?As part of the formation of the Alliance, Fetch.AI’s FET token, Ocean Protocol’s OCEAN token, and SingularityNet’s AGIX token will converge into a single ASI token that will operate across a combined decentralized AI network, providing unprecedented scale and power.
+
+
+
+Upon receiving majority approval from their respective communities, the following conversions will take place:
+FET becomes ASI with a total supply of 2.63055 billion tokens and a starting price of $2.82
+
+
+
+AGIX tokens migrate to ASI at a conversion rate of 0.433350:1
+
+
+
+OCEAN tokens migrate to ASI at a conversion rate of 0.433226:1
+
+
+
+ASI will have a total FDV of $7.6 billion.
+Who Will Lead the ASI Alliance? In an official release shared with DailyCoin, SingularityNet confirmed that the ASI alliance will be led by led by Ben Goertzel, CEO and Founder of SingularityNet; Humayun Sheikh, co-founder of Fetch.AI; Bruce Pon, CEO and Co-Founder of Ocean Protocol; and Trent McConaghy, Co-Founder of Ocean Protocol.According to the release, the underlying entities, SingularityNet, FetchAI, and Ocean Protocol, will continue to operate as separate entities but will collaborate closely in the shared $ASI tokenomic ecosystem and in the operation of the Alliance.How will the ASI Alliance Impact the AI Industry?The ASI Alliance looks to capitalize on the success of the AI industry, including the growth of the underlying organizations as a countermeasure against Big Tech’s expanding control over AI development, use, and monetization. 
+
+
+
+The alliance aims to create a decentralized, open AI infrastructure that will promote open networks for coordinating machine intelligence toward shared objectives, unlike BigTech’s promotion of closed-source solutions such as ChatGpt. Bruce Pon, Ocean Protocol CEO & Co-Founder, believes the combination can deliver on the promise of a vertically integrated stack of decentralized technologies with scale to compete globally. “The combination of our technologies creates a leader in R&D, applications, and commercialization of AGI,” Pon notes. “The unified ASI token is the glue to orchestrate all actors with common incentives. ASI tokens are used to secure the public network, as data access tokens and to unlock computation without needing traditional banking and payment rails. It is the native currency for the machine economy.”On the Flipside
+OCEAN witnessed the biggest surge among the three tokens, gaining as much as 36% over the past 24 hours to trade at $1.49 as of press time following news of the merger. 
+
+
+
+Tether Operations Limited also recently introduced its entry into AI.
+Why This MattersThe Artificial Superintelligence Alliance marks a significant achievement for both the crypto and AI industry, posing a direct challenge to the expanding dominance of Big Tech over AI. Read more about the ASI token: SingularityNet Confirms Groundbreaking AI Merger to ASI TokenFTX claimants beware of this ongoing scam:FTX, BlockFi Claimants Scammed for Millions via Fake Emails
+              
+    
+
+----------------
+
+Square Enix's Bold Move: Injecting $14 Million into Elixir Games | Cryptopolitan
+
+Elixir Games has just received $14 million in seed funding. The round of funding is supported by  Square Enix, the creators behind epic titles like Final Fantasy, alongside Shima Capital and the Solana Foundation. This signals that the gaming world is on the brink of something new and exciting.A fresh take on gamingThe CEO Carlos Roldan is seeing a future where gaming does more than just entertain. Their funding has increased their resources to $20 million. Elixir Games is also getting ready to launch a gaming ecosystem unlike any other in the second quarter of 2024. They’re not stopping there; the introduction of the $ELIX token is set to shake up how we think about in-game currency and player involvement.Roldan’s approach is straightforward: “We’re changing gaming by making it more than something you do on a screen. We’re building a world where players are more involved.” A game that grows and evolves not just because of the developers but thanks to the players themselves. That’s the future Elixir Games is working towards.Square Enix is not just playing gamesSquare Enix has been known for creating worlds that have captivated millions, their decision to back Elixir Games speaks volumes. During the last nine months of 2023, they reported sales of $1.69 billion. Now, they’re using their fame to push the boundaries of what gaming can be.Last year, Square Enix shared their curiosity about the potential of web3 for gaming. Their investment in Elixir Games is not just a vote of confidence in Roldan’s vision; it’s a statement that they’re ready to explore new horizons in gaming technology.Web3: A new playgroundThe buzz around web3 in gaming is about creating a space where games are not only played but lived. The $ELIX token is at the heart of this, promising a way for players to truly own a piece of the game world. This is about making games more interactive and also giving players a stake in the game’s universe.This shift is more than technological; it’s cultural. It blurs the lines between making games and playing them, inviting players into the creative process. It’s a bold step towards a future where games are as much about community and creation as they are about escapism.Looking aheadAs Elixir Games sets the stage for its 2024 ecosystem launch, the excitement is palpable. This isn’t just another tech venture; it’s a glimpse into the future of gaming. With Square Enix’s backing, Elixir Games is not just dreaming big; they’re making big moves.The journey ahead for Elixir Games, fueled by this significant investment, is more than a business venture. It’s a journey into uncharted territories of gaming, promising a world where players don’t just play games; they live them. As the gaming community watches with bated breath, one thing is clear: the future of gaming is bright, and it’s being written right now.
+
+
+----------------
+
+Seasoned Analyst Reveals Ethereum Spot ETF Approval Prediction for May: "Unlikely This Year" - Bitcoin Sistemi
+
+Cryptocurrency market maker GSR revised its forecast for the approval of a spot Ethereum ETF in May, reducing the probability to just 20%. That's a significant drop from the firm's estimate in January, which put the chance at 75%.
+“We now believe there is a 20% chance that the SEC will approve a spot Ethereum ETF in May,” GSR analyst Brian Rudick explained the revised forecast in a note published today. According to GSR Research Analyst Matt Kunke, the previous optimistic outlook was attributed to Grayscale's Court of Appeals victory and the approval of Ethereum Futures ETFs in October.
+
+
+Rudick noted that the conditions leading to the potential approval of the spot Ethereum ETF are similar to those leading up to the approval of spot Bitcoin ETFs. These included the existence of a futures-based ETF and a significant correlation between the spot and futures markets.
+
+However, Rudick has now taken a more conservative view on the potential for spot ETH ETF approvals. He cited minimal interest from the SEC, political pressure against approving additional digital asset ETFs, and an alleged SEC investigation into whether ETH is a security as factors reducing the likelihood of approval.
+
+
+
+
+
+Rudick now predicts that the approval process for spot Ethereum ETFs could take much longer than previously anticipated. “Our best guess is that the process will take much longer and will likely involve litigation, and we now believe spot Ethereum ETFs will likely be approved in 2025-2026,” he added.
+Rudick also noted that, surprisingly, several applicant companies have recently amended their ETF applications to include ETH staking. While an ETF with staking returns is likely more attractive than one without one, Rudick questioned why companies would complicate the approval process, which already appears weak.
+
+
+Rudick speculated that this could be an attempt by companies to get a response from an unresponsive SEC, or perhaps an admission of defeat in May and lay the groundwork for a future staking feature. “Both of these reasons, if true, point to lower approval ratings for May,” he said.
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Ripple (XRP) Price Analysis: Bearish Signals Point to Major Drop
+
+
+Ripple (XRP) price has been in a downtrend for the better half of the month, and these bearish signals are getting stronger.
+Will the altcoin end up losing crucial support since XRP long-term holders are losing conviction in the asset?
+Ripple Investors Lose Conviction
+The long-term holders are one of the most important cohorts that impact the XRP price. These investors tend to hold an asset for a period of more than 12 months. Thus, selling from them is considered to be a confirmed bearish signal.
+Their actions are observed by the total age consumed when they move their holdings between addresses. The higher the spike, the larger the amount of tokens moved. In the case of Ripple, their movement has not been as significant as instances in the past. Nevertheless, this is a signal that these investors are losing conviction.
+Ripple Age Consumed. Source: Santiment
+
+Historically, during such occurrences, the XRP price has witnessed corrections most of the time. The same outcome can be expected this time around as well.
+Read More: Ripple (XRP) Price Prediction 2024/2025/2030
+A bearish move would be confirmed once the Relative Strength Index (RSI) falls below the neutral line at 50.0. RSI is a momentum oscillator measuring the speed and change of price movements, indicating overbought and oversold conditions.
+Ripple RSI. Source: TradingView
+
+Thus, the chances of a decline would increase if the indicators fall into the bearish zone.
+XRP Price Prediction: Crucial Support Lost
+XRP price is presently trading above the $0.606 support level. The altcoin has already slipped below the 50-day Exponential Moving Average (EMA). If the $0.606 support is invalidated, too, the cryptocurrency will lose the 100-day EMA as support.
+This will result in further decline, potentially sending Ripple to $0.555.
+XRP/USDT 1-day chart. Source: TradingView
+However, per the Average Directional Index (ADX), the bearish trend has yet to gain strength. The latter is still below the 25.0 threshold crossing, which generally suggests that the active trend is gaining strength.
+Read More: Everything You Need To Know About Ripple vs SEC
+So, if the XRP price sees no immediate bearishness and manages to bounce back from $0.606, it might have a shot at recovery, potentially invalidating the bearish thesis.
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+TOP 18 CRYPTO COINS TO PUMP 29X BY JUNE! (FINAL BUY THE DIP LIST) - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
