@@ -2,7 +2,7 @@ import feedparser
 import requests
 import re
 import time
-from collections import deque  # 导入deque类，用于存储固定数量的链接
+from collections import deque
 
 # 创建会话并设置用户代理
 session = requests.Session()
@@ -23,10 +23,10 @@ def get_real_url(re_url):
         print(f'Error fetching real URL: {e}')
         return None
 
-# 读取累积的链接或初始化一个空deque，最多存储100条链接
+# 读取累积的链接或初始化一个空deque，最多存储300条链接
 try:
     with open('accumulated_links.txt', 'r') as file:
-        accumulated_links = deque(file.read().splitlines(), maxlen=100)
+        accumulated_links = deque(file.read().splitlines(), maxlen=300)
 except FileNotFoundError:
     accumulated_links = deque(maxlen=300)
 
@@ -41,9 +41,9 @@ for entry in feed.entries:
     if final_url and final_url not in accumulated_links:
         accumulated_links.append(final_url)  # 添加新链接到deque中
 
-# 将新链接写入文件，只保留最近的100条
+# 将新链接写入文件，只保留最近的300条
 with open('accumulated_links.txt', 'w') as file:
-    for link in list(accumulated_links)[-300:]:  # 只写入最近的100条链接
+    for link in accumulated_links:
         file.write(link + '\n')
 
 # 打印所有链接，可选操作
