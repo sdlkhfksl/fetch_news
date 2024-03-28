@@ -3,6 +3,7 @@ import datetime
 from readability import Document
 import requests
 from html.parser import HTMLParser
+from collections import deque  # 导入deque类
 
 # A simple HTML parser to remove HTML tags and retrieve text content
 class MLStripper(HTMLParser):
@@ -40,31 +41,27 @@ def fetch_article_content(url):
     else:
         return 'Article content not found or extraction failed.'
 
-# Function to clear the processed links file and articles content file at midnight
-def clear_files_at_midnight(processed_links_file, articles_content_file):
-    now = datetime.datetime.now()
-    if now.hour == 0 and now.minute < 5:
-        open(processed_links_file, 'w').close()
-        open(articles_content_file, 'w').close()
-
 # Main function to fetch and write article contents
 def fetch_and_write_article_contents(links_file_url, output_file, processed_links_file):
-    clear_files_at_midnight(processed_links_file, output_file)
     response = requests.get(links_file_url)
     if response.status_code == 200:
         links = response.text.strip().split('\n')
         try:
             with open(processed_links_file, 'r', encoding='utf-8') as f:
-                processed_links = f.read().split('\n')
+                processed_links = deque(f.read().split('\n'), maxlen=100)
         except FileNotFoundError:
-            processed_links = []
-        with open(output_file, 'a', encoding='utf-8') as file, open(processed_links_file, 'a', encoding='utf-8') as processed_file:
+            processed_links = deque(maxlen=100)
+        with open(output_file, 'w', encoding='utf-8') as file:  # Open the file in write mode to overwrite existing content
             for url in links:
                 if url not in processed_links:
                     print(f'Fetching content for: {url}')
                     content = fetch_article_content(url)
+                    processed_links.append(url)  # Add the URL to the deque
                     file.write(content + '\n\n----------------\n\n')
-                    processed_file.write(url + '\n')
+            # Write only the last 100 processed links back to the file
+            with open(processed_links_file, 'w', encoding='utf-8') as processed_file:
+                for link in processed_links:
+                    processed_file.write(link + '\n')
     else:
         print(f'Failed to retrieve links file. Status code: {response.status_code}')
 
