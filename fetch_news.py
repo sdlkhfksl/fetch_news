@@ -28,7 +28,7 @@ try:
     with open('accumulated_links.txt', 'r') as file:
         accumulated_links = deque(file.read().splitlines(), maxlen=100)
 except FileNotFoundError:
-    accumulated_links = deque(maxlen=100)
+    accumulated_links = deque(maxlen=300)
 
 # 解析RSS feed
 feed_url = 'https://cryptopanic.com/news/rss/'
@@ -43,7 +43,7 @@ for entry in feed.entries:
 
 # 将新链接写入文件，只保留最近的100条
 with open('accumulated_links.txt', 'w') as file:
-    for link in list(accumulated_links)[-100:]:  # 只写入最近的100条链接
+    for link in list(accumulated_links)[-300:]:  # 只写入最近的100条链接
         file.write(link + '\n')
 
 # 打印所有链接，可选操作
