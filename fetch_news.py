@@ -1,8 +1,8 @@
 import feedparser
 import requests
 import re
-import time  # 这里添加了对time模块的导入
-from datetime import datetime
+import time
+from collections import deque  # 导入deque类，用于存储固定数量的链接
 
 # 创建会话并设置用户代理
 session = requests.Session()
@@ -23,12 +23,12 @@ def get_real_url(re_url):
         print(f'Error fetching real URL: {e}')
         return None
 
-# 读取累积的链接或初始化一个空集合
+# 读取累积的链接或初始化一个空deque，最多存储100条链接
 try:
     with open('accumulated_links.txt', 'r') as file:
-        accumulated_links = set(file.read().splitlines())
+        accumulated_links = deque(file.read().splitlines(), maxlen=100)
 except FileNotFoundError:
-    accumulated_links = set()
+    accumulated_links = deque(maxlen=100)
 
 # 解析RSS feed
 feed_url = 'https://cryptopanic.com/news/rss/'
@@ -39,17 +39,13 @@ for entry in feed.entries:
     final_url = get_real_url(formatted_url)
     
     if final_url and final_url not in accumulated_links:
-        accumulated_links.add(final_url)  # 添加新链接到集合中
+        accumulated_links.append(final_url)  # 添加新链接到deque中
 
-# 将新链接写入文件
+# 将新链接写入文件，只保留最近的100条
 with open('accumulated_links.txt', 'w') as file:
-    for link in accumulated_links:
+    for link in list(accumulated_links)[-100:]:  # 只写入最近的100条链接
         file.write(link + '\n')
 
 # 打印所有链接，可选操作
 for link in accumulated_links:
     print(link)
-
-# 如果当前是UTC时间0点，则清空accumulated_links.txt文件
-if datetime.utcnow().hour == 0 and datetime.utcnow().minute < 5:  # 修改为UTC时间并增加5分钟的缓冲
-    open('accumulated_links.txt', 'w').close()
