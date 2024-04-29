@@ -34,9 +34,9 @@ jobs:
           git commit -m "Update list of processed news links" || echo "No changes to commit"
           git push
 
-  process_and_fetch_articles_every_hour:
+  process_and_fetch_articles_every_4_hours:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 * * * *'
+    if: github.event.schedule == '0 */4 * * *'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
