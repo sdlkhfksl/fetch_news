@@ -64,7 +64,7 @@ def process_text_with_gpt(text):
             choices = chunk.choices
             if len(choices) > 0:
                 content = choices[0].message['content']
-    return ""
+    return content
 
 def append_to_rss(title, content):
     if not os.path.exists(RSS_FILE):
