@@ -3,6 +3,7 @@ import os
 import time
 from datetime import datetime
 
+# 函数：获取 Markdown 内容，带重试机制和自定义 User-Agent
 def fetch_markdown(url):
     time.sleep(20)  # 预留 20 秒处理时间
     md_url = f"https://r.jina.ai/{url}"
@@ -20,6 +21,7 @@ def fetch_markdown(url):
         print(f"Request failed: {e}")
         return None
 
+# 函数：计算今天的文章编号
 def calculate_daily_number(file_path):
     today = datetime.now().strftime('%Y-%m-%d')
     number = 0
@@ -32,10 +34,12 @@ def calculate_daily_number(file_path):
         pass
     return number + 1
 
+# 特定文件路径的变量定义
 links_file = 'accumulated_links.txt'
 output_file = 'articles.md'
 last_processed_file = 'last_processed_link.txt'
 
+# 获取今天的编号
 daily_number = calculate_daily_number(output_file)
 
 # 尝试读取上次处理的最后一个链接
@@ -57,21 +61,26 @@ with open(links_file, 'r') as file:
         if process_new_links or last_processed_link is None:
             new_links.append(line)
 
-# 处理新链接
-articles = []
-for url in new_links:
-    content = fetch_markdown(url)
-    if content:
-        articles.append(f"## Article {daily_number}\n" + content)
-        daily_number += 1
-
-# 将新增文章追加到文件
-if articles:
-    with open(output_file, 'a') as file:
-        file.write('\n\n'.join(articles) + '\n\n')
-
-# 更新最后处理的链接
+# 处理新链接，并将新文章追加到文件
 if new_links:
+    # 读取当前所有文章并保留最新的文章到缓存列表
+    articles_cache = []
+
+    if os.path.exists(output_file):
+        with open(output_file, 'r') as file:
+            articles_cache = file.read().strip().split('\n## Article ')[-299:]  # 取最新的299篇文章（不包括当前即将写入的新文章）
+
+    for url in new_links:
+        content = fetch_markdown(url)
+        if content:
+            articles_cache.append(f"## Article {daily_number}\n" + content)
+            daily_number += 1
+
+    # 只写入最新的300篇文章（包括新文章）
+    with open(output_file, 'w') as file:
+        file.write('\n'.join(articles_cache[-300:]))
+
+    # 更新最后处理的链接
     with open(last_processed_file, 'w') as file:
         file.write(new_links[-1])
 
