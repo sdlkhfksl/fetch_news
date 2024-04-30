@@ -31,31 +31,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Update list of processed news links"
           git push
 
-  run_process_and_fetch_articles_script:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
-
-      - name: Install dependencies
-        run: |
-          pip install requests openai==1.14.2
-
-      - name: Process new links and fetch articles
-        run: python process_new_articles.py
-
-      - name: Commit and push new articles if changes
-        run: |
-          git config --local user.email 'actions@github.com'
-          git config --local user.name 'GitHub Action'
-          git add articles.md processed_links.txt
-          git diff-index --quiet HEAD || git commit -m "Update new articles and processed links"
-          git push
 
   run_rss_feed_updater_script:
     runs-on: ubuntu-latest
