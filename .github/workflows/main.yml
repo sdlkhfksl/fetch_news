@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests feedparser openai==1.14.2
+          pip install requests feedparser 
 
       - name: Fetch and process news links
         run: python fetch_news.py
@@ -30,8 +30,6 @@ jobs:
           git add accumulated_links.txt
           git diff-index --quiet HEAD || git commit -m "Update list of processed news links"
           git push
-
-
 
   run_rss_feed_updater_script:
     runs-on: ubuntu-latest
@@ -46,9 +44,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests openai==1.14.2
+          pip install requests openai==0.27.0
 
       - name: Update the RSS feed
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BASE_API_URL: ${{ secrets.BASE_API_URL }}
         run: python rss_feed_updater.py
 
       - name: Commit and push RSS feed updates
