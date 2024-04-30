@@ -54,28 +54,3 @@ jobs:
           git commit -m "Update new articles and processed links" -a || echo "No changes to commit"
           git push
 
-  run_other_script_every_4_hours:
-    runs-on: ubuntu-latest
-    if: github.event.schedule == '0 */4 * * *'
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Set up Python 3.x
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-          pip install requests
-          pip install lxml[html_clean]
-          pip install readability-lxml  # 这是添加的新依赖项
-      - name: Run other script
-        run: |
-          python four_hourly_script.py
-      - name: Commit and push if changes
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update articles content and processed links" -a || echo "No changes to commit"
-          git push
