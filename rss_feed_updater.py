@@ -60,10 +60,10 @@ def process_text_with_gpt(text):
         stream=True
     )
     for chunk in stream:
-                    if hasattr(chunk, 'choices'):
-                        choices = chunk.choices
-                        if len(choices) > 0:
-                            content = choices[0].message['content']
+        if hasattr(chunk, 'choices'):
+            choices = chunk.choices
+            if len(choices) > 0:
+                content = choices[0].message['content']
     return ""
 
 def append_to_rss(title, content):
