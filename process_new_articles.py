@@ -3,7 +3,6 @@ import os
 import time
 from datetime import datetime
 
-# 函数：获取 Markdown 内容，带重试机制和自定义User-Agent
 def fetch_markdown(url):
     time.sleep(20)  # 预留 20 秒处理时间
     md_url = f"https://r.jina.ai/{url}"
@@ -21,7 +20,6 @@ def fetch_markdown(url):
         print(f"Request failed: {e}")
         return None
 
-# 函数：计算今天的文章编号
 def calculate_daily_number(file_path):
     today = datetime.now().strftime('%Y-%m-%d')
     number = 0
@@ -32,55 +30,49 @@ def calculate_daily_number(file_path):
                     number += 1
     except FileNotFoundError:
         pass
-    return number + 1  # 开始新的编号
+    return number + 1
 
-# 读取现有链接和已处理的链接
-accumulated_links_file = 'accumulated_links.txt'
-processed_links_file = 'processed_links.txt'
-output_articles_file = 'articles.md'
+links_file = 'accumulated_links.txt'
+output_file = 'articles.md'
+last_processed_file = 'last_processed_link.txt'
 
-# 获取今天的编号
-daily_number = calculate_daily_number(processed_links_file)
+daily_number = calculate_daily_number(output_file)
 
-new_links = []
+# 尝试读取上次处理的最后一个链接
 try:
-    with open(accumulated_links_file, 'r') as f:
-        accumulated_links = set(f.read().strip().splitlines())
-    with open(processed_links_file, 'r') as f:
-        processed_links = set(f.read().strip().splitlines())
-    new_links = list(accumulated_links - processed_links)
+    with open(last_processed_file, 'r') as file:
+        last_processed_link = file.read().strip()
 except FileNotFoundError:
-    # 如果文件不存在，假设所有链接都是新的
-    new_links = list(accumulated_links)
+    last_processed_link = None
+
+# 读取全部链接，并找到需要处理的新链接
+new_links = []
+process_new_links = False
+with open(links_file, 'r') as file:
+    for line in file:
+        line = line.strip()
+        if not process_new_links and last_processed_link == line:
+            process_new_links = True
+            continue
+        if process_new_links or last_processed_link is None:
+            new_links.append(line)
 
 # 处理新链接
 articles = []
-if new_links:
-    for url in new_links:
-        content = fetch_markdown(url)
-        if content:
-            articles.append(f"## Article {daily_number}\n" + content)
-            daily_number += 1
+for url in new_links:
+    content = fetch_markdown(url)
+    if content:
+        articles.append(f"## Article {daily_number}\n" + content)
+        daily_number += 1
 
-# 将新增文章和已处理链接写入文件
+# 将新增文章追加到文件
 if articles:
-    with open(output_articles_file, 'a') as file:
+    with open(output_file, 'a') as file:
         file.write('\n\n'.join(articles) + '\n\n')
 
-with open(processed_links_file, 'w') as file:
-    file.writelines('\n'.join(sorted(accumulated_links)))
-
-# 保留最新300篇文章
-try:
-    with open(output_articles_file, 'r') as file:
-        current_articles = file.read().strip().split('\n\n## Article ')
-
-    # 如果超过300篇，只保留最新的300篇
-    with open(output_articles_file, 'w') as file:
-        if len(current_articles) > 300:
-            current_articles = current_articles[-300:]
-        file.write('\n\n' .join(current_articles).strip())
-except FileNotFoundError:
-    pass
+# 更新最后处理的链接
+if new_links:
+    with open(last_processed_file, 'w') as file:
+        file.write(new_links[-1])
 
 print('Script execution completed.')
