@@ -53,15 +53,17 @@ def retrieve_text_from_jina(link):
     return ""
 
 def process_text_with_gpt(text):
-    stream = client.Completions.create(
+    stream = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[{"role": "system", "content": text}],
         temperature=0,
         stream=True
     )
     for chunk in stream:
-        if hasattr(chunk, 'choices') and chunk.choices:
-            return chunk.choices[0].message['content']
+                    if hasattr(chunk, 'choices'):
+                        choices = chunk.choices
+                        if len(choices) > 0:
+                            content = choices[0].message['content']
     return ""
 
 def append_to_rss(title, content):
