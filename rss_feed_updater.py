@@ -1,57 +1,91 @@
+import os
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime
-import os
-from openai import OpenAI
+from openai import ChatCompletion
 
-# 环境变量中获取API密钥和基础URL
-api_secret_key = os.getenv('OPENAI_API_KEY')  # GitHub Secret 名称使用大写字母
-base_url = os.getenv('BASE_API_URL')          # GitHub Secret 名称使用大写字母
+# 从环境变量获取API密钥和基础URL
+API_SECRET_KEY = os.getenv('OPENAI_API_KEY')
+BASE_URL = os.getenv('BASE_API_URL')
 
 # 初始化OpenAI客户端
-openai_client = OpenAI(api_key=api_secret_key, base_url=base_url)
+client = ChatCompletion(api_key=API_SECRET_KEY, base_url=BASE_URL)
 
-# User-Agent 以避免HTTP 422错误
-headers = {
-    'User-Agent': 'Mozilla/5.0 (compatible; YourBot/1.0; +http://yourwebsite.com/bot)'
+# User-Agent避免被网站拒绝服务
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 }
 
 # 文件路径
-links_file_path = 'accumulated_links.txt'
-rss_file_path = 'rss_feed.xml'
-last_processed_link_file_path = 'last_processed_link.txt'
+links_file = 'accumulated_links.txt'
+rss_file = 'rss_feed.xml'
+last_link_file = 'last_processed_link.txt'
 
-# ... 其余的函数不变 ...
+# 获取最后处理的链接
+def get_last_processed_link():
+    try:
+        with open(last_link_file, 'r') as file:
+            return file.read().strip()
+    except FileNotFoundError:
+        return ""
 
-# 获取新链接并处理的主体函数
-def process_new_links_and_update_rss():
-    new_links = get_new_links()
-    rss_items_updated = []
+# 保存最后处理的链接
+def save_last_processed_link(url):
+    with open(last_link_file, 'w') as file:
+        file.write(url)
+
+# 更新RSS Feed文件
+def update_rss_feed(new_articles):
+    root = ET.Element('rss', version='2.0')
+    channel = ET.SubElement(root, 'channel')
+
+    for article in new_articles:
+        item = ET.SubElement(channel, 'item')
+        title = ET.SubElement(item, 'title')
+        description = ET.SubElement(item, 'description')
+        title.text = article['title']
+        description.text = article['content']
+
+    tree = ET.ElementTree(root)
+    tree.write(rss_file, encoding='utf-8', xml_declaration=True)
+
+# 处理链接并更新RSS
+def process_links():
+    last_processed_link = get_last_processed_link()
     
-    # 遍历新链接，并使用GPT-3处理链接指向的内容
-    for url in new_links:
-        # 通过Jina.ai 获取文本内容
-        jina_response = requests.get(f'https://jina.ai/v1/{url}', headers=headers)  # 确保URL格式正确
-        if jina_response.ok:
-            # 使用OpenAI的GPT-3模型处理文本
-            gpt_response = openai_client.Completion.create(
-                engine="davinci",
-                prompt=jina_response.text,
-                max_tokens=150
+    # 从文件中获取所有链接
+    with open(links_file, 'r') as file:
+        links = [link.strip() for link in file.readlines()]
+    
+    # 如果文件中有最后处理的链接，从下一个链接开始处理
+    if last_processed_link in links:
+        last_index = links.index(last_processed_link) + 1
+        links = links[last_index:]
+    
+    new_articles = []
+    for url in links:
+        # 通过Jina.ai访问每个新链接获取文本内容
+        response = requests.get(url, headers=HEADERS)
+        if response.ok:
+            text_content = response.text  # 文本内容
+            # 发送文本给GPT API进行处理
+            stream = client.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "system", "content": text_content}],
+                stream=True,
             )
-            # 添加处理后的内容到RSS项中，并保存新的RSS文件
-            if gpt_response:
-                processed_content = gpt_response.choices[0].text.strip()
-                rss_items_updated.append(processed_content)
-                update_rss_feed(processed_content, f"Article from {url}")
-                # 更新最后处理过的链接
-                with open(last_processed_link_file_path, 'w', encoding='utf-8') as f:
-                    f.write(url)
-                
-    # 如果有更新，重写RSS文件保持最新50篇文章
-    if rss_items_updated:
-        update_rss_feed(rss_items_updated[-50:])  # 保留最新的50条记录
+            
+            processed_content = ''
+            for chunk in stream:
+                if 'choices' in chunk and len(chunk['choices']) > 0:
+                    processed_content = chunk['choices'][0]['message']['content']
+                    break
+            
+            new_articles.append({"title": f"Processed Article from {url}", "content": processed_content})
+            save_last_processed_link(url)
+    
+    # 更新 RSS 文件，只保留最新的50篇文章
+    if new_articles:
+        update_rss_feed(new_articles[-50:])
 
-# 执行
-if __name__ == "__main__":
-    process_new_links_and_update_rss()
+if __name__ == '__main__':
+    process_links()
