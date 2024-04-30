@@ -12,20 +12,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
-
       - name: Install dependencies
         run: |
           pip install requests feedparser
-
       - name: Fetch and process news links
         run: |
           python fetch_news.py
-
       - name: Commit and push changes
         run: |
           git config --global user.email 'actions@github.com'
@@ -40,20 +36,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: |
           pip install requests
-
       - name: Process new links and fetch articles
         run: |
           python process_new_articles.py
-
       - name: Commit and push new articles if changes
         run: |
           git config --local user.email "actions@github.com"
@@ -68,21 +60,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: |
           pip install requests
           pip install lxml[html_clean]
-
+          pip install readability-lxml  # 这是添加的新依赖项
       - name: Run other script
         run: |
           python four_hourly_script.py
-
       - name: Commit and push if changes
         run: |
           git config --local user.email "actions@github.com"
