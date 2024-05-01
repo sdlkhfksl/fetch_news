@@ -48,7 +48,7 @@ def process_text_with_gpt(link):
     output = ""
     for chunk in response:
         if chunk.choices:
-            output += chunk.choices[0].message.content
+            output += chunk.choices[0]['message']['content']
 
     return output.strip()
 
