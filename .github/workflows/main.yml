@@ -2,7 +2,8 @@ name: Run Scripts Hourly
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时执行一次
+    - cron: '0 * * * *'  # 每小时第0分钟执行 run_fetch_news_links_script
+    - cron: '5 * * * *'  # 每小时第5分钟执行 run_rss_feed_updater_script
 
 jobs:
   run_fetch_news_links_script:
@@ -18,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests feedparser 
+          pip install requests feedparser
 
       - name: Fetch and process news links
         run: python fetch_news.py
@@ -33,6 +34,7 @@ jobs:
 
   run_rss_feed_updater_script:
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '5 * * * *'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
