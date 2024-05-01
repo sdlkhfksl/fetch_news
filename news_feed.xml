@@ -4,747 +4,7 @@
         <title>虚拟货币新闻</title>
         <link>Your Website URL</link>
         <description>Description of Your RSS Feed</description>
-    <item><title>News Article 52</title><description>Title: DeFi lender Pike Finance loses $1.9M to two hacks in less than a week
-
-URL Source: https://protos.com/defi-lender-pike-finance-loses-1-9m-to-two-hacks-in-less-than-a-week/
-
-Published Time: 2024-05-01T15:47:57+00:00
-
-Markdown Content:
-Pike Finance has been hacked for the second time in four days, with losses across the two incidents totaling approximately $1.9 million.
-
-In response to the first hack, on April 26, the team immediately paused the protocol. However, this opened up a new vulnerability that was exploited between 21:45 and 22:20 (UTC) on April 30.
-
-Crypto security firm Ancilia quickly [identified](https://twitter.com/AnciliaInc/status/1785440926212751446) three malicious transactions on the [Optimism](https://optimistic.etherscan.io/tx/0x6baa6332f9a3ed75e727311d6317fb636844d61d9df5e199f9f68711eb632d6f), [Arbitrum](https://arbiscan.io/tx/0xdac6af5695ba00b3d229574dbf7fcc326d16b9f8a52ad2620637d3022956d157), and [Ethereum](https://etherscan.io/tx/0xe2912b8bf34d561983f2ae95f34e33ecc7792a2905a3e317fcc98052bce66431) networks. Ancilia [states](https://twitter.com/AnciliaInc/status/1785452418945429981) the attacker was able to ‘upgrade’ and take control of the Pike Finance contracts, which allowed them to withdraw the funds held within.
-
-The stolen assets were **swapped to ETH** and [consolidated](https://etherscan.io/address/0x19066f7431df29a0910d287c8822936bb7d89e23#internaltx) in the attacker’s Ethereum [address](https://etherscan.io/address/0x19066f7431df29a0910d287c8822936bb7d89e23) before being [deposited](https://etherscan.io/tx/0xf8ce549fe83ecaf0d889ef5bda0b613081cefdad5bd82237e3a9014584a95d11) into privacy protocol Railgun.
-
-Read more: [Hackers switching to centralized exchanges to fund crypto attacks](https://protos.com/hackers-switching-to-centralized-exchanges-to-fund-crypto-attacks/)
-
-The hack was [acknowledged](https://twitter.com/PikeFinance/status/1785572875124330644) by the Pike team on X (formerly Twitter). The post put the losses at approximately **64k OP ($150,000), 100k ARB ($105,000), and 480 ETH ($1.4 million)** and admitted that the hack was related to the previous incident.
-
-The last time Pike Finance was [hacked](https://twitter.com/PikeFinance/status/1783989069212799321) (three days ago), it suffered losses of around $300,000 worth of the USDC stablecoin. The resulting funds were swapped for ETH and transferred to the crypto-mixing service Tornado Cash.
-
-According to the earlier incident’s [post-mortem report](https://mirror.xyz/pikefinance.eth/M1ToE42vwEHuE6xlz0dVRQwPT0xpaRtpIIw2arOdBAM), the protocol was paused to prevent any further losses while the incident was investigated. The report also admits that the vulnerability had been reported by auditors OtterSec, but that the Pike team “was unable to address the identified vulnerability in a timely manner.”
-
-However, as described in today’s [response](https://twitter.com/PikeFinance/status/1785572875124330644) to the second hack, pausing the contracts inadvertently introduced “an additional dependency within the smart contract code.” This led to a “misalignment in storage mapping” which the attacker could take advantage of, reinitializing the contract and assuming full control.
-
-Pike Finance has offered a **20% bounty for the return of the funds** and has promised to provide a “plan to make users whole.”
-
-The community’s opinions on this response can be seen in the Pike Finance Discord.
-
-![Image 1: a black screen with emojis on it](https://lh7-us.googleusercontent.com/docsz/AD_4nXdAnEfzBJwt7tS3R1W1vRjp3k9dv9Kbktlxwb1Jy8bTroqsiLcyW0kC7NTUKb9TLeFvQS3fjxTP7VL0zEGLhrsacFQLUCkM-_OhOoZgrL4iER7Z8QCoQ_5jEkdgCchxL2ckDYNK5nCjhUbV_dNGVDHjT2dB?key=UdeyZSePlEFr4v8PVZRAoQ)
-
-_Read more: [Tornado Cash funds ‘at risk’ after hacker injects malicious code](https://protos.com/tornado-cash-funds-at-risk-after-hacker-injects-malicious-code/)_
-
-After being hit twice in a row, users are understandably upset, and [some](https://twitter.com/deucesofweb3/status/1785576987550957856) have [suggested](https://twitter.com/Picolas_Caged/status/1785581065693778260) that Pike Finance refund pre-sale investments.
-
-This in itself has, [predictably](https://twitter.com/PikeFinance/status/1785607580146163876), opened up another potential attack vector as scam replies (impersonating the Pike Finance account) promise a refund to victims as part of a common phishing technique.
-
-_Got a tip? Send us an email or ProtonMail. For more informed news, follow us on [X](https://twitter.com/protos), [Instagram](https://www.instagram.com/protosmedia/), [Bluesky](https://bsky.app/profile/protos.bsky.social), and [_Google News_](https://news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw), or subscribe to our [YouTube](https://youtube.com/protosmedia) channel._
-</description><pubDate>Wed, 01 May 2024 16:44:04 GMT</pubDate><link>https://protos.com/defi-lender-pike-finance-loses-1-9m-to-two-hacks-in-less-than-a-week/</link></item><item><title>News Article 52</title><description>Title: 'Dogecoin Millionaire' Says 'Fair Launches' For Meme Coins Don't Exist: 'Stop Being Delusional'
-
-URL Source: https://www.benzinga.com/markets/cryptocurrency/24/05/38556972/dogecoin-millionaire-says-fair-launches-for-meme-coins-dont-exist-stop-being-delusional
-
-Published Time: 2024-05-01T11:43:05.000-04:00
-
-Markdown Content:
-Las Vegas resident **Glauber Contessoto**, famously known as the "[Dogecoin Millionaire](https://www.benzinga.com/markets/cryptocurrency/23/08/34016792/dogecoin-millionaires-holdings-drop-from-3m-to-50k-but-remains-optimistic-says-doge-will-r),” took to his social media account to throw light on the concept of fair launches in the crypto markets.
-
-**What Happened:** The heavily followed trader argues that the presence of snipers and bots has created an uneven playing field, making it nearly impossible for average investors to compete.
-
-"These days, there is no such thing as a fair launch," Contessoto asserts. "Snipers, people who use bots and are fucking professional at it, are who you’re going against when a coin launches." He emphasizes that, this cannot be considered a fair launch, as these players are not adhering to the same rules as regular investors.
-
-He further warns that attempting to participate in these launches is a surefire way to lose money, stating, "They’re not playing by the same rules as you, and you will lose money 100% of the time. Stop being completely delusional." He paints a picture of snipers waiting on the sidelines, ready to "crush and destroy a project the second it goes live."
-
-[![Image 1: a black background with a plane flying in the sky](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.benzinga.com/events/digital-assets/)
-
-_Also Read: [Meme Coins Are ‘A Pure Ponzi’ And ‘Destroying Crypto,’ Says Trader Who Thinks Dogecoin Was Different](https://www.benzinga.com/markets/cryptocurrency/24/04/38469336/meme-coins-are-a-pure-ponzi-and-destroying-crypto-says-trader-who-thinks-dogecoin-was-diff)_
-
-**Why It Matters:** For the betterment of the situation, Contessoto suggests that the best outcome investors can hope for is to support projects with solid teams that understand the challenges posed by snipers and bots.
-
-He advises teams to take proactive measures to protect their projects and communities. They could buy up most of the supply and distribute it over time, allowing the project to grow naturally with a thriving community as the market cap rises.
-
-His suggestion to investors is to focus on these types of projects rather than chasing the so-called "fair launches" that are vulnerable to snipers and bots. He also warns that as soon as the snipers dump their bags within hours of launch, they move on to the next coin that they can demolish and make endless money.
-
-Contessoto famously watched his fortune take a drastic plunge from $3 million to as low as $50,000 when he did not sell his **Dogecoin** DOGE/USD holdings after a massive run-up.
-
-**What’s Next**: The influence of meme coins and [Bitcoin as an institutional asset class](https://www.benzinga.com/money/is-bitcoin-a-good-investment) is expected to be thoroughly explored at Benzinga’s upcoming [Future of Digital Assets](https://www.benzinga.com/events/digital-assets/agenda/) event on Nov. 19.
-
-_Read Next: [Crypto Trader Michael Van De Poppe Highlights Runs In Solana, Meme Coins, Predicts ‘There Is Always An Altcoin Season’](https://www.benzinga.com/markets/cryptocurrency/24/04/38523300/crypto-trader-michael-van-de-poppe-highlights-runs-in-solana-meme-coins-predicts-there-is-)_
-
-_This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors._
-
-_Image: Shutterstock_
-
-[Market News and Data brought to you by Benzinga APIs](https://benzinga.com/apis)
-
-© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-</description><pubDate>Wed, 01 May 2024 16:44:29 GMT</pubDate><link>https://www.benzinga.com/markets/cryptocurrency/24/05/38556972/dogecoin-millionaire-says-fair-launches-for-meme-coins-dont-exist-stop-being-delusional?utm_source=cryptopanic.com&amp;utm_campaign=partner_feed&amp;utm_medium=partner_feed&amp;utm_content=site</link></item><item><title>News Article 52</title><description>Title: Solana (SOL) Price Prediction for May 1
-
-URL Source: https://u.today/solana-sol-price-prediction-for-may-1
-
-Published Time: 2024-05-01T15:38:00+0000
-
-Markdown Content:
-Original U.Today article
-
-![Image 1: Solana (SOL) Price Prediction for May 1](https://u.today/sites/default/files/styles/736x/public/2024-05/s2193.jpg)
-
-Cover image via [www.tradingview.com](https://www.tradingview.com/symbols/SOLUSD/)
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-The prices of most of the coins keep falling, according to [CoinStats](https://u.today/shib-price-prediction-for-april-30).
-
-![Image 2: a screen showing the solar price chart](https://u.today/sites/default/files/inline-images/top10_1089.png)
-
-SOL chart by [CoinStats](https://coinstats.app/coins/)
-
-SOL/USD
--------
-
-The price of Solana (SOL) has declined by 4% over the last day.
-
-![Image 3: btc - btc - btc - btc - btc -](https://u.today/sites/default/files/inline-images/sol1_32.png)
-
-Image by [TradingView](https://www.tradingview.com/symbols/SOLUSDT)
-
-On the hourly chart, the rate of SOL is in the middle of the local channel, between the support of $118.47 and the resistance of $127.33. 
-
-As most of the daily ATR has been passed, there are low chances to expect any sharp ups or downs by the end of the day.
-
-![Image 4: btc/usd - btc/usd - btc/usd - bt](https://u.today/sites/default/files/inline-images/sol2_28.png)
-
-Image by [TradingView](https://www.tradingview.com/symbols/SOLUSDT)
-
-On the bigger time frame, traders should focus on the bar's closure in terms of yesterday's low at $121.21. If a false breakout happens, one can expect a bounce back to the $130 zone within the next few days.
-
-![Image 5: btc btc btc btc btc btc btc b](https://u.today/sites/default/files/inline-images/sol3_28.png)
-
-Image by [TradingView](https://www.tradingview.com/symbols/SOLUSDT)
-
-On the weekly chart, there are no reversal signals yet. The price of SOL is approaching the recently formed level of $116. If buyers cannot seize the initiative by the end of the week, the accumulated energy might be enough for a move to the crucial zone of $100.
-
-SOL is trading at $122.43 at press time.
-
-[![Image 6: article image](https://u.today/sites/default/files/2021-08/8942.jpg)
-
-Denys Serhiichuk
-
-](https://u.today/denys-serhiichuk)
-
-With more than 5 years of trading, Denys has a deep knowledge of both technical and fundamental market analysis. Mainly, he has started his blog on TradingView where publishes all relevant information and makes predictions about top coins.  
-Thus, his experience is backed up by working in top blockchain related companies such as W12, Platinum Listing, ATB Coin, and others, can be contacted at denys.serhiichuk@u.today.
-
-Advertisement
-
-TopCryptoNewsinYourMailbox
-
-TopCryptoNewsinYourMailbox
-</description><pubDate>Wed, 01 May 2024 16:45:31 GMT</pubDate><link>https://u.today/solana-sol-price-prediction-for-may-1</link></item><item><title>News Article 52</title><description>Title: CBN's KYC audit sends shockwaves through Nigerian Fintech
-
-URL Source: https://www.cryptopolitan.com/kyc-sends-shockwave-through-nigerian-fintech/
-
-Markdown Content:
-Four well-known fintech companies have received orders from the Central Bank of Nigeria (CBN) to stop onboarding new clients. This mandate is part of a larger audit of OPay, Kuda Bank, Moniepoint, and PalmPay’s KYC procedures.
-
-KYC concerns prompt temporary onboarding pause
-----------------------------------------------
-
-The CBN directive [influenced](https://techcabal.com/2024/04/29/exclusive-cbn-directs-four-fintechs-to-stop-onboarding/) the operation of these fintech platforms, “they have been put on hold for the time being, meaning those who would have had new accounts cannot continue. 
-
-Each website features a notice of apology, indicating no disgrace on their account for the momentary interruption that affected them. Because no new customers are to be acquired, the continuing operation and the existing customers’ deposits remain safe and sound.”
-
-The move entails the Central Bank devising measures reflecting a series of events in which the legitimacy of the fintech platform was called into question due to loose KYC regulations. 
-
-The story goes back to Fidelity Bank in October 2023, which had similar concerns about fraudulent activities restricting OPay, PalmPay, Kuda, and MonieP transactions. In turn, the banking authority implemented new KYC rules for any related financial institutions, and they focused on fintech startups as the most prominent threat.
-
-Government crackdown on Fintech
--------------------------------
-
-Government involvement in the fintech industry is practically the CBN directive. The alignment of the National Security Agency (NSA) and economic-related fraud agencies like the Economic and Financial Crimes Commission (EFCC) in the battle against financial misdoings exposes their undeniable effort to eradicate such acts. 
-
-The EFCC’s recent blocking of over a thousand accounts involved in unauthorized foreign exchange market transactions clearly shows the extra regulatory attention the financial sector is now subject to. The industry has mixed reactions, from cautious optimism to concerns about intensifying trade tensions. 
-
-While some industries welcome the assistance afforded by higher domestic production requirements to strengthen their competitive edge, others fear that worldwide trade relations may become increasingly complicated.
-
-Although stopping the enrollment of a new customer base may disrupt business operations, the independent decision by the regulators is the right move in that it guards against regulatory infringements as it safeguards the financial risks. 
-
-The recently conducted audit of KYC procedures is undoubtedly evidence of the industry’s determination and commitment to ensuring regulatory oversight.
-
-Regulatory evolution
---------------------
-
-However, amid these interventions, several positive policies and programs are currently being implemented within Nigeria’s financial regulatory structure.
-
-The appointment of Emomotimi Agama as the new Director General of the Securities and Exchange Commission (SEC) by the crypto community and investors not only for the recent economy but also for the future’s crypto economy is considered by cryptocurrency enthusiasts as an optimistic move. 
-
-The appointment fosters devotion among investors, controls the capital market, and accelerates economic growth. The regulatory authority and fintech start-ups are expected to collaborate to expedite the process of acquiring licenses to operate crypto exchanges in Nigeria. 
-
-Some stakeholders view the selection of Emomotimi Agama as a positive outcome that vows to open a new chapter of consensus between regulators and the crypto industry, which should result in an appropriate framework for innovation and growth.
-
-The CBN’s resoluteness against the currently ongoing activities of e-currency firms, which has led to the central bank’s ban on their customer onboarding operations, further explains the necessity of the KYC process for the financial system. Although they might be less desirable in the short run, such regulatory measures were intended to control standards of compliance and financial risks.
-</description><pubDate>Wed, 01 May 2024 16:46:20 GMT</pubDate><link>https://www.cryptopolitan.com/kyc-sends-shockwave-through-nigerian-fintech/</link></item><item><title>News Article 52</title><description>Title: Disqus Realtime Notification
-
-URL Source: https://tokenist.com/chip-stocks-plunge-after-amds-2024-guidance-falls-short-of-expectations/
-
-Markdown Content:
-\-
-</description><pubDate>Wed, 01 May 2024 16:46:45 GMT</pubDate><link>https://tokenist.com/chip-stocks-plunge-after-amds-2024-guidance-falls-short-of-expectations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chip-stocks-plunge-after-amds-2024-guidance-falls-short-of-expectations</link></item><item><title>News Article 52</title><description>Title: An ETH ETF Wouldn’t Deliver Full-Returns to Investors
-
-URL Source: https://www.coindesk.com/business/2024/05/01/an-eth-etf-wouldnt-deliver-full-returns-to-investors/
-
-Published Time: 2024-05-01T16:00:00Z
-
-Markdown Content:
-_ETFs bring awareness but are less effective than private funds as an ETH investment vehicle._
-
-With the recent approval, launch and success of [spot bitcoin ETFs](https://www.coindesk.com/markets/2024/04/19/bitcoin-spot-etfs-register-five-day-withdrawals-streak-ahead-of-halving/), all eyes have turned to the possibility of spot ETH ETF regulatory approval, an outcome we believe to be unlikely under the current administration. Additionally, an ETH ETF will, at least initially, lack a staking reward component, a key aspect of ETH total return.
-
-We see the primary value of crypto-ETFs being the _normalization_ of crypto investing for traditional finance allocators. Large ETF providers entering the space license their legitimacy, allowing allocators to invest in crypto without taking career-risk. However, for all the industry benefits of a spot ETH ETF, the return characteristics are not as attractive as total return options.
-
-At the time of writing, rewards from staking eth are over 3% per annum, according to [CESR, the benchmark composite ether staking rate](https://www.coindesk.com/indices/ether/cesr/). In other words, if an investor invests into an ETH ETF, they may be at a disadvantage compared to someone investing in a staked investment. CESR has been as high as 8% in the trailing twelve months.
-
-**You're reading** [**Crypto Long &amp; Short**](https://www.coindesk.com/newsletters/crypto-long-short/)**, our weekly newsletter featuring insights, news and analysis for the professional investor.** [**Sign up here**](https://www.coindesk.com/newsletters/crypto-long-short/) **to get it in your inbox every Wednesday.**
-
-**ETH ETFs — A liquidity mismatch due to staking**
-
-Mechanically, staking reduces liquidity due to the validator entry and exit queues. In the summer of 2023 the entry queue rose to 45 days due to a surge in activity. As a network security activity, staking is not designed with the liquidity needed for securitization in mind. Due to the immense liquidity demands of an ETF, issuers will struggle to deliver liquidity and ETH total return, including staking rewards.
-
-**Structural Underperformance**
-
-Passively holding unstaked ETH is akin to holding unneeded fiat currency for long periods in a demand deposit account with zero interest. Said another way, passively holding unstaked ETH will create structural underperformance and, if compared to a total return benchmark, persistent negative tracking error. From any angle, that is an untenable position for an investor.
-
-For accredited investors, private funds offer an effective solution to achieve total return ETH exposure. Buying and staking ETH through a private fund structure does not face regulatory challenges. Managers can also match the liquidity of the fund to stake and unstake ETH on behalf of investors. With a thoughtful operational setup, there are limited tradeoffs; a private fund can be audited, benchmarked, and keep assets in qualified custody.
-
-Disclosure: Methodic [partnered](https://www.coindesk.com/business/2023/10/18/investment-manager-methodic-unveils-ether-staking-fund-offering-exposure-to-eth-price-and-yield/) with CoinDesk's index affiliate, CoinDesk Indices, on a private fund that uses the CoinDesk Ether Total Return Index, a combination of the [CoinDesk Ether Price Index (ETX)](https://www.coindesk.com/indices/etx?_gl=1*5n27e0*_up*MQ..*_ga*MTM0MTI3Njc3LjE2OTc1NjUyMzQ.*_ga_VM3STRYVN8*MTY5NzU2NTIzNC4xLjAuMTY5NzU2NTIzNC4wLjAuMA..) and the [Composite Ether Staking Rate (CESR)](https://www.coindesk.com/indices/ether/cesr/), calculated by CoinDesk Indices and administered by digital asset manager CoinFund.
-
-Edited by Benjamin Schiller.
-</description><pubDate>Wed, 01 May 2024 16:47:37 GMT</pubDate><link>https://www.coindesk.com/business/2024/05/01/an-eth-etf-wouldnt-deliver-full-returns-to-investors/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link></item><item><title>News Article 52</title><description>Title: Coinbase Up 300% In A Year, But Faces Bearish Technicals Ahead Of Q1 Earnings - Coinbase Glb (NASDAQ:COIN
-
-URL Source: https://www.benzinga.com/analyst-ratings/analyst-color/24/05/38557434/coinbase-up-300-in-a-year-but-faces-bearish-technicals-ahead-of-q1-earnings
-
-Published Time: 2024-05-01T11:59:23.000-04:00
-
-Markdown Content:
-**Coinbase Global Inc** COIN, will be reporting its first-quarter earnings on Thursday. Wall Street expects $1.00 in EPS and $1.34 billion in revenues as the company reports [after market hours](https://www.benzinga.com/calendars/earnings?tickers=COIN).
-
-The stock has gained over 300% in the past year, riding with the crypto boom. The stock’s surge compares favorably to Bitcoin’s price, which rose by 103.13% over the past year. YTD, shares have returned 17.13%, lagging behind Bitcoin’s 30% stride.
-
-Let’s look at what the charts indicate for Coinbase stock, and how the stock currently maps against Wall Street estimates.
-
-**Coinbase Stock’s Bearish Signals Ahead Of Q1 Earnings** 
-----------------------------------------------------------
-
-Charts indicate that the current trend for Coinbase stock is relatively bearish.
-
-![Image 1: a black background with a plane flying in the sky](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-_[Chart: Benzinga Pro](https://pro.benzinga.com/dashboard)_
-
-Its share price at $203.40, is trading below key moving averages. The 5-day exponential moving average (EMA) at $213.25, the 20-day EMA at $226.46, and 50-day EMA at $219.61, indicate selling pressure and a risk of future bearish movement.
-
-Coinbase stock is also trading below the 8-day and 50-day simple moving averages (SMA), all of which suggest a bearish momentum. However, the stock is above the 200-day SMA of $137.69, indicating a bullish signal.
-
-![Image 2: a black background with a plane flying in the sky](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-_[Chart: Benzinga Pro](https://pro.benzinga.com/dashboard)_
-
-The Moving Average Convergence Divergence (MACD) indicator is -6.11, suggesting a strongly bearish sentiment. The Relative Strength Index (RSI) of 40.64 is in the Neutral zone. However, since March, the RSI has been heading lower, so it could enter the oversold (&lt;30) zone in the near-term. That could potentially be bullish for the stock, if supported by other indicators.
-
-The Bollinger Bands have Coinbase stock trading in their lower band – indicating trader bearishness dominating the stock.
-
-Overall, the technical indicators suggest a bearish trend for Coinbase stock, but with potential trend reversal opportunities once the RSI enters the oversold zone.
-
-_Also Read: [What the Options Market Tells Us About Coinbase Glb](https://www.benzinga.com/insights/options/24/04/38384275/what-the-options-market-tells-us-about-coinbase-glb)_
-
-**Coinbase Stock Analysts See 34% Upside**
-------------------------------------------
-
-**Ratings &amp; Consensus Estimates:** [The consensus analyst rating](https://www.benzinga.com/quote/COIN/analyst-ratings) on Coinbase stock stands at a Buy with a price target of $169.08. However, the latest analyst ratings for Coinbase stock from HC Wainwright &amp; Co., Bernstein, and Compass Point, received in April, point toward a greener picture. These analysts have an average price target of $275, suggesting a potential upside of 34.02% for Coinbase stock.
-
-**COIN Price Action:** Shares of Coinbase are down 1.34% to $201.20 at the time of publication Wednesday.
-
-_Read Next: [Coinbase Global To Rally Around 27%? Here Are 10 Top Analyst Forecasts For Monday](https://www.benzinga.com/news/24/04/38489083/coinbase-global-to-rally-around-27-here-are-10-top-analyst-forecasts-for-monday)_
-
-_Photo: Shutterstock_
-
-[Market News and Data brought to you by Benzinga APIs](https://benzinga.com/apis)
-
-© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-</description><pubDate>Wed, 01 May 2024 16:48:41 GMT</pubDate><link>https://www.benzinga.com/analyst-ratings/analyst-color/24/05/38557434/coinbase-up-300-in-a-year-but-faces-bearish-technicals-ahead-of-q1-earnings?utm_source=cryptopanic.com&amp;utm_campaign=partner_feed&amp;utm_medium=partner_feed&amp;utm_content=site</link></item><item><title>News Article 52</title><description>Title: Eminem's new crypto ad fails to capture the moment, lets it slip
-
-URL Source: https://blockworks.co/news/eminem-cryptocom-advertisement-silly
-
-Markdown Content:
-![Image 1: off topic with molly jane](https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=1024&amp;h=1024)
-
-This isn’t going to be another op-ed about how silly it is for celebrities to do cryptocurrency ads. We all know that they don’t age well.
-
-Instead, what I’d like to opine on is why a cryptocurrency ad with Marshall Mathers, aka Eminem, falls flat in particular. If you’re going to put a celebrity in your crypto ad, you need to go all out with creativity, humor or just overall entertainment value. Eminem’s new crypto ad does none of that — it has almost nothing to do with the rapper, or crypto at all.
-
-The rapper’s voiceover on an [advertisement for Crypto.com](http://crypto.com/) aired during the Lakers NBA play-off game last week. The ad itself, just a minute long, shows a nameless, faceless boxer getting ready to face-off in a match at the Crypto.com Arena. You can hear Eminem’s voice saying empty platitudes of encouragement in the background, telling the audience to enjoy the moment, before the screen shows the somewhat infamous slogan, “Fortune favors the brave.”
-
-I say infamous, because Matt Damon’s 2022 Crypto.com SuperBowl commercial — where the Oscar-nominated actor was actually pictured on screen saying that catchphrase out loud — just looked so silly in the wake of the FTX crash. Damon later gave an [awkward, pause-filled red carpet interview](https://gizmodo.com/matt-damon-crypto-com-crypto-bitcoin-1850282413), noting that he only did the commercial to support his water non-profit in a down year.
-
-Some are [already speculating](https://www.stereogum.com/2261473/eminem-is-crypto-coms-new-spokesman-teases-new-album-the-death-of-slim-shady/news/) that Eminem’s main motivation to lend his voice to Crypto.com’s latest ad is part of a marketing push for his upcoming album. But his motivations for being crypto’s latest celebrity spokesperson aren’t important. What’s important is how soulless that advertisement is. Watching the commercial for the first time as a longtime Eminem stan, I lamented all of the missed opportunities staring me in the face.
-
-**Read more from our opinion section:** [Crypto’s best use case? Buying goats on Twitter](https://blockworks.co/news/cryptos-best-use-case-buying-goats-twitter)
-
-For one, this is far from Eminem’s first foray into crypto — he had his own, pretty cringey Bored Ape phase at the peak of the NFT boom, culminating in a [half-animated BAYT music video](https://www.youtube.com/watch?v=RjrA-slMoZ4) with none other than Snoop Dogg. That was terrible, and also funny: and Crypto.com’s pretty basic ad could have benefitted from any sort of creative reference to Eminem’s actual crypto interests. 
-
-Granted, Crypto.com is not an NFT platform. That doesn’t mean that you aren’t allowed to have a sense of humor — especially when creating a likely very expensive advertisement with a very famous, previously NFT-obsessed rapper.
-
-Which brings me to my second point — there’s no rap. Paying Eminem to remain faceless and read a short, only slightly rhyming text over a black-and-white boxing video feels like paying [Bob Dylan to promote Victoria’s Secret](https://www.thecut.com/2019/07/i-think-about-bob-dylans-victorias-secret-ad-a-lot.html).
-
-Eminem’s crypto ad isn’t the first since the unfortunate crypto Super Bowl. Both Coinbase and Greyscale also [put out slightly more entertaining ads](https://blockworks.co/news/nba-nhl-bitcoin-halving-ads) in the lead up to the Bitcoin halving, albeit celebrity-less ones. 
-
-As I said at the top, my point here isn’t to convince the world that celebrities in crypto ads are setting themselves up for [future embarrassment](https://blockworks.co/news/celebrities-erase-ftx-ties), [loss of money](https://blockworks.co/news/what-do-tom-brady-steph-curry-and-naomi-osaka-have-in-common-an-ftx-lawsuit) and even potentially [SEC fines](https://www.sec.gov/news/press-release/2022-183). We already know that. And I also know that no one will stop crypto companies, especially during a bull market, from paying celebrities tons of money to promote their brands anyway. Sam Bankman-Fried set that precedent, and even with him in jail, it really shows no signs of abating.
-
-Instead, I’d like to propose that if we are going to keep having celeb-studded crypto ads — make them really sparkle. Pay Eminem to write an entire song about trading on Crypto.com and release it alongside his new album, with a specially crypto-themed music video (he already has the experience). Get JoJo Siwa to [wrap another car](https://www.tiktok.com/@itsjojosiwa/video/7352686405887331630) with whatever memecoin logo, or Brooklyn Beckham to tattoo Dogecoin eyes next to his [tattoo of his wife’s eyes](https://pagesix.com/article/brooklyn-beckham-tattoos-for-nicola-peltz/).
-
-Celebrity crypto ads, in my opinion, should only exist if they do something really creative or really silly: In other words, make them match the whimsy and creativity of this burgeoning financial tech industry. I’m not sure that any SEC lawyers would agree with me. Good thing I don’t work for the SEC.
-
-Otherwise, make celebrity crypto endorsements illegal for all of the obvious reasons (high potential for securities fraud and misleading investors to start). In a nutshell — go silly or go home.
-
-* * *
-
-_I don’t care much about tech, I don’t care a whole lot about finance, either. I care about writing stories and watching weird things unfold. And that’s why I’ve ended up in crypto._
-
-_But because I’m missing that passion for what crypto and blockchain are all about — finance, tech, privacy, yadda yadda — I’m going to write instead about what I am actually interested in. Everything about crypto that has very little to do with crypto._
-
-_That’s what this column will be about. All the tangential stories that come out of the blockchain and crypto space, what I think about them, and how I navigate it all as a skeptical former Russian literature major._
-
-_It’s precisely my perch as an outsider that lets me do what I do: Opine on all sides of any crypto issue, no strings attached, no skin in the game._
-
-_If you want to talk crypto with me, let’s go off topic._
-
-* * *
-
-**Start your day with top crypto insights from David Canellis and Katherine Ross. [Subscribe to the Empire newsletter](https://blockworks.co/newsletter/empire).**
-
-Tags
-
-*   [celebrity](https://blockworks.co/tag/celebrity)
-*   [Crypto.com](https://blockworks.co/tag/cryptocom)
-*   [cryptocurrency](https://blockworks.co/tag/cryptocurrency)
-</description><pubDate>Wed, 01 May 2024 16:49:08 GMT</pubDate><link>https://blockworks.co/news/eminem-cryptocom-advertisement-silly</link></item><item><title>News Article 52</title><description>Title: Solana and Bitcoin NFT trading hits record numbers
-
-URL Source: https://cryptobriefing.com/nft-market-trends-analysis/
-
-Published Time: 2024-05-01T16:30:03+00:00
-
-Markdown Content:
-Bitcoin and Solana non-fungible token (NFT) market registered records in daily active traders (DAT) last week, [according](https://ournetwork.substack.com/p/on227-nft-marketplaces) to the research blog OurNetwork. While Solana reached its all-time high of 59,300 DAT, Bitcoin registered a peak of 25,600 DAT.
-
-Solana’s rising DAT number represents a fourfold increase from the approximately 15,000 daily traders earlier last week. The publication attributes this growth to the influx of wallets engaging in sub-$10 transactions on platforms like Magic Eden and Tensor. Over the past week, Magic Eden has captured a significant 74% of Solana’s trading volume market share and 38% of its trader market share, while Tensor has secured 18% of the volume and a dominant 61% of traders.
-
-Meanwhile, Bitcoin’s NFT trading historical peak was attributed to the anticipation of the Runes protocol launch. However, the trader count experienced a sharp decline to around 7,000 the day following the launch. Magic Eden has been the primary hub for Bitcoin’s NFT activity, commanding 82% of both active traders and trading volume over the last seven days, with OKX trailing at 16% for the same metrics.
-
-[![Image 1: Sapphire](https://static.cryptobriefing.com/wp-content/uploads/2024/03/18060845/600x500.jpg)](https://sapphire.cryptobriefing.com/?utm_source=cryptobriefing&amp;utm_medium=referral&amp;utm_campaign=180324&amp;ap=mreciad&amp;offer=x240415070T0U7V)
-
-![Image 2: Solana and Bitcoin NFT trading hits record numbers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20787%20383'%3E%3C/svg%3E)
-
-Image: OurNetwork/NFTpulse
-
-Ethereum still reigns, but numbers decline
-------------------------------------------
-
-Despite dominating in trading volume and daily active traders, Ethereum’s weekly NFT trader numbers have been in decline over the past two years, with less than 36,000 wallets engaging in trades last week. OurNetwork points out that this is a significant drawdown compared to the 218,000 seen in April 2022.
-
-Similarly, the weekly volume has plummeted from the $1.4 billion peak last April to approximately $100 million per day currently.
-
-Moreover, the Ethereum NFT landscape also shows changes when it comes to marketplace dominance. OpenSea and Blur rivalry was met by the rise of Magic Eden as a competitor since its Ethereum marketplace debut in February. Magic Eden has quickly garnered over 20% of Ethereum’s NFT volume in the last week alone.
-
-![Image 3: Solana and Bitcoin NFT trading hits record numbers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201530%20782'%3E%3C/svg%3E)
-
-Image: OurNetwork/Dune Analytics
-
-Although Blur maintains a majority share with over 50% volume, OpenSea’s presence has diminished to 13.5% in the recent seven-day period. Yet, OpenSea still leads in trader count on Ethereum, attracting about 4,000 traders daily, compared to Blur’s 2,500 and Magic Eden’s under 600. Over the last two years, OpenSea has seen a dramatic 90% drop in its weekly trader base.
-
-On the significant trades side, a transaction on the CryptoPunks NFT marketplace involved a 4,000 ETH purchase, valued at over $12 million, for a highly coveted alien punk. This sale propelled CryptoPunks to the second-highest platform by volume on Ethereum for that day, with only Blur surpassing it with $15.2 million in volume.
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefing’s own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-
-See [full terms and conditions](https://cryptobriefing.com/terms-and-conditions).
-</description><pubDate>Wed, 01 May 2024 17:33:24 GMT</pubDate><link>https://cryptobriefing.com/nft-market-trends-analysis/</link></item><item><title>News Article 52</title><description>Title: Bitcoin investor charged with tax fraud in multi-million dollar scheme
-
-URL Source: https://www.cryptopolitan.com/investor-charged-with-tax-fraud-in-multi/
-
-Markdown Content:
-Roger Ver, a supporter and pioneer of Bitcoin, has faced criminal cases related to mail fraud, tax evasion, and filing false tax returns. The indictment accuses Ver of hiding Bitcoin ownership, not reporting important company valuations, and evading nearly $50 million in estimated taxes.
-
-Court documents unveilsRoger Ver’s alleged tax evasion scheme
--------------------------------------------------------------
-
-The court documents [maintain](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud) that Ver, who at the time resided in Santa Clara, California, was the owner of two companies, Memory Dealers Inc. and Agilestar Inc., which resold computer and networking hardware. Verkammen’s bitcoin history goes back to 2011 when he allegedly bought the first bitcoins for himself and his firms. He also called for coins in his articles and blogs, where he got the nickname “Bitcoin Jesus.”
-
-He reportedly abandoned her US citizenship in 2014 by becoming a citizen of St. Kitts and Nevis, just two years after obtaining her citizenship. He moved his Bitcoin assets to the wallet of a family member who had not reported capital gains. 
-
-Under U.S. law, he was also required to echo that. The indictment claims that Ver intentionally underreported his asset in her appraisal by his law firm and appraiser; thus, the jurors suspected tax violation.
-
-False tax returns and undisclosed Bitcoin sales
------------------------------------------------
-
-In February 2014, 73,000 bitcoins were estimated at his firm’s disposal. This fact is still in doubt, as Ver didn’t report any Bitcoin on their tax files. Moreover, Ver allegedly sold off tens of thousands of bitcoins in 2017, which roughly translated to around $240M. 
-
-He never reported these transactions and missed paying the taxes due to the profits incurred. The indictment charges that Ver had committed acts that caused a minimum loss to the IRS not less than $48 million, according to the law. US DoJ Tax Division Acting Deputy Assistant Attorney General Stuart M. Goldberg and US Attorneys Martin Estrada for the Central District of California published the case today. 
-
-The IRS Criminal Investigation Cybercrimes Unit is spearheading the cybercrime arena. Matthew J. Kluge, an Assistant Chief in the Tax Division of the Justice Department, James Anthony, a Trial Attorney, and James, an aide US Attorney, have been essential players. Besides C. Hughes, the lawyer for the Central District of California, some well-qualified personnel are involved in the discussion as well. 
-
-He now faces extradition to the U.S. as a possible option. Roger Ver’s case for tax fraud, evasion, and false filing of tax returns was the second one in a row that emphasized that tax law submission is obligatory and should keep up with the speed of the coin industry development. This allegation sheds some light on the difficulty in regulating digital assets and the authorities’ persistence in confirming responsibility regarding the individuality’s whole sector. While the instance amasses, it may also revive awareness of the unfriendly, anti-investment practices in investors and businesses.
-</description><pubDate>Wed, 01 May 2024 17:33:48 GMT</pubDate><link>https://www.cryptopolitan.com/investor-charged-with-tax-fraud-in-multi/</link></item><item><title>News Article 52</title><description>Title: Bitcoin Euphoria Cools Off As BTC Distribution Enters Fear Zone
-
-URL Source: https://www.newsbtc.com/news/bitcoin/bitcoin-euphoria-btc-distribution/
-
-Published Time: 2024-05-01T17:00:33Z
-
-Markdown Content:
-Bitcoin has finally [broken below the $60,000 support](https://www.newsbtc.com/analysis/btc/bitcoin-price-nosedives-60k/) level for the first time in two months. The world’s largest digital asset has largely been in a [euphoria phase](https://www.newsbtc.com/bitcoin-news/usdt-dominance-falling-analyst-predicts-bitcoin-to-reach-80000/) since the beginning of the year, particularly after the launch of Spot Bitcoin ETFs in the US market. However, the current consolidation of the price of Bitcoin indicates the [euphoria might be fading](https://www.newsbtc.com/bitcoin-news/timing-the-breakout-when-will-bitcoin-escape-the-post-halving-consolidation/).
-
-According to a new report from Glassnode, an on-chain analytics firm, the euphoria surrounding Bitcoin, which has been active for the past 6.5 months, looks to be fading. At the same time, the BTC distribution has entered into the fear zone and investors are now heavily weighted towards selling.
-
-Selling Pressure Rises
-----------------------
-
-After reaching an all-time high of over $73,737 in March 2024, Bitcoin has declined by more than 18% as investors take profits. This drop in price has been accompanied by a rise in the percentage of addresses holding losses, indicating increased selling pressure. The percentage of addresses making a profit has [fallen in tandem](https://app.intotheblock.com/coin/BTC) from over 99% to 86% at the time of writing. 
-
-![Image 1](https://servedbyadbutler.com/error/blank.gif)
-
-[![Image 2: bbc iPlayer - screenshot](https://servedbyadbutler.com/getad.img/;libID=4141110)](https://servedbyadbutler.com/redirect.spark?MID=172179&amp;plid=2392605&amp;setID=366606&amp;channelID=0&amp;CID=878423&amp;banID=521869883&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=2311165&amp;adSize=728x90&amp;mt=1714584833708691&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fwww.newsbtc.com%2Fnews%2Fbitcoin%2Fbitcoin-euphoria-btc-distribution%2F&amp;hc=239426caf1fac70d6a1d96ba7622a17cc8bc3f5e&amp;location=)
-
-Related Reading: [Ethereum Flashes Bullish Signals, Can It Rally 50% From Here?](https://www.newsbtc.com/news/ethereum/ethereum-rally-50-from-here/)
-
-On-chain analytics platform Glassnode noted in its recent [report](https://insights.glassnode.com/the-week-onchain-week-18-2024/?utm_campaign=woc_18_2024&amp;utm_medium=email&amp;utm_source=woc_newsletter) the consolidation action. According to the Net Unrealized Profit &amp; Loss (NUPL) metric, Bitcoin has been in a euphoria mode very early in this cycle when compared to past cycles. Notably, the NUPL crossed over 0.5 approximately 6.5 months before the just concluded halving amidst hype about Spot Bitcoin ETFs.
-
-This is in comparison to the 2021 market cycle, where the NUPL was triggered into a profit zone 8.5 months after the Bitcoin halving. This metric suggests the market is still in its euphoria phase for the last seven months but has cooled off significantly [due to correction](https://www.newsbtc.com/bitcoin-news/is-bitcoin-rally-over-leverage-drops-as-halving-highs-fade/) in the past two months.
-
-[![Image 3: a gold and black poker chip with the words huge get bonus](https://servedbyadbutler.com/getad.img/;libID=4118444)](https://servedbyadbutler.com/redirect.spark?MID=172179&amp;plid=2374569&amp;setID=452518&amp;channelID=0&amp;CID=873125&amp;banID=521839794&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=2293218&amp;adSize=728x90&amp;mt=1714584833824911&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fwww.newsbtc.com%2Fnews%2Fbitcoin%2Fbitcoin-euphoria-btc-distribution%2F&amp;hc=f009dbbebe1f44c492fac097070229784836a41f&amp;location=)
-
-Interestingly, the report noted a “distinct uptick in net outflows” across all wallet sizes throughout April, indicating the current sentiment among traders. This means traders are now in a sell-side pressure across the board. Furthermore, a majority of short-term (one week to one month) holders have been posting losses on the 90-day +1sd level since March. 
-
-![Image 4: Bitcoin](https://www.newsbtc.com/wp-content/uploads/2024/05/Bitcoin_bb1e4e.png?w=460&amp;resize=460%2C259)
-
-Source: Glassnode
-
-What Does This Mean For Bitcoin?
---------------------------------
-
-While the “fear” rating may worry investors, a pullback after such a steep price rise is considered healthy by most crypto analysts. Many long-term holders are still [holding strong](https://bitcoinist.com/bitcoin-3-metrics-solid-healthy-bull-market/) and are waiting for the halving effect to kick in. At the time of writing, Bitcoin is trading at $59,899 and is down by 5.35% in the past 24 hours.
-
-[![Image 5: a banner with the words'bitstarz' and an image of a woman in a red dress](https://servedbyadbutler.com/getad.img/;libID=898067)](https://servedbyadbutler.com/redirect.spark?MID=172179&amp;plid=1897422&amp;setID=452519&amp;channelID=0&amp;CID=378944&amp;banID=519875620&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=1827586&amp;adSize=728x90&amp;mt=1714584834115628&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fwww.newsbtc.com%2Fnews%2Fbitcoin%2Fbitcoin-euphoria-btc-distribution%2F&amp;hc=5f9a0488adb0ae4163aa2bc934473db1b003215a&amp;location=)
-
-Related Reading: [Crypto Funds Mark 3rd Consecutive Weeks Of Outflows With $435 Million In Withdrawals](https://www.newsbtc.com/crypto/crypto-funds-outflows-435-million/)
-
-Considering the current cost-basis for short-term holders (STH) is at $66,700, and their realized price is at $59,800, many more holders in this cohort have possibly entered into the loss zone. 
-
-According to crypto analyst Ali Martinez, $59,800 is a [key price level](https://www.newsbtc.com/news/bitcoin/59800-important-level-bitcoin/) to watch, as history has shown Bitcoin tends to bounce over the STH realized price.
-
-![Image 6: Bitcoin price chart from Tradingview.com](https://www.tradingview.com/x/lXCtDhR1/)
-
-BTC price falls to $57,000 | Source: [BTCUSD on Tradingview.com](http://tradingview.com/)
-
-Featured image from CryptoSlate, chart from Tradingview.com
-
-Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
-</description><pubDate>Wed, 01 May 2024 17:34:17 GMT</pubDate><link>https://www.newsbtc.com/news/bitcoin/bitcoin-euphoria-btc-distribution/</link></item><item><title>News Article 52</title><description>Title: ETH Founder Vitalik Reveals 90% of His Crypto Held in Multi-Sig Service
-
-URL Source: https://coinedition.com/eth-founder-vitalik-reveals-90-of-his-crypto-held-in-multi-sig-service/
-
-Published Time: 2024-05-01T17:00:00+00:00
-
-Markdown Content:
-Published: May 1, 2024
-
-Last Updated: May 1, 2024
-
-*   **Vitalik Buterin uses a multi-sig wallet for 90% of his crypto to enhance security.**
-*   **He recommended a multi-sig solution to minimize the personal risks of hardware wallets.** 
-*   **In a multi-sig solution, users hold some keys but are insufficient to recover the funds independently.**
-
-[Ethereum founder Vitalik Buterin](https://coinedition.com/ethereum-founder-vitalik-under-fire-after-sending-325k-to-privacy-protocol/) has explained why as much as 90% of his personal crypto funds are secured through a multi-signature hardware wallet solution. Buterin revealed this information while commenting on a trend urging crypto users to migrate to hardware wallet solutions.
-
-Crypto data analyst Kofi [sparked](https://x.com/0xKofi/status/1785294613579730966) the conversion by painting a scenario where crypto users woke up one day and discovered their investments had been stolen. Notably, stories of devastating losses are rampant in the crypto scene, particularly as the bull market gains momentum. 
-
-As crypto enthusiasts participate in airdrop activities and other endeavors, they become susceptible to [bad actors who create similar but fraudulent activities](https://coinedition.com/investigation-shows-655000-solana-valued-122-5m-sent-to-scam-presales/) intended to steal their seed phrase to ultimately drain their wallets.
-
-Renowned crypto investigator ZachXBT recently [uncovered](https://x.com/zachxbt/status/1784935501935390930) that the Lazarus Group orchestrated over 25 crypto hacks to launder $200 million. On the other hand, security firm CertiK [disclosed](https://x.com/CertiKAlert/status/1785262226430926997) that the crypto community witnessed exploits worth $21 million in April, often involving hacks and wallet drainers.
-
-While utilizing a hardware wallet solution could prevent some of these exploits, the founder of the NFT trading platform Reservoir contends that the primary risk shifts to the users themselves. The risks include forgetting or losing the seed phrase, especially if it is hidden too well or stored in a bank safety deposit box and becomes inaccessible due to sudden relocation.
-
-In response, Vitalik Buterin noted that the cited concerns are precisely why he opted for a multisig service like Safe for over 90% of his personal funds. 
-
-&gt; The above is why I use a multisig ([@safe](https://twitter.com/safe?ref_src=twsrc%5Etfw)) for &gt;90% of my personal funds 🙂
-&gt; 
-&gt; M-of-N, some keys held by you (but not enough to block recovery), the rest held by other people you trust. Don't reveal who those other people are, even to each other.
-&gt; 
-&gt; Decentralize your own security.
-&gt; 
-&gt; — vitalik.eth (@VitalikButerin) [May 1, 2024](https://twitter.com/VitalikButerin/status/1785562273433387320?ref_src=twsrc%5Etfw)
-
-He explained that multi-sig setups, where multiple keys are required for transactions but not all held by the user, provide an added layer of security.  Typically, some keys are held by the user, but not enough to independently recover the funds. The remaining keys are entrusted to other individuals whom one trusts.
-
-“Don’t reveal who those other people are, even to each other. Decentralize your own security.” Buterin concluded.
-
-**_Disclaimer:_** _The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company._
-</description><pubDate>Wed, 01 May 2024 17:34:41 GMT</pubDate><link>https://coinedition.com/eth-founder-vitalik-reveals-90-of-his-crypto-held-in-multi-sig-service/</link></item><item><title>News Article 52</title><description>Title: Disqus Realtime Notification
-
-URL Source: https://tokenist.com/3-cannabis-stocks-that-can-post-gains-as-us-shifts-to-softer-regulations/
-
-Markdown Content:
-\-
-</description><pubDate>Wed, 01 May 2024 17:35:05 GMT</pubDate><link>https://tokenist.com/3-cannabis-stocks-that-can-post-gains-as-us-shifts-to-softer-regulations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=3-cannabis-stocks-that-can-post-gains-as-us-shifts-to-softer-regulations</link></item><item><title>News Article 52</title><description>Title: Price analysis 5/1: BTC, ETH, BNB, SOL, XRP, DOGE, TON, ADA, AVAX, SHIB
-
-URL Source: https://cointelegraph.com/news/price-analysis-5-1-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib
-
-Published Time: 2024-05-01T16:51:08.000Z
-
-Markdown Content:
-Bitcoin ([BTC](https://cointelegraph.com/bitcoin-price)) sliced through the $60,000 support on May 1, signaling that the uptrend has weakened. While the fall has muddied the short-term picture for Bitcoin, the [analysts remain bullish for the long term](https://cointelegraph.com/news/bitcoin-price-correction-crypto-traders-indicators). 
-
-Traders latch on to every bit of negative news when the price action turns bearish. Investor [sentiment received a beating](https://cointelegraph.com/news/hong-kong-bitcoin-ether-etfs-attract-200m-day1) on the muted response to the Hong Kong spot Bitcoin and Ether ([ETH](https://cointelegraph.com/ethereum-price)) exchange-traded funds (ETFs) that debuted on April 30. Continued outflows from the United States-based spot Bitcoin ETFs [for the fifth consecutive day](https://cointelegraph.com/news/bitcoin-sub-60k-after-daily-crypto-liquidations-near-300m) also did little to soothe nerves.
-
-![Image 1](https://s3.cointelegraph.com/uploads/2024-05/c4e3e14c-9807-41a9-9a99-4458b93fb597.png)
-
-_Crypto market data daily view. Source:_ [_Coin360_](https://coin360.com/)
-
-Every bull phase witnesses sharp corrections, which shake out the weak hands. The lower levels give an opportunity to the long-term investors to add to their portfolios. However, it is better to wait for the price to confirm a bottom before initiating large bets.
-
-Could Bitcoin and the altcoins start a sharp recovery, trapping the aggressive bears? Let’s analyze the charts of the top 10 cryptocurrencies to find out.
-
-Bitcoin price analysis
-----------------------
-
-Bitcoin’s consolidation resolved to the downside on May 1, indicating that the bears have overpowered the bulls.
-
-![Image 2](https://s3.cointelegraph.com/uploads/2024-05/f747a732-be81-4271-8edd-81a26247767e.png)
-
-_BTC/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3ABTCUSDT)
-
-Buyers will attempt to push the price back above $59,600, but the bears are likely to have other plans. If the price turns down from $59,600, it will suggest that the bears have flipped the level into resistance. That will enhance the prospects of a drop to the 61.8% Fibonacci retracement level of $54,298.
-
-This negative view will be invalidated in the near term if the price turns up and breaks above the 50-day simple moving average ($66,596).
-
-Ether price analysis
---------------------
-
-Ether broke below the 20-day exponential moving average ($3,170) and the $3,056 support on April 30, signaling that the bears are in command.
-
-![Image 3](https://s3.cointelegraph.com/uploads/2024-05/589a538c-e87d-4709-90f0-0a7f557004e2.png)
-
-_ETH/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3AETHUSDT)
-
-The selling continued on May 1, and the bears tugged the price below the solid support at $2,852. If bears sustain the price below $2,852, the ETH/USDT pair could move downward to $2,700 and subsequently to $2,400.
-
-Time is running out for the bulls. If they want to prevent the decline, they will have to quickly push the price back above the moving averages. If they do that, it will indicate that the fall below $2,850 may have been a fake breakdown.
-
-BNB price analysis
-------------------
-
-The long tail on BNB’s ([BNB](https://cointelegraph.com/binance-coin-price-index)) April 30 candlestick shows that the bulls purchased at lower levels but they could not sustain the momentum.
-
-![Image 4](https://s3.cointelegraph.com/uploads/2024-05/91ded5f1-93b8-4e2e-ad89-0e16a5a412c9.png)
-
-_BNB/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3ABNBUSDT)
-
-The bears continued selling and yanked the price below the moving averages on May 1. The BNB/USDT pair could drop to the critical support at $495. This is an essential support for the bulls to defend because a break below $495 could sink the pair to $460 and later to $400.
-
-Contrary to this assumption, if the price bounces off $495 and rises above the moving averages, it will suggest that the range-bound action may continue for some more time. The bulls will have to overcome the obstacle at $635 to start the next leg of the uptrend.
-
-Solana price analysis
----------------------
-
-The failure of the bulls to start a rebound off $126 in Solana ([SOL](https://cointelegraph.com/solana-price-index)) shows that the bears remain in control.
-
-![Image 5](https://s3.cointelegraph.com/uploads/2024-05/6e657e85-5ad9-450c-8d30-3c541e18503e.png)
-
-_SOL/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3ASOLUSDT)
-
-There is a minor support at $116, but if this level cracks, the selling could accelerate, and the SOL/USDT pair could plunge to $100. The greater the fall, the longer it will take for the next leg of the uptrend to begin.
-
-If bulls want to make a comeback, they will have to quickly push the price above the 20-day EMA ($144). That may trap the aggressive bears, resulting in a short squeeze. The pair may then ascend toward the 50-day SMA ($166).
-
-XRP price analysis
-------------------
-
-XRP ([XRP](https://cointelegraph.com/xrp-price-index)) tried to start a relief rally from the psychological level of $0.50 on April 29, but the bulls could not maintain the higher levels.
-
-![Image 6](https://s3.cointelegraph.com/uploads/2024-05/2f0e7d51-b2a6-4235-9ec0-cbef9185d164.png)
-
-_XRP/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3AXRPUSDT)
-
-Sustained selling by the bears pulled the price below $0.50, opening the doors for a retest of the solid support at $0.46. The bulls are expected to fiercely defend the zone between $0.46 and $0.41 because a break below it may start a downtrend.
-
-Alternatively, if the price bounces off $0.46 and rises above the 50-day SMA ($0.57), it will suggest that the bears are losing their grip. The XRP/USDT pair may then extend its stay inside the $0.41 to $0.74 range for several more days.
-
-Dogecoin price analysis
------------------------
-
-Dogecoin’s ([DOGE](https://cointelegraph.com/doge-price-index)) fall picked up momentum after the price broke below the symmetrical triangle pattern.
-
-![Image 7](https://s3.cointelegraph.com/uploads/2024-05/f5f17c7f-2b54-4503-a729-12de28b3d13e.png)
-
-_DOGE/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3ADOGEUSDT)
-
-The bears have pulled the price below the neckline of the bearish head-and-shoulders pattern. If the price remains below $0.12, the selling could intensify, and the DOGE/USDT pair may slide to $0.10 and eventually to $0.08.
-
-On the contrary, if the price quickly rises back above the neckline, it will indicate solid buying at lower levels. The bulls will gain strength on a break above the 20-day EMA ($0.15), and a potential trend change will be signaled above the downtrend line.
-
-Toncoin price analysis
-----------------------
-
-Toncoin (TON) broke below the 50-day SMA ($5.32) on April 30, indicating that the bears are maintaining their pressure.
-
-![Image 8](https://s3.cointelegraph.com/uploads/2024-05/f5826c63-10fc-4a3d-8096-71ec5e7d9105.png)
-
-_TON/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=OKX%3AtonUSDT)
-
-The bulls are likely to defend the zone between the 50% Fibonacci retracement level of $4.90 and the 61.8% retracement level of $4.25. Buyers will have to kick the price above the 20-day EMA ($5.58) to signal that the correction may be over. If that happens, the TON/USDT pair may attempt a rally to $6.24.
-
-Instead, if the price continues lower and breaks below $4.25, it will signal that the uptrend has ended. That increases the risk of a drop to $3.32.
-
-**_Related:_** [**_Why is Bitcoin price down today?_**](https://cointelegraph.com/news/why-is-bitcoin-price-down-today)
-
-Cardano price analysis
-----------------------
-
-Cardano ([ADA](https://cointelegraph.com/ada-price-index)) is trying to start a recovery from $0.42, but the weak rebound suggests a lack of demand from the bulls.
-
-![Image 9](https://s3.cointelegraph.com/uploads/2024-05/33707c4d-85b1-4cde-b52c-423f0fe59948.png)
-
-_ADA/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3AADAUSDT)
-
-The downsloping 20-day EMA ($0.48) and the RSI near the oversold zone suggest that the path of least resistance is to the downside. If the price skids below $0.42, the ADA/USDT pair could retest $0.40 support. The bulls are likely to defend the level with all their might because a break below it may extend the decline to $0.35.
-
-The 20-day EMA remains the key overhead resistance that needs to be crossed to suggest that the bears may be losing their grip. If that happens, the pair may attempt a rally to the 50-day SMA ($0.57).
-
-Avalanche price analysis
-------------------------
-
-Buyers tried to push Avalanche ([AVAX](https://cointelegraph.com/avalanche-price-index)) back above the uptrend line on April 29, but the bears did not relent. This shows that the bears are trying to flip the uptrend line into resistance.
-
-![Image 10](https://s3.cointelegraph.com/uploads/2024-05/dd6ee173-ab09-46e8-b9a9-b331dff8b2a9.png)
-
-_AVAX/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3AavaxUSDT)
-
-There is a minor support at $31.92. But if this level gives way, the AVAX/USDT pair could plummet to $29.24. The zone between $27.24 and $29.24 may witness aggressive buying by the bulls.
-
-Buyers will have to clear the downtrend line on the way up if they want to signal a comeback. The pair could then rise to $42 and thereafter to the 50-day SMA ($45.68). This level may attract selling by the bears.
-
-Shiba Inu price analysis
-------------------------
-
-The bulls tried to push Shiba Inu ([SHIB](https://cointelegraph.com/shiba-inu-price-index)) above the 20-day EMA ($0.000024) on April 30, but the bears held their ground.
-
-![Image 11](https://s3.cointelegraph.com/uploads/2024-05/c198c8b2-10e8-4687-91a4-6f30c1c006d0.png)
-
-_SHIB/USDT daily chart. Source:_ [_TradingView_](https://www.tradingview.com/chart/?symbol=BINANCE%3AshibUSDT)
-
-The SHIB/USDT pair could slide to $0.000020, which is likely to act as a strong support. Any rebound off this level is expected to face selling at the 20-day EMA. If the price turns down sharply from the 20-day EMA, the likelihood of a drop to $0.000018 increases.
-
-The first sign of strength will be a break and close above the moving averages. Such a move will signal solid buying at lower levels. The pair may then attempt a rally to $0.000033, where the bears may mount a stiff resistance.
-
-This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-</description><pubDate>Wed, 01 May 2024 17:36:30 GMT</pubDate><link>https://cointelegraph.com/news/price-analysis-5-1-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib</link></item><item><title>News Article 52</title><description>Title: Interpol Finalizes Extradition Paperwork for Binance Executive | Cryptopolitan
-
-URL Source: https://www.cryptopolitan.com/interpol-extradition-paperwork-binance-executive/
-
-Markdown Content:
-The Nigerian Central Bureau of Interpol has finalized the extradition papers of Nadeem Anjarwalla, a [Binance](https://www.cryptopolitan.com/news/binance-bnb/) Holdings official currently having legal problems. Anjarwalla left Nigeria after [being accused o](https://www.cryptopolitan.com/nigeria-holds-binance-execs-eyes-march-20-hearing/)f money laundering and tax evasion and is now believed to be in Kenya. Garba Umar, head of the Nigerian NCB, also pointed out that attempts are already being made to serve a Red Notice to bring Anjarwalla back to Nigeria for trial.
-
-In an appearance on the local “Sunrise Daily” on April 30, Umar divulged that Anjarwalla’s precise location is not known, but his last known location was Kenya. Interpol is coordinating with various countries Anjarwalla may have traveled through to gather essential information, which remains confidential.
-
-Incident Details and Binance Exiting Nigeria
---------------------------------------------
-
-Despite Nigerian officials confiscating Anjarwalla’s travel documents, he left Nigeria on March 22, raising questions about the control of his departure. At the same time, Tigran Gambaryan, Anjarwalla’s colleague, [was arrested](https://www.cryptopolitan.com/nigerian-court-delays-binance-executive-bail/) on similar charges. He pleaded not guilty and is detained for his bail hearing scheduled for May 17. Gambaryan’s case led to a petition for his release, which has gained over 4,000 signatures.
-
-Subsequent to this, Binance declared its withdrawal from the Nigerian market after the governor of the Central Bank of Nigeria accused Binance of involvement in illegal transactions. In consequence, Binance stopped all transactions in the Nigerian naira and delisted all naira trading pairs from its peer-to-peer trading platform in late February. This move signals a major withdrawal from one of Africa’s biggest cryptocurrency markets.
-
-Litigations and Regulatory Measures
------------------------------------
-
-The charges against Anjarwalla have triggered a united international effort to arrest and repatriate him to Nigeria. The ongoing case is an indication of Interpol’s growing role in solving transnational financial crimes. This event is a component of overall enforcement measures aimed at compliance and regulatory adherence in the sphere of cryptocurrency.
-
-_**Disclaimer**. The information provided is not trading advice. Cryptopolitan.com holds no liability for any investments made based on the information provided on this page. We strongly recommend independent research and/or consultation with a qualified professional before making any investment decisions._
-</description><pubDate>Wed, 01 May 2024 17:36:55 GMT</pubDate><link>https://www.cryptopolitan.com/interpol-extradition-paperwork-binance-executive/</link></item><item><title>News Article 52</title><description>Title: Cryptocurrency Exchange Binance Announces Latest Project It Invested in
-
-URL Source: https://en.bitcoinsistemi.com/cryptocurrency-exchange-binance-announces-latest-project-it-invested-in/
-
-Published Time: 2024-05-01T16:46:05+00:00
-
-Markdown Content:
-Blockchain development firm Movement Labs has received an undisclosed investment from Binance Labs, the venture capital arm of Binance, the world's largest cryptocurrency exchange. This investment comes on the heels of Movement Labs' $38 million Series A funding round led by Polychain Capital.
-
-Movement Labs is on a mission to build an ecosystem of blockchains based on the modular programming language Move, starting with “M2”, a Move Virtual Machine Layer 2 for Ethereum. The company plans to use the funds to expand into the Asia-Pacific region and encourage adoption of the Move programming language across broader blockchain ecosystems.
-
-“Binance Labs' support and expertise will be invaluable as we continue to implement our 'Move Anywhere' strategy, focusing on the vibrant and innovative APAC market,” said Rushi Manche, co-founder of Movement Labs.
-
-Movement's Layer 2 blockchain aims to expand the use of the Move programming language beyond the well-known Aptos and Sui Layer 1 blockchains. Move was originally developed by a team within Meta, formerly known as Facebook's now-defunct Diem stablecoin project.
-
-Additionally, Movement Labs is developing Move Stack, an execution layer framework compatible with rollups such as Optimism, Polygon, and Arbitrum. The company will launch its public testnet Parthenon in the coming weeks and aims for a mainnet launch by the end of the year.
-
-\*This is not investment advice.
-
-Follow our [**Telegram**](https://t.me/btcsistemien) and **[Twitter](https://twitter.com/btcsistemiEN)** account now for exclusive news, analytics and on-chain data!
-</description><pubDate>Wed, 01 May 2024 17:37:22 GMT</pubDate><link>https://en.bitcoinsistemi.com/cryptocurrency-exchange-binance-announces-latest-project-it-invested-in/</link></item><item><title>News Article 52</title><description>Title: Don't Get Left Behind: Web3 Wallets Offer More Than You Think In Today's Market
-
-URL Source: https://www.benzinga.com/markets/cryptocurrency/24/05/38558934/dont-get-left-behind-web3-wallets-offer-more-than-you-think-in-todays-market
-
-Published Time: 2024-05-01T12:38:27.000-04:00
-
-Markdown Content:
-The Web3 landscape is experiencing a significant shift, with user expectations for their [wallets evolving rapidly](https://www.benzinga.com/markets/cryptocurrency/22/10/29175135/eu-tightens-noose-around-russia-bans-all-crypto-wallet-services).
-
-Gone are the days when secure asset storage was the sole function; users now seek a more comprehensive and integrated experience within their Web3 wallets.
-
-Features like DApp browsing, trading, NFT marketplaces, and even inscriptions tools are becoming increasingly in-demand.
-
-In an interview with Benzinga, **Alvin Kan**, COO of **Bitget Wallet**, revealed substantial shifts in user expectations for Web3 wallets over the past two years, reflecting broader trends within the cryptocurrency and blockchain sectors.
-
-Kan noted that the functionality of these wallets has expanded significantly, transforming from mere storage solutions to comprehensive platforms supporting various Web3 activities.
-
-“Previously, Web3 wallets were mainly seen as secure storage for assets. Now, they have evolved into complex gateways offering trading, DApp browsing, and more,” Kan explained.
-
-He further emphasized that Bitget Wallet has been at the forefront of this evolution since 2018, continuously enhancing its features to meet the growing demand for integrated services like NFT marketplaces and staking gateways.
-
-Kan also highlighted the rise of inscriptions and meme coins as prominent trends driving recent developments in the wallet space.
-
-“Inscriptions have gained traction, especially post-BTC halving and with the proliferation of ETFs. We’ve responded by enhancing BTC network support and even launched our own meme coin, MOEW, which has seen surprising interest from our users,” he said.
-
-[![Image 1: a black background with a plane flying in the sky](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.benzinga.com/events/digital-assets/)
-
-_Also Read: [Spot Bitcoin ETFs Bled Another $162 Million On Tuesday](https://www.benzinga.com/markets/cryptocurrency/24/05/38554103/spot-bitcoin-etfs-bled-another-162-million-on-tuesday)_
-
-Addressing future expectations, Kan predicted that AI and intent-based management would play significant roles in the evolution of wallet technology.
-
-“Moving forward, integrating AI to improve the wallet experience isn't just about adding features—it's about fundamentally enhancing how users interact with Web3 technologies,” he stated.
-
-Kan also discussed the importance of security, a top concern for many users, especially following several high-profile breaches.
-
-“Security isn't just an add-on; it’s integral to the user experience. At Bitget, we’ve introduced keyless MPC wallets and have established strong partnerships for security audits, ensuring our users’ assets are protected without complicating the user experience,” he asserted.
-
-Bitget’s approach to integrating with various blockchain mainnets illustrates their strategic focus on interoperability and user engagement.
-
-“Our recent BWB Points campaign, for instance, allowed users to engage with over 40 different projects, earning points that could be converted into our upcoming BWB token,” Kan said, underlining the potential for such strategies to foster a more interconnected and user-friendly Web3 environment.
-
-As the digital asset landscape continues to evolve, Benzinga’s upcoming [Future of Digital Assets](https://www.benzinga.com/events/digital-assets/agenda/) event on Nov. 19 will further explore these developments.
-
-Insights from leaders like Kan will be central to discussions on how the industry can navigate the challenges and opportunities presented by the [next generation of digital asset technologies.](https://www.benzinga.com/markets/cryptocurrency/24/05/38547115/ex-binance-ceo-changpeng-zhao-sees-crypto-industry-entering-new-phase)
-
-_Read Next: [Patrick McHenry Questions SEC’s Transparency On Ethereum As A Security](https://www.benzinga.com/markets/cryptocurrency/24/05/38548916/patrick-mchenry-questions-secs-transparency-on-ethereum-as-a-security)_
-
-_Image: Shutterstock_
-
-[Market News and Data brought to you by Benzinga APIs](https://benzinga.com/apis)
-
-© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-</description><pubDate>Wed, 01 May 2024 17:41:35 GMT</pubDate><link>https://www.benzinga.com/markets/cryptocurrency/24/05/38558934/dont-get-left-behind-web3-wallets-offer-more-than-you-think-in-todays-market?utm_source=cryptopanic.com&amp;utm_campaign=partner_feed&amp;utm_medium=partner_feed&amp;utm_content=site</link></item><item><title>News Article 52</title><description>Title: Vitalik Buterin Affirms Multi-Signature Wallets Are Safer Than Hardware Wallets
+    <item><title>News Article 52</title><description>Title: Vitalik Buterin Affirms Multi-Signature Wallets Are Safer Than Hardware Wallets
 
 URL Source: https://beincrypto.com/vitalik-buterin-multi-signature-hardware-wallets/
 
@@ -2175,5 +1435,803 @@ URL Source: https://www.youtube.com/watch?v=XqQZSuJdXaY
 
 Markdown Content:
 If playback doesn't begin shortly, try restarting your device.
-</description><pubDate>Wed, 01 May 2024 18:48:51 GMT</pubDate><link>https://www.youtube.com/watch?v=XqQZSuJdXaY</link></item></channel>
+</description><pubDate>Wed, 01 May 2024 18:48:51 GMT</pubDate><link>https://www.youtube.com/watch?v=XqQZSuJdXaY</link></item><item><title>News Article 52</title><description>Title: Bitcoin, Ethereum Trade Sideways as Fed Leaves Interest Rates Untouched
+
+URL Source: https://decrypt.co/229041/bitcoin-ethereum-trade-sideways-as-fed-leaves-interest-rates-untouched
+
+Published Time: 2024-05-01T18:27:42
+
+Markdown Content:
+#### We do the research, you get the alpha!
+
+Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!
+
+[Go to Alpha Reports](https://decrypt.co/degen-alley/reports)
+
+The Federal Reserve Wednesday elected to keep its key interest rate steady as the central bank’s focus on fighting inflation compounded pain in the crypto market.
+
+In his typically cautious tone, Federal Reserve Chairman Jerome Powell told reporters that the fight to get inflation to 2% was difficult but added that he thought it was “unlikely that the next policy rate move will be a hike.”
+
+“I’d say it’s unlikely,” he said, but warned that it was “likely to take longer for us to gain confidence that we are on a sustainable path to 2% inflation.”
+
+He would not reveal to reporters when there would be a rate cut.
+
+“The committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2%,” Powell added in a prepared statement.
+
+As of this writing, Bitcoin and Ethereum had fallen 4.6% and 1.3% over the past day to $57,600 and $2,945, respectively, according to [CoinGecko](https://decrypt.co/degen-alley). Meanwhile, the S&amp;P 500 and tech-heavy Nasdaq had fallen slightly throughout the trading day.
+
+But while the daily shift is broadly downward, both [Bitcoin](https://decrypt.co/resources/what-is-bitcoin-four-minute-instant-guide-explainer) and [Ethereum](https://decrypt.co/resources/what-is-ethereum-quickly-explained-four-minute-guide) have marked slight increases over the past hour, including ahead of and since the rate announcement. Bitcoin is up 1% over the past hour, while Ethereum has perked up by 2% during the same span.
+
+[Bitcoin Hasn't Hit the Bottom Yet, Says Standard Chartered](https://decrypt.co/229039/bitcoin-could-fall-to-50000-standard-chartered)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+If you think the recent dips in the price of Bitcoin is bad, leading financial firm Standard Chartered could further darken your mood, concluding that the biggest cryptocurrency by market cap could fall as far as $50,000. In a Wednesday note, Geoffrey Kendrick—digital assets researcher at the British company and lead author of the report—said that “the broader macro backdrop has deteriorated for assets like crypto that thrive on liquidity.” “The driver seems to be a combination of crypto specifi...
+
+Signs of stubborn inflation have lent traders pause, as [fears boiled over](https://decrypt.co/227213/bitcoin-bull-run-halving-etfs-experts-weigh-in) last month that the Fed could be forced to keep interest rates higher for longer than anticipated. Those jitters were elevated recently by a stronger-than-expected [rise in inflation](https://decrypt.co/228113/bitcoin-ethereum-gdp-fed-rate-cuts-inflation) and [growth in wages](https://www.reuters.com/markets/us/us-labor-costs-increase-more-than-expected-first-quarter-2024-04-30/) in the first quarter.
+
+Shifting rate expectations are driving Bitcoin’s price more as spot Bitcoin ETFs see [pittering inflows](https://decrypt.co/228620/digital-asset-investment-funds-lose-cash-three-weeks?amp=1), CoinShares’ Head of Research James Butterfill told _Decrypt_ Monday. For Ethereum, the pressure comes as a [court battle](https://decrypt.co/228274/coinbase-uniswap-ethereum-consensys-sec) over its regulatory status in the U.S. [continues](https://decrypt.co/228870/sec-gensler-lied-congress-ethereum-patrick-mchenry) to come to light.
+
+Inflation has fallen steadily from multi-decade highs in 2022, but it remains above the Fed’s target of 2% annually. When inflation clocked in at 3.5% in the 12 months through March, a lack of change compared to the previous month’s release caused crypto markets to [shudder immediately](https://decrypt.co/225622/bitcoin-ethereum-dive-us-inflation-data).
+
+The Fed has kept its benchmark interest rate at a target range of between 5.25% and 5.5% since July of last year, pushing forward for months with the highest rates in more than 23 years.
+
+[Feds Are Investigating Jack Dorsey's Block Over Bitcoin Biz: Report](https://decrypt.co/229047/feds-investigating-jack-dorsey-block-bitcoin-biz-report)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Amid an apparently growing crackdown on the crypto industry from American regulators, U.S. prosecutors are reportedly investigating Block, the Jack Dorsey-founded company behind Square and Cash App. Federal prosecutors have been probing the internal processes of the company—including its crypto business—according to a report from NBC News published Wednesday, citing two sources familiar with the investigation. Prosecutors are reportedly investigating "alleged widespread and yearslong compliance...
+
+Higher interest rates, which can slow the economy through increased borrowing costs, are generally bad news for risk assets like stocks and crypto. That’s because the payout on cash reserves and U.S. Treasuries becomes relatively more attractive as rates move and stay higher.
+
+Though the Fed in March had [penciled in](https://decrypt.co/222627/bitcoin-price-barely-budges-federal-reserve-interest-rates) three quarter-percentage point cuts for 2024, traders have grown less hopeful. According to the CME’s [FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html), financial market participants may see only one rate cute—or zero—by year’s end.
+
+As rate cut expectations inched further out in April, Bitcoin notched its worst month since November 2022. Coming off all-time highs in March, Bitcoin fell 14% throughout the month to around $60,000.
+
+In April, Powell [said](https://www.nbcnews.com/business/economy/fed-chair-powell-says-lack-progress-year-inflation-rcna148075) that inflation hasn’t come down as quickly as policymakers expected, suggesting rate cuts could still be far out. Yet the Fed chair signaled interest rates, where they currently are, could also be sufficient to get the job done too.
+
+“The recent data have clearly not given us greater confidence, and instead indicate that it’s likely to take longer than expected to achieve that confidence,” he said. “That said, we think policy is well positioned to handle the risks that we face.”
+
+_Edited by [Andrew Hayward](https://decrypt.co/author/andrew-hayward) with additional reporting by [Mathew Di Salvo](https://decrypt.co/author/mathewdisalvo)._
+
+### Stay on top of crypto news, get daily updates in your inbox.
+</description><pubDate>Wed, 01 May 2024 19:34:39 GMT</pubDate><link>https://decrypt.co/229041/bitcoin-ethereum-trade-sideways-as-fed-leaves-interest-rates-untouched</link></item><item><title>News Article 52</title><description>Title: Figment begins to power Bitvavo digital asset staking | Cryptopolitan
+
+URL Source: https://www.cryptopolitan.com/figment-begins-power-bitvavo-asset-staking/
+
+Markdown Content:
+Bitvavo has taken a big step regarding asset staking. In the recent move, it has announced that it will begin collaboration with Figment for asset staking. It is one of the leading cryptocurrency exchanges that has more than 1.5 million users. The new addition to its services will add further to the facilities for users. 
+
+About Bitvavo and Figment
+-------------------------
+
+Bitvavo serves as a custodial cryptocurrency exchange and offers reliable crypto services to users in Europe. Though there are many crypto exchanges in Europe, there will be few comparable to Bitvavo for services and reputation. It is specifically focused on the EU region and its services can’t be accessed outside of the mentioned area. 
+
+It has about 250 crypto assets available and it has attracted more than 1.5 million users which shows its popularity. It is based in Amsterdam and the secure trading environment is overseen by strong regulation. Furthermore, it is registered with the Dutch Central Bank which adds to its reliability.
+
+Bitvavo continues to review its services, looking for improvement. Figment has joined hands with Bitvavo to help in digital asset staking. As the two collaborate, Bitvavo will be able to use the staking services adding to the services available to the customers.   
+
+The collaboration between the two companies is seen as of big importance in cryptocurrency circles. Both aim to look for new opportunities and add to their potential. The collaboration between the two will ensure that there are additional security services and [expansion](https://www.cryptopolitan.com/bitvavo-expands-services-to-france/) of staking services. 
+
+Bitvavo collaborates with Figment
+---------------------------------
+
+The collaboration between Bitvavo and Figment has been announced by the prior’s CEO Mark Nuvelstijn. He said that the company continues to review its services in order to create a user-friendly environment and better products. He further added that their company views collaboration with Figment as a step to further the value of services for customers. 
+
+They have chosen Figment for a number of reasons. Some of these include safety related to staking, additional security, and the expansion of services. Figment has up-to-date knowledge of staking and collaboration will help the mentioned cryptocurrency exchange continue as a global leader in the field of cryptocurrency. 
+
+The company has worked with Figment for more than six months which has impressed them with quality as well as swift resolution of problems. The Head of EMEA at [Figment](https://x.com/CurveFinance/status/1785406648082997532) said that they wish to continue the collaboration while bringing staking services to the users. 
+
+Figment has continued to serve various companies in staking and the number of institutional clients exceeds 500. These include asset managers, wallets, foundations, managers, token holders, etc. Some of the impressive features include a staking dashboard, API integration, audited infrastructure, etc. 
+
+Key features of this collaboration
+----------------------------------
+
+As the two companies have collaborated to improve their services, it will add some features to their services. There are dedicated validator nodes for Bitvavo which will enhance the network security and performance. In order to ensure oversight and transparency, additional reporting capabilities have been added. 
+
+Furthermore, clients would be able to benefit from the engineering and protocol expertise of Figment to get consistent staking rewards. There is less risk-taking and other benefits in Figment services which will enhance Bitvavo’s customers’ experience. Thus, this collaboration will bring various benefits to the users of the mentioned cryptocurrency exchange. 
+
+Conclusion
+----------
+
+Bitvavo has announced collaboration with Figment which will allow the use of asset staking services. As this collaboration has been announced, both companies have shown optimistic views for improvement. The shared asset staking facilities will benefit customers of Bitvavo in various ways.
+</description><pubDate>Wed, 01 May 2024 19:35:03 GMT</pubDate><link>https://www.cryptopolitan.com/figment-begins-power-bitvavo-asset-staking/</link></item><item><title>News Article 52</title><description>Title: Bitcoin Jumps, DXY Falls as Fed to Reduce Bond Selling
+
+URL Source: https://www.trustnodes.com/2024/05/01/bitcoin-jumps-dxy-falls-as-fed-to-reduce-bond-selling
+
+Markdown Content:
+The Federal Reserve Banks are slowing down the quantitative tightening (QT) by lowering the rate of bond selling.
+
+"Beginning in June, the Committee will slow the pace of decline of its securities holdings by reducing the monthly redemption cap on Treasury securities from $60 billion to $25 billion," it [said](https://www.federalreserve.gov/monetarypolicy/files/monetary20240501a1.pdf), adding:
+
+"The Committee will maintain the monthly redemption cap on agency debt and agency mortgage-backed securities at $35 billion and will reinvest any principal payments in excess of this cap into Treasury securities."
+
+They will also keep interest rates at current levels until the next meeting in June as they wait for inflation to move to 2%.
+
+The reduction by more than 50% in bond selling every month, combined with an announcement by the Treasury of a bonds buyback plan, should lower the yield with it dropping 45 basis points on this announcement for the 10 year Treasuries.
+
+Lower bond yields should reduce the cost of debt overall, making this a soft rate cut ahead of the [speech](https://www.youtube.com/watch?v=o0unztmcLvA) by Fed's chair Jerome Powell when we'll learn more.
+
+Bitcoin rose above $58,000 from $57,000 on the announcement while a volatile dollar index, DXY, dipped to 105.7 initially, to now 105.8 from 105.9.
+
+No strong directional move yet therefore ahead of the conference as markets digest this announcement.
+
+Limited to 10 per Article - Free Subscription For One Year. [Learn more?](https://www.trustnodes.com/2023/12/14/trustnodes-launches-subscription-nfts)
+</description><pubDate>Wed, 01 May 2024 19:35:25 GMT</pubDate><link>https://www.trustnodes.com/2024/05/01/bitcoin-jumps-dxy-falls-as-fed-to-reduce-bond-selling</link></item><item><title>News Article 52</title><description>Title: Fed holds interest rates, markets hardly react
+
+URL Source: https://blockworks.co/news/federal-reserve-holds-interest-rates-level
+
+Markdown Content:
+In a highly anticipated move, the Federal Reserve chose to hold interest rates at their existing level on Wednesday following the Federal Open Market Committee two-day policy meeting. 
+
+The rate hike pause marks the central bank’s sixth since consecutively raising interest rates from March 2022 to July 2023. Persistent inflation and a healthy labor market contributed to central bankers’ decision to hold rates, they said. 
+
+“In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks,” Wednesday’s [statement](https://www.federalreserve.gov/monetarypolicy/files/monetary20240501a1.pdf) read. “The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2%.” 
+
+Central bankers will need to see more evidence that inflation is easing before cutting rates, Fed Chairman Jerome Powell said Wednesday during a press conference.
+
+“The path forward is uncertain,” [Powell](https://blockworks.co/tag/jerome-powell) said. 
+
+“Although some measures of short-term inflation expectations have increased in recent months, longer-term inflation expectations appear to remain well anchored as reflected in a broad range of surveys of households, businesses and forecasters, as well as measures from financial markets,” he added.
+
+Stocks and cryptocurrencies were little changed on the news. Bitcoin ([BTC](https://blockworks.co/price/btc)) traded sideways in the moments after the [Fed](https://blockworks.co/tag/federal-reserve) released its statement at 2 pm ET, sitting around $57,786 at time of publication, per Coinbase. The largest cryptocurrency is down about 4% over the past 24 hours. 
+
+Ether ([ETH](https://blockworks.co/price/eth)) similarly traded flat, hovering around $2,900 at time of publication – about 1% lower over 24 hours. 
+
+The Nasdaq Composite and S&amp;P 500 indexes inched marginally higher on the news, managing to move just barely into the green after an otherwise disappointing trading session. 
+
+Bitcoin has hovered below $60,000 since early Wednesday, a downward trend analysts say is poised to continue. 
+
+“A break to the downside through $59,200 in BTC has led to an accelerated selloff and, barring an unforeseen catalyst, there seems little in the way of this market testing the \[$53,000\] area before a meaningful turnaround,” Mike Tauckus, head of trading and structuring at BitOoda, said. Markets on Wednesday expected about a 9% chance a rate cut will come in June, according to [data](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html) from CME Group.
+
+_Updated May 1, 2024 at 2:37 pm ET: Added statement from Fed Chair Jerome Powell._
+
+* * *
+
+**Start your day with top crypto insights from David Canellis and Katherine Ross. [Subscribe to the Empire newsletter](https://blockworks.co/newsletter/empire).**
+
+Tags
+
+*   [Federal Reserve](https://blockworks.co/tag/federal-reserve)
+*   [FOMC](https://blockworks.co/tag/fomc)
+*   [Interest Rates](https://blockworks.co/tag/interest-rates)
+</description><pubDate>Wed, 01 May 2024 19:35:47 GMT</pubDate><link>https://blockworks.co/news/federal-reserve-holds-interest-rates-level</link></item><item><title>News Article 52</title><description>Title: Aave Proposes V4 Iteration and Aave Network Validium
+
+URL Source: https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium
+
+Published Time: 2024-05-01T19:00:00.000Z
+
+Markdown Content:
+Aave v4 will aggregate liquidity from multiple networks via a cross-chain liquidity layer.
+
+Aave, the largest DeFi lending protocol by TVL, has proposed plans to launch a v4 iteration and validium network within the next three years.
+
+Announced on May 1, Aave v4 will boast a unified cross-chain liquidity layer (CCLL), aggregating liquidity from across multiple networks within a single protocol. Aave noted that CCLL would be powered by Chainlink’s Cross-Chain Interoperability Protocol (CCIP), which completed its [permissionless rollout](https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol) last week.
+
+“Aave can soon scale to become a fully cross-chain liquidity protocol,” the proposal said. “This will allow borrowers to access instant liquidity across all supported networks.”
+
+Aave v4 will also feature automated adjustments to its interest rate curve, dynamic interest rate premiums for riskier assets, smart accounts and vaults allowing users to segregate their borrowing activities, and an updated liquidation engine.
+
+Aave said it hopes to begin prototyping its v4 protocol during Q4 and hopes to implement the code in Q2 2025. However, it does not expect the CCLL to roll out until 2026 or 2027.
+
+The proposal also outlines plans to launch an Aave Network, which would function as the primary hub for the Aave protocol and the project’s GHO stablecoin.
+
+Aave proposes utilizing a rollup-like [validium](https://thedefiant.io/news/defi/vitalik-advocates-for-renewed-exploration-into-plasma-based-scaling-solutions) architecture for the network, adopting GHO as its network token for fees, and using AAVE as the main staking asset for decentralized validators and sequencers.
+
+Aave noted it will monitor the evolution of both Layer 1 and Layer 2 networks before finalizing the network’s architecture, but said Aave Network will inherit its security from Ethereum.
+
+The proposal added that “Ethereum would remain the home of the Aave DAO and the Aave governance” and both Aave and GHO would continue to operate as “multichain and network-agnostic despite Aave’s plans to launch a bespoke network. Aave is also targeting 2026 or 2027 for the launch of Aave Chain.
+
+Aave seeks to ensure future dominance
+-------------------------------------
+
+Aave is the third-largest DeFi protocol with a total value locked (TVL) of $10 billion, according to DeFiLlama.
+
+Recent research from Token Terminal indicated that Aave has consistently enjoyed a roughly [50%](https://twitter.com/tokenterminal/status/1759210742035746890/photo/1) share of the DeFi lending market over the past three years. Aave’s Marc Zeller [replied](https://twitter.com/lemiscate/status/1759229791637524957) that roughly 75% of the value in DeFi lending protocols is locked in projects leveraging versions of Aave’s codebase.
+
+Aave said its three-year plan seeks to maintain its position as a leading DeFi for the rest of the decade. “These ideas aim to significantly boost the adoption of the Aave ecosystem and scale DeFi to reach the next billion users,” the proposal said.
+
+Aave’s three-year roadmap also includes promoting the development of real-world asset products built around GHO, expanding Aave onto networks that do not support Ethereum Virtual Machine smart contracts, and introducing new visual branding licensed to the Aave DAO.
+
+Aave is budgeting 15M GHO and 25,000 stkAAVE ($2.1 million) to complete the first year of the roadmap, with the DAO providing 3M GHO upfront and streaming the remaining assets over the course of the first 12 months.
+
+The price of AAVE is down 14% over the past week amid the recent digital asset downturn, according to CoinGecko. Aave noted that more than 450,000 wallets currently hold AAVE.
+</description><pubDate>Wed, 01 May 2024 19:36:09 GMT</pubDate><link>https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium</link></item><item><title>News Article 52</title><description>Title: Yuga Labs restructures again, EU touts metaverse health benefits: Nifty Newsletter
+
+URL Source: https://cointelegraph.com/news/yuga-labs-restructures-eu-touts-metaverse-health-benefits-nifty-newsletter
+
+Published Time: 2024-05-01T19:00:00.000Z
+
+Markdown Content:
+In this week’s newsletter, [nonfungible token (NFT)](https://cointelegraph.com/nonfungible-tokens-for-beginners/what-are-nfts-and-why-are-they-revolutionizing-the-art-world) company Yuga Labs has laid off employees, and the European Union believes the metaverse can help children’s health. Find out how professionals feel about blockchain integration on metaverses and look into Disney’s 360-degree treadmill, demonstrated by tech YouTuber Marques Brownlee. In other news, Manchester City enters a new partnership to develop digital collectibles. 
+
+“Lost” Yuga Labs restructures again, with layoffs
+-------------------------------------------------
+
+Yuga Labs CEO Greg Solano announced on X that the NFT company is restructuring and laying off employees. Solano highlighted to the staff that the firm’s creative spirit was “muddied by labyrinthine corporate processes.”
+
+The executive said the company had been planning more than they were shipping, ending up in groups and committees. However, the Yuga CEO said he has a plan, revealing some steps in the reorganization process.
+
+[**Continue reading**](https://cointelegraph.com/news/yuga-labs-restructures-layoffs-new-exec)
+
+EU touts health benefits for children in the metaverse despite risks
+--------------------------------------------------------------------
+
+A government think tank for the EU published a letter laying down opportunities and challenges for kids in the metaverse.
+
+Maria Niestadt, a policy analyst from the European Parliamentary Research Service (EPRS), wrote that the metaverse can boost children’s creativity and help them heal from diseases.
+
+The EPRS wrote that virtual world tech can be used to diagnose and treat mental and physical health disorders. The think tank added that the technology can also be used to promote physical health using immersive exercises.
+
+[**Continue reading**](https://cointelegraph.com/news/eu-eprs-health-benefits-children-metaverse-risks)
+
+Does the metaverse need to be on the blockchain? Execs weigh in
+---------------------------------------------------------------
+
+While metaverse hype may not be as high as in 2021, professionals working in the space remain positive about its potential for the future.
+
+Imaginary Ones co-founder Clement Chia said the metaverse presents opportunities for major brands to integrate real-world products in a virtual world. The executive said that blockchain opens up endless possibilities in the metaverse.
+
+Meanwhile, Landvault CEO Samuel Huber said their firm saw many metaverse applications in tourism, real estate and sports.
+
+[**Continue reading**](https://cointelegraph.com/news/metaverse-blockchain-techology-integration-execs-weigh-in)
+
+This 360 treadmill could make Disney’s metaverse a physical playground
+----------------------------------------------------------------------
+
+Technology YouTuber Marques “MKBHD” Brownlee tested a 360-degree treadmill prototype that could turn a metaverse into a physical playground. The device is called The Holotile, a plastic mat with hundreds of smaller pieces arranged in a geometric pattern.
+
+The device can move objects in a manner similar to that of fictional characters from Star Wars. In addition, MKBHD also tested the treadmill, allowing him to walk around in a metaverse environment.
+
+[**Continue reading**](https://cointelegraph.com/news/360-treadmill-disney-metaverse-physical-playground)
+
+Manchester City to release digital collectibles through multiyear partnership with Quidd
+----------------------------------------------------------------------------------------
+
+Manchester City Football Club signed a multiyear partnership with Quidd — an Animoca Brands subsidiary — to launch digital collectibles.
+
+Quidd will develop and launch “special edition” collectibles that allow fans to unlock real-world experiences with the football club. The first product will be 200 digital player cards available on May 2.
+
+[**Continue reading**](https://cointelegraph.com/news/manchester-city-nft-digital-collectibles-quidd)
+
+_Thanks for reading this digest of the week’s most notable developments in the NFT space. Come again next Wednesday for more reports and insights into this actively evolving space._
+</description><pubDate>Wed, 01 May 2024 19:36:32 GMT</pubDate><link>https://cointelegraph.com/news/yuga-labs-restructures-eu-touts-metaverse-health-benefits-nifty-newsletter</link></item><item><title>News Article 52</title><description>Title: Former SEC Lawyer Confirms No Plan to Kill Crypto
+
+URL Source: https://beincrypto.com/sec-lawyer-denies-plan-kill-crypto/
+
+Published Time: 2024-05-01T18:50:35+00:00
+
+Markdown Content:
+**Ladan Stewart, a former key figure at the US Securities and Exchange Commission (SEC), has publicly refuted claims suggesting a governmental agenda against crypto.** 
+
+She emphasizes that the regulatory body’s actions never aimed to stifle innovation in the nascent industry.
+
+Cryptos Will Not Be Eliminated in the US
+----------------------------------------
+
+Stewart, now a partner at White &amp; Case LLP, [explained](https://www.forbes.com/sites/digital-assets/2024/05/01/former-top-sec-litigator-says-theres-no-systematic-plan-to-kill-crypto/?sh=13bf4efd4413) that during her tenure at the SEC, her primary focus was on litigating high-profile cases such as those against [Ripple](https://beincrypto.com/ripple-opposes-secs-fine-xrp-lawsuit/) and [Coinbase](https://beincrypto.com/coinbase-sec-hearing-underwhelming-crypto-lawyer/). She pointed out that the agency’s approach has always been technologically neutral.
+
+Therefore, she clarified the widespread speculation about a deliberate crackdown the SEC has imposed on crypto businesses.
+
+&gt; “The SEC is not trying to kill crypto. Our main concern has always been about ensuring investor protection and compliance within the industry,” Stewart stated. 
+
+Her comments come at a time when industry leaders have voiced concerns about [harsh crypto regulatory measures](https://beincrypto.com/janet-yellen-urges-crypto-regulation/) potentially driving innovation out of the US.
+
+Sponsored
+
+[![Image 1: get in early harambe ai token presale](https://servedbyadbutler.com/getad.img/;libID=4104197)](https://servedbyadbutler.com/redirect.spark?MID=177750&amp;plid=2360005&amp;setID=654215&amp;channelID=0&amp;CID=850326&amp;banID=521813825&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=2278819&amp;adSize=300x600&amp;data_keys=%7B%22product%22%3A%22news%22%2C%22domain%22%3A%22com.beincrypto.com%22%7D&amp;mt=1714592194863704&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fbeincrypto.com%2Fsec-lawyer-denies-plan-kill-crypto%2F&amp;hc=9608b8d44e70562434d83d9767acb2a51d8180f4&amp;location=)
+
+[![Image 2: epic satoshi auction](https://servedbyadbutler.com/getad.img/;libID=4152335)](https://servedbyadbutler.com/redirect.spark?MID=177750&amp;plid=2403550&amp;setID=722596&amp;channelID=0&amp;CID=882000&amp;banID=521896631&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=2322038&amp;adSize=745x180&amp;data_keys=%7B%22product%22%3A%22news%22%2C%22domain%22%3A%22com.beincrypto.com%22%7D&amp;mt=1714592194930603&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fbeincrypto.com%2Fsec-lawyer-denies-plan-kill-crypto%2F&amp;hc=2b04198b34000e8356de50fab37a69961d50cd2a&amp;location=)
+
+Sponsored
+
+According to Stewart, the industry’s compliance with regulations designed to protect investors is critical. The SEC’s efforts constantly ensure that investors have all the detailed information. While the [SEC will continue to enforce compliance](https://beincrypto.com/gary-gensler-misled-congress-ethereum/), there is no conspiracy to dismantle the crypto industry. 
+
+Instead, the focus is on fostering a safe and compliant environment for investors. Which, in turn, supports the healthy growth of the sector.
+
+**Read more: [Crypto Regulation: What Are the Benefits and Drawbacks?](https://beincrypto.com/learn/crypto-regulation/)**
+
+![Image 3: Global Crypto Regulations](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCiAgdmlld0JveD0iMCAwIDEwMCAxMDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEwMCAxMDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPgogPHBhdGggZmlsbD0iI2JlYmNiYyIgZD0iTTQyLjMsMzkuNmM1LjctNC4zLDEzLjktMy4xLDE4LjEsMi43YzQuMyw1LjcsMy4xLDEzLjktMi43LDE4LjFsNC4xLDUuNWM4LjgtNi41LDEwLjYtMTksNC4xLTI3LjcKICBjLTYuNS04LjgtMTktMTAuNi0yNy43LTQuMUw0Mi4zLDM5LjZ6Ij4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gCiAgICAgICAgIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgCiAgICAgICAgIGF0dHJpYnV0ZVR5cGU9IlhNTCIgCiAgICAgICAgIHR5cGU9InJvdGF0ZSIKICAgICAgICAgZHVyPSIxcyIgCiAgICAgICAgIGZyb209IjAgNTAgNTAiCiAgICAgICAgIHRvPSItMzYwIDUwIDUwIiAKICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgogPHBhdGggZmlsbD0iI2JlYmNiYyIgZD0iTTgyLDM1LjdDNzQuMSwxOCw1My40LDEwLjEsMzUuNywxOFMxMC4xLDQ2LjYsMTgsNjQuM2w3LjYtMy40Yy02LTEzLjUsMC0yOS4zLDEzLjUtMzUuM3MyOS4zLDAsMzUuMywxMy41CiAgTDgyLDM1Ljd6Ij4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gCiAgICAgICAgIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgCiAgICAgICAgIGF0dHJpYnV0ZVR5cGU9IlhNTCIgCiAgICAgICAgIHR5cGU9InJvdGF0ZSIKICAgICAgICAgZHVyPSIycyIgCiAgICAgICAgIGZyb209IjAgNTAgNTAiCiAgICAgICAgIHRvPSIzNjAgNTAgNTAiIAogICAgICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L3BhdGg+Cjwvc3ZnPg==)
+
+Global Crypto Regulations. Source: [Statista](https://www.statista.com/chart/27069/cryptocurrency-regulation-world-map/)
+
+Sponsored
+
+Get guaranteed bonus up to $200 on Coinbase in 3 easy steps
+
+*   Sign up on Coinbase by the link below
+*   Pass KYC
+*   Claim the bonus in your account
+
+[Sign un on Coinbase!](https://beincrypto.com/sec-lawyer-denies-plan-kill-crypto/coinbase-consumer.sjv.io/q4jq6g)
+
+Sponsored
+
+In her view, open dialogue and [cooperation between regulators and the crypto community](https://beincrypto.com/sec-blackrock-spot-ethereum-etf-comments/) are essential for resolving ongoing tensions. Stewart’s insights underline a significant shift in regulatory strategies, focusing on education and compliance rather than restriction.
+
+As someone who has transitioned from a governmental role to a private legal practice, Stewart aims to bridge the gap between the crypto industry and regulatory frameworks. Her new role involves guiding crypto businesses through the complex landscape of US regulations, striving for a balance that respects innovation and legal compliance.
+
+Trusted
+-------
+
+Disclaimer
+
+In adherence to the [Trust Project](https://beincrypto.com/trust-project/) guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our [Terms and Conditions](https://beincrypto.com/terms-and-conditions/), [Privacy Policy](https://beincrypto.com/privacy-policy/), and [Disclaimers](https://beincrypto.com/disclaimer/) have been updated.
+</description><pubDate>Wed, 01 May 2024 19:36:58 GMT</pubDate><link>https://beincrypto.com/sec-lawyer-denies-plan-kill-crypto/</link></item><item><title>News Article 52</title><description>Title: Here's How AI Can Help Find Money Laundering on Bitcoin
+
+URL Source: https://decrypt.co/229030/heres-how-ai-can-detect-money-laundering-on-bitcoin
+
+Published Time: 2024-05-01T18:46:02
+
+Markdown Content:
+Artificial intelligence can rapidly scan the massive Bitcoin blockchain for signs of illegal activity, a capability that could dramatically strengthen the work of law enforcement in combatting money laundering, a new [report](https://www.elliptic.co/blog/our-new-research-enhancing-blockchain-analytics-through-ai?utm_content=291576989&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-1344645140) explains.
+
+Blockchain analysis firm Elliptic on Wednesday published a study with the MIT-IBM Watson AI Lab that analyzed Bitcoin transactions using a deep learning AI model to detect money laundering patterns and identify wallets used in crimes.
+
+[Bitcoin](https://decrypt.co/resources/what-is-bitcoin-four-minute-instant-guide-explainer) is renowned for using a decentralized public ledger—a core facet of the technology that also made the study possible, Elliptic said. Elliptic and MIT-IBM used AI to separate legal and illicit transactions into groups and follow links among the latter to uncover potential money laundering.
+
+“Blockchains provide fertile ground for machine learning techniques, thanks to the availability of both transaction data and information on the types of entities that are transacting, collected by us and others,” Elliptic wrote. “This is in contrast to traditional finance where transaction data is typically siloed, making it challenging to apply these techniques.”
+
+The test was not attempted with so-called “[privacy coins](https://decrypt.co/resources/what-are-privacy-coins-monero-zcash-and-dash-explained).”
+
+[Did Law Enforcement Crack Privacy Coin Monero? It's Complicated](https://decrypt.co/214367/did-law-enforcement-crack-privacy-coin-monero-its-complicated)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Earlier this week, an article in Finnish publication MTV Uutiset claimed that Finland's National Bureau of Investigation (KRP) had succeeded in tracking transactions made using the privacy preserving cryptocurrency Monero. However, it's unlikely that Monero itself has been compromised, a former member of the MAGIC Monero Fund committee told Decrypt. Csilla Brimer said that investigators were likely able to trace some transactions because of faulty operational security on the part of users, rathe...
+
+“Counterparty information is available for all transactions \[on Bitcoin\],” Elliptic co-founder and Chief Scientist Tom Robinson told _Decrypt_, adding that the technique could be applied to other open blockchains like [Solana](https://decrypt.co/resources/what-is-solana-a-scalable-decentralized-network-for-dapps) and [Ethereum](https://decrypt.co/resources/what-is-ethereum-quickly-explained-four-minute-guide). “This isn’t the case for privacy coins such as Monero.”
+
+&gt; New Elliptic research released today explores how [#AI](https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw) can be leveraged to detect money laundering and other financial crime on the blockchain. The research applies new techniques to a dataset containing 200m+ transactions, which is now publicly available. [https://t.co/k3GdjWJ08P](https://t.co/k3GdjWJ08P)
+&gt; 
+&gt; — Elliptic (@elliptic) [May 1, 2024](https://twitter.com/elliptic/status/1785657944979214393?ref_src=twsrc%5Etfw)
+
+![Image 1](https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/word-image.png@webp)
+
+“Rather than identifying transactions made by illicit actors, a machine learning model is trained to identify ‘subgraphs,’ chains of transactions that represent Bitcoin being laundered,” Elliptic explained. “This approach allows us to focus on the ‘multi-hop’ laundering process more generally rather than the on-chain behavior of specific illicit actors.”
+
+According to Elliptic, the report published today continues work that the company began with MIT-IBM Watson AI Lab in 2019. Elliptic initially worked with an unnamed cryptocurrency exchange to test their theory.
+
+“Of 52 ‘money laundering’ subgraphs predicted by the model \[that\] ended with deposits to this exchange, the exchange confirmed that 14 had been received by users who had already been flagged as being linked to money laundering,” the report said. “On average, less than one in 10,000 of these accounts are flagged as such, suggesting that the model performs very well.” [Crypto Exchange KuCoin Charged With 'Multi-Billion Dollar Criminal Conspiracy'](https://decrypt.co/223465/crypto-exchange-kucoin-charged-multi-billion-criminal-conspiracy)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cryptocurrency exchange KuCoin and two of its founders were charged Tuesday by the United States Department of Justice with conspiring to violate the Bank Secrecy Act by failing to operate a compliant anti-money laundering program. As a result, they allegedly enabled money laundering and terrorist activity to funnel through the platform. "As alleged, in failing to implement even basic anti-money laundering policies, the defendants allowed KuCoin to operate in the shadows of the financial markets...
+
+Government regulators, particularly in the United States, have used money laundering laws as one of many cudgels to attack the cryptocurrency industry. On Tuesday, a U.S. federal judge in Seattle sentenced Binance founder [Changpeng “CZ” Zhao](https://decrypt.co/228674/binance-founder-changpeng-zhao-sentence-money-laundering) to four months in federal prison for money laundering violations.
+
+Last month, the founders of the Bitcoin mixer [Samourai Wallet](https://decrypt.co/227949/feds-arrest-founders-bitcoin-mixer-samourai-wallet) were arrested on charges of money laundering by the U.S. Department of Justice.
+
+In the indictment, FBI Assistant Director in Charge James Smith said “threat actors” use technology like Samourai Wallet to evade law enforcement detection and create environments conducive to criminal activity.
+
+“While offering Samourai as a ‘privacy’ service, the defendants knew that it was a haven for criminals to engage in large-scale money laundering and sanctions evasion,” the DOJ said in the indictment. ”Indeed, as the defendants intended and well knew, a substantial portion of the funds that Samourai processed were criminal proceeds passed through Samourai for purposes of concealment.”
+
+_Edited by [Ryan Ozawa](https://decrypt.co/author/ryanozawa)._
+
+### Stay on top of crypto news, get daily updates in your inbox.
+</description><pubDate>Wed, 01 May 2024 19:37:31 GMT</pubDate><link>https://decrypt.co/229030/heres-how-ai-can-detect-money-laundering-on-bitcoin</link></item><item><title>News Article 52</title><description>Title: BREAKING: FED Chair Jerome Powell Speaks After Interest Rate Decision - LIVE
+
+URL Source: https://en.bitcoinsistemi.com/breaking-fed-chair-jerome-powell-speaks-after-interest-rate-decision-live/
+
+Published Time: 2024-05-01T18:41:09+00:00
+
+Markdown Content:
+As expected, the FED left interest rates constant. In the statement published after the decision, it was stated that there have been deficiencies in reaching the 2% inflation target in the recent period.
+
+Now, FED President Jerome Powell's press conference, which started at 21:30 Turkey time (UTC+3), is being followed closely.
+
+As Bitcoinsistemi.com, we are bringing you this conversation live. You can access Jerome Powell's latest remarks by refreshing the page. You can also find the official live broadcast link right below.
+
+*   Inflation fell significantly last year but remains very high.
+*   Further progress on inflation is not guaranteed; The path is unclear.
+*   We are extremely careful about inflation risks.
+*   The restrictive policy stance put downward pressure on inflation and the economy.
+*   Risks to achieving bilateral goals have become better balanced in the past year.
+*   The labor market remains relatively tight.
+*   Nominal wage growth has decreased over the past year, but labor demand still exceeds supply.
+*   This year's inflation data was higher than expected.
+*   Our policy actions are guided by our goals.
+*   FED officials are 'very aware' of the challenges posed by high inflation.
+*   But long-term inflation expectations remain well anchored.
+*   We do not think it would be appropriate to cut interest rates until we have greater confidence that inflation will return to 2%.
+*   Gaining greater confidence is likely to take longer than previously expected.
+*   Lowering policy too soon or too much, or too late or too little, both have risks.
+*   Inflation data so far this year have not given us any more confidence.
+*   Politics is well positioned to deal with the risks and uncertainties we face.
+*   We will make our decisions separately for each meeting.
+*   The policy rate is at a restrictive level.
+*   We believe it will be restrictive enough over time.
+*   We believe that over time the policy is restrictive enough to reduce inflation to 2%.
+*   The next policy move is unlikely to be a rate hike.
+*   We are focused on how long to keep the policy restrictive.
+*   To raise rates, we need to see evidence that the policy is not enough to bring inflation back to our target.
+*   We think policy is well placed to consider the different paths the economy can take.
+*   If inflation is more persistent and the labor market remains strong, it may be appropriate to postpone interest rate cuts.
+*   But there are other avenues that point to a rate cut, but these would only come if we gain more confidence and there is an unexpected weakening in the labor market.
+*   There is no obvious link between easing financial conditions and inflation.
+*   I'm not ruling out that we could still have strong growth or that the labor market and inflation could continue to fall.
+*   It is unlikely that the next move will be a rate hike.
+*   To meet the inflation target, we will likely need to see wage growth slow to more sustainable levels.
+*   I don't know how long it will take us to lower interest rates.
+*   Powell: (when asked about 3 interest rate cuts this year) said only that the FED needs more confidence on inflation and does not see progress in Q1.
+*   We need to take a cue from three worse-than-expected inflation data.
+*   Once we gain confidence about inflation, interest rate cuts will be within scope.
+*   The indication we are getting is that it will take longer to get on a sustainable path towards 2% inflation.
+*   My expectation is that inflation will decline again this year.
+*   My confidence that inflation will decline again is lower than before.
+*   Question: Has the possibility of a rate cut decreased this year? Powell: I don't have a probability estimate. We need to be more confident, our confidence did not increase in the first quarter, on the contrary it will last longer than expected.
+*   I don't know if inflation will drop enough to merit interest rate cuts.
+*   I'm not sure whether there will be a rate cut this year or not.
+*   In light of the data we have, I really don't understand where the talk of a stagflation scenario comes from.
+*   I don't see stagflation related to growth or inflation.
+*   3% inflation does not satisfy us.
+*   Restrictive monetary policy needs more time to fulfill its duty.
+*   We have peace of mind that we will do what we think is right, when we think it is right.
+*   We've seen pretty consistent progress in slowing wage growth, but it's been bumpy.
+*   It will take some time, but we will reduce inflation to 2%.
+
+Bitcoin (BTC) price rebounded modestly in the minutes since the news broke, but remains under pressure, falling more than 4% to $58,000 in 24 hours.
+
+Markets entered 2024 expecting a long series of interest rate cuts from the Federal Reserve, but those hopes have faded sharply over the past few weeks as the economy continues to strengthen and inflation rose slightly in the first four months of the year. According to the CME FedWatch tool, markets (prior to today's Fed decision) were pricing the probability of a zero rate cut this year at around 25%. A month ago, the probability that the FED would not cut interest rates in 2024 was only 1%.
+
+However, following the decision, many investors predict that the FED will make the only interest rate cut this year in November.
+
+![Image 1: FOMC Press Conference May 1, 2024](https://i.ytimg.com/vi_webp/o0unztmcLvA/hqdefault.webp)
+
+\*This is not investment advice.
+
+Follow our [**Telegram**](https://t.me/btcsistemien) and **[Twitter](https://twitter.com/btcsistemiEN)** account now for exclusive news, analytics and on-chain data!
+</description><pubDate>Wed, 01 May 2024 19:38:51 GMT</pubDate><link>https://en.bitcoinsistemi.com/breaking-fed-chair-jerome-powell-speaks-after-interest-rate-decision-live/</link></item><item><title>News Article 52</title><description>Title: VC Roundup: Gaming investments surge 94% in Q124 as market rebounds
+
+URL Source: https://cointelegraph.com/news/vc-roundup-gaming-investments-surge-94-in-q124-as-market-rebounds
+
+Published Time: 2024-05-01T18:37:09.000Z
+
+Markdown Content:
+Venture capital is seeing a strong comeback in the gaming industry, with a surge in both funding and deal volume. 
+
+[According](https://www.konvoy.vc/content/gaming-industry-report-q1-2024) to Konvoy Ventures, a venture capital firm specializing in the video gaming industry, the first quarter of 2024 saw $594 million in gaming VC funding, marking a 94% increase from the previous quarter. Deal volume also rose 28%, with 124 deals completed.
+
+Konvoy predicts the gaming market is projected to reach $225 billion by 2029, from $189 billion in 2023.
+
+The Web3 industry is also being driven by blockchain games. According to DappRadar, Web3 games accounted for 30% of all DApp activity in the first quarter of 2024, attracting 2.1 million active wallets every day. During the quarter, Polygon drew in over 1.1 million new wallets, an increase of 429% from the quarter before.
+
+Venture capital firms are gearing up to keep pace with the bull cycle. In April, some of the VCs raising capital for funds included Andreessen Horowitz, Paradigm and Pantera Capital.
+
+Cointelegraph’s VC Roundup features some of the startups that raised capital in April.
+
+### Laser Digital leads $5M investment in gaming firm Tevaera 
+
+Tevaera has completed a $5 million funding round led by Nomura’s Laser Digital. The funding will support the development of a gaming ecosystem utilizing zkSync’s ZK Stack. Investors backing the startup also include Hashkey Capital, Fenbushi Capital, Matter Labs, Draper Dragon, Faculty Group, Crypto.com Capital, Cogitent Ventures, Selini Capital, DWF Labs, Morningstar Ventures, and others. The company has been working on the zkSync platform for nearly two years, focusing on a game-IP-first strategy to address challenges in the Web3 gaming infrastructure. According to a statement, Tevaera has expanded its community to include over 850,000 Soulbound Gamers from more than 100 countries over the last year.
+
+![Image 1](https://s3.cointelegraph.com/uploads/2024-05/a9bb895e-5b2a-4b4a-9177-455932ca1589.png)
+
+_Source: [Tevaera](https://twitter.com/tevaera/status/1783103610559098889)_
+
+### AVALON raises $10M for debut title
+
+Independent game studio AVALON has secured $10 million in a funding round co-led by BITKRAFT Ventures and HASHED. Additional participants include Coinbase Ventures, Spartan Capital, Foresight Ventures, LiquidX, and Momentum6. The investment will fund the development of their inaugural game, also named AVALON, a multiplayer game that allows players to traverse various worlds while retaining their assets and progress. Founded in 2021, AVALON’s leadership team includes former members of Microsoft, Sony, Capcom, Infinity Ward, and Ubisoft, who contributed to franchises like Call of Duty, EverQuest, and Assassin’s Creed. AVALON is currently under development for PC and cloud streaming.
+
+### Uncharted raises $1.7M in seed round
+
+Uncharted has secured $1.7 million in seed funding to develop the ‘gamification layer of crypto.' The funding round was led by Shima Capital with contributions from The Spartan Group, Double Peak Group, Devmons, 32-bit, D64 Ventures, Trinity Labs, LiquidX, and several individual investors, including Immutable’s brothers Robbie and James Ferguson. Uncharted seeks to create a GameFi ecosystem where financial incentives are integrated into gameplay. The company’s first game, “Gangster Arena,” reportedly generated 150 ETH in-game transactions during its first season. Plans are underway for the release of “Gangster Arena 2” and other projects, according to a statement. The funds raised will be used for the development of Uncharted’s games and supporting ecosystem. 
+
+### Contango secures $5M to blockchain, AI seed fund
+
+Venture capital firm Contango Digital Assets has announced the initial close of the Contango Blockchain x AI Fund, raising $5 million in capital. The fund aims to invest up to $10 million in North American seed round companies at the intersection of blockchain and artificial intelligence. The new fund’s investors include XVentures, Quantstamp’s Richard Ma and previous backers of VANTA DAO, Digital Currency Group and Polychain Capital. Founded in 2020, Contango is a Canadian firm focused on promoting global decentralized systems, especially decentralized artificial intelligence. “By decentralizing governance and layering in open-source development with native blockchain incentives, we may witness the emergence of the first global Artificial General Intelligence. Our goal is to ensure we are backing projects that are building in this direction and providing a counterweight to the centralized, monopolistic alternatives,” said managing partner Mike Grantis.
+
+### Binance Labs becomes an investor in Movement Labs
+
+Binance Labs has made an undisclosed investment in Movement Labs, a blockchain development company. The startup has recently closed a $38 million Series A funding round. Movement Labs is building an ecosystem of Modular Move-based blockchains. According to a statement, the funds will be used to expand its range of open-source tooling, frameworks, and protocols to promote the adoption of the Move programming language across blockchains. Movement Labs was founded in 2022 by Rushi Manche and Cooper Scanlon, early builders in the Move ecosystem. Movement Labs is also focusing on expansion in the Asia-Pacific region.
+
+Explore more articles like this
+
+Subscribe to our Crypto Biz newsletter
+
+![Image 2: a black background with a plane flying in the sky](https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=96/https://s3.cointelegraph.com/storage/uploads/view/51588c17a3928e263aa7f89025caab3f.svg)
+
+Weekly snapshot of key business trends in blockchain and crypto, from startup buzz to regulatory shifts. Gain valuable insights to navigate the market and spot financial opportunities. Delivered every Thursday
+</description><pubDate>Wed, 01 May 2024 19:39:16 GMT</pubDate><link>https://cointelegraph.com/news/vc-roundup-gaming-investments-surge-94-in-q124-as-market-rebounds</link></item><item><title>News Article 52</title><description>Title: ‘Bitcoin Jesus’ got charged in a $50 million fraud for allegedly hiding how much Bitcoin he owns
+
+URL Source: https://qz.com/bitcoin-jesus-is-charged-with-50-million-tax-fraud-1851449442
+
+Published Time: 2024-05-01T14:36:00-04:00
+
+Markdown Content:
+![Image 1: Image for article titled ‘Bitcoin Jesus’ got charged in a $50 million fraud for allegedly hiding how much Bitcoin he owns](https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/716c5fe4e37fe517f206735808de4d04.jpg)
+
+Photo: Dado Ruvic (Reuters)
+
+Early crypto investor Roger Ver, a.k.a. ‘Bitcoin Jesus,’ has been [charged with a tax fraud](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud), with the Department of Justice saying he evaded nearly $50 million in taxes. 
+
+Wegovy and Ozempic: Are we ready for weight loss drugs?
+
+*   Off
+*   English
+
+In an indictment filed in federal court in Los Angeles, 45-year-old Ver is charged with mail fraud and tax evasion. The DOJ stated that the indictment was unsealed after his arrest in Spain over the weekend, and the U.S. authorities are seeking his extradition.
+
+Ver earned the nickname “Bitcoin Jesus” due to his early investments in cryptocurrency and his [tendency to preach about it](https://www.cnbc.com/2013/12/02/meet-bitcoin-jesus-a-virtual-currency-millionaire.html). Born in California, Ver renounced his US citizenship in February 2014 to become a citizen of St. Kitts and Nevis, a dual-island nation located between the Atlantic Ocean and the Caribbean Sea.
+
+According to the [indictment](https://www.justice.gov/opa/media/1350116/dl?inline), Ver failed to report the 131,000 Bitcoins he owned in 2014 when he renounced his citizenship. Using this method, Ver is alleged to have avoided taxes, underrepresented his Bitcoin holdings, and evaded taxes. At the moment, Bitcoin is trading at around $57,000, which means Ver’s 131,000 Bitcoins are worth about $7.5 billion.
+
+Ver’s indictment comes a day after cryptocurrency exchange [Binance founder Changpeng Zhao who pleaded guilty last year to money laundering,](https://qz.com/binance-founder-cz-money-laundering-1851446897) received a four-month jail sentence. Previously, [Sam Bankman-Fried, former CEO of the FTX crypto exchange](https://qz.com/sam-bankman-fried-prison-sentence-ftx-collapse-1851371007), was sentenced to 25 years in prison.
+</description><pubDate>Wed, 01 May 2024 19:39:38 GMT</pubDate><link>https://qz.com/bitcoin-jesus-is-charged-with-50-million-tax-fraud-1851449442</link></item><item><title>News Article 52</title><description>Title: Can MATIC Hold the Line? Polygon's Native Token Nears Yearly Low as Bitcoin Sinks Below $58K
+
+URL Source: https://dailycoin.com/polygon-matic-plunges-in-btc-led-flush-can-it-hold-support/
+
+Published Time: 2024-05-01T18:30:00+00:00
+
+Markdown Content:
+Polygon (MATIC) Plunges in BTC-Led Flush: Can It Hold Support?
+--------------------------------------------------------------
+
+Polygon (MATIC) inches close to 2024 low after 7% drop.
+
+*   [![Image 1: Okoya David](https://dailycoin.com/wp-content/uploads/2023/04/David-Okoya-50x50.png)](https://dailycoin.com/author/okoya-david/"OkoyaDavid")
+
+
+by Fact checked by: [Ciaran Lawler](https://dailycoin.com/author/ciaran-lawler/"Factcheckedby:CiaranLawler"), Editor: [Stefan Trapp](https://dailycoin.com/author/stefan-trapp/"Editor:StefanTrapp")
+
+Published: May 1, 2024 │ 6:30 PM GMT
+
+![Image 2: Robot on a cloud seeing Polygon Matic hover above it.](https://dailycoin.com/wp-content/uploads/2024/01/polygon_matic_above_up_Web.jpg)
+
+_Created by Kornelija Poderskytė from DailyCoin_
+
+[![Image 3: Google News Follow Button](https://dailycoin.com/wp-content/themes/cryptotimes/assets/img/follow-google-news-dailycoin-cryptonews.png)](https://news.google.com/publications/CAAqBwgKMIjkmAswmO6wAw?ceid=IN:en&amp;oc=3)
+
+*   **Polygon (MATIC) has dived to near-yearly lows.**
+*   **MATIC’s price action follows a broader market dip led by Bitcoin.**
+*   **A critical U.S. macroeconomic data release expected today could be essential to MATIC’s short-term fate.**
+
+[Polygon (MATIC)](https://dailycoin.com/polygon-second-layer-of-blockchain/) sees red.
+
+After [a parabolic run in Q1 2024](https://dailycoin.com/polygon-matic-price-hits-12-month-high-in-bitcoin-led-rally/), crypto assets, including Polygon’s native token MATIC, are now experiencing a rout. A recent [Bitcoin](https://dailycoin.com/bitcoin-btc-birth-cryptocurrency-blockchain-revolution/)\-led market flush has sent MATIC near yearly lows amid this decline.
+
+Polygon (MATIC) Dives Below $0.65
+---------------------------------
+
+Over the past 24 hours, MATIC has tanked about 7%, from around $0.6759 to lows of around $0.6322, near 2024 lows of $0.5885.
+
+MATIC’s price rout is part of a broader market dump that has seen Bitcoin’s price drop by about $2,500 in the two hours from about $60,000 to just below $57,500. The jitters come as the market awaits the Federal Reserve’s interest rate decision [slated for](https://www.forexfactory.com/calendar) 6:00 pm UTC, Wednesday, May 1. 
+
+With the Fed expected to keep rates unchanged at 5.5%, investors are reducing their exposure to risk assets like crypto.  
+
+MATIC boasts support within the $0.6467 and $0.6314 price range. At the time of writing, the asset is already showing resilience, bouncing from $0.6322 to trade at $0.6653. Bulls would want this momentum to continue, as a break below the current support could see the asset tank as low as $0.5.
+
+![Image 4: MATIC/USDT 4-hour candle chart.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20697'%3E%3C/svg%3E)
+
+_MATIC/USDT 4-hour candle chart. Source: [TradingView](https://www.tradingview.com/chart/?symbol=BINANCE%3AETHUSD)_
+
+The Fed’s rate hike decision is critical to MATIC’s continued run in the short term. While leaving rates unchanged or raising rates could lead to mild or significant price corrections, a shock decision to engage in rate cuts could fuel a parabolic run to the upside. 
+
+On the Flipside 
+----------------
+
+*   **MATIC is not the only asset that experienced a price drop in the Bitcoin-led correction. Leading assets like Ethereum, BNB, and Solana are also experiencing price corrections of about 3.2%, 2.8%, and 4%, respectively, per** [**_CoinGecko_** **data**](https://www.coingecko.com/) **at the time of writing.**
+
+Why This Matters 
+-----------------
+
+The price action of the past 24 hours puts MATIC in a precautionary position. If it fails to hold support, the asset risks a 30% drop to $0.5.
+
+This article is for information purposes only and should not be considered trading or investment advice. Nothing herein shall be construed as financial, legal, or tax advice. Trading forex, cryptocurrencies, and CFDs pose a considerable risk of loss.
+</description><pubDate>Wed, 01 May 2024 19:40:00 GMT</pubDate><link>https://dailycoin.com/polygon-matic-plunges-in-btc-led-flush-can-it-hold-support/?utm_source=cryptopanic&amp;utm_medium=rss</link></item><item><title>News Article 52</title><description>Title: How Bitcoin ETFs And Crypto Market's 'PTSD' Caused 'Scammy Memecoin Launches': Alex Krüger
+
+URL Source: https://www.benzinga.com/markets/cryptocurrency/24/05/38561876/how-bitcoin-etfs-and-crypto-markets-ptsd-caused-scammy-memecoin-launches-alex-kr-ger
+
+Published Time: 2024-05-01T14:31:29.000-04:00
+
+Markdown Content:
+Economist and trader **Alex Krüger** shared thoughts on the current state of the cryptocurrency market, pointing out what, according to his interpretation, is driving the current price action and why the bull market is [not over yet](https://www.benzinga.com/markets/cryptocurrency/24/05/38555886/this-trader-sees-bitcoin-dropping-to-40-000-and-still-be-fine-expect-lower-prices-but-dont).
+
+**What Happened:** Krüger highlights **Bitcoin** BTC/USD ETF as the primary force behind the cycle, while **Ethereum** ETH/USD has been a “major disappointment” despite performing well for stakers and airdrop farmers.
+
+He adds that **Solana** SOL/USD has established itself as the preferred chain for retail traders, demonstrating "perfect product-market fit" and even overtaking Ethereum. However, the network’s congestion and subsequent crashes have opened the door for competitors like Base to position themselves as viable alternatives for retail traders.
+
+Noting the marginal new retail interest in crypto, Krüger states that most of the participants are ETF buyers and those from previous cycles redeploying their funds and taking on more risk. Those who missed the Bitcoin ETF run, crypto market participants with “PTSD (post-traumatic stress disorder),” went all-in on altcoins. But those disappointed with significant losses, as numerous altcoins erased their 2024 gains in the past month.
+
+[![Image 1: a black background with a plane flying in the sky](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.benzinga.com/events/digital-assets/)
+
+_Also Read: [How Did Shiba Inu Become The ‘Dogecoin Killer?’ Crypto Whale Thinks ‘Its Mission’ And This One Factor Were Key](https://www.benzinga.com/markets/cryptocurrency/24/05/38552945/how-did-shiba-inu-become-the-dogecoin-killer-crypto-whale-thinks-its-mission-and-this-one-)_
+
+**Why It Matters:** While many meme coins have gone to zero, Krüger writes they have dominated the narrative alongside Bitcoin as large-cap meme coins are among the strongest performers of the year. They have also established themselves as "a viable asset class in their own right."
+
+He attributed the market's volatility to the increasing presence of scammy meme coin launches and cash-grabbing founders mainly since February. These founders prioritize short-term hype and quick profits over long-term sustainability.
+
+Krüger maintains that the current crypto cycle “is not over” and there are still numerous opportunities for investors who navigate the market carefully and stay attuned to the evolving trends and narratives.
+
+This analysis comes amid Bitcoin's huge price plunge of 5% in a single day pushing prices below the $58,000 mark.
+
+**What’s Next**: The influence of [Bitcoin as an institutional asset class](https://www.benzinga.com/money/is-bitcoin-a-good-investment) is expected to be thoroughly explored at Benzinga’s upcoming [Future of Digital Assets](https://www.benzinga.com/events/digital-assets/agenda/) event on Nov. 19.
+
+_Read Next: [Bitcoin Plummets Below $58K, ETH, SOL, DOGE Follow: Over $400M Liquidated In ‘Deepest Retrace In The Cycle’](https://www.benzinga.com/markets/cryptocurrency/24/05/38546976/bitcoin-plummets-below-58k-eth-sol-doge-follow-over-400m-liquidated-in-deepest-retrace-in-)_
+
+_This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors._
+
+_Image: Shutterstock_
+
+* * *
+
+#### **FREE REPORT: How To Learn Options Trading Fast**
+
+In this special report, you will learn the four best strategies for trading options, how to stay safe as a complete beginner, ​a 411% trade case study, PLUS how to access two new potential winning options trades starting today.**[Claim Your Free Report Here.](https://events.benzinga.com/options-101-report-nic-chahine-campaignifybottom?utm_source=campaignifybottom&amp;utm_campaign=external)**
+
+* * *
+
+[Market News and Data brought to you by Benzinga APIs](https://benzinga.com/apis)
+
+© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+</description><pubDate>Wed, 01 May 2024 19:40:27 GMT</pubDate><link>https://www.benzinga.com/markets/cryptocurrency/24/05/38561876/how-bitcoin-etfs-and-crypto-markets-ptsd-caused-scammy-memecoin-launches-alex-kr-ger?utm_source=cryptopanic.com&amp;utm_campaign=partner_feed&amp;utm_medium=partner_feed&amp;utm_content=site</link></item><item><title>News Article 52</title><description>Title: Jack Dorsey Under Investigation For Crypto Business
+
+URL Source: https://beincrypto.com/jack-dorsey-under-investigation-crypto-business/
+
+Published Time: 2024-05-01T18:29:43+00:00
+
+Markdown Content:
+**Federal prosecutors are scrutinizing financial transactions linked to Block, a firm founded by Jack Dorsey, focusing on potential violations at its divisions, Cash App and Square.**
+
+According to sources, this investigation stems from documents indicating that Block processed crypto transactions for terrorist organizations and Square handled transactions involving countries under US sanctions.
+
+Jack Dorsey’s Block Under Scrutiny
+----------------------------------
+
+The Southern District of New York’s inquiry began after an ex-employee provided documents revealing that Square and Cash App failed to collect adequate information for risk assessment. The employee [claimed](https://www.nbcnews.com/business/personal-finance/prosecutors-examining-transactions-block-owner-cash-app-squarc-rcna147181) that despite being aware, Block did not report numerous transactions involving sanctioned countries to the government as required.
+
+&gt; “From the ground up, everything in the compliance section was awed. It is led by people who should not be in charge of a regulated compliance program,” the former employee said.
+
+These allegations come at a time when Cash App boasts 56 million active accounts and processed transactions worth $248 billion last year alone. The platform is popular for its instant money transfer service and ability to purchase Bitcoin and stocks.
+
+Sponsored
+
+[![Image 1: chimpzee - screenshot](https://servedbyadbutler.com/getad.img/;libID=4141915)](https://servedbyadbutler.com/redirect.spark?MID=177750&amp;plid=2393816&amp;setID=654215&amp;channelID=0&amp;CID=879121&amp;banID=521874692&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=2312363&amp;adSize=300x600&amp;data_keys=%7B%22product%22%3A%22news%22%2C%22domain%22%3A%22com.beincrypto.com%22%7D&amp;mt=1714592430132901&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fbeincrypto.com%2Fjack-dorsey-under-investigation-crypto-business%2F&amp;hc=459d49de4f03caea8e220c5b03a21b7358f48a45&amp;location=)
+
+[![Image 2](https://servedbyadbutler.com/getad.img/;libID=4150151)](https://servedbyadbutler.com/redirect.spark?MID=177750&amp;plid=2400310&amp;setID=722596&amp;channelID=0&amp;CID=881044&amp;banID=521887846&amp;PID=0&amp;textadID=0&amp;tc=1&amp;scheduleID=2318832&amp;adSize=745x180&amp;data_keys=%7B%22product%22%3A%22news%22%2C%22domain%22%3A%22com.beincrypto.com%22%7D&amp;mt=1714592430224361&amp;sw=800&amp;sh=600&amp;spr=1&amp;referrer=https%3A%2F%2Fbeincrypto.com%2Fjack-dorsey-under-investigation-crypto-business%2F&amp;hc=e61a78feb8c4b2b88a26d4b8f03a224c2f51386c&amp;location=)
+
+Sponsored
+
+**Read more: [Cash App Review 2023: Everything You Need To Know](https://beincrypto.com/learn/cash-app-review/)**
+
+Despite its success, Cash App’s design might contribute to compliance risks. Balances are typically depleted before any review can occur, limiting sanctions enforcement’s effectiveness. For this reason, the former employee argued that the [compliance lapses were well-known within Block’s leadership](https://beincrypto.com/jack-dorseys-block-faces-wrath-hindenburg/) circles, including Jack Dorsey.
+
+Sponsored
+
+Get guaranteed bonus up to $200 on Coinbase in 3 easy steps
+
+*   Sign up on Coinbase by the link below
+*   Pass KYC
+*   Claim the bonus in your account
+
+[Sign un on Coinbase!](https://beincrypto.com/jack-dorsey-under-investigation-crypto-business/coinbase-consumer.sjv.io/q4jq6g)
+
+Sponsored
+
+&gt; “Block has a responsible and extensive compliance program and we regularly adapt our practices to meet emerging threats and an evolving sanctions regulatory environment. Our compliance program includes systems, tools, and processes for sanctions screening, as well as investigating and reporting on sanctions issues in accordance with our regulatory obligations,” a Block spokesperson stated.
+
+The potential fallout of this investigation could be significant for [Jack Dorsey’s Block](https://beincrypto.com/block-ceo-jack-dorsey-bitcoin-mining-system/) as it navigates regulatory challenges and seeks to maintain its reputation. This scrutiny coincides with the resignation of two key board members, intensifying the spotlight on Block’s governance and compliance practices.
+
+Trusted
+-------
+
+Disclaimer
+
+In adherence to the [Trust Project](https://beincrypto.com/trust-project/) guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our [Terms and Conditions](https://beincrypto.com/terms-and-conditions/), [Privacy Policy](https://beincrypto.com/privacy-policy/), and [Disclaimers](https://beincrypto.com/disclaimer/) have been updated.
+</description><pubDate>Wed, 01 May 2024 19:40:53 GMT</pubDate><link>https://beincrypto.com/jack-dorsey-under-investigation-crypto-business/</link></item><item><title>News Article 52</title><description>Title: Roger Ver Arrested Over Alleged Tax Evasion: Are US Authorities Out of Control?
+
+URL Source: https://dailycoin.com/roger-ver-faces-irs-wrath-us-govt-sending-a-message/
+
+Published Time: 2024-05-01T19:00:00+00:00
+
+Markdown Content:
+Roger Ver Faces IRS Wrath: US Govt Sending a Message?
+-----------------------------------------------------
+
+Roger Ver’s arrest over alleged $48M tax evasion fuels discussion on government overreach and ethics of taxation.
+
+*   [![Image 1: Samuel Wan](https://dailycoin.com/wp-content/uploads/2023/08/Samuel-3-50x50.png)](https://dailycoin.com/author/samuel-wan/"SamuelWan")
+
+
+Published: May 1, 2024 │ 7:00 PM GMT
+
+![Image 2: Guy moderating blockchain space and seeing paper planes fly around.](https://dailycoin.com/wp-content/uploads/2024/04/paper_plane_message_telegram_blockchain_news_web.jpg)
+
+_Created by Kornelija Poderskytė from DailyCoin_
+
+[![Image 3: Google News Follow Button](https://dailycoin.com/wp-content/themes/cryptotimes/assets/img/follow-google-news-dailycoin-cryptonews.png)](https://news.google.com/publications/CAAqBwgKMIjkmAswmO6wAw?ceid=IN:en&amp;oc=3)
+
+*   **Roger Ver** **is arrested on** **allegations** **of** **tax** **evasion.**
+*   **Some** **observers** **believe** **US** **authorities****’** **actions** **are unjustified.** 
+*   **The incident has triggered** **debate** **on the** **morality** **of** **taxation****.**
+
+[Roger Ver](https://dailycoin.com/?s=roger+ver) was an early adopter and evangelist of Bitcoin, amassing a vast fortune by believing in the digital currency at a time when most dismissed it as worthless “magical internet money.” 
+
+Ver acquired St. Kitts and Nevis citizenship in 2014 and renounced his US citizenship shortly after. Although Ver thought he was free of US control, authorities arrested the Bitcoin Cash proponent over the weekend on mail fraud and tax evasion charges, stoking government overreach concerns.
+
+DoJ Coming For Roger Ver
+------------------------
+
+Roger Ver was [arrested in Spain](https://www.reuters.com/technology/bitcoin-jesus-arrested-spain-us-tax-evasion-charges-2024-04-30/) over the weekend on charges of mail fraud and tax evasion. The Department of Justice (DoJ) is seeking Ver’s extradition to the US to stand trial over the charges, particularly unpaid taxes totaling $48 million. Ver’s lawyer, Bryan Skarlatos, stated that his client had relied on tax professionals to report his Bitcoin holdings properly and always intended to comply with regulations.
+
+The outstanding tax liabilities stem from Ver’s 2014 renunciation of his US citizenship. Under citizen renunciation, individuals are required to pay an exit tax, with assets held treated as being sold at fair market value and any subsequent gains subject to an “expatriation tax.” The DoJ alleged that Ver and two of his companies, MemoryDealers.com and Agilestar.com, held around 131,000 BTC at that time.
+
+In this case, prosecutors claimed Ver provided misleading information to undervalue his companies’ Bitcoin holdings when preparing the expatriation filings. The indictment claimed that in November 2017, Ver took possession of 70,000 BTC from his companies and sold them for around $240 million but failed to pay taxes owed on those distributions.
+
+The DoJ stated that although Ver was not a US citizen when cashing out the 70,000 BTC, he was still [legally required](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud) to report distributions from his companies and pay taxes on the sale of the BTC.  
+
+Given the spate of perceived attacks on the crypto industry by US authorities lately, some have labeled Ver’s arrest as an unjustified overreach on the part of the US government. 
+
+Crypto Clampdown?
+-----------------
+
+Several observers labeled Ver’s arrest a massive overreach by the US government. Simply, Bitcoin host Nico tied this incident to the recent arrest of [Samourai Wallet devs](https://dailycoin.com/why-samourai-wallet-is-in-hot-water-with-doj/), stating that the two events equate to the government “sending a message” to the cryptocurrency community.
+
+&gt; It’s not a coincidence that Roger Ver and the Samouri wallet devs got arrested around the same time.
+&gt; 
+&gt; They are sending a message.
+&gt; 
+&gt; — NICO⚡️ (@BITVOLT) [April 30, 2024](https://twitter.com/BITVOLT/status/1785387815443861785?ref_src=twsrc%5Etfw)
+
+Kurt Wuckert Jr., the founder of BSV miner Gorilla Pool, dived into a [philosophical point](https://twitter.com/kurtwuckertjr/status/1785413818425704750) on the morality of taxation itself, commenting that “Failure to bribe the government so they don’t put you in a cage is not a crime. Demanding the bribe is evil.” Likewise, podcaster [“Walker” stated](https://twitter.com/WalkerAmerica/status/1785394785840189729) that “The United States of America holds its citizens prisoner.”
+
+Input Output CEO Charles Hoskinson took a different view by [addressing the charges](https://twitter.com/IOHK_Charles/status/1785383884659773658) against Ver. Hoskinson noted that Ver’s two companies were US-based, meaning Ver still had a tax obligation to the US even though he had renounced his US citizenship. Nonetheless, Hoskinson hoped that the allegations against Ver would be proven false.
+
+On the Flipside
+---------------
+
+*   **The** [**MemoryDealers.com** **URL**](http://memorydealers.com/) **diverts to a** **tweet** **from** **Ver** **expressing** **distrust** **of the** **US** **government****.** 
+*   **Servicing the US national debt is expected to cost $531 billion in 2024, making it the fifth largest government spending program.**
+
+Why This Matters
+----------------
+
+Some maintain that taxation is theft, but the reality is that tax is the price to pay for living in a civilized society. However, the timing of Ver’s arrest is somewhat puzzling, given that the allegations occurred nearly seven years ago.
+
+This article is for information purposes only and should not be considered trading or investment advice. Nothing herein shall be construed as financial, legal, or tax advice. Trading forex, cryptocurrencies, and CFDs pose a considerable risk of loss.
+</description><pubDate>Wed, 01 May 2024 19:41:15 GMT</pubDate><link>https://dailycoin.com/roger-ver-faces-irs-wrath-us-govt-sending-a-message/?utm_source=cryptopanic&amp;utm_medium=rss</link></item><item><title>News Article 52</title><description>Title: Bitcoin ETFs Show Strain Amid Crypto Slump
+
+URL Source: https://www.cryptoglobe.com/latest/2024/05/bitcoin-etfs-show-strain-amid-crypto-slump/
+
+Published Time: 2024-05-01T19:03:01+00:00
+
+Markdown Content:
+![Image 1](https://media.cryptoglobe.com/2023/12/gold-bitcoin-on-black-background-768x576.jpg) 
+
+Recent market volatility has put a spotlight on spot-Bitcoin exchange-traded funds (ETFs). As reported by Bloomberg, several major US-listed Bitcoin ETFs experienced record-high discounts to their net asset value (NAV) after Bitcoin itself saw a significant price drop. This raises questions about the unique challenges of these investment vehicles in a volatile market.
+
+Bloomberg data shows that funds like the iShares Bitcoin Trust (IBIT) and the Fidelity Wise Origin Bitcoin Fund (FBTC) traded well below their NAV. ETF analyst James Seyffart notes that while these discounts aren’t unprecedented, they do stand out given the historical range of premiums and discounts for these funds.
+
+Experts offer explanations for this phenomenon. Teddy Fusaro, president of Bitwise, attributes the dislocations to factors like end-of-month rebalancing and Bitcoin’s price-calculation mechanisms used by ETFs. These factors can lead to temporary discrepancies between market prices and NAV.
+
+However, Bloomberg [underscores](https://www.bloomberg.com/news/articles/2024-05-01/bitcoin-btc-etfs-flash-signs-of-stress-as-discounts-reach-records?srnd=cryptocurrencies-v2) that Bitcoin’s inherent volatility poses unique complexities for ETF investors compared to traditional asset classes. This same volatility also creates lucrative opportunities for authorized participants, the specialized traders responsible for maintaining price alignment between ETFs and their NAV.
+
+Virtu Financial Inc. CEO Douglas A. Cifu, as reported by Bloomberg, highlights these volatility-driven opportunities as a reason for continued optimism in crypto ETFs, despite the recent discounts.
+
+The current macroeconomic climate, with the potential for delayed Federal Reserve rate cuts, adds further pressure to the crypto market. As Bloomberg notes, speculative assets like Bitcoin often struggle in such environments.
+
+WallachBeth Capital’s ETF director Mohit Bajaj suggests that the observed discounts could persist depending on Bitcoin’s price trajectory.
+
+_Featured Image via [Unsplash](https://unsplash.com/photos/bitcoin-I0TDRP0fj6Y)_
+
+Spot Bitcoin ETF Discount Explained -- What Investors Need to Know
+
+/latest/2024/05/bitcoin-etfs-show-strain-amid-crypto-slump/
+
+/latest/2024/05/giggle-academy-what-former-binance-ceo-cz-will-focus-his-energy-on-after-completing-his-prison-sentence/
+
+Disclaimer
+----------
+
+_The views and opinions expressed by the author, or any people mentioned in this article, are for informational purposes only, and they do not constitute financial, investment, or other advice. Investing in or trading cryptoassets comes with a risk of financial loss._
+</description><pubDate>Wed, 01 May 2024 19:41:44 GMT</pubDate><link>https://www.cryptoglobe.com/latest/2024/05/bitcoin-etfs-show-strain-amid-crypto-slump/</link></item><item><title>News Article 52</title><description>Title: Read the Runes: Bitcoin's Market Cap to Transaction Fee Ratio Briefly Falls Below Ethereum's
+
+URL Source: https://www.benzinga.com/markets/cryptocurrency/24/05/38534275/read-the-runes-bitcoins-market-cap-to-transaction-fee-ratio-briefly-falls-below-ethereums
+
+Published Time: 2024-05-01T14:54:31.000-04:00
+
+Markdown Content:
+Runes have been taking over the **Bitcoin** BTC/USD network. This new token standard that launched with the latest Bitcoin halving has been mentioned before in this newsletter, in the context of pushing the average transaction fee on Bitcoin upwards even before their debut as hype stirred and helping miners combat a lower block subsidy reward as transaction fee revenue reached new highs. And both of those trends largely still hold. The 7-day moving average of the average transaction fee on Bitcoin reached over $40 last week, 10 times as high as the $4.10 average on **Ethereum** ETH/USD.
+
+Read the [full story](https://www.theblock.co/post/291510/read-the-runes-bitcoins-market-cap-to-transaction-fee-ratio-briefly-falls-below-ethereums?utm_source=benzinga&amp;utm_medium=rss&amp;utm_campaign=Read+the+Runes%3A+Bitcoin%E2%80%99s+market+cap+to+transaction+fee+ratio+briefly+falls+below+Ethereum%27s) at The Block.
+
+[Market News and Data brought to you by Benzinga APIs](https://benzinga.com/apis)
+
+© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+</description><pubDate>Wed, 01 May 2024 19:42:07 GMT</pubDate><link>https://www.benzinga.com/markets/cryptocurrency/24/05/38534275/read-the-runes-bitcoins-market-cap-to-transaction-fee-ratio-briefly-falls-below-ethereums?utm_source=cryptopanic.com&amp;utm_campaign=partner_feed&amp;utm_medium=partner_feed&amp;utm_content=site</link></item></channel>
 </rss>
