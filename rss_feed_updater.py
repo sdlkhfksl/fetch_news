@@ -46,11 +46,14 @@ def process_text_with_gpt(link):
         stream=True,
     )
 
+    content = None
     for chunk in stream:
         if hasattr(chunk, 'choices'):
             choices = chunk.choices
             if len(choices) > 0:
                 content = choices[0].message['content']
+                break
+    return content
 
 def append_to_rss(title, content):
     if not os.path.exists(RSS_FILE):
