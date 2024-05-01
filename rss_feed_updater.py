@@ -37,20 +37,19 @@ def get_new_links():
 
 def process_text_with_gpt(link):
     prefix = 'https://r.jina.ai/'
-    content = prefix + link
+    newlink = prefix + link
 
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
-        messages=[{"content": content}],
+        messages=[{"content": newlink}],
         stream=True,
     )
 
-    output = ""
-    for chunk in response:
-        if chunk.choices:
-            output += chunk.choices[0]['message']['content']
-
-    return output.strip()
+    for chunk in stream:
+        if hasattr(chunk, 'choices'):
+            choices = chunk.choices
+            if len(choices) > 0:
+                content = choices[0].message['content']
 
 def append_to_rss(title, content):
     if not os.path.exists(RSS_FILE):
