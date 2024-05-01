@@ -2,6 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from openai import OpenAI
+import time
 
 # 设置API密钥、基础URL
 API_SECRET_KEY = os.getenv("OPENAI_API_KEY")
@@ -82,7 +83,7 @@ def process_links():
     for link in new_links:
         processed_content = process_text_with_gpt(link)
         # 控制请求频率
-        time.sleep(10)
+        time.sleep(20)
         if processed_content:
             append_to_rss(link, processed_content)
             update_last_processed_link(link)
