@@ -78,7 +78,7 @@ jobs:
           pip install requests
 
       - name: Convert Markdown to RSS feed
-        run: python convert_to_rss.py # 假设刚刚的脚本保存在这个文件中
+        run: python process_new_articles.py # 假设刚刚的脚本保存在这个文件中
 
       - name: Commit and push RSS feed updates
         run: |
