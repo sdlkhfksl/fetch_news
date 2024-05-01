@@ -64,6 +64,7 @@ jobs:
           
   run_markdown_to_rss_script: # 新增的作业
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '30 * * * *'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
