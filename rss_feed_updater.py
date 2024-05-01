@@ -37,12 +37,9 @@ def get_new_links():
     return links
 
 def process_text_with_gpt(link):
-    prefix = 'https://r.jina.ai/'
-    newlink = prefix + link
-
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
-        messages=[{"content": newlink}],
+        messages=[{"content": link}],
         stream=True,
     )
 
