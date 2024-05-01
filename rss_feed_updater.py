@@ -14,7 +14,7 @@ client = OpenAI(api_key=API_SECRET_KEY, base_url=BASE_URL)
 # 文件路径
 LINKS_FILE = 'accumulated_links.txt'
 RSS_FILE = 'rss_feed.xml'
-LAST_LINK_FILE = 'last_processed_link.txt'
+LAST_LINK_FILE = 'last_processed_link2.txt'
 
 def get_last_processed_link():
     try:
