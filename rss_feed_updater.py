@@ -49,7 +49,6 @@ def process_text_with_gpt(link):
             choices = chunk.choices
             if len(choices) > 0:
                 content = choices[0].message['content']
-    
     return content
 
 def append_to_rss(title, content):
