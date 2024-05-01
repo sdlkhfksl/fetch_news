@@ -82,11 +82,11 @@ def process_links():
     new_links = get_new_links()
     for link in new_links:
         processed_content = process_text_with_gpt(link)
-        # 控制请求频率
-        time.sleep(20)
         if processed_content:
             append_to_rss(link, processed_content)
             update_last_processed_link(link)
+        # 控制请求频率
+        time.sleep(20)
 
 if __name__ == "__main__":
     process_links()
