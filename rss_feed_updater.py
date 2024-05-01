@@ -47,7 +47,7 @@ def process_text_with_gpt(link):
     )
 
     content = None
-    for chunk in stream:
+    for chunk in response:
         if hasattr(chunk, 'choices'):
             choices = chunk.choices
             if len(choices) > 0:
