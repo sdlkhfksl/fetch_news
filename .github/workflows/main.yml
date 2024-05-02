@@ -1,9 +1,9 @@
-name: Run Multiple Scripts with Different Schedules
+name: Run Scripts with Different Schedules
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时执行一次
-    - cron: '0 */4 * * *'  # 每4小时执行一次
+    - cron: '0 * * * *'  # 每小时的第0分钟执行 fetch_news_links_hourly
+    - cron: '5 * * * *'  # 每小时的第5分钟执行 run_other_script_every_hour
 
 jobs:
   fetch_news_links_hourly:
@@ -34,9 +34,9 @@ jobs:
           git commit -m "Update list of processed news links" || echo "No changes to commit"
           git push
 
-  run_other_script_every_4_hours:
+  run_other_script_every_hour:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 */4 * * *'
+    if: github.event.schedule == '5 * * * *'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -48,17 +48,16 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
-          pip install lxml[html_clean] # 注意这是新增的依赖项
+          pip install requests lxml
 
       - name: Run other script
         run: |
-          python four_hourly_script.py
+          python other_script_every_hour.py
 
       - name: Commit and push if changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Update articles content and processed links" -a || echo "No changes to commit"
+          git commit -m "Update other script changes" || echo "No changes to commit"
           git push
