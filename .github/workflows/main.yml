@@ -34,36 +34,7 @@ jobs:
           git pull --rebase origin main  # 先拉取远程仓库的更改
           git push origin main  # 推送到main分支
 
-  run_rss_feed_updater_script:
-    runs-on: ubuntu-latest
-    if: github.event_name == 'schedule' && github.event.schedule == '5 * * * *'
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
-          
-      - name: Install dependencies
-        run: |
-          pip install requests openai==1.14.2
-          
-      - name: Update the RSS feed
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          BASE_API_URL: ${{ secrets.BASE_API_URL }}
-        run: python rss_feed_updater.py
-        
-      - name: Commit and push RSS feed updates
-        run: |
-          git config --local user.email 'actions@github.com'
-          git config --local user.name 'GitHub Action'
-          git add rss_feed.xml last_processed_link.txt
-          git commit -m "Update RSS feed with new articles" || exit 0  # 如果没有更改，则退出
-          git pull --rebase origin main  # 先拉取远程仓库的更改
-          git push origin main  # 推送到main分支
+
           
   run_markdown_to_rss_script:
     runs-on: ubuntu-latest
