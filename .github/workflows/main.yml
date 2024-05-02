@@ -40,17 +40,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        
+
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-          
+
       - name: Install dependencies
         run: |
           pip install requests
-          pip install lxml
-          pip install readability-lxml  # Added missing dependency
+          pip install 'lxml[html_clean]'   # Install lxml with the html_clean submodule
+          pip install readability-lxml     # Ensure readability-lxml is installed
 
       - name: Run other script
         run: |
