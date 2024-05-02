@@ -1,433 +1,3 @@
-Shibarium's Transaction Fees Skyrocket 500% Amid Surging Network Activity
-
-
-
-                    
-
-Shibarium, a Layer-2 blockchain tailored for the Shiba Inu cryptocurrency, has witnessed a dramatic 500% increase in transaction fees within a 24-hour period, as shown by Shibariumscan data. 
-
-
-
-Fees paid in BONE, the native token of the Shiba Inu ecosystem, escalated from 12 BONE to 61.47 BONE. 
-
-
-
-
-Shibarium’s core functionality involves processing Shiba Inu token transfers, with BONE tokens utilized to pay for transaction costs. 
-
-
-
-Each transaction also aids in reducing the supply of SHIB tokens, as a part of the BONE fees is converted to SHIB and then removed from circulation by being sent to a “dead wallet.”
-
-
-
-The sharp rise in Shibarium’s fees is primarily linked to a surge in network activity, driven by increasing popularity and demand for Shiba Inu tokens during recent market fluctuations and growing investor interest. 
-
-
-
-Shibariumscan also highlighted a significant 211% increase in active accounts on the platform, rising from 1,724 to 3,650. 
-
-
-
-READ MORE: Top SHIB Holders Revealed: Burn Address Dominates, Whales Shift Billions, and Shibarium Upgrade Looms
-
-
-
-Despite this, the number of new accounts actually declined, suggesting that the increased activity primarily came from existing users.
-
-
-
-The recent developments pose several questions regarding the future of the Shiba Inu network. 
-
-
-
-
-Observers are keen to understand how this uptick in fees might influence further activity within the ecosystem. 
-
-
-
-Questions also arise about Shibarium’s capacity to handle continued demand without compromising on efficiency and scalability. 
-
-
-
-
-Additionally, the impact of these changes on SHIB and BONE tokens is of particular interest, especially given the current instability in the broader cryptocurrency market dominated by bearish sentiment.
-
-
-
-This scenario highlights the dynamic and rapidly evolving nature of blockchain technology and cryptocurrency markets, where user behavior and technological capabilities continuously interact to shape the landscape. 
-
-
-
-The developments in Shibarium and Shiba Inu will be closely watched as they provide insights into user engagement, technological adaptability, and market trends in the cryptocurrency space.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Bitcoin 4% dip may ‘panic’ short-term holders as price falls below average cost
-
-Bitcoin is now trading below the average purchase price paid by short-term holders, potentially causing “panic” due to unrealized losses, according to an on-chain analyst.“These recent buyers are statistically the most likely to panic,” analyst James Check, known as “Checkmatey,” said in a May 1 report.“What a nuke we have on our hands to open the month of May,” Check added, referring to Bitcoin (BTC) briefly plummeting 8% below a key support level to $56,814 on May 1, according to CoinMarketCap data.The recent price drop saw Bitcoin hit its lowest level since February, which is significant for short-term Bitcoin holders — those who have held for under 155 days — as they paid an average price of $59,600 per Bitcoin.Even though the price has slightly recovered to $57,631 at the time of publication, short-term holders still hold an average 3% unrealized loss.Bitcoin’s price at the time of writing represents a decline of 4% in the past 24 hours. The sharp downturn led to the liquidation of $100.27 million in long positions over that time, according to CoinGlass data.Its price decline was driven by a crypto sell-off as market participants awaited the United States Federal Reserve’s interest rate decision, which kept the current high interest rates unchanged, as analysts expected.Bitcoin’s price briefly plummeted to its lowest price in three months on May 1. Source: CoinMarketCapCheck suggested that while holding an unrealized loss is not ideal, short-term Bitcoin holders have experienced this before.“Most importantly, breaking the [short-term holder] cost basis isn’t the end of the world, nor the end of the bull market. It doesn’t help…but it is and has been recoverable,” he wrote.Related: Bitcoin sub-$60K levels in focus after daily crypto liquidations near $300MThe short-term holder cost basis typically acts as support during bull periods and resistance during bear periods, explained crypto trading resource On-Chain College in a May 1 X post.However, it pointed to a few potential events that will not signal “the bull market is over.”A “quick move” to $59,600, roughly 2.2% above Bitcoin’s current price, would be “bullish,” the On-Chain College claimed.This is based on a similar pattern in June 2023, when the price dropped below cost basis and quickly rebounded before a significant upswing.Bitcoin’s price breaks below the short-term holder cost basis. Source: CheckonchainOn-Chain College also noted that when Bitcoin’s price pulled back a few months later, in August 2023, it stayed volatile below the short-term cost basis for some time. This suggests that a “sustained period” below the cost basis could also signal a bullish trend, according to On-chain College.Magazine: Memecoins: Betrayal of crypto’s ideals… or its true purpose?This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-
-
-----------------
-
-Uniswap, the SEC and Regulatory Riptide - What DeFi Must Do Next - The Daily Hodl
-
-
-								
- 
-DeFi (decentralized finance) has been nothing short of a revolution. Its startling promise – to upend traditional financial systems and usher in an era of unprecedented accessibility, transparency and autonomy.
-From humble beginnings, this new ecosystem has undergone explosive growth, now boasting a fervent global following and billions in investment.
-Naturally, as the DeFi juggernaut has gained momentum, it has also drawn both the watchful eye of regulators and the attention of nefarious actors.
-The U.S. SEC’s (Securities and Exchange Commission) recent decision to issue a Wells notice to Uniswap, one of the industry’s pioneering decentralized exchanges – alleging violations of securities laws – has sent shockwaves through the DeFi community.
-This regulatory crackdown, coupled with a string of high-profile hacks and exploits that have drained projects of millions in funds, has cast a pall of uncertainty over the future of the sector.
-In a maelstrom of innovation, regulation and security risks, the ecosystem stands at a precipice.
-The decisions made and actions taken by industry leaders, developers and regulatory bodies in the coming years will shape the trajectory of the movement, determining whether it will fulfill its promise of disrupting traditional finance or succumb to the very forces it seeks to supplant.
-SEC crackdown on Uniswap
-In a rather zealous attempt to assert regulatory control, the SEC has set its sights on Uniswap, one of DeFi’s trailblazers.
-The allegations – that it has facilitated the trading of unregistered securities, specifically tokens issued through ICOs (initial coin offerings) – paint the platform as an unregistered securities broker and exchange.
-However, this narrative conveniently ignores the decentralized nature of the protocol.
-While Uniswap Labs developed the front-end interface, the underlying protocol operates autonomously, without any centralized control or oversight.
-This fundamental distinction seems to have escaped the SEC’s understanding.
-By targeting a project like Uniswap, which has been a driving force behind the DeFi revolution, the SEC risks stifling innovation and undermining the very principles that make DeFi so revolutionary.
-If the SEC’s overreach is not curtailed, the implications for the broader DeFi ecosystem could be far-reaching.
-Projects that have embraced transparency and community governance may find themselves in the crosshairs, deterring further innovation and driving developers and users away from the United States.
-Regulatory challenges and security vulnerabilities
-As the SEC tightens its grip, DeFi platforms and protocols face a multitude of regulatory hurdles beyond the Uniswap debacle.
-However, the regulatory challenges pale in comparison to the existential threat posed by the wave of hacks and exploits plaguing the ecosystem.
-The inherent transparency of open-source protocols – once heralded as a strength – has become a double-edged sword, exposing vulnerabilities to nefarious actors who can meticulously dissect the code.
-The staggering losses suffered by DeFi projects, amounting to hundreds of millions of dollars, serve as a sobering reminder of the grave consequences of security lapses.
-The Munchables exploit, which saw a rogue developer abscond with over $62 million in funds, underscores the risks associated with the pseudonymous nature of DeFi development teams.
-The incident highlights the overall need for more due diligence, especially around hiring personnel.
-While the ethos of decentralization and immutability are noble ideals, they can hinder the ability to respond effectively to security breaches.
-Calls for interventions and chain rollbacks in the wake of such incidents highlight the tension between user protection and the core principles of DeFi.
-Addressing security and navigating compliance
-As the DeFi ecosystem grapples with a seemingly unending barrage of hacks and exploits, stringent security measures have become an existential necessity.
-The industry’s reliance on cutting-edge yet inherently complex smart contract technology has exposed vulnerabilities that can be exploited by skilled adversaries.
-To chart a path toward a more secure future, DeFi projects must embrace a holistic approach to security that permeates every aspect of development and deployment.
-Rigorous audits, conducted by seasoned cybersecurity professionals, must become the norm.
-Penetration testing should be a continuous process, proactively identifying and mitigating vulnerabilities.
-Moreover, the industry must wholeheartedly embrace bug bounty programs, incentivizing ethical hackers to uncover weaknesses in exchange for substantial rewards.
-Ultimately, the path to a secure DeFi future hinges on striking a delicate balance between innovation and risk management.
-While the allure of decentralization is undeniable, its principles must be tempered by a pragmatic recognition of real-world threats that imperil user funds and erode trust in the ecosystem.
-In the wake of the SEC’s crackdown, it has become increasingly evident that the industry can no longer afford to operate in a regulatory vacuum.
-The commission’s actions underscore the pressing need for the DeFi ecosystem to proactively engage with regulators and collaborate on establishing industry-wide standards.
-By actively participating in the regulatory discourse, DeFi pioneers have an opportunity to shape the rules of engagement, ensuring that any frameworks or guidelines imposed are tailored to the unique characteristics of DeFi.
-This collaborative approach not only mitigates the risk of stifling overregulation but also enhances the legitimacy and credibility of the industry in the eyes of the public and traditional financial institutions.
-Essentials for the road ahead
-As the DeFi ecosystem navigates the turbulent waters of regulatory scrutiny and security breaches, it finds itself at a pivotal crossroads.
-The SEC’s crackdown on Uniswap has crystallized the urgent need for DeFi projects to prioritize not only innovation but also regulatory compliance.
-By proactively engaging with regulators and collaborating on the establishment of industry-wide standards, the ecosystem can shape the rules of engagement, ensuring that oversight is tailored to the unique characteristics of decentralized finance.
-Yet, amid these challenges, lies a remarkable opportunity for the DeFi ecosystem to redefine the boundaries of financial innovation.
-By striking a delicate balance between decentralization and user protection, transparency and oversight, the industry can harness the transformative potential of blockchain technology while safeguarding the interests of participants and fostering trust among the broader public.
-The road ahead is arduous, but the rewards of success are immense.
-By embracing a spirit of collaboration – both within the industry and with regulatory bodies – DeFi pioneers can catalyze a paradigm shift in finance, ushering in a new era of inclusivity, autonomy and transparency.
-Ultimately, the future of DeFi hinges on the industry’s ability to navigate these challenges with resilience, foresight and an unwavering commitment to its core principles.
-Only then can the true potential of this revolutionary technology be realized, empowering individuals and communities worldwide to take control of their financial destinies.
-
-Nikita Ovchinnik is co-founder of Barter DeFi, a swap system that has $3.5 billion of on-chain volume settled. Nikita was also the first hired employee at 1Inch Network, taking one of the leading positions as CBDO. He’s a regular speaker at conferences worldwide, where he shares his expertise and insights with fellow industry professionals.
- 
-Check Latest Headlines on HodlX
-Follow Us on Twitter Facebook Telegram
-
-Check out the Latest Industry Announcements  
-
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-Featured Image: Shutterstock/Thiago Melo/Vladimir Sazonov
-								
-								
-															
-
-
-						
-
-----------------
-
-Dogecoin Bull Run Predicted By Analyst - Current 47% Price Correction 'Part Of Its Usual Behavior' - Benzinga
-
-Renowned crypto analyst Ali Martinez has hinted at a potential bull run for Dogecoin DOGE/USD, despite the cryptocurrency’s ongoing price correction.What Happened: In a post on X, formerly Twitter, on Wednesday, Martinez noted that Dogecoin is currently experiencing a 47% price correction, similar to previous cycles. He suggested that this could be the precursor to the next bull run for the meme coin.See Also: ‘Spectacular Meme Runs’ Mean These Three Altcoins Could Be ‘Doomed To Irrelevancy,’ Muses Veteran TraderHis tweet comes amidst a turbulent time for the cryptocurrency market, with Dogecoin and other major cryptocurrencies experiencing significant losses at the start of May.In the same thread, Martinez said, “The ongoing [Dogecoin] price correction is part of its usual behavior before massive bull runs!”Dogecoin has fallen 15.65% over a period of the last seven days, while the fall has been steeper over 30 days at 32.9%.Why It Matters: Martinez’s prediction aligns with his previous statements about the behavior of Dogecoin. He has previously noted the coin’s tendency to mirror its past bull cycles, suggesting that patience could be rewarded.Other traders have also been optimistic about Dogecoin’s future. Crypto trader Kevin analyzed Dogecoin's recent performance, noting the cryptocurrency was in an important support zone and if the cryptocurrencies were in a real bull market, the zone between 0.125-0.13 cents level was crucial.Price Action: At the time of writing, Dogecoin traded 3.5% lower at $0.13, according to data from Benzinga Pro.Photo Courtesy: Shutterstock.comRead Next: Is Bitcoin Heading For A Dip Ahead Of FOMC? Analyst Predicts Potential ‘Cascade Towards $55-58K’ Before Rebound
-      
-      
-      
-        Engineered by
-        Benzinga Neuro, Edited by
-        
-          
-              Shivdeep Dhaliwal
-        
-      
-      
-      
-        The GPT-4-based Benzinga Neuro content generation system exploits the
-        extensive Benzinga Ecosystem, including native data, APIs, and more to
-        create comprehensive and timely stories for you.
-        Learn more.
-      
-      
-    
-
-----------------
-
-SEC and Terraform Will Discuss Proposed Remedies on May 22
-
-
-							
-
-Terraform Labs challenges the huge $5.3 billion penalty imposed by the SEC in the legal case.
-
-
-
-The firm requests the court for a lower penalty of $1 million arguing that Terraform’s most of the stablecoins were sold overseas.
-
-
-
-Judge Jed Rakoff orders the lawyers representing Terraform and the SEC to assemble in the court on May 22.
-
-
-
-
-According to a recent Bloomberg report, Terraform Labs and its founder, Do Kwon, challenged the huge $5.3 billion penalty proposed by the Securities and Exchange Commission (SEC) in the lawsuit. Claiming that most of the firm’s stablecoins were sold overseas, the company requested the court to charge a significantly lower penalty of $1 million.
-
-
-
-On April 5, a jury found Do Kwon liable for the collapse of the collapse of Terraform, which wiped out $40 billion in investor assets, leading to a severe crypto winter. While Kwon and Terraform were found guilty of defrauding investors regarding the sale of TerraUSD (UST), Luna (LUNA), and wLUNA, the regulators sought approximately $4.7 billion in disgorgement and prejudgment interest from them. In addition, the SEC charged a total of $520 million in civil penalties.
-
-
-
-
-
-
-
-
-
-However, Terraform pleaded the court not to grant “any injunctive relief of disgorgement,”  arguing that the regulators failed to prove that it is “entitled to the expansive injunction and monetary sanctions it seeks.” Also, the platform stated that the proposed fines would have to be obtained from the Luna Foundation Guard (LFG), an entity not involved in the civil case. The court filing read, “.
-
-
-
-
-“In conclusion, the Court should not grant any injunctive relief or disgorgement, and should impose at most a $1 million civil penalty against TFL.” 
-
-
-
-
-In an April 29 filing, Judge Jed Rakoff of the US District Court for the Southern District of New York ordered that the SEC, Kwon, and Terraform Labs’ lawyers assemble in the court on May 22 to discuss the proposed remedies.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-How did Bitcoin's price react to Fed meeting, unchanged interest rates? - AMBCrypto
-
-
-
-US Fed left interest rate unchanged again, citing “lack of further progress” on 2% inflation target.
-BTC remains under pressure despite a modest flip after the Fed meeting. 
-
-Bitcoin [BTC] eased its two-day bleeding streak after the Fed meeting. As expected, the US Federal Reserve left interest rates unchanged on 1st May. 
-This marks the sixth Fed meeting at which the agency kept the rate at 5.25% – 5.50%. However, the Fed noted that rate cuts are not appropriate until there is greater confidence that inflation is heading to 2%. 
-Part of the Fed’s policy statement read, 
-“In recent months, there has been a lack of further progress toward the Committee’s 2 percent inflation objective.”
-In a later press conference, Fed chair Jerome Powell was asked whether there would be three rate cuts later in the year. To which Powell responded, 
-“We didn’t see progress in the first quarter; it appears then that it’s going to take longer to reach that level of confidence.” 
-In a nutshell, “the higher rates for longer” stance seems officially back. 
-Bitcoin saw a modest flip as memecoins led a short recovery
-Within an hour after the Fed rate decision, memecoins led a slight recovery. Bonk [BONK], Floki Inu [FLOKI], and dogwifhat [WIF] recovered by 6%. 
-BTC and Ethereum [ETH] recorded a modest flip within the same period. 
-In the past two days, BTC has slumped hard, shedding over 12% from a high of $64.7K to a low of $56.5K. This extended BTC’s April losses into May and underscored a tough Q2.  
-After the Fed statement, BTC reclaimed $58K but dropped lower a few minutes later, denoting that it was still under immense sell pressure.  
-ETH also saw a modest uptick but faced rejection at the $3000 level at the time of writing. 
-With the Fed’s “higher for longer” stance and negative flows from US BTC ETFs, it will be interesting to see if BTC could reclaim the range-low around $60.8K.
-
-
-
-
-
-
-----------------
-
-DeFi lending giant Aave unveils V4 protocol overhaul
-
-Aave Labs, the firm behind the decentralized finance (DeFi) lending protocol Aave has outlined a proposal for an upgrade and evolution of its protocol as part of a five-year roadmap.On May 1, the DeFi lending platform introduced a governance proposal to get community feedback on upgrading the protocol to its next-generation version 4.The proposal also includes “major upgrades and expansions,” to the Aave Network, a cross-chain liquidity layer, non-Ethereum Virtual Machine (EVM) layer-1 deployments, and a “fresh new visual identity,” the team stated. Aave V4 would be built on a “completely new architecture” and include a “Unified Liquidity Layer” to enable better integration of features like isolation pools, risk modules, and its native stablecoin GHO.Other proposed features are interest rates that can automatically adjust on the fly based on market conditions and using Chainlink data oracles. Also suggested were Liquidity Premiums to adjust borrowing costs based on collateral risk profiles and vaults and smart accounts for simplified user management of positions. Proposed Unified Liquidity Layer infrastructure for liquidity providing. Source: AavePart of the proposal focused on Aave’s algorithmic stablecoin GHO which was launched in July 2023 but is a minnow compared to its competitors such as Tether (USDT) and USD Coin (USDC) with a market capitalization of $49 million.GHO-related suggestions include improvements to the liquidation engine such as variable liquidation bonuses and “soft” liquidations, along with better integration of GHO such as options to earn interest.An emergency redemption mechanism for GHO depegging scenarios was also proposed as part of the big upgrade. The proposal is currently in the “temperature check” phase which provides a signal on community sentiment prior to moving toward an on-chain vote. It outlines a development timeline stretching from research completion in Q2, 2024 to a full V4 release by mid-2025.Related: Aave launches proposal to counter MakerDAO DAI expansion riskAave Labs is requesting a grant with a budget of 15 million GHO and 25,000 stkAAVE, worth around $17 million combined for the execution of the first year of the three-year plan. Aave is the third largest DeFi protocol with a total value locked of around $10 billion, according to DefiLlama.Its native Aave (AAVE) token was trading at $82.35 at the time of writing having lost 9% over the past week. It remains down 87.6% from its all-time high of $660 three years ago. Magazine: The real risks to Ethena’s stablecoin model (are not the ones you think)
-
-
-
-
-----------------
-
-Ethereum Price Revisits Key Support, Can Bears Take Over?
-
-
-                            Ethereum price started another decline and traded below $2,920. ETH could gain bearish momentum if there is a close below the $2,800 support zone.
-
-Ethereum remained in a bearish zone and traded below the $2,900 zone.
-The price is trading below $2,950 and the 100-hourly Simple Moving Average.
-There is a connecting bearish trend line forming with resistance at $3,050 on the hourly chart of ETH/USD (data feed via Kraken).
-The pair could continue to move down if it stays below the $3,050 resistance.
-
-Ethereum Price Extends Losses
-Ethereum price remained in a bearish zone below the $3,120 level, like Bitcoin. ETH traded below the $3,000 level. The bears even pushed the price below the $2,920 level.
-A low was formed at $2,813 and the price is now consolidating. There was a minor increase above the $2,900 level. The price tested the 23.6% Fib retracement level of the downward wave from the $3,355 swing high to the $2,813 low. However, the bears were active near the $2,950 and $2,965 levels.
-Ethereum is now trading below $3,000 and the 100-hourly Simple Moving Average. Immediate resistance is near the $2,965 level. The first major resistance is near the $3,050 level and the 100-hourly Simple Moving Average.
-There is also a connecting bearish trend line forming with resistance at $3,050 on the hourly chart of ETH/USD. The trend line is close to the 50% Fib retracement level of the downward wave from the $3,355 swing high to the $2,813 low.
-
-Source: ETHUSD on TradingView.com
-The next key resistance sits at $3,085, above which the price might gain traction and rise toward the $3,150 level. A close above the $3,150 resistance could send the price toward the $3,250 resistance. If there is a move above the $3,250 resistance, Ethereum could even test the $3,350 resistance. Any more gains could send Ether toward the $3,500 resistance zone.
-More Downsides In ETH?
-If Ethereum fails to clear the $3,050 resistance, it could continue to move down. Initial support on the downside is near the $2,850 level. The first major support is near the $2,820 zone.
-The main support is near the $2,820 level. A clear move below the $2,820 support might push the price toward $2,650. Any more losses might send the price toward the $2,540 level in the near term.
-Technical Indicators
-Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone.
-Hourly RSI – The RSI for ETH/USD is now below the 50 level.
-Major Support Level – $2,820
-Major Resistance Level – $3,050
-                            
-                            
-                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
-                                                            
-                                                            
-                                                    
-                    
-
-----------------
-
-MicroStrategy Introduces Orange: A Bitcoin-Based DID Protocol
-
-
-MicroStrategy, a US-based business intelligence and software company, has introduced a new decentralized identification protocol named Orange. This innovative protocol was unveiled at the annual MicroStrategy World event in Las Vegas on May 1.
-Orange stands out by employing a novel method of using inscriptions as Ordinals on the Bitcoin (BTC) blockchain to store data related to decentralized identities (DID). The protocol utilizes the Segregated Witness (SegWit) feature of Bitcoin. It also enables documents to be created and updated with minimal restrictions on size and content.
-Why is MicroStrategy’s Orange Different from Other DID Solutions?
-During a segment called “Bitcoin Security,” Michael Saylor, co-founder and Executive Chairman of MicroStrategy, explained the idea behind Orange protocol.
-
-“Our vision is to provide an internet native decentralized digital identity backed by Bitcoin. So, we want to use the open standard of DID, and we want to use the open standard of Bitcoin and put the two together … Why would we use Bitcoin? Well, it is fault tolerance, it is censorship resistance, it does use the most advanced cryptography, it’s a lot better than most people’s taskwork managers and this federated system. It is distributed … It’s open, permisionless, egalitarian, ” Saylor said.
-
-
-Read more: Decentralized Identity and the Future of Web3: What To Know
-
-VIDEO
-
-Furthermore, Saylor highlighted that the protocol ensures that the decentralized identities are managed efficiently, reducing transaction fees and block space utilization—which are common concerns in blockchain operations. Yet, it is still unclear when MicroStrategy will officially launch the Orange protocol.
-Based on the information on their “unofficial draft” on Github, the technological foundation of Orange is based on Bitcoin’s inscription. Orange embeds DID information directly on the blockchain, unlike other DID methods that rely on external data sources or additional dependencies. This method secures data permanence and integrity while enhancing the digital identities’ overall functionality and forward compatibility.
-For instance, the Bitcoin Reference DID method (did:btcr) relies on referencing a URL to fetch DID document data. Such reliance can compromise the blockchain’s immutable nature if the URL content changes. In contrast, Orange stores additional data for the DID document directly on-chain.
-Additionally, ION (did:ion) requires indexing all the IPFS data pointed to by Bitcoin transactions, which introduces more external dependencies. Orange’s use of taproot script path reveal transactions allows for storing arbitrary amounts of data in the witness of Bitcoin transactions through inscriptions. Therefore, Orange can avoid these dependencies.
-Moreover, Orange enhances the security measures by distinguishing between the “wallet keys” used to sign Bitcoin transactions on-chain and the “subject keys” that authenticate the DID subject. This separation allows a third party to manage a DID on behalf of its subject or require multiple signatures. Hence, it offers an extra layer of security and control.
-
-This move demonstrated MicroStrategy’s continuous support and involvement in the Bitcoin ecosystem. Earlier in February, Saylor said the firm was pivoting to a Bitcoin development strategy.
-
-“We view ourselves as a Bitcoin development company. That means we’re going to do everything we can to grow the Bitcoin network,” he said during the company’s fourth-quarter earnings webinar on February 6.
-
-MicroStrategy’s latest Bitcoin acquisition further solidified its long-term vision towards Bitcoin. BeInCrypto reported that MicroStrategy purchased an additional 122 BTC this April, totaling $7.8 million.
-The transaction increases MicroStrategy’s holdings to 214,400 BTC, now valued at over $12.35 billion. With its holdings amount, MicroStrategy positions itself as a major player with over 1% of the finite 21 million Bitcoin supply.
-Read more: What Is Digital Identity?
-MSTR Price Performance. Source: Google Finance
-
-However, these positive developments have not yet immediately impacted MicroStrategy’s stock price (MSTR). As of May 1, the closing price of MSTR was $1,065.03. Nevertheless, over a longer time frame, MSTR has been up about 180% this year, rising from $685.15 on January 2 to reaching its peak of $1,919.16 on March 27.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-US Lawmakers Introduce New Bill For Clarification on Taxation of Staking Rewards
-
-
-                        
-                            US Lawmakers Introduce New Bill For Clarification on Taxation of Staking Rewards                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 1, 2024 23:30 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Two bipartisan U.S. lawmakers, Representatives Drew Ferguson and Wiley Nickel, have proposed the Providing Tax Clarity for Digital Assets Act to address taxation issues related to block rewards earned by crypto miners. The bill aims to clarify the tax treatment of staking rewards, proposing that they should only be taxed at the time of their sale rather than upon acquisition. This move seeks to prevent double taxation and provide much-needed clarity for investors and businesses in the digital asset industry.Crypto Taxation Through Staking RewardsRepresentative Ferguson emphasized the complexity of the current tax treatment of digital asset rewards, highlighting the confusion it causes among investors and the potential for American businesses to relocate overseas due to regulatory uncertainty.“The United States has long been the leader in innovation and technology yet is falling behind our foreign counterparts in providing tax clarity for the emerging digital asset industry. The United States’ treatment of digital asset rewards is overly complex – leading to confusion by investors, double taxation, and American businesses relocating overseas,” said Ferguson.The proposed legislation aims to establish clear tax guidelines for block rewards from proof-of-work and proof-of-stake networks, aligning taxation with the sale or spending of these rewards rather than their acquisition.The move comes in response to recent IRS rulings and the landscape of digital assets taxation. The bill seeks to provide much-needed clarity and fairness in tax treatment, ensuring that block rewards are taxed only once, at the time of their sale or exchange. This initiative reflects growing bipartisan efforts to address regulatory challenges in the digital asset space and foster innovation within the United States. Even Sheila Warren, CEO of the Crypto Council for Innovation, called the legislation “right on point” for providing adequate guidance.Stablecoin Legislation Bill Still Pending
-According to a Democratic aide on Capitol Hill, proposed stablecoin legislation is unlikely to be attached to the Federal Aviation Administration’s (FAA) reauthorization bill. Despite efforts by Representatives Maxine Waters and Patrick McHenry, leaders in both the Senate and the House of Representatives are hesitant to merge stablecoin legislation with the FAA bill, which is considered a must-pass piece of legislation.While combining the two bills would be unprecedented in financial services policy, lawmakers typically add less popular legislation to larger bills to garner bipartisan support.The Digital Chamber’s chief policy officer, Cody Carbone, expressed scepticism about the likelihood of stablecoin legislation passing before the U.S. presidential election, giving it only a 35% chance. Carbone highlighted the ongoing debate surrounding key issues such as regulatory oversight and state-level regulation, which have hindered the progress of stablecoin bills like Representative Patrick McHenry’s Clarity for Payment Stablecoins Act and the Lummis-Gillibrand Payment Stablecoin Act.                                                     
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Crypto Phishing Attacks ‘Rampant’ in South Korea - Report
-
-
-                        
-                            Crypto Phishing Attacks ‘Rampant’ in South Korea – Report                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 1, 2024 23:00 EDT                            
-                                                             | 3 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Crypto-related phishing attacks have become “rampant” in South Korea, a report has claimed, with a top financial regulator set to act.Per Namdo Ilbo, the Financial Supervisory Service (FSS) will team up with the nation’s biggest crypto exchanges to create promotional materials. The regulator wants to boost public awareness of common crypto scams.Crypto Phishing Attacks ‘Rampant’ – FSS Prepares Response
-On April 29, the FSS announced plans to publish a “casebook” of case studies and “tips.” The regular said it hopes this will help citizens identify and avoid crypto-related fraud.The FSS said that the casebook contained an analysis of 2,209 reports of crypto-related phishing attacks logged from January to April.The regulator said that the reports had been processed by the nation’s Virtual Asset-related Investment Fraud Reporting Center.The data shows that chat app-based crypto “reading rooms” have become a hotbed of crypto phishing schemes.Almost 27 of all the 2,209 reports originated from these open channels, ostensibly set up as knowledge-sharing resources for South Korean crypto enthusiasts.Police have shut down multiple rings operating “reading rooms”-type scams in recent years.Fake Exchanges Target South Korean Crypto Enthusiasts
-Some 19% of the cases, meanwhile, were related to “unregistered” or bogus crypto exchanges.The regulator explained that it had identified seven overarching themes in the most recent phishing report, namely:
-Prompting victims to send coins to bogus crypto exchanges
-Romance scams, whereby catfished victims are encouraged to “invest in crypto projects together”
-Fake token lock-ups
-NFT-related fraud
-Scams whereby fraudsters impersonate crypto exchange employees
-Scams whereby fraudsters pose as vendors of bona fide cryptoassets like Bitcoin (BTC)
-Scams that originate on chat app-based crypto “reading rooms”
-Case Studies Show Devastating Effects
-The regulator’s case studies include the story of a citizen who received an Instagram direct message from an individual claiming to be a pilot based in the United States.After developing a “romantic relationship,” the “pilot” said that they had earned a considerable amount of money by investing in crypto.The “pilot” would regularly send the victim photos of luxury goods supposedly bought with these crypto trading profits.The victim then agreed to “invest” a small amount of money, which accrued a modest “profit.”Then the victim agreed to take out a bank loan worth around $217,000. They then used this money to buy cryptoassets.The “pilot” instructed the victim to send the coins to a “crypto exchange,” which turned out to be bogus.When the victim tried to “withdraw” the coins from the “exchange,” they realized that they had been duped.The FSS said that it would publish the casebook on its website and would also provide printouts to “the financially vulnerable” at senior welfare centers.The headquarters of the Financial Supervisory Service in Seoul, South Korea. (Source: Wikiwater2020 [CC BY-SA 3.0])The regulator said that groups “such as the elderly” were particularly at risk. Government bodies have issued similar warnings in Japan.FSS spokespeople said they would also distribute the casebook at employment support centers and metropolitan local government centers “across the country.” An official said:“If you suspect that you have fallen victim to an investment fraud similar to the case listed in the casebook, please report this to the FSS immediately. Alternatively, please contact the police and request assistance.”The media outlet noted that the FSS was working on the project with the Digital Asset Exchange Association (DAXA).DAXA comprises the exchanges Upbit, Bithumb, Coinone, Korbit, and Gopax, all of which have permits to offer KRW trading in South Korea.And DAXA said it plans to post the casebook and educational videos on phishing protection on its members’ social media channels.Late last year, the body said it would work with financial regulators to hunt down “undeclared crypto operators.”                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
 Yaroslav Vasinskyi, Linked to Kaseya Hack, Sentenced to 13 Years in Jail
 
 “As this sentencing shows, the Justice Department is working with our international partners and using all tools at our disposal to identify cybercriminals, capture their illicit profits, and hold them accountable for their crimes,” said Attorney General Merrick B. Garland.
@@ -8421,3 +7991,433 @@ Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
 If you bought just $100 of $TET… #shorts - YouTube
 
 AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Dogs and cats coins lead gains in today's market rebound - Crypto Briefing
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+----------------
+
+As MakerDAO grows, will MKR’s price finally cross $3K? - AMBCrypto
+
+
+
+MakerDAO’s market cap and revenue grew significantly over the past year.
+Price of MKR surged, despite declining network growth.
+
+Despite the uncertainty the crypto markets have faced over the last few months, MakerDAO [MKR] has been consistently performing well.
+MakerDAO expands
+According to recent data, MKR’s market cap is up five times in terms of year-on-year growth, while monthly revenues are up 10 times in terms of year-on-year growth.
+Source: token terminal
+MakerDAO’s dominance in the DeFi sector is a significant factor contributing to this trend. Maker, currently, accounts for nearly 40% of all DeFi profits on Ethereum [ETH].
+Its strength lies in its stablecoin DAI, which boasts widespread adoption, deep liquidity, extensive integrations, and a proven track record.
+In fact, Maker’s financial prowess is so substantial that it generates more fees than many Layer 1 and Layer 2 solutions.
+Source: X
+Staking season
+Historically, Maker has been criticized for its conservative approach. However, its ongoing Endgame rollout aims to change this perception by transforming Maker into a more scalable ecosystem of modular protocols.
+In this cycle, Maker is poised to play a crucial role in the staking, restaking, and tokenized basis trading economies by offering on-chain financing options for users.
+This presents a multi-billion dollar fee opportunity, positioning Maker to capture a significant portion of DeFi profits.
+Already, Maker generates substantial revenue from lending against a fraction of the stETH supply, rivaling the income generated by Lido across the entire stETH supply.
+Source: Syncracy
+The anticipated use cases for liquid restaking tokens and tokenized basis trading positions are expected to yield similar outcomes, further bolstering Maker’s financial position.
+
+Realistic or not, here’s MKR’s market cap in BTC’s terms
+
+At press time, MKR was trading at $2,706.20 and its price had grown by 4.28% in the last 24 hours. The volume at which it was trading at had surged by 20.16%.
+In terms of network growth, there was a decline seen on the broader chart, indicating waning interest from new addresses.
+Source: Santiment
+
+
+
+
+
+
+----------------
+
+Jack Dorseyâs Block doubles down on Bitcoin, commits 10% of product profit to monthly BTC purchases - Crypto Briefing
+
+
+
+
+Block, the financial services and digital payments company co-founded by Jack Dorsey, has announced plans to purchase Bitcoin every month using 10% of its gross profit from Bitcoin products. The new investment strategy shows the company’s long-term commitment to the flagship crypto, which Dorsey has frequently endorsed as a significant innovation in finance.“We believe the world needs an open protocol for money, one that’s not owned or controlled by any single entity,” Jack Dorsey said in a letter to shareholders on Thursday. “We believe Bitcoin is the best and only candidate to be that protocol, and to ultimately become the native currency of the internet.”As reported, Block’s substantial $220 million investment in Bitcoin has already appreciated by approximately 160%, amounting to $573 million at the end of Q1/2024. This growth comes amid a surge in Bitcoin prices, driven by factors such as US regulatory approval of spot Bitcoin exchange-traded funds.However, the volatility of the crypto market remains a concern. Despite the risks, Block shows a willingness to adapt as necessary.“We would check back in on this approach and assess Bitcoin as a percentage of our overall liquidity, and would continue to remain nimble in how we move forward here,” Amrita Ahuja, Block’s Chief Financial Officer told Bloomberg.In the first quarter, Block’s Cash App reported a profit of $80 million from Bitcoin transactions, contributing to the company’s current holdings of 8038 BTC.The company’s financial performance has been strong, with first-quarter gross profit reaching $2.09 billion, largely fueled by the $1.26 billion generated by Cash App. Following the announcement, Block’s shares saw a 7.4% increase in late New York trading.Block operates in various sectors including financial services, digital payments, and blockchain technology. The company, formerly known as Square, offers a range of services aimed at small and medium businesses. Currently, less than 3% of Block’s resources are dedicated to Bitcoin projects.Apart from Cash App, the company is also involved in the Bitcoin mining business and self-custody wallet service. In late April, Block officially completed the development of its advanced three-nanometer Bitcoin mining chip and now focuses on building a full Bitcoin mining system.
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+Bitcoin Price Tumbles After Halving, Defying Expectations of a Rally
+
+
+
+                    
+
+The Bitcoin market has experienced a significant downturn following its fourth halving, confounding expectations of a surge similar to previous cycles. 
+
+
+
+Since the halving event on April 20, Bitcoin’s value has plummeted by 11%. 
+
+
+
+
+It was trading around $64,000 at the time of the halving, briefly climbed above $67,000 two days later, but then dropped to below $57,000 by May 1, as per CoinGecko.
+
+
+
+Currently, the price stands at $57,362, marking a 7% decrease over the last 24 hours and a 17% decline over the month. 
+
+
+
+This downturn has surprised market observers who anticipated a rise post-halving, in line with historical trends where significant rallies often followed such events. 
+
+
+
+
+For instance, after the 2016 halving, Bitcoin surged approximately 3,000% within 17 months, achieving a then-record high of $20,000 in December 2017.
+
+
+
+This year’s halving diverges from previous patterns due primarily to an unprecedented bull run leading up to the event, which saw Bitcoin reach new highs.
+
+
+
+READ MORE: Yuga Labs CEO Initiates Overhaul Amid Layoffs and Restructuring
+
+
+
+“What’s unique about this latest Bitcoin halving is the incredible bull run and price action leading up to it. 
+
+
+
+
+“Even considering this recent pullback, Bitcoin has still been up 35% since the start of the year,” Mati Greenspan of Quantum Economics explained to Cointelegraph.
+
+
+
+Greenspan also reasoned that the recent drop was predictable, given broader economic pressures and market trends, remarking, “Considering the expectation of yet another Fed pivot and what’s happening in the stock market, Bitcoin’s current price action is hardly a surprise. 
+
+
+
+“We’ll be a lot smarter about that later today, though.” 
+
+
+
+Predictions had been made as early as March 2024 by analysts at JPMorgan, suggesting a potential decline in Bitcoin’s price to around $42,000 post-halving.
+
+
+
+Markus Thielen, CEO and head analyst at 10x Research, forecasts a further dip to $52,000. Thielen attributes the previous rally mainly to substantial inflows into Bitcoin ETFs, which have significantly reduced recently.
+
+
+
+Despite the current decline, some experts, including investment researcher Lyn Alden, believe there are compelling reasons, beyond just the halving and U.S. ETFs, for Bitcoin to achieve new heights in 2024.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Solana ($SOL) ‘Sniper’ Snags $780,000 in 15 Minutes from Newly Launched Token | Cryptoglobe
+
+
+                                
+A cryptocurrency trader has managed to turn 500 Solana ($SOL) tokens worth around $67.000 into 5,789 SOL worth over $780,000 in just 15 minutes after managing to “snpe” a large portion of a newly launched cryptocurrency’s supply.
+
+
+
+According to on-chain analysis service Lookonchain, the cryptocurrency ‘sniper’ managed to acquire 665 million $QUACK tokens as they first started trading, and later sold the tokens for a significant profit of over $700,000 as its price surged, before the dump led to a downturn.
+
+
+
+
+
+
+
+The cryptocurrency ‘sniper, as Lookonchain referred to them, is likely to be an insider in the project, as insiders have over the current cycle been taking advantage of memecoin token launches to first pump up their prices, and score massive wins in the process.
+
+
+
+As CryptoGlobe reported, the team behind a project recently managed to turn just over $6,400 worth of cryptocurrency into over $8.28 million in a single day through the launch of such a meme-inspired cryptocurrency.
+
+
+
+In another case, a trader  turned an initial investment of $49,000 into nearly $2 million within just five hours with a newly launched memecoin as well. While insiders have been benefitting, the wider memecoin trend has seen traders make—and lose—fortunes in relatively short amounts of time.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+One trader, for example, managed a loss of $46,000 in just three minutes after the price of the token, Milady Wif Hat ($LADYF) plunged. The incident highlights several key factors native to the cryptocurrency space, which include the volatility inherent to it that’s especially present in lesser-known and meme-inspired cryptocurrencies and the liquidity issues that these newly launched tokens can have, forcing traders to suffer significant losses due to slippage.
+
+
+
+In another case, a memecoin saw a dramatic price rise of over 3000% over a 24-hour period, and a cryptocurrency trader managed to take advantage by betting 50 $SOL, worth around $9,000, in the cryptocurrency. Its rise has seen them make a profit of over $123,000.
+
+
+
+In another case, a cryptocurrency trader managed to make a profit of over $3 million trading a newly launched Solana-based memecoin within just 12 minutes after betting nearly $2 million on it right after it started trading.
+
+
+
+In yet another incident, a trader, identified on-chain by the alias “sundayfunday.sol,” turned a $72,000 investment into a staggering $30 million within just three days trading a little-known cryptocurrency.
+
+
+
+Featured image via Pixabay.
+
+                            
+                        
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+2 May: Four New Solana Memecoins That Could Rally 9,000% and Challenge Shiba Inu and Dogecoin
+
+
+
+                    
+
+Shiba Inu (SHIB) and Dogecoin (DOGE) are two dog-themed memecoins that went viral and delivered massive gains to early investors.
+
+
+
+Solana memecoins have been attracting huge investment from retail crypto investors in recent weeks, as early investors hope to generate similar returns to early Shiba Inu (SHIB) and Dogecoin (DOGE) buyers.
+
+
+
+
+However, with hundreds of new memecoins being launched every day – and most of them being almost immediately rugpulled – it can be difficult to decide which coins to invest in.
+
+
+
+In this article, we list four newly launched Solana memecoins that could potentially deliver astronomical returns to early investors, like Shiba Inu (SHIB) and Dogecoin (DOGE) did.
+
+
+
+
+
+
+
+Market Cap: $3,000
+
+
+
+
+Contract Address: Aeem6NMbRzcLCFxJWCYWatevYLEKEi1P1YkkYJv7dgUd
+
+
+
+
+
+
+
+Market Cap: $16,000
+
+
+
+Contract Address: 4cra6VGCDowfFz3HDz5ctXtCSAhQQ5FEscKMLGzB56ML
+
+
+
+
+
+
+
+Market Cap: $15,000
+
+
+
+
+Contract Address: 37Tfn3F5E84KvitHHQVK37KzZZ3qAPCdxjGgBJd8XoVs
+
+
+
+
+
+
+
+Market Cap: $19,000
+
+
+
+Contract Address: AiqeRZVZgPkDVVXNTYqz7xGA7bgwuTgE1ShqCkC7C7Em
+
+
+
+How to Buy Solana Memecoins
+
+
+
+Solana memecoins, like the coins listed above, usually cannot be purchased on centralized exchanges, such as Binance and Coinbase.
+
+
+
+Instead, they are purchased via decentralized Solana exchanges, like Raydium or Jupiter. 
+
+
+
+This is done by connecting your Solflare, Phantom or MetaMask wallet to the exchange, and swapping Solana for the token by entering its contract address in the receiving field.
+
+
+                
+
+                
+
+----------------
+
+This Is Why Dogecoin (DOGE) Price Could Drop to $0.10
+
+
+Dogecoin (DOGE) price could soon incur further losses as investors remain skeptical.
+Indeed, the meme coin’s investors are largely pessimistic, without increasing investments.
+Dogecoin Loses Support
+Dogecoin’s price falling below $0.15 accelerated the decline, bringing the doge-themed token to $0.131 at the time of writing. The meme coin is attempting to secure the support of $0.127, a level that has been tested numerous times in the past.
+However, it might face some struggle as DOGE will likely drop back soon owing to investors’ waning support. 
+
+Over $1 billion has been removed from the Futures market in the last three weeks. Indeed, Dogecoin’s Open interest (OI) dropped from $1.6 billion to $667 million in the span of 20 days. This metric represents the total number of outstanding derivative contracts held by market participants at any time. 
+Dogecoin Open Interest. Source: Coinglass
+Investors’ actions fall in line with their sentiment as well. Since the beginning of April, DOGE holders have exhibited largely pessimism towards the meme coin. The crypto market conditions and the lack of bullish cues within the Dogecoin network have pulled investors towards bearish expectations.
+This is visible in the weighted sentiment, which has been negative for nearly the past month. 
+Dogecoin Investors’ Sentiment. Source: Santiment
+
+DOGE Price Prediction: Failing the Hold
+Dogecoin’s price in the short-term timeframe is stuck within a falling wedge. However, this bullish pattern was invalidated after DOGE fell through the lower trend line and received support of $0.127. While the meme coin did recover, it will potentially slip back soon.
+The altcoin will likely fall to $0.116, which could create the conditions for a further decline to $0.105. This is the potential outcome on the 4-hour chart.
+Read More: Dogecoin (DOGE) Price Prediction 2024/2025/2030
+Dogecoin Price Analysis. Source: TradingView
+
+However, a successful retest of $0.127 could give Dogecoin’s price a shot at securing the recovery. If DOGE does so and rises to breach $0.140, it could test the resistance at $0.151, invalidating the bearish thesis and enabling further rise.
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Joe Rogan on Mainstream Medias Decline #bitcoin #bitcoinnews #shorts - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Whales Dive Back Into Solana Meme Coins with SEALANA Crypto Presale Raising $100,000 in Minutes
+
+
+                        
+                            Whales Dive Back Into Solana Meme Coins with SEALANA Crypto Presale Raising $100,000 in Minutes                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 2, 2024 18:06 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Thursday, May 2, 2024 – A presale for Sealana ($SEAL), the all-American redneck seal, launched on Solana yesterday, taking in $100,000 within minutes of launch.In a sector dominated by land-roving canines, one marine mammal is trading his way out of mom’s basement like a true 21st-century patriot pursuing the elusive American Dream.If his face is familiar, that’s because Sealana is a spin on the viral South Park character Gamer Guy, aka Fat Computer Nerd.Gamer Guy appeared in the hit cartoon’s side-splitting World of Warcraft episode and instantly became a viral meme all on his own, recognizable by his milk-bottle glasses, screen-locked stare, messy room and gravity-defying girth.He has since been used to symbolize anyone from the legions of disgruntled keyboard warriors writing sharp, acerbic opinions in internet comments sections, to a kind of Everyman – a symbol of the idler in everyone.Sealana is Gamer Guy but made in Web3. Whaled at his PC and growing by the day, Sealana is so absorbed in degen trades that he’s abandoned the trim figure of his youth for a diet of chips and tinned tuna. His obsession with finding the next big Solana meme coin keeps his flippers busy and his room looking like a bomb hit it.All anyone needs to dive into the fixed-price presale is a funded SOL wallet. For every 1 SOL, investors get 6,900 $SEAL tokens airdropped to them on the ICO’s conclusion. This puts them in pole position to exploit some potentially explosive appreciation through the presale and the potential Solana meme coin gold rush beyond.Users can pay using a widget on the website or by sending SOL from a decentralized wallet to this address: DJ15ZYXqUNMYJ3hL7z4ciSaSFAw5cbos3YjGpdvwmF6c.Are Meme Coin Fans Now Settling on Solana?
+Sealana’s native blockchain, Solana, is rapidly outdoing Ethereum to become the go-to blockchain to launch tomorrow’s biggest meme coins.Amidst a brutal recent sell-off that plunged the price of Bitcoin ($BTC) down 10% to about $57k, Solana coin Popcat ($POPCAT) is pumping 45% in seven days while Solama ($SOLAMA) rallied 25% overnight. Even Dogecoin-imitating chainmates like DogWifHat ($WIF) and Bonk ($BONK) are currently retaining value better than their competitors.Solana itself is also quickly recovering. In the last 24 hours, the price of SOL leapt 10%, far outpacing market leaders Bitcoin and Ethereum and showing the fast rebounding capabilities of blockchain’s biggest growing ecosystem.The reasons for this are no mystery. Solana is a digital economy housing $3.637 billion in total value locked (TVL) across various apps and financial services, with over 1 million active users transacting daily and over 2,500 monthly active developers.Sealana also comes hot on the heels of another recent viral Solana meme coin ICO. Slothana ($SLOTH), the 420-friendly sloth, raised a staggering $15 million in a one-month presale that has just concluded.Speaking of popular crypto sloths, there are rumors that the Sealana team was also behind the scenes of another successful fixed-price presale, the popular Slerf ($SLERF) project, which is up 15% in the last 24 hours.Word on the grapevine is that they are having a go at another successful launch, without accidentally burning $10 million worth of tokens.Meme Coin Gold Rush After Bitcoin Halving?
+This week’s fallen prices reflect a market that is briefly doing a spot of profit-taking before the effects of a Bitcoin software update known as “the halving” become clearer.The halving slashed mining rewards from 6.25 BTC per block to 3.125, effectively halving the issuance of new BTC. Now, with Bitcoin setting new all-time highs this year, many analysts say the crypto market is set to become much more valuable, thanks to the depleted Bitcoin supply.VIDEOThe past three halvings have added significant value to the market well within a year of the update.And when traders begin seeing market-wide green candles again, further meme coin gold rushes will ensue. This time, Solana and its affiliated projects will be at the helm.Don’t ignore the patriot’s call to help Sealana Web3 his way out of mom’s basement.Simply bulk him up with SOL and watch him send a tsunami of $SEAL straight into your wallets!Interested? Keep up-to-date on Sealana’s X account.Buy Sealana at the official website here.                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+MoonPay Expands Crypto Trading Options with Integration of PayPal Transactions
+
+
+                        
+                            MoonPay Expands Crypto Trading Options with Integration of PayPal Transactions                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 2, 2024 17:43 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        MoonPay partnered with financial technology giant PayPal on May 2 to expand its crypto trading services within the United States. This collaboration allows MoonPay users to purchase and sell over 100 cryptocurrencies, including Bitcoin and Ethereum, using various payment methods linked to their PayPal accounts.The company announced that MoonPay users in the U.S. can now complete fiat-to-crypto transactions through wallets, bank transfers, or debit cards using a PayPal account.Crypto Now Available To Moonpay US UsersThe integration signifies a notable development for MoonPay, as it became the first platform of its kind to incorporate PayPal. This provides a wider selection of cryptocurrencies compared to platforms that only offer Ether or the PayPal USD stablecoin.MoonPay CEO Ivan Soto-Wright highlighted the positive impact of the Moonpay Paypal integration on conversion rates.“Many traditional banks do not allow users to purchase crypto on debit/credit cards, but when users pay with PayPal, using that same card, we have already seen a dramatic increase in the success rate of transactions,” said Soto-Wright.With over 20 million verified users as of May 2024, he emphasized that the PayPal integration will initially be available through MoonPay’s direct-to-consumer products, including the MoonPay App and desktop.The integration is expected to commence with 50% of MoonPay’s customers and expand to other regions, including the United Kingdom and the European Union.Previously, PayPal users had access to a limited selection of digital assets, including Bitcoin, Ethereum, Litecoin, PayPal USD, and Bitcoin Cash. With the Moonpay PayPal partnership, however, users now have a broader range of options, including popular tokens like Solana (SOL), Tether (USDT), Dogecoin (DOGE), Cardano (ADA), and Polygon (MATIC).Additionally, MoonPay’s expansion aligns with its commitment to providing fiat-to-crypto transactions with debit and credit cards, mobile payment options like Apple and Google Pay, bank transfers, and local payment methods based on jurisdiction.The company seeks to expand this access to other regions, such as the United Kingdom and the European Union.Moonpay’s Strategic Partnerships Penetrating The Mainstream Market
+MoonPay and Mastercard have also recently partnered to advance Web3 integrations, enhance marketing tools, and foster customer engagement.The collaboration sees Mastercard leveraging MoonPay’s web3 creative services — through Nightshift ( Now Otherlife), acquired last October—to modernize its marketing strategies and boost customer loyalty.MoonPay is integrating Mastercard’s solutions, such as Send, Crypto Credentials, and Click-to-Pay, into its services to ensure regulatory compliance and trustworthiness amid increasing regulatory scrutiny in the crypto market.Because of these regulatory troubles, MoonPay appointed Mike Lempres, a former executive from Coinbase and Andreessen Horowitz (a16z), to its board of directors last year amid increased regulatory scrutiny.Lempres, known for his extensive experience in corporate governance and regulatory affairs, brings valuable expertise to MoonPay as it explores product offerings and regulatory challenges.His previous roles at Coinbase, where he played a major role in the exchange’s IPO and growth, highlight his understanding of compliance and risk management in the crypto industry.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
