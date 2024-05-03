@@ -1,273 +1,3 @@
-EXCLUSIVE: Runes Could Transform Our Understanding Of Bitcoin, Experts Tell Benzinga
-
-With the unveiling of the Runes protocol, Bitcoin BTC/USD is set to make a landmark progression in its technological capabilities, particularly in fungible token issuance. This innovative protocol, created by Casey Rodarmor, is strategically launching in conjunction with the recently concluded Bitcoin Halving event in April, promising to expand Bitcoin’s utility beyond just a store of value.Understanding Runes And Its Operational MechanicsRunes introduces a new token standard that is optimized to reduce the network bloat associated with earlier standards like BRC-20, which congested the network with unnecessary UTXOs (Unspent Transaction Outputs). By utilizing a UTXO-based model, Runes ensures that its operations are seamlessly integrated with Bitcoin's existing architecture, improving transaction efficiency and minimizing costs. The protocol employs the OP_RETURN function, allowing for data to be recorded on the blockchain efficiently without impacting transaction outputs, thus facilitating cleaner and more scalable token management.Impact On Bitcoin's Ecosystem And Mining CommunityLennix Lai of OKX Global tells Benzinga that the timely introduction of Runes, which has sparked a surge in transaction activities. This surge is crucial as it mitigates the impact of reduced block rewards from the halving. “Since the launch of our Runes Marketplace, we've seen a significant increase in transactions, which helps compensate miners through higher transaction volumes and fees despite the halving,” Lai explains. This increased activity not only supports the mining community but also bolsters the overall security and robustness of the Bitcoin network.Moreover, the simplicity and efficiency of the Runes protocol are poised to attract a broader range of developers, fostering innovation and potentially increasing the transaction volume and diversity of applications on the Bitcoin blockchain.Darren Franceschini, Co-Founder of Fideum, elaborates on the economic dynamics introduced by Runes, especially concerning Bitcoin’s mining community. Franceschini explains, “Runes enables all sorts of new tokens to be built on Bitcoin. If these tokens become widely used, this would likely lead to a surge in overall transaction volume on the Bitcoin network. As we know, miners get a fee for every transaction they process. So, with more transactions, miners would collect more fees, potentially making up for the decrease in mining rewards.” He uses the analogy of adding new toll roads to an existing highway system to describe how Runes might create new revenue streams for miners, helping to mitigate the impact of reduced block rewards.Also Read: Hong Kong’s Bitcoin ETF Debut Records 0.2% Of First-Day US ETF Trading VolumeRunes And The Future Of DeFi On BitcoinEneko Knörr, CEO & Founder of Stabolut, discusses the strategic and functional advancements that Runes introduces to the Bitcoin network. “Runes acts as a bridge, enabling the creation of fungible tokens directly on the Bitcoin blockchain. This opens doors for DeFi on Bitcoin, potentially bridging its current gap with Ethereum ETH/USD and Solana SOL/USD in the fungible digital asset arena,” says Knörr. He highlights how Runes’ design addresses limitations of previous token standards by reducing network congestion and elevating transaction efficiency, thus enhancing Bitcoin’s appeal for developing decentralized applications.Post-Halving Outlook And Runes' RoleThe post-halving period is often critical for Bitcoin, with potential implications for its price and market dynamics. The integration of Runes could play a significant role in this phase. The novel applications introduced by Runes could stimulate increased interest and demand for Bitcoin, which, coupled with the decreasing supply due to the halving, might positively influence Bitcoin's price.Furthermore, the introduction of Runes is timed with regulatory advancements such as the acceptance of Bitcoin ETFs in the U.S., which could further bolster institutional participation and enhance the overall market stability and growth.Evaluating Bitcoin's Dual Role As A Store of Value And Utility PlatformThe ongoing development within Bitcoin's ecosystem, exemplified by the launch of Runes, is pivotal in shifting perceptions of Bitcoin from solely a store of value to a more versatile platform capable of supporting sophisticated financial applications and systems. This evolution is essential for Bitcoin's long-term relevance and dominance in the cryptocurrency sector.As the Bitcoin community continues to navigate these exciting developments, Benzinga’s upcoming Future of Digital Assets event on Nov. 19 will provide a vital platform for deeper discussions on these topics. Experts will explore the implications of protocols like Runes on Bitcoin’s functionality and its broader impact on the DeFi landscape, offering insights that are crucial for both developers and investors in the digital asset space.Read Next: Consensys Alleges SEC Covertly Targeted Ethereum, Sparking Legal BattleImage created using artificial intelligence with Midjourney.
-
-----------------
-
-Bitcoin Dominance Peaked, Says Analyst, Altcoins to Take Charge? | Coinspeaker
-
-
-
-Bitcoin market dominance drops fast as BTC price decreases all the way to $56,500. The Bitcoin demand growth and the whale interest have also been on the decline since March end. 
-
-The world’s largest cryptocurrency Bitcoin has come under strong selling pressure extending its weekly losses to more than 10%. Soon after the FOMC meeting on Wednesday, May 1, Bitcoin (BTC) price tanked another 5% dropping to the lows of $56,500, before bouncing back partially. Popular crypto analyst Michaël van de Poppe recently stated that the “Bitcoin dominance has already peaked” while it’s time for altcoins to shine. “Altcoins start to wake up in their Bitcoin pairs, which means that the rotation is started,” he added.
-Usually, a drop in the Bitcoin market dominance signals market participants that an altcoin market rally is around the corner since investors shift their capital from BTC to altcoins. Considering the huge size of the Bitcoin market cap, the BTC dominance currently in the market stands at around 53.9%. This is after the 1.75% drop in dominance registered over the last week. Despite this, the BTC dominance in the broader crypto market is up over 4.6% since the beginning of 2024.
-
-
-
-
-Several market analysts have pointed out the drop in BTC dominance recently. Crypto trader Matthew Hyland noted a significant loss of support in Bitcoin dominance and expressed the intention to await the weekly close before confirming or negating ‘the breakdown’.
-Meanwhile, trading team IncomeSharks observed on May 1 via a post on X that Bitcoin dominance is declining, suggesting potential for altcoins to capitalize if price fluctuations persist for several months. They also highlighted the unexpected resilience of many altcoins on that day.”
-
-
-On-chain Data Hints at Weakness in Bitcoin, $50,000 Coming?
-As said Bitcoin price has faced a severe correction under $60,000 as on-chain data shows weakness in Bitcoin demand growth along with the surge in short positions. This shows that one cannot rule out any further downside in the Bitcoin price from here.
-According to CryptoQuant’s report, BTC’s recent decline can be attributed to a reduction in demand, marked by a slowdown in the growth of Bitcoin balances among long-term holders, decreased interest in spot Bitcoin ETFs, and a rise in short positions in the futures market.
-Data from CryptoQuant indicates that demand from long-term holders, defined as investors who consistently accumulate Bitcoin without selling, decreased by 50% in April. Balances went from over 200,000 BTC in late March to approximately 90,000 BTC.
-Photo: CryptoQuant
-On the other hand, the demand from Bitcoin whales has also been on a decline since March. CryptoQuant notes: “Bitcoin whale demand growth (purple area) peaked at a monthly growth rate of 12% in late March and has now slowed down to 6%.”
-Photo: CryptoQuant
-According to renowned analyst Scott Melker, the BTC price is unlikely to drop below $52,000 in the short term. Melker noted that despite the correction, which he considers relatively minor for a bull market, the daily Relative Strength Index (RSI) has not yet reached oversold levels.
-“This is still only a 23% correction, very shallow for a bull market and consistent with other corrections on this run. We are yet to see a 30-40% pullback during this bull market, like those of the past,” he said.
-next
-
-Bitcoin News, Cryptocurrency News, News 
-
-
-
-
-
-
-
-
-
-
-Thank you!
-You have successfully joined our subscriber list.
-
-
-
-
-
-
-----------------
-
-BTC Went on a Rollercoaster After Fed's Announcement, Altcoins' Recovery Begins (Market Watch)
-
-
-																After several days of nosediving, bitcoin’s price soared by roughly two grand after the Fed’s refusal to increase the interest rates but dropped back down just as quickly.
-The altcoins are in much better shape today, with numerous impressive gains from the likes of Solana, Ripple, Polkadot, ICP, PEPE, and others.
-Bitcoin’s Volatility Continues
-It was just a couple of days ago when the primary cryptocurrency was trading firmly above $60,000 and was even about to challenge the $65,000 level. That happened in the early Asian trading hours of April 30.
-However, it failed to breach that level and started to lose value gradually amid large outflows of US ETFs and the disappointing debut of the Hong Kong-based ones. The landscape worsened on Wednesday as bitcoin slumped further to a two-month low of $56,500, leaving more than $500 million in liquidations.
-All eyes were then on the US Federal Reserve in anticipation of its decision regarding the interest rates. As the US central bank said there will be no upcoming hike, BTC’s price jumped by two grand and neared $60,000.
-
-
-Thanks for subscribing, you will get your first report in the next hours!
-
-
-However, it failed to maintain its recovery and dropped back down to its starting position. As of now, BTC stands close to $58,000, with its market cap up to $1.140 trillion. Nevertheless, its dominance over the alts has taken a major hit and is down to 50%.
-Bitcoin/Price/Chart. 02.05.2024 Source: TradingView
-Relief for Altcoins
-The alternative coins suffered just as badly, if not worse, than bitcoin in the past few days, but most have reacted better with more impressive gains now.
-Solana is among the top performers on a daily scale. SOL is up by 11.5% and trades above $130. PEPE has soared by 16%, while SHIB, DOT, ADA, XRP, AVAX, MATIC, and ICP follow suit with increases of somewhere between 6% and 12%.
-The total crypto market cap has managed to regain around $50 billion from yesterday’s low. As such, the metric has neared $2.3 trillion on CG.
-Cryptocurrency Market Overview. Source: QuantifyCrypto
-
-SPECIAL OFFER (Sponsored)
-LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
-Disclaimer: Information found on CryptoPotato is those of writers quoted. It does not represent the opinions of CryptoPotato on whether to buy, sell, or hold any investments. You are advised to conduct your own research before making any investment decisions. Use provided information at your own risk. See Disclaimer for more information.
-
-Cryptocurrency charts by TradingView.
-
-
-						
-																		
-										
-					
-					
-
-
-----------------
-
-Indian enforcement agency collaborates with Binance to bust scam app
-
-The Enforcement Directorate (ED) — an Indian law enforcement agency — seized 90 crores ($10.5 million) from an online scam app called E-Nuggets with the help of crypto exchanges such as Binance, ZebPay and WazirX.According to a report published by the Hindu, the online gaming app E-Nugget had cryptocurrencies worth $10 million stored in 70 different crypto wallet accounts spread across the three crypto exchanges. The ED contacted these exchanges to block the wallet addresses and transfer the crypto assets to the agency’s wallet.Source: Enforcement Directorate In its report, the ED alleged that the E-Nugget app purportedly offered customers large returns on investment while disguising itself as a gaming platform. The app presented a lucrative investment opportunity with several alluring real-money games that offered large commissions and were designed for users to wager on. However, as soon as money was invested, the app went dark, leaving investors stuck and unable to get their money back. Related: Australia’s top exchange may approve spot Bitcoin ETFs this year: ReportThe agency has attached and seized properties valued at over 163 crores ($19.5 million), including cash, cryptocurrency, account balances and office space.The scam app first came under the radar in 2022 when some of the funds from the company were invested in digital assets. The ED investigation found 2,500 dummy bank accounts 19 crores ($2.2 million) worth of cash was found. The suspected scheme mastermind, Aamir Khan, was arrested along with his accomplice Romen Agarwal and is currently in custody.Since the money was being transferred using digital assets, the law enforcement agencies managed to trace it and subsequently freeze and seize it.Although critics often try to point toward the use of cryptocurrency for money laundering, the nature of the blockchain makes it very difficult to launder the funds once identified. In numerous instances, crypto exchanges have traced and frozen funds linked to criminal activities. The most prominent example of transparency and why it is difficult to launder funds using digital assets dates back to the 2016 Bitfinex hack. Hackers managed to steal 119,756 Bitcoin (BTC) from the crypto exchange. However, the perpetrators behind the exploit were eventually caught and arrested in 2022 while trying to launder the funds.Cointelegraph reached out to Binance and ZebPay for comments but had not received a response by the time of publication.Magazine: Get Bitcoin or die tryin’: Why hip hop stars love crypto
-
-
-
-----------------
-
-Polkadot Launches JAM Combining Elements of Polkadot & Ethereum
-
-
-							
-
-Michael van de Poppe acknowledges Polkadot as a promising Layer 1 Blockchain outside Ethereum.
-
-
-
-Polkadot Founder Gavin Wood recently released JAM Graypaper, introducing the next generation of Polkadot.
-
-
-
-JAM intends to bring Polkadot’s capabilities beyond the existing limitations of Web3.
-
-
-
-
-Prominent crypto analyst Michael van de Poppe acknowledged Polkadot as a “promising Layer 1 Blockchain outside of Ethereum.” In his recent X post, van de Poppe shared insights on Polkadot’s journey from 2016, when Founder Gavin Wood released the Polkadot Whitepaper, till 2024, when he released the JAM Graypaper.
-
-
-
-
-
-
-
-At Token 2048 Dubai, Gavin Wood shed light on the next generation of Polkadot that envisions revolutionizing the future of Web3. As per an official post released by Polkadot, the network aims to “provide the speed, scale, full decentralization, and ease of use needed to drive forward deep innovation across not just Web3, but the entire tech landscape.”
-
-
-
-The principal part of the development is JAM, Polkadot chain’s new version, which intends to expand the network’s capabilities beyond Web3’s limitations. In addition, JAM is expected to bring groundbreaking scalability to the network.
-
-
-
-
-
-
-
-
-
-Providing more insights into the matter, Wood released a technical Graypaper. In the JAM Graypaper, Wood introduced the basic concept of JAM, stating
-
-
-
-
-“We present a comprehensive and formal definition of JAM, a protocol combining elements of both Polkadot and Ethereum. In a single coherent model, Jam provides a global singleton permissionless object environment…paired with secure sideband computation parallelized over a scalable node network, a proposition pioneered by Polkadot.”
-
-
-
-
-Meanwhile, Polkadot (DOT) has managed to escape the bearish track, showing a notable surge of 6.12% in the last 24 hours. However, DOT, currently trading at $6.88, has marked a significant decline of 21% in one month and a marginal decline of 1.04% in one week.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-DeFi Lending Platform Aave Reveals V4 Protocol Upgrade Plans | Coinspeaker
-
-
-
-With all the upgrades that the proposal suggests, a notable part focused on growing the protocol’s algorithmic stablecoin GHO.
-
-Decentralized finance (DeFi) lending protocol Aave Labs has recently shared what it says is its roadmap for the next five years. According to the firm’s proposal, it seeks to upgrade its protocol to the next-generation version 4 but would love to get community feedback on the proposed venture. However, Aave also noted that the V4 upgrade is only a part of a grander plan for the Aave 2030 grant proposal.
-Aave V4: The Proposal
-Aave Labs’ proposal, which aims at the complete overhaul of the protocol, will include “major upgrades and expansions” to the Aave Network, says the team. These changes will see the network add a cross-chain liquidity layer, deploy non-Ethereum Virtual Machine (EVM) layer-1, while also putting on a “fresh new visual identity”.
-
-
-
-
-The team also noted that the Aave V4 upgrade would be featured on an entirely new architecture from the one featured on the previous three versions. However, for a more seamless integration of features such as its native stablecoin GHO, isolation pools, and RWA modules, the upgrade will also add a “Unified Liquidity Layer”.
-Another part of the proposal mentions an automated interest rate feature that can adjust based on market conditions. In line with this, Aave says it is actively working with Chainlink to “define a clear set of data feeds”. Then the team also suggested Liquidity Premiums that factors in a borrowers collateral composition and adjusts their borrowing costs in kind.
-Hopes for GHO
-With all the upgrades that the proposal suggests, a notable part focused on growing the protocol’s algorithmic stablecoin GHO. Since launching in July 2023, the GHO stablecoin has found it really hard competing with the likes of Tether (USDT) and USD Coin (USDC). At least, so does its relatively low market capitalization of $49 million suggest.
-To this end, the Aave V4 upgrade proposal floated the idea of improving the liquidation engine, such as variable liquidation bonuses and “soft” liquidations. It also hints at adding options to earn interest to boost GHO.
-Furthermore, the big upgrade proposes a quick redemption mechanism in the event that GHO depegs. Although the proposal is still new, gathering feedback is expected to be completed by the second quarter of 2024. That will then be followed by an on-chain vote. All things being equal, the team expects to roll out the full Aave V4 by mid-2025.
-Aave remains the third largest DeFi protocol with a total value locked (TVL) of around $10 billion, per DefiLlama’s data.
-next
-
-Altcoin News, Cryptocurrency News, News 
-
-
-
-
-
-
-
-
-
-
-Thank you!
-You have successfully joined our subscriber list.
-
-
-
-
-
-
-----------------
-
-MicroStrategy Continues Bitcoin Investments! Now They Introduced the Platform Built on the Bitcoin Network! - Bitcoin Sistemi
-
-In a landmark announcement, MicroStrategy introduced its latest innovation, MicroStrategy Orange, a decentralized identity (ID) platform built on the Bitcoin network.
-MicroStrategy Introduced its Decentralized Platform: MicroStrategy Orange
-The announcement was made at the Bitcoin for Corporations 2024 event and set a new benchmark in enterprise solutions.
-
-
-MicroStrategy Executive Vice President Cezary Raczko introduced MicroStrategy Orange as a revolutionary tool for building decentralized identity applications on the Bitcoin blockchain.
-“MicroStrategy Orange represents a paradigm shift in the way organizations use decentralized identity applications, powered by the unparalleled security and immutability of the Bitcoin blockchain,” Raczko said.
-
-
-
-
-
-At the heart of MicroStrategy Orange is a robust service cloud that makes it easy to issue identifiers to both users and organizations.
-Raczko also described the platform's tripartite architecture, highlighting its ability to deploy pre-packaged applications that address specific digital identity challenges.
-
-
-
-The launch of MicroStrategy Orange marks a significant step in integrating Bitcoin into enterprise frameworks and underlines MicroStrategy's leading role in shaping the future of blockchain technology.
-Outlining the platform's potential to revolutionize various industries, Raczko envisioned the seamless integration of Bitcoin-based digital identities into various messaging platforms and the broader verifiable credential ecosystem.
-
-
-
-
-
-Raczko concluded with a compelling call to action, envisioning a future where identities are securely linked to the Bitcoin blockchain, encompassing educational qualifications, medical records and beyond.
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Ripple v. SEC court case update as of May 2, 2024
-
-
-With the cryptocurrency sector at the edge of its seat regarding the final outcome of the courtroom standoff between the United States Securities and Exchange Commission (SEC) and Ripple, the regulator has filed its opposition to the blockchain company’s Motion to Strike its new expert materials.
-Indeed, after Magistrate Judge Sarah Netburn set the schedule for the two sides to argue the use of the SEC’s expert materials, the securities watchdog has filed its opposition to Ripple’s reasoning, according to the X posts by defense attorney and popular commentator on the case, James K. Filan on April 29.
-
-‘Not an expert testimony’
-Specifically, the SEC’s legal team’s five-page explanation as to why the court should deny Ripple’s Motion to Strike asserts that the declaration by summary witness Andrea Fox did not constitute undisclosed expert testimony as the blockchain firm argued, stressing that:
-
-
-
-“It is not an expert’s report, does not rely on specialized experience, and does not render any opinions at all, let alone an ‘expert ‘ one. Nor does it present the testimony of a percipient witness. Rather, it applies basic arithmetic to Ripple’s financial records to streamline the presentation of the evidence to Judge Torres.”
-
-Furthermore, the agency highlighted that Judge Analisa Torres had previously already allowed and cited in the summary judgment another SEC summary witness declaration “over Ripple’s identical objection that it constituted an expert report,” referring to the testimony by the SEC’s accountant Christopher Ferrante.
-Finally, the securities regulator pointed out that the “Court’s remedies discovery order did not require disclosure of summary witnesses before remedies briefing,” which means that the “SEC did not violate any rule or order by submitting a summary witness declaration,” therefore “Ripple can claim no surprise or prejudice here.”
-Recent Ripple SEC news
-As a reminder, Ripple had earlier filed a Motion to Strike the SEC’s new witness materials, arguing that Fox’s declaration represents ill-timed “sandbagging,” as well as opposing the $2 billion in damages over institutional XRP sales and arguing that the regulator has failed to prove reckless disregard for the law. 
-Afterward, Judge Netburn gave the SEC until April 29, 2024, to file its response to Ripple’s motion, after which the crypto company had three business days to file a response according to the deadline that will be due soon, as per the information that Finbold reported on April 26.
-Meanwhile, XRP, the token at the center of the prolonged court case, was at press time changing hands at the price of $0.51331, which suggests an increase of 6.55% on the day, as it moves to reverse the 2.17% loss from across the week and the 13.75% decline from its monthly chart, as per data on May 2.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
 LayerZero cross-chain interoperability protocol completes first airdrop snapshot
 
 LayerZero, a cross-chain interoperability protocol, is preparing to launch its long-awaited airdrop for users.LayerZero has completed the first snapshot for its upcoming airdrop on May 2, according to an X post by LayerZero Labs that promised followers “more information coming soon.”Source: LayerZero LabsAirdrops are widely employed by decentralized finance (DeFi) protocols to create more traction by rewarding early users with newly issued cryptocurrencies.LayerZero’s ZRO was the first Hyperp (Hyperliquid-only perp) that launched on HyperLiquid perpetual futures decentralized exchange (DEX) back in September 2023. The ZRO Hyperp trading at $8.3 could imply a fully diluted valuation (FDV) of around $17 billion, according to Xulian, the pseudonymous core contributor of Hyperiquid, in a May 2 X post.Hyperps trade similarly to perpetual futures contracts but do not require an underlying spot or index oracle price. Hyperliquid is the world’s largest perpetual futures DEX by trading volume and Open Interest.Related: Tether nets record $4.5B profit in Q1 2024 — majority from Bitcoin and goldWhile LayerZero Labs shared no additional details about the airdrop, it previously teased that it is preparing for a token launch in early 2024, according to a Dec. 7, 2023, X post:“LayerZero has always been built with the ability to have a native token within the protocol, as can be seen in the immutable code launched on day 1… We’ll state now in no uncertain terms that there will be a LayerZero token. Its distribution is something we’re committed to getting right and expect it to happen within the first half of 2024.”Are airdrops harming DeFi protocols long term?While airdrops aim to create more protocol usage by rewarding early adopters, it’s not always the users taking the lion’s share of the rewards.Crypto airdrops are often riddled with professional airdrop hunters (or squatters) that farm the same airdrop with multiple cryptocurrency wallets with no intention of using the protocol in the long term and market selling the rewards after claiming.In February, pseudonymous Yearn.finance developer Banteg warned that Starknet’s airdrop eligibility list mainly included airdrop squatters. Approximately 701,544 of the 1.3 million eligible wallet addresses were allegedly linked to repeat or renamed GitHub accounts controlled by airdrop squatters.On May 1, Chinese police captured the StarkNet airdrop identity forger, who assumed other users’ identities, claimed over 40,000 STRK tokens on their behalf, and converted it to around $91,000 worth of Tether (USDT).In March 2023, it was revealed that airdrop hunters consolidated $3.3 million worth of tokens from the then Arbitrum (ARB) airdrop from 1,496 wallets into just two wallets they had controlled.Airdrop squatters tend to sell their compounded rewards as soon as they receive the tokens, which usually results in a sharp decline in the newly airdropped token’s value.VIDEOSolana: Expectation Versus Reality. Source: CointelegraphRelated: Bitcoin down 20%+ from all-time highs — Is BTC price headed to $50K?
@@ -8539,3 +8269,362 @@ Block Inc. SQ CEO Jack Dorsey addressed a potential Department of Justice invest
 Former FTX exec Ryan Salame to give up $5.9M Bahamas property
 
 The former co-chief executive of FTX Digital Markets, Ryan Salame, has agreed to transfer his multimillion-dollar property in the Bahamas as part of his plea agreement in a criminal case.According to a motion from FTX Trading Ltd and affiliated debtors filed with the United States Bankruptcy Court for the District of Delaware on May 1, Ryan Salame has agreed to give up a $5.9 million house he owns in the Bahamas. Salame pleaded guilty to criminal charges in September 2023 and his plea agreement required him to pay $5.6 million in restitution to the debtors.Instead of paying cash, Salame proposes to satisfy the restitution by transferring a residence he owns to FTX Digital Markets Ltd.“Salame will satisfy the Restitution Amount by transferring a residence he owns in the Bahamas, Unit No. 3A in the Marina Residences at Albany Building 10 Condominium, to FTX DM,” the filing read. Marina Residences at Albany. Source: Albanybahamas.comThe debtors argued that this is in their best interests as it avoids Salame having to sell the residence quickly at a discount, which could negatively impact their ability to monetize other Bahamian properties.In 2023, Bahamian realtors reported that high-end sales volumes had dropped by as much as 25%. Meanwhile, Australian real estate firm Properstar reported that apartment prices there have fallen 28% over the past 12 months. Salame was charged with conspiracy to make unlawful political contributions and defraud the Federal Election Commission, and conspiracy to operate an unlicensed money-transmitting business. Related: FTX co-CEO Salame's sentencing moved to end of MayThe filing also revealed that Salame agreed to purchase the property in September 2021 for $7.2 million and the 10% deposit was wired from an Alameda Research account at Silvergate Bank. In November of that year, FTX DM wired $8.1 million from its bank account at Fidelity Bank in the Bahamas to Salame’s real estate attorney to pay the balance of the purchase price. In March 2022, Salame and Alameda entered into a promissory note whereby he agreed to pay the $8.1 million to Alameda. However, FTX and Alameda imploded in early November 2022 with bankruptcy filings coming shortly after. Salame’s sentencing is currently scheduled for May 28, 2024. Former FTX CEO Sam Bankman-Fried was sentenced to 25 years in prison in late March.Magazine: Hong Kong Bitcoin ETF launch in ‘top 20%’, STRK scam suspect busted: Asia Express
+
+
+----------------
+
+Memecoins’ mass appeal makes it valuable to DEXs: Kain Warwick
+
+Memecoin trading can be hugely valuable to decentralized exchanges (DEXs) as it can attract flows from a mass of non-traditional DeFi traders, says Synthetix founder Kain Warwick.“There’s an argument that memecoins are pure speculation, in my view speculation is good. It’s valuable,” Warwick told Cointelegraph at MemeGlobal Sydney.He added he wasn’t totally sold on memecoin critics’ arguments that the assets aren’t creating utility.Warwick — who is set to launch his “on-chain gateway” platform Infinex this month — explained that “out of memecoin trading, you get DEX volume and then DEXs have to respond and build better tools.”“Even if the investment is in a purely speculative instrument that has no utility, the ecosystem around it starts to form and that money flows through and the investment flows through into infrastructure, which I think is good.”Memecoin trading has surged in the last two months. The bulk of trading happens on DEXs as token creation tools like pump.fun makes them easy and cheap to launch — the majority are short-lived and don’t last long enough to get a centralized exchange listing.Monthly DEX volumes for March reached a nearly two-and-a-half-year high of $267.9 billion — just below the $292 billion November 2021 record at the peak of the last market cycle, according to DefiLlama. DEX volumes by month since 2021. Source: DefiLlamaApril figures saw $196 billion in DEX volumes — a 26.8% drop from March but still the seventh-strongest month overall.Speaking at the May 2 ETHGlobal Pragma Sydney event, Warwick said memecoins, nonfungible tokens (NFTs) and GameFi “tap into more of a human emotion and cultural idea, which is much more interesting and accessible and addressable to the average person than DeFi.”“Financial engineering is not that interesting,” he added. “There’s just not that many people that find it deeply interesting.”Kain Warwick on stage at MemeGlobal Sydney. Source: Jesse Coghlan/CointelegraphWarwick said that while finance is “impactful to everyone” it’s not something people think about every day — “the average person doesn’t care.”Related: Fantom bets on ‘safer memecoins’ with launch of $6.5M dev fundGames, movies and music, however, were things Warwick believed the average person is “passionate about and really cares about.”“I think memes are maybe the most simplistic connection between financialization and tokenization of everything, and culture.”He added memecoins are “quite useful” as a “hook to get people interested” in DeFi and crypto.“There is something elegant in the simplicity of it,” Warwick said. “There’s no yield or revenue or cash flow or anything. It’s just: ‘Is this a dumb cool idea that I want to own, or is it not?’ That’s it.”Magazine: Meme coins: Betrayal of crypto’s ideals… or its true purpose?Additional reporting by Felix Ng.
+
+----------------
+
+'Rich Dad Poor Dad' Author Robert Kiyosaki Unveils His Bitcoin Strategy Amid Market Crash: 'The Best Time To Get Rich' - Vuzix (NASDAQ:VUZI) - Benzinga
+
+Robert Kiyosaki, the author of the best-selling book “Rich Dad Poor Dad,” has shared his strategy for navigating the ongoing Bitcoin BTC/USD market crash, highlighting the potential for wealth growth during such periods.What Happened: Kiyosaki took to social media platform X, to share his insights on the current market situation. He began by acknowledging the commencement of a “bad” crash, but also pointed out that such downturns present unique opportunities for wealth accumulation.He warned against the devaluation of fiat currencies and encouraged his followers to view the crash as a potential turning point in their financial journey.“DON'T SAVE MONEY: Fake money (US dollar, Euro, Yen, Peso) goes down in value. Save gold, silver, Bitcoin, real money that goes up in value, especially in a market crash. TAKE CARE and make this CRASH the best thing that ever happened to you,” Kiyosaki said. The author outlined six rules to follow during a market crash. These included refraining from making impulsive investment decisions, seeking out reliable sources of information, surrounding oneself with like-minded individuals, starting a side business, choosing the right mentors, and investing in assets that retain or increase in value, such as gold, silver, and Bitcoin.See Also: INSIDER BUYING: Vuzix VUZI Executives Including CEO Snap Up SharesWhy It Matters: Kiyosaki’s advice comes at a time when the global economy is facing significant challenges. The U.S. is grappling with the specter of stagflation, a scenario characterized by slow growth and rising inflation. This has led to concerns about the future of the economy.The Federal Reserve has decided to keep interest rates steady, emphasizing the need to allow more time for restrictive monetary policies to bring inflation towards the Fed's 2% goal. This decision has had a significant impact on market dynamics."The inflation data received so far this year have been higher than expected," Federal Reserve Chair Jerome Powell said on Wednesday, adding that it is likely that gaining greater confidence in disinflation will take longer than previously thought.However, there are also signs of resilience in the global economy, with the OECD revising its 2024 growth forecast upwards. This indicates a potential escape from the stagflationary trend, offering a glimmer of hope for the future.Earlier in the year, Kiyosaki had also expressed his bullish stance on Bitcoin, urging investors to buy as much as they could afford. His recent strategy aligns with this stance, emphasizing the potential of Bitcoin as a valuable asset during market downturns.Price Action: Bitcoin is presently trading at $59,7790, up 1.19% over the last 24 hours. Nonetheless, it has surged by 35.31% since the beginning of the year, according to the data from Benzinga Pro.Read Next: If You Invested $1000 in Chipotle Mexican Grill a Decade Ago, This is How Much It’d Be Worth NowImage Via Shutterstock Engineered by Benzinga Neuro, Edited by Kaustubh BagalkoteThe GPT-4-based Benzinga Neuro content generation system exploits the extensive Benzinga Ecosystem, including native data, APIs, and more to create comprehensive and timely stories for you. Learn more.
+
+----------------
+
+Bitcoin News, Recent Updates, Price and Analysis - Bitcoinist
+
+
+
+    
+    
+    
+
+    
+    
+
+        
+        
+
+        
+
+        
+            
+    
+    
+        
+            
+                
+
+                
+                
+
+                
+                
+                    
+                        
+    
+	
+
+
+    
+    
+    
+        No Result    
+    
+         View All Result    
+                    
+                
+
+                        
+    
+    
+        
+        
+    
+
+
+
+        
+
+        
+    
+
+        
+
+        
+    
+
+    
+This website uses cookies. By continuing to use this website you are giving consent to cookies being used. Visit our Privacy Center or Cookie Policy. I Agree
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+
+----------------
+
+3 May: Six New Solana Memecoins That Could Skyrocket 9,000% and Challenge Shiba Inu and Dogecoin
+
+
+
+                    
+
+Shiba Inu (SHIB) and Dogecoin (DOGE) are two dog-themed memecoins that went viral and delivered massive gains to early investors.
+
+
+
+Solana memecoins have been attracting huge investment from retail crypto investors in recent weeks, as early investors hope to generate similar returns to early Shiba Inu (SHIB) and Dogecoin (DOGE) buyers.
+
+
+
+
+However, with hundreds of new memecoins being launched every day – and most of them being almost immediately rugpulled – it can be difficult to decide which coins to invest in.
+
+
+
+In this article, we list four newly launched Solana memecoins that could potentially deliver astronomical returns to early investors, like Shiba Inu (SHIB) and Dogecoin (DOGE) did.
+
+
+
+
+
+
+
+Market Cap: $14,000
+
+
+
+Contract Address: 913qkdtENF3qvSBZjtoNxETZi93xHgRDuHNGvdzkECF4
+
+
+
+
+
+
+
+Market Cap: $15,000
+
+
+
+Contract Address: HmnxTLpi2QYp9LCB1p8yFgR3X5xqVmE4eAnWU4xMYGe1
+
+
+
+
+
+
+
+Market Cap: $3,000
+
+
+
+
+Contract Address: Aeem6NMbRzcLCFxJWCYWatevYLEKEi1P1YkkYJv7dgUd
+
+
+
+
+
+
+
+Market Cap: $16,000
+
+
+
+
+Contract Address: 4cra6VGCDowfFz3HDz5ctXtCSAhQQ5FEscKMLGzB56ML
+
+
+
+
+
+
+
+Market Cap: $15,000
+
+
+
+Contract Address: 37Tfn3F5E84KvitHHQVK37KzZZ3qAPCdxjGgBJd8XoVs
+
+
+
+
+
+
+
+Market Cap: $19,000
+
+
+
+Contract Address: AiqeRZVZgPkDVVXNTYqz7xGA7bgwuTgE1ShqCkC7C7Em
+
+
+
+How to Buy Solana Memecoins
+
+
+
+Solana memecoins, like the coins listed above, usually cannot be purchased on centralized exchanges, such as Binance and Coinbase.
+
+
+
+Instead, they are purchased via decentralized Solana exchanges, like Raydium or Jupiter. 
+
+
+
+This is done by connecting your Solflare, Phantom or MetaMask wallet to the exchange, and swapping Solana for the token by entering its contract address in the receiving field.
+
+
+                
+
+                
+
+----------------
+
+Bitcoin Price Plunges Following Lackluster Debut of Hong Kong ETF
+
+
+
+                    
+
+The launch of a spot Bitcoin exchange-traded fund (ETF) in Hong Kong on April 30 triggered a significant decline in Bitcoin’s price. 
+
+
+
+Despite expectations of substantial demand, including projections of $140 million, the opening day’s total trading volume, incorporating Ether ETFs, amounted to only $12.4 million. 
+
+
+
+
+Consequently, the premium on Bitcoin futures plummeted to its lowest point in five months, indicating a potential bearish trend.
+
+
+
+Various factors have contributed to this negative pressure on Bitcoin’s price. 
+
+
+
+Weak macroeconomic conditions and uncertainties surrounding U.S. spot BTC ETF flows have been prominent among them. 
+
+
+
+Investors’ confidence in the United States Federal Reserve’s ability to implement two interest rate reductions in 2024 has waned, with Fed Chair Jerome Powell scheduled to deliver post-meeting remarks on May 1, prompting cautious market behavior.
+
+
+
+Continued net outflows from U.S.-listed spot Bitcoin ETFs over four consecutive sessions have raised further concerns. 
+
+
+
+Investors have been withdrawing funds from the Grayscale GBTC ETF due to its high fees, while the Blackrock IBIT ETF has experienced minimal activity. 
+
+
+
+READ MORE: Top SHIB Holders Revealed: Burn Address Dominates, Whales Shift Billions, and Shibarium Upgrade Looms
+
+
+
+
+This trend suggests diminishing interest in such investments within the U.S. market despite the lackluster performance of the Hong Kong spot ETF.
+
+
+
+Previously, cryptocurrency ETFs based on futures contracts listed on the Hong Kong exchange (HKEX) had attracted substantial net inflows totaling $529 million in the first quarter of 2024. 
+
+
+
+
+Hence, the disappointing debut of the spot instrument on April 30 came as an unexpected setback. Analysts, including Bloomberg’s Eric Balchunas, speculate that poor timing may have contributed to the low trading volumes.
+
+
+
+The broader financial landscape also played a role, with the S&P 500 poised to register its first negative monthly performance in six months in April, and yields on U.S. 5-year Treasury notes rising from 4.2% to 4.7%. 
+
+
+
+Market participants often exit fixed-income positions amid fears of rising inflation or expectations of continued
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Tether Partners With Chainalysis to Combat Illicit Activity
+
+
+                        
+                            Tether Partners With Chainalysis to Monitor Transactions and Combat Illicit Activity                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 3, 2024 00:14 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Tether, the issuer of the world’s largest stablecoin, said it has teamed up with the blockchain data platform Chainalysis to monitor secondary market activity and combat illicit activity.In an announcement, Tether which issues the cryptocurrency “USDT” pegged to the U.S. dollar, said it is launching new monitoring and analysis tools with Chainalysis. The tools will have the ability to identify wallets that may pose risks or may be associated with illicit or sanctioned addresses.“Tether’s proactive commitment to monitoring the secondary market for USDT – the world’s most popular cryptocurrency – has the potential to transform the entire ecosystem and make it a safer place to transact,” said Jonathan Levin, co-founder and chief strategy officer, of Chainalysis, in the blog post.Monitoring Secondary Market Activity
+Tether goes on to explain that “secondary market activity” refers to transactions conducted within the broader ecosystem using USDT  beyond the limited entities that directly buy and sell USDT from Tether. The new tools have been formed by  Chainalysis and will allow Tether to “methodically monitor transactions” giving the firm oversight of the USDT market. The tools will be used by Tether compliance professionals and investigators by allowing them to identify wallets that may pose risks or may be associated with illicit or sanctioned addresses, said Tether.Tether Reports $4.52B Profit
+Earlier this week, Tether reported a record net profit of $4.52 billion in the first quarter of 2024, marking a significant achievement for the company. The substantial profit was primarily attributed to the firm’s financial gains on Bitcoin and gold, totalling $3.52 billion, and an additional $1 billion from operating profits.In December, American credit ratings firm S&P Global Inc. said it had started assessing the ability of Tether to maintain its peg to the U.S. dollar marking it at a ‘constrained’ rating of 4. The risk assessment is between 1 to 5 – with 5 being ranked weak. Tether has been scored weak due to the lack of information disclosed.Stablecoins are a cryptocurrency whose value is usually pegged to a fiat currency or commodity. Tether has been under scrutiny for years – the stablecoin was issued in 2014 and is the longest-standing stablecoin with the largest volume in circulation. Its price has remained relatively stable in recent years and particularly over the past 12 months, noted the S&P.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Bitcoin ETF Mania Drives Record Growth Across Coinbase's Platforms, CEO Brian Armstrong Notes 'We Saw All-Time Highs In Trading Volume...' - ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests (BATS:ARKB) - Benzinga
+
+Coinbase Global Inc. COIN has experienced a significant surge in customer adoption and trading activity across its platforms, driven by the launch of several Bitcoin BTC/USD spot ETFs in the U.S. during the first quarter of 2024.What Happened: Coinbase’s co-founder and CEO Brian Armstrong attributed the record growth to the excitement around Bitcoin ETFs. This led to all-time highs in trading volume and active clients, particularly in the institutional business.“The excitement around Bitcoin ETFs drove new customer adoption across our product suite,” said Armstrong. “We saw all-time highs in trading volume and active clients, for instance, in our institutional business.”The company’s institutional prime brokerage business, Coinbase Prime, also saw record levels of trading volume and active clients in the first quarter, driven by the Bitcoin ETF rollouts. This resulted in a significant increase in other transaction revenue, previously included in consumer transaction revenue, primarily due to higher Base sequencer fees and payment-related revenue, as indicated by Coinbase CFO Alesia Haas.See Also: 29-Year-Old Tesla Worker Who Got Fired Says He Slept In Parking Lot, Showered At Factory And Ate Microwaved Dinner: ‘Sacrificed A Lot For The Company’During the quarter, 40% of Coinbase’s institutional clients engaged with three or more Coinbase Prime products, such as custody, trading, staking, and financing. This, according to Coinbase’s President and COO Emilie Choi, directly impacted the company’s financials, leading to a 69% quarter-over-quarter growth in assets under custody to $171 billion and a 64% growth in custodial fee revenue to $32 million.The approval of spot Bitcoin ETFs in early 2024 marked a significant milestone in the cryptocurrency industry. It reshaped market dynamics and contributed to Bitcoin’s surge to a new record high. The launch of ETFs like ARK 21Shares Bitcoin ETF ARKB, Fidelity Wise Origin Bitcoin Fund FBTC, and VanEck Bitcoin Trust HODL saw substantial trading volumes. ARK 21Shares recorded a volume of 1,717,102 shares, Fidelity Wise Origin Bitcoin Fund saw a volume of 23,013,692 shares, and VanEck Bitcoin Trust had a volume of 106,685 shares. Why It Matters: The surge in Coinbase’s Q1 performance is in line with the company’s revenue beat and institutional trading volume hitting an all-time high. The company reported total revenue of $1.64 billion, surpassing a Street consensus estimate of $1.34 billion and a GAAP EPS of $4.40.Before the earnings report, Coinbase’s stock had surged over 300% in the past year, riding the crypto boom. The stock’s surge compared favorably to Bitcoin’s price, which rose by 103.13% over the past year. This performance indicates the company’s strong position in the market.Additionally, Coinbase’s decision to roll out support for the Lightning Network in collaboration with Lightspark, the largest U.S. crypto exchange by trading volume, has also contributed to the company’s growth. The Lightning Network offers a faster and cheaper way for users to send, receive, or pay with Bitcoin directly from their account, addressing scalability issues and enhancing the overall user experience.Price Action: On Thursday’s close, Coinbase Global Inc. traded at $223.70 in after-hours trading, marking a 2.25% decrease from the previous close, according to the data from Benzinga Pro.Read Next: Trump Says If Supreme Court Decides President Doesn’t Get Immunity Then Biden ‘Will Be Prosecuted For All His Crimes’Image Via Shutterstock This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
+
+----------------
+
+BeL2 - Turn an EVM into a Bitcoin Layer 2 - Brave New Coin
+
+Sasha Mitchell is Head of Operations at BeL2. Imagine if Bitcoin could talk to other blockchains, make deals, execute contracts, and expand its influence without ever compromising its integrity. That's BeL2, the Bitcoin Elastos Layer 2 Protocol.
+Why you should listen
+BeL2 transforms EVM-compatible blockchains into Bitcoin Layer 2s, without bridging BTC. It utilizes a secure ZKP data feed, enhancing Bitcoin’s utility from a store of value to a foundational layer for BTC-powered applications.
+BeL2 allows smart contracts to communicate with Bitcoin, utilizing a specialized proof and relayer mechanism. This allows services to connect into the Bitcoin network and its liquidity.
+ELA, is Elastos’ Layer 2 coin merged-mined with Bitcoin since 2018 with over 50% of Bitcoin’s miners security. It has a total supply of 28.22 million coins by 2105 and current circulation of 21.3 million. Within BeL2, ELA is essential, serving as collateral for Relayers, powering trust and stability. Stake ELA, earn BTC contributes to network security, empowering holders to shape Bitcoins smart economy.
+Elacity’s Decentralised Digital Rights Management (dDRM) protocol eliminates license servers using blockchain technology and edge computing, delivering secure business models to Web3.
+Elacity dDRM transforms digital rights and asset management in Web3. It addresses key challenges in Digital Rights Management (DRM), such as packaging, transparency, and secure playback, through the use of blockchain and peer-to-peer (P2P) technologies. By offering a decentralised, scalable networking solution, Elacity enables a digital asset marketplace which features robust IP protection and scarce, tradable access, ownership and distribution rights. Elacity delivers decentralised business models, instant royalties, and inclusive economics to owners in Web3, automating contractual challenges, optimising resource sharing, and enabling equitable control and monetisation of digital assets through a democratised online Access Economy.
+Supporting links
+Bel2
+Elastos
+Elacity
+Slaugherbots
+Andy on Twitter
+Brave New Coin on Twitter
+Brave New Coin
+If you enjoyed the show please subscribe to the Crypto Conversation and give us a 5-star rating and a positive review in whatever podcast app you are using.
