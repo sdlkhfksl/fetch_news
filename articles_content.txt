@@ -1,43 +1,3 @@
-Fear Back For 1st Time Since October As Crypto Greed Takes The Backseat
-
-
-								The luster appears to have faded from Bitcoin’s crown. After a stellar run culminating in a record-breaking price in late March, the world’s leading cryptocurrency has experienced a sharp correction, plunging investor sentiment into the abyss. This sudden shift can be attributed to a confluence of factors, with the “Fear and Greed Index” playing a fascinating role in this rollercoaster ride, alongside a record exodus from a key investment vehicle.
-
-Bitcoin And The Fear Gauge: A Delicate Dance
-The Crypto Fear and Greed Index is a sentiment analysis tool that attempts to capture the overall emotional temperature of the cryptocurrency market. It operates on a scale of 0 to 100, with 0 signifying “Extreme Fear” and 100 representing “Extreme Greed.” This psychological barometer plays a surprisingly significant role in Bitcoin’s price movements.
-
-Source: Alternative.me
-During Bitcoin’s ascent to its peak, the Fear and Greed Index hovered comfortably in the “Greed” zone. This instilled a sense of euphoria among investors, encouraging a “buy the dip” mentality. Every price drop was seen as a buying opportunity, further fueling the upward momentum.
-However, the recent price plunge triggered a dramatic shift in sentiment. The index plummeted to a value of 43, firmly entering the “Fear” zone. This sudden lurch towards pessimism triggered a wave of panic selling, as investors fearful of further losses rushed to offload their holdings.
-
-BTCUSD trading at $59,352 on the 24-hour chart: TradingView.com
-A Self-Fulfilling Prophecy? The Crypto Fear Index & Market Psychology
-The Fear and Greed Index, while a valuable tool, can become a self-fulfilling prophecy in volatile markets like Bitcoin. When fear dominates the market sentiment, it can trigger a domino effect. As investors see the index dip, their own anxieties rise, leading them to sell their Bitcoin holdings.
-This selling pressure then pushes the price down further, reinforcing the initial fear and prompting further selloffs. This cyclical pattern can exacerbate price corrections, creating a negative feedback loop.
-BTC seven-day price action. Source: Coingecko
-
-Beyond The Fear: Market Fundamentals And Long-Term Outlook
-While the short-term picture for Bitcoin appears gloomy, some analysts believe this is a necessary correction following the rapid run-up preceding the halving event. The halving, which reduces the number of new Bitcoins entering circulation every block, had fueled speculation and a buying frenzy. However, with the event now in the past, the market is adjusting to the new reality.
-Adding Fuel To The Fire: Record Outflows From Spot Bitcoin ETFs
-Further compounding the woes of Bitcoin is a record exodus from spot Bitcoin exchange-traded funds (ETFs). On May 1st, a staggering $560 million net outflow was recorded from these investment vehicles.
-Spot Bitcoin ETFs allow investors to gain exposure to Bitcoin’s price without directly owning the cryptocurrency. This record outflow signifies a significant loss of confidence among some institutional investors, potentially spooking retail investors as well.
-Despite the current turbulence, long-term Bitcoin believers remain optimistic. They point to the cryptocurrency’s underlying fundamentals, such as its decentralized nature and limited supply, as reasons for its long-term potential. However, the road to recovery might be bumpy, and investors should be prepared for further volatility in the near future.
-Featured image from Psychology Today, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-ZKasino scam suspect arrested, $12.2M seized by Dutch authorities
-
-Dutch authorities arrested a man suspected of being involved with the scam surrounding the ZKasino online gambling platform.The Fiscal Information and Investigation Service (FIOD) arrested the 26-year-old on April 29, who is suspected of fraud, embezzlement and money laundering. The Dutch authorities seized over 11.4 million euros ($12.2 million) worth of crypto, real estate, and luxury cars, according to a May 3 report by FIOD.This marks the first arrest in the Zkasino fraud case, where investors lost at least $33 million worth of digital assets. The platform initially promised users their investment back within 30 days, however, the smart contract suggests that the platform never intended to return the funds, according to Dutch authorities.The suspect’s detention was extended for 14 more days for investigative purposes.Related: Friend​.tech v2 airdrop could introduce nontransferable tokenThis is a developing story, and further information will be added as it becomes available.
-
-
-----------------
-
 ProBit Global Lists Unify Platform Token to Support Global Research Funding - Coin Edition
 
 
@@ -8412,3 +8372,38 @@ Another method to ensure password security, and more specifically the authentici
 This is simply a method to ensure that the owner of those specific data is approving the transaction. Generally, the sender creates the digital signature using a private key to encrypt the signature data, while the recipient obtains the signer’s public key to decrypt the data. This code represents irrefutable proof that a message has been created solely by the sender and has not been tampered with online.
 When talking about digital signatures, one immediately thinks of signature devices like Ledger, Trezor, and Bitbox that allow to validate a transaction before it is broadcasted to the rest of a cryptographic network.
 However, be careful not to consider these devices as wallets: they do not contain your cryptocurrencies but only allow you to approve the transactions necessary to spend them.
+
+
+----------------
+
+LayerZero tackles sybil activity with self-reporting mechanism
+
+LayerZero Labs has unveiled a solution to address sybil activity, also known as “airdrop farming.” The creator of the cross-chain communication protocol introduced a self-reporting mechanism, offering sybil users 15% of their planned token allocation for honesty within a defined 14-day period.LayerZero stated in a May 3 post on X that it believes it’s important for its protocol to distribute tokens to genuine, committed network users rather than individuals who engage in sybil farming. Sybil farming refers to the practice of creating multiple fake accounts to unfairly acquire tokens or rewards. The developers want to ensure that their token distribution benefits those who contribute positively to the network’s growth and sustainability rather than those who exploit it through deceptive tactics like sybil farming.Source:  LayerZero LabsIn the hopes of curbing the negative effects of sybil activity, LayerZero Labs is also providing an incentive for users engaged in such activity to come forward and admit it voluntarily. The incentive is that these users can self-report within a specified period and receive 15% of the tokens they were originally allocated without facing further questions or penalties. “We are giving all sybil users an opportunity to self-report within the next 14 days in return for 15% of their intended allocation, no questions asked.”The self-reporting process requires connecting a wallet associated with sybil activity and signing a message to confirm ownership. Related: Coinbase's Base could make it the NVIDIA of DeFiLayerZero Labs will enforce consequences for those who don’t self-report by May 17. The first phase involves publicly identifying sybil users who don’t come forward voluntarily, and the second phase allows community members to report suspected sybil activity.The proposal comes on the heels of the first snapshot taken on May 1 related to a potential airdrop distribution to community members. This snapshot marks the deadline for eligibility in the upcoming token airdrop, as confirmed by the team in a graphic shared on X.Airdrops are widely employed by decentralized finance (DeFi) protocols to create more traction by rewarding early users with newly issued cryptocurrencies. LayerZero Labs did not provide further specifics about the airdrop, but earlier indications suggested they were gearing up for a token launch in early 2024, as per a Dec. 7, 2023, X post. LayerZero’s ZRO was the first Hyperp (Hyperliquid-only perp) to launch on the HyperLiquid perpetual futures decentralized exchange in September 2023. Magazine: 68% of Runes are in the red — Are they really an upgrade for Bitcoin?
+
+----------------
+
+Hong Kong Asset Management Company Takes Huge Bitcoin (BTC) Move - Bitcoin Sistemi
+
+
+Yong Rong Asset Management, a major asset management firm based in Hong Kong, has made a significant investment in the Bitcoin Spot ETF, according to Bloomberg ETF analyst Eric Balchunas. The firm purchased $38 million worth of the IBIT Bitcoin Spot ETF, which now accounts for 12% of its reported assets.
+The move is particularly notable considering Hong Kong has its own ETFs, according to Balchunas. However, with their irresistible combination of low fees and high volume, U.S. ETFs continue to attract international investors.
+
+
+According to Balchunas, Yong Rong's portfolio is diverse, with his top four holdings consisting of Nvidia, Meta, Tesla and Bitcoin. While Yong Rong's single $30 million ETF investment in IBIT is significant, another Hong Kong firm, Ovata, owns four of the spot BTC ETFs with a total value of $74 million, making it the largest total investor to date .
+
+The total trading volume of six Hong Kong spot ETFs for virtual assets was HK$48.91 million, or approximately US$6.26 million, as of the close on May 3. Among them, the trading volume of Bitcoin ETF was 43.41 million Hong Kong dollars, while the trading volume of Ethereum ETF was 5.5 million Hong Kong dollars. In comparison, trading volume for 11 US Bitcoin spot ETFs on May 2 was a staggering $1.72 billion.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
