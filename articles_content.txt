@@ -1,329 +1,3 @@
-Poisoned Wallet Address Loses $70 Million in ‘Very Suspicious’ WBTC Transaction - The Defiant
-
-A fake transaction led a user to send 1,155 WBTC to the wrong address.An unsuspecting user lost $69 million in WBTC today after sending the funds to an address linked with an attack known as address poisoning.Web3 cybersecurity firm Certik first alerted of the malicious transaction early Friday morning. The attacker mimicked a transfer of 0.05 ETH, or $150, which led the victim to send the funds to the wrong address, according to Certik’s X account.Poisoning addresses refers to attackers sending spam transactions to an address in order to confuse inattentive users. Users then copy the fraudulent address–which usually begins and ends with the same six digits– instead of sending funds to a legitimate wallet address.Hackers can know an address linked to a user’s exchange account because of recurring payments and other transaction flows.Low Success RateThe pseudonymous Officer, a threat researcher formerly of the Web3 cybersecurity firm ImmuneFi, told The Defiant that these types of attacks are very common but usually have a low success rate.According to Etherscan, after the attack, the perpetrator moved the funds in eight separate transactions.According to Officer, many users are lazy when operating in the crypto space.“A lot of people have a bad habit of blind copying the last address from their transaction history, just to be sure,” he said. Hackers take advantage of this behavior by sending small sums of crypto from similar-looking addresses.Triple CheckHow to counter such attacks?“Don't trust Clipboard especially given the fact that malware with almost the same scheme exists (it usually targets a clipboard), check all digits one by one and add hot addresses to the allow list (if possible),” he warned.Exploits have been on a negative curve during 2024.Hackers stole $336 million in crypto in the first quarter this year, a 23% drop from the same time last year, according to the latest report by Web3 security firm ImmuneFi.
-
-----------------
-
-Crypto startups received $935 million from VC funds in April - Crypto Briefing
-
-
-
-
-Venture capital (VC) funds invested $935 million in crypto startups in April, according to data aggregator DefiLlama. The amount is 8% smaller than the total invested in March, which had the largest monthly fundraising since October 2022.Investments in crypto startups focused on building blockchain infrastructure surpassed $730 million, representing 78% of all the amount raised last month. This is even more than the $655 million seen in March, the month with the largest infrastructure allocations in the first quarter.Layer-1 blockchain Monad registered the largest fundraising round in the period, with $225 million received from players such as Paradigm, Electric Capital, and Coinbase Ventures.Berachain is another layer-1 blockchain that received a significant amount of funding in April, totaling $100 million invested by Framework Ventures, Samsung Next, Arrington Capital, and many others.Moreover, a $90 million private sale of OP tokens from Ethereum layer-2 blockchain Optimism to a16z on April 30 adds to the infrastructure investments.The decentralized finance (DeFi) sector also received more funding from VCs in April, with $157 million captured last month surpassing March by $50 million. Ellipsis Labs received $20 million in a round led by Paradigm to build an on-chain liquidity primitive on Solana’s blockchain.Another sector in crypto that received more attention from VCs in April is the Web3-focused applications sector, jumping from gathering $3 million in March to $19 million in April. The startup Legitimate led the investments with $4.3 million received last month to build its product aimed at bridging the physical and digital worlds.Web3 gaming was the only sector in the blockchain industry that registered a smaller capital influx from VCs into its projects, sliding from $83 million to $24.7 million in April. Crypto gaming studio Avalon received $10 million from VCs, almost half of all the funding directed at this sector last month.
-
-
-
-
-
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-
- 
-
-
-
-----------------
-
-CFTC Commissioner Johnson Proposes AI Recommendations, Looping in DeFi - Benzinga
-
-The Commodity Futures Trading Commission's Kristin Johnson proposed recommendations such as heightened penalties to address artificial intelligence in financial markets, including decentralized finance. In a speech delivered at the Sidley Austin and Rutgers Law School Fintech and Blockchain Symposium, Commissioner Johnson outlined her concerns about AI and how that applies to DeFi. "Deploying AI in ecosystems running on blockchain technology raises novel issues for supervision, risk management, and compliance, as well as enforcement" Johnson said on Friday. AI has been integrated into financial markets, including brokerage apps, compliance programs and robo-advisers. In DeFi, AI can be used in automated trading and algorithmic trading. AI in general has raised concerns among regulators over risks such as manipulation and fraud, bias and customer protection. Read the full story at The Block.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Victim Loses Over $71 Million Worth of WBTC in Purported 'Address Poisoning' Attack - Benzinga
-
-Someone lost over $71 million worth of Wrapped Bitcoin WBTC/USD in what appears to be an address poisoning attack. The victim transferred 1,155 WBTC ($71.1 million) to the alleged attacker, according to on-chain transfers from the Etherscan blockchain explorer.  A poisoning attack when the hacker conjures a wallet address similar to the victim's, either through vanity address services or through address mining, and spams the victim with numerous transactions. If the victim accidentally copies the hacker's fake address, they'll have transferred their funds to the hacker instead of to their own. Read the full story at The Block.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Dogecoin Rival Shiba Inu (SHIB) Completes Highly Anticipated Shibarium Hard Fork - The Daily Hodl
-
-
-								Dogecoin (DOGE) competitor Shiba Inu (SHIB) is announcing the completion of its highly anticipated Shibarium hard fork.
-In a new thread on the social media platform X, the team behind the dog-themed meme asset says they have officially completed the Shibarium hard fork, a move traders have been expecting since last year.
-
-
-
-
-
-
-
-
-
-
-“Shibarium has successfully completed its hard fork at block height 4504576! Get ready for: blazing-fast transactions and predictable gas fees!”
-Shibarium, a layer-2 scaling solution, initially released a beta bridge for public use in July 2023. It utilized both plasma and proof-of-stake (PoS) technology to allow investors to shift tokens between Shibarium and the leading smart contract platform Ethereum (ETH).
-In June 2023, Lucie, a content market specialist for Shiba Inu, detailed the benefits of Shibarium, including lower gas fees, faster transactions, more use cases for the Bone ShibaSwap (BONE) digital asset, as well as enhanced security features.
- “Shibarium empowers projects by offering scalability, cost-effectiveness, and enhanced security. The reduced gas fees on Shibarium can have a significant impact on Bone, increasing its demand and potential value.
-With Shibarium, projects have the opportunity to innovate, expand, and create a more accessible and thriving decentralized ecosystem.” 
-In September 2023, it was reported that Shibarium was growing rapidly, surpassing 2.5 million transactions overall, reaching 200,000 daily transactions on average. Furthermore, it was revealed that the protocol had over 1.2 million unique wallet addresses using its service while the amount of BONE reached 27.1 million.
-SHIB is trading for $0.000024 at time of writing, a 5.2% increase during the last 24 hours.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Crypto Downturn a Buying Opportunity: BitMEX Founder Says ‘Buy in May, Go Away’ | Cryptoglobe
-
-
-                                
-Arthur Hayes, the founder of popular cryptocurrency derivatives trading platform BitMEX, has recently shared his analysis of the recent turmoil in the cryptocurrency markets. He predicts a local bottom has been hit and suggests upcoming rangebound action.
-
-
-
-In a post titled “Mayday” on the BitMEX blog, Hayes attributed the volatility seen in the cryptocurrency space to a confluence of factors that included the conclusion of the U.S. tax season, anxieties surrounding potential Federal Reserve policy changes, Bitcoin’s recent halving event, and stagnant growth in assets under management for spot U.S. Bitcoin exchange-traded funds (ETFs).
-
-
-
-Hayes revealed he views the recent downturn as a necessary correction for speculative excesses and suggested that “tourists” will likely sit out the upcoming recovery, while experienced investors will HODL and potentially accumulate more established assets like Bitcoin and Ether, and potentially take advantage of “high-beta” (more volatile) cryptocurrencies like Dog Wif Hat and other memecoins.
-
-
-
-A central theme in Hayes’ analysis is the Federal Reserve’s recent adjustments to its quantitative tightening (QT) program. Initially aiming to reduce bond purchases by $95 billion per month, the Fed has scaled this back to $60 billion, something Hayes interprets as a disguised form of quantitative easing, injecting an additional $35 billion per month back into the dollar liquidity pool.
-
-
-
-He argues that when combined with other measures, this reduction in QT effectively increases the stimulus provided to global financial markets. Hayes also examined recent actions by the U.S. Treasury Department, led by Secretary Janet Yellen and dissected the Treasury’s Quarterly Refunding Announcement (QRA) which forecasts borrowing and cash balances for upcoming quarters.
-
-
-
-The QRA for the second quarter of the year projects borrowing $243 billion, $41 billion above prior estimates due to lower-than-expected tax revenue. Hayes suggests this increased Treasury issuance could lead to higher long-term interest rates and speculated that Yellen might counter this with yield curve control measures, a scenario that could potentially trigger a significant rally in Bitcoin and other cryptocurrencies.
-
-
-
-The recent collapse of Republic First Bank also entered into Hayes’ analysis, as he criticized the swift response by monetary authorities, which ensured all depositors were compensated.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-While this may appear reassuring, Hayes argued it masks underlying vulnerabilities within the U.S. banking system and added that this “safety net” effectively guarantees even uninsured deposits, leading to a form of hidden money printing by the government which could fuel further inflationary pressures. He wrote:
-
-
-
-Like the other stealth money printing policies discussed in this essay, there is no massive liquidity injection today. However, we now know with full confidence that trillions of contingent liabilities have been added to the Fed’s balance sheet, which will be funded with printed money.
-
-
-
-Unfazed by the recent market turbulence, Hayes advocates for active investment, creating a section titled “buy in May, go away” in a play on the popular financial saying “sell in May and go away” that is based on stocks’ historical underperformance between May and October.
-
-
-
-Hayes recommended investors reender the market as the “slow addition of billions of dollars of liquidity each month will dampen negative price movement from here on out,” and while he doesn’t expected “ crypto to fully realize the recent US monetary announcements’ inflationary nature immediately, I expect prices to bottom, chop, and begin a slow grind higher. “
-
-
-
-Per his words the “recent intense puke” provides him an opportunity to buy Solana and “doggie coins for momentum trading position,” while longer-term position will see him “identify other tokens” he believes are undervalued.
-
-
-
-He noted that after accumulating this month he will “ set it, forget it, and wait for the market to appreciate the inflationary nature of the recent US monetary policy announcements.”
-
-
-
-In his footnotes, he suggested he believes Bitcoin hit a local low earlier this week below the $58,000 mark and believes it will now rally to surpass $60,000 and enter a range-bound period between $60,000 and $70,000 until August.
-
-
-
-Featured image via Pixabay.
-
-                            
-                        
-
-----------------
-
-OKX Latest To Fold in Nigeria's War on Crypto, Pulls Naira P2P - DailyCoin
-
-
-        
-OKX has removed naira support from its p2p platform.
-
-
-
-The crypto exchange’s move comes after Nigerian authorities forced Binance to do so over a month ago.
-
-
-
-Local reports indicate that a blanket ban on crypto p2p trading may be in the works.
-Nigerian crypto users are quickly running out of options.As part of efforts to stem the free fall of the naira, the country’s local currency, authorities have turned their attention to the crypto sector, alleging that peer-to-peer (p2p) traders are manipulating the naira through pump-and-dump strategies. In line with this reasoning, the country’s central bank has launched a wide-reaching campaign against the crypto industry that, till now, has seen most of the focus on Binance, forcing the firm to shut down its naira p2p platform and charging it for money laundering and tax evasion.However, as authorities have repeatedly made clear, Binance is not the only firm in its crosshairs. Following Binance, OKX has now also seized naira p2p support.Changing Market RequirementsAs of Friday, May 3, the Nigerian naira could no longer be found on OKX’s p2p marketplace. 
-OKX confirmed the removal of the currency from the platform in an X post from its official help desk account, citing “a change in local market requirements.”“We understand that this change might have an impact on your trading preferences, and we apologize for any inconvenience this may cause,” the team added.
-Most Nigerian crypto users have been left wondering which exchange would be the next domino to fall while decrying the potential effects on young people who have built businesses and streams of income around the sector.The recent OKX move comes as rumors of a looming crypto p2p ban gain momentum.Back to Square One?On Friday, May 3, a local news outlet reported that at least three fintech startups in the country, including Moniepoint, Paga, and Palmpay, will block the accounts of users engaging in crypto p2p trading and report suspected transactions to authorities in line with the National Security Adviser (NSA) designating crypto trading as a national security issue.According to two persons familiar with the matter that the outlet cited, regulations to impose a ban on crypto p2p trading will soon be unveiled. If it happens, the ban would effectively be a U-turn on the Central Bank’s December 2023 decision to lift a two-year ban on banks facilitating crypto transactions.Meanwhile, this week, authorities have already frozen the accounts of over 1,000 crypto traders in the country amid ongoing investigations into money laundering and terrorism financing.On the Flipside 
-Nigerian OKX users can still access other services on the platform and transfer their assets to other platforms if desired.
-
-
-
-A recent circular dubbed as fake by Nigeria’s central bank had instructed banks to freeze the accounts of cryptocurrency traders, stoking crypto ban fears.
-Why This MattersOKX’s move to cease naira support on its p2p platform suggests Nigeria’s crackdown on crypto is intensifying, foreboding a potential blanket ban on crypto p2p transactions. This move could force crypto p2p transactions to move to encrypted messaging platforms lacking the escrow services offered by exchanges, exposing users to greater risks of scams.Read this for more on Nigeria’s war on crypto:Unraveling Binance’s Nigeria Woes as Govt Hunts User InfoLearn more about a recent move from a hitherto dormant Ethereum whale:$5.5M Move Shakes Ethereum as Genesis-Era Wallet Awakens    
-              
-    
-
-----------------
-
-Bitcoin Analyst Says Rally To Over $90,000 Programmed As Money Supply Grows
-
-
-								Bitcoin price action might be dicey, undergoing a major corrective phase. However, even as $60,000 looks slippery for upbeat bulls, some analysts are optimistic that the coin is ready for a strong leg up. 
-Going by past price action, analysts maintain that the coin will surge above $73,800 and register fresh all-time highs closer to or higher than $100,000 in this projected expansion.
-Historical Price Action Places BTC Above $90,000 In Coming Months
-One analyst, posting on platform X, offered a bold prediction based on price action from late 2022. Then, Bitcoin spectacularly collapsed to as low as $15,500 before bouncing back sharply throughout 2023 and Q1 2024. 
-Bitcoin may surge to at least $90,000 | Source: Analyst on X
-Therefore, if Bitcoin follows this formation, the coin will soar to $90,000 and even reach $100,000. While the timeframe for this potential surge remains unclear, another analyst on platform Y chimed in with a specific prediction.
-
-In a post on X, the analyst said it is imperative that Bitcoin trades above $60,000 so that the uptrend momentum doesn’t fizzle. This resilience will form the base of a leg up that will see Bitcoin roar to as high as $95,000 by August 2024. The timing of this potential peak is because, the analyst explains, price action is fractal and thus tends to rhyme.
-Bitcoin price trending upwards on the daily chart | Source: BTCUSDT on Binance, TradingView
-Further bolstering this bullish outlook, another analyst noted that after prices sunk to as low as $56,500 this week, it retested a key support trend line. 
-Since this trend line is held, the analyst predicts that “it is only a matter of time” before prices shoot higher. However, prices will flip green if there is a close above the current all-time high of $73,800.
-Inflation Remains High And M2 Supply In The United States Growing
-With the approval of spot Bitcoin exchange-traded funds (ETFs), Bitcoin is now interwoven with global markets. Accordingly, key events in traditional finance will likely impact crypto prices and sentiment. One key metric that investors and analysts have been monitoring is inflation. 
-Related Reading: FTX Exec Loses Paradise, Surrenders $5.9 Million Bahamas Mansion
-Inflation has been higher than the benchmark 2% in the United States, an obstacle preventing the Federal Reserve from slashing rates further. 
-
-However, even as inflation drops—from the 2021 to 2024 cycle—the M2 money supply has been rising, according to FRED Economic data. The last time it grew, it triggered a bull run that forced the coin to fresh all-time highs of around $70,000.
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Developers of Popular Altcoin Announce Two More Tokens - Also Launching Farming - Bitcoin Sistemi
-
-
-MakerDAO, a leading platform in decentralized finance (DeFi), announced that it plans to introduce two new tokens to its ecosystem, NewStable (NST) and NewGovToken (NGT). The official names of these tokens will be announced at an upcoming brand launch.
-NewStable was introduced as the codename for an upgraded version of Dai, MakerDAO's existing stablecoin. According to the official statement, this new token is designed for wider adoption and comes with improved stability features. According to the statement, there will be a possibility of constantly returning from this token to DAI, another stablecoin.
-
-
-
-
-In addition, NST holders will have the opportunity to farm to earn NGT from launch. A total of NGT 600 million will be distributed annually to participating NST holders through farming.
-
-
-
-
-
-
-According to the statement, NewGovToken represents a refined approach to governance in the MakerDAO ecosystem. It is designed to encourage broader participation and more dynamic decision-making processes. Each Maker (MKR) token can be converted into 24,000 NGT.
-The total supply of NewGovToken has been strategically renominated compared to MKR. Therefore, during the upgrade, each MKR will convert into 24,000 NewGovTokens. This revaluation of NewGovToken will result in more users owning a significant number of NewGovTokens.
-
-
-According to the official statement, these innovations represent an expansion and will not replace the existing Dai (DAI) and Maker (MKR) tokens.
-*This is not investment advice.
-
-
-
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Solana Enters Buy Territory On Major Crypto Market Rebound - DailyCoin
-
-
-        
-Solana has experienced a significant rally.
-
-
-
-Technical indicators move decisively in the buy territory. 
-
-
-
-The overall crypto market trends have been positive.
-After a brief decline, Solana has entered what appears to be a bullish phase once again, as a part of a broader positive movement in the crypto markets. The bullish momentum comes amid a positive macroeconomic shift and corporate adoption. What’s Behind the Crypto Market SurgeOn Friday, May 3, Solana’s rose to $142, up 3% from the previous day. Its performance followed a larger trend in the crypto market, as the crypto market cap in the same period increased by 3.75% within 24 hours, reaching $2.29 trillion. This surge was influenced by several major developments, including macroeconomic factors and adoption.  Firstly, the Federal Reserve has signaled a shift towards a less hawkish monetary policy, maintaining the interest rates unchanged at 5.25% to 5.50% while indicating the potential for three rate cuts in the coming year. This shift is good for riskier assets like crypto, as investors divest from low-yielding bonds​. 
-Adding to the sentiment, PayPal announced a partnership with cryptocurrency firm MoonPay, opening its ecosystem to crypto trading. The move opens up crypto to PayPal’s 426 million customers worldwide. In light of this, Solana’s technical indicators have shown a significant bullish reversal. What Solana’s Technicals SaySolana’s recent increase to $142.09 is supported by several short-term buying signals from its moving averages. The 10-day Exponential Moving Average (EMA) and Simple Moving Average (SMA) stand at 139.63 and 138.94, respectively, both indicating a buy. However, medium-term indicators signal caution. Specifically, the 20-day EMA and SMA, at 144.90 and 142.20, respectively, and the 30-day EMA and SMA, at 148.94 and 151.71, all hint at sell signals. These suggest that Solana might face resistance near these higher average values.
-Oscillators, which help identify market momentum and potential reversal points, also show a mixed sentiment. The Relative Strength Index (RSI), sitting at 45.93, shows a neutral position, not in overbought or oversold territory. The MACD (Moving Average Convergence Divergence), with a value of -7.02, indicates a buy signal. This suggests increasing bullish momentum, which if sustained, could push Solana’s price further up. Other oscillators like the Stochastic RSI and the Commodity Channel Index are also in neutral zones. Given the latest surge, Solana demonstrates robust short-term growth, supported by favorable technical indicators. However, the mixed signals from medium-term moving averages and oscillators suggest a potential reversal in the future.On the Flipside
-Solana has been experiencing ongoing congestion issues, leading to a significant increase in transaction failures. However, these issues have not deterred Solana investors. 
-
-
-
-Technical analysis indicates the current market sentiment, rather than a prediction of future price movements. 
-Why This MattersThe recent rise in Solana’s price, with the broader crypto market, is significant because it reflects increased investor confidence and market acceptance. Such movements suggest that cryptocurrencies are becoming more integrated into the mainstream financial ecosystem.Read more about the recent Solana price movement. Solana Sees Momentum Dwindle as Updates Fail to Fix CongestionRead more about the ZKasino rug pull: ZKasino $32M Scam Suspect Arrested: Here’s What We Know     
-              
-    
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Rarible's Alex Salnikov To Discuss Crypto Destiny, NFTs At Benzinga 2024 Future Of Digital Assets
-
-The digital asset community will assemble in New York City on Nov. 19 for Benzinga’s highly anticipated annual event, Future of Digital Assets. This year, Alex Salnikov, co-founder and chief strategy officer of Rarible, will deliver a keynote on the evolving NFT marketplace and digital asset strategies.A Protagonist in Crypto’s NarrativeSalnikov’s reputation precedes him in the blockchain world, where he has been a dynamic presence since 2012. His venture into co-founding Rarible marked a substantial milestone in his career, positioning the platform at the vanguard of NFT commerce. With a solid computer science and data science foundation, Salnikov’s journey through various leadership roles has imbued him with a rare perspective on the intersection of technology and market demands.Salnikov’s Latest VentureIn November 2023, Rarible took a leap forward under Salnikov’s direction with the launch of RaribleX. The platform was crafted to diminish the complexities traditionally associated with NFT marketplaces. It emphasizes enhanced user engagement and operational efficiency, ensuring creators can maintain control over their royalties — a commitment Rarible has vocally supported in the shifting sands of marketplace policies.Learning at the Core of the EventThe 2024 conference is not just a platform for discussion but also a hub of active engagement. It promises to facilitate over 4,000 one-on-one meetings and numerous roundtable discussions, providing a fertile ground for forging new alliances and reinforcing existing ones. Participants will have the unique opportunity to glean insights from Salnikov’s experiences and perspectives, particularly on how technology can drive user engagement and creator benefits in the digital realm.More Reasons to Attend Benzinga Future of Digital AssetsBenzinga Future of Digital Assets is a one-day gathering of digital asset changemakers leading innovation in money. It is a chance to understand the state of money and its future, offering conference-goers the opportunity to network and deal with peers in the industry.Click here if you want to learn more or to buy tickets.Photo: ShutterstockMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
 XRP Forms On-Chain Signal That Led To 16% Crash Last Time
 
 
@@ -9875,3 +9549,454 @@ In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiase
 
 
 
+
+
+----------------
+
+Crypto market's weekly winners and losers - WIF, PEPE, SUI, CORE - AMBCrypto
+
+
+
+Helium, dogwifhat, and Pepe had the biggest gains in the week.
+Sui, Core, and Pyth Network were the biggest losers for the week.
+
+During the past week, Helium [HNT] managed to pump its price to the top of the biggest weekly winners’ list. Pepe [PEPE] remained featured for another consecutive week, while Sui Network [SUI] experienced a poor run, placing it at the top of the biggest losers’ list.
+Biggest winners 
+Helium
+On the 28th of April, HNT commenced trading at approximately $4.62. By the day’s end, it surged to $5.15, marking the beginning of a positive week. 
+Subsequent analysis of its price trajectory revealed a continued uptrend the following day, peaking at around $6 on the 29th of April. By the week’s end, it settled at roughly $5.59. 
+CoinMarketCap rankings indicated an impressive gain of nearly 21% throughout the week, securing its position as the top performer. 
+At the time of this writing, it was trading at approximately $5.48, boasting a market cap of over $881.6 million. 
+Recent data showed a 2% increase in its market cap over the past 24 hours, coupled with an 18% surge in trading volume, which stood at $20.2 million at press time.
+dogwifhat
+dogwifhat [WIF] had a good stroll in the park. According to CoinMarketCap, dogwifhat secured the second-highest gain of the week, boasting an impressive 20.74% increase. 
+Analysis of WIF’s movement indicated that it commenced the week trading at around $2.6. However, over the subsequent two days, its value experienced a decline, plummeting to as low as $2.2. 
+Fortunately, on the 1st of May, it began a positive trend, ultimately concluding the week trading at approximately $3.4. 
+At the time of this writing, it remained around the $3.4 price range. The data also revealed its market cap was over $3.4 billion, reflecting an almost 4% increase in the last 24 hours alone. 
+Its trading volume was over $500 million.
+Pepe
+PEPE continued its winning streak, securing a spot among the top weekly gainers for yet another week, much to the delight of its holders. 
+AMBCrypto’s analysis of its daily timeframe chart revealed a single decline during the past week, offset by consecutive uptrends that more than compensated for the setback. 
+Starting the week at approximately $0.0000072 with a marginal increase of less than 1%, Pepe experienced a notable dip of over 9% on the 30th of April. 
+However, beginning on the 1st of May and continuing through the remainder of the week, it embarked on a series of upward movements, driving its price to approximately $0.0000086. 
+This propelled Pepe to become the third-highest weekly gainer, boasting an impressive increase of over 15%. 
+Source: TradingView
+At the time of this writing, PEPE was trading with a slight decline of over 2%. According to CoinMarketCap, its market cap was over $3.5 billion, representing a decrease of over 2%. 
+Additionally, its trading volume experienced a decline of over 26% in the last 24 hours, currently standing at approximately $917 million.
+Biggest losers
+Sui 
+SUI has been enduring a prolonged period of poor performance, culminating in its position at the top of the biggest loser rankings for the past week.
+ AMBCrypto’s look at its price trend indicates a downtrend that began on the 23rd of April, with occasional upticks failing to reverse the overall negative trajectory. 
+AMBCrypto’s examination of the chart reveals that Sui commenced the week on the 28th of April at approximately $1.20, registering a marginal increase of less than 1%. 
+However, by the week’s end, its price had plummeted to around $1.00, marking a decline of 1.89%. According to CoinMarketCap, this decline amounted to a staggering 15.37% loss in value. 
+Source: TradingView
+Further examination of the chart revealed that its price trend has dipped below its long moving average (blue line), underscoring the extent of its poor performance. 
+At the time of its writing, it was trading at around the $1 price range, experiencing a decline of approximately 2.8%. 
+Its market cap was around $2.4 billion, representing a decline of over 3% at the time of writing. Its trading volume has decreased by over 25% as well.
+Core
+According to data from CoinMarketCap, Core [CORE] ranked as the second-highest loser for the past week. Analysis of its price trend indicated that it began the week at approximately $2.30 on the 28th of April.
+ However, by the end of the day, it had dropped to $2.10, initiating a continued decline throughout the week. 
+By the 4th of May, its price had further decreased to $2.00, resulting in a loss of 13.38% over the week. At the time of this writing, its decline continued, with it trading at around $1.90. 
+Its market capitalization stood at over $1.7 billion, reflecting a decline of over 4% at the time of this writing.
+Pyth Network
+Pyth Network [PYTH] commenced the previous week at around $0.59 but experienced a decline to around $0.58 by the week’s end. 
+This downward trend persisted, resulting in a price of around $0.53 by the week’s close. This decline equated to a loss of 12.10% of its value, positioning it as the third-largest loser, as per CoinMarketCap. 
+At the time of this writing, it was trading at around $0.52, marking a downtrend at the beginning of the new week. 
+Its market cap experienced a decline of over 2% in the last 24 hours, standing at over $784 million. Similarly, its volume decreased by over 19% and was almost $52 million. 
+Conclusion 
+Here’s the weekly recap of the biggest gainers and losers. It’s crucial to bear in mind the volatile nature of the market, where prices can shift rapidly.
+Thus, it is best to do your own research (DYOR) before making any investment decisions.
+
+
+
+
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Binance Ban in Philippines Spurs Shift to Local Exchanges Amidst Higher Fees and Token Limitations
+
+
+
+                    
+
+Following Binance‘s expulsion from the Philippines, traders in the country now face increased trading fees and a reduced selection of crypto tokens, as indicated by a regional executive.
+
+
+
+On December 14, 2023, the Philippines Securities and Exchange Commission (SEC) initiated a three-month countdown to a Binance prohibition. 
+
+
+
+
+Kelvin Lee of the SEC noted Binance’s failure to register in the Philippines and adhere to regulations.
+
+
+
+The National Telecommunication Commission (NTC) instructed local internet service providers to block the exchange on March 25. 
+
+
+
+Subsequently, on April 23, the SEC directed Apple and Google to remove the Binance app from their stores.
+
+
+
+
+With the ban in full effect, Cointelegraph contacted local stakeholders to gauge the impact of the Binance ban on the Philippine crypto space.
+
+
+
+Ethan Rose, CEO of Pouch, which facilitates Bitcoin payments in the Philippines, applauded the ban, citing former Binance CEO Changpeng Zhao’s involvement in serious financial crimes. 
+
+
+
+READ MORE: Epic Satoshi from Fourth Bitcoin Halving Block Sells for $2.13 Million
+
+
+
+Rose emphasized the ban’s protective nature for Filipino traders.
+
+
+
+
+Rose highlighted a shift of business to local exchanges due to the ban, predicting a positive effect on the local economy and global investment funding for Philippine crypto businesses.
+
+
+
+However, Rose acknowledged the trade-offs, foreseeing higher trading fees and fewer token options for Filipino traders.
+
+
+
+Arlone Polo Abello, CEO of Global Miranda Miner Group, characterized the SEC action as not a significant crackdown but a reflection of the US SEC’s registration requirements for exchanges like Binance. 
+
+
+
+Abello noted Binance’s lack of communication with Filipino traders, which was apparent in their focus group discussions.
+
+
+
+Jay Ricky Villarante, CEO of Moneybees, emphasized the importance of regulatory compliance in the crypto industry. 
+
+
+
+He viewed the ban as a step towards regulatory clarity in the Philippine crypto market, fostering confidence and responsible innovation.
+
+
+
+In summary, while acknowledging both positive and negative implications, Villarante deemed the ban a significant development for crypto in the Philippines.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Subsidiary of Kraken Becoming Under-the-Radar Beneficiary of Multi-Billion ETF Boom: Report - The Daily Hodl
+
+
+								A subsidiary of US-based crypto exchange Kraken is reportedly greatly benefiting from the success of the spot Bitcoin (BTC) exchange-traded fund (ETF) boom.
+According to a new report by Bloomberg, CF Benchmarks – a London-based subsidiary of Kraken that provides reference data for about $24 billion in crypto ETFs – is emerging as an under-the-radar beneficiary to the launch of the BTC ETFs.
+
+
+
+
+
+
+
+
+
+
+A benchmark is a standard used for comparative purposes when assessing the performance of assets or a portfolio.
+According to Bloomberg, CF Benchmarks licenses its benchmarks to Bitcoin ETF issuers including BlackRock in exchange for fees that increase as an issuer’s assets under management rise.
+Spot market BTC ETFs were approved by the U.S. Securities and Exchange Commission (SEC) in January and also debuted in Hong Kong within the last two weeks.
+CF Benchmarks chief executive Sui Chung tells Bloomberg in an interview that he envisions BTC ETFs hitting Israel and South Korea after being approved by regulators in Hong Kong.
+“South Korea is a market where ETFs have become the wrapper of choice for long-term savings. It is also a market where digital assets have gained a high degree of adoption.”
+According to Bloomberg, CF Benchmarks expected $5 billion of assets from spot market BTC ETFs that utilize its indices but ended up with a figure four times larger than that.
+Chung also tells Bloomberg he expects another $1 billion in assets to come under management for Hong Kong BTC ETFs by the end of the year.
+Chung says that CF Benchmarks – which was acquired by Kraken in 2019 for a nine-figure sum – sees its revenue growing to the “mid-double digits” this year.
+Bitcoin is trading for $63,433 at time of writing, a marginal increase on the day.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Bitcoin Sender Struck With Staggering $100,254 Transaction Fee For A Single Transfer ⋆ ZyCrypto
+
+
+            
+            
+Advertisement
+
+&nbsp
+
+&nbsp
+An unidentified Bitcoin user has just shelled out a transaction fee of 1.5 Bitcoin (BTC), equivalent to $100,254, based on the current market price. The exorbitant fee was brought to light on Saturday by Whale Alert, a popular service that tracks large cryptocurrency transactions. 
+
+
+
+
+
+
+
+The fee is quite higher than the average transaction cost, resulting in wild speculation regarding the circumstances that might have led to such an expensive fee. This Bitcoin user paid this high fee to have their transaction included in an ordinary Bitcoin block.
+
+
+
+Possible Reasons
+
+
+
+Bitcoin transaction fees are dolled out to miners as part of their reward for verifying transactions and including them in new blocks added to Bitcoin’s blockchain. Normally, Bitcoin users can pay any amount they wish for transaction fees. If the transaction fee is too low, miners might not accept it, and if it’s outrageously high, miners are incentivized miners to process the transaction more quickly.
+
+
+
+Average transaction fees are typically around $2 or $4 but rose to as high as $128 recently amid the quadrennial halving event and debut of Casey Rodarmor’s new Runes. This represented a record-level period in terms of fees, with a few costly, urgent transactions skewing the metric.
+
+
+
+However, transaction fees have since stabilized, and the latest sky-high fee appears to be an individual error instead of a wider market impact. It could also be reasons known only to the sender or even related to money laundering.
+Advertisement
+
+&nbsp
+
+
+
+Over its history, Bitcoin has witnessed several high-value transaction fees. For instance, in September 2023, a Bitcoin user paid 19 BTC (worth $510,000 at the time) for a BTC transfer.
+
+
+
+Additionally, another BTC user paid over 4 BTC in January to have their transfer added to Bitcoin block 826,032. The transaction was, therefore, charged with an eye-watering 1,800,890 sat/vB fee.
+
+
+
+Bitcoin was valued at $63,942 at press time, shedding a measly 0.3% over the last 24 hours.
+        
+
+        
+
+----------------
+
+Cardano founder proposes Bitcoin Cash integration in X poll
+
+Cardano founder Charles Hoskinson recently posted a “hypothetical poll” on the X social media platform asking the crypto community if they’d be interested in seeing a Cardano and Bitcoin Cash integration. The poll received more than 12,000 votes in its first 24 hours with a 66.3% early majority voting “yes” to the proposal. Source: @IOHK_Charles on X. “Would you like to see Bitcoin Cash become a Cardano Partnerchain upgraded with Useful Proof of Work Leios, NiPoPoWs, and Ergo tech, thus being the fastest and most useful proof of work chain ever built?”As mentioned above, Hoskinson labelled his poll as being hypothetical. However, as Elon Musk has shown since his purchase of the X platform, formerly Twitter, it’s possible to use the platform as a steering point for decision making. Ben Scherrey, founder and CTO of blockchain firm Biggest Lab, posted commentary in favor of the move, stating that he’d “always thought there was some natural synergy between the two chains given the shared UTXO model that allows for high scalability and decentralization.”While the community appears to support the idea of a Bitcoin Cash and Cardano integration, how such a partnership would form and function is a bit murky.On the technology side, Hoskinson used the term “partnerchain.” This seems to imply Bitcoin Cash would have to be bridged or cross-chained in some form in order to operate with the proposed upgrades. Assuming both development teams could come to an accord on the technical aspects of the partnership, there would still need to be a consensus among stakeholders and developers. Hoskinson’s discourse on social media comes as Cardano prepares for two “major upgrades” this year. As Cointelegraph recently reported, the company is preparing for the “Chang” hardfork slated for sometime in the second quarter of 2024 as well a new proof-of-stake model called “Ouroboros Leios.” The pending upgrades were lauded by Hoskinson in his response to an April 7 video posted by crypto influencer Ben “Bitboy” Armstrong. In the video, Armstrong referred to Cardano as “dead” Related: Crypto veterans call out DOJ for targeting Roger Ver a decade after he left US
+
+
+
+
+----------------
+
+Ripple CTO hints at progress in developing XRP Ledger stablecoin
+
+Ripple has suggested substantial developments within its new stablecoin, billed to revolutionize the XRP Ledger environment. The information surfaced at the XRP Las Vegas conference where Ripple’s Chief Technology Officer David Schwartz revealed upcoming integrations, including the stablecoin, with the XRP Ledger.Ripple CTO provides insights at XRP Las VegasDuring the XRP Las Vegas conference, David Schwartz, who is the CTO of Ripple, provided a detailed review of the capabilities of the XRP Ledger including both the features it already has and the developments planned in the near future. The focus of his presentation was on the proposed automated market maker (AMM), a new lending protocol, and the combination of artificial intelligence with blockchain technology. Nonetheless, the biggest news for many of those present was the news on the work on a stablecoin developed by Ripple.Schwartz noted that more information related to the stablecoin would be revealed at the XRPL Apex event that will gather in Amsterdam from June 11 to 13. This news has increased the excitement among XRP holders and the market as well, emphasizing Ripple’s determination to develop its blockchain ecosystem.Ripple’s stablecoin effectSeen as an innovative addition to the XRP Ledger, the proposed Ripple stablecoin seeks to be backed by 100% U.S. dollar deposits, short-term U.S. government security, and other cash equivalents. This stablecoin is intended to help institutions that have not fully adopted digital assets to move easily into the realm of cryptocurrencies and take advantage of the decentralized nature of the XRP Ledger.The crucial part of XRP’s strategy is to leverage the ledger’s native decentralized exchange and upcoming automated market maker in order to drive wider adoption as well as support new institutional and decentralized finance (DeFi) applications. In particular, Vet, a dUNL validator, highlighted the use cases the XLS-68D Sponsor specification allows, once again making it clear that the XRP Ledger is technically capable to support such advanced features.XRP’s stablecoin enhances XRP Ledger flexibilityThe stablecoin’s launch is in compliance with Ripple’s general strategy aimed at enhancing the usefulness and flexibility of the XRP Ledger. The provision of a stable and dependable digital currency option would see Ripple bring on board new institutional users and DeFi applications and in so doing, making the network more robust and attractive.This program is part of Ripple’s innovative initiative aimed at bringing cryptocurrency applications that push the limit of blockchain capabilities and practicality of cryptocurrency in real life. As the forthcoming XRL Apex conference in Amsterdam gains traction, not only the XRP users but also the potential investors watch Ripple’s actions, casting their eyes at the future prospects of the digital financial market that would be reshaped by this development.
+
+
+----------------
+
+Tron Founder’s Team Wallet Moves 120K EETH To Swell L2 Coin Edition
+
+
+							
+
+An address connected to Justin Sun has moved 120,000 EETH worth $376 million to Swell L2.
+
+
+
+Reportedly, the transferred EETH accounts for 46.6% of the total deposits of Swell L2.
+
+
+
+The same address, holding 48,374.301353998937694271 ETH, previously moved 120,000 ETH to EtherFi.
+
+
+
+
+TRON Founder Justin Sun has recently created headlines in connection to a massive $300+ million worth of Ether (ETH). According to an X post by Colin Wu, a Chinese crypto journalist, an address related to Sun deposited 120,000 EETH, worth $376 million, into Swell L2.
+
+
+
+
+
+
+
+EETH or ether.fi Staked ETH is the non-custodial liquid staking token for Ethereum. In other words, it is the ETH deposited into the liquid restaking protocol, EtherFi. As per Colin Wu, the address 0x7a9…3095, which is allegedly connected to Sun, transferred 120k EETH to Swell L2, a blockchain ecosystem. Notably, the transferred EETH accounts for 46.6% of the total deposits of Swell L2.
+
+
+
+In March 2024, the same address was identified as transferring 120,000 ETH into EtherFi. At present, the wallet holds 48,374.301353998937694271 ETH. Reportedly, the wallet began withdrawing ETH from Binance in February 2024, when the ETH price stood at $2.8k.
+
+
+
+
+
+
+
+
+
+Meanwhile, ETH is trading on a downward track, aligning with the prevailing trend of the crypto market. At present, ETH’s price is set at $3,095, marking a marginal decline of 0.46% in the last 24 hours. However, the token has experienced notable dips of 6.51% and 5.9% in one week and one month, respectively.
+
+
+
+With a market cap of $371,662,333,000, Ether secures its top position in the crypto market, second only to the pioneer cryptocurrency Bitcoin. However, a sharp fall of 30% in its trading volume over the last day, currently at $8,488,500,862, shows the varying trends in the market. Meanwhile, Bitcoin is traded at $63,461, with a slight surge of 0.57%. 
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+The Bitcoin Regulatory Landscape | Bitcoin for Corporations - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Trump vs. Biden: Krugman Examines the "Are You Better Off" Debate | Cryptoglobe
+
+
+                                
+In a recent opinion piece for The New York Times, economist Paul Krugman revisits the question once posed by Ronald Reagan: “Are you better off than you were four years ago?” 
+
+
+
+Krugman is a renowned American economist, a Nobel Prize laureate, and a prominent public intellectual. He’s known for his expertise in international trade and economic theory, his work as a columnist for The New York Times, and his progressive economic views. Krugman has a strong academic background, having taught at prestigious institutions like MIT and Princeton. He won the Nobel Prize in Economic Sciences in 2008 for his groundbreaking work on economic geography and trade patterns.pen_spark
+
+
+
+Krugman uses the famous question to evaluate the current political discourse surrounding the potential return of Donald Trump, suggesting that an honest assessment would favor President Biden due to significant improvements since 2020.
+
+
+
+Krugman says that four years ago, during Trump’s presidency, the U.S. grappled with the peak of the Covid-19 pandemic, witnessing massive loss of lives daily, skyrocketing unemployment with over 20 million Americans out of work, and a surge in violent crime. Fast forward to today, Krugman notes, the U.S. has enjoyed the longest stretch of sub-4% unemployment rates since the 1960s and a reduction in violent crime rates that spiked under Trump.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+Krugman argues against giving Trump a pass for the crises of 2020, which some attribute solely to the pandemic. He suggests that if Trump is excused due to these extraordinary circumstances, Biden should similarly be given leeway for challenges occurring during his administration that might be aftermaths of the same disruptions. He points specifically to the inflation surge of 2021-2022, which paralleled economic patterns in Europe, indicating broader, global causes likely related to the pandemic’s effects.
+
+
+
+Addressing Trump’s touted economic wins, such as the brief period of sub-$2 per gallon gas prices, Krugman criticizes these claims as fleeting and linked to the global economic downturn caused by the pandemic, rather than successful economic policy. He emphasizes that, by most measures, Americans are economically better off now than before the pandemic began, with real per capita incomes and wages generally increasing more than inflation.
+
+
+
+Despite these economic gains under Biden, Krugman observes a mismatch between public economic sentiment and actual personal financial conditions, a phenomenon he attributes to the psychological impacts of inflation, where visible price increases might overshadow real wage gains.
+
+
+
+Krugman concludes by reflecting on the allure of “Trump-stalgia,” a nostalgic and perhaps glossed-over remembrance of Trump’s presidency, overlooking the significant hardships of 2020. He suggests that while Biden has successfully navigated the nation to a state of lower unemployment, reduced inflation, and decreased crime rates, many Americans remain unaware of these improvements, influenced by a selective memory of past challenges.
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+Are Rate Cuts Good or Bad? - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Ripple's Brad Garlinghouse Talks XRP Before Stablecoin Launch
+
+
+Ripple CEO Brad Garlinghouse clarified the status of XRP and Ethereum in the eyes of regulatory bodies. 
+Amidst Ripple’s intense legal encounters with the US Securities and Exchange Commission (SEC), Garlinghouse’s comments carry significant weight, especially with Ripple nearing the launch of its stablecoin.
+Ripple CEO Brad Garlinghouse: XRP Is Not a Security, Stablecoin Coming
+Garlinghouse, in a conversation with Michael Arrington of Arrington Capital, stated that neither XRP nor Ethereum are securities. This assertion is crucial as Ripple prepares to introduce a stablecoin, underscoring its stance in a complex regulatory environment.
+
+“Anyone who thinks Ripple is not 100% behind XRP is just missing the point. They have lost the plot. We are totally committed and we will remain totally committed,” Garlinghouse said.
+
+The ongoing debate regarding the classification of digital assets like XRP and Ethereum has seen various developments. Notably, a July 2023 court ruling partially relieved Ripple by declaring XRP not a security. Still, it pointed out that certain institutional sales of XRP were unregistered securities sales. 
+Read more: Everything You Need To Know About Ripple vs SEC
+Meanwhile, Ethereum faces its challenges. Consensys recently sued the SEC, seeking a declaration to preempt any claims that Ethereum is an unregistered security.
+
+
+VIDEO
+
+As Ripple gears up for the next phase, the fintech giant is teasing advancements in its XRP Ledger ecosystem. At the same conference, Ripple CTO David Schwartz discussed the upcoming Ripple stablecoin alongside innovations in automated market makers (AMM) and lending protocols. 
+The Ripple community is keenly awaiting further details, which are expected to be unveiled at the XRPL Apex event in Amsterdam.
+The proposed Ripple stablecoin, backed by US dollar deposits and short-term US government treasuries, is tailored for institutions unable to utilize digital assets directly but eager to leverage the XRP Ledger. According to Vet, an XRPL dUNL validator, the stablecoin could revolutionize institutional and decentralized finance by utilizing the ledger’s decentralized exchange and automated market maker features.
+
+Read more: Ripple (XRP) Price Prediction 2024 / 2025 / 2030
+
+As Ripple continues to navigate through regulatory scrutiny and market dynamics, the launch of its stablecoin could mark a pivotal moment for the company. It could foster new avenues for growth and adoption within the XRP Ledger.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
