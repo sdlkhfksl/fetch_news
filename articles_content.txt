@@ -1,397 +1,3 @@
-Major Fraud Case: Victim Sends $71 Million in Bitcoin to Fraudster's Wallet with His Own Hands - Bitcoin Sistemi
-
-
-A wallet lost 1,155 Wrapped Bitcoin (WBTC), worth over $71 million, due to a sophisticated phishing attack known as 'address poisoning'.
-The incident occurred approximately six hours ago when the victim created a new address as “0xd9A1b0B1e1aE382DbDc898Ea68012FfcB2853a91” and transferred 0.05 Ether (ETH) to this new address. In a cunning move, the fraudster created an address with the same initials and ending letters and transferred 0 ETH to the victim, causing the transfer to appear in the transaction history.
-
-
-Many wallets hide the middle part of the address with “…” for a cleaner user interface. When the victim wanted to transfer his WBTC to his new address, he accidentally copied the scammer's address with the same starting and ending letters. As a result, they transferred 1,155 WBTC worth $71 million directly to the fraudster.
-
-Address poisoning is a type of attack where the hacker creates a wallet address similar to the victim's through spoofed address services or address mining and spams the victim with a large number of transactions. If the victim accidentally copies the hacker's fake address, they will accidentally transfer their funds to the hacker instead of their own wallet.
-
-
-
-
-
-Changpeng Zhao, former CEO of Binance, explained that such attacks can be deceptively effective. “Scammers are now so good at generating addresses with the same starting and ending letters that most people only check this when transferring cryptocurrency,” Zhao wrote in a social media post following a similar security incident in August 2023.
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Megaphone
-
-
-
-----------------
-
-LayerZero demands sybil airdrop farmers to self-report - Crypto Briefing
-
-
-
-
-LayerZero, a protocol enabling connections between incompatible blockchains, has given sybil airdrop farmers an opportunity to self-report their addresses by May 17 in exchange for a reduced token allocation.According to LayerZero, those who decide to come forward will receive 15% of their intended allocation, while those who do not are at risk of receiving “nothing” from the planned token airdrop.Sybil airdrop farming refers to an ostensibly deceptive practice where individuals engage in Sybil attacks by creating multiple fake identities or accounts to exploit airdrop programs.A Sybil attack is enacted when an individual creates numerous false accounts to gain an unfair advantage, such as receiving more airdrop tokens than legitimately entitled. This behavior has been deemed unethical for undermining the perceived fairness and security of airdrop programs, although many in the space still use it as a method. A blog post from LayerZero details how the project plans to address the issue and implement sybil filtering methods used to detect mercenary airdrop farming activity are implemented. Notably, some of the filtering parameters include minting valueless NFTs and spamming low-value transactions across multiple blockchains to register activity.Sybil activity, where users adopt tactics such as creating multiple addresses to increase their share of an airdrop, is a significant issue for crypto projects. This is particularly true when an airdrop is anticipated, as user activity often declines once the token distribution occurs, with mercenary farmers moving their funds to projects that have yet to distribute tokens.“We are giving all sybil users an opportunity to self-report within the next 14 days in return for 15% of their intended allocation, no questions asked,” LayerZero stated in the X postLayerZero itself has experienced a decline in user activity since announcing its airdrop snapshot. According to data from the protocol’s onchain explorer, daily cross-chain transactions fell from around 300,000 on April 30, the day before the airdrop announcement, to about 150,000 currently, representing a drop of more than 50%.To counter the mass exit of users post-airdrop, some crypto projects have begun adopting a process of distributing tokens in multiple rounds.Protocols such as decentralized exchange Jupiter and Ethereum restaking platform EigenLayer have chosen this approach. On this end, speculation has arisen that LayerZero may follow suit, as the team stated that the May 1 snapshot was the first for the airdrop, suggesting the possibility of future snapshots.
-
-
-
-
-
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-
- 
-
-
-
-----------------
-
-Losses due to crypto hacks fall 67%, Bitcoin DeFi interest rises: Finance Redefined
-
-Welcome to Finance Redefined, your weekly dose of essential decentralized finance (DeFi) insights — a newsletter crafted to bring you the most significant developments from the past week.While the DeFi sector is often associated with hacks and exploits, losses from hacks have declined by 67% in April to $60 million compared to March, which saw $187 million in funds stolen. Hundred Finance hackers moved stolen funds for the first time nearly a year after an exploit.In other news, the Bitcoin layer-2 platform Stacks recorded its highest number of active users as interest in Bitcoin DeFi, or BTCFi, surged. The top 100 DeFi tokens had another bearish week, followed by a burst of bullish momentum toward the end of the week. Still, the total value locked in DeFi protocols remained below $90 billion.Losses from crypto hacks plunge 67% in April to $60 millionThe collective value of cryptocurrency compromised by hacking plummeted 67% in April to $60.2 million, marking a notable reduction in crypto attacks, representing the first significant decline in 2024.The 67% is a sharp decline from the $187.6 million hacked in March, which pales compared to the $360.8 million worth of digital assets hacked in February, according to a May 1 X post by on-chain security firm PeckShield.Continue readingStacks active accounts reach record high amid growing interest in Bitcoin DeFiLeading Bitcoin layer-2 network Stacks has reached an all-time high in active users, driven by a growing interest in Bitcoin-native DeFi. Stacks reached a new all-time high of 122,497 active accounts during April. Active accounts are addresses that performed at least one transaction, according to a May 2 X post by Bitcoin (BTC) data provider Signal 21.The record account count suggests a growing interest in BTCFi and comes over a week after the 2024 Bitcoin halving and the launch of Runes, a new protocol for issuing fungible tokens on the Bitcoin network.Continue readingHundred Finance hacker moves stolen assets a year after $7 million exploitThe hacker who stole $7.4 million from the DeFi protocol Hundred Finance has started moving the crypto assets after a year of inactivity. On May 1, the hacker moved Ether (ETH) and Tether (USDT) worth about $800,000 from Curve’s decentralized exchange after providing liquidity on the platform more than one year ago.After withdrawing the funds, the hacker converted USDT and other cryptocurrencies into ETH, increasing the exploiter’s ETH by more than $1 million.Continue reading Curve Finance awards dev $250,000 for finding reentrancy vulnerabilityA security researcher was rewarded $250,000 for discovering a vulnerability that has historically allowed hackers to pull out millions of dollars from cryptocurrency protocols. Pseudonymous cybersecurity researcher Marco Croc from Kupia Security identified a reentrancy vulnerability in the DeFi protocol Curve Finance. In an X thread, he explained how the bug could be exploited to manipulate balances and withdraw funds from liquidity pools.Continue reading DeFi market overviewData from Cointelegraph Markets Pro and TradingView shows that DeFi’s top 100 tokens by market capitalization had a bearish week, with most trading in the red on the weekly charts. The total value locked in DeFi protocols fell below $90 billion.Thanks for reading our summary of this week’s most impactful DeFi developments. Join us next Friday for more stories, insights and education regarding this dynamically advancing space.
-
-
-
-
-
-
-----------------
-
-Crypto Expert Turns Bullish On Bitcoin, Predicts Quantitative Easing Will Begin Soon
-
-
-                            Crypto expert Michaël van de Poppe has made a bullish case for Bitcoin as he alluded to macroeconomic factors that could soon play out in the flagship crypto’s favor. In line with this, he urged Bitcoin investors to take action with a parabolic surge on the horizon. 
-An Imminent Quantitative Easing Would Be Good For Bitcoin
-Van de Poppe suggested in an X (formerly Twitter) post that Bitcoin will rise on the back of a Quantitative Easing (QE), which he anticipates is “close.” He noted that the Fed has already started to “unwind Treasury buybacks and is reducing QT [Quantitative Tightening].” He claims this is happening because the economic data has worsened, which puts the US at risk of a recession. 
-
-Therefore, the Fed seeks to avoid this recession by buying back long-term government bonds and injecting liquidity into the financial system. As the crypto expert predicts, this could be good since it will force the Fed to take a more dovish stance and possibly lower interest rates, boosting investors’ confidence to go all in on risk assets like Bitcoin. 
-Van de Popper further predicts that this Quantitative Easing will become evident in the data released in the coming months. In line with this, he advised investors to long Bitcoin. It is worth noting that Bitcoin dropped to as low as $57,000 ahead of the latest FOMC meeting, with many investors seeming to have anticipated a hawkish stance from the Fed. 
-However, as the crypto expert noted, the rates remain unchanged, and Fed Chair Jerome Powell raised the possibility of a rate cut as early as June. Given Bitcoin’s price recovery since then, this development looks to have already revived a bullish sentiment among investors. 
-What To Expect Going Forward
-In another X post, Van de Popper revealed his expectations for the crypto market going forward. He stated that Bitcoin will consolidate and go sideways (possibly ahead of the QE which will boost its price in the coming months. Meanwhile, he also expects Altcoins to “heavily outperform and rotation kicks in.”
-
-The crypto expert had previously echoed a similar sentiment when he stated that he expects altcoins to bounce in their Bitcoin pairs while Bitcoin faces a period of consolidation that he doesn’t expect to change in the “coming months.” 
-Back then, he also mentioned that there would be a narrative shift to Ethereum, and he reaffirmed this belief in a more recent X post, stating that he expects a lot from the second-largest crypto token by market cap.  
-At the time of writing, Bitcoin is trading at around $59,100, up over 2% in the last 24 hours, according to data from CoinMarketCap. 
-
-BTC bulls reclaim control of price | Source: BTCUSD on Tradingview.com
-Featured image from Seu Dinheiro, chart from Tradingview.com
-                            
-                            
-                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
-                                                            
-                                                            
-                                                    
-                    
-
-----------------
-
-Crypto Biz: The Bitcoin summer, Avalanche integrates with Stripe, and more
-
-While developers have long focused on the Ethereum network, the Bitcoin ecosystem is making a comeback, with several initiatives now aiming to innovate on the original blockchain.Recent developments include the growing ties between Bitcoin and decentralized finance (DeFi), driving the demand for layer-2 protocols to unclog the Bitcoin blockchain and reduce transaction fees as on-chain activity soars.Major players like Coinbase are also reviewing Bitcoin offerings. The crypto exchange finally added the Lightning Network as an alternative for users seeking to transfer Bitcoin (BTC), following Binance’s similar move nearly a year ago. Meanwhile, software firm Animoca Brands has partnered with the Opal Foundation — a new Bitcoin ecosystem protocol — to enter the Bitcoin industry.The introduction of Runes on the Bitcoin blockchain has ignited further buzz. The new token standard was launched on April 20, allowing fungible tokens to be created on the network. Rune transactions have added over 1,200 BTC worth of transaction fees to miners in less than 10 days.This week’s Crypto Biz features the Lightning Network rollout on Coinbase, Avalanche integrating with Stripe, MicroStrategy earning results and a tokenized fund from BlackRock. Avalanche integrates with Stripe for fiat-to-crypto onboardingThe Avalanche C-Chain network has integrated with payment firm Stripe, allowing verified Stripe users to buy Avalanche’s (AVAX) token and send it to their wallets, according to the network’s developer, Ava Labs. Eight Avalanche Web3 apps have also been integrated with the platform. According to the post, Avalanche app developers can now embed a customizable widget into their interfaces, allowing users to convert fiat to crypto via Stripe’s platform. The integration attempts to solve the “cold start problem” in Web3, the post stated, which occurs when “customers don’t have enough funds in their wallets to carry out transactions on the platform.” To solve this issue, Stripe will handle “all the KYC, payments, fraud, and compliance,” allowing the developer to focus on the app itself.Source: AvalancheMicroStrategy Q1 net loss hits $53.1 million, but Bitcoin buying spree continuesMicroStrategy reported a net loss of $53.1 million in the first quarter of 2024, largely due to a $191.6 million impairment loss on digital assets, which was significantly higher than the previous year. The firm’s revenue also decreased by 5.5% to $115.2 million compared to the same period in 2023. Under traditional accounting methods, their Bitcoin holdings were valued at $5.07 billion but would have been marked at $15.2 billion if valued at fair market price, reflecting a 65% increase in Bitcoin’s value during the quarter. The company continued to acquire more Bitcoin in April, and it now holds 214,400 BTC worth $13.5 billion, bought at an average purchase price of $35,180.BlackRock’s BUIDL becomes the world’s largest tokenized treasury fundThe BlackRock USD Institutional Digital Liquidity Fund (BUIDL) has become the largest treasury fund tokenized on the blockchain, overtaking Franklin Templeton’s similar fund. With a market cap of $375 million, BlackRock’s recently launched BUIDL fund has exceeded the $368 million market cap of the Franklin OnChain U.S. Government Money Fund (BENJI), which has been around for a year, according to data from Dune Analytics. Last week, BUIDL attracted $70 million, including a significant investment from Ondo Finance. During the same period, BENJI saw a 3.7% decrease in its assets under management. Across various blockchains, including Ethereum, Polygon and Solana, over $1.2 billion in U.S. Treasurys is now tokenized.Coinbase integrates Lightning Network for Bitcoin transactionsCoinbase now supports the Bitcoin Lightning Network, offering users the option of transferring Bitcoin using Lightning or the Bitcoin network. Using the Lightning Network, Coinbase customers can transfer Bitcoin more quickly and cheaply than transactions on the Bitcoin blockchain. Transfers on Lightning are “instant,” in contrast to transfers on the Bitcoin network, which may take 10 minutes to two hours because of the limited number of transactions per second the Bitcoin network processes. To use the Lightning Network, the intended recipient sends an invoice consisting of a lengthy string of characters that Coinbase will recognize as the amount of the transfer. In some cases, Lightning transfers may take several hours or fail because of a unique implementation or fee structure, Coinbase warned on April 30.Crypto Biz is your weekly pulse on the business behind blockchain and crypto, delivered directly to your inbox every Thursday.
-
-
-
-
-
-----------------
-
-Your Free Tokens Are Not Available | Bankless
-
-
-EigenLayer’s token drop was announced on Monday, but plenty of users across the globe were disgruntled that the claim page for EIGEN is "Not Available" to them!Who can't claim?Not only are residents from a expansive list of nations including the U.S. banned from claiming EIGEN, the claims site explicitly blocks users from interacting with the frontend via VPN or other proxy technologies! The extensive list of countries excluded from the EIGEN drop.This restriction came as a shock to some existing users due to unfettered access to the EigenLayer frontend otherwise, and limited communication from the protocol on their plans for aggressive geo-blocking.While EigenLayer is far from the first protocol to pursue some of these limitations in their token distribution, the outsized EIGEN opportunity is leading users in impacted geographies to wonder whether they will continue to be excluded from future gains until regulators get their act together.The New Normal for Airdrops?Considering the hostile and unclear regulatory backdrop crypto protocols are forced to operate under, disappointments like the EIGEN claim restrictions are becoming more and more common.Amid a lack of clear guidance from existing statutes and the refusal of American financial system regulators to provide satisfactory guidelines for digital assets, protocol operators and token issuers are left guessing how to best avoid the scrutiny of agencies such as the SEC.This lack of regulatory clarity has infested every corner of the crypto industry, making it exceedingly difficult for users to access crypto protocols and often prohibiting users from accessing the free money which their onchain interactions entitled them to claim.
-Because the presence of token distributions to American (and sanctioned) users can easily place crypto protocols within the jurisdiction of various American regulators, projects frequently block IP addresses originating from America and nations sanctioned by the Office of Foreign Asset Control (OFAC).While teams had historically sought to mitigate potential liability by simply banning IP addresses from restricted nations, a September 2023 settlement made between the Commodities Futures Trading Commission (CFTC) and DeFi derivatives platform Opyn indicates that regulators believed their blocking of IPs was insufficient at prohibiting restricted users from accessing the platform, placing it within the jurisdiction of U.S. regulators.
-This approach is not unique to EigenLayer and has been adopted for numerous airdrop distributions, such as Celestia’s TIA, and implemented by certain bluechip protocols to prevent unauthorized access to their frontends, including MakerDAO’s Spark lending protocol.To minimize the potential for American regulators to target their projects while still preserving access to their decentralized protocol and maintaining the ability to launch tokens, many projects have now resorted to completely banning VPNs, eliminating any possibility that users from restricted nations can access their products.Thankfully, there are still avenues for restricted users to access these protocols, either via directly interacting with smart contracts onchain or physically changing their location, but unfortunately, it appears highly likely that the stringent combination of geoblocking and VPN restriction will be the norm for the majority of token issuers going forward.Airdrop hunters would be keen to anticipate and prepare for geographical token claim restrictions whenever engaging with early stage projects, regardless of whether they can interact with the underlying protocol via its frontend. 
-
-
-
-----------------
-
-MakerDAO unveils two new tokens in a major overhaul - CoinJournal
-
-
-
-                    
-
-                    
-The two new tokens teased by MakerDAO are NewStable (NST) and NewGovToken (NGT).
-NST replaces Dai and offers upgraded features while NGT replaced MKR and empowers broader governance participation.
-Existing Dai and MKR holders will have the choice to transition to the new tokens or continue using their current assets.
-
-MakerDAO, the decentralized autonomous organization that oversees the Maker Protocol, has announced the introduction of two new tokens – NewStable (NST) and NewGovToken (NGT).
-These tokens mark a significant milestone in MakerDAO’s evolution, offering enhanced stability and governance features within its ecosystem.
-NewStable (NST) token
-The NewStable (NST) token represents an upgraded version of Dai, designed to promote broader adoption and provide advanced stability features.
-Existing Dai holders will have the option to seamlessly upgrade to NST while retaining the flexibility to convert their holdings back to Dai at any time.
-Additionally, NST holders will be able to participate in farming activities to earn NewGovToken (NGT) from the moment of launch.
-NewGovToken (NGT) token
-The NewGovToken (NGT) token serves as the new governance token within the MakerDAO ecosystem, offering Maker (MKR) holders the opportunity to upgrade their tokens.
-Each MKR token will convert to 24,000 NGT during the upgrade process, strategically redenominated to encourage broader engagement in governance activities. This initiative aims to enable more users to hold a significant number of NGT, empowering them to actively influence the future direction of the MakerDAO ecosystem.
-MakerDAO expanding its offerings while maintaining flexibility
-With the introduction of NST and NGT, MakerDAO is expanding its offerings while maintaining flexibility for users.
-The upcoming brand reveal will mark the official introduction of these tokens into the ecosystem, providing users with access to new features and opportunities.
-In addition to the token launch, MakerDAO is also exploring investment opportunities to further strengthen its ecosystem. Plans include a substantial investment of $600 million in DAI into USDe and staked USDe (sUSDe) through Morpho Labs’ DeFi lending protocol. These investments aim to support the development and growth of stablecoin assets within the DeFi space.
-
-
-                    
-
-                        Share this articleCategoriesTags
-                    
-                
-
-                
-
-----------------
-
-Most Dogecoin Holders Didn't Buy the Elon Musk Top - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsElon Musk’s favorite cryptocurrency is far, far away from an all-time high price of $0.73 set in 2021. But for a majority of Dogecoin holders, there’s little reason to tuck their tail in between their legs.Some 77% of Dogecoin (DOGE) holders are in the money—meaning the cryptocurrency’s price is above what it was relative to when people bought it—according to IntoTheBlock. With 21% of Dogecoin holders posting paper losses, that leaves a 2% sliver of holders at breakeven.The original meme coin with a market capitalization of $20 billion was created in 2013 as a joke, but it has a semi-serious place in the Tesla CEO’s heart. Based on a popular meme featuring a Shiba Inu dog, a cadre of canine-themed coins have steadily spawned in Dogecoin’s wake.Though Musk’s Dogecoin posts have largely petered off, his cheerleading on Twitter spurred Dogecoin’s ascent in 2021. DOGE set its peak price of $0.73 early on May 8, 2021—just hours before Musk was set to appear on "Saturday Night Live." Meme coin investors prayed that his prominent hosting role would propel DOGE, perhaps even to the fabled $1.00 mark.Instead, the opposite happened. The token buckled over 20% in roughly an hour as Elon and his mom poked fun at Dogecoin, and he joked that it was "a hustle" during the show's "Weekend Update" segment. It's never recovered since.Though some believe meme coins are undermining the long-term vision of crypto, meme coin mania can lead some traders to outsized returns. For others, risky bets can sour quickly as the crypto market oscillates with hallmark volatility.The price of Dogecoin had risen 5% over the past day to $0.14, as of this writing, according to CoinGecko. Still, the cryptocurrency’s price has fallen 21% over the past 30 days—notably off from multi-year highs of $0.22 in March.When it comes to the extent of holders’ paper gains, however, it appears Dogecoin isn’t top dog relative to other meme coins boasting a furry, four-legged mascot. That title currently belongs to the Ethereum-based meme coin Floki, with 83% of holders situated in the money.Toward the tail end of the pack, 60% of Shiba Inu (SHIB) holders have profits on paper. (IntoTheBlock doesn’t report data on the Solana-based DogWifHat or Bonk.) Meanwhile, 75% of holders for the meme coin Pepe are in the green.Drawing on everything from pop culture to internet memes—and even celebrity deaths—meme coins are distinct as a subgroup of digital assets that often offer little to no utility. Instead, they move mostly on vibes. Sometimes, though, they disappear entirely.Edited by Andrew HaywardStay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-SHIB Shibarium Boosts Speed with Augmented Hard Fork Changes - DailyCoin
-
-
-        
-Shibarium devs enhance Layer-2’s infrastructure with a double hard fork.
-
-
-
-Shiba Inu (SHIB) soared above $0.000023 as the first installment went live.
-
-
-
-SHIB Army members enquired about the long-awaited auto-burning portal.
-Developers at Shiba Inu (SHIB) have announced a smooth transition to the new version of Shibarium Layer-2. As planned, Shibarium’s blockchain underwent a hard fork on May 2, 2024, at the block height of 4504576. This was confirmed by Shibarium Network’s official X handle on Thursday evening.Met with greetings and encouragement from the Shiba Inu community, this hard fork on Shibarium is slated to bring a couple of key improvements as Shiba Inu’s Layer-2 blockchain is soon to turn one year old. Directed at enhancing user experience, one of the key changes is going to be predictable gas fees and a substantially faster transaction speed.Bi-Folded Shibarium Hard Fork ExplainedA second part of this hard fork is set to occur at block height 3941864. The already implemented upgrade is referred to as Bor and is centered around state sync confirmation, which significantly accelerates performance.
-The latter part of Shibarium’s hard fork is called the Heimdall, which is supposed to bring “deterministic finality” to Shibarium’s blockchain. In other words, Heimdall brings a stable and more reliable gas fee distribution on-chain, meaning that crypto enthusiasts who are using Shibarium in ultra-high traffic times won’t pay disproportionate gas fees.Aside from fixing the fluctuating gas fee issues during times of heavy demand, Shiba Inu’s developers have also fixed the bugs in relation to its non-fungible token (NFT) mechanism.On the Flipside
-Many SHIB custodians have drawn attention to the highly anticipated auto-burning function, which was meant to be included in one of the major Shibarium upgrades.
-Why This MattersShiba Inu’s focus on building a digital infrastructure for the vibrant community of SHIB holders has already borne fruit through a selection of services, ranging from a self-custodial digital identity to an upcoming Layer-3 blockchain.
-Delve into DailyCoin’s hottest cryptocurrency news:Peter Schiff Mocks Bitcoin’s Dip Below $60K: “Party’s Over”BTCC Sets 10M USDT Rewards for Its World Trading Contest    
-              
-    
-
-----------------
-
-Bitfinex whales bolster Bitcoin holdings by 6% amid recent price surge | CryptoSlate
-
-Quick TakeOver the past few days, Bitfinex has recorded a substantial 6% increase in Bitcoin (BTC) long positions held by whales — totaling a staggering 48,615 BTC.BTCUSD Longs: Bitfinex: (Source: TradingView)Analyzing Bitfinex whale activity in 2024 reveals a clear pattern: On Feb. 10, these whales held over 76,000 BTC, but by March’s all-time high, the holdings had decreased to 42,000 BTC.Notably, Bitfinex whales anticipated the flagship crypto’s subsequent decline from its peak of approximately $73,500 to $56,500 on May 1. Since hitting their lowest position on April 13, Bitfinex whales have steadily increased their holdings.Amid BTC’s recent surge from $56,500 to $62,000 over the past two days, Bitfinex whales have continued to reinforce their positions.Historical trends suggest that Bitfinex whale activity often serves as a reliable indicator of price direction. When Bitcoin prices peak, whale-long positions tend to bottom out, and these entities have capitalized on market dips to increase their position. Conversely, as prices ascend, whales gradually offload their positions.
-
-----------------
-
-Render Network - A Blockchain-Powered Compute Marketplace for Graphics and AI-Based Projects | Cryptoglobe
-
-
-                                
-The world of visual storytelling is constantly pushing the boundaries of what’s possible. From breathtaking 3D animations to captivating special effects and the exciting possibilities of AI-generated visuals, the demand for rendering power continues to skyrocket. Finding accessible and affordable solutions is crucial for creators, studios, and now, even AI developers. This is where the Render Network (RNDR) shines.
-
-
-
-The Render Network is a groundbreaking decentralized platform designed to connect those who need rendering power with those who have idle GPUs (graphics processing units) to offer. It functions as a vast, distributed supercomputer dedicated to rendering tasks.
-
-
-
-Here’s how it works: Creators who need their projects rendered submit them to the Render Network. Individuals or companies (Node operators) offer their spare GPU power, and the network matches the right resources for the job. Once the rendering is complete, creators pay for the service using RNDR, the network’s native cryptocurrency. In return, Node Operators earn RNDR for contributing their computing resources.
-
-
-
-The RNDR token is the lifeblood of the Render Network, facilitating payments for rendering services and incentivizing users to share their resources.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-Beyond its core rendering capabilities, Render Network holds immense potential for the realm of Artificial Intelligence (AI). Here’s why:
-
-
-
-Accelerating AI Training: Training certain AI models, especially those dealing with image or video generation, can be incredibly resource-intensive. Render Network’s distributed GPU power could significantly speed up this process.Scaling AI Inference: Even after training, some AI models require substantial computing power to make inferences. Render Network offers a potential avenue for cost-effective and scalable AI inference.Distributed AI Workloads: Certain AI applications benefit from splitting tasks across multiple machines – a model well-suited to Render Network’s architecture.
-
-
-
-Render Network is actively forging a path within the AI landscape. Collaborations with projects like Stability AI signal the platform’s commitment to supporting and optimizing AI workflows. As it continues to evolve, Render Network could become an invaluable asset for both rendering tasks and AI innovation.
-
-
-
-
-
-
-
-At the time of writing (8:25 p.m. UTC on May 3), RNDR is trading at around $8.33, up 7.36% in the past 24-hour period and 88.88% year-to-date.
-
-
-
-
-
-
-
-
-
-
-
-Featured Image via Pixabay
-
-                            
-                        
-
-----------------
-
-EigenLayer Airdrop Outcry Shows Points are Raising Traders' Expectations - The Defiant
-
-Eigen Layer airdropped tokens this week and there was huge backlash. Some criticism was more warranted than others but beyond allocation levels and tokenomics, the main reason the outcry was so fierce is because traders felt a social contract was broken.First, the details. EigenLayer distributed 5% of its 1.67 billion token supply this week. This was the first phase of its airdrop, which will distribute 15% of token supply to its users.Reminder that EigenLayer is DeFi’s third-largest protocol, with almost $15 billion in total value locked (TVL), according to DeFiLlama. It enables users to re-stake their Ether or liquid staking tokens (LSTs) to earn additional yield by securing third-party applications called Actively Validated Services (AVS).This was a hugely anticipated airdrop – it basically mobilized an entire sector within Ethereum. For months, EigenLayer has awarded points to restakers based on the size of their deposits and how long they participated in restaking. Then, liquid restaking protocols started giving out their own points, which would compound on top of EigenLayer points to users staking there.Free Money ExpectationsTraders’ expectations that they’ll get what’s essentially “free money,” is in part what has driven over $15 billion to EigenLayer, and $10 billion to the liquid restaking sector as a whole.So, all those traders farming points and staking ETH and LSTs and LRTs had been waiting for this airdrop.But it was a disappointment to many of them and the backlash was so intense, it actually pushed EigenLayer to change the terms of the drop.Five Main PointsThe main points the EigenLayer community criticized were:EigenLayer excluded liquid restaking protocols from the dropEigen excluded users from major jurisdictions including the United States and CanadaOnly 5% of tokens were airdroppedThe linear allocation of tokens.EIGEN tokens are initially non-transferable.Let’s get the easy ones out of the way: EigenLayer excluded liquid restaking protocols from the drop, but they said they would include these in their Phase 2. The Eigen Foundation said it’s already been in touch with these teams to coordinate the airdrop.Next, the point that EigenLayer also excluded users from countries including the United States, Canada, Korea, Russia and China. This is of course because of regulatory concerns. The list of excluded countries goes on and on.In this case, I think criticism is founded, especially with regards to excluding the U.S. It is reasonable to believe that a large chunk of Eigen’s TVL comes from U.S. users. Looking at traffic for crypto websites, at least half comes from the U.S. That’s where active investors in crypto are, and where people who actually have money to invest in DeFi protocols are.Some people said, “Eigen had no issues taking money from all these risky jurisdictions, but it’s being extra careful in giving money away.” I think they’re right to call a double standard here. You can’t have it both ways.“Never Promised an Airdrop"I’ve also seen an argument that goes, “people are crying because they didn’t get an airdrop they were never promised.”To me that should be almost insulting to any web3 native. If you’re giving away points, especially if you have billions in TVL, $100 million in VC investment, and have either announced or hinted there’s a token coming up, it’s expected those points will correspond to tokens down the line.To put it in crypto terms, this is social consensus. It’s learned behavior in a community that has become a social contract. By incentivizing users with points so that they stake their money, but then not following through with the corresponding tokens, EigenLayer essentially broke that social contract.“Only 5% of Tokens”Next criticism is that “only” 5% of tokens were airdropped. This is an interesting one. The question is, is this in line with other airdrops or is it an outlier?First, it’s important to keep in mind that total airdrop accounts for 15% of total supply.If that were the total share reserved for the community, then that would indeed be extremely low. For context, token allocations saved an average of 40% of tokens to community incentives or distributions in 2023, according to a report by Liquify. Community allocation has been around 40% since 2019, the report shows.But EigenLayer is also allocating 15% of tokens to community initiatives and 15% to ecosystem development. Added all together, this community pool equals 45% – in line with what’s been the norm.In terms of the 15% allocation for the airdrop, that’s also in line with what most major projects have done. Uniswap’s airdrop was for 15% of token supply, Arbitrum’s was for 12.75%, and Jito was for 10%, according to research by IntoTheBlock.I think the reason why 15% felt like a smaller share, is because tokens were distributed among more people. There were 280,000 eligible wallets in the airdrop, compared with 250,000 wallets in the Uniswap airdrop, for instance. And that’s because points had signaled an airdrop was coming, and so more people were incentivized to re-stake ETH and participate in the ecosystem.Guaranteed MinimumNext criticism was the linear allocation of tokens, meaning eligible wallets receive EIGEN proportionally to the points they hold. For example, a wallet holding 100 Eigen points will receive 100 EIGEN. The Eigen Foundation said it chose the linear distribution approach to prevent Sybil attacks, where an individual could use multiple addresses and bots to claim a disproportionately large share of the airdrop.The big criticism here is that the small stakers are at a disadvantage.EigenLayer initially tried to balance things out for small stakers by setting aside roughly 1% of the Season 1 tokens to guarantee that each restaker gets at least 10 EIGEN. After the outcry they increased this minimum level by 100, meaning all Season 1 users will receive a minimum of 110 EIGEN.Non-TransferabiltyThe other criticism EigenLayer addressed is that EIGEN tokens are initially non-transferable, meaning that holders will not be able to sell their tokens.Eigen said the reason why they made the token non-transferable is to allow for community discussion of EIGEN’s novel design, parameters, and proposed implementation; that they wanted key payments and slashing features to be well established; and to enhanced decentralization by allowing for a broader distribution of EIGENs, including through the 15% reserved for future stakedrop seasons.The reason why it’s problematic to make the token non-transferrable is that it gives an unfair advantage to insiders, who got larger token allocations and are subject to vesting. Tokens of investors and early contributors are locked for one year, after which for the following second and third years, 4% of total tokens are unlocked each month.But say EigenLayer waited one year until the token became transferable. That means insiders can start to immediately sell their tokens as soon as it becomes tradable.EigenLayer addressed this by clarifying that the lockup countdown starts after transferability.They also provided a clearer timeline as to when the token will be transferable, saying the features they want to see enabled for transferability are targeted for the protocol’s mainnet launch in September this year.Points Changed AirdropsAfter analyzing each criticism, I understand why people were upset with the geo-block and lack of transferability, but I don’t think it’s fair to say the team was “greedy and didn’t distribute enough tokens,” as their token allocation is in line with what’s been the norm.But what’s clear is that the introduction of points has materially changed the game for airdrops. They introduced higher expectations from token distributions, and in my opinion, rightfully so. Traders and projects are effectively entering a social contract where traders put their capital at risk to perform actions projects are incentivizing with points.Why put money at risk in exchange for points? Because there is the expectation that those points will become money (via tokens) down the line. The expectation is there because that is effectively what has been playing out in DeFi, with multiple projects’ points systems effectively leading to airdrops, and entire multi-billion dollar protocols built around the concept. By awarding points, you are entering into this game and it’s disingenuous to pretend otherwise.
-
-----------------
-
-Has Bitcoin Price Peaked? Fundstrat Founder Tom Lee Clarifies - Bitcoin Sistemi
-
-
-Fundstrat co-founder Tom Lee believes that the Bitcoin price has not peaked yet.
-In the latest episode of the “Speak Up” program with famous American investor Anthony Scaramucci, Lee expressed his belief that the current market situation is not a peak indicator for BTC.
-
-
-“That doesn't mean it's going to reverse today, but I don't think it's a peak,” Lee said. Seeing the recent decline in Bitcoin's price as a bear trap, Lee claims that it could potentially be a good buying opportunity. “I think the April turmoil is kind of fooling us,” he added.
-Lee also highlighted Bitcoin's technological breakthrough, describing it as “the purest form of trust.” He argued that Bitcoin's high level of security gives it a significant benefit.
-
-
-
-
-
-
-Bitcoin has a proven track record as an asset that has been around for 15 years. Lee posed the question: “How many trillion-dollar markets have existed for 15 years and then disappeared? Never in history.”
-Lee is confident that Bitcoin's price will not drop to zero due to the size of the market. He describes such a scenario as “unprecedented”:
-
-
-“There have been many attempts to eliminate Bitcoin, but ultimately financial institutions are slowly starting to realize that it is actually a great solution. That's why BlackRock and others are supporting this through spot Bitcoin ETFs.”
-*This is not investment advice.
-
-
-
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-increased demand for trading of Hong Kong's Virtual Asset ETFs soars
-
-Spot exchange-traded funds (ETFs) connected to virtual assets saw a spike in trading volumes in Hong Kong. The granting of the license from the Hong Kong SFC has brought about some hope. Nonetheless, a host of other difficulties stand in the way.Strong initial trading volumes reflect Hong Kong’s investor enthusiasmETF trading volumes featuring virtual assets in Hong Kong displayed the commencement in a sound way as the overall trading volume increased to HK$48.91 million. During the day, Bitcoin ETF continued to be the ruler with the sum amount of HK$43.41 million, while Ethereum ETF conquered second place with HK$5.5 million. However, this increased volume of trading highlights greater interest in the virtual gold rush within the Hong Kong market.Despite the cautious approach, experts acknowledge that the ongoing regulatory and market challenges still remain which may hinder the technological progress since the digital transformation of the financial sector has had a significant impact on several aspects of our lives.While the green-light of virtual asset ETFs was well received the remain worry is  about the prospects of such products. In a way, crypto-ETFs can be seen as a huge step forward, but for longer-term investors, they might still be a bit skeptical. Eric Balchunas, who is the Senior ETF Analyst of Bloomberg, suggests  that there will moderate inflows of around $500 million into this market, which reflects the trouble that Hong Kong is having to reach the size of its American competitors.Market size and governmental regulation as a resistanceAnalysts provide various justifications for placing conservative estimates. Against the backdrop of the US market of $15 trillion, Hong Kong ETF, at $50 billion in value, is not that large. In addition, impediments of control imposed by the Chinese regulators on their local citizens in the stipulation for these ETFs demand limit their desires for purchase.prominent players such as BlackRock which are absent in the Hong Kong ETF market support the invests of larger sizes.there are plans that the infrastructure of the Hong Kong market is yet to be equitable and efficient similar to the substitute US market. Unrelated to this, we realize that this inefficiency causes premium discounts and wider spreads for exchange-traded funds which can possibly cause accomplished investors who are already accustomed to the convenience of the US market to lose interest.If another reason is to be added, the higher fees are also contributing to the low estimate for the ETF investment, but it may be between 1%~2%. If investors who are used to paying for low-cost securities in the US fees are options, this can be a turn-off. As per BalchunasImplications for the futurethe success of virtual asset ETFs in Hong Kong can only be assessed in the long run. The initial numbers of trading volumes may indicate their promising future for the region, however, the comparison with the scale and dominance of the US virtual asset ETFs may give a clearer perspective of whether Hong Kong can match up to their American counterparts. The initial fruitful stream submission is a tell-tale sign of the rising eagerness for virtual assets investment in the area.Hong Kong’s crypto ETFs immediately receive robust trading volumes upon their launch underlines the challenge ahead of the industry as it strives to solidify itself as a highly competitive player in a crowded international space. 
-
-
-----------------
-
-Hon Kong’s asset management firm becomes the largest investor in BlackRock Bitcoin ETF - CoinJournal
-
-
-
-                    
-
-                    
-Yong Rong HK Asset Management emerges as the top holder in BlackRock Bitcoin ETF with $38M investment.
-Ovata emerges as biggest buyer in Bitcoin ETF market, investing $74M in various funds.
-Bitcoin price surpasses $61,000 amidst market dynamics, signaling resilience and potential.
-
-Yong Rong HK Asset Management Ltd, a prominent investment firm based in Hong Kong, has emerged as the leading investor in the BlackRock iShares Bitcoin ETF (IBIT).
-According to Bloomberg analyst Eric Balchunas, the firm has made a substantial investment of $38 million in IBIT, securing its position as the largest holder of the Bitcoin ETF.
-
-New high water more bitcoin ETF holders just rolled in: Yong Rong Asset Management based in HK bought $38m worth of $IBIT, which makes up 12% of its reported holdings. Interesting given HK has own ETFs now. But US ETFs have that irresistable combo of low fee and high volume. pic.twitter.com/FE2gyuIuIf
-— Eric Balchunas (@EricBalchunas) May 3, 2024
-
-This significant move reflects Yong Rong’s confidence in the potential of digital assets, particularly Bitcoin, as a store of value and investment opportunity.
-Yong Rong’s potential impact on IBIT outflows
-In an intriguing analysis by James Seyffart, an ETF analyst at Bloomberg, concerns were raised regarding the potential impact of Yong Rong Asset Management’s investment strategy on IBIT. Seyffart suggested that a significant selloff by Yong Rong could trigger major outflows from IBIT, potentially affecting market dynamics.
-Furthermore, speculations were made about the possibility of Yong Rong migrating its investments from IBIT to a Hong Kong-based spot Bitcoin ETF, although potential gains taxes could present a hurdle to such a move.
-
-Wonder if you just found the firm that caused $IBIT's outflow? Maybe they did move the assets from IBIT to a HK ETF? (potential gains taxes make this strange if true though) pic.twitter.com/K9mIQeog0q
-— James Seyffart (@JSeyff) May 3, 2024
-
-Yong Rong HK Asset Management Ltd’s substantial investment in the BlackRock iShares Bitcoin ETF reflects growing institutional interest in Bitcoin and digital assets.
-As Hong Kong emerges as a key player in the global Bitcoin ETF market, investors are closely monitoring developments in the space for potential opportunities and risks.
-Ovata emerges as the top investor in the Bitcoin ETF market
-Another Hong Kong-based firm, Ovata, has also made waves in the Bitcoin ETF market by securing holdings in four spot Bitcoin ETFs with a total investment of $74 million. This makes Ovata the largest buyer of Bitcoin ETFs to date, with Fidelity Wise Bitcoin ETF (FBTC), GBTC, and Bitwise Bitcoin ETF (BITB) among its top holdings.
-
-While Yong Rong has highest single ETF inv at $30m of $IBIT there's another HK firm called Ovata that holds four of the spot bitcoin ETFs with total value of $74m, making it the biggest total allocator to date. It went Full Degen too as 4/5 biggest holdings are btc ETFs pic.twitter.com/ePztBd6uUV
-— Eric Balchunas (@EricBalchunas) May 3, 2024
-
-Ovata’s strategic investments underscore the growing interest and demand for Bitcoin-related investment products in the global market.
-BTC price recovers after testing multi-month lows
-After recent fluctuations in the market, the price of Bitcoin has managed to recover, surpassing the $62,000 mark. At press time, BTC was trading at $62,042.15.
-This price surge comes amidst cooling labour market conditions and an unexpected increase in unemployment rates to 3.9%, higher than the anticipated 3.8%.
-Analysts speculate that the Federal Reserve may implement further rate cuts this year, as indicated by FED Swaps signalling two rate cuts of 25 bps each.
-These market dynamics highlight the resilience of Bitcoin and its potential to serve as a hedge against economic uncertainties.
-
-
-                    
-
-                        Share this articleCategoriesTags
-                    
-                
-
-                
-
-----------------
-
-Federal Reserve Dismisses Rate Hike Fears, Labor Market Cools, Apple Lures Investors With Record-Breaking Buyback: This Week In The Market - Apple (NASDAQ:AAPL) - Benzinga
-
-The stock market breathed a sigh of relief as Fed Chair Jerome Powell eased fears of interest rate hikes amid recent inflation surprises.The Fed now plans to hold rates steady longer to ensure inflation moves toward the central bank’s 2% target.In April, the labor market displayed some signs of cooling, with the pace of new job creation dropping compared to March, and the unemployment rate unexpectedly rising. The earnings season remains optimistic, with half of S&P 500 companies already having reported, and nearly 80% of them exceeding earnings expectations. Apple Inc. AAPL made headlines Thursday with a double beat announcement and a record $110-billion stock buyback program.Sell In May?The “Sell in May and Go Away” trading strategy is put to the test in election years. Contrary to popular belief, historical data reveals that these periods do not consistently coincide with increased market volatility. In fact, the returns from May through November tend to be positive and even more substantial during years when an incumbent president seeks reelection.Tesla Hype CoolsGoldman Sachs issued a cautionary note to investors regarding Tesla Inc.’s TSLA self-driving technology, stating it hasn’t reached eyes-off capabilities yet. The Wall Street firm's tempering of excitement around self-driving underscores the ongoing challenges and regulatory hurdles Tesla faces in achieving full autonomy.Housing Entry BarriersTreasury Secretary Janet Yellen highlighted the severe challenges first-time homebuyers face in today’s market, describing entry as almost impossible. Rising costs and economic pressures have notably tightened the housing market, putting homeownership out of reach for many new entrants despite ongoing governmental efforts to provide support.Kiyosaki’s Crypto ConfidenceRobert Kiyosaki, the author of "Rich Dad Poor Dad," recently disclosed his investment approach to Bitcoin in the face of the cryptocurrency market’s downturn. Kiyosaki advocates buying during the dip, emphasizing his optimistic outlook on Bitcoin‘s BTC/USD future potential and resilience, despite the prevailing market instability.Top 1% Retirement GoalsAre you on track to join the wealthiest retirees? A recent study revealed the exact retirement savings amounts held by the top 1% at different life stages. This benchmarking could serve as a motivational tool or a reality check, helping individuals gauge their financial planning for retirement.Now Read: ‘Why Isn’t Buffett Calling Cook Out?’ Question Redditors On Apple’s Largest-Ever Share BuybackImage created using artificial intelligence via Midjourney.
-
-----------------
-
-Benzinga's Future Of Digital Assets 2024 To Feature CEO Of Custodia Bank
-
-On Nov. 19, 2024, the financial and digital asset communities will converge at Convene in New York City for Benzinga's Future of Digital Assets event. The conference aims to offer a comprehensive overview of the digital assets field, providing attendees with a platform for networking and knowledge sharing. Among the esteemed speakers is Caitlin Long, founder and CEO of Custodia Bank, who is known for her significant contributions to the blockchain and cryptocurrency industries.A Leader in Blockchain InnovationLong brings a wealth of experience to the event, with over two decades in corporate finance at prestigious institutions like Morgan Stanley, Credit Suisse and Salomon Brothers. Her career transitioned to pioneering efforts in the blockchain space when she identified critical inefficiencies in traditional financial systems. Long's journey in the digital asset realm began in earnest in 2012 when she became an active participant in the Bitcoin community.Regulatory Challenges and the Path ForwardLong has been vocal about the regulatory hurdles facing the cryptocurrency industry. She argues that the U.S. needs to address these challenges proactively to prevent fraudsters from gaining prominence. "There's a lot of grift," she explained at the 2023 Fintech Deal Day & Awards in New York City, drawing parallels between the early days of the internet and the current state of the cryptocurrency market. Her concerns about regulatory oversight echo the difficulties faced during the dot-com era, emphasizing the need for a stringent review to safeguard investors.Custodia Bank’s Role in a Bullish FutureUnder Long's leadership, Custodia Bank launched its Bitcoin custody service for institutional clients earlier this year, a strategic move timed with the anticipated bull market in 2024. This service, currently available in select states, positions Custodia Bank at the forefront of the digital assets banking revolution, preparing for increased demand as the market conditions evolve.A New Breed of BankingLong’s efforts extend beyond her corporate role. She actively participated in legislative developments in Wyoming, her home state, which has adopted numerous blockchain-friendly laws under her guidance. Her dedication to creating a “new breed of bank” that prioritizes technological advancement and customer respect has set a new standard in the banking industry.Join the Digital Asset RevolutionAs the digital asset landscape continues to evolve, Long's insights at the Future of Digital Assets conference will be invaluable for anyone looking to understand the future of money and investment in alternative asset classes. Her perspective not only highlights the potential of digital assets to transform traditional financial paradigms but also underscores the importance of sound regulatory frameworks to foster sustainable growth in the industry.Why You Should Attend Benzinga's Future of Digital AssetsBenzinga's Future of Digital Assets is a one-day gathering of digital asset changemakers leading innovation in money. It is a chance to understand the state of money and its future, offering conference-goers the opportunity to network and deal with peers in the industry.Click here if you want to learn more or to buy tickets. 
-
-----------------
-
-âUS government can't go bankrupt because we can print our own money,â says Biden Administration - Crypto Briefing
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-----------------
-
 Poisoned Wallet Address Loses $70 Million in ‘Very Suspicious’ WBTC Transaction - The Defiant
 
 A fake transaction led a user to send 1,155 WBTC to the wrong address.An unsuspecting user lost $69 million in WBTC today after sending the funds to an address linked with an attack known as address poisoning.Web3 cybersecurity firm Certik first alerted of the malicious transaction early Friday morning. The attacker mimicked a transfer of 0.05 ETH, or $150, which led the victim to send the funds to the wrong address, according to Certik’s X account.Poisoning addresses refers to attackers sending spam transactions to an address in order to confuse inattentive users. Users then copy the fraudulent address–which usually begins and ends with the same six digits– instead of sending funds to a legitimate wallet address.Hackers can know an address linked to a user’s exchange account because of recurring payments and other transaction flows.Low Success RateThe pseudonymous Officer, a threat researcher formerly of the Web3 cybersecurity firm ImmuneFi, told The Defiant that these types of attacks are very common but usually have a low success rate.According to Etherscan, after the attack, the perpetrator moved the funds in eight separate transactions.According to Officer, many users are lazy when operating in the crypto space.“A lot of people have a bad habit of blind copying the last address from their transaction history, just to be sure,” he said. Hackers take advantage of this behavior by sending small sums of crypto from similar-looking addresses.Triple CheckHow to counter such attacks?“Don't trust Clipboard especially given the fact that malware with almost the same scheme exists (it usually targets a clipboard), check all digits one by one and add hot addresses to the allow list (if possible),” he warned.Exploits have been on a negative curve during 2024.Hackers stole $336 million in crypto in the first quarter this year, a 23% drop from the same time last year, according to the latest report by Web3 security firm ImmuneFi.
@@ -9577,4 +9183,695 @@ Disclaimer: The opinions expressed by our writers are their own and do not repre
 
 
 The cryptocurrency community is abuzz with anticipation as fintech giant Ripple teases progress on its much-awaited stablecoin. This development marks a significant milestone for Ripple and the XRP Ledger ecosystem.At the recent XRP Las Vegas conference, Ripple CTO David Schwartz presented everything about XRP Ledger, including AMM, lending protocol, the future Ripple stablecoin, AI and crypto.The XRP community listened intently to the Ripple CTO's remarks, drawing a few deductions from his presentation at the conference.One of the takeaways that was shared by some XRP community members was that further details on Ripple's stablecoin will be disclosed in roughly a month during the XRPL Apex event in Amsterdam, which is slated for June 11-13. While Ripple is yet to disclose detailed information regarding its stablecoin project, the mere mention of development in this area has sparked interest among XRP holders and the wider cryptocurrency community.Another takeaway from the Ripple CTO's speech is that the Ripple stablecoin is ideal for institutions that cannot yet employ digital assets but want to use XRP Ledger. This was echoed by Vet, an XRPL dUNL validator, who highlighted the vast potential use cases of the latest XLS-68D Sponsor specification in this regard.The proposed stablecoin by Ripple is supposed to be 100% backed by U.S. dollar deposits, short-term U.S. government treasuries and other cash equivalents.Ripple's stablecoin is expected to be a game changer for the XRP Ledger ecosystem. Ripple hopes to increase adoption and growth within the XRPL ecosystem by exploiting the platform's native features, which include a decentralized exchange and an automated market maker.The stablecoin will be a key entry point into new prospects for institutional and decentralized finance (DeFi) application cases across many ecosystems.
+
+
+
+----------------
+
+Employee at Billion-Dollar Bank Arrested, Accused of Stealing $44,000 From Account of Deceased Customer - The Daily Hodl
+
+
+								An employee at a billion-dollar bank has reportedly been arrested and accused of stealing money from the account of a deceased customer.
+Latia Wynn of Wilmington, Delaware, was arrested by police for allegedly withdrawing $44,000 from a deceased customer’s account at WSFS Bank, NBC affiliate Philadelphia10 reports.
+
+
+
+
+
+
+
+
+
+
+When one of its customers passed away in a motor vehicle accident, their family reportedly began closing all of their accounts – but noticed a lot of money was missing.
+After officers were dispatched to the family of the victim, investigators were led to Wynn, who was later identified as a suspect and is now charged with one felony count of identity theft, one felony count of wearing a disguise during the commission of a felony, and one felony count of theft of $1,500 or greater.
+The 25 year-old has been formally charged and released on an $18,000 unsecured bail.
+As of March 31, 2024, WSFS Financial Corporation had $20.6 billion in assets and $80.5 billion in assets under management and administration.
+In a similar case, the US Attorney’s Office for the District of New Jersey recently said bank employee Jorge Nova has pleaded guilty to a count of wire fraud and faces a 30 year prison sentence for draining $105,000 from a deceased customer’s account.
+Nova was working at an unnamed commercial bank in Nutley, New Jersey when he came across a deceased customer’s account that had continued to collect Social Security benefits by direct deposit.
+The retiree, who was receiving $2,372 per month in benefits, passed away on August 29th, 2014 – but the Social Security Administration (SSA) was not notified of the person’s death.
+Consequently, the beneficiary’s account continued to receive funds from the SSA for more than four years.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Bitcoin’s Downturn Impacts Hong Kong’s ETF Market Coin Edition
+
+
+							
+
+Hong Kong’s ETFs witnessed low trading volumes in the initial four trading days.
+The Bitcoin ETFs marked $5.5 million in trading volume on Friday, much lower than the first day.
+Bitcoin’s bearish track significantly impacts Hong Kong’s failure to attract investors to the ETF market.
+
+
+
+
+Recent reports revealed that Hong Kong’s recently launched Bitcoin ETFs marked comparatively lower trading volumes in the first four days. Amidst declining Bitcoin price, the Bitcoin exchange-traded funds failed to attract investors and traders.
+
+
+
+
+
+
+
+
+
+Reinforcing its vision of establishing a crypto hub, Hong Kong launched Bitcoin and Ether ETFs on April 30, following the Securities and Futures Commission’s (SFC) green light. In total, asset managers China Asset Management, Harvest Global, Bosera, and HashKey launched 6 Bitcoin and Ether ETFs.
+
+
+
+In a previous interview, ChinaAMC executive Zhu Haokang posited that the initial listing scale of Hog Kong’s ETFs would exceed the initial day’s scale of US ETFs. He remained confident of the ETFs as he asserted, “The details will be revealed to everyone at 9:30 tomorrow morning.”
+
+
+
+Contrary to Haokang’s words, on the initial day, the ETFs recorded a total trading volume of 87.58 million Hong Kong Dollars, equivalent to $12 million. The figure marked a severe low from the first-day trading volume of US spot Bitcoin ETFs, valued at $4.6 billion. However, Bloomberg’s ETF analyst Eric Balchunas asserted that considering the size of Hong Kong’s crypto market compared to that of the US, the volume doesn’t mark Hong Kong’s failure.
+
+
+
+The trading volume declined substantially in the following days, with Bitcoin ETFs witnessing a $5.5 million trading volume on Friday. Reports state that the prevailing bear market and the falling BTC price, which lost nearly a tenth of its value in the past month, remain a significant barrier to the success of Hong Kong’s ETFs.
+
+
+
+At present, Bitcoin is trading at $63,331, with a slight surge of 0.15% in the last day. The pioneer cryptocurrency even witnessed the $56k mark at the onset of May. Over the past week, Bitcoin has shown a decline of 0.96% and a dip of 5.33% over the past month. 
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Rated: Week's top 3 new cryptocurrencies with the largest trading volume
+
+
+Amidst the crypto market’s recovery from the downturn in early May, there remains an influx of new projects.  Some of the projects are attracting investor interest in specific metrics as they move to take a share of the market. 
+In this regard, Finbold has identified a selection of top new cryptocurrencies with substantial trading volume based on data retrieved from CoinMarketCap. 
+Top 3 cryptocurrencies with the highest trading volume. Source: CoinMarketCap
+Friend.tech (FRIEND)
+Friend.tech (FRIEND), the decentralized social network launched in August 2023, leads with a trading volume of $66.73 million. Despite this impressive figure, the platform initially faced significant setbacks as its native token experienced a drastic 98% drop in value at one point.
+
+
+Upon its introduction to the market, the FRIEND token debuted at $169, attracting 18,000 holders. However, recent developments have raised concerns among investors participating in the airdrop.
+Some users reported issues with app functionality and encountered difficulties in claiming their airdrop. Moreover, the distribution process was criticized for purportedly favoring leading creators over retail investors.
+To address these challenges, a leaked smart contract revealed plans to launch non-transferable v2 tokens called POINTS. These tokens aim to stabilize the market price by imposing a 1.5% transfer fee.
+Meanwhile, by press time, FRIEND was trading at $2.98, reflecting a 24-hour gain of 87%.
+FRIEND all-time price chart. Source: CoinMarketCap
+RSIC•GENESIS•RUNE (RSIC)
+RSIC•GENESIS•RUNE (RSIC), built on the Runes protocol, represents the first pre-Rune airdrop for early Bitcoin (BTC) Ordinals adopters. With a trading volume of $12.54 million, RSIC ranks second.
+The platform provides individuals with an opportunity to engage with Bitcoin and contribute to a more decentralized future.
+Notably, attention to the token can be attributed to a move by crypto exchange OKX, which announced the addition of RSIC on OKX Jumpstart, featuring a staking pool of 367.50 million tokens. In celebration of this addition, eligible users who stake BTC via OKX Jumpstart Mining can mine RSIC•GENESIS•RUNE as rewards.
+By press time, RSIC was trading at $0.01461, with daily losses exceeding 1%.
+RSIC all-time price chart. Source: CoinMarketCap
+Kamino Finance (KMNO)
+Kamino Finance (KMNO), Solana’s (SOL) largest lending and liquidity protocol, emerged third with a trading volume of $10.66 million. Notably, the token, which debuted on April 30 and initially traded at $0.11, experienced heightened volatility, leading to a significant drop in value.
+Despite facing initial challenges, Kamino Finance witnessed a significant 64% surge in price in just one day, attributed to a move by Bybit announcing a 3,750,000 KMNO Airdrop available in Bybit’s Kamino campaign.
+
+It’s worth noting that Kamino Finance distinguishes itself by tokenizing users’ positions into LP tokens dubbed kTokens, which can be used as collateral in Kamino Lend. This feature adds composability to the protocol, enabling tokens to move between protocols via Kamino’s liquidity vaults.
+At the moment, KMNO is trading at $0.077 with daily losses of almost 2%. 
+KMNO all-time price chart. Source: CoinMarketCap
+In essence, these highlighted cryptocurrencies will depend heavily on the overall trading activity within the crypto sector to maintain any market dominance. Importantly, investor interest is likely to be bolstered by the tokens’ ability to demonstrate robust fundamentals. 
+
+
+----------------
+
+Coinbase CEO Brian Armstrong Says Layer-2 Solutions Will Drive Many Use Cases in Crypto Economy - The Daily Hodl
+
+
+								The CEO of US-based crypto exchange Coinbase is optimistic that layer-2 scaling solutions will transform the crypto economy.
+Speaking at Coinbase’s first-quarter earnings call, Brian Armstrong says he sees layer-2 scaling solutions facilitating the explosion of crypto use cases with lower fees and faster transaction times.
+
+
+
+
+
+
+
+
+
+
+“As a reminder, layer 2 solutions help blockchains scale, similar to when the Internet moved from dial-up to broadband. And we believe this scaling will drive many new use cases in the crypto economy.”
+The CEO goes on to put the spotlight on Base, Coinbase’s Ethereum (ETH) layer-2 designed to onboard billions of users into web3.
+“Base has helped dramatically reduce transaction fees and confirmation times, getting us closer to our goal of having the average crypto transaction take less than one second and cost less than $0.01 anywhere in the world.
+Developer activity on Base increased eightfold in Q1. In the last 30 days, Base has processed over 2x as many transactions as the entire Ethereum network on layer 1. 
+We’ve made Base faster and cheaper to use with fee reduction by about 80% through protocol upgrades, and our fees are now often below $0.01.”
+As for Bitcoin (BTC), Armstrong says the spot market exchange-traded funds have helped re-energize the entire crypto market.
+“I think the ETFs got a lot of attention. But what we’re seeing is that when there’s attention on crypto in general, I think it creates energy and interest across all kinds of products in the industry.”
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+This Week in Crypto Games: Supercell's Investment, Saga Airdrop, 'Parallel' Adds Expansion - Decrypt
+
+The crypto and NFT gaming space is busier than ever lately, what with prominent games starting to release, token airdrops piling up, and a seemingly constant array of other things happening at all times. It’s a lot to take in!Luckily, Decrypt’s GG is all over it. And if you need a quick way to get caught up on the latest moves around crypto video games, we’re happy to present This Week in Crypto Games.Our weekend roundup serves up the biggest news from the past week, along with a few other tidbits you might have missed. We also showcase a few of our original stories from the week.Biggest newsSaga airdrop nears: Layer-1 network Saga kicked off its next airdrop campaign last week. The “Power-Level Over 9,000” campaign—which was named after a “Dragon Ball Z” anime reference that became an internet meme—is now underway. And $10 million worth of SAGA is coming in the first wave.After taking a snapshot on April 26, any users who staked more than 101 SAGA ($340 worth) or anyone who staked at least 95% of their SAGA genesis airdrop from last month, will share the rewards. When these tokens will hit wallets is unknown, though the network’s team added that a claims page will be opened for roughly one week ahead of the distribution.Supercell investment: Mobile giant Supercell, the company behind the smash games Clash of Clans and Clash Royale, invested in crypto gaming startup Games for a Living. Supercell was part of a wider $3.2 million seed funding round for the Web3 gaming startup co-founded by Trip Hawkins, the original founder and CEO of video game titan Electronic Arts (EA).Parallel's expansion: Popular Web3 trading card game Parallel released its first in-game expansion Planetfall last week. Launched in the game following last fall’s NFT sale, Planetfall adds “hundreds” of new card combinations according to the developer, giving the game more strategic possibilities as it expands to a wider audience following the recent open beta launch.Nyan Heroes returns: Solana-based first-person shooter Nyan Heroes is about to return after a few weeks offline, as servers for the pre-alpha demo will go online on Wednesday, May 8. Following the first play period in late March and early April, Nyan Heroes is coming back with a new ranked mode, along with the second season of the play-to-airdrop rewards campaign.ICYMI
+Avalanche NFT basketball game, Rumble Kong League, secured Gatorade as the official sports drink partner of the brand.
+Solana GameShift added Google Cloud Integration, which will help developers more easily deploy blockchain games, which they hope will drive mainstream adoption.
+AnimeCoin Foundation launched a web-based game called Gacha Grab, a virtual slot machine inspired by Japanese gachapon toy vending machines.
+There’s a new Rabbids game on The Sandbox from Ubisoft, which is randomly called Music vs. Love. The Rabbids were always a bit odd, we suppose…
+GG spotlightHere are a few of our original stories from this past week that we think are well worth a weekend read:Edited by Andrew HaywardStay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+This Week on Crypto Twitter: Ethereum, CZ, and Roger Ver in US Government Crosshairs - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsIllustration by Mitchell Preffer for DecryptCrypto Twitter often delivers a heavy helping of the law, but the past seven days brought a double dose. On Monday, unredacted portions of a lawsuit filed by Ethereum software company Consensys against the U.S. Securities and Exchange Commission (SEC) revealed that the regulator has secretly considered ETH to be a security for over a year. The bombshell news quickly sparked anger and indignation, given the fact that SEC Chair Gary Gensler has repeatedly refused to comment publicly on his agency’s view of ETH in the intervening period. Even prominent American lawmakers waded into the debate. Rep. Patrick McHenry (R-NC), chair of the House Financial Services Committee, posted a stern statement on Twitter on Tuesday, accusing Gensler of having lied when he testified before Congress about ETH’s regulatory status without revealing the SEC’s internal, pre-existing determination on the subject. Shifting from the U.S. House to a federal courthouse, Binance founder Changpeng “CZ” Zhao was sentenced to four months in U.S. federal prison that same day. Zhao pleaded guilty to money laundering violations last year. While it was certainly significant to see yet another founder of a major crypto exchange sent behind bars, the punishment was far less harsh than the three years prosecutors were hoping for. Indeed, the prevailing sentiment on Twitter following the sentencing hearing was fairly lighthearted, with many joking that Zhao had predicted his own sentencing given his famed use of the number “4” as a signal to dismiss cynical deployments of “fear, uncertainty, and doubt,” or FUD.Zhao himself took to Twitter shortly after the sentencing hearing to share his plans for life after prison and assert that he accepted the outcome of the trial, writing, “I will do my time.”If that wasn’t enough criminal crypto news for one day, only hours later the U.S. Department of Justice announced that it charged Roger Ver, an early Bitcoin investor known in some circles as “Bitcoin Jesus,” with evading nearly $50 million worth of taxes. Ver was arrested by authorities in Spain on Tuesday. Many on Twitter decried the arrest as an unjust anti-crypto provocation, given the fact that Ver renounced his U.S. citizenship in 2014. Others signaled their indifference to Ver’s plight, validating his status as a controversial personality in the crypto ecosystem.Some people found a way to reconcile both perspectives. Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Bitcoin Ordinals Size Record Broken Again-How Much Bigger Can They Get? - Decrypt
+
+Bitcoin Ordinals and Runes platform OrdinalsBot has created the largest Ordinals inscription to date, weighing in at a hefty 3.969 megabytes. Inscription number 70,614,708, the OrdinalsBot team announced Friday, contains a copy of “A Declaration of Independence in Cyberspace” by Logos Network.OrdinalsBot co-founder Brian Laughlan told Decrypt that the size of the inscription had less to do with the length of the document, and more to do with publishing the document as an image that would be large enough to read.“It's really interesting because the actual text content, if you build that out, would be like two kilobytes,” Laughlan said. “It’s tiny, but what they did was add an image and blew up the image to be that size—just to get that top spot and really make a statement.”It's not the first time in recent months that we've seen the Bitcoin Ordinals inscription size record broken, but the increases lately have been relatively minuscule—and there isn't much more room to grow, given the limitations of the Bitcoin blockchain. In this case, the new record inscription was a mere 0.001MB larger than the previous record-holder from March.The storage capacity on the Bitcoin blockchain was massively upgraded in 2017, Laughlan explained. The Segregated Witness (SegWit) update pushed past the prior 1 megabyte maximum size of a Bitcoin block to 4MB. Attempts to inscribe anything larger will fail.“Part of our job is making sure we don't do that,” Laughlan said. “What we'll do essentially is we'll craft [the Ordinal] locally, send it to our local Bitcoin nodes, and see if it all goes through—but we won't even look at it if it's over 4MB. There’s no point because we know its going to fail.”Following the launch of the Ordinals protocol in January 2023, OrdinalsBot came online as a way for Bitcoin enthusiasts to capitalize on the new craze with an easy-to-use interface. This March, the OrdinalsBot platform was used to inscribe music Ordinals for rapper French Montana, followed by another music NFT by Wu-Tang Klan’s Ghostface Killah in April.For large inscription projects like the Logos Network Declaration and the 3.968MB Runestone inscription from March, OrdinalsBot worked with Bitcoin mining company Marathon Digital to add larger amounts of data to a single Bitcoin blockchain block. In this case, the total block came in at 3.99MB, nearly all of which was taken up by the Logos inscription.“Our engineers and the engineers at Marathon are some of the best Bitcoin developers in the world,” OrdinalsBot co-founder Toby Lewis said. “Watching them work, especially when it's going for the largest block, you feel like history has been made every time."“They're testing the parameters [and] fine-tuning stuff," Lewis added, "because they don't actually know what will work. But from testnet to production is a really exciting moment."Boasting over 200,000 users on its platform, OrdinalsBot claims it played a part in creating eight out of the top 10 largest files ever inscribed on Bitcoin, including the aforementioned Runestone, the Ordz Games inscription for the BitBoy One game console, and Inscribed Pepes.OrdinalsBot also provides backend support for Magic Eden’s inscription services. In April, OrdinalsBot launched the Trio Ordinals utility token using the BRC-20 Bitcoin token standard.Edited by Ryan Ozawa and Andrew HaywardStay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Crypto's Resurgence: New Narratives, Same Risks, Says Molly White | Cryptoglobe
+
+
+                                
+As Molly White, a prominent blockchain and cryptocurrency critic, points out in her recent Bloomberg article, the crypto market has once again entered a period of speculative mania after more than a year of a deep crypto winter. Bitcoin prices have surged, venture capital firms are investing in cryptocurrency startups, and the infamous crypto bros are back, mocking skeptics with their “have fun staying poor” mantra. However, as White astutely observes, this resurgence comes with a veneer of normalcy and a reputational makeover that may not reflect the true nature of the industry.
+
+
+
+According to White, the crypto market remains fraught with manipulation and scams despite the new spokespeople in suits focusing on regulatory compliance and the traditional financial institutions pitching cryptocurrencies as a way to diversify portfolios. The approval of spot Bitcoin exchange-traded products (ETPs) by the US Securities and Exchange Commission (SEC) has been seen as a watershed moment by crypto advocates, but as White points out, even SEC Chair Gary Gensler has reiterated that Bitcoin is primarily a speculative and volatile asset with ties to illicit activities.
+
+
+
+White’s article alleges that there is still rampant market manipulation on crypto exchanges, with wash trading being a built-in feature and a relatively small number of large holders artificially propping up prices. Despite the industry’s push to present crypto as a legitimate new asset class, White argues that greater reforms and more stringent enforcement are necessary to protect investors.
+
+
+
+One of the key points White makes is that crypto relies heavily on storytelling, as the underlying technology lacks practical applications for the average person’s daily life. The narratives surrounding crypto have shifted over the years, from Bitcoin being pitched as a stable alternative to traditional banking to the “web3” buzzword of the last crypto boom. Now, as White observes, the industry is latching onto the AI trend, with startups promising to use blockchains alongside AI models to address various issues despite blockchain systems’ inherent inefficiencies and limitations.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+White also calls attention to the concerning trend of AI pioneers like OpenAI CEO Sam Altman also being involved in blockchain projects, such as the Worldcoin token, which has drawn the ire of data privacy agencies in multiple countries. The world of AI-blockchain hybrids, as White points out, remains light on products and heavy on speculation, much like the worst offenders of the web3 era.
+
+
+
+As the specter of a new crypto mania looms, White argues that it is far past time to consider new solutions to the familiar downside. She says the industry’s scammers must no longer be allowed to exploit everyday people drawn in by promises of revolutionary technology. White acknowledges the concerns of some crypto skeptics who worry that regulation may leave loopholes for exploitation while legitimizing crypto, but she asserts that the past decade of regulators largely ignoring the industry has not worked.
+
+
+
+White concludes by emphasizing the need for thoughtful, carefully crafted regulation to protect investors and limit the contagion any future crypto disasters can transmit to the rest of the financial world. She also calls upon industry leaders to hold one another accountable and support models of government regulation that require rigorous outside scrutiny. 
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+Shiba Inu and Dogecoin Rival Crazy Wolf (CRAWOLF) to Surge 7,000% Within 48 Hours
+
+
+
+                    
+
+Crazy Wolf (CRAWOLF) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Crazy Wolf (CRAWOLF), a Solana memecoin that was launched this week, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Crazy Wolf presents a similar opportunity.
+
+
+
+The exciting memecoin is poised to rally 7,300% in the coming two days, and Crazy Wolf could potentially reach a multi-million dollar market cap within a few weeks.
+
+
+
+Currently, Crazy Wolf can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+
+To buy Crazy Wolf on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Crazy Wolf by entering its contract address – 4cra6VGCDowfFz3HDz5ctXtCSAhQQ5FEscKMLGzB56ML – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like CRAWOLF.
+
+
+                
+
+                
+
+----------------
+
+Crypto Analyst Forecasts First Billion Users by 2025, Chart Reveals Path to Mainstream Adoption
+
+
+
+                    
+
+Cryptocurrency analyst Willy Woo predicts that the cryptocurrency industry could hit its inaugural billion-user mark by the conclusion of 2025. 
+
+
+
+Woo conveyed his insights in an April 29 X post, stating, “On track for 1 BILLION crypto users by the end of 2025. 
+
+
+
+
+An extrapolation of many independent prior studies in this chart. Binance estimates that 65% of crypto users hold Bitcoin.”
+
+
+
+The chart presented by Woo marks a significant advancement, offering a comprehensive model aimed at delineating existing crypto asset users and forecasting the initial billion adopters. 
+
+
+
+Daniel Batten, an investor and author of the Bitcoin ESG Forecast, lauded the chart’s significance, remarking in an X reply to Woo, “Incredible chart. 
+
+
+
+
+The first view we’ve had of when we’ll cross the 1B threshold, with a full backtrace.”
+
+
+
+The criteria for defining crypto users in the chart are unique entities that have completed Know Your Customer (KYC) verification and have previously engaged in blockchain transactions.
+
+
+
+Attaining the milestone of the first billion crypto users has long been regarded as a pivotal moment for mainstream adoption. 
+
+
+
+READ MORE: Whale Transfers Signal Potential Upswing for Bitcoin and Ether as $1.3 Billion Enters Coinbase
+
+
+
+
+Mainstream adopters have the potential to inject fresh capital into the ecosystem, a factor crucial for the appreciation of digital assets.
+
+
+
+The trajectory towards 1 billion crypto users is underscored by substantial growth in ownership. 
+
+
+
+According to a January 2024 report by Crypto.com, the number of cryptocurrency owners surged by 34% to 580 million in 2023. 
+
+
+
+Bitcoin holders, constituting 51% of global crypto holders, swelled by 33%, from 222 million in January to 296 million by December 2023. 
+
+
+
+The report attributes this growth primarily to developments surrounding Bitcoin exchange-traded funds (ETFs).
+
+
+
+Despite these strides, achieving the coveted billion-user mark by 2025 appears challenging, given the need for a 72% increase from the current 580 million users, based on 2023’s growth trajectory.
+
+
+
+A joint 2022 report by Boston Consulting Group, Bitget, and Foresight Ventures forecasts reaching the billion-user milestone by 2030. 
+
+
+
+Drawing parallels with the internet’s adoption curve, the report suggests that sustained crypto adoption could emulate a similar trajectory. 
+
+
+
+Currently, crypto adoption remains relatively low, with ample room for expansion, as only 0.3% of individual wealth is invested in crypto compared to 25% in global equities, as estimated by BCG.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Shiba Inu Owners, Beware: Impersonators Are Targeting Your Pack!
+
+
+								The booming Shiba Inu (SHIB) community faces a growing threat: imposters posing as prominent developers on social media platforms like Telegram. Shibarmy Scam Alerts, a watchful community group, recently exposed this deceptive tactic, urging investors to exercise caution in the face of these digital wolves in sheep’s clothing.
+
+Shiba Inu Developers Targeted: Kusama And Dhairya In The Crosshairs
+Shibarmy Scam Alerts identified fake Telegram accounts masquerading as Shytoshi Kusama and Kaal Dhairya, two leading figures within the Shiba Inu ecosystem. The imposters meticulously crafted usernames that mimicked the real developers, with subtle alterations designed to bypass casual scrutiny. This highlights the sophistication of these scams, emphasizing the need for investors to be meticulous when verifying online identities.
+
+
+Beyond Names: The Devious Depths Of Deception
+The implications of these impersonations extend far beyond stolen usernames. Scammers leverage this facade to gain victims’ trust, potentially tricking them into surrendering sensitive information or even transferring their SHIB holdings. Shibarmy Scam Alerts warns that these bad actors may attempt to solicit private keys, seed phrases, or other crucial details that grant access to crypto wallets.
+To combat this evolving threat, the Shiba Inu community is emphasizing the importance of information hygiene. Investors are urged to rely solely on verified sources for official updates and announcements. The Shiba Inu development team will never request personal information or wallet access through unsolicited channels.
+
+SHIB market cap currently at $14.5 billion. Chart: TradingView.com
+Lessons From The Past: Shibarium Giveaway Scam A Stark Reminder
+This recent incident isn’t the first time the Shiba Inu community has grappled with deception. In 2023, a fake Telegram account impersonating Kusama promoted a fabricated Shibarium giveaway following the network’s version 2.0 launch. This serves as a stark reminder of the lengths scammers will go to exploit community excitement and enthusiasm.
+
+As the Shiba Inu phenomenon continues to attract new investors, the community recognizes the growing vulnerability to scams. Groups like Shibarmy Scam Alerts empower individuals to identify and report fraudulent activity. By fostering a culture of awareness and vigilance, the community can collectively safeguard the integrity of the Shiba Inu ecosystem.
+Being Aware Of Red Flags
+While Shibarmy Scam Alerts plays a crucial role, individual responsibility remains paramount. Investors are encouraged to educate themselves on red flags associated with crypto scams. This includes being wary of unrealistic promises, unsolicited investment advice, and pressure tactics. Additionally, leveraging two-factor authentication and strong passwords for online accounts adds another layer of security.
+Featured image from PNWU Health Blog-Pacific Northwest University of Health Sciences, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+Bitcoin or Gold? We asked ChatGPT which asset is a better buy for summer 2024
+
+
+As summer 2024 approaches, investors are closely evaluating which asset–Bitcoin (BTC) or gold holds more promise.
+With their divergent roles in investment portfolios, Bitcoin as a growing digital asset and gold as a traditional safeguard against economic shifts, Finbold sought insights from ChatGPT, OpenAI‘s advanced AI model, to determine which might excel in the coming months.
+Amid a landscape riddled with economic and geopolitical uncertainties, the debate between Bitcoin and gold becomes increasingly relevant. Each asset offers distinct advantages: Bitcoin presents high growth potential, while gold is viewed as a stable hedge against inflation and volatility.
+
+
+While both assets have historically been compared, their paths in 2024 have significantly diverged. Gold has surged amid rising global concerns, demonstrating its strength as a dependable asset during turbulent times
+Conversely, Bitcoin has experienced more volatility; notably, its price took a hit during the Israel-Iran conflict, overshadowing positive sentiments from recent cryptocurrency halvings.
+Despite reaching record highs earlier in the year, Bitcoin’s value plummeted to around $57,000 by May, marking a critical support level. Meanwhile, gold closed April at an all-time high, reinforcing its status as a robust investment option.
+This contrast underscores the divergent paths and potential of each asset as investors weigh their options for the summer of 2024.
+ChatGPT’s analysis: Bitcoin vs. Gold investment prospects
+According to ChatGPT, the decision largely depends on individual investment strategies and risk tolerance. For those seeking higher growth potential and are comfortable with volatility, Bitcoin might be the preferable option.
+ChatGPT Bitcoin investment prospects. Source: Finbold and ChatGPT
+Conversely, for those seeking stability and lower risk, gold might be the preferred choice.
+ChatGPT gold investment prospects. Source: Finbold and ChatGPT
+Including both assets in a diversified portfolio could also be a wise approach to balance potential risks and rewards.
+Bitcoin and gold recent price performance
+Bitcoin and Gold YTD price chart. Source: TradingView
+As of 2024, the year-to-date performance for Bitcoin and gold presents a clear contrast in investment returns. Bitcoin has seen a significant rise, with a YTD increase of 52%, showcasing its volatile yet high-growth nature. The current price of Bitcoin stands at approximately $64,342. 
+On the other hand, gold, known for its stability and role as a safe haven asset, has gained 11.5% YTD, with its current price at about $2,301 per ounce.
+This performance highlights the divergent characteristics and investor appeal between the two assets: Bitcoin attracts those seeking rapid growth and high returns, albeit at higher risk, while gold appeals to investors looking for a more stable and secure investment amidst economic fluctuations.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Crypto Rich vs. Lottery Winners: Bloomberg Explains How Spending Habits Differ | Cryptoglobe
+
+
+                                
+The rise of cryptocurrencies has not only created a new asset class but has also given birth to a new generation of wealthy individuals. As reported by Bloomberg News, a group of researchers has delved into the fascinating world of crypto wealth and its impact on the US economy. Their findings shed light on how the so-called “crypto rich” are spending their newfound fortunes and the ripple effects this has on various sectors, particularly the housing market.
+
+
+
+According to the Bloomberg article, the researchers found that crypto gains have led to a significant increase in household consumption. Over the past decade, this extra spending amounted to approximately $30 billion. Interestingly, for every dollar of unrealized crypto gains, households spent about nine cents. While this may seem like a small figure, it’s nearly double the marginal propensity to consume compared to stock market returns, as noted by Bloomberg.
+
+
+
+However, the spending habits of crypto winners differ from those of lottery winners. The researchers discovered that household spending from crypto gains more closely resembles the patterns seen in traditional equity investments rather than the splurges associated with sudden windfalls like lottery winnings, as reported by Bloomberg.
+
+
+
+One of the most intriguing findings from the research, as mentioned by Bloomberg, is the impact of crypto wealth on local housing markets. The researchers found that a significant portion of crypto gains were channeled into real estate, particularly in regions where cryptocurrencies are popular, such as parts of California, Nevada, and Utah.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+To quantify this effect, the researchers looked at the crypto boom of 2017, when Bitcoin’s price skyrocketed by nearly 1,400%. By comparing home prices in counties with high crypto wealth to those with less enthusiasm for digital assets, they discovered that home prices in crypto-wealthy counties grew 43 basis points faster. This translated to a median house price increase of about $2,000 over 12 months, as reported by Bloomberg.
+
+
+
+Furthermore, the researchers analyzed the impact of crypto wealth on home prices over the decade leading up to 2023. Bloomberg reports that for every dollar gained in households’ crypto wealth, the median home price increased by 15 cents over the following three months.
+
+
+
+The Bloomberg article also highlights an interesting trend observed by the researchers when analyzing investors who withdrew at least $5,000 from their crypto brokerages between 2018 and 2023. These individuals increased their total spending by around $5,754 in the year following a large withdrawal compared to the previous year.
+
+
+
+Notably, while mortgage spending remained constant in the six months prior to large withdrawals, it rose significantly after the event. Bloomberg says that for every household that withdrew $5,000 from their crypto exchange account, one in 20 purchased a house for the first time.
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+9 Celebrity Endorsements That Are Pushing Crypto Mainstream
+
+
+																Grammy award-winning rapper Eminem recently cut an ad for Crypto.com to advertise blockchain to NBA fans. Here are 10 other celebrity endorsements that prove cryptocurrency adoption is accelerating.
+But real quick first— here’s “The Real Slim Shady” singer’s X post with the Crypto.com advertisement:
+
+
+“From the beginning you couldn’t stop, breaking resistance with every swing and block. Your game plan never changed.”
+Bloomberg called the collaboration between a major crypto exchange, the hip-hop superstar, and the NBA a “sign of a dramatic shift in the crypto industry’s marketing and advertising efforts.”
+Celebrity crypto endorsements are appearing again in commercial advertising six months after a jury in New York delivered a guilty verdict in the fraud case against the founder of failed crypto exchange FTX.
+Here are 10 other celebrity endorsements over the years that show just how far mainstream adoption has come for cryptocurrency since Bitcoin mined its first block on Jan 3, 2009:
+1. Elon Musk – Notorious Doge Father
+To the inveterate engineer and CEO of SpaceX and Tesla, finance isn’t all that interesting. In May 2020, he told Joe Rogan that finance is just a matter of keeping track of money, but what we do with our resources to advance civilization is more interesting to him.
+However, Musk recognizes the important innovations blockchain has produced in finance. In fact, he has been pumping Dogecoin since 2019, when he first posted on social media, “Dogecoin might be my fav cryptocurrency. It’s pretty cool.”
+Styling himself the “Doge Father,” Musk has said regarding his vocal support for cryptocurrencies:
+“I might pump, but I don’t dump.”
+2. Lindsay Lohan – Dollar Inflation Hawk
+In Feb. 2021, less than a year after Bitcoin’s third halving, “Parent Trap” and “Mean Girls” star Lindsay Lohan tweeted “Bitcoin To The Moon” with a rocket emoji.
+
+
+Lohan’s endorsement was true to form. As early as 2011, Lindsay tweeted that she was concerned inflation is getting out of control.
+“Have you guys seen food and gas prices lately? U.S. $ will soon be worthless if the Fed keeps printing money!” Lohan posted.
+3. Maisie Williams – Arya Long Bitcoin?
+In Nov. 2020, just six months after Bitcoin’s four-year supply cut, HBO “Game of Thrones” star Maisie Williams tweeted, “Should I go long on Bitcoin” in 2020?” with a poll.
+Nearly a million Twitter users voted, and 53% said “No,” while 47% said “Yes.”
+
+
+4. Snoop Dogg – Pumps Dogecoin
+Around the time Lindsay Lohan shipped Bitcoin in Feb. 2021, RIAA gold and platinum selling hip hop artist Snoop Dogg pumped DOGE tokens on Twitter.
+The “Gin and Juice” singer had his mind on his money when he posted a photoshop of one of his album covers depicting him as a Shiba Inu, with the caption: “Snoop Doge.”
+
+
+The price of DOGE tokens surged to a new record high of $0.0844 following the tweet from Snoop Dogg and another by Elon Musk. KISS frontman Gene Simmons joined in with a tweet encouraging Dogecoin owners to “HODLE!”
+5. Ashton Kutcher – Early Bitcoin Investor
+“That 70’s Show” actress Mila Kunis repped Bitcoin on Stephen Colbert’s show in 2021. Kunis told Colbert that Kutcher, who played Steve Jobs in the indie biopic “Jobs,” got them investing in Bitcoin as early as 2013.
+“He sat me down and was like, ‘Hey, babe, I got to explain this thing to you; tell me if I’m crazy.’ He’s like, ‘There’s this thing, it’s like mining for money. It’s called cryptocurrency. And there’s this company.’ This was eight-plus years ago— ‘It’s called Bitcoin,'” Kunis told Colbert.
+“I was like, ‘Well, I think this is a horrible idea,’ she continued. “And he went, ‘Cool, we’re investing in it.’ So, he didn’t listen to me. I mean, this happens all the time.”
+6. LeBron James – Cut an ad for Crypto.com in 2022
+Los Angeles Lakers Power Forward LeBron James and the LeBron James Family Foundation signed a multi-year contract with Crypto.com in 2022. The all-time leading scorer in NBA history’s first advertisement for the Singapore-based crypto exchange featured James giving advice to his younger self.
+In the ad, James from the Future said, “I can’t tell you everything, but if you want to make history, you’ve got to call your own shots.”
+VIDEO
+7. Mark Cuban – Endorsed Polygon and Injective
+In January this year, ABC Network’s “Shark Tank” judge and Dallas Mavericks owner Mark Cuban highlighted Polygon (MATIC) and Injective (INJ) to his 8.8 million followers on X. He wrote, “I’ve invested in both (DYOR).”
+Cuban’s answer to fans who asked him about crypto in the AMA-style interview on X reveals he’s bullish for Ethereum because Polygon is an Ethereum Layer-2 extending the base chain’s ecosystem, and Injective is an L1 crypto with an ERC20 bridge to Ethereum for multi-chain interoperability.
+8. Kevin O’Leary – Once Crypto Skeptic, Now Bitcoin Bull
+Canadian businessman Kevin O’Leary, one of the other judges on the hit ABC show about venture capitalism, was once a crypto skeptic who called Bitcoin “garbage” and a “useless currency.” Like the late Berkshire don Charlie Munger, O’Leary believed “there is nothing here except raw speculation.”
+Today, he is not only a Bitcoin bull but also calls himself a Bitcoin “purist” who buys to hold “digital gold” for the long term.
+O’Leary doesn’t even support Bitcoin ETFs because he thinks it’s better to custody your own on-chain BTC so you are the bearer of your private keys. Plus, he says it saves on paying those ETF issuers’ fees, so crypto investors can accumulate faster.
+Although O’Leary did predict the Bitcoin ETFs in July 2022.
+9. Joe Rogan – Hyperbitcoinization Theory
+Comedian, UFC announcer, and podcast king Joe Rogan told OpenAI CEO Sam Altman in an episode of his show last October:
+“The real fascinating crypto is Bitcoin. To me, that’s the one that I think has the most likely possibility of becoming a universal viable currency. It’s limited in the amount that there can be [and] people mine it with their own [computer]. That to me is very fascinating. I love the fact that it’s been implemented.”
+Rogan has also brought Bitcoin evangelist Andreas Antonopoulos onto his show for four separate episodes over the years to explain blockchain technology and the significance of cryptocurrency in the modern economy.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Crypto.com unveils sports sponsorship roadmap
+
+Emmanuel Omwanda is a blockchain reporter who dives deep into industry news, on-chain analysis, non-fungible tokens (NFTs), Artificial Intelligence (AI), and more. His expertise lies in cryptocurrency markets, spanning both fundamental and technical analysis.
+
+----------------
+
+Our Most Read Stories This Week: EigenLayer Airdrop, Fed Roils Markets, Stacks Update, Bitcoin Jesus - The Defiant
+
+The Defiant Daily“an industry must-read”Get an edge in Crypto with our free daily newsletterKnow what matters in Crypto and Web3 with The Defiant Daily newsletter, Mon to Fri90k+ Defiers informed every day. Unsubscribe anytime.
+
+----------------
+
+Hiring roundup: Former LA mayor joins Coinbase - Blockworks
+
+
+Antonio Villaraigosa, the former mayor of Los Angeles, has been hired as a policy adviser for Coinbase.
+Villaraigosa, who served as the mayor of LA between 2005 and 2013, will join the cryptocurrency exchange’s global advisory council.
+Faryar Shirzad, the chief policy officer at Coinbase, wrote in a post on X that Villaraigosa will advise the leadership team at Coinbase to advance “economic freedom around the world.” 
+“When 18% of America is underbanked, including 25% of Black & Hispanic households, it means the traditional financial system doesn’t work for everyone. It’s time to update the system,” Shirzad wrote.
+According to the LA Times, Villaraigosa will not lobby on behalf of the global exchange but will only advise the company on developing a fair and robust regulatory framework so that it can provide services for US-based customers, noting that crypto participants “need regulatory protection.”
+Paradigm special counsel leaves 
+Rodrigo Seira, the special counsel of the crypto-focused venture capital firm Paradigm, has resigned and returned to Cooley LLP, a law firm where he previously worked.
+Seira served at Paradigm for two and a half years and helped spearhead the company’s policy lab. He was also a founding member of blockchain and crypto-focused law firm DLX Law.
+Former Citibank executive joins BitGo
+Brett Reeves, a former Citibank executive who has been in the banking industry for over two decades, will join BitGo, a scalable wallet solution, to expand EMEA Sales.
+Reeves most recently held the position of head of business development at Bequant, a digital asset prime broker. He previously held roles at Citibank, Nomura and Standard Chartered Bank in Singapore.
+
+Start your day with top crypto insights from David Canellis and Katherine Ross. Subscribe to the Empire newsletter.
+
+
+----------------
+
+Real Estate Is the New Luxury for Bitcoin Millionaires
+
+
+The narrative that early Bitcoin investors indulged in extravagant luxuries like Lamborghinis is shifting. 
+Recent research suggests crypto millionaires are now channeling their newfound wealth into real estate investments, indicating a more mature spending pattern.
+Bitcoin Millionaires Are Maturing
+According to a study involving researchers from esteemed institutions like Brigham Young, Northwestern, and Imperial College London, the increase in crypto wealth has notably influenced the American real estate market. 
+Their analysis, presented to the Federal Deposit Insurance Corp., used data from 60 million people over 13 years. It revealed that approximately nine cents fueled household spending for every dollar of unrealized crypto gains.
+While social media often glorifies lavish spending on luxury cars and jewelry, the actual economic impact of crypto wealth has been more nuanced. The study highlights a propensity among crypto millionaires to invest in housing. This is paralleling traditional equity investments rather than fleeting lottery winnings. 
+
+“Our estimates suggest that household spending out of crypto gains aligns more with the patterns from traditional equity investments,” noted Darren Aiello, assistant professor of finance at BYU.
+
+
+Read more: Who Owns the Most Bitcoin in 2024?
+This trend was particularly evident in 2017 when Bitcoin surged from about $950 to $14,000. Researchers found that home prices rose significantly faster in areas with high levels of crypto engagement than in less crypto-centric locations. Specifically, homes in these crypto-wealthy counties appreciated by an additional 43 basis points over 12 months.
+Moreover, a separate analysis of crypto brokerage withdrawals showed that substantial sums withdrawn led to increased spending on housing shortly thereafter. 
+
+
+“For every household that withdrew $5,000 from their crypto exchange account, one in 20 bought a house for the first time,” Jason Kotter, another finance professor at BYU, shared.
+
+The shift towards real estate investment among Bitcoin millionaires reflects a strategic approach to wealth management. It diverges from the stereotypical image of frivolous spending.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+
 
