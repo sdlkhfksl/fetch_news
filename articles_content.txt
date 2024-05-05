@@ -1,73 +1,3 @@
-New Bitcoin ETF Decision from SEC as Bitcoin Surges After Weak Data from the US - Bitcoin Sistemi
-
-
-The US Securities and Exchange Commission (SEC) announced that it has postponed its decision on the proposed 7RCC Spot Bitcoin and Carbon Credit Futures ETF. The agency said it needed additional time to evaluate next steps for ETFs focused on carbon credit futures contracts and Bitcoin.
-In its statement, the SEC announced that it would make a decision to “approve or disapprove or initiate action” for the ETF by June 24, 2024. The Commission stated that a longer period of time was needed to take action on the proposed rule change, ensuring it had sufficient time to evaluate the results.
-
-
-
-According to past filings, the proposed fund plans to allocate 80% of its assets to Bitcoin and 20% to financial instruments, including swap agreements that provide exposure to Carbon Credit Futures represented by the index.
-The S-1 registration statement for the spot BTC and carbon credit futures ETF was filed on December 18, 2023, about a month before the SEC approved 11 spot bitcoin ETFs.
-
-
-
-
-
-Hong Kong's ETF launches also came right after Bitcoin's halving event. However, these ETFs failed to deliver the expected boom effect.
-Bitcoin price increased by nearly 5% during the day as non-farm employment data from the USA remained weak and was traded at $ 61,759 at the time of writing this article.
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-BTC optimism as institutional investors report millions in Bitcoin ETFs ownership
-
-
-This year marked a significant shift in the investment landscape, as the Securities and Exchange Commission (SEC) approved nine spot Bitcoin exchange-traded funds (ETFs) in January. This development has opened a pathway for investors to gain exposure to Bitcoin (BTC) through familiar investment vehicles, integrating cryptocurrency into the mainstream financial market.
-In a notable display of confidence in cryptocurrencies, Hong Kong-based asset managers have invested a substantial $112 million in US spot Bitcoin ETFs as per new data by Eric Balchunas  Senior ETF analyst for Bloomberg.
-
-Hong Kong asset managers show strong support for US Bitcoin ETFs
-Hong Kong-based Yong Rong Asset Management has made a significant investment by purchasing $38 million worth of BlackRock’s (NYSE: BLK) iShares Bitcoin Trust, which now comprises 12.14% of its total holdings. 
-
-
-The portfolio of Yong Rong features a mix of high-tech and cryptocurrency assets, including stocks such as  Nvidia (NASDAQ: NVDA), Meta (NASDAQ: META), and Tesla (NASDAQ: TSLA)  alongside Bitcoin, creating what’s commonly known as the “LFG Portfolio.” According to the data, Yong Rong Asset Management has the highest single ETF investment at $30 million in IBIT.
-Another Hong Kong firm, Ovata Capital Management, has also significantly invested in this asset class by acquiring stakes in four different spot Bitcoin ETFs, totaling over $74 million. These ETFs, managed by major financial institutions including Fidelity, Grayscale, Bitwise, and BlackRock, highlight Ovata’s strategic diversification within this asset class.
-Notably, Ovata has become the largest allocator in Bitcoin ETFs to date, with four out of its five biggest holdings in this category. This burgeoning interest arrives just as Hong Kong has started to embrace Bitcoin and Ethereum investment offerings, yet the global appeal of US ETFs continues to draw significant capital from overseas investors.
-The strategic moves by Yong Rong and Ovata signify a strong institutional endorsement of Bitcoin as a viable component of diversified investment portfolios.
-
-Recently, BlackRock’s IBIT reported its first-ever outflows, totaling $37 million. James Seyffart, an analyst at Bloomberg, speculated that Yong Rong Asset Management may be moving its investments from BlackRock’s iShares Bitcoin ETF to a Hong Kong-based spot Bitcoin ETF, potentially driving these outflows.
-The Bitcoin market has shown remarkable resilience recently, with the price of Bitcoin recovering to over $61,000. The continued embrace of Bitcoin and Ethereum (ETH) offerings by Hong Kong, coupled with the sustained appeal of US ETFs globally, cements a strong institutional endorsement for Bitcoin.
-This evolving enthusiasm signifies a broader acceptance and integration of cryptocurrencies into the mainstream financial landscape, promising an exciting future for investors navigating this digital frontier.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-Wasabi Wallet To Eliminate Coinjoin Amid U.S. Regulatory Fears - The Defiant
-
-The move follows U.S. authorities targeting privacy protocols and non-custodial wallets.Wasabi Wallet, a popular Bitcoin wallet, will no longer offer its Coinjoin feature, a service providing privacy for on-chain transactions.Announced on May 2, ZkSNACKS, the development team behind Wasabi Wallet, said it will discontinue support for Coinjoin transactions from June 1. The team alluded to increasing regulatory hostility towards cryptocurrency privacy protocols from U.S. authorities as the primary motivation behind its decision.“After years of relentless dedication to improve Bitcoin’s privacy, zkSNACKs… is shutting down its Coinjoin coordination service,” the blog post said. "We have always made efforts to operate under legal clarity. At this point, we need to regain more certainty before moving forward.”Moving forward, the Wasabi wallet will solely function as a non-custodial Bitcoin wallet without offering Coinjoin transactions, meaning users can continue to create wallets and transfer assets using the protocol.“Wasabi Wallet is a free and open-source software and will continue to be maintained,” zkSNACKS said.Coinjoin describes a process combining multiple Bitcoin transactions to obfuscate the flow of funds and provide privacy to users transacting on-chain. The technique was first articulated by Greg Maxwell, an early Bitcoin developer, in 2013.“A Coinjoin is a special Bitcoin transaction where several peers get together to literally join their coins in a single transaction,” Wasabi’s documentation said. “The goal is to gain privacy by breaking the link of which input ‘pays’ which output so that none of the outputs can be attributed to the owner of the input.”Third-party wallet clients that previously offered Coinjoin transactions via Wasabi will also be unable to offer the service, including the popular hardware wallet, Trezor, and the payment processor, BTCPay.War on privacyWasabi’s decision to abandon its Coinjoin features comes as on-chain privacy protocols are increasingIn August 2022, the U.S. Treasury Department took the unprecedented action of adding Tornado Cash, a popular Ethereum-based privacy protocol, to its sanctions list, making it illegal for U.S. residents to interact with Tornado Cash. The move came in response to Lazarus Group, the North Korean state-sponsored hacking organization, increasingly adopting Tornado Cash as a means to launder stolen crypto assets.In November, the Treasury Department followed up by sanctioning Sinbad, another cryptocurrency mixer implicated in enabling North Korean money laundering activities. “Mixing services that enable criminal actors, such as the Lazarus Group, to launder stolen assets will face serious consequences,” said Deputy Secretary of the Treasury, Wally Adeyemo.On April 24, the U.S. Department of Justice charged the two founders of the popular privacy-focused Bitcoin wallet Samourai with money laundering and unlicensed money-transmitting offenses. The DoJ accuses the pair of facilitating $2 billion in illicit transactions and laundering $100 million in criminal proceeds from darknet marketplaces. They now face sentences of up to 20 years and five years imprisonment respectively.Non-custodial crackdown?ZkSNACKS’ move to discontinue Coinjoin also follows the project blocking U.S. residents from accessing its website and wallet on April 27.The team attributed the move to concerns of a broader crackdown on non-custodial wallets from U.S. authorities. ZkSNACKS alluded to the Wells Notice that the U.S. Securities and Exchange Commission (SEC) issued to Consensys, the company behind the popular MetaMask wallet on April 26. A Wells Notice proceeds the filing of a formal legal complaint.“In light of recent announcements by U.S. authorities,zkSNACKs is now strictly prohibiting U.S. users from using its services,” zkSNACKS said.On April 26, Acinq, the developer of Phoenix Wallet, similarly announced its decision to exit the U.S. market. Acinq said the wallet will no longer be accessible via U.S. app stores starting May 3.
-
-----------------
-
-Bitcoin enters 'a new era' as whales scoop up over 47K BTC during price pullback
-
-Following the post-halving price dip, Bitcoin whales have started accumulating Bitcoin (BTC) once again. Can whales push Bitcoin’s weekly close above $60,000?Bitcoin whales buy over 47,000 BTC in 24 hoursBitcoin whales, which are large wallets holding at least 100 BTC, have accumulated over 47,000 BTC worth over $2.9 billion at current prices, noted Ki Young Ju, the founder and CEO of CryptoQuant, in a May 3 X post:“Bitcoin whales accumulated 47,000 $BTC in the past 24 hours. We're entering a new era.”BTC Balances for whale addresses, last active within 24h. Source: Ki Young JuThe chart excludes wallets related to centralized exchanges (CEXs) and mining firms. While the metric includes spot Bitcoin exchange-traded funds (ETFs), they are not the reason behind the uptick, according to CryptoQuant’s founder:“Mostly custodial wallets, including ETFs, but recent spike not ETF-related.”Spot Bitcoin ETF inflows have indeed turned negative. The 11 U.S. Bitcoin ETFs have recorded over $871 million of negative net outflows this week, making it the largest week of outflows since launch, according to Dune.Bitcoin ETF Net Flows, Weekly, Source: DuneRelated: ‘Mr. 100’ buys the Bitcoin dip for the first time since halving — Is the BTC bottom in?Can BTC price close week above $60k?Bitcoin’s recent drawdown was just a “downside wick” and a weekly close above the $60,000 mark could confirm the psychological mark as new support, according to popular Bitcoin analyst Rekt Capital. The analyst wrote in a May 3 X post:“Looks like it was just a downside wick. Weekly Close just like this would confirm this pool of liquidity as secured support.”BTC/USD, 1-week chart. Source: Rekt CapitalBased on historical chart patterns, Bitcoin could remain in the post-halving “danger zone” for another week, according to Rekt Capital:Source: Rekt Capital“Bitcoin still has one week left in the Post-Halving "Danger Zone" (purple). Therefore continued downside below the Re-Accumulation Range Low would not be out of the ordinary by standards of 2016 history.”The dovish Federal Reserve could also help Bitcoin gain more upside momentum, according to İsa Sertkaya, the CTO of Silent Protocol, who told Cointelegraph:“The overall market sentiment improved due to the Fed showing signs of injecting liquidity into the economy. The U.S. announced that the seasonally adjusted nonfarm employment increased by 175,000 in April, and the unemployment rate rose to 3.9%, lower than the expected increase of 243,000 nonfarm jobs and an unemployment rate of 3.8%.”Bitcoin traders should keep a close eye on the $60,000 mark. A move below that level would liquidate over $700 million worth of leveraged long positions across all exchanges, according to Coinglass.Bitcoin Exchange Liquidation Map. Source: CoinglassRelated: Trader loses $68M in address poisoning scamThis article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-
-
-
-----------------
-
 Bitcoin on Track To Explode by Over 1,500%, According to On-Chain Analyst Willy Woo - Here’s the Timeline - The Daily Hodl
 
 
@@ -9176,3 +9106,142 @@ Cryptocurrency charts by TradingView.
 										
 					
 					
+
+
+----------------
+
+Bitfinex CTO Dispels FUD, Refutes Data Breach By Ransomware Group | Bitcoinist.com
+
+
+								In an interesting turn of events, Bitfinex chief technology officer (CTO) Paolo Ardoino has dismissed rumors of the exchange being involved in a large-scale data breach. This came in response to claims of a significant security breach by the hacking group FSOCIETY a little over a week ago.
+On April 26, FSOCIETY claimed on its dark web homepage that it had successfully breached the security measures and obtained sensitive data of several entities, including Bitfinex. Other organizations the group contacted include Rutgers University, SBCGlobal, and Coinmoma (likely a wrong spelling of the Coinmama crypto exchange).
+FSOCIETY, in its messages to the supposed victims, gave an ultimatum of seven days for each organization to make a substantial payment to avoid the leak of sensitive data. Despite the one-week deadline elapsing, none of these establishments have confirmed a server breach or the payment of a ransom.
+Bitfinex CTO Responds To Data Breach Rumors
+On Saturday, May 4th, Bitfinex CTO Paolo Ardoino took to the X platform to share a message on a purported breach of the exchange’s servers and security. According to the CTO, the ransomware group never directly contacted the exchange about any data breach, as they only got to find out about the claim on Friday, May 3rd.
+
+
+
+Ardoino, who is also the CEO of Tether, mentioned that only 5,000 of the supposedly stolen 22,500 emails match that of Bitfinex customers. The exchange executive claims that hackers merely collected a database of emails/passwords from various crypto hacks.
+Ardoino added in his post:
+Most of users unfortunately use same email/passwords across multiple sites. We’re performing deep analysis of our systems and no breach was found currently. Also the KYC platform has heavy rate limiting that would disallow downloading in bulk.
+While labeling the data breach rumors as pure FUD (fear, uncertainty, and doubt), the Bitfinex CTO reiterated that they will keep evaluating the situation to ensure that “no stone remains unturned.” Ardoino also assured the exchange users that all funds are safe.
+Data Breach Claim Was A Marketing Strategy: Security Researcher
+In a follow-up post on X, Paolo Ardoino revealed a message from an independent security researcher on the purported data breach incident. According to the unnamed investigator, the FSOCIETY’s claim of the data breach was a ruse to market their ransomware products.
+
+Source: Paolo Ardoino/X
+The researcher’s message read:
+I believe I start to understand what is happening and why they are sending these messages claiming you were hacked. The message in the screenshot in the ticket came from a TG channel (not reporting here to avoid helping them with free advertisement). There it seems they are selling the tool used that supposedly was used to hack Bitfinex and Rutgers.
+
+With this revelation, Ardoino questioned the credibility of their claims of hacking different organizations. “If they truly hacked Bitfinex, do they really need selling stuff for 299$?,” the CTO said.
+
+Total cryptocurrency market capitalization at $2.271 trillion on the daily timeframe | Source: TOTAL chart on TradingView
+Featured image from Bitfinex, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+Uniswap Founder Shares His Two Cents On Good Token Distributions
+
+
+                            Hayden Adams, founder of the Uniswap protocol, has shared his opinion on what characterizes a good distribution or rollout of a token. In a recent post on the X platform, the prominent crypto figure listed 10 qualities of good token distributions, highlighting the complexities surrounding the launch of a cryptocurrency.
+Uniswap Founder Gives Opinion On Good Token Distributions
+Adams began his take on good token distributions by stating that projects should allocate “tokens, not points” to the community. This phrase implies that participants should receive actual tokens that hold value within a particular ecosystem or on a network, instead of receiving points that may have limited utility.
+
+
+Secondly, Adams warned against creating ambiguity or being vague about a token distribution to increase the number of participants or to “farm the farmers.” A good token distribution practice includes sharing real details when ready, according to the Uniswap founder.
+
+Additionally, Adams criticized “low float tokens,” while calling them malicious. The prominent DeFi figure urged project teams to ensure sufficient tokens are available in circulation to prevent manipulation and allow genuine price discovery.
+Adams also discouraged hyping a token’s price and how it will skyrocket before it launches. The founder believes hiring an influencer or a marketing company to promote a token’s value only depicts a get-rich-quick scheme rather than a genuine attempt at building real value.
+What’s more, the Uniswap founder stressed the importance of free token airdrops during token distributions. “Don’t be stingy – give a significant amount away. If you don’t think the community deserves a significant amount, don’t release a token,” Adams said in his post.
+Ultimately, Adams advised new crypto projects to be careful and thoughtful in their decision-making to avoid making mistakes that might put them at odds with the crypto community. “Create something you’re proud of and stand behind it,” the Uniswap founder added.
+A Jab At Friend.tech and its FRIEND?
+At the beginning of his post, the Uniswap founder clearly stated that the opinion is not aimed at any specific project. However, the timing is interesting, especially after social media platform Friend.tech’s “unsuccessful” token airdrop.
+
+On Friday, May 3rd, Friend.tech airdropped its new FRIEND tokens to users in conjunction with the launch of the protocol’s version 2. While the token’s value quickly rose to $167 after launch, FRIEND’s price nosedived to below $2 within a few hours.
+Analysts pinpointed liquidity issues and a mass sell-off as the primary reasons behind the downturn of FRIEND and, ultimately, the ineffectual token launch. Moreover, many users complained about how challenging it was to claim the token airdrop, as technical drawbacks reportedly frustrated the process.
+
+UNI price stalls at $7.5 on the daily timeframe | Source: UNIUSDT chart on TradingView
+Featured image from Shutterstock, chart from TradingView
+                            
+                            
+                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
+                                                            
+                                                            
+                                                    
+                    
+
+----------------
+
+Sui Network clears up misunderstandings on token supply
+
+Sui Network, a layer-1 decentralized platform, has responded to and corrected common misunderstandings about its token supply. This statement, posted on the X platform, refutes criticisms about its tokenomics, specifically addressing concerns about token distribution and founder control. The platform maintains that its token economics are sound, utilizing reputable third-party custodians to manage locked tokens. Tokens are released according to a predetermined emission schedule and are publicly accessible. The foundation emphasizes that founders cannot control the treasury or tokens allocated to investors, including the community reserve.According to feedback from the Sui Network, the Sui Foundation manages the primary wallet holding locked tokens, which are released under specific conditions to enhance the ecosystem. These allocations support various projects, including Move programming language development, network security enhancements, hackathons, and developer grants.Source: Justin BonsSui Network further explained the distribution of staking rewards circulating in the system. These rewards comprise stake derivatives and network commissions, all of which are returned to the community. This approach is a key aspect of Sui’s economic model, which aims to maintain balance and fairness.Despite Sui Network’s clarifications, Justin Bons from Cyber Capital expressed concerns about the founding team’s token holdings. Bons suggested that the founders may control a substantial portion of staked tokens, posing a centralization risk. This prompted calls for greater transparency and accountability from the network’s management, which the Sui team has since addressed.In contrast, Sui Network disputes this assertion as inaccurate regarding token distribution and management, emphasizing their commitment to transparency. They have disclosed that all tokens, whether distributed or not, are managed in compliance with legal and regulatory standards overseen by reputable custodial services like BitGo, Anchorage, and Coinbase Prime.Related: Can blockchain revolutionize digital securities management for stock exchanges?However, Bons challenged the Sui Network’s claim of transparency by urging them to accurately represent the status of the allocated stake and demonstrate that the founders cannot move or access it. Bons emphasized that his critique is motivated by a desire for SUI’s success. He suggested that misrepresenting these tokens’ status undermines transparency claims and that true transparency requires clear evidence that the allocated tokens are securely held and cannot be manipulated. In September 2023, Sui Network streamlined Web3 logins for users on its apps with Zero Knowledge login (zkLogin), enabling login via Google, Facebook, and Twitch details. Known for high transaction capacity with low fees since launch. Since its launch, it has built a reputation for handling high transaction volumes while maintaining low fees.Magazine: Memecoins make millionaires, Terraform and Do Kwon liable for fraud, and more: Hodler’s Digest, March 31 – April 6
+
+----------------
+
+Crypto Analyst Unveils Massive Bitcoin Price Target, Says BTC Flashing Bullish Chart Pattern - Here’s His Outlook - The Daily Hodl
+
+
+								A widely followed crypto strategist believes that Bitcoin (BTC) can skyrocket over 337% based on a classical chart pattern.
+Pseudonymous analyst Cheds tells his 330,400 followers on the social media platform X that Bitcoin appears to be forming a cup-and-handle pattern on the weekly chart.
+
+
+
+
+
+
+
+
+
+
+Cheds says that based on classical charting rules, Bitcoin could soar close to $300,000 in about two years.
+“BTC visual of a bull thesis. Measured move for a weekly cup and handle would be roughly $280,000 BTC, likely sometime in mid-2026.”
+Source: Cheds/X
+The trader highlights that his price target and timeline go against the two widely held views on Bitcoin’s market cycles. One is that the Bitcoin bull market will likely end in 2025 based on the four-year cycle and the other one involves a theory that BTC is witnessing diminishing returns each cycle.
+But in the meantime, Cheds implies that Bitcoin may have already seen the bottom of its latest correction after reclaiming $61,500.
+“BTC decent volume cluster building on the four-hour chart… flip $61,500 and it gets interesting.”
+Source: Cheds/X
+Looking at the trader’s chart, he seems to suggest that Bitcoin looks bullish following a fakeout to the downside. The chart also shows a diagonal resistance at around $63,500.
+At time of writing, Bitcoin is trading for $63,438, a fractional increase in the past day.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
