@@ -1,557 +1,3 @@
-Shares Dip as BioNTech (BNTX) Reports Net Loss of €315.1 M in Q1 - Tokenist
-
-
-					
-Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
-
-
-
-BioNTech SE (BNTX) has recently disclosed its financial outcomes for the first quarter of 2024, providing a comprehensive overview of its current performance and future outlook. The quarter has been marked by significant advancements in the company’s pipeline, including the initiation of potentially registrational trials and the presentation of crucial clinical data. Despite these developments, BioNTech has reported first-quarter revenues of €187.6 million and a net loss of €315.1 million, with a loss per share of €1.31. This performance reflects the company’s ongoing investments in research and development, particularly in its innovative cancer vaccine candidates and COVID-19 vaccine adaptations.
-
-
-
-The company’s progress toward launching ten or more potentially registrational trials by the end of 2024 is noteworthy. The commencement of a Phase 3 clinical trial evaluating BNT323/DB-1303 in metastatic breast cancer patients and the planned start of another Phase 3 trial in recurrent endometrial cancer highlight BioNTech’s commitment to expanding its oncology portfolio.
-
-
-
-Additionally, the presentation of clinical data at major scientific meetings underscores the potential of its mRNA-based cancer vaccine platforms. These efforts and the continued development of a variant-adapted COVID-19 vaccine demonstrate BioNTech’s strategic focus on addressing unmet medical needs through innovation.
-
-
-
-BioNTech Falls Short of EPS and Revenue Forecasts in Q1
-
-
-
-Comparing BioNTech’s first-quarter performance against expectations reveals a mixed picture. Analysts had anticipated a loss per share of -€0.80 and revenue forecasts of €519.29 million for the quarter. The actual results, with a loss per share of €1.31 and revenues of €187.6 million, fell short of these expectations. This discrepancy underscores the challenges faced by the company, including the high costs associated with advancing its clinical programs and the unpredictable nature of drug development and commercialization. Despite these hurdles, BioNTech’s commitment to its research and development pipeline remains unwavering, as evidenced by its significant investments in potential breakthrough therapies.
-
-
-
-
-
-BioNTech Optimistic on its Development Pipeline
-
-
-
-Looking ahead, BioNTech has provided guidance that reflects its optimistic outlook on its development pipeline and commercial strategies. The company’s focus on advancing its registrational trials and preparing for the commercial launch of its variant-adapted COVID-19 vaccine in 2024 indicates a strategic approach to growth and market expansion. Moreover, BioNTech’s plans to share additional clinical data at upcoming scientific meetings suggest that the company is poised to reveal further insights into the efficacy and safety of its product candidates. This forward-looking perspective highlights BioNTech’s confidence in its ability to overcome current challenges and achieve long-term success.
-
-
-
-
-
-
-
-Disclaimer: The author does not hold or have a position in any securities discussed in the article.
-
-
-
-
-
-				
-
-				
-
-		
-			About the author
-		
-
-		
-		
-
-					
-				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
-			
-		
-	
-
-									
-				
-			
-
-----------------
-
-BNB Auto-Burn: Mechanisms and Impacts Explored
-
-The BNB token has an auto-burn system that reduces the token supply to an acceptable range. BNB auto-burn employs two coin-burning mechanisms. The first involves burning a portion of the BNB spent as gas fees on the BNB Chain. The second consists of BNB burning events held quarterly. 
-The percentage to be burnt will be calculated as the total number of BNB created in the period. The BNB auto-burn mechanism calculates the burn amount with the then-prevailing BNB price and the blocks created on the BNB Chain in a particular quarter. This mechanism enhances the transparency as well as predictability for the BNB community. 
-A supply of the BNB token is governed by a BNB auto-burn system, which is based on various coin-burning mechanisms. The BNB Auto-Burn mechanism calculates burn amounts using prevailing prices and blockchain data. BNB burns will occur through BEP-95, aiming to remove up to 100 million BNB from the market through real-time and quarterly auto-burn events, adjusting supply and demand dynamics. 
-What is a Coin Burn?
-In cryptocurrency projects, coin burns refer to the destruction of currencies to limit their supply and increase the value of remaining coins. They’re usually done quarterly or semi-annually and transfer the coins to a wallet requiring an unknown key, making them permanently unspendable. Binance plans to burn 100 million BNB coins every three months until the supply gets exhausted.
-Even though there are various ways of burning crypto coins, some projects fully integrate a self-destruction mechanism into their protocol. BNB had a burning smart contract feature for this coin that was hard-coded from its inception.
-
-Burning Crypto Simplified: Here Are The Top Factors You Need To Know
-
-Coin burns have now become more prevalent due to DeFi protocols. This coin burn followed Ethereum’s incorporation during the London hard fork in 2021, a mechanism of burning coins for its ETH base fee. It is a pre-condition before receiving coins to an address without private keys and does not have transaction capabilities.
-The Role of BNB in the Blockchain Ecosystem
-The Binance Coin BNB is another cryptocurrency falling within the category of native currency of the Binance ecosystem. As an ERC-20 token in the Ethereum blockchain, the BNB was initially launched in 2017, the total supply of which equaled 200 million. In 2019, Binance started swapping its mainnet as most tokens were transferred to BNB Chain, remaining in the old network.
-
-Web2 has been beneficial through most of our life, but web3 plays a significant role in the development of the future of internet.
-
-How is BNB Burned?
-BNB is the utility token for the BNB ecosystem, and they have been 200,000,000 from inception. However, this number has been gradually reducing through the constant burning of coins. The reduction in supply will keep reducing until half of the initial amount or less than 100,000,000 BNB.
-
-There are two distinct methodologies through which BNB can be burnt – first, the quarterly BNB burning event, and second, with the advent of BEP-95, some percentage of the BNB used as gas fees on the BNB Chain can become burnt.
-BEP-95
-BEP-95 is a BNB burning mechanism in real-time. Since the 2021 upgrade of the BNB Smart Chain, it has been observed that BEP-95 burns around 860 BNB daily, whereas some of the gas fees provided on the Binance Smart Chain (BSC) are burned.
-Binance CEO Changpeng Zhao introduced BEP-95 to speed up BNB burn, especially when it went slower than planned. BEP-95 ensures a continuous supply of BNB by burning some gas fees collected on all validators of each block. BEP-95, being closely related to the BSC network, will continue to move towards burning BNB even after getting the indicative burn target of 100 million for a while.
-Quarterly Auto-Burn
-The other strategy is the routine Binance quarterly burns, where a certain number of the BNB coins are removed from circulation via repurchasing. The first burn occurred in October 2017, with the burning of 986,000 BNBs.
-
-Binance Launchpool: Empowering Users for Successful Crypto Investment
-
-The pre-announced scheduled burns are conducted with the use of Binance revenues. Various variables such as total profitability, amount of the BNB contained in the circulation, and number of blocks generated over each quarter dictate the quantity of Binance coins burnt.
-What Is BNB Auto-Burn?
-When the price of BNB changes and supply/demand dynamics change, BNB Auto-Burn changes the burn quantity. A lower price of BNB causes a burn of more BNB. The system ensures transparency in processing payments, improving objectivity. Unlike the Quarterly burn, it runs independently on the Binance blockchain using on-chain data and BNB trading volume.
-BEP-95 continues burning BNB using a calculation based on on-chain statistics, such as total blocks generated and the average price of BNB, if the total circulating supply of BNB drops below 100 million.
-
-B stands for the BNB to burn. N is the total number of blocks produced during the quarter. P is the average price of BNB, and K is a constant price anchor first set at 1000.
-What is the BNB Pioneer Burn Program?
-In 2020, Binance introduced the BNB Pioneer Burn Program to assist users who unintentionally lost their BNB funds. Under this program, users who meet certain criteria can claim their lost BNB and get an auto-burned amount.  And here’s that criterion:
-
-Tokens that were wrapped (for example, WBNB) or pegged (for example, BTCB) and supported by the Binance “Token Canal” Project were lost.
-
-
-Tokens were transferred to verified BEP20 contract addresses found on bscscan.com. These losses can then be publicly confirmed as taking the asset permanently out of circulation.
-
-
-Tokens were lost due to a quinine error valued over $1,000, less than the projected BNB Auto-Burn amount in the coming quarter.
-
-These recognized tokens would be otherwise burned in the quarterly auto-burn and distributed to qualified applications. So, the lost tokens will then be dropped into that quarter’s burn.
-How Does BNB Auto-Burn Work?
-BNB auto-burn utilizes on-chain information provided by the BNB Smart Chain to calculate the amount the BNB should burn. This process also ensures “adjusting” the amount of burnt fuel. The supply and demand dynamics also influenced the amount burned, where a decrease in the price of BNB reduces the burn rate. Coin burns increase the value of a given cryptocurrency.
-BNB auto-burn is considered independent of Binance BNB trading volume to ensure that the whole process is verifiable, objective, and transparent in the view of the entire BNB community. The goal is to keep the auto-burn running until it reaches 100 million. As already discussed, the formula to calculate the total amount of BNB to burn is B=N*1000.
-B in the above formula represents the total amount of BNB to burn, and N implies the number of blocks produced in every quarter on the BNB Smart Chain. Taking the average block time to be 3 seconds translates to the total number of blocks produced in an hour being 1,200 blocks. Plugging this into a standard calculation, N would approximately be 2,592,000 and may change depending on how many days there are in a given month during a given quarter.
-P denotes the average price of BNB. The sampling median value depends on the accepted oracle provider, ChainLink, for BSC, with daily fluctuation of average prices between 10% to 20%.
-
-Easy Guide on How to Create, Buy, and Sell Bitcoin NFTs
-
-K is the anchoring constant price beginning at 1000. Its value constantly changes, so it mostly relies on the BNB Smart Chain community. Members may alter it by making a BEP proposal and voting in a community.
-How Can I View the BNB Auto-Burn History?
-So what is the count of burnt numbers history so far of BNB? Total BNB burnt to date is 50,302,027.74 BNB. This amounts to $11,795,484.75. You can also keep tabs on present values and information about the events of BNB burning in real-time.
-The last Q3 2023 BNB Burn case burned 2,139,182.98 BNB (or $501,617,017.54) via auto-burn. It is expected that during Q4 of 2023, the expected BNB burn may be 2,150,241.18 ($490,558,818.468). 
-Binance CEO Changpeng Zhao typically announces BNB burn dates on Twitter, so keep an eye on that feed for information about the next auto burn.
-Conclusion
-The BNB auto-burn system entails new mechanisms in reducing the supply of tokens and at the same value raise the price of the token like BEP-95 real-time burning and quarterly auto-burn events. This depicts a new transparent path with full community involvement led by the legendary CEO, Changpeng Zhao of Binance.
-The BNB auto-burn system is formula-driven and uses on-chain data to ensure correctness and make it dynamic to the market conditions. The path to 100 million then emerges as a transparent and community-driven process that helps long-term trust building for viability and value appreciation of the BNB ecosystem with more than 50 million BNB already burned. Stay tuned for the announcements of the burn dates by Changpeng Zhao in his Twitter feed, as well as details of how the team is working towards enhancing the auto-burn experience for BNB holders.
-
-
-
-----------------
-
-DOGE Fan Billionaire Mark Cuban Responds to Dogecoin Founder's Confession on X
-
-
-Billionaire, investor and cohost of the Shark Tank show Mark Cuban has responded to a tweet by Dogecoin cofounder Billy Markus about his major activity on the X social media platform.Markus created the original meme cryptocurrency, Dogecoin, 11 years ago – in 2013. Cuban happens to be one of the top-tier Dogecoin fans. He used to be the principal owner of the Mavericks basketball team, which accepted DOGE for tickets and merchandise. However, in November last year, Cuban sold almost all his stake in the team and now owns only 27% of it for more than $3 billion.In January, during an AMA (“ask me anything”) session on X, Cuban assured that the Mavericks still accept DOGE. The team has been accepting Dogecoin as payment since 2021, being the first ever sports team to accept crypto.Cuban offers supporting hand to DOGE founderA few years prior to that, Cuban was a vocal cryptocurrency critic, who stated that buying bananas makes more sense than buying Bitcoin – at least one can eat the bananas. However, recently, he has been not only a big fan of DOGE but also of Bitcoin, Ethereum and several other top cryptos.Cuban has responded to a recent “confession” by the Dogecoin founder. Billy Markus shared his position on s-posting and complaining on social media, making sort of a confession on that point.Mark Cuban supported Markus, and they both agreed that “positive trolling” is “never silly.” Markus comments on "big announcement for DOGE"As reported by U.Today, Markus was asked about the timing of when he plans to make a “big announcement for DOGE.” The Dogecoin cofounder responded, saying that he does not plan to make any such announcements.He reminded the X user that he had withdrawn from the Dogecoin project more than 10 years ago; both he and Jackson Palmer did that almost immediately after the meme coin was launched.Initially, DOGE was created as a parody of Bitcoin (based on the BTC code), as an alternative cryptocurrency based on the meme dog Kabosu and not at all a serious competitor to Bitcoin.Markus still holds a tiny DOGE stash and very little Bitcoin, as he tweeted at the start of the year.
-
-
-
-----------------
-
-First Bitcoin-backed synthetic dollar to launch with 25% yield
-
-Hermetica has announced the launch of the first-ever Bitcoin-backed synthetic United States dollar with yield-generating capabilities in the latest development for Bitcoin-native decentralized finance (DeFi).Slated for release in June, the new synthetic dollar, USDh, will offer users yields of up to 25%, according to Hermetica’s announcement shared with Cointelegraph.The new synthetic dollar will enable Bitcoiners to hold and earn yield on their U.S. dollars without the need to trust the banking system or gain exposure to non-Bitcoin-related products, according to Jakob Schillinger, founder and CEO of Hermetica Labs.Schillinger told Cointelegraph:“USDh will play a pivotal role in bringing increased liquidity and new use-cases to Bitcoin DeFi, allowing Bitcoiners to trade, lend, and transact in a dollar asset that is fully backed by Bitcoin.”Hermetica is a Stacks-native DeFi protocol on Bitcoin and part of a wider movement known as Bitcoin DeFi (BTCFi), which aims to bring DeFi capabilities to the world’s first blockchain network.Related: ‘Mr. 100’ buys the Bitcoin dip for the first time since halving — Is the BTC bottom in?Is 25% yield sustainable in the long term?The launch of the first Bitcoin (BTC)-backed synthetic dollar comes two months after Ethena’s USDe launched with a 27.6% yield for holders, creating widespread concerns about the protocol’s sustainability.Similar concerns could arise for Hermetica’s USDh, as the 25% annual percentage yield (APY) is considerably higher than the 20% yield offered by Anchor Protocol on TerraUSD (UST) before the algorithmic stablecoin issuer Terra collapsed in May 2022.According to Hermetica’s CEO, the yield is sustainable and derived from futures funding rates. Schillinger explained:“This Bitcoin-native yield fluctuates with the market’s demand for long leverage. Our backtest data from January 2021 to March 2024 shows an average APY of 11.71%. In the 2022 bull market, the annual return was 26.11%.”Schillinger added that the demand for Bitcoin futures will keep USDh yield sustainable:“The yield is sustainable due to the structural demand for long leverage in the Bitcoin futures markets.”Increasingly, more protocols are building more utility and DeFi capabilities around Bitcoin, the world’s most secure blockchain network. Schillinger believes that the introduction of Ordinals was among the most important catalysts for BTCFi. He said:“We believe Bitcoin DeFi will match and eclipse the size of Ethereum DeFi in the next 5 years. We're already seeing months where Ordinals trading volumes are higher than volumes for Ethereum and Solana NFTs combined. With over $1T in latent BTC capital, Bitcoin DeFi is primed for explosive growth.”Related: Biggest Friend.tech whale dumps tokens as users struggle to claim airdrop
-
-
-
-----------------
-
-Mango Markets DAO buyback plan leads to accusations of ‘self-dealing’
-
-An April 7 plan to buy back tokens at a premium to market price has led to controversy within the governing body of decentralized finance protocol Mango Markets. Some community members claimed that the buyback was orchestrated to benefit the buyer of the FTX estate’s stash of MNGO tokens. These tokens were transferred from FTX to an anonymous account only a few days before the plan was proposed, implying that they may have been purchased as part of an over-the-counter deal.Critics of the plan accused its originator, DonDuala, of being connected to the FTX buyer. DonDuala did not comment on this accusation within the Discord forum. Other members supported the plan, claiming it made sense for the organization to purchase MNGO tokens even if it benefited the mysterious FTX estate buyer. Supporters contended that the MNGO token is underpriced in the market and, therefore, should be repurchased as a way of distributing profits to investors. An amended version of the buyback plan was approved on April 24. Mango Markets is a Web3 app that allows crypto users to borrow and lend out various cryptocurrencies. It runs on the Solana network and is governed by MNGO tokenholders, who collectively form its governing body, the decentralized autonomous organization Mango DAO. The protocol was exploited for $116 million via a flash loan attack in October 2022, and its token price is down by more than 25% over its preexploit value, according to data from CoinMarketCap.Don Duala makes a token buyback proposalOn April 7, Mango DAO member DonDuala posted a proposal to its forum on Discord. DonDuala suggested that the DAO should buy back 275 million MNGO from its current holders, thereby reducing the token’s circulating supply. In exchange, the DAO should offer holders 9.995 million of the Dai (DAI) stablecoin derivative CHAI, valued at approximately $10.7 million. This implied a buyback price of $0.032 per MNGO token. The price of MNGO on April 7 was $0.02324, according to CoinMarketCap, over 27% less than the implied buyback price.Mango DAO buyback proposal. Source: Mango Markets, DiscordTo facilitate this exchange, the DAO would issue options tokens that could be exercised by individual holders. To prevent the tokens from being distributed to exchanges and other automated systems, only accounts that participated in the proposal’s vote would receive the options.Community discovers mysterious FTX “buyer”On April 11, DAO member Donderper discovered that a mysterious account had received MNGO from the estate of bankrupt crypto exchange FTX, and that this account was now using these tokens to vote in favor of the buyback proposal. “Holy shit,” Donderper exclaimed. “Did FTX estate just enter the chat?” They posted a screenshot reportedly showing the account voting in favor of the proposal. At the time, it represented 6.67% of the total votes cast. Donderper notices FTX buyer vote. Source: Mango Markets, DiscordDonderper suggested that the actions of this account were “shady,” stating: “[A] week before this proposal starts being talked about FTX estate starts transferring out all 333 million of its tokens into an account that gets used in this vote.” They speculated that “someone cut a deal with FTX for to buy their mngo for [$0.01]” and then made a proposal to have the DAO buy it back for $0.038. They claimed that the account may be poised to make $2 million in net profit by selling half of its coins. Donderper did not post any evidence of the price at which the alleged over-the-counter trade took place. Blockchain data shows only that a known FTX account transferred the tokens to a different account.Some community members began to imply that DonDuala and another DAO member, Maximilian, may be affiliated with the FTX-related account. “Wow, this is super shady. @DonDuala / @Maximilian,” one member stated, asking, “Are you aware who controls this account?” Another member responded, “They 100% know,” calling the transfer “a backdoor deal.”Comment from Mango DAO participants. Source: Mango markets, DiscordIn a post later that day, DonDuala sidestepped the question of whether they were affiliated with the FTX buyer and instead responded to criticism of the proposal. DonDuala stated that the focus on the FTX buyer seemed to be a distraction from the core issue at stake in the proposal. “Understandably there’s a lot of dislike for FTX and the way the estate handled the liquidation proceedings,” they stated, “but today’s uproar in response to those tokens voting seem misplaced.” DonDuala argued that the proposal should pass because it represented support for “market efficiency.” They stated, “No votes are a vote against market efficiency, yes votes defend the token while preserving optionality that the DAO continues on its best footing.”Related: Mango Markets hires representative to handle US regulatory scrutinyThe proposal fails and is resurrectedOn April 12, the initial proposal was voted down, with 52.3% of tokens being used to vote against it. DonDuala then resubmitted the proposal with amendments. In the new version, the DAO would buy back only 156 million MNGO, slightly more than half of what the original proposal had suggested. In addition, options would be distributed to all users who had deposited into Mango DAO’s Realm governance system, regardless of whether they participated in the vote for this particular proposal.On April 20, Mango Markets co-founder Daffy Durairaj posted a lengthy argument against the new proposal’s passage. Durairaj claimed that DonDuala and Maximilian were being “completely mercenary” and were “willing to say and do whatever in order to improve their financial position.” Through private conversations, Durairaj had learned that “there is a large amount of money at stake and they don’t intend to negotiate.” He claimed that the two of them were engaged in “untrustworthy behavior and self-dealing” and that “these behaviors are by themselves reasons to vote against this proposal.”Durairaj suggested that the DAO could support the token price through other means once the proposal was defeated but argued that this particular buyback proposal should not be accepted.Daffy Durairaj’s comment on the buyback plan. Source: Mango Markets, DiscordThe amended proposal passesOn April 21, Duala formally posted the new version of the proposal to the Realms voting system. On April 24, it passed, with over 67.9% of tokens being used to vote in favor of it.Second buyback proposal passes. Source: Mango DAO on RealmsOn April 30, Duala announced that 46.67% of the options had been exercised, resulting in the DAO buying back approximately 73 million MNGO for 2.3 million CHAI.Results of buyback, as reported by DonDuala. Source: Mango Markets, DiscordThe same day, DonDuala stated that they would make a new proposal to spend one-eighth of the DAO’s treasury in May to buy back additional MNGO at a price of 5% below the estimated book value.In response to the buyback, some members took to social media to complain. “Mango DAO is COOKED,” X user Kevin stated, adding that “some shady actors made a buyback proposal that [...] soft rugs passive token holders.” After this proposal failed, “they came back with cosmetic changes and voted it through.”X user Frank Ronson pushed back against this claim, asking rhetorically, “What’s wrong with exiting at book value?” Ronson claimed that people “shouldn’t be held captive to a protocol that won’t buy back to match book value.” When a company’s market cap falls below its book value, investors sometimes buy up its shares, take control of the company and liquidate it. Investopedia refers to these investors as “corporate raiders.” According to the Cornell Law School’s Legal Information Institute, corporate raiding is legal in the United States, but poison pill and regulatory taxes often make the raids unprofitable.Related: AAVE DAO debates reimbursement plan for AMPL depositorsOn April 18, Avrham Eisenberg was found guilty of fraud for carrying out the Mango Markets exploit. His sentencing is scheduled for July 29. On April 26, court documents revealed that he was also charged with possession of child pornography.
-
-----------------
-
-Solv Protocol Partners With Babylon to Bridge Native Restaking Yields on SolvBTC
-
-
-							
-
-Colin Wu has highlighted the impressive growth of SolvBTC.
-
-
-
-SolvBTC has attracted more than 12,000 BTC in Arbitrum, BNB Chain, and Merlin Chain.
-
-
-
-Solv Protocol partnered with Babylon to bridge native restaking yields on SolvBTC.
-
-
-
-
-Foremost Chinese blockchain and crypto reporter Colin Wu has highlighted the impressive growth of SolvBTC, a Bitcoin-based cryptocurrency protocol. In a recent post on X, Wu described SolvBTC as a Bitcoin ecosystem liquidity center invested by Binance. 
-
-
-
-
-
-
-
-Citing the protocol’s growth and development, Wu noted that SolvBTC has attracted more than 12,000 BTC in Arbitrum, BNB Chain, and Merlin Chain. According to the renowned journalist, with a total value locked (TVL) of more than $800 million, Solv has signified its intention to connect to more BTC income sources soon.
-
-
-
-Wu spotted Babylon’s restaking income as one of the BTC income sources identified by Solv for potential integration. He noted that the number of networks supporting SolvBTC bridging is increasing, citing networks like zkSync and Linea.
-
-
-
-Wu’s report comes after Solv Protocol announced a recent partnership with Babylon. In a post on X, the liquidity center noted that connecting with Babylon will enable it to bridge native BTC restaking yields on SolvBTC. 
-
-
-
-
-
-
-
-
-
-According to the protocol, integrating with Babylon will enable SolvBTC to support the security of Proof-of-Stake (PoS) chains, roll-ups, and Active Validated Services (AVS). It will also help to unlock the use cases for the considerable idle liquidity of Bitcoin.
-
-
-
-In a Medium post, Solv Protocol noted that as a native yield platform, Solv utilizes SolvBTC to establish an inclusive and dynamic BTCFi ecosystem. It further highlighted that Solv would serve as a yield tokenization layer by tokenizing staking, restaking, and DeFi trading yields into SolvBTC. Furthermore, the protocol noted that the integration with Babylon would bring Bitcoin’s liquidity into various DeFi protocols, sparking the growth of a thriving BTCFi economy.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Robinhood crypto business slapped with SEC Wells Notice
-
-The United States Securities and Exchange Commission (SEC) has issued a Wells Notice to the popular trading platform Robinhood.Following the news of the Wells Notice, Robinhood (HOOD) share price fell 2.5% in pre-market trading, to $17.95 as of 12:50 pm UTC. The Wells Notice was issued on May 4, according to court filings.The Wells Notice is a letter sent from the securities regulator that concludes the conclusion of its investigation over the respondent, in this case, Robinhood’s United States-based crypto business.According to the filing, the SEC has been investigating Robinhood’s cryptocurrency listings, crypto custodian operations and made the “preliminary determination” to recommend that the SEC file an enforcement action related to alleged securities violations.The news of the investigation comes despite Robinhood’s attempts to register with the United States securities watchdog, according to Dan Gallagher, chief legal, compliance, and corporate affairs officer at Robinhood Markets.Gallagher wrote in a May 6 blog post:“After years of good faith attempts to work with the SEC for regulatory clarity including our well-known attempt to ‘come in and register,’ we are disappointed that the agency has decided to issue a Wells Notice related to our U.S. crypto business.”Gallagher added that Robinhood doesn’t see any of its listed assets as securities:“We firmly believe that the assets listed on our platform are not securities and we look forward to engaging with the SEC to make clear just how weak any case against Robinhood Crypto would be on both the facts and the law.”Related: FTX addresses transferred $8.3M one day before amended proposal deadlineCrypto regulatory landscape is akin to equities regulations in 1932Robinhood has been striving to avoid securities violations. As part of its efforts, it previously chose not to list certain tokens or provide crypto lending and staking services that the SEC has previously alleged to be securities offering during lawsuits against other platforms.However, Robinhood’s chief compliance officer noted that the lack of federal regulatory clarity created an uneven playing field for market participants, making regulatory compliance difficult and hindering mainstream crypto adoption.In a June 6 court testimony, Gallagher, who previously served as an SEC commissioner from 2011 to 2015, said:“Unfortunately, Robinhood and other digital asset market participants in the U.S. face a patchwork of state regulatory frameworks, not all of which are consistent, as well as a lack of regulatory clarity at the federal level. In many ways, the regulatory landscape for digital assets is like it was for the equities markets in 1932.”The SEC and the Commodity Futures Trading Commission (CFTC) have yet to issue clear guidelines on what they deem as securities and commodities in relation to digital assets.Related: Bitcoin enters ‘new era’ as whales scoop up over 47K BTC during price pullback
-
-----------------
-
-Cardano Hits 90 Million Transactions in Major Milestone as Network Upgrades Loom
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Cardano (ADA) has reached a significant milestone, recording a staggering 90 million transactions on its network. This achievement comes at a pivotal moment for Cardano as it prepares to implement game-changing upgrades.Cardano, often hailed for its robust and research-driven approach to blockchain development, has steadily gained traction within the cryptocurrency community since its inception. The achievement of 90 million transactions serves as a testament to Cardano's growing adoption and utility, highlighting its ability to support a diverse range of use cases and transaction types.As Cardano continues to expand its reach and capabilities, the timing of this milestone is particularly significant, coinciding with the imminent rollout of network upgrades that promise to unlock new levels of innovation and functionality. One of the most anticipated upgrades is the Ouroboros Genesis, which will be deployed as part of the Chang upgrade, which is expected to take place this summer. This enables nodes to self-bootstrap from the Cardano network. According to Input Output Global (IOG), the next and final waypoint on the path to full P2P node operations is expected to arrive with the Ouroboros Genesis release.Other upgrades, including that to Plutus, the smart contract platform of the Cardano blockchain, might as well be in the offing. Rick McCracken DIGI, a Caradano SPO, outlined some Cardano Plutus V3 capabilities coming in 2024, which include increased performance and throughput, efficient smart contract size, smart contract migration from Ethereum, creation of side chain bridges and Mithril integration and governance-related script execution. With these network upgrades on the horizon, Cardano is poised to enter a new era of innovation and growth, driving further adoption and value creation for its ecosystem and community.
-
-
-
-----------------
-
-Solana Doggy (SOLDOGGY) Will Rally 6,000% After Solana Launch, as Shiba Inu and Dogecoin Lag
-
-
-
-                    
-
-Solana Doggy (SOLDOGGY) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Solana Doggy (SOLDOGGY), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Solana Doggy presents a similar opportunity.
-
-
-
-Solana Doggy has a market cap around $13,000 at the moment, meaning that when it just reaches a modest market cap of $200,000-$500,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
-
-
-
-The exciting memecoin is poised to rally 6,000% in the coming two days, and Solana Doggy could potentially reach a multi-million dollar market cap within a few weeks.
-
-
-
-
-Currently, Solana Doggy can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-To buy Solana Doggy on these platforms, users need to connect their Solflare, MetaMask, or Phantom wallet, and swap Solana for Solana Doggy by entering its contract address – 3f3XRScU3PnaXvsZ4ZGjxDa15SmbhWeMLxHmSyNngaAE – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE), and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE, and WIF investors are instead investing in new Solana memecoins, like SOLDOGGY.
-
-
-                
-
-                
-
-----------------
-
-JUST IN! SEC Sent Wells Notice to Robinhood, Bitcoin Declined! - Bitcoin Sistemi
-
-According to Reuters, the SEC sent a “Wells Notice” to the cryptocurrency platform Robinhood.
-Robinhood Crypto, the cryptocurrency arm of Robinhood Markets, said it received a Wells Notice from the U.S. Securities and Exchange Commission (SEC) on May 4.
-
-
-Accordingly, the SEC is investigating Robinhood's cryptocurrency listings and crypto custody operations, alleging that they violate the Securities Exchange Act.
-Commenting on the Wells Notice, Robinhood said, “It is disappointing that the SEC has decided to issue a Wells notice regarding our crypto business in the United States.” said.
-
-
-
-
-
-
-
-The Wells Notice is known as a warning that the SEC may file a lawsuit.
-
-
-Following the news, Bitcoin fell below $64,000.
-
-
-
-
-
-
-Robinhood delisted altcoins such as Polygon (MATIC), Solana (SOL), Cardano (ADA) after the SEC filed a lawsuit against Binance and Coinbase in June 2023.
-Currently Robinhood, Aave (AAVE), Avalanche (AVAX,) Bitcoin (BTC), Bitcoin Cash (BCH), Chainlink (LINK), Compound (COMP), Dogecoin (DOGE), Ethereum (ETH), Ethereum Classic (ETC) It offers trading for 15 cryptocurrencies, including Litecoin (LTC), Shiba Inu (SHIB), Stellar (XLM), Tezos (XTZ), Uniswap (UNI) and USD Coin (USDC).
-*This is not investment advice.
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-No bull market for the price of Bitcoin?
-
-Today the price of Bitcoin briefly returned above $65,000, but according to several analysts there are no signs indicating the beginning of a new bull market in the short term. 
-Last week it had dropped below $57,000 for a brief moment, only to rise back above $58,000 in less than 24 hours, and above $60,000 in less than 48. 
-On Friday, the price of Bitcoin had managed to rise above $63,000, and the following day above $64,000. 
-However, this +13% in a few days does not seem to be enough at all to suggest a return of the bull market.
-
-The period of consolidation
-After reaching an all-time high on March 14th at $73,800, the price of Bitcoin went through three subsequent drops. 
-To be honest, after the first drop to $61,000 in the second half of March, BTC had managed to rise back above $70,000, but only until the second drop, which occurred in mid-April. Since then, it has not been able to rise above $70,000 again, and in fact has struggled to rise above $67,000.
-The third drop, which occurred several days after the halving on April 20, seems to have ended on May 1 just below $57,000, but the return to $65,000 does not seem sufficient to affirm that the post-halving retracement is over. 
-However, below $59,000 there seems to be a strong resistance platform that extends up to $57,000, so much so that there are several analysts who believe that the price of Bitcoin is unlikely to fall below these values, if not for a very short time.
-So in case this platform holds, it is possible that on March 15th a long period of sideways movement has been triggered that could last for many more weeks. 
-Bitcoin Price: Bitget’s analysis on the possibility of a bull market?
-According to analyst Ryan Lee of Bitget, it is likely that the price of Bitcoin will fluctuate between $58,000 and $72,000 for another one or two months.
-It is worth noting that before jumping for the first time in its history above $70,000 in March 2024, the price of Bitcoin had traded sideways for a few weeks just above $50,000 in February.
-In fact, some analysts expect a possible return to a range between $50,000 and $53,000, but to do so, the platform formed in the last two months below $59,000 would need to be broken.
-Lee also points out that the implied volatility of BTC and ETH has significantly decreased in the last month, indicating that traders do not expect a significant increase in volatility in the short term market. 
-Even the outflows that occurred in the last two weeks on Bitcoin ETFs indicate a situation that does not seem to be ready for the start of a new bull run, as they clearly indicate short-term profit-taking.
-However, at least GBTC has recorded its first net inflow since becoming an ETF, so it is not surprising that short-term selling pressure on the market has temporarily eased.
-For Lee, it is also quite clear that there is support for the price of Bitcoin at lower levels than the current one.
-The situation on the markets
-Lee also points out that the Fed’s Net Liquidity Index has started to decrease, and that the growth of stablecoin market capitalization overall has slowed down. 
-These data confirm the correction of the crypto market in the last month, but there are other data suggesting that the situation could change in the medium term.
-According to Lee, the Fed is already considering a path of interest rate cuts, judging by the results of the rate meeting where the downward trend in inflation, the increase in the unemployment rate to 4.5%, and the risks related to liquidity were discussed. 
-Currently the market seems to consider only one interest rate cut by the Fed this year, but the crypto market could also anticipate in advance a possible early and broader interest rate cut starting from September or November of this year. 
-In light of this, Lee argues that the next peak of the Bitcoin bull market will be around September.
-The main sectors that could undergo significant changes are the BTC ecosystem (new protocols and assets like Rune, ARC20, BTC layer 2), memecoins, and the AI sector.
-The trend for the price of Bitcoin in the coming months: bull-market on the way?
-So, basically, it seems unlikely that the price of Bitcoin can reach new highs in May, and perhaps even in June, but it could also manage to stay within a range above $57,000 or $58,000.
-This also implies that from the $65,000 touched today, a new price drop of perhaps more than 10% could be triggered, with the possibility of going even further, although it appears unlikely. 
-However, the scenario changes as we move away from May and approach September, with a return of the possibilities of reaching new highs. 
-
-----------------
-
-Elon Musk Will Likely Remain Tesla CEO, and Tweet Non-Stop: Prediction Markets
-
-Now, Tesla faces an existential threat. Sales and profits are falling, competition is increasing, particularly from China, and drastic cost-cutting measures include staff reductions and simplified car builds. As Tesla struggles with market pressures, leadership and strategic challenges persist, raising concerns about the company's direction and stability.
-
-----------------
-
-Tom Brady Wasn't Laughing at Crypto Jokes During Netflix Roast
-
-
-In an event designed to be filled with laughter and light-hearted jabs, NFL legend Tom Brady found himself at the center of a Netflix roast that hit a bit too close to home. 
-The comedy special, “The Greatest Roast of All Time,” saw Brady facing sharp barbs from comedians, including Nikki Glaser. However, one particular joke about his financial losses in cryptocurrency visibly unsettled the seven-time Super Bowl champion.
-Tom Brady’s Reaction to Crypto Jokes
-During the event at the Los Angeles Forum, Glaser poked fun at Brady’s ill-fated investments in crypto, particularly his association with the now-defunct crypto company FTX. 
-
-“Tom also lost 30 million dollars in crypto… Tom, how did you fall for that? Even Gronk said, ‘I know that’s not real money,'” Glaser quipped. 
-
-
-This remark, which referenced Brady’s former teammate Rob Gronkowski, was met with mixed reactions from the audience.
-
-
-Tom Brady’s connection to FTX goes deeper than just bad investment choices. He served as an ambassador for the company and, alongside his then-wife, Gisele Bundchen, received substantial stock as compensation for promoting FTX. 
-Brady and Bundchen are now facing legal challenges, as they and other celebrity endorsers are being sued by FTX investors seeking repayment after the company’s collapse.
-FTX, once a behemoth in the crypto market with a valuation of $32 billion, filed for bankruptcy in November last year, rendering its stock, including the $48 million held by Brady and Bundchen, worthless. The downfall of FTX also brought legal troubles for its CEO, Sam Bankman-Fried, who faces federal fraud charges.
-Read more: FTX Collapse Explained: How Sam Bankman-Fried’s Empire Fell
-The roast, intended as a playful tribute to one of football’s greatest players, inadvertently underscored the real-life drama and financial turmoil Brady faces. Despite his achievements on the field, his off-field financial decisions have brought a significant share of scrutiny and stress, as reflected in the night’s uneasy laughter. 
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
-
-
-
-
-----------------
-
-Binance Futures Set To Delist 5 Perpetual Contract Pairs Next Week
-
-
-							
-
-Binance Futures announces the delisting of several USDT perpetual contracts.
-
-
-
-The affected pairs include STPTUSDT, SNTUSDT, MBLUSDT, RADUSDT, and CVXUSDT.
-
-
-
-STPTUSDT, SNTUSDT, MBLUSDT, RADUSDT, and CVXUSDT react after the delisting announcement.
-
-
-
-
-According to a recent announcement, Binance Futures will delist and update the leverage and margin tiers of several USDT perpetual contracts. Based on its recent publication, the leading crypto exchange noted that the affected pairs include STPTUSDT, SNTUSDT, MBLUSDT, RADUSDT, and CVXUSDT.
-
-
-
-Binance informed users on its platform that the delisting exercise will happen between May 13 and 14, 2024. According to its post, Binance Futures will close all positions and conduct an automatic settlement on STPTUSDT, SNTUSDT, and MBLUSDT on May 13. The following day, it would execute the same process for the RADUSDT and the CVXUSDT perpetual contracts.
-
-
-
-The exchange further noted that it will implement the final delisting of the affected pairs after it has completed the settlements. However, Binance Futures noted it would adjust the leverage and margin tiers of affected contracts before the final delisting exercise. Hence, it advised users to adjust their positions and leverage ahead of the adjustment to avoid the risk of liquidation.
-
-
-
-
-
-
-
-
-
-Following the announcement, STPTUSDT dropped by 7.24% over a few hours. The contract’s price moved from $0.5950 to $0.5516 in the early hours of Monday before attempting a recovery. STPTUSDT traded for $0.5716 at the time of writing, according to data from TradingView.
-
-
-
-The announcement’s impact was reflected in the other affected contracts. Most of them experienced immediate price pullbacks. SNTUSDT dropped by 6.51% shortly after the announcement, and MBLUSDT lost 6.26% during the same period.
-
-
-
-Other affected include RADUSDT, which only dropped by 1.80% before recovering to be trading in profit as of the time of writing, and CVXUSDT, which experienced a 4.70% pullback and was attempting a recovery at the time of writing.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Nasdaq-listed Tiger Brokers rolls out online crypto trading to Hong Kong
-
-Hong Kong continues to welcome new avenues for investors to trade cryptocurrencies as Nasdaq-listed Tiger Brokers rolls out cryptocurrency support on its Tiger Trade mobile and desktop app. According to an announcement shared with Cointelegraph, professional investors can access 18 cryptocurrencies including Bitcoin (BTC) and Ether (ETH), alongside stocks, options, futures, U.S. Treasury bonds, and other global assets.Tiger Brokers, which has been listed on the Nasdaq since 2019, partnered with HashKey Exchange to offer professional investors access to cryptocurrency trading. The facility will initially be available to professional investors in Hong Kong. This includes residents with an investment portfolio valued above 8 million Hong Kong dollars  ($1 million) and corporate entities with assets exceeding 40 million Hong Kong dollars ($5 million). The firm plans to extend its cryptocurrency trading services to regular retail investors, which requires regulatory approval. Tiger Brokers also noted that it is considering adding cryptocurrency spot withdrawals and deposits. Don’t forget Bitcoin ETFsInvestors looking for direct and indirect exposure to cryptocurrencies can also tap into Bitcoin spot exchange-traded funds through the platform.Tiger Brokers added that trading of U.S.-listed Bitcoin ETFs and recently launched Hong Kong spot Bitcoin and Ether ETFs is also available on Tiger Trade. Related: Hong Kong Bitcoin and Ether ETFs have tough debut on first-day tradingThis provides another avenue for investors to gain access to these ETFs, which have had varying degrees of success since their respective launches in the U.S. and Hong Kong.ETFs finally hit Hong Kong markets on April 30, but first-day trading volumes of $12 million paled compared to the $4.6 billion in trading volume that the U.S. spot Bitcoin ETFs recorded in Jan. 2024.Mainland China awaits?Nevertheless Hong Kong’s spot Bitcoin and Ether eETFs attracted more than $200 million in total assets on their debut. According to data provided by Arkham Intelligence, the Bosera HashKey spot Bitcoin and Ether ETFs have accumulated 964 Bitcoin, totaling $71.94 million in assets under management. Meanwhile, Eric Balchunas, senior ETF analyst at Bloomberg, revealed that spot Bitcoin and Ether ETFs created by ChinaAMC amassed $123.61 million in combined assets on April 30.Hong Kong's Bitcoin and Ether ETFs have continued to add to their assets under management. Source: HKEXThere have also been murmurs of potential access to Hong Kong’s Bitcoin and Ether ETFs in mainland China, according to industry experts in Asia. As Cointelegraph previously reported, SyzCapital managing partner and BTC investor Richard Byworth has suggested that these Hong Kong-based crypto ETFs could be linked to the Shenzhen-Hong Kong Stock Connect, aThe cross-border investment infrastructure connects the Shenzhen Stock Exchange and the Hong Kong Stock Exchange, allowing investors, brokers and clearing houses to trade shares across these two markets. Magazine: Meme coins: Betrayal of crypto’s ideals… or its true purpose?
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Bitcoin At A Reversal Point? Trader Sees These 3 'Key Areas Of Interest' - Benzinga
-
-Crypto analyst and trader Stoic shared insights on Bitcoin’s BTC/USD potential trajectory, highlighting key areas to watch in the coming week.What Happened: Stoicnoted that the current low volume weekend and weakening momentum around the shifted Point of Control (PoC) at $64,000 could indicate a potential sweep of the value area low in the low $60,000 range if strength doesn’t pick up.He also mentioned the possibility of Bitcoin forming a low for the week on Monday, followed by a reversal targeting the $67,000 level after breaking through $64,000. Stoic identified the current range as an "odd triple distribution," with key areas of interest at approximately $64,000, $67,000, and $70,000.Price Action: At the time of writing, BTC was trading at $64,180, up 0.5% over the past 24 hours.Also Read: Bitcoin Hits One Billion Transactions Amid Weekend Rebound 15 Years After Satoshi Nakamoto Created It — But Was It Faster Than Ethereum?Why It Matters: Stoic's emphasis on the low volume and weakening momentum highlights the importance of considering market context when analyzing short-term price action. His odd triple distribution pattern provides a roadmap for potential price action in the coming week.However, caution should be maintained as lack of strength at current levels could pull prices down to $60,000.By identifying key support and resistance levels, as well as potential scenarios based on market conditions, Stoic’s tweet helps market participants make more informed decisions.What’s Next: The influence of Bitcoin as an institutional asset class is expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: Despite Bitcoin Hitting $64K, Analyst Says King Crypto Remains In ‘Prime Buy Zone’This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.Image created using artificial intelligence with Midjourney.
-
-----------------
-
-82 Million Shiba Inu Burned: Can Price Surge 24%?
-
-
-Over 82.14 million Shiba Inu (SHIB) tokens have been burned, resulting in an extraordinary 4,111.57% increase in the burn rate over the past 24 hours. 
-Shibburn, the dedicated Shiba Inu burn tracker, monitored the development. 
-Can Shiba Inu Price Surge 24%?
-The process of burning these tokens involves permanently removing them from circulation by transferring them to a dead wallet. This method is strategically designed to decrease the overall supply of SHIB, thereby increasing its scarcity and potential market value. 
-Following this recent burn, the total number of SHIB tokens destroyed has climbed to over 410 trillion, with roughly 589 million SHIB remaining in active circulation.
-
-Read more: Shiba Inu Burn Rate Explained: Understanding Token Burning
-Shiba Inu Burn Rate. Source: Shibburn
-Despite the substantial volume of tokens burned, the immediate price impact on SHIB has been minimal. The 82 million SHIB destroyed in this latest event is approximately worth $2,035, which is relatively small and, therefore, not sufficient to trigger a significant price surge for the token.
-Nevertheless, the sharp increase in the burn rate has revived optimism within the Shiba Inu community. Members and investors hope the upcoming SHIB burn portal will further amplify token deflation, potentially leading to more significant price movements. 
-
-
-“Recent upgrades and bullish market stats support SHIB’s green trading trend,” Shiba Inu enthusiast Dylan wrote.
-
-Moreover, Shiba Inu has implemented significant technological advancements in its quest to move beyond its meme coin origins. The introduction of Shibarium, an Ethereum layer-2 scaling solution, marks a crucial step in enhancing the blockchain’s efficiency. 
-This upgrade includes a major hard fork completed last week, which promises faster transactions and more stable gas fees, likely improving the overall user experience on the network.
-Additionally, the Shiba Inu team reportedly raised $12 million in April to develop a new layer-3 blockchain. This fundraising effort attracted contributions from prominent investors such as Polygon Ventures, Mechanism Capital, and Animoca Brands.
-
-Recent technical analysis from BeInCrypto suggested a potential 15% increase in SHIB’s price, aiming for $0.00002625. After reaching this level, the token experienced a modest decline of about 4%, reflecting ongoing market volatility. However, SHIB is now forming an inverse head and shoulder chart pattern.
-Read more: Shiba Inu (SHIB) Price Prediction 2024/2025/2030
-Shiba Inu (SHIB) Price Performance. Source: TradingView
-Analysis indicates that the potential breakout could elevate SHIB’s price by over 24% to $0.00003103. However, should this breakout not occur, the token might find support at approximately $0.00002349.
-
-
-Disclaimer
-In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Turkish crypto bill: 5 things to know before it’s introduced
-
-The government of Turkey, one of the biggest cryptocurrency economies in the world, is expected to introduce crypto-related legislation sometime this year.Turkish Treasury and Finance Minister Mehmet Simsek announced in January that local crypto legislation was almost complete. Many expected the Turkish parliament to start regulating the crypto market in early 2024, but the draft legislation is yet to be introduced.As Turkey’s regulatory silence on crypto may leave one wondering when the legislation is coming and what is the current status of crypto regulation in Turkey, Cointelegraph spoke to some local industry enthusiasts to clarify some of the issues.Turkey already has some “light” crypto regulationsWhile the Turkish government has yet to introduce crypto legislation, it doesn’t mean that there are no rules to regulate the market in the country today.According to local cryptocurrency mentor Ismail Hakki Polat, there are currently “very slight regulations” targeting crypto in Turkey, but parliament does not set them.Turkey has two main crypto-related regulations:  One was initiated by the Central Bank of the Republic of Turkey in 2021, which prohibits crypto holders from making payments in cryptocurrencies like Bitcoin (BTC) as such assets are not legal tender.“Since it’s not a regulation passed by the parliament, nobody knows what are the consequences, penalties and fines of violating these rules,” Polat told Cointelegraph. “Let's say, this regulation is with no legs on the ground,” he added.The second regulation relates to Anti-Money Laundering (AML) measures and works under the supervision of the Ministry of Finance’s financial intelligence unit, the Financial Crimes Investigation Board, also known as MASAK. This regulation requires exchanges to collect certain Know Your Customer (KYC) data from users in order to prevent illicit activities like money laundering and terrorism financing.According to Mindstone Blockchain Labs CEO Tansel Kaya, there is also crypto-related guidance by the Capital Markets Board of Turkey (CMB), known as SPK (Sermaye Piyasası Kurulu).“The SPK said anybody or any institution related to the authority shall not trade cryptocurrencies,” Kaya said, adding that this includes Turkish banks, broker dealers and others. He emphasized that this regulation is “very old” as the CMB issued this guidance in 2018.Turkey is the fourth-largest crypto trading market in the worldTurkey is a major global cryptocurrency economy and is one of the countries with the highest adoption rate of crypto in the world.According to data from Chainanalysis, Turkey is the fourth-largest crypto market worldwide in terms of estimated trading volume of $170 billion, ahead of countries like Russia, Canada, Vietnam, Thailand and Germany.Source: ChainalysisIn September 2023, Turkey’s national currency, the lira, became the top cryptocurrency trading pair on Binance, accounting for 75% of all fiat trading volume. The event was attributed to a significant influx of crypto investors in the Turkish market.Some studies claimed that Turkey’s adoption rate has more than doubled in the past few years, reaching 40%. That study suggested that two in every five Turkish citizens hold crypto.“The number of Turkish cryptocurrency investors is estimated to be 20 million, among 85 million of the total population of our country,” Polat said.Why does Turkey want to adopt crypto regulations in 2024?Turkey's anticipated crypto legislation is poised to aid the country in exiting the Financial Action Task Force's (FATF) "gray list" associated with Anti-Money Laundering (AML) measures. The regulator placed Turkey on its “gray list” in October 2021 over disproportionate regulation of the nonprofit organization sector.According to Polat, Turkey is required to solve 39 action items in order to be upgraded from the FATF’s “gray list,” with one of them being related to the crypto industry. The FATF requires countries to comply with its framework to ensure that virtual assets are not used for criminal activities.Turkey’s crypto law will address crypto exchanges, taxes and moreTurkey’s upcoming crypto regulatory legislation will mainly address regulation and licensing crypto exchanges.The regulation will define the liabilities and responsibilities of exchanges, referred to as virtual asset service providers (VASPs) in the FATF’s framework. The law will also focus on standards related to safe custody, or the storage of crypto assets by VASPs in order to ensure maximum protection of investors.The investor protection aspect became a burning issue in Turkey after the collapse of a major local crypto exchange called Thodex. The Thodex exchange abruptly halted trading and withdrawals in April 2021. Thodex founder Faruk Fatih Özer was eventually sentenced to 11,196 years in 2023 on indictment of fraud estimated at as high as $2 billion.In addition to VASP regulations, the upcoming crypto law is expected to finally provide a legal foundation for crypto taxes in Turkey.Related: Turkey tops the world in stablecoin buying share vs. GDPAccording to local reports, Turkey’s Revenue Administration plans to impose low-rate transaction taxes on crypto, one of which is the Banking and Insurance Transactions Tax (BSMV), whose rate is 5% today. The government is also expected to require citizens to declare their earnings on crypto but reportedly plans to set the withholding tax rate to zero.Additionally, the upcoming bill is expected to address regulation of tokenizing real-world assets.When Turkey is expected to introduce crypto legislation?It is unclear when Turkey is expected to finally release its crypto legislation despite many publications expecting to see some progress early this year.Some industry observers have linked the timing of the introduction of Turkey’s crypto law to the upcoming meeting of the U.S. Office of Foreign Assets Control in June.“That’s when they will consider removing Turkey from the gray list. The law likely has to be passed and then the regulations have to be in effect before that,” Kaya told Cointelegraph, adding that the regulation is expected in May.“My view or my guess is it will be at the end of this parliamentary season, which is, let's say, June,” Polat noted, adding:“But if they are not able to, then it means that it will be shifted to autumn or maybe the end of the year. So in my view the gray list issue is now a bit dropped from the agenda.”Magazine: CZ gets jail sentence, Gensler viewed Ether as security, and FBI targets mixers: Hodler’s Digest, April 28 – May 4
-
-
-
-
-----------------
-
-Chinese scholars agree on merits of Bitcoin
-
-
-China has been a rather chaotic place for Bitcoin (BTC) investors, traders, and miners for years, with the country making headlines in 2013 for banning activity related to the cryptocurrency.
-The ban has, however, not been total and BTC has maintained a presence in China throughout the years. 
-Additionally, contrary to popular perception, the People’s Republic has been very involved with investigating and developing blockchain technology, as best exemplified by the work done on the digital yuan but also by other actions such as the release of plans for national Web3 development in late 2023.
-
-
-In 2024, China will continue work on developing a comprehensive framework for handling cryptocurrencies with the latest chapter taking place in Nanjing in late April. 
-Bitcoin set to officially be recognized as property in China
-The seminar in question, hosted by the Nanjing People’s Procuratorate, was focused on assessing whether Bitcoin constitutes property and can, therefore, be subjected to laws pertaining to property crimes.
-The conclusion was overwhelmingly that Bitcoin does have value and should be considered property, with additional discussion on how exactly it should be treated and how best to protect individuals who have suffered financial damage from actions such as BTC theft.
-While the seminar opens the gates for further solidifying the coin’s legal status – at the time of publication, Bitcoin is ‘not completely banned,’ ‘not a contraband,’ and ‘can be traded and has economic value’ per a summary made by Colin Wu on X – a lot of attention has been given to how the value of BTC should be determined. 
-
-Ultimately, though the Nanjing seminar did not end the discussion on how cryptocurrencies should be handled and regulated in China, it constitutes a major milestone in guaranteeing a place for them in the country’s law and affording them a legal status.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
 Coinbase Hires Ex-Mayors To Bridge Crypto And Policy Divide - Coinbase Glb (NASDAQ:COIN) - Benzinga
 
 Coinbase Inc. COIN has made a significant addition to its Global Advisory Council by welcoming former Los Angeles Mayor Antonio Villaraigosa and former Atlanta Mayor and White House Senior Advisor Keisha Bottoms.What Happened: These new appointments aim to leverage their political and policy-making expertise to advance Coinbase’s mission of promoting economic freedom worldwide.Faryar Shirzad, Chief Policy Officer at Coinbase, expressed enthusiasm about the new members, stating they would play a crucial role in guiding the leadership team on strategic decisions impacting global economic policies. This move aligns with Coinbase’s objective to build bridges between policymakers and the American populace, particularly focusing on the underbanked sectors.According to statistics shared by Shirzad, 18% of Americans, including 25% of Black and Hispanic households, are underbanked, indicating a significant portion of the population that the traditional financial system fails to serve adequately.Also Read: Hong Kong Spot Bitcoin ETFs Do Have A ‘Benefit,’ Bloomberg ETF Analyst Points OutVillaraigosa highlighted the potential of cryptocurrencies as a promising alternative for communities historically facing racial discrimination in traditional banking sectors. He emphasized the importance of crypto in facilitating remittances for people who support family members abroad.Bottoms echoed these sentiments in remarks reported by The Atlanta Journal-Constitution, stressing the importance of representation communities traditionally excluded from financial innovations.The strategic inclusion of such influential figures comes at a critical time when the intersection of digital assets and regulatory policies continues to garner significant attention. Their insights are expected to be instrumental in shaping how Coinbase and similar entities navigate the complex regulatory landscapes while fostering inclusive financial ecosystems.What’s Next: This initiative is particularly relevant to discussions at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.The event will likely explore similar themes of regulatory challenges and opportunities in the digital assets space, reflecting on how companies like Coinbase are pioneering efforts to integrate cryptocurrencies within a broader economic and social context.Read Next: SEC Delays Decision On Bitcoin And Carbon Credit Futures ETF
@@ -8209,3 +7655,724 @@ Generated Image: DALLE3
 Win $ALICE Tokens in My Neighbor Alice Beta Season 1
 
 Shummas is a technical content creator, programmer, and a published STEM researcher. He also enjoys coffee, and gaming in his free time.
+
+----------------
+
+Binance CEO Demands Release of Employee Detained in Nigeria - Decrypt
+
+Binance CEO Richard Teng has demanded the release of the exchange's executive Tigran Gambaryan from detention in Nigeria, where he has been held for more than 70 days.In a blog post, Teng said that Gambaryan's detention "has set a dangerous new precedent for all companies worldwide," adding that he "is innocent and must be released."Gambaryan, the exchange's Head of Financial Crime Compliance, was detained in February by Nigerian authorities alongside his colleague, Binance's regional manager for Africa Nadeem Anjarwalla. The pair had traveled to the country to liaise with officials as they conducted an investigation into crypto exchanges.Both Binance execs were initially held without charge under the terms of a court order, before Anjarwalla escaped what Teng characterized as "unlawful detention". The pair, along with the exchange, were subsequently charged with tax evasion by Nigeria's Federal Inland Revenue Service (FIRS), while Gambaryan was transferred to a jail run by the country's anti-corruption agency.According to local media, Nigeria is seeking the extradition of Anjarwalla; a spokesperson for his wife subsequently claimed that reports of his arrest in Kenya are false.In his blog post, Teng emphasized that Gambaryan was visiting Nigeria as a "functional expert in financial crime and capacity building in policy discussions," and did not go to the country as a "'decision-maker,' nor a "negotiator.'"The Binance CEO also published a detailed breakdown of the exchange's activities in Nigeria over the past two years, and its negotiations with Nigerian lawmakers and regulators.Nigeria is currently undergoing a currency crisis, which Teng claims had been attributed by local authorities to Binance's activities in the country.As well as pushing back against those claims, he alleged that Gambaryan, an "innocent, mid-level employee," is being held in "a dangerous prison in order to control Binance." Gambaryan has sued the Nigerian government for violating his fundamental human rights.Teng claimed that Gambaryan and Anjarwalla had "received multiple assurances that they would be granted safe passage for their meetings," and that in the course of a "hostile" meeting, members of Nigeria's Economic and Financial Crimes Commission (EFCC) demanded that the exchange delist the Nigerian naira from its platform and "provide granular-level detail on all Nigerian users."Following their detention, Teng said, Gambaryan and Anjarwalla were subject to "aggressive behavior" and were personally accused of "holding responsibility for the state of the naira and the overall economy," as well as allegations of terrorist financing and money laundering.Decrypt has reached out to the EFCC for comment and will update this article should they respond.As a "good faith gesture," Teng stated that Binance had delisted the naira and disabled its P2P product for Nigerian users, and urged the country's authorities to release Gambaryan and continue its "engagement" with the exchange over tax liabilities and cooperation with law enforcement."I hope that my next update is one where our employees are safe at home with their families," Teng added.Edited by Stacy Elliott.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+KuCoin Strengthens Security with Bugcrowd Partnership to Launch Bug Bounty Program - Coin Edition
+
+
+							
+
+KuCoin partners with Bugcrowd to launch a bug bounty program to enhance security across its trading platform.
+
+
+
+The program targets critical vulnerabilities in web and mobile modules, with rewards of up to $10,000 for extreme issues.
+
+
+
+High-severity findings receive rewards up to $2,000, while medium-severity discoveries are rewarded up to $400.
+
+
+
+
+The prominent global crypto exchange KuCoin has partnered with Bugcrowd, the leading crowdsourced cybersecurity platform, to enhance platform security. KuCoin announced this new security-focused collaboration in a recent press statement seen by Coin Edition.
+
+
+
+The collaboration marks the launch of an extensive bug bounty program designed to identify and rectify potential vulnerabilities across KuCoin’s platform. The program focuses on pinpointing critical vulnerabilities in web and mobile modules.
+
+
+
+Regarding the web modules, issues such as business logic flaws, payment manipulation risks, remote code execution, and sensitive information leakage are among the targeted vulnerabilities. Additionally, the program addresses a spectrum of OWASP issues, such as Cross-Site Scripting (XSS), SQL Injection, and others.
+
+
+
+
+
+
+
+
+
+However, on the mobile front, the focus shifts to vulnerability functions capable of accessing unsafe external links. It includes potential exploitations of the “Jsbridge/Javascript interface” that could harm users and other mobile-related susceptibilities that could result in potential losses.
+
+
+
+KuCoin and Bugcrowd have established a tiered reward system based on the severity of identified vulnerabilities to incentivize security researchers and reward their efforts. The rewards range from $10,000 for extreme severity to $50 for low severity issues.
+
+
+
+Specifically, detected extreme severity issues are rewarded with $10,000, and critical severity vulnerabilities range from $3,000 to $5,000. Moreover, high-severity findings receive rewards ranging from $1,000 to $2,000, while medium-severity discoveries are rewarded between $200 and $400. Low-severity issues merit rewards varying from $50 to $100.
+
+
+
+Johnny Lyu, CEO of KuCoin, emphasized the exchange’s commitment to prioritizing the security of user assets and transactions. Lyu remarked:
+
+
+
+
+As People’s Exchange, the security of users’ assets is always our top priority. Ensuring the safety of user assets and transactions is an ongoing endeavor to which we are committed.
+
+
+
+
+Bugcrowd CEO Dave Gerry echoed Lyu’s sentiments, highlighting the importance of trust and security in the cryptocurrency market. “We’re excited to partner with KuCoin to launch their Bug Bounty Program to achieve a safer trading environment for all users,” Gerry remarked.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+From The Deep: Bitcoin Whale Emerges After A Decade, Millions On The Move
+
+
+								A digital Lazarus has risen from the blockchain graveyard. After a decade of slumber, a Bitcoin wallet, presumed lost to the mists of internet history, stirred back to life on May 6th, 2024. This prehistoric beast, a “whale” in crypto terminology due to its massive holdings, sent ripples through the market by transferring a staggering 687 BTC, valued at nearly $44 million.
+
+Bitcoin Through Time: From Humble Beginnings To Whopping Returns
+The now-famous wallet first received its Bitcoin haul in January 2014, a time when the fledgling cryptocurrency was still finding its footing. Back then, 687 BTC cost a mere $630,000, a stark contrast to the multi-million dollar transaction it facilitated this week. This incredible price appreciation serves as a potent reminder of the crypto asset’s meteoric rise over the years.
+
+
+Bitcoin’s Dominating Presence: A Cornerstone Of Crypto
+At the time of writing, BTC was trading at $63,765, down 1.2% in the last 24 hours, and sustained a meager 0.6% gain in the last seven days, data from Coingecko shows.
+Bitcoin remains the undisputed king of the cryptocurrency realm. Its daily trading volume regularly surpasses $20 billion, solidifying its position as the cornerstone of the digital asset market.
+BTC price action in the last week. Source: Coingecko
+However, the recent months have been a rollercoaster ride for Bitcoin investors. A robust bull run that began in 2024 hit a snag in April when economic factors and a controversial token sale sent shockwaves through the market. Bitcoin dipped below $57,000, marking its first monthly loss in nearly a year.
+
+Bitcoin is now trading at $63.765. Chart: TradingView
+Bitcoin Price On A Tightrope: Bullish Signal Or Distribution In Disguise?
+With the recent whale movement and Bitcoin’s nascent recovery, speculation is rife about the future course of its price. Some analysts view this large-scale transfer as a bullish indicator, suggesting that investors still see significant growth potential in Bitcoin.
+
+
+
+Others sound a cautionary note. They worry that the transaction might be a sign of “distribution,” where early adopters are cashing out on their skyrocketing profits. This, they argue, could trigger a price decline in the near future.
+Bitcoin At A Crossroads: Re-accumulation Or Retracement?
+The coming days and weeks could be pivotal for Bitcoin. Its price currently sits at a critical juncture. If Bitcoin manages to reclaim the $60,000 mark by the end of the week, it could be interpreted as a sign of re-accumulation, suggesting that investors are buying back in, potentially propelling the bull run further.
+But if it doesn’t succeed in doing so and ends the week below its peak, that would be interpreted as a negative signal that could lead to a more significant decline.
+Featured image from Australian Geographic, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+Nigeria Bans P2P Crypto Trading, Cites Naira Concerns
+
+
+Nigeria’s Securities and Exchange Commission (SEC) has announced plans to ban peer-to-peer (P2P) crypto trading in a significant regulatory move. This development comes amidst a broader crackdown that includes the arrest of two Binance executives.
+Indeed, Nigerian regulators’ enforcement is escalating tensions within the crypto sector. It also stirs concerns among global crypto entities about the regulatory environment in the region.
+Nigeria to Tighten Regulations as Binance Case Continues
+Emomotimi Agama, Director General of the SEC, expressed serious concerns about the effects of P2P trading on the Nigerian naira. Agama emphasized the urgency of these measures to stabilize the national currency.
+
+“The thing that needs to be done is delisting the naira from the P2P space in order to avoid the level of manipulation that is currently happening. […] Recent concerns regarding crypto P2P traders and their perceived impact on the exchange rate of the naira has underscored the need for collective action,” Agama said.
+
+
+Peer-to-peer platforms allow direct trading between crypto investors and bypass intermediaries. Therefore, the method may have raised concerns for the regulators in Nigeria.
+Additionally, Nigerian officials have previously alleged that Binance and several other crypto exchanges engaged in fixing dollar prices. These prices did not refer to the price of the Nigerian naira at the central bank.
+This ultimately made speculators take a chance and make prices on crypto exchanges the standard price used for foreign exchange trading. The issue is particularly noteworthy, considering Nigeria has been battling with inflation.
+Read more: How to Protect Yourself From Inflation Using Cryptocurrency
+
+Nigeria Inflation Rate. Source: Bloomberg
+As Nigeria grapples with economic instability, the SEC’s approach aims to rein in activities perceived as threats to financial security. This initiative extends to upcoming regulations targeting crypto exchanges and digital asset custodians.
+The regulatory body’s aggressive posture was highlighted earlier this year following the ban on Binance operations and the subsequent detention of its top executives, Tigran Gambaryan and Nadeem Anjarwalla. Although Anjarwalla managed to flee, Gambaryan has been arrested in Abuja. He is also facing charges, including tax evasion and money laundering, which will lead him to go on trial this month.
+
+In response to the ongoing case between the company and the Nigerian SEC, Richard Teng, CEO of Binance, has publicly demanded Gambaryan’s release. In an open letter published on May 7, Teng criticizes the Nigerian authorities for setting a “dangerous precedent” for global corporate engagements. Furthermore, Teng defended Gambaryan’s integrity and professional background, particularly his global contributions to combating financial crime.
+
+“It is important to note that Tigran did not go to Nigeria as a ‘decision-maker,’ nor a ‘negotiator.’ He was merely acting as a functional expert in financial crime and capacity building in policy discussions,” Teng stated.
+
+Read more: 7 Best Binance Alternatives in 2024
+This is not the first time Binance has publicly called for their executives’ release. In early April 2024, Binance collectively published a statement to “respectfully request that Tigran Gambaryan is not held responsible while current discussions are ongoing between Binance and Nigerian government officials.”
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Tom Brady Ridiculed for FTX and Crypto Investments in Netflix Roast - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsStar NFL quarterback Tom Brady took a lot of flak for his crypto investments during a 3-hour live Netflix comedy roast on Sunday."The Roast of Tom Brady," which was recorded and is still available to watch on the streaming platform, featured a number of pointed jokes about Brady's affinity for Bitcoin and his ties to bankrupt crypto exchange FTX. And it didn't take long for the crypto jokes to show up, either.Within the first five minutes of the comedy special, host and comedian Kevin Hart addressed what he cast as the elephant in the room."Now, right now, I know what you guys are probably asking yourselves. You're saying, 'Guys, why didn't we go to the Crypto.com Arena downtown? The reason we didn't go there is because we didn't want to remind Tom's fans of how much money he owes them," Hart said. "He fucked those people. Tom fucked those people."Hart seemed to be alluding to Brady's time spent as a spokesperson for Crypto.com's former competitor, FTX.It only feels fair to point out that Hart has had his own crypto mishaps. He recently sold his Bored Ape Yacht Club NFT for at an 83% loss, and in 2019 was named as a defendant in a $7 million class-action lawsuit over the allegedly fraudulent ICO of crypto project FLiK.Brady and his ex-wife, supermodel Gisele Bündchen, announced that they had taken an equity stake in FTX in 2021. The celebrity couple appeared in a series of commercials and at live events with FTX founder—and convicted felon—Sam Bankman-Fried.But after the exchange collapsed, it was announced they had been paid their $30 million fee almost entirely in FTT, the official token of FTX that crashed spectacularly right before FTX filed for bankruptcy. Now, because of their work to promote FTX, both Brady and Bündchen have been named in a class action lawsuit from FTX investors and client that seeks to hold them accountable for encouraging people to use the exchange.Several celebrities have already reached settlements, including Jacksonville Jaguars quarterback Trevor Lawrence, and YouTube influencers Tom Nash and Kevin Paffrath. But Brady and Bündchen are still defendants in the case.Which is why, perhaps, Brady appeared visibly unsettled when comedian Nikki Glaser ridiculed him for having done business with FTX."Tom also lost $30 million in crypto. Tom, how did you fall for that? Even Gronk was like, 'Me know that not real money.'," Glaser said. "Gronk actually does Bitcoin, which is where he just chews on a handful of nickels."The "Gronk" she was referring to is NFL tight end Rob Gronkowski, Brady's longtime teammate. At one point in 2021, Gronkowski announced that he'd joined Brady's Autograph NFT platform.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Australian Tax Office seeks data from 1.2 million crypto exchange users: Report
+
+Australia’s tax office reportedly seeks personal data and transaction details from up to 1.2 million cryptocurrency exchange users for a potential crackdown on crypto tax obligations.The Australian Taxation Office (ATO) said that the data will help identify traders who may have failed to pay their taxes on their crypto trades, according to a notice issued last month seen by Reuters.The ATO will be seeking personal data including users’ date of birth, social media accounts, and phone numbers, as well as transaction-related details like wallet addresses, type of coins trades, and bank account details.For Australian regulators, cryptocurrencies are taxable assets, unlike other foreign currencies. This requires traders to pay a capital gains tax on the profit from sold crypto assets.The news of the potential tax collection crackdown comes during a highly profitable time for crypto investors. Bitcoin (BTC) rallied over 44% since the beginning of the year, while Ether (ETH) rose 32% year-to-date (YTD). BTC, ETH, Total altcoin market cap, YTD. Source: TradingViewThe market capitalization of the top altcoins, excluding Bitcoin and Ether, also rose over 27% YTD, according to TradingView data.The complex nature of the cryptocurrency space can lead to a lack of awareness when it comes to tax obligations, according to ATO’s notice:"The ability to purchase crypto assets using false information may make them attractive to those seeking to avoid their tax obligations."A global crypto tax crackdown may be incomingAustralia isn’t the only jurisdiction seeking to collect unpaid taxes from digital asset gains.On Monday, the director general of the Canada Revenue Agency’s (CRA) compliance branch, Sahil Behal, said that the agency is conducting over 400 crypto-related audits and investigating hundreds of crypto investors to secure unpaid crypto taxes, according to a May 6 report by the National Post.Related: Robinhood crypto business slapped with SEC Wells noticeThese latest audits come on top of the suspected $39.5 million worth of unpaid taxes which the Canadian tax agency believes are still due from the fiscal year of 2023-2024.In Turkey, the government is expected to introduce crypto-related legislation later this year. The new bill is expected to provide a legal foundation for crypto taxes in Turkey, which is a leading crypto economy.In the United States regulators are aiming to raise the long-term capital gains tax rate to 44.6%, but only for investors earning over $1 million a year.The same Federal Budget proposal from the Biden administration also included a 25% tax on unrealized gains for ultra-high-net-worth individuals.“For 99.9% of people, it’s a big, fat nothing burger because it’s essentially just a proposal,” Matthew Walrath, founder of Crypto Tax Made Easy, told Cointelegraph.VIDEOHow Blockchain Data Is Used to Save on Taxes | Lukka Co-CEO Explains. Source: CointelegraphRelated: Bitcoin distribution ‘danger zone’ over, analysts say
+
+----------------
+
+Can Legal Battles Secure the Future of Crypto in the US?
+
+
+							
+
+Robinhood receives a Wells notice from the SEC for likely enforcement action.
+
+
+
+Its CEO, Vlad Tenev, vows to take legal action against the SEC if necessary.
+
+
+
+Coinbase CEO disagrees that legal battles can secure the future of crypto; advocates for pro-crypto political candidates.
+
+
+
+
+The future of crypto in the United States is shrouded in uncertainty due to the ongoing regulatory difficulties American crypto companies face. As a result, leading crypto businesses are moving to challenge U.S. regulators through legal means.
+
+
+
+However, doubts persist regarding the efficacy of the judicial system in providing timely and lasting solutions. Brian Armstrong, the CEO of Coinbase, and Vlad Tenev, the CEO of Robinhood, recently expressed their views on this subject.
+
+
+
+In a recent post in X, Tenev noted that the crypto industry has faced relentless regulatory pressure detrimental to American companies and consumers for the past three years. 
+
+
+
+He highlighted the U.S. SEC’s persistent scrutiny of crypto and recent proposals, such as those concerning predictive data analytics, as yet another instance of government overreach hindering innovation.
+
+
+
+
+
+
+
+Notably, this commentary surfaces amid Robinhood receiving a Wells notice from the SEC on Monday regarding the crypto assets traded on its platform. The Wells notice is a formal notification that the SEC often sends when it intends to initiate enforcement proceedings. 
+
+
+
+Meanwhile, the CEO committed to fostering positive relationships with the U.S. regulator. However, he asserted that Robinhood is prepared to allocate resources to challenge the regulatory actions in court if necessary. The firm seeks to safeguard its crypto business and establish regulatory clarity in the United States for the benefit of its customers.
+
+
+
+
+
+
+
+
+
+However, in response, Brian Armstrong, the CEO of Coinbase, shared an opposing view. He first welcomed Tenev to the fold of industry pundits, taking a stance against the onslaught of American crypto firms.
+
+
+
+In parallel, Armstrong acknowledged the potential role of the courts in clarifying regulatory ambiguity. However, the Coinbase CEO emphasized that electing pro-crypto candidates in the upcoming elections is essential for achieving a lasting solution. He does not see court actions as sufficient to safeguard the industry.
+
+
+
+
+
+
+
+Accordingly, Coinbase is taking a proactive stance in the political arena by being one of the major contributors to a super PAC that champions pro-crypto politicians. Specifically, Coinbase has donated $24.5 million to Fairshake, a super PAC dedicated to this cause.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Prices and news of the crypto Polygon (MATIC), PEPE and Jupiter (JUP)
+
+Our column on the analysis of news and prices in the crypto world is back, today we focus on three important assets: Polygon (MATIC), Pepe (PEPE) and Jupiter (JUP).
+
+Prices and market statistics of Polygon (MATIC), Pepe (PEPE) and Jupiter (JUP) cryptocurrencies
+Polygon (MATIC), one of the emerging cryptocurrencies in the digital market, is currently priced at 0.70 USD.
+With a market capitalization of 6.9 billion USD and a trading volume in the last 24 hours of 358.7 million USD, MATIC shows a strong presence in the sector. About 9.9 billion units are in circulation, highlighting widespread adoption. 
+The average holding time for MATIC is 80 days, placing it in 18th place for popularity among cryptocurrencies.
+Even though it reached a historical high of 2.92 USD, recent market fluctuations have negatively impacted its value. The last month has seen a significant decrease of 22.16% in price.
+Pepe (PEPE) represents an interesting reality in the cryptocurrency landscape, characterized by a current price of 0.00000818 USD. Its market capitalization reaches 3.4 billion USD, with a significant trading volume in the last 24 hours of 1.0 billion USD, a sign of high liquidity and investor interest.
+Currently, there are 420.7 billion units of PEPE in circulation. This wide circulating supply testifies to its extensive distribution among users. The all-time high for PEPE was 0.000011 USD, highlighting periods of strong appreciation.
+The recent market performance of PEPE shows a dynamic of ups and downs: it has experienced a decrease of 0.15% in the last hour and a drop of 5.43% in the last day.
+Jupiter (JUP), an emerging cryptocurrency, is currently trading at a price of 1.14 USD. Its market capitalization is around 1.54 billion USD, with a diluted valuation that could reach 11.4 billion USD if all coins were in circulation. This demonstrates significant growth potential for the future.
+The trading volume in the last 24 hours amounts to 188.6 million USD, an indicator of the significant trading activity surrounding this cryptocurrency.
+Currently, there are 1.35 billion JUP in circulation, out of a total and maximum supply of 10 billion units. This limited supply can be seen as a potential advantage for increasing value over time, as demand may exceed the available supply.
+Polygon announces the alpha test of Miden
+Polygon has recently announced the launch of the Alpha Testnet of Miden, a new significant update aimed at increasing the privacy and scalability of decentralized applications (dApps). 
+This development represents a significant step forward in blockchain technology, offering developers a more robust and versatile platform for creating dApps.
+The Miden Alpha Testnet is based on STARK technology, a form of zero-knowledge proof that ensures completely private and secure transactions without compromising speed and scalability. 
+This type of technology is particularly crucial in areas such as decentralized finance (DeFi) and NFT markets, where privacy and transaction speed are of vital importance.
+With the Miden Testnet, Polygon aims to solve some of the most pressing challenges in the cryptocurrency industry, including transaction bottlenecks and scalability issues that afflict many existing blockchains. 
+This initiative not only enhances the capabilities of the Polygon network but also lays the foundation for a broader adoption of blockchain technologies in various sectors.
+The alpha phase will allow developers to test their dApps in a controlled environment, collecting crucial feedback for the continuous improvement of the platform. 
+With this strategic move, Polygon continues to strengthen its position as a leader in blockchain innovation, promising a safer, more private, and scalable future for decentralized applications.
+Coinbase improves Solana trading with Jupiter integration
+Coinbase, one of the main cryptocurrency exchange platforms, has recently enhanced its trading capabilities on the Solana blockchain through integration with Jupiter, one of the most advanced liquidity aggregators in the industry.
+This strategic move is designed to improve the efficiency and user experience in executing cryptocurrency trades on the Solana network.The integration of Jupiter allows Coinbase to offer users better prices and greater liquidity when trading tokens on Solana.
+By using Jupiter’s sophisticated algorithm, Coinbase can now aggregate liquidity from various sources on Solana, optimizing trades and reducing the so-called slippage – the difference between the expected price of a transaction and the actual price at the time of execution.This development not only strengthens Coinbase’s position as a leader in cryptocurrency trading but also supports the growth of Solana as one of the most promising blockchains for decentralized applications, playing a crucial role in attracting and retaining advanced traders and institutional investors.
+Coinbase users can now expect faster transactions and reduced transaction costs, significantly improving the effectiveness of trading on Solana.
+With this integration, Coinbase demonstrates its ongoing commitment to innovation and improving the accessibility and usability of cryptocurrencies on its exchange.
+
+----------------
+
+Is XRP a Banana or an Apple? A Reddit User Breaks Down the SEC v. Ripple Saga | Cryptoglobe
+
+
+                                
+The ongoing legal battle between Ripple and the U.S. Securities and Exchange Commission (SEC) over the classification of the XRP token has captured widespread attention in the cryptocurrency community. To shed light on this complex issue, a user on the XRP subreddit ingeniously simplified the dispute using a memorable analogy, which has resonated with many for its clarity and humor.
+
+
+
+In a Reddit discussion sparked by a user’s request for a simple explanation of the Ripple vs. SEC case, another user provided a creative and illustrative metaphor:
+
+
+
+Ripple is portrayed as a Monkey, holding what it sees as a banana.The Banana represents XRP as a commodity, which Ripple maintains should not be regulated as a security.The SEC, depicted as a Gorilla, insists that the banana is actually an apple.The Apple symbolizes the SEC’s classification of XRP as a security, requiring oversight and regulation.The Lion, representing the U.S. court system, particularly Judge Analisa Torres, has the final say in determining the nature of XRP.
+
+
+
+This metaphor not only highlights the essence of the legal arguments but also captures the conflicting perspectives in a way that’s easy to grasp for those unfamiliar with legal jargon.
+
+
+
+The SEC initiated a lawsuit against Ripple in December 2020, alleging that Ripple conducted an unregistered securities offering by selling XRP. Ripple countered by arguing that XRP is a digital currency and should not be treated as a security.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+On July 13, 2023, Judge Analisa Torres ruled that “XRP, as a digital token, is not in and of itself a ‘contract, transaction[,] or scheme’ that embodies the Howey requirements of an investment contract.” This ruling was a significant win for Ripple as it supported their argument that XRP is more akin to a commodity than a security.
+
+
+
+This landmark decision has far-reaching implications for the cryptocurrency industry in the United States. It could influence how other cryptocurrencies are viewed and regulated by federal agencies, potentially fostering a more favorable environment for innovation and growth in the sector.
+
+
+
+Currently, the SEC is seeking $2 billion in remedies from Ripple. In response, Ripple has contended that a sum no greater than $10 million would be appropriate. The SEC is expected to respond this week. It is anticipated that Judge Torres will make a ruling on the remedies sometime this summer.
+
+
+
+
+
+
+
+
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+Exodus Approved for NYSE Listing, Trading Begins on May 9
+
+
+                        
+                            Exodus Approved for NYSE Listing, Trading Begins on May 9                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 06:46 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Crypto wallet developer Exodus Movement has received approval to list its common stock on the NYSE under the ticker EXOD.Trading for the stock will commence on the platform on May 9, the company announced on Monday. “Trading on the NYSE American will allow Exodus to create greater long-term value for our stockholders by increasing our presence within the investor community and, in turn, increase liquidity,” Exodus CEO and Co-founder JP Richardson said. “We believe the uplisting will broaden the awareness of Exodus.”Exodus to Enhance Market Presence With NYSE Listing
+NYSE American, formerly known as the American Stock Exchange (AMEX), focuses on companies with smaller market capitalization compared to the main NYSE. By moving to the NYSE American, Exodus aims to enhance its market presence and attract more investors.The EXOD stock is already listed on the OTCQX market, and the recent approval paves the way for Exodus’ stocks to be “uplisted” to the NYSE. The company told existing stockholders that no action was required prior to the NYSE American listing.Founded in 2015, Exodus Movement specializes in developing self-custodial wallet services for cryptocurrencies such as Bitcoin, Ether, and other digital assets. Notably, the company has tokenized its EXOD security tokens, which represent Class A EXOD common shares, on the Algorand blockchain. These tokens can be managed using Exodus wallets. Exodus claims to be the only U.S.-based company that has its common stock tokenized on the blockchain.According to Exodus’ preliminary review for the first quarter of 2024, the company achieved a revenue of $29.1 million, marking a significant 118% increase compared to the same period last year. Additionally, Exodus reported having approximately 1.69 million monthly active users during the first quarter.zkSNACKs Bans U.S. Users from Wasabi Wallet and Other Services
+Exodus’ move to list its common stock on the NYSE American comes as ACINQ’s Phoenix Wallet and zkSNACKs’ Wasabi Wallet have discontinued their services for customers in the United States. The move came as a response to the recent crackdown on self-custodial cryptocurrency wallet providers by regulatory agencies. Both companies have expressed concerns about the classification of self-custodial wallet providers as legitimate money service businesses following actions taken against Consensys, the creator of Metamask, and crypto mixer Samourai Wallet.The recent regulatory focus on self-custodial wallets stems from concerns that they may facilitate illicit activities such as money laundering. Consensys, the creator of MetaMask, received a Wells notice from the SEC on April 10, which warned of potential enforcement actions related to its MetaMask Swaps and MetaMask Staking products. In another incident, the co-founders of Samourai Wallet, a cryptocurrency mixer, were arrested on charges of money laundering brought by the U.S. Justice Department and other agencies. Samourai Wallet CEO Keonne Rodriguez and chief technology officer William Hill are facing charges of conspiracy to commit money laundering and conspiracy to operate an unlicensed money transmitting business.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+The Security Of DeFi: A Deep Dive
+
+Decentralized finance (DeFi) has revolutionized the industry by eliminating intermediaries and creating a more inclusive and accessible system for financial services. But as the ecosystem grows rapidly, the security of DeFi has become an issue. With monetary value at stake, it is crucial to address vulnerabilities and risks associated with DeFi platforms. This article thoroughly examines the security aspects of DeFi delving into the challenges it poses, recommended practices for risk mitigation, and potential solutions to establish a trustworthy decentralized financial ecosystem.
+To maintain user trust and confidence in DeFi, addressing security challenges is essential. Key management compromises, coding errors, smart contract related risks, rug pulls (exit scams) inadequate regulatory frameworks, reliance on certain centralized components oracle manipulations, and simple human error are among the cybersecurity risks faced by DeFi.
+To mitigate these risks within DeFi applications implementing various solutions can be beneficial. These include undergoing audits conducted by trusted parties or experts in the field of cybersecurity, utilizing multi-signature wallets for enhanced protection, enforcing proper access controls to limit unauthorized activities, and adopting secure coding practices to minimize vulnerabilities. To properly assess the security of DeFi it is crucial to evaluate the contracts and conduct audits on the underlying infrastructure and inherited components.
+Understanding The Basics Of Security of DeFi
+Before delving into DeFi security aspects, let’s first understand the concept of Decentralized Finance. 
+
+DeFi stands for Decentralized Finance, a cutting-edge system that operates on a decentralized network often leveraging blockchain technology. 
+
+Unlike financial systems that depend on intermediaries like banks or financial institutions, DeFi empowers individuals to directly access financial services without any intermediaries.
+One key advantage of DeFi is its permissionless nature. Anyone with an internet connection can participate in DeFi and use a wide range of financial services such as lending, borrowing, trading, and investing. Additionally, the decentralized nature of DeFi ensures that no single entity has control over the system. This makes it resistant to censorship while granting users financial freedom.
+At the heart of DeFi lies smart contracts—self-executing agreements with predefined terms written directly into code. Smart contracts automate transaction execution eliminating intermediaries and enabling trustless interactions between parties. This not only reduces transaction costs but also enhances security and transparency within the financial system.
+The Risks And Vulnerabilities Associated With Security Of DeFi
+Even though DeFi offers an approach to finance, it is not without its fair share of risks and vulnerabilities. Because decentralized finance relies on networks and heavily depends on contracts it becomes susceptible to various security challenges. It is crucial to understand these risks in order to mitigate them and ensure a more secure decentralized financial ecosystem.
+Bugs and Vulnerabilities in Contracts
+Smart contracts play an important role in DeFi as they automate financial transactions. However, they can still have flaws or loopholes that attackers may exploit. These vulnerabilities can result in losses or manipulation of transactions.
+To address this risk developers should prioritize conducting audits and testing of contracts to identify and resolve potential flaws or weaknesses. Additionally adhering to security practices like code reviews and formal verification can enhance the integrity and resilience of contracts.
+Hacking Incidents
+Usually, DeFi platforms are targeted by hackers as a large amount of funds is involved. These types of attacks can lead to theft, manipulation, or disruptions in services. 
+In order to safeguard ourselves against such hacking incidents DeFi platforms should implement security measures like using authentication factors, conducting security audits, and implementing encryption protocols. 
+
+As DeFi disrupts systems by operating in an open and permissionless manner it may face regulatory and compliance challenges. Governments and regulatory bodies might try to impose regulations or restrictions on DeFi platforms, which can impact their operations and the privacy of their users.
+Impermanent Losses
+
+Impermanent loss means the decrease in funds that occurs when a liquidity provider adds funds to a pool and the value of those assets changes compared to their deposit value. 
+
+To minimize impermanent loss one can consider using stablecoins with fixed values of coins when providing liquidity to pools. Additionally utilizing liquidity pools, with ratios can also help reduce these losses. The term “impermanent” is used because these losses only become permanent when you withdraw your coins from the liquidity pool. However, at that point, the losses do indeed become permanent.
+To tackle risks effectively DeFi platforms should collaborate with regulatory bodies proactively while implementing compliance measures. These measures can encompass procedures like Know Your Customer (KYC) money laundering (AML) precautions and ensuring adherence to local regulations.
+
+How To Protect Yourself From DeFi Scams And Hacks
+DeFi scams and hacks can be prevented by implementing various security measures. 
+
+Here are some best practices to protect yourself from DeFi scams and hacks.
+
+Reentrancy Attacks
+Be aware of reentrancy attacks and ensure that your smart contracts are coded correctly. A reentrancy attack is a type of smart contract vulnerability where an exploiter contract leverages the loophole of the victim contract to continuously withdraw from it until the victim contract goes bankrupt.
+Wallet Security
+Use wallets carefully and selectively. It is important to back up and safely store your seed phrase. Use a hardware wallet for your long-term investments that you make as secure as possible and never save, copy, or use its seed phrase on a device connected to the internet.
+Smart Contract Audits
+Conduct a thorough smart contract audit before deploying smart contracts on the mainnet. A smart contract security audit examines the smart contracts of a project in depth and is necessary to protect the monies invested through them.
+Recognizing Red Flags
+Be aware of common red flags that indicate a DeFi protocol might, in fact, be a scam or operate on fraudulent activities. For example, if an offer sounds too good to be true, it’s best to decline to avoid a potential scam.
+Bug Bounty Programs
+Participate in bug bounty programs to identify vulnerabilities and flaws before deploying smart contracts. Bug bounty programs offer rewards to individuals who identify and report security vulnerabilities in software.
+By implementing these best practices, you can protect yourself from DeFi scams and hacks.
+The Future of Security of DeFi and Emerging Trends
+The global DeFi market size was valued at USD 13.61 Billion in 2022 and is expected to expand at a staggering compound annual growth rate of 46.0% from 2023 to 2030.
+Some of the emerging trends in DeFi include the following:
+
+The push toward real-world assets
+Greater stablecoin adoption
+Focus on layer-2 scaling and ZK technology
+Security and compliance 
+Privacy-focused DeFi services
+
+Additionally, there is a growing demand for DeFi insurance policies, and the integration of traditional finance in DeFi is expected to enhance the traditional financial system to blockchain networks’ security, efficiency, and transparency.
+Conclusion
+To sum up, the changing world of decentralized finance (DeFi) has brought about exciting opportunities to reshape the financial industry. At it’s core, DeFi eliminates intermediaries and makes financial services more accessible aiming to create a more inclusive financial landscape. However along with its potential DeFi also faces various security challenges that require attention and has innovative solutions.
+Throughout our exploration, we have delved into the realm of security of DeFi. We have examined the core elements of DeFi, understood the risks and vulnerabilities involved, and recognized the importance of security of defi. As DeFi platforms become more intricate so are the risks involved. This emphasizes the need to safeguard investments and maintain user trust.
+In order to address these vulnerabilities effectively it is crucial for DeFi platforms to prioritize contract audits conduct thorough testing procedures and establish rigorous security of defi practices. Collaboration with bodies will play a vital role in finding a balance between DeFi’s decentralized nature and regulatory compliance. This will ensure that the ecosystem remains legitimate and sustainable in the run.
+Furthermore, as the DeFi landscape continues to expand it is essential for users to adopt best practices to protect themselves from scams and hacks. Staying vigilant in making decisions when participating in DeFi projects or investments is key.
+Looking ahead into the future of security of DeFi shows promise. Given the projected growth the industry is set to explore new possibilities by integrating real-world assets improving scalability and privacy and bridging the gap between traditional finance and the blockchain domain. As innovative solutions emerge and the DeFi ecosystem matures the combined efforts of platforms, developers, regulators, and users will shape a financial landscape that is secure, transparent, and prosperous.
+
+As we move ahead, everyone – the platforms, the people who use them, and the people who make the rules need to work together to make sure DeFi stays safe and helps build a better financial world for all.
+
+
+
+
+----------------
+
+Why Tokenization Could Be the Answer to Real Estate Liquidity Crunch
+
+
+                        
+                            Why Tokenization Could Be the Answer to Real Estate Liquidity Crunch                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 06:46 EDT                            
+                                                             | 4 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The tokenization of real-world assets (RWAs) is fast gaining momentum, with traditional fund managers, including the likes of Blackrock and Franklin Templeton, now issuing tokenized U.S. treasuries. However, amidst this surge of RWAs, one asset class that has yet to get the attention it deserves is real estate. The latest statistics reveal that the global real estate market was valued at $613 trillion in 2022, with projections showing it could eclipse $729 trillion by 2028. However, despite this potential, real estate remains one of the most illiquid asset classes. To provide some context, assets like stocks and bonds are traded on a daily basis, but a piece of property can take more than a decade before it changes hands. Of course, one of the main reasons is that property owners prefer to hold real estate as a long-term asset or because of the sentimental value attached to generational ownership.  But at the same time, we cannot ignore the fact that disposing of real estate can be an uphill task, especially if one is urgently in need of cash (liquidity). Bridging the Access Gap in Traditional Property Ownership
+According to a tokenization report by BCG, the opportunity to tokenize illiquid assets such as real estate, art, and select commodities stands at a whopping $16 trillion. This partly explains why traditional financial companies that have been anti-crypto are, for the first time, willing to join the digital asset bandwagon.So, what’s in it for the real estate market? With tokenization, it is now possible for small-time players and underprivileged communities to gain access to the traditional real estate market through fractional ownership. Instead of buying a whole building or a huge piece of land, tokenization allows prospective investors to own a small portion by purchasing a specific number of digital assets that represent part of the underlying property.You might be wondering, how about the nuances associated with real estate property ownership, such as the notarization of the transfer documents or profit allocations in the case of an income-generating property?Although a nascent area of innovation, Blocksquare’s real estate tokenization protocol is a good example of the handful of RWA projects that have managed to integrate a foolproof notarization and registration process in its smart contract infrastructure. The project recently completed tokenizing a parking slot in Slovakia’s Tech Park Ljubljana, executing the first-ever notarization of a tokenized real estate asset that was registered in the Slovenian land registry. While some technical operations were involved, the tokenization process involved Blocksquare creating an ERC-20 smart contract dubbed ‘Prop Token’ to define the maximum number of its native token ‘BSPT’ that would be issued to represent the parking lot. On the other hand, NDP, which is the real estate company that manages the parking lot, drafted a corporate resolution, outlining the obligations and rights associated with the property. This corporate resolution was then made public through the InterPlanetary File System (IPFS) and recorded on the Prop Token smart contract to automate the token issuance process and distribution. The final and most critical step was the notarization which involved a loan agreement to tie down the parking lot as collateral. In this case, Blocksquare acted as the lender, issuing BSPT tokens that were distributed to several investors by NDP real estate management (borrower). More importantly, this transaction was authenticated by a certified notary public hence the recognition in the Slovenian land registry.  Of course, there are many other approaches that real estate RWA projects are using to tackle the liquidity gap and introduce the aspect of enforcement to digital property. Notably, the projects in this realm could benefit from partnering with local authorities that are involved in the property market which happens to be the case in a country like China. This way it would be more seamless to tokenize real estate with the blessings of the regulators. To add to it, specialization in certain types of real estate is also a need in the current market. For instance, assuming a potential real estate investor in the U.S. wanted to acquire high end properties in tourist destinations such as Thailand, it would be a cumbersome endeavor if they decided to go through traditional realtors. However, with decentralized real estate marketplaces such as Sabai RWA, these types of properties are now just clicks away.  What Is the Future of Tokenized Real Estate? 
+As mentioned in the introduction, real estate holds immense potential for investors looking to maximize their returns or diversify their portfolio. It doesn’t stop there!Besides the allure of returns to investors, the real estate tokenization market could soon become the go-to ecosystem for loan borrowers in the commercial real estate (CRE) industry. According to a report by Reuters, the CRE market faced one of its biggest liquidity gridlocks last year following the Fed’s aggressive rate hike regime. Even private lenders who are considered ‘last resort’ could only lend to the CRE market at very high rates.What if more real estate were tokenized? This would mean more accessible capital for CRE borrowers at lower rates, while at the same time, even small-time lenders would get a piece of the real estate pie.In summary, the tokenization of real estate doesn’t stop with issuing or distributing tokens; this ecosystem can easily have a trickle-down effect on other asset classes that have long been cash-strapped due to over-reliance on illiquid property.                                                    
+                        	                    Disclaimer: The text above is an advertorial article that is not part of Cryptonews.com editorial content.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+These Indicators Suggest Selling Pressure From BTC Investors May Be Waning: Bitfinex
+
+
+																A bitcoin (BTC) price recovery may happen sooner than expected because selling pressure from market participants may be slowing down.
+The latest weekly report from the crypto exchange Bitfinex revealed that some on-chain indicators suggest that selling pressure from short-term holders may be waning.
+Bitcoin Selling Pressure May Be Waning
+Since BTC hit its all-time high in March, the asset’s trajectory has remained bearish, plunging to a new local low of $56,500. One indicator that the bears are currently in charge is the spike in the Exchange Whale Ratio, which reveals that whales have been making large deposits in crypto exchanges, possibly to sell and realize profits.
+Once the ratio stabilizes, it is a sign that long-term holders and whales have finished distributing their supply for the time being, preventing any further corrections.
+Although whales are major players, short-term holders often trigger significant market responses. The Realized Loss metric shows that this cohort of investors currently dominates selling pressure, which is coming mostly from BTC held for one week to one month. Bitcoin’s spot price usually reacts to changes in the one-week-to-one-month cost basis.
+
+
+
+
+One of the metrics that suggests selling pressure from short-term holders may be waning is the Market Value to Realized Value (MVRV) ratio for one-week to one-month holders. This indicator has dipped to the 0.9 to 1 range often seen during bull market corrections. Bitfinex said there are indications of a local bottom formation.
+In addition, the short-term holder MVRV ratio is at 0.96, a level that often precedes a market recovery. This suggests that short-term holders could be nearing exhaustion in their selling.
+BTC May Head North Soon
+Another metric suggesting a potential BTC price recovery is the Bitcoin Fundamental Index (BFI), which evaluates several aspects of the network’s health, including wallet activity and transaction volume. The index is currently at an inflection point, suggesting that BTC may move northwards soon.
+“The current position of the index indicates that selling pressure is waning, while network growth has surpassed levels observed at previously identified market bottoms. This potential for positive movement hinges largely on liquidity expectations, which makes future decisions of the FOMC meeting crucial,” Bitfinex said.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Will Ethereum Ever Surpass Bitcoin? Markus Thielen Weighs In
+
+
+The crypto community has long debated whether Ethereum (ETH) might one day surpass Bitcoin (BTC) in market capitalization—a scenario often referred to as “the flippening.” However, Markus Thielen, head of research at 10x Research, remains skeptical. 
+According to Thielen, Ethereum’s weak fundamentals and recent performance trends strongly suggest that Bitcoin will maintain its dominance.
+How Ethereum Has Been Lagging Behind
+Often called digital gold, Bitcoin has solidified its role as a hedge against inflation and a key asset in the portfolios of “sovereign individuals” worldwide. This identity was reinforced in 2017 when Bitcoin developers decided to maintain a 1MB block size, emphasizing its status as a store of value rather than a currency. 
+This strategic move has made Bitcoin particularly appealing during economic uncertainties.
+Conversely, Ethereum’s journey has been fraught with challenges. Despite playing a crucial role in the 2020-2021 bull cycle with innovations like NFTs and the potential for banking system replacements, Ethereum has struggled with significant scaling issues. 
+The long-overdue Dencun Upgrade (EIP-4844), intended to reduce high gas fees, only arrived three years after these problems became evident. 
+
+
+“While the Dencun Upgrade (EIP-4844) solved this in March 2024, it was three years too late. Crypto users (and traders) are not sitting around and waiting until a blockchain solves their bottlenecks; instead, those users move on, and today, most of the action is on Layer 2s,” Thielen said.
+
+Consequently, Ethereum’s dominance in the crypto market has decreased from 17.8% to 15.8% post-upgrade. Moreover, the ETH/BTC trading pair has been in a downtrend since September 2022.
+
+“Forget the flippening of BTC that many predicted,” Thielen boldly remarked.
+
+Read more: What Is the Ethereum Cancun-Deneb (Dencun) Upgrade?
+ETH/BTC Price Performance. Source: TradingView
+Reflecting this disparity, Blackrock has shown a strong preference for Bitcoin over Ethereum. The market also mirrors this. For instance, Ethereum ETFs garnered just 15% of the inflows in Hong Kong compared to their Bitcoin counterparts, indicating limited investor interest in Ethereum.
+
+Moreover, the regulatory environment remains a significant barrier for Ethereum. Recent SEC actions against exchanges like Kraken and Coinbase have left Ethereum’s classification as a security unclear. The regulatory uncertainty only deepens as the SEC is expected to deny Ethereum ETFs.
+Financial indicators also highlight Ethereum’s struggles. The shift towards what some call “ultrasound money” has not resonated with investors as anticipated. Furthermore, Ethereum’s total value locked (TVL) in protocols is much lower than its peak, predominantly confined to staking and restaking activities.
+
+“The concept of staking Ethereum became flawed as soon as US Treasury yields were available on-chain at much higher yields (5%). At the same time, the Ethereum use cases nosedived. The more people realize this, the less demand there will be for ETH,” Thielen explained.
+
+Read more: Ethereum Restaking: What Is It And How Does It Work?
+
+Ethereum TVL. Source: DefiLlama
+
+In addition, Ethereum has lost ground in the stablecoin market, a critical area of crypto transactions. Tron has surpassed Ethereum in USDT issuance thanks to its lower transaction costs, signaling a strategic failure by Ethereum to maintain its market share.
+Given these insights, Thielen recommends caution regarding Ethereum.
+
+“Right now, we would be more comfortable holding a short position in ETH than a long one in BTC as Ethereum’s fundamentals are fragile, which is not yet reflected in ETH prices,” Thielen remarked.
+
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Shiba Inu Price Prediction as Whale Moves 800 Billion SHIB Within 1 Minute - Big News Coming?
+
+
+                        
+                            Shiba Inu Price Prediction as Whale Moves 800 Billion SHIB Within 1 Minute – Big News Coming?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 06:42 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        SHIB has dropped by 6% in the past 24 hours, with the Shiba Inu price moving to $0.00002401 on day when the crypto market has fallen by 1.5%.The meme coin remains up by 2% in a week, but is down by 10% in a fortnight and by 15% in the last 30 days.On the other hand, SHIB holds onto a healthy 150% gain in the past year, with the coin remaining popular among traders, despite its ups and downs.And today’s move follows closely on the heels of large transfer of 875 billion SHIB, with a whale taking this sum off Robinhood on May 2, in a sign that the meme coin could rally big again soon.Shiba Inu Price Prediction as Whale Moves 800 Billion SHIB Within 1 Minute – Big News Coming?
+While SHIB has suffered a blow today, its indicators suggest that it isn’t too far from making a comeback.Its relative strength index (purple) had fallen as low as 35 this morning, yet it has since begun rising towards 50, in a sign that SHIB’s discounted price is tempting buyers.Source: TradingViewMeanwhile, SHIB’s 30-day moving average (orange) is just dropping below its 200-day (blue), which usually indicates further losses in the near term.Yet this move also usually indicates that a bottom isn’t too far away, and that the coin will soon rebound.What’s also encouraging in this respect is the fact that SHIB’s resistance (red) and support (green) levels are converging on each other.Normally, such a convergence creates a pinch point that forces a given asset to make a big move in either direction.And given that SHIB has already taken its fair share of punishment over the past few days, you would expect this move to be positive.This appears to be what whales are expecting, with the tweet above showing that one large trader bought close to $20 million in SHIB a couple of days ago.In other words, smart money is betting on SHIB rising in the not-too distant future, and often it’s the case that where whales lead, retail will soon follow.The wider market will be instrumental in helping SHIB make some gains in the coming weeks and months, with the eventual cutting of rates likely to be a big factor in the crypto market’s rejuvenation.More broadly, Shiba Inu boasts possibly the strongest fundamentals of any meme token, with its developers recently raising $12 million for a new privacy-focused layer-three network.As such, the Shiba Inu price could reach $0.00004 by the end of the summer.New Meme Tokens Could Bring Market-Beating Gains
+Yet SHIB isn’t the only meme coin in the market with solid fundamentals and real potentially to rally, with a handful of new meme coins also looking very promising.Arguably the best of such new tokens is Dogeverse (DOGEVERSE), a multi-chain cryptocurrency that has raised more than $13 million in its hugely popular presale.The first ever Doge-themed multichain cryptocurrency, the coin will launch on Ethereum and then bridge to Polygon, BNB Chain, Solana, Avalanche and Base.Its existence on multiple chains means that DOGEVERSE will have a considerably bigger addressable market than many of its rivals, with the coin potentially gaining much traction and use than it would have as a simpler single-chain token.Also bullish is its hard cap of 120 million tokens, which could make it deflationary over time, especially if it does attract adoption on multiple apps and trading platforms.Another positive feature is its staking system, which will not only reward holders with a passive income, but will take a big chunk of its total supply out of circulation.VIDEOSuch bullish features have clearly had a big influence on investors, who have flocked to the coin’s presale in recent weeks.New investors can still join by going to the official Dogeverse website, where 1 DOGEVERSE costs $0.00031.This price will rise several times before the sale ends, at which point it could rise even higher on exchanges.Buy DOGEVERSE Today                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Boom in the Stock Market for Nvidia shares and crypto mining companies
+
+Yesterday, it was a really good session on the stock market for Nvidia shares and crypto mining companies. 
+Actually, in some cases the daily earnings have been really significant, if compared to the average of traditional stock exchanges.
+
+Crypto mining: Marathon’s boom in the stock market and Nvidia’s shares
+Probably the most representative stock of the American crypto mining industry is MARA by Marathon Holdings.
+Yesterday MARA recorded a sensational +18% daily, although it was mainly a rebound after the losses of the previous days. 
+In fact, yesterday’s closing price of 20.6$ is not much higher than the late April peak of 19.8$, and is still significantly lower than the 22$ at the beginning of April. 
+The MARA title appears to be very volatile, even more than the price of Bitcoin, despite the company mainly focusing on Bitcoin mining.
+The fact is that with the halving of the reward for miners, which occurred on April 20, there were strong doubts about the sustainability of the business of companies that mine Bitcoin.
+During 2024, the MARA stock reached an annual peak on February 28th at over $34, but it had already risen above $30 by the end of December 2023. 
+Starting from February 29th, it began to decline, despite the peak of Bitcoin occurring on March 14th, precisely due to the doubts about the impact of the halving on its business.
+It should be remembered, however, that in October it was just above $7, so since then it has still recorded an incredible +185% in just over seven months. 
+Actually in December a mini-bubble inflated that brought the price above $30, and then burst in March with a drop to $14 in mid-April. Since then it simply bounced back above $20.
+Other cryptocurrency mining actions
+In addition to MARA, you can also analyze the price trend of RIOT stocks. 
+Yesterday Riot Platforms’ stocks gained just over 3%, failing to even rise above the $12 from which the descent started at the end of April. 
+In other words, while MARA yesterday experienced a real boom in the short term, RIOT’s stocks are showing less volatility. 
+The point is that not all crypto mining companies react in the same way to the halving, with some suffering more and others suffering less.
+Nevertheless, even RIOT in the last seven months is showing a good +23% increase, although compared to the $18.7 at the end of December 2023, the current price of $10.7 is significantly lower. 
+The title RIOT suffered a bit more in March, when it dropped from $18.3 at the end of February to $7.8 in the days just before the halving, but since then it has not dropped to these figures. 
+So although the trend may seem similar, there are some significant differences in the performance of various mining companies, depending on how they have reacted to the halving. 
+The Nvidia title
+Another title that is performing well these days is Nvidia’s.
+However, this is a company that operates in a different sector, specifically in the production of chips for artificial intelligence. 
+Yesterday it recorded a great +3.7%, but in reality it has been rising since the beginning of May. 
+The current value of $921 is not far from the all-time high of $974 in early March, as it has only dropped below $760 in mid-April since then, and then rebounded significantly above $900.
+The fact is that in October it was more or less around $400, so in seven months the price of Nvidia shares has more than doubled. 
+If we add that in October 2022 it had also dropped below $110, the gain since then has been 670% in just over a year and a half. Not even Bitcoin has managed to achieve such a gain since October 2022. 
+The apparent correlation between Nvidia’s actions and crypto mining activities
+Although these trends may seem related, they are actually only superficially so due to their dependence on a common underlying dynamic shared by many securities. 
+The key point is liquidity, and above all how it moves in the markets. 
+After the Fed’s QE of 2020/2021, there is still a lot of liquidity in the markets, but it is not stagnant. 
+Although it has decreased slightly from the peak at the end of 2021, there is still a lot of it circulating, and depending on how it moves, it greatly influences the markets and financial assets. 
+In particular, for a few months she has been attracted to stocks related to artificial intelligence, such as Nvidia, and those related to crypto markets, such as MARA and RIOT. This is probably also the basis of the crypto bull run that started in October of last year.
+So it would be wrong to say that the trend of crypto mining companies going public is correlated with stocks like Nvidia, but they are certainly both similarly influenced by liquidity dynamics, which in turn are influenced by the Fed’s monetary policies and the fiscal and economic policies of the US government. 
+
+----------------
+
+Shiba Inu (SHIB) Price Breakthrough Failed: What's Next?
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+Shiba Inu has failed to break through key resistance levels and is now experiencing downward pressure. This movement is characterized by a descending triangle pattern on the charts, indicating potential further declines.The descending triangle, typically viewed as a bearish signal, suggests that sellers are more aggressive than buyers, leading to progressively lower highs. Currently, SHIB is facing resistance along the triangle's upper trend line, while support has been established around $0.0000237. If this support level fails to hold, there is a strong possibility that SHIB could drop toward the next significant support at $0.000021.SHIB/USDT Chart by TradingViewShiba Inu’s market sentiment appears to be tilting toward bearishness. A breach below $0.000021 could lead to a test of the $0.00002 mark. The potential for a breakdown below this level could set the stage for even more of a substantial loss, bringing some troubles for market participants, and for SHIB specifically.On the flip side, if SHIB can gain enough buying pressure to reverse the current downtrend, a return to higher resistance levels such as $0.0000268 could be possible. This would necessitate a significant shift in market dynamics, potentially driven by positive developments within the Shiba Inu ecosystem or broader market sentiment shifts.Monitoring volume right now could be the best way to predict an upcoming move for Shiba Inu. Currently, volume trends have been relatively flat, which typically suggests a lack of conviction in the market's direction. An increase in trading volume, especially on upward movement, would be a positive sign that a stronger rebound might be underway, but only if the market in general is reversing upwards, which is not the case for now, unfortunately.
+
+
+
+----------------
+
+Bitpanda Expands to UAE Hiring Former 1inch Exec to Lead Ops
+
+
+                        
+                            Austrian Firm Bitpanda Expands to UAE Hiring Former 1inch Exec to Lead Ops                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 06:39 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Austrian crypto exchange Bitpanda is expanding its operations to the Middle East and opening a regional office in the United Arab Emirates (UAE).The firm has tapped former 1inch Network’s business development and head of growth Walid Benothman to lead its operations in the region.In an announcement, Bitpanda said it will open its first office in Dubai at the DMCC Crypto Centre and has appointed an experienced team led by Benothman to tailor its offering to the local market.Bitpanda is in the final stages of obtaining its Financial Services Permission (FSP) and said it will continue to work with regulators in the region to make sure it is fully compliant.“The UAE is the ideal place for us to make our entry to the Middle Eastern market. It has the perfect mix of investor demand and innovative regulatory environment that will allow us to deliver the best trading solution available on the market,” said Eric Demuth, co-founder and CEO of Bitpanda, in a press release.The UAE is the fintech unicorn’s first expansion outside of Europe due to the region’s “tech-friendly banking industry” and the country’s crypto-friendly regulatory environment.Bitpanda BTS
+The firm said it will be making its trading infrastructure business dubbed “Bitpanda Technology Solutions” (BTS) available in three months once Bitpanda MENA has finalised obtaining its local licence later this year.Earlier this year, Austrian cooperative bank Raiffeisenlandesbank Niederösterreich-Wien (RLB NÖ-Wien) began allowing its clients to trade digital assets via their banking apps using Bitpanda infrastructure.In April, German federal bank Landesbank Baden-Württemberg entered a crypto partnership with Bitpanda to offer crypto-asset custody services in the second half of 2024. Bitpanda said over the next few months it will work with the German bank to provide corporate clients with a regulated platform using its “investing-as-a-service” infrastructure for crypto-asset custody and procurement. Bitpanda was founded in 2014 in Austria by Eric Demuth, Paul Klanschek and Christian Trummer, achieving unicorn status in 2021.                                                     
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Artificial Intelligence (AI) Tokens Lead Crypto-Market Recovery as Nvidia (NVDA) Share Price Hits One-Month High
+
+Other AI coins, such as SingularityNET's AGIX, Bittensor's TAO and Fetch.ai's FET, have gained between 17% and 23%, outperforming the broader market. Bitcoin, the largest cryptocurrency by market value, has risen 1.7%, while the CoinDesk 20 Index, a broader market gauge, has rallied 0.6%.
+
+----------------
+
+Is BONK Price Heading to Zero? Drops 8.5% as Solana Meme Legend SEAL Raises $250,000
+
+
+                        
+                            Is BONK Price Heading to Zero? Drops 8.5% as Solana Meme Legend SEAL Raises $250,000                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 06:37 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Solana’s second biggest canine meme coin, Bonk ($BONK), tumbled 8.5% overnight as meme coins take some of the heaviest losses amidst a market-wide dip.Bonk now trades at $0.00002525. At this price, it’s about 7% more expensive than it was last week. These numbers make for a more volatile reading than those from market leaders Bitcoin ($BTC) and Ethereum ($ETH), but they are more stable than other high-market cap meme coins. The world’s favorite cryptocurrency with a market cap of over a trillion dollars, Bitcoin, dropped 1.4% in the last 24 hours but grew 3.8% over the seven days and now changes hands around $64,275. Its number one contender, the most commercially important blockchain Ethereum dropped 2.4% overnight but appreciated 1.8% over the seven days and trades at $3,124 as of this writing. Solana-based meme coins like BONK fared much better than their Ethereum or proprietary blockchain counterparts over the last week.Solana projects that posted notable seven-day appreciation include DogWifHat ($WIF), which grew 30%. Book of Meme ($BOME) rallied 27% and Popcat ($POPCAT) mushroomed a staggering 45% over the week.These gains far outdo the top performers among non-Solana meme coins. Original meme/canine coin Dogecoin ($DOGE) only added 14.5% over the seven days while Pepe Coin ($PEPE) added 21%.BONK’s trading chart for the last three months begins with the token setting an all-time high (ATH) of $0.00004547 on March 4, although today’s price represents a 44.5% pullback since then. Source: TradingViewBonk spent the rest of March and April in gradual free fall, bottoming out around $0.000015 before turning green again.With a relative strength index (RSI) of 45 and no clear indication of buying or selling momentum, BONK’s price could go either way by the end of the week, depending on the industry-wide or macroeconomic outlook.Is Solana’s $SEAL the Next Viral Meme After Bonk?
+Solana meme coins will likely be the target for many investors hoping to help the ecosystem develop into the so-called “Ethereum killer” it’s often touted to be.Sealana ($SEAL) is the latest in a long line of hilarious new Solana coins vying for attention. The hillbilly seal has already raised more than$250,000 in a hilarious new presale that’s barely a week old. Sealana is a spin on the viral South Park character Gamer Guy, aka Fat Computer Nerd. Gamer Guy appeared in the hit cartoon’s side-splitting World of Warcraft episode and instantly became a viral meme all on his own for his milk-bottle glasses, screen-lit look of concentration, messy room and gravity-defying girth. He has symbolized anyone from the legions of disgruntled keyboard warriors writing sharp, acerbic opinions in internet comments sections, to a kind of Everyman – a symbol of the idler in everyone.Beached at his desk and ballooning by the day, Sealana’s roving flippers reach for sustenance of chips and tinned tuna between filthy degen trades. It’s the American Dream rewritten in Web3!For every 1 SOL, investors get 6,900 $SEAL tokens when the presale ends. This gives them some tidy booty to hoard (or HODL) to exploit some potentially explosive appreciation through the presale and beyond.Users can pay using a widget on the website or by sending SOL from a decentralized wallet to this address: DJ15ZYXqUNMYJ3hL7z4ciSaSFAw5cbos3YjGpdvwmF6c.Follow the latest developments on Sealana’s X account.Buy Sealana at the official website here.                                                     
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
