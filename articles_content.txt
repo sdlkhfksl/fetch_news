@@ -1,273 +1,3 @@
-Crypto Scheme Case: Australian Court Gives Win To Watchdog
-
-
-								Recent reports revealed that the Australian Securities and Investment Commission (ASIC) was granted its first victory on a non-cash payment case involving cryptocurrencies. Per the documents, an Australian court ruled partially in favor of the watchdog’s lawsuit against BPS Financial Pty Ltd (BPS).
-
-“Qoin Scheme” Earns $26 Million In Sales
-In 2022, ASIC initiated civil penalty procedures against BPS for alleged “misleading, false or deceptive” advertising and engaging in unlicensed operations with a non-cash payment facility involving a crypto asset token.
-The Australian regulator claimed that the Qoin Facility was a “non-cash payment facility” established by the company in 2020. The “Qoin scheme” included the Qoin tokens, the Qoin Wallet, and a distributed digital ledger implemented by blockchain technology.
-Moreover, ASIC alleged that BPS promoted the tokens to retail consumers and business owners as a payment method for “goods and services offered by Qoin Merchants.”
-Nonetheless, the tokens could only be traded on the BTX Exchange, operated by Block Trade Exchange Pty Ltd (BTX), a company under BPS. The crypto exchange seemingly only allowed trading Qoin tokens for Australian dollars, and over time, it allegedly imposed restrictions that limited the ability to exchange the token.
-According to the press release, the Qoin Wallet had over 93,000 users by September 2022. Additionally, it received over AU$40 million, around $26.5 million, from Qoin token sales.
-Court Rules In Favor Of Watchdog
-On May 3, 2024, the Australian Federal Court found that BPS was guilty of most of the charges leveled by ASIC. Judge J Downes ruled that the company “engaged in unlicensed conduct when offering the ‘Qoin Wallet,’ a non-cash payment facility which used a crypto-asset token.”
-Judge Downes considered that BPS broke the Corporations Act for at least 10 months in 2020 as it did not hold an Australian Financial Services License. As a result, the company was not authorized to “issue or provide advice about the Qoin Wallet.”
-Moreover, the judge found that the company engaged in misleading marketing and representation of the product. The reasons for this ruling include BPS’s false claims that the Qoin Wallet was officially registered and that said wallet could be used to purchase goods and services from an “increasing number of Qoin Merchants” when it was declining.
-
-Qoin Merchant's decresing numbers over the years. Source: ASIC
-Additionally, the Court found that the only crypto exchange that accepted Qoin before November 2021 was the BTX exchange. This contradicted the claims that Qoin tokens could be traded for other crypto assets or AUD from different exchanges.
-Clearer Regulatory Framework For Crypto?
-ASIC Chair Joe Longo deems this “a significant ruling as the first court outcome against a non-cash payment facility involving crypto.”  However, the Court did not agree with all of ASIC’s arguments against BPS.
-According to the official document, Judge Downes disagreed with the regulator’s claim that the Qoin Wallet and the Qoin Blockchain were one single scheme as part of the Qoin Facility:
-
-Contrary to ASIC’s submissions, the Qoin Blockchain, a means of acquiring Qoin and a means whereby business operators who hold Qoin Wallets can register as Qoin Merchants are not components of, and are not themselves, the mechanism which allows the user to make the non-cash payment.
-
-The Court’s rejection becomes a crucial ruling against the regulator’s attempt to classify blockchain technology as a financial product under Australian law. According to ASIC’s Chair, the agency has taken several enforcement actions against crypto asset businesses “with the intention of clarifying what is a regulated product and when the provider needs a license.”
-Lastly, Longo added that the enforcements are meant as a message to the crypto community:
-
-These proceedings should send a message to the crypto industry that their products will continue to be scrutinized by ASIC to ensure consumers are protected and that they comply with regulatory obligations.
-
-
-
-Total crypto market capitalization is at $2.3 trillion in the weekly chart. Source: TOTAL on TradingView
-Featured Image from Unsplash.com, Chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-The Digital Chamber slams SEC for issuing Wells Notice against Robinhood
-
-The Digital Chamber, a crypto trade association, condemned the SEC for submitting a Wells notice to Robinhood Crypto.In a statement on May 6, the association expressed “profound disappointment and concern” over the action and called it an example of regulatory overreach.The Digital Chamber emphasized its ongoing opposition to the SEC extending its reach without authorization from Congress. It noted that Congress is “actively deliberating legislation” to define regulatory jurisdiction over crypto and said the SEC has violated the process.To address jurisdictional issues, the Digital Chamber urged for “immediate legislative action” and said SEC Chair Gary Gensler should be compelled to testify before Congress.Support for companies and investorsThe Digital Chamber defended Robinhood, acknowledging the firm’s self-proclaimed good-faith compliance efforts and attempts to register with the SEC.The association said:“The Digital Chamber stands ready to support Robinhood Crypto and other affected companies… “It did not explicitly describe plans to submit an amicus brief in defense of Robinhood but said it had done so in other cases in the past, highlighting its submission in Kraken’s case in February.The Digital Chamber further asserted the SEC’s actions are at odds with the regulator’s investor protection mandate, noting that aggressive enforcement harms new companies and reduces investors’ ability to make autonomous financial decisions.Robinhood Crypto received Wells noticeRobinhood disclosed in a May 4 SEC filing that its subsidiary, Robinhood Crypto, received a Wells notice. It commented further on the development in a May 6 post.The Wells notice indicates the SEC intends to recommend enforcement action against Robinhood. However, the SEC has not yet filed a lawsuit.Robinhood nevertheless described how it might oppose the SEC’s intentions. The company said it intends to engage with the SEC to show the weakness of any case in terms of the facts and the law. It also asserted the assets it lists are not securities.Robinhood said it will continue to offer its crypto-related services.Mentioned in this articlePosted In: US, Regulation
-
-----------------
-
-Coinbase and Brian Armstrong hit with new lawsuit over illegal securities | Cryptopolitan
-
-Coinbase, a major player in the cryptocurrency exchange market, and its CEO, Brian Armstrong, are now facing a class-action lawsuit. The lawsuit alleges that Coinbase, contrary to its denials, has been engaging in the sale of securities without the necessary registrations, thus breaching various state securities laws.For over a decade, Coinbase has positioned itself at the edge of legality within the murky waters of the cryptocurrency industry. The foundation of its operations is now under scrutiny, accused of being a mix of deceit and hope.Essentially, the company operated on the notion that while it might eventually be caught for selling unregistered securities, it would simply deal with the consequences later rather than proactively seeking the necessary permissions.Regulatory Missteps and AllegationsAccording to legal documents, Coinbase has openly admitted in its user agreements that it functions as a “Securities Broker.” It explicitly states that the crypto assets it deals in, including SOL, MATIC, NEAR, MANA, ALGO, UNI, XTZ, and XLM, are classified as “financial assets.” This classification aligns these assets with investment contracts or other forms of securities as defined under California Commercial Code Section 8102.Despite such admissions, Coinbase did not register itself, its employees, or the digital asset securities it marketed. This omission came into sharper focus when Coinbase registered as a public entity with the U.S. Securities and Exchange Commission (SEC). In doing so, it acknowledged its dealings in securities but failed to comply with the registration requirements for the same.The consequences of these actions are now being felt as plaintiffs in the lawsuit, consisting of several California residents like Gerardo Aceves from Yuba City and Thomas Fan from San Ramon, and others from across the nation, seek statutory damages. They allege investment losses due to Coinbase’s actions, underscoring the broader implications of Coinbase’s alleged regulatory non-compliance.Details of the Class and Implications for CoinbaseThe lawsuit pulls together a diverse class of plaintiffs from various parts of the United States, each of whom engaged with Coinbase’s digital investment platforms and purportedly suffered financial harm as a result of the company’s alleged disregard for securities laws.Defendants in the case include not only Coinbase Global, Inc. and its subsidiary Coinbase, Inc., but also Coinbase Asset Management, LLC, and CEO Brian Armstrong. These entities and individuals are accused of systematically failing to register the sale of digital asset securities and those selling them, an oversight that contravenes federal and state securities laws.Coinbase’s early recognition of the potential securities classification of digital assets and its strategic decisions thereafter form a major part of the allegations. Documents suggest that Coinbase had developed a Securities Law Framework to evaluate and manage the risks associated with the sale of digital tokens under U.S. federal securities laws.However, this framework was apparently not sufficient or was disregarded when it came to compliance with legal standards, as the digital assets continued to be offered without the necessary registrations.California’s Role and JurisdictionThe lawsuit highlights California’s substantial role in the matter, noting that the state’s laws are applicable to the case due to Coinbase’s large presence and business operations within the state. This ties back to California’s vested interest in regulating companies that engage in business within its borders, particularly when such activities may impact its residents and the integrity of its market.With the headquarters of Coinbase in California, and massive business transactions occurring there, the application of California law is deemed appropriate and constitutionally sound. This legal stance is expected to influence the proceedings significantly as the case unfolds, emphasizing the state’s capacity to enforce its securities laws against entities operating within its jurisdiction.
-
-
-----------------
-
-FTX Transfers $8.3M a Day Before Amended Proposal Deadline for Restructuring Plan
-
-
-                        
-                            FTX Transfers $8.3M a Day Before Amended Proposal Deadline for Restructuring Plan                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 6, 2024 19:21 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        A May 6 transfer of $8.3 million associated with the now-bankrupt FTX exchange and its sister trading firm, Alameda Research, has raised questions about the future of creditors awaiting compensation.The transfer occurred just a day before FTX debtors were scheduled to release an amended restructuring plan for the exchange, adding a layer of intrigue to an already complex situation.FTX and Almada Research: A Friend In CrimeAccording to PeckShield alerts, two wallets linked to FTX and Alameda Research conducted the transfers. The FTX-associated wallet moved 860 Tether Gold (XAUT) tokens, valued at over $2 million, to algorithmic trading firm Wintermute. Meanwhile, an Alameda-related wallet transferred 2,027 Ether, worth more than $6.3 million, to two undisclosed addresses. While the exact motive behind these transactions is unclear, they coincide with a critical juncture in FTX’s bankruptcy proceedings.The impending deadline for FTX debtors to submit an amended version of the “Plan and Disclosure Statement” on May 7 has left creditors eagerly anticipating insights into how they will be compensated for their losses. The amended restructuring plan promises to offer creditors more clarity regarding their path to recovery. Concerns loom large among some creditors who fear that the revised plan may not adequately address their interests, however.One such voice of caution is Sunil, an FTX Customer Ad-Hoc Committee member representing over 1,500 FTX creditors. Sunil has urged users to scrutinize the upcoming plan, warning that it may favor debtors at the expense of creditors. “S&C [Sullivan & Cromwell] likely include clauses to absolve their liability for crimes,” said Sunil in a May 5 X post. “S&C puppet John Ray secures a position for himself. Property rights not recognized [for creditors].”FTX Bankruptcy: A Catastrophe To The Crypto Market
-Sunil highlighted potential issues, such as clauses to absolve liability for crimes and the lack of recognition of creditors’ property rights. Ongoing legal battles, including lawsuits against bankruptcy firm Sullivan & Cromwell (S&C), add to the complexity. “S&C knew of FTX US and FTX Trading Ltd.’s omissions, untruthful and fraudulent conduct, and misappropriation of Class Members’ funds,” claimed FTX creditors in a February 16 court filing. “Despite this knowledge, S&C stood to gain financially from the FTX Group’s misconduct and agreed, at least impliedly, to assist that unlawful conduct for its own gain.”These legal disputes further prolong the resolution process, potentially delaying creditors’ access to compensation. With over $490 million worth of claims already sold through 507 transactions, the path to resolution appears fraught with challenges.FTX, amidst bankruptcy proceedings, recently agreed to sell the majority of its shares in AI startup Anthropic for $884 million. The deal awaits final approval from Judge John Dorsey, who oversees FTX’s bankruptcy proceedings. If approved, it would represent nearly two-thirds of FTX’s total shares in Anthropic.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Kenya Partners with Marathon Digital to Refine Cryptocurrency Policies | Cryptopolitan
-
-Damilola is a crypto enthusiast, content writer, and journalist. When he is not writing, he spends most of his time reading and keeping tabs on exciting projects in the blockchain space. He also studies the ramifications of Web3 and blockchain development to have a stake in the future economy.
-
-----------------
-
-Hightower Advisors, SouthState Bank disclose investments in spot Bitcoin ETFs
-
-Hightower Advisors disclosed a $68 million investment in spot Bitcoin ETFs in a May 6 filing.The 13F filing indicates that the firm holds 709,956 shares of Grayscale’s GBTC worth $44.8 million, 200,084 shares of FBTC worth $12.4 million, 188,397 shares of BlackRock’s IBIT worth $7.6 million, and 23,964 shares of Ark Invest’s ARKB worth $1.7 million.It also disclosed two smaller investments: 25,449 shares of Bitwise’s BITB worth $988,000 and 19,129 shares of Franklin Templeton’s EZBC worth $788,000.Hightower’s investment in the six spot Bitcoin ETFs represents a small fraction of the $61.7 billion total disclosed in its latest filing.SouthState buys GBTC, IBITAnother financial institution, SouthState Bank, disclosed investments in two spot Bitcoin ETFs worth  $577,198 combined through a 13F filing.The company reported 6,606 shares of Grayscale’s GBTC worth $417,301, plus 3,951 shares of BlackRock’s IBIT worth $159,897.SouthState Bank’s spot Bitcoin ETF investments represent a small part of the $1.3 billion total reported in its filing.Institutional investment continuesEach filing represents continued institutional entry into the spot Bitcoin ETF market.Hightower is one of the largest US-based registered investment advisors and wealth management firms, with $130 billion of assets under management (AUM).SouthState Bank is a Florida-based bank. Following a merger with CenterState Bank, the two entities have a combined $34 billion in assets under management.The latest reports follow several other similar filings. French banking giant BNP Paribas disclosed an investment in IBIT on May 2. Burkett Financial Services reported investments in April, while Legacy Wealth Asset Management and others also reported investments in the same month.BlackRock’s head of digital assets, Robert Mitchnick, has predicted that financial institutions will increasingly invest in and trade spot Bitcoin ETFs in the coming months. The various recent disclosures from financial institutions support his claim.Spot Bitcoin ETFs currently have $53 billion in assets under management.Mentioned in this article
-
-----------------
-
-How New MetaMask Feature Stops Transaction Inefficiency Losses - DailyCoin
-
-
-        
-MetaMask has launched a new feature, Smart Transactions.
-
-
-
-Smart Transactions promises to help users avoid transaction inefficiency losses.
-
-
-
-The new feature leverages a virtual mempool to offer users greater privacy, reliability, and transaction control.
-MetaMask is back at it again.Over the past few months, the popular Ethereum wallet has rolled out feature after feature to improve the experience of its users. Most recently, at the beginning of April 2024, it launched a Daylight API integration to make it easier for users to track the airdrops they are eligible for. Now, MetaMask is rolling out a new feature to help users save significant costs and avoid exploitation on the Ethereum network.On Monday, May 6, MetaMask unveiled a new feature called Smart Transactions, described as “a reimagined transaction experience” designed to help users avoid losses due to transaction inefficiencies. These inefficiencies include failed transactions and MEV extraction strategies.MEV refers to extra profit that network participants can obtain from users by re-ordering transactions before they are processed. One of the popular MEV strategies is frontrunning user transactions. 
-Bad actors front-run user transactions by leveraging the transparency of the mempool (a waiting room for transactions on the blockchain). These malicious actors, typically bots, use the mempool to identify high-value transactions; after identifying these transactions, these bots execute a similar transaction before the original is processed. After successfully executing their transaction, the bot quickly sells to the original user at a higher price, compelling them to pay more than initially expected.According to MetaMask, failed transactions and MEV frontrunning strategies cost Ethereum users $440 million annually. Stressing the severity of the problems in the status quo, Executive Director of Product at MetaMask Gal Eldar suggested that they created a “frustrating and unpredictable” user experience.
-"Submitting transactions to a distributed network is hard. This complexity often results in a user experience that is both frustrating and unpredictable. In many cases, it can lead to significant financial leakage due to frontrunning attacks, costly on-chain reverts, and overpayments for block space. It's a reality many users, whether knowingly or not, have faced and reluctantly come to accept. Over time, it became increasingly clear that we could do better and tackle these problems head-on."So, how does Smart Transactions tackle these problems?Virtual MempoolSmart Transactions utilizes a virtual mempool where users’ transactions can remain private until published on the Ethereum mainnet. With these transactions held in private, they can not be front-run by MEV bots. Beyond privacy, the virtual pool offers Smart Transactions up to 99.5% success rates and lower fees through “a 30 millisecond Just-In-Time simulation service.” At the same time, the new feature comes with a built-in dashboard that allows users to monitor their transactions directly within MetaMask without visiting a third-party blockchain explorer website.MetaMask has promised to release updates to the Smart Transactions feature in the coming months to optimize results.On the Flipside 
-The MetaMask Smart Transactions feature is opt-in, meaning users can decide whether to use it and switch it off whenever they want.
-
-
-
-The Smart Transactions feature relies on third parties.
-Why This MattersAs highlighted by MetaMask, blockchain inefficiencies pose cost and user experience hurdles to users. Tackling these issues through features like Smart Transactions will likely be critical to crypto adoption.Read this for more on MetaMask:How MetaMask Now Allows Users to Check Airdrop EligibilitySee how Ethereum supply growth is changing with low fees:Ethereum Turns Inflationary as Fees Remain at Record Lows    
-              
-    
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Ethereum Burn Rate Hits Yearly Low: What This Means For ETH's Future
-
-
-                            In recent weeks, Ethereum has displayed subtle signs of recovery amidst a generally bearish crypto market, with the altcoin mimicking Bitcoin’s modest uptrend.
-Despite Ethereum’s price increasing slightly by 0.2% over the last 24 hours, a parallel trend that might significantly affect Ethereum’s economic model has been unfolding beneath the surface.
-
-Decline In Network Activity Reduces ETH Burn
-April witnessed Ethereum’s ETH burn rate hitting an annual low, primarily due to a significant decrease in network transaction fees.
-These fees have typically fluctuated just below 10 gwei this year, but recent weeks have seen them dip to some of the lowest levels, directly influencing the rate at which ETH is burned.
-Ethereum Average Gas Fee. | Source: YCharts
-This reduced burn rate is evidenced by the stark drop in daily burned ETH, which reached a low of 671 ETH in the past day a notable decrease from the daily figures of 2,500–3,000 ETH seen earlier in the year.
-Ethereum Burn Rate in the past day. | Source: Ultrasoundmoney
-Such a decline in burn rate is not merely a statistical anomaly but a reflection of broader shifts within the Ethereum network.
-A significant factor contributing to the lowered gas fees is the increased migration of network activities to Layer 2 solutions, which enhance transaction speeds while lowering costs.
-Moreover, innovations like blob transactions, introduced in Ethereum’s recent Dencun upgrade, have further optimized costs on these secondary layers.
-Notably, Blobs are a feature introduced to enhance Ethereum’s compatibility with Layer 2 solutions like zkSync, Optimism, and Arbitrum by efficiently managing data storage needs. This functionality is part of the Dencun upgrade, which integrates proto-danksharding via EIP-4844.
-While beneficial in reducing transaction fees, these technological strides pose challenges to Ethereum’s deflationary mechanisms.
-This upgrade introduced a new fee structure in which a part of every transaction fee, the base fee, is burned, potentially reducing the overall ETH supply. However, with decreased transaction fees, the anticipated deflationary pressure via burning has softened, signaling a shift to a more inflationary trend in the short term.
-According to Ultrasoundmoney, Ethereum’s supply dynamics have swung to a mildly inflationary mode with a growth rate of 0.498%. This shift could realign if network activity intensifies, leading to increased transaction fees and, consequently, higher burn rates.
-Ethereum supply growth rate. | Source: Ultrasoundmoney
-Ethereum Market Response
-Despite these underlying network dynamics, Ethereum’s market price has struggled to regain its former highs above $3,500. The asset trades around $3,085, reflecting a slight downturn over recent weeks.
-ETH price is moving sideways on the 4-hour chart. Source: ETH/USDT on TradingView.com
-This price behavior underscores the broader market’s reaction to internal network changes and external economic factors, such as regulatory struggles from the US Securities and Exchange Commission (SEC) and macroeconomic uncertainties.
-
-Looking ahead, the trajectory of Ethereum’s gas fees and subsequent ETH burn rate will be crucial in determining the sustainability of its economic model.
-Featured image from Unsplash, Chart from TradingView
-                            
-                            
-                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
-                                                            
-                                                            
-                                                    
-                    
-
-----------------
-
-Cardano Founder Considers Partnership With Bitcoin Cash - What Is It About? | Bitcoinist.com
-
-
-								Cardano’s (ADA) founder, Charles Hoskinson, recently raised the possibility of Cardano partnering with Bitcoin Cash. He noted how significant this partnership could be for Bitcoin Cash as it would put it ahead of networks like Bitcoin. 
-What Cardano’s Potential Partnership With Bitcoin Cash Is About
-Hoskinson conducted a “hypothetical poll” on his X (formerly Twitter) platform, asking his followers if they would like to see Bitcoin Cash become a Cardano “partnerchain.” He noted that this partnership would upgrade Bitcoin Cash with “Useful Proof of Work Leios, NiPoPoWs, and Ergo tech.”
-
-Hoskinson further claimed that the partnership would make Bitcoin Cash the “fastest and most useful proof of work chain (PoW) ever built.” At the time of writing, over 13,000 people have voted on the poll, with 67.7% voting in favor of the partnership. Ben Scherrey, founder and CTO of blockchain firm Biggest Lab, also supports the move, noting how both chains share similarities. 
-He stated in an X post that he “always thought there was some natural synergy between the two chains given the shared UTXO model that allows for high scalability and decentralization.” Meanwhile, it is worth noting that Bitcoin Cash is already known to have an edge over Bitcoin as it is faster, cheaper, and more scalable. 
-Therefore, Hoskinson’s claim that Bitcoin Cash will become the fastest and most useful PoW may be valid. Upgrading Bitcoin Cash with PoW Leios and Ergo tech means the network can process transactions faster and have a more efficient smart contract functionality. However, the concept of making Bitcoin Cash a Cardano “partnerchain” is still unclear, considering that they operate different consensus mechanisms. 
-Cardano Also Set To Undergo Two Major Upgrade
-Cardano is also set to experience two significant upgrades. One is the Chang hard fork, which the network plans to carry out this quarter. This will promote decentralized governance on the blockchain as Cardano shifts to a community-driven governance model. Given the criticism that Hoskinson has prevented the network from progressing, this could change the outlook of the network. 
-
-Specifically, Tom Dunleavy, Partner and Chief Investment Officer (CIO) at MV Capital, once called Hoskinson a “megalomaniac” who is “unwilling to change or adapt to the ecosystem.” Therefore, with the community having more control, there could be changes in the network that could help it adapt to the ecosystem. 
-The second upgrade is the introduction of the Ouroboros Leios protocol, which will also take place this year. This upgrade is expected to enhance Cardano’s scalability and efficiency. Hoskinson noted that this development is a big step towards solving the blockchain trilemma of security, scalability, and decentralization. 
-
-ADA price slips toward $0.45 | Source: ADAUSDT on Tradingview.com
-Featured image from Forbes, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-CoinStats launches Degen Plan to enhance trading tools for serious crypto investors
-
-CoinStats, a prominent crypto tracker and portfolio management platform, recently unveiled the Degen Plan — a premium subscription offering tailored for crypto investors seeking enhanced analytics capabilities.Degen is one of the most popular terms within the crypto industry. Coingecko defines Degen traders as those who take trades without due diligence and research, often aping signals and FOMO-ing into pumps. Essentially, a degen trader buys into an asset not because they see value but because they believe others will join in after them and speculate on the price swings.CoinStats wants to tap into this trading community by offering a solution that gives traders unlimited daily syncs, a transaction history accommodating up to 1 million transactions, the capacity to monitor 500 portfolios, and access to all its Premium benefits.Moreover, subscribers can anticipate expedited customer support, ensuring prompt responses within one hour for any inquiries or issues.CoinStats founder Narek Gevorgan said the Degen Plan addresses the advanced needs of top-tier users, providing an array of powerful tools and features.Gevorgan remarked:“Joining Degen is joining a group of crypto investors who demand the best. It’s for those who want to dive deeper, track smarter, and move faster in the crypto universe.”The plan, priced at $62.91 per month, is poised to attract a niche segment of traders characterized by their commitment to advanced trading strategies and thorough portfolio management.In addition to introducing the Degen Plan, CoinStat has rolled out a suite of new features to enhance portfolio analytics. These features encompass asset allocation by category, interactive wallet tracking, identification of top gainers and losers, and detailed chain allocations.
-
-----------------
-
-How Many Ethereum Validators? 💭 - YouTube
-
-AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
-
-----------------
-
-Whale Alert: Ethereum (ETH) Investor Books Millions in Profits After Year-Long Hold | Cryptoglobe
-
-
-                                
-A major Ethereum investor, often referred to in the cryptocurrency world as a “whale,” appears to be cashing in on a successful year, according to data analysis from blockchain intelligence service Lookonchain.
-
-
-
-The investor, reportedly purchased a significant amount of Ether a year ago, at a price point of around $1,890 per token and has, over this past week, they initiated a series of transactions that suggest profit-taking.
-
-
-
-The whale first withdrew 12,906 ETH, valued at roughly $24.39 million at the time, from the leading cryptocurrency exchange Binance. The tokens were then deposited into Lido, a platform that allows users to earn interest on their holdings through liquid staking – meaning users can earn interest by staking their ETH, while receiving a liquid token representing the staked assets that can be usd elsewhere.
-
-
-
-This move could indicate the investor’s intention to hold the asset for the long term while earning passive income. However, their actions suggest a shift in strategy as on April 30, coinciding with a market dip, the whale withdrew 7,000 ETH from Lido and redeposited the funds back onto Binance.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-This swift transfer, suggests the investor aimed to capitalize on a potential short-term price swing.
-
-
-
-
-
-
-
-The total profit on the 7,000 ETH sold likely exceeds $16 million, highlighting the significant gains made by the whale since their initial purchase, according to the blockchain analysis service.
-
-
-
-The price of the second-largest cryptocurrency by market capitalization saw a significant swing over the past week, dropping from around $3,250 to a low just above $2,850 before it started to recover to its initial starting point. The cryptocurrency has since started plunging, with ETH now trading below $3,100 again.
-
-
-
-Year-to-date, the cryptocurrency is up more than 35% as it gained from a wider cryptocurrency market recovery that saw the flagship cryptocurrency Bitcoin rise by more than 50% over the same period.
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
 Apple's AI Ambitions Emerge Ahead of iPad Event - Decrypt
 
 The next Apple event is upon us—kicking off at 10 a.m. ET on Tuesday—and while the focus is typically on the latest and greatest hardware, investors and consumers alike are meanwhile hoping to learn more about whether and how the tech titan plans to take a bold step into harnessing artificial intelligence.The secretive, Cupertino-based company has telegraphed nothing, although late leaks have confirmed what the event logo telegraphed when it was first unveiled last month: new iPads are coming, according to famed Apple reporter Mark Gurman. While there will undoubtedly be new features and apps announced to take advantage of the upgraded specs, industry watchers will likely have to wait until next month for solid AI news.June will bring the annual Worldwide Developers Conference (WWDC), where AI is expected to be integrated across the Apple ecosystem.Most tantalizingly, Gurman suggests that Apple plans to replace or enhance Siri with a generative AI model through a partnership with OpenAI or Google. Following similar moves by Microsoft, Apple is also reportedly planning to add AI-powered summarization and autocomplete features to its Pages, Numbers, and Keynote applications.According to Bloomberg, Apple's software development Xcode tool will likely get AI features to keep up with Microsoft Copilot and Github Copilot. Generative AI chatbots will help handle AppleCare services. Even Apple Music is expected to get an AI upgrade, allowing the platform to create personalized Spotify-like playlists.Meanwhile, Apple Insider claims the native iPhone web browser Safari will also get an AI upgrade, including an advanced content blocking tool called Web Eraser. The Apple-centric media outlet also says the company is working on an AI-powered visual search feature.Apple's latest quarterly earnings call, held last week, included talk of AI, with Apple CEO Tim Cook saying it has saved lives via the Apple Watch.“We're harnessing AI and machine-learning to power lifesaving features like a regular rhythm notifications and fall detection,” he said. “We see Generative AI as a very key opportunity across our products, and we believe that we have advantages that set us apart there.”He went as far as saying the company's current MacBook Air laptop is “the best consumer laptop for AI.”When pressed to explain whether AI would become a major factor in consumer purchasing decisions, when software upgrades don't usually generate the same buzz that new hardware does, Cook demurred.“I don't want to get in front of our announcements, obviously,” he said. “We'll be talking more about it as we go through the weeks ahead.”While Apple has not been as visible in the global AI arms race as Google, Microsoft, and Amazon, the company says it has been working with the emerging technology for years."We've been doing research across a wide range of AI technologies, including generative AI, for years,” Cook told Reuters in August. “We're going to continue investing and innovating and responsibly advancing our products with these technologies to help enrich people's lives.”In November, speaking to singer Dua Lipa on the At Your Service podcast, Apple CEO Tim Cook emphasized that AI needs to be developed with safety in mind.“What is needed with this new form of AI, generative AI, is some rules of the road and some regulation around this,” Cook said. “I think many governments around the world are now focused on this and focused on how to do it, and we're trying to help with that. And we're one of the first ones that say this is needed, that some regulation is as needed.”In December, Apple launched MLX, an open-source framework for machine learning on its M-series CPUs, entering a field traditionally dominated by Linux and Microsoft.In February, Apple teamed with the University of California Santa Barbara to develop its Multimodal Large-Language Model-Guided Image Editing (MGIE) software, an AI model that can edit images based on natural language.And just last month, in a bid to challenge Microsoft’s Phi-3, Apple released a series of small AI language models, known as OpenELM, in 270 million, 450 million, 1.1 billion, and 3 billion parameter versions.Apple’s push into AI has not gone unnoticed by regulators like U.S. Senator Elizabeth Warren, calling the anti-trust lawsuit against Google critical, highlighting potential deals with Apple.“Google controls 90% of the search engine market, paying billions to Apple to be the default web browser,” Warren wrote on Twitter. “What's next? Google's in talks to embed its AI tools in iPhones.”Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
@@ -8508,3 +8238,320 @@ In the latest effort to achieve this goal, the platform has unveiled a new produ
 Cryptocurrency Optimism Down More Than 3% Within 24 hours - Benzinga
 
 Over the past 24 hours, Optimism's OP/USD price has fallen 3.73% to $2.7. This is opposite to its positive trend over the past week where it has experienced a 15.0% gain, moving from $2.33 to its current price. The chart below compares the price movement and volatility for Optimism over the past 24 hours (left) to its price movement over the past week (right). The gray bands are Bollinger Bands, measuring the volatility for both the daily and weekly price movements. The wider the bands are, or the larger the gray area is at any given moment, the larger the volatility.The trading volume for the coin has fallen 23.0% over the past week, moving in tandem, directionally, with the overall circulating supply of the coin, which has decreased 0.21%. This brings the circulating supply to 1.05 billion, which makes up an estimated 24.34% of its max supply of 4.29 billion. According to our data, the current market cap ranking for OP is #46 at $2.82 billion.Powered by CoinGecko APIThis article was generated by Benzinga's automated content engine and reviewed by an editor.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+What Polygon Miden Brings to the Table as Testnet Goes Live - DailyCoin
+
+
+        
+Polygon Miden has gone live on testnet.
+
+
+
+Miden promises to unlock new use cases with a combination of features that make it suitable for privacy and high throughput use cases.
+
+
+
+According to Polygon (MATIC) Labs CEO, it may be the team’s most ambitious project yet.
+Polygon Miden is inching toward a full launch.After over two years of development, developers have released the ZK-rollup on a testnet, allowing users and developers to interact with some of its novel features that are not feasible on other EVMs.
+How does Miden differentiate itself from other ZK-rollups, including the Polygon zkEVM?A Home For Privacy and High-Throughput ApplicationsIn an X post on Monday, May 6, Polygon (MATIC) Labs disclosed that the Miden Alpha testnet was live, calling users and developers to explore the network and try token transfers and smart contract execution.Polygon Miden differentiates itself from most other ZK-rollups with two defining features: client-side proving and parallel execution. Client-side proving allows users to generate and verify proofs about data on their devices without posting the data on the network. The benefits of this system are two-fold: firstly, it enables greater privacy. Secondly, it reduces the network’s workload, allowing for greater scalability. Polygon Miden’s scalability is further bolstered by parallel execution, which allows concurrent processing of multiple tasks across several processors.
+The network’s key features make it suitable for privacy and high throughput applications. The features also unlock several capabilities, such as regulatory compliance for DeFi protocols while maintaining user privacy.Polygon’s “Most Groundbreaking Chain?”Commenting on the Miden testnet launch, Polygon Labs CEO Marc Boiron described it as “the most groundbreaking chain in the space” as he urged users to explore it.Miden expands Polygon’s blockchain ecosystem, which includes the PoS chain that is set to transition to a zkEVM validium chain to host payments-focused applications, and the standard zkEVM, which is projected to be the ecosystem’s DeFi home.Per Polygon’s multichain roadmap, the Miden chain will share liquidity with other chains in the Polygon ecosystem through the AggLayer.On the Flipside Why This MattersPolygon (MATIC) is one of the most popular Ethereum scaling solutions. The Miden project promises to address several concerns with blockchain privacy, including how users can maintain privacy and remain compliant.Read this for more on Polygon:Polygon (MATIC) Plunges in BTC-Led Flush: Can It Hold Support?See how Axelar intends to revolutionize blockchain interoperability:How Axelar Intends To Connect Bitcoin With Over 65 Other Chains    
+              
+    
+
+----------------
+
+CFTC Chair Predicts Tsunami Of Crypto Enforcement Actions In Next 2 Years | Bitcoinist.com
+
+
+								As the US Securities and Exchange Commission (SEC) continues to scrutinize crypto industry players, including Robinhood, Binance, Coinbase, and Ripple, the Chair of the Commodity Futures Trading Commission (CFTC), Rostin Behnam, warns of an impending surge in enforcement actions. 
+Crypto Faces Inevitable Wave Of Enforcement Actions
+At the Milken Institute’s 27th annual Global Conference, Behnam emphasized the lack of regulatory framework and transparency within the growing crypto industry, which he believes will inevitably lead to more fraud and manipulation cases.
+Behnam anticipates a “cycle of enforcement actions” within the next six months to two years, driven by the rapid appreciation of digital assets and heightened interest from retail investors. 
+
+As a regulator, Behnam expresses concerns about the absence of clear rules and tools typically employed by regulators to maintain market integrity. Without proper regulations in place, Behnam argues that fraud and manipulation will persist.
+The recent issuance of a Wells Notice by the SEC against Robinhood further highlights the regulatory pressure faced by industry players. 
+Dan Gallagher, Chief Legal, Compliance, and Corporate Affairs Officer at Robinhood, expressed disappointment in the SEC’s decision, asserting that the assets listed on their platform are not securities. Gallagher remains confident in Robinhood’s position and its commitment to regulatory compliance.
+SEC Commissioner Hester Peirce, on the other hand, is known for her pro-crypto stance. She has previously criticized the lack of clear rules and the SEC’s skeptical approach towards cryptocurrencies. Peirce advocates for improved and updated regulatory frameworks that allow the industry to thrive and encourage innovation.
+CFTC And SEC Lock Horns 
+During his remarks, Behnam further emphasized that without action from Congress and increased regulatory transparency, enforcement agencies are likely to resort to lawsuits. 
+The CFTC Chair acknowledges the challenges of getting legislation passed but notes the momentum and desire from lawmakers to close regulatory gaps, particularly in stablecoin legislation.
+The ongoing interagency conflict between the CFTC and the SEC regarding classifying major cryptocurrencies further complicates regulatory matters. 
+The CFTC recognizes cryptocurrencies like Bitcoin, Ethereum, and Litecoin as commodities, while the SEC’s current stance, led by Chair Gary Gensler, limits the commodity classification solely to Bitcoin. 
+This discrepancy has sparked debates within the industry, with legal experts suggesting that the CFTC’s position challenges the SEC’s authority.
+
+The need for comprehensive regulatory frameworks becomes increasingly apparent as the crypto industry continues to evolve and gain mainstream attention. 
+The outcome of ongoing enforcement actions and regulatory developments will significantly shape the industry’s future, impacting market participants and investors.
+The 1-D chart shows the total crypto market cap’s valuation at $2.27 trillion. Source: TOTAL on TradingView.com
+Featured image from Shutterstock, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+BlackRock, Ondo, Superstate: The Biggest Movers in the RWA Sector in Q1
+
+While still early, the RWA space is one to watch closely as a potentially significant growth driver for crypto in the coming years. If these trends continue, tokenized real-world assets in the trillions by 2030, as predicted by Superstate's Leshner, may not be so far-fetched after all.
+
+----------------
+
+Crypto Is A Key Issue For 1 in 5 Voters In The 2024 Elections: DCG
+
+
+                        
+                            Crypto Is A Key Issue For 1 in 5 Voters In The 2024 US Elections, Digital Currency Group Says                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 16:44 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        One in five voters in key states believe that cryptocurrencies are a critical issue in the 2024 US elections amidst Donald Trump and Joe Biden’s race for the presidency, according to Digital Currency Group (DCG) Tuesday report.“Crypto Attitudes in Swing States” report, released in collaboration with global consulting firm The Harris Poll, revealed that digital assets could play a major role in this year’s elections.Crypto Is A Large Issue In Upcoming US Elections, Digital Currency Group Says
+According to the data, an estimated 20% of all voters in swing states say that crypto is a major issue they are considering when deciding their vote this year.In addition, almost half (48%) of voters surveyed say that they are distrustful of candidates interfering with crypto, while 30% said they are more likely to vote for pro-crypto politicians.“The recent poll conducted by Harris and DCG confirms what many in the industry have suspected: digital assets have emerged as a significant issue in the upcoming election,” said Blockchain Association CEO Kristin Smith. “Additionally, over one quarter (26%) of voters indicate that they are actively weighing political candidates’ positions on digital assets when making their decisions.”Voters Concerned Politicians May Stifle Crypto Innovation
+The survey results follow a regulatory crackdown on the crypto industry initiated by United States Securities and Exchange Commission (SEC) Chair Gary Gensler.Under Gensler, the SEC has sued various blockchain firms regarding U.S. securities law despite failing to provide the crypto sector with a clear regulatory framework.Meanwhile, U.S. lawmakers have failed to pass laws regulating crypto assets effectively, increasing political gridlock.According to DCG, most voters said they do not believe policymakers adequately understand blockchain technology and more than 50% are concerned that leaders are stifling innovation due to overregulation.“This data shows crypto is top of mind for voters in swing Senate states and that a pro-crypto position is a net positive for policymakers and candidates,” said Julie Stitzel, Senior Vice President of Policy at DCG. “The poll also underscores a strong desire for policymakers to establish reasonable regulations that protect consumers without stifling innovation.”DCG’s report may prove critical as tensions mount over the 2024 presidential election, with voters split almost equally between the two purported candidates. Republican frontrunner Donald Trump has taken a pro-crypto stance, while incumbent Democratic candidate Joe Biden has called for greater regulation in the industry.If each candidate wants to advance in the polls, DCG’s report suggests they might need to address the crypto community’s concerns.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Michelle Obama and RFK Jr. Have Equal Odds of Becoming Next President on Polymarket - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsCrypto traders think former first lady Michelle Obama—who is not running nor likely to announce a late bid to return to the White House—has just as good a shot at winning the 2024 U.S. presidential election as declared candidate and crypto proponent Robert F. Kennedy Jr.So far, traders have bet $8 million on Obama’s prospects through the decentralized prediction platform Polymarket. Millions of dollars have been wagered on other names too, but with Polymarket assigning her a 4% chance of success, she’s technically a top-three pick, rivaling candidates that have actually campaigned.That includes Kennedy, who declared his independence from the Democratic Party in October. Garnering $6.7 million in bets on Polymarket, the nephew of former President Kennedy has cozied up to crypto consistently—floating ideas from backing the U.S. dollar with Bitcoin to putting the entire U.S. budget on the blockchain to spur government accountability.Traditional political polling tracked by The Hill shows that Kennedy’s chances are fading among regular voters as he attempts to challenge party candidates President Biden and Former President Donald Trump. The political media site said Kennedy has the support of about 8.5% of voters, and that Trump did not want to debate him because “he’s not a serious candidate.”Still, the order book on Polymarket for Kennedy shows over a dozen bets of $25,000 or more hoping that he emerges victorious at the ballot box. Compare that to a handful of bets backing Obama to the tune of $5,000, with $7,500 the largest wager.Obama’s office said in March that a run for office isn’t in the cards for 2024. “As former First Lady Michelle Obama has expressed several times over the years, she will not be running for president,” a director of communications for Obama’s office told NBC News.The spokesperson indicated that Obama will instead throw her political clout behind Biden and Vice President Kamala Harris. Notably, Harris has also attracted notable bets on Polymarket. With $4.4 million in wagers placed, crypto traders say she has a 1% shot of replacing her boss in November.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Huge Transaction from the PEPE Whale: Deeply Impacts Price - Bitcoin Sistemi
+
+
+According to Onchain data, a large PEPE whale made a new move and made its impact felt on the price of memecoin.
+According to data, a multisig wallet moved its 1.23 trillion PEPE to Binance. The value of this transaction for the whale was approximately $10.6 million. However, this action caused the price of PEPE to drop by approximately 5.2%. The altcoin has still not fully recovered from the impact of this decline.
+
+
+The whale in question had been holding these PEPE tokens for only 3 days and closed his trade with a profit of 134 thousand dollars, which is a low amount compared to his capital. This shows that the whale made a profit of approximately 1.28%.
+
+In another whale development, another wallet this time bought Fantom (FTM) token by selling Ethereum. Whale paid a total of $2.12 million in WETH and purchased 2.98 million FTM at $0.712. The whale in question made a profit of $1.67 million from the previous FTM transaction and the profit rate was 148%.
+
+
+
+
+
+FTM is trading at $0.6926 at the time of writing this article.
+*This is not investment advice.
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Ethereum price lags due to ‘weaker capital rotation,’ but crypto macro uptrend remains
+
+Etheruem's (ETH) price continues to underperform compared to Bitcoin’s 2024 gains, but Glassnode analysts suggest that brighter days could lie ahead.A “weaker capital rotation” is behind Ether’s price underperformanceData from Cointelegraph Markets Pro and TradingView shows that Ethereum has been underperforming Bitcoin over the last two years, resulting in a weaker ETH/BTC ratio, which reached a low of $0.04622 on May 1, the lowest since April 2021. ETH/BTC weekly chart. Source: TradingViewGlassnode said Ethereum’s under-performance this cycle relative to Bitcoin is due to a “measurable lag in speculative interest” from the STH cohort.The report defines the Short-Term Holder cohort as “investors who acquired their coins within the last 155 days and are often considered a proxy for new investor demand.”Glassnode analysts explained that BTC experienced a “noticeable increase in speculative activity” in terms of capital accumulation among STHs in the run-up to all-time highs in March. This has not been reflected in ETH, which is yet to breach its previous all-time high. The firm’s on-chain data reveals that while Bitcoin’s STH-Realized Cap is nearly at the same level as the last bull run peak, ETH’s STH-Realized Cap is still less than half of previous cycle levels, suggesting a markedly lackluster inflow of new capital.“In many ways, this lack of new capital inflows is a reflection of the under-performance of ETH relative to BTC.”ETH’s STH-Realized Cap. Source: GlassnodeRelated: Bitcoin exchange inflows drop to 10-year lows after $74K all-time highsThe market is in the “early stages of a macro uptrend”Historically, Ether’s price performance has been closely linked to Bitcoin price moves, and the recent price action reflects this relationship. Bitcoin experienced a sell-off after the fourth halving, dropping 11% to a two-month low of $56,500 on May 1. Bitcoin’s price has since recovered, consolidating within the $62,700 and $65,550 price range over the last two days. BTC/USD daily chart. Source: TradingViewEther experienced a similar correction after the halving with a 6% drop, recording the “worst post-halving performance” ever, according to Glassnode. Ether price performance after halving. Source: GlassnodeHowever, measured from the $73,835 all-time high, glass notes that Bitcoin’s price fell by 20.3% – the deepest correction on a closing basis since the FTX lows in Nov-2022. “That said, this macro uptrend still appears to be one of the more resilient in history, with comparatively shallow corrections thus far.”Using the Net Unrealized Profit/Loss (NUPL) metric, the on-chain data analytics firm found that both Ether and BTC still have a relatively low Realized Cap associated with Long-Term Holders (LTHs), suggesting the market is “within the early stages of a macro uptrend.”Bitcoin vs. Ether Unrealized profit and loss. Source: GlassnodeIn an earlier report, Glassnode established that capital inflows into ETH tend to lag behind those into BTC. For instance, during the 2021 cycle, the peak influx of new capital into BTC occurred 20 days before the peak influx into ETH. Using a 30-day change in the Realized Cap to monitor the rotation of capital between these two assets, Glassnode analysts found that ETH STH Realized Cap is yet to pick up momentum in the current cycle. “For both assets, the Short-Term Holder variant peaked before the 2021 cycle top. This year, the BTC short-term holder Realized Cap has peaked around the new all-time high, while the ETH metric has hardly moved higher.”BTC vs. ETH STH Realized Cap. Source: GlassnodeGlassnode concludes that while the post-halving market action has played out remarkably similar to previous cycles, several data points indicate that Ether has underperformed relative to BTC.“When we break down capital flows and rotation between BTC and ETH, we can see that Bitcoin has received the lion's share of inflows, likely driven in part by the US spot ETFs. Short-term holders and speculation activity appear concentrated within Bitcoin, with a remarkably weak spill-over into Ethereum thus far.”This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+
+
+
+
+
+
+----------------
+
+Bitget Trains Over 6,000 Students: Here's How to Get Certified - DailyCoin
+
+
+        
+Bitget’s Blockchain4Youth issued 2,000 certificates in its first year.
+
+
+
+It covers fundamental blockchain concepts and practical applications. 
+
+
+
+The program addresses the growing demand for blockchain skills.
+Bitget, a major cryptocurrency exchange, is celebrating the first anniversary of its Blockchain4Youth initiative. In the past year, the program has issued over 2,000 free blockchain certificates. It provides fundamental blockchain knowledge through courses accessible to students around the world. How to Get Bitget’s Blockchain CertificateLaunched in May 2023, Bitget’s Blockchain4Youth program offers free certification to students who complete its series of blockchain courses. During the past year, the program delivered over 54 campus lectures and workshops globally, involving over 51 universities, such as the University College London and National Taiwan University. The initiative is designed to give participants basic blockchain literacy. 
+VIDEO
+To earn a Blockchain4Youth Certificate through Bitget’s program, participants must complete the three foundational course modules offered via Bitget Academy. These are: 
+Introduction to Blockchain: Covers fundamental blockchain concepts and how they can transform industries.Inside a Blockchain Future: Focuses on consensus mechanisms, network layers, and privacy aspects.Blockchain Applied: Discusses practical applications like DeFi, NFTs, and Web3.
+To earn a Blockchain4Youth Certificate through Bitget’s program, participants must complete the three foundational course modules offered via Bitget Academy. Once finished, students can apply for the certificate by filling out a Google form and answering multiple-choice questions that test their understanding of blockchain concepts, consensus mechanisms, and real-world applications. After submitting the form, successful candidates receive their certificates. Why Get the Certificate? The blockchain market is projected to reach over $800 billion by 2032, driven by its integration into sectors like supply chain management, IoT, and finance. This means that gaming, healthcare, and finance companies seek experts who understand smart contracts, cryptography, and decentralized applications. Furthermore, these roles extend well beyond crypto and include finance, supply chain management, gaming, healthcare, and IoT. Many companies also seek individuals skilled in smart contracts, cryptography, and decentralized apps (dApps). Basic knowledge of blockchain equips people with the ability to navigate both the developing job market and emerging trends in Web3 technologies. It opens the door to a broad spectrum of opportunities in a rapidly growing field.On the Flipside
+The courses mainly cover basic concepts, which may not be sufficient for those seeking advanced blockchain expertise.
+
+
+
+Online sessions lack the in-person networking opportunities that traditional workshops offer.
+Why This MattersFree courses and certificates are making blockchain education more accessible worldwide. Programs like these help fill the growing demand for blockchain skills across industries by giving students essential training.Read more about Bitget’s latest figures: Bitget Declares $1.4 Trillion Futures Trading Volume in Q1Read more about the Solana Hackathon: Solana Hackathon Highlights Social Marketplaces, PoW Mining    
+              
+    
+
+----------------
+
+Crypto Experts Bulk Up on New Web3 Utility Coin
+
+
+                        
+                            Crypto Experts Bulk Up on New Web3 Utility Coin – Next Big Bitcoin Challenger?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 16:29 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+Crypto Experts Bulk Up on New Web3 Utility Coin – Next Big Bitcoin Challenger? / Source: Cryptonews
+                        Crypto experts are bulking up on what could be crypto’s best new web3 utility coin. ICO Mega Dice (DICE) is a passive income gem, a fast-growing crypto casino platform combining GambleFi and GameFi.Mega Dice is one of web3’s fastest-growing crypto casinos, with over 50,000 players and 10,000 monthly active users.Across three seasons, Mega Dice will airdrop $2.25 million worth of tokens.As users scramble to qualify for the airdrop, crypto investors are pouring into Mega Dice’s recently launched DICE token presale.Web3 utility coin DICE is the native token of the Mega Dice casino platform. It offers access to limited edition NFTs and gives access, rewards, and benefits to its holders who use the casino.Most importantly, DICE holders who stake their tokens get a share of Mega Dice revenues, allowing them to benefit from the success of the crypto casino.It’s no surprise that crypto experts have been lining up to bulk up on this new web3 utility coin.Popular crypto analyst Michael Wrubel, who has over 310,000 subscribers, is highly bullish on DICE for 2024.VIDEOCheck Out Mega Dice Casino’s PresaleMega Dice (DICE) – Next Big Bitcoin Challenger?
+Mega Dice’s presale has already attracted over $800,000 from early investors.DICE is currently priced at $0.069, valuing the token at a market cap of under $30 million.With Mega Dice becoming a major web3 leader, DICE could easily become a billion-dollar coin.Could it become the next big Bitcoin challenger?DICE and Bitcoin serve very different purposes, so the comparison is unfair.Bitcoin, the first, oldest, most secure, and most decentralized cryptocurrency globally, is fast being adopted as digital gold.Web3 utility coin DICE isn’t trying to compete with that. Rather, DICE is a leading Web3 coin that incorporates GambleFi and GameFi and offers passive income.35% of the token’s total supply is up for grabs in the presale. 15% is allocated to the airdrop.A further 10% is allocated to staking rewards. The final 40% is reserved for DEX liquidity, the Casino DICE pool, and marketing/affiliates.DICE can be purchased in presale on Solana, Ethereum, or BNB blockchains. Once the presale has concluded, tokens can be claimed.Potential investors may want to move fast, as the DICE price will jump when the presale surpasses $1 million.Buy DICE Here                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Best Crypto to Buy Now May 7 - Bitcoin, AIOZ Network, Ethena
+
+
+                        
+                            Best Crypto to Buy Now May 7 – Bitcoin, AIOZ Network, Ethena                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 16:25 EDT                            
+                                                             | 4 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        As the Bitcoin (BTC) price consolidates just to the north of $63,000, investors are weighing up whether it could be the best crypto to buy now.Bitcoin continues to trade with gains of over 10% versus last week’s lows in the $56,000s.Softer-than-expected US jobs data last Friday helped ease fears about the Fed potentially delaying rate cuts to 2025.This helped propel the price higher and engineer a sudden surge in demand for spot Bitcoin ETFs from institutional investors.As per The Block, spot Bitcoin ETF flows have been net positive since last Friday.As it stands, Bitcoin is currently sat close to its 21DMA, having recently broken to the north of a downtrend.As the Bitcoin (BTC) price consolidates just to the north of $63,000, investors are weighing up whether it could be the best crypto to buy now. Source: TradingViewHowever, Bitcoin found resistance at its 50DMA when it rallied to the mid-$65,000s on Monday.That’s the second time it has found resistance at the 50DMA since breaking below it in mid-April.That suggests that while Bitcoin’s short-term downtrend has been snapped, the bulls are yet to fully gain control.If Bitcoin continues to consolidate within its multi-month $56,000-74,000ish range in the months ahead, that wouldn’t be too surprising.Typically, it takes 4-6 months for the Bitcoin price to rally substantially beyond its pre-halving levels after the halving. The latest quadrennial halving just took place in April.That lines up well with Bitcoin’s normally tepid performance during the summer months.Assuming that there isn’t a sudden and sustained resurgence of spot Bitcoin ETF demand, and assuming that macro drivers remain limited as the market awaits the first Fed rate cuts, Bitcoin is likely to remain rangebound amid a post-halving/summer lull.Is Bitcoin the Best Crypto to Buy Now?
+Q1 earnings reports have been touted as a potential positive driver for the cryptocurrency.The thinking is that companies might reveal growing BTC holdings, pointing to increased adoption post the launch of Bitcoin ETFs.Indeed, $429 billion asset manager Susquehanna International just reported owning $831 million BTC across 10 ETFs.The theme of growing adoption by major companies/financial institutions, as expressed through ETF demand, will continue to be a major driver in the ongoing BTC bull market.That’s one reason to remain optimistic that Bitcoin could surpass $100,000 this year or next.Further reasons include Bitcoin’s past history of posting parabolic price increased in the years following the halving, plus Fed easing.The coming consolidation period within $56,000-$74,000 ranges should be viewed as an opportunity to accumulate.And dips below this range will likely be eaten up very quickly. On-chain analysis shows that Bitcoin whales have been gobbling up supply recently, as they double down amid the current consolidation.With Bitcoin set to post solid 2x gains with a year, it could be the best crypto to buy now.However, some investors will be targeting gains of 5x or more during the current bull market.These investors would be better served spending some time parsing through investment options in the altcoin market.Here are some big movers on Tuesday that might be the best crypto to buy now.AIOZ Network (AIOZ)
+AIOZ Network (AIOZ) is the best-performing cryptocurrency in the top 100 by market capitalization on Tuesday.That’s according to CoinMarketCap, which last put the AIOZ price at $0.82, up 14% in the past 24 hours.Having now broken back above its 21 and 50DMAs, AIOZ is aiming at a recovery to its March highs. That could mean a quick 30% rally for the token.The Aioz Network is a Layer 1 blockchain enabling Ethereum and Cosmos interoperability, according to Coinbase.Aioz Network aims to enable instant finality and low transaction fees for applications such as file storage, live streaming, content delivery, and more.Interoperability is a major theme in crypto. If AIOZ can become a leader in this space, its market cap could go well above its current $900 million.Ethena (ENA)
+Ethena (ENA), the DeFi protocol behind the innovative yield baring US dollar stablecoin USDe, just broke above its 21DMA.It was last up 8% in the past 24 hours as per CoinMarketCap and changing hands around $0.93.As per Coingecko, USDe has amassed a market cap of around $2.3 billion since its launch in early 2024.Having seemingly now snapped its downtrend from the March highs, ENA could soon pump back to its $1.50 record highs.Quick 60% gains for the Ethena (ENA), making it potentially the best to buy now. Source: TradingViewThat could mean quick 60% gains for the cryptocurrency, making it potentially the best to buy now.Alternative Cryptocurrency to Consider – Wiener AI (WAI)
+The above-mentioned coins could easily 5x or more this bull market.But some investors are looking to take even bigger risks in the hope of potentially securing 100x gains.One popular way to secure massive gains is to catch a meme coin before it trends.And a fun new meme coin presale called Wiener AI (WAI) has caught the attention of analysts at Cryptonews.The Sausage dog-themed meme coin offers a suite of handy AI trading capabilities and has already raised over $1 million.Interested investors may want to move quickly, as the WAI price will rise when the presale reaches $1.2 million.Currently priced at $0.000704, investors are buying WAI at a market cap of around $45 million and could be looking at gains of 100x or more if WAI becomes a market leader.WAI is not only an exciting meme coin with AI capabilities but also a potential passive income gem.20% of the supply has been allocated to staking rewards, and investors are currently earning a massive 766% APY, as per the project’s official website.At this rate, investors can double their initial presale investment in just over one month.Buy WAI Here                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Binance-Listed Altcoin Makes a Big New Announcement: Price Reacts - Bitcoin Sistemi
+
+
+Cryptocurrency project Ethernity (ERN) announced the launch of the new Ethereum Layer-2 network, Ethernity Chain.
+According to the official statement, Ethernity Chain will use an advanced artificial intelligence-driven security system.
+
+
+According to the blog post, the chain in question will have the following features:
+
+
+AI-enhanced security and DRM: This ensures the highest level of security and protection for all transactions and activities on the platform.
+Easy integration
+Environmentally friendly with low gas fees:
+100% EVM compatibility
+
+
+
+ERN, an altcoin listed on Binance, increased by approximately 20% following the development. However, it is among the low market value tokens with a market value of approximately $109 million. The fully diluted market value of the token is at the level of 159 million dollars, but the number of tokens is not restricted by any upper limit.
+
+
+
+
+
+ERN is also traded on other major decentralized exchanges such as Coinbase, Uniswap, OKX and Kucoin. However, ERN is trading 93% lower than the all-time high price record of $74, which it broke in March 2021.
+*This is not investment advice.
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Swiss National Bank Favors Tokenized Assets
+
+
+The Swiss National Bank (SNB) is at the forefront of integrating cutting-edge technology in the financial sector. At a recent summit in Basel, SNB Chairman Thomas Jordan unveiled the bank’s strategic move towards asset tokenization.
+Jordan outlined that the SNB assesses various methods to facilitate transactions using tokenized assets through central bank money. This approach not only aims to eliminate credit and liquidity risks but also reinforces the stability of the monetary system. 
+Asset Tokenization Over CBDCs
+The project, known as Helvetia III, involves live pilots where participating banks utilize Swiss franc wholesale central bank digital currency (CBDC) to settle transactions with tokenized bonds on the SIX Digital Exchange (SDX).
+Chair Jordan emphasized that settling transactions in central bank money is essential for maintaining financial stability. He highlighted the SNB’s pioneering role in leveraging blockchain technology to improve the operational efficiency of financial markets.
+
+
+“If the tokenisation of assets becomes mainstream, settlement in central bank money will be crucial. This will allow central bank money to maintain its essential role as the anchor of the monetary system and to continue to serve as a safe means of payment,” Jordan stated. 
+
+Helvetia III represents a significant leap forward in the SNB’s digital innovation. Since its inception in December 2023, it has successfully facilitated multiple bond issuances and secondary market transactions. This marks a milestone in demonstrating the practical utility of wholesale CBDCs in a real-world environment.
+
+Read more: What is Tokenization on Blockchain?
+Chairman Jordan also discussed alternative settlement methods to wholesale CBDC, focusing on linking tokenized asset platforms with the Swiss RTGS system and utilizing privately issued token money, which is bankruptcy-protected and fully backed by sight deposits at the SNB. 
+Each method has its own governance challenges, but they collectively aim to address fragmentation issues in financial markets.
+The SNB’s exploration into tokenization and its potential implications for monetary policy and financial stability reflects a proactive approach to technological advancements. By assessing the risks and benefits of these technologies, the SNB aims to determine the effective strategies for their implementation. It seeks to ensure that innovation aligns with its mandate of maintaining monetary and financial stability.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
