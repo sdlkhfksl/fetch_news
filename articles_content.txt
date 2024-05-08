@@ -1,156 +1,3 @@
-Polygon’s ZK-rollup Ethereum scaler Miden hits testnet
-
-Ethereum layer-2 developer Polygon has launched an alpha version testnet of its latest zero-knowledge (ZK)-rollup solution called Miden as Ethereum scaling competition heats up.In a May 6 X post, Polygon said the Polygon Miden Alpha Testnet zero-knowledge was live for developers to begin testing. Miden is a ZK-rollup designed to extend the capabilities of the Ethereum blockchain.Polygon’s latest solution — like other ZK-rollups — uses a type of cryptography where data can be verified or “proved” without revealing what the data consists of to the rest of the network.Miden also has client-side proving, where users can “locally generate proofs for their own state transitions without having to disclose the state to the network,” Polygon explained. This aims to lower the burden on the network and improve privacy and scalability. Overview of the Miden network. Source: PolygonMiden also enables additional functionality such as private accounts enabling private tokens and transactions where only the hash of the account is stored on-chain.Miden also leverages parallel transaction execution — where transactions can be processed concurrently — enabling it to achieve a much higher throughput compared to the Ethereum mainnet and reduce blockchain node state bloat. Other planned key features include customizable smart contracts and customized node scripts where users will be able to write their own note scripts using the Miden virtual machine (VM) and programming languages such as Rust.According to the Miden roadmap, a builders testnet is scheduled for September. There is no mention of a mainnet launch timeframe.Related: Vitalik Buterin breaks down ‘Binius’ as a way to speed up zero-knowledge proofsMiden has entered a market in direct competition with StarkWare’s layer-2 scaling network and rollup tech stack StarkNet and other alternatives such as Matter Labs’ zkSync Era. Polygon also builds zkEVM a scaling solution equivalent to Ethereum Virtual Machine, allowing most existing smart contracts, tools, and wallets to work seamlessly.The blockchain’s native token Polygon (MATIC) did not react to the testnet launch falling 3.7% on the day to trade at $0.704 at the time of writing. Magazine: ZK-rollups are ‘the endgame’ for scaling blockchains: Polygon Miden founder
-
-----------------
-
-Marathon Digital Mints Massive Market Cap Gain: Up $800 Million
-
-
-								Bitcoin mining company Marathon Digital (MARA) is basking in the glow of a successful week, with its stock price surging after inclusion in the prestigious S&P SmallCap 600 index and the announcement of a performance-based executive bonus plan. However, the company’s fortunes remain tethered to the ever-volatile Bitcoin price.
-
-S&P Inclusion Boosts Visibility And Investor Confidence
-The inclusion in the S&P SmallCap 600 index marks a significant milestone for Marathon Digital. This widely tracked index exposes the company to a broader pool of investors who base their investment decisions on index holdings.
-The news triggered an 18% jump in Marathon Digital’s stock price, reaching $20.67 per share, according to Yahoo Finance data. This surge reflects investor confidence in the increased visibility and potential for more significant investments.
-Being added to the S&P SmallCap 600 is a validation of Marathon Digital’s position as a leading player in the cryptocurrency mining industry. This inclusion will enhance the company’s standing and attract a new wave of investors seeking exposure to the Bitcoin mining space.
-Source: YCharts
-Executive Bonus Plan Aligns Interests With Shareholders
-Adding to the positive momentum, Marathon Digital unveiled a new executive bonus plan directly linked to the company’s stock price performance. This strategic move aligns the interests of top executives, including CEO Fred Thiel, CFO Salman Khan, and General Counsel Zabi Nowaid, with those of shareholders.
-Bonuses of up to nearly $33 million can only be awarded if the stock price performs well, incentivizing executives to make decisions that drive shareholder value.
-
-Total crypto market cap currently at $2.282 trillion. Chart: TradingView
-The executive bonus plan demonstrates the management team’s confidence in Marathon Digital’s future growth trajectory. Tying bonuses to stock price performance ensures that executives are focused on strategies that will benefit shareholders in the long run.
-Bitcoin Price Volatility: A Double-Edged Sword
-While the S&P inclusion and bonus plan are positive developments, Marathon’s fortunes remain intricately tied to the price of Bitcoin. The article mentions Bitcoin hovering around $63,200, with increased trading volume but a bearish trend over the past 24 hours. This volatility presents a double-edged sword for Marathon Digital.
-
-A sustained rise in Bitcoin price would significantly benefit the company, as its mining operations become more profitable. However, a prolonged slump could put a damper on Marathon Digital’s growth prospects. Investors considering Marathon Digital as an investment should carefully consider their risk tolerance regarding Bitcoin’s price fluctuations.
-Looking Ahead: Marathon Digital Charts A Growth Path
-Despite the inherent risks associated with Bitcoin price swings, Marathon’s recent developments paint a promising picture for the company’s future. The S&P inclusion broadens its investor base, and the executive bonus plan incentivizes leadership to focus on shareholder value creation.
-As the cryptocurrency mining industry continues to evolve, Marathon Digital is well-positioned to capitalize on growth opportunities, provided it can navigate the unpredictable tides of the Bitcoin market.
-Featured image from Marathon Digital/X, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Cardano: Analyzing what's going wrong as ADA struggles in $0.45 range - AMBCrypto
-
-
-
-ADA continued the stop-and-start price trend.
-Active addresses increased slightly.
-
-After experiencing a two-day downtrend, the recent uptrend in Cardano [ADA] would certainly be welcomed by holders. However, are there any metrics indicating a sustained run for ADA?
-ADA sees a slight positive trend
-AMBCrypto’s analysis Cardano’s price trend indicated a fluctuating pattern in recent days. 
-The month began on a positive note with a three-day consecutive uptrend observed from the 1st to the 3rd of May, during which the price rose from around $0.45 to $0.46.
- However, these gains were followed by consecutive declines, bringing the price back to around $0.45. This trend of downtrends following uptrends has persisted, signaling a lack of sustained momentum. 
-Source: TradingView
-As of this writing, ADA was trading with a nearly 1% increase, returning to the $0.46 price zone. 
-Despite this, it remained entrenched in a bear trend, as indicated by its Relative Strength Index (RSI) hovering just above 40. 
-But the price chart suggests a potential death cross if ADA fails to sustain its uptrend. 
-A death cross occurs when the long moving average (blue line) crosses above the short moving average (yellow line), typically signaling a negative price trend. 
-As of this writing, the price was trending below the blue and yellow lines, underscoring the uncertainty in ADA’s price trajectory.
-Cardano volume shows declining trading activity
-Cardano’s volume does not provide encouraging signs. Analysis of the volume indicates a decline over the past few days. 
-At the beginning of the month, the volume surged to over $400 million, briefly surpassing the $500 million mark. 
-Source: Santiment
-However, it has since declined. At press time, the volume stood at around $279 million. Typically, an increase in volume can drive price movements, reflecting heightened trading activity. 
-Conversely, the current downward trend suggests a decrease in trading activity, which may hinder the potential for sustained positive momentum in ADA’s price.
-Slight tick in Cardano active addresses 
-AMBCrypto’s analysis further indicated a recent uptick in the seven-day Cardano active addresses metric.
-
-Is your portfolio green? Check out the ADA Profit Calculator
-
-Also, Santiment revealed that between 4th May and press time, the number of active addresses rose from around 159,000 to over 163,000. 
-While this increase is notable, it appears insufficient to impact trading activity on the network significantly.
-Source: Santiment
-
-
-
-
-
-
-----------------
-
-How long does it take to mine 1 Bitcoin?
-
-                            What is Bitcoin mining?                                        Bitcoin mining is the network’s method of transaction validation. This process is also how new Bitcoin are added to the existing supply.There are currently around 19.5 million Bitcoin in circulation and the cryptocurrency is programmed to have a total supply of 21 million. The final 1.5 million or so are locked away, waiting for users with powerful computers to release them through Bitcoin mining.Bitcoin mining is like a digital treasure hunt. Armed with powerful computer hardware, miners search for a 64-digit hexadecimal code that validates a block of transactions. This code (also called a hash) is found through a process called hashing. Hashing requires computer hardware to sift through trillions of hashes to find one that matches a block’s difficulty (also called target hash). Once miners find a block’s target hash, they can verify its transactions are genuine and will issue a block confirmation. The network then releases more Bitcoin (BTC).Finding the target hash can take miners a long time. The amount of time varies based on many factors, such as the Bitcoin network’s current mining difficulty. A difficulty adjustment occurs every 2,016 blocks and raises or lowers based on the number of miners contributing. More miners means a higher difficulty, while fewer miners means a lower difficulty. Mining rigs abide by Bitcoin’s mining algorithm, SHA-256. SHA-256 is a cryptographic hash function used in password hashing and digital signature verification, among other applications. In the case of Bitcoin, it is used for hashing.A new block is mined every 10 minutes, and the network releases a fixed amount of Bitcoin and distributes it to miners. This release of Bitcoin is called a block reward. Before the Bitcoin halving in April 2024, the block reward was 6.25 per block. The Bitcoin halving event reduced this reward to 3.125 Bitcoin, with halvings occurring roughly every four years. This halving process was programmed by Bitcoin’s creator and is designed to create digital scarcity and maintain the value of Bitcoin, which also dramatically affects mining profitability.Bitcoin’s creator programmed the network to halve every 210,000 blocks (around every four years) to create digital scarcity. At this rate, Bitcoin won’t hit its 21 million cap until 2140.At that point, miners will still earn rewards through transaction fees but will no longer release new Bitcoin into the network.                                                                    What’s the average time needed to mine a single Bitcoin?                                        The length of time it takes to mine 1 Bitcoin can vary.Each committed Bitcoin block releases 3.125 Bitcoin. To answer the central question in mind, it takes an average of 10 minutes to mine not just 1 Bitcoin but 3 — and that rate will fluctuate over time. But, due to the massive amount of computing power it takes to mine a single block (otherwise known as block time), it’s almost impossible for one miner to receive all 3.125 of the reward.How long does it take for one person to mine 1 Bitcoin? This number will range significantly due to the miner’s hardware. For example, some miners have dozens, if not hundreds, of pieces of mining hardware in an attempt to increase their hash rate. In that case, they will likely earn more Bitcoin per block than other miners with a lower hash rate. Many miners join a mining pool to contribute to Bitcoin mining in a meaningful way.A mining pool is a group of miners all contributing their hash rate as one entity in hopes of finding a target hash. In doing so, miners earn rewards based on their hash rate contribution.Rewards are distributed by a mining pool operator, who often charges a mining pool fee. However, miners can contribute to different types of mining pools.ProportionalA proportional mining pool distributes rewards based on a miner’s hash rate contribution. They can also earn additional rewards through transaction fees.Pay per last N groupsPay per last N groups mining pools distribute miners into shifts and pay them out based on their time on “shift.” A shift is a set period in which the miner contributes to the mining pool.Pay-per-sharePay-per-share pools provide miners with a fixed income, expecting them to contribute a certain amount of their hash rate daily. While this is a stable way to mine Bitcoin, it removes a miner’s ability to earn transaction fees.                                                                    How hard is it to solo mine Bitcoin?                                        Solo mining Bitcoin involves one miner competing with every other miner globally. Bitcoin’s proof-of-work (PoW) consensus protocol makes mining a natural competition. The chances of a solo miner beating the rest of the world to a block’s target hash are nearly zero — no matter their mining rigs’ power.In Bitcoin’s early days, mining difficulty was relatively low due to the lack of miners. Block rewards were also much higher, with miners earning dozens of Bitcoin per block. However, Bitcoin was worth less than $1 back then, so the reward was a bit more fitting.Presently, solo miners join cryptocurrency mining pools to have any chance of earning rewards from Bitcoin mining. Potential miners without a powerful mining rig can also join a cloud mining service to save on the initial investment cost. Cloud mining services consist of miners leasing out their hashing power via the cloud and asking users to pay for a share of it. As a result, the miners offload some energy consumption costs to paying users. In return, paying users earn block rewards based on their share of hashing power.                                                                    How to earn 1 Bitcoin per day without investment?                                        It takes money to make money. Earning Bitcoin without investment is nearly impossible, but there are inexpensive ways to get involved.It is nearly impossible to earn 1 Bitcoin per day without investment. Bitcoin mining requires energy consumption, which miners pay through their electricity bills. Moreover, Bitcoin mining is intended to get harder and harder over time. It requires a lot of electricity and specialized, pricey hardware. It is almost hard for an individual to mine 1 Bitcoin per day, even with substantial expenditure. Anyone wishing to mine Bitcoin would have to compete with powerful mining operations, with their economies of scale giving them a significant competitive edge over individual miners.As of May 6, 2024, 1 Bitcoin is worth $64,116. Earning this much daily without investment would heavily destabilize the cryptocurrency market. Therefore, beware of websites or programs claiming to help you earn 1 Bitcoin daily for free. These are often scams designed to exploit people looking for quick returns.Those looking to invest in crypto mining should first learn about crypto trading, blockchain technology and cryptocurrency markets. Over time, they might be able to turn minor investments into larger sums of money with the right information and approaches.                        
-
-----------------
-
-Kronos Research hacker shifts funds to Tornado Cash
-
-The exploiter behind the $25 million exploit of quantitative trading firm  Kronos Research in mid-November last year has started to move funds nearly six months after the exploit.The hacker wallet address first transferred 1,314 Ether (ETH) worth $4 million to a new address, starting with 0x8F5e4 and later transferred all the ETH to another address starting with  0x164A24b. Source: PeckShieldThe hacker made 10 transactions of 100 ETH from the final wallet and transferred it to Tornado Cash, a crypto-mixing tool. Source: EtherscanTornado Cash is an open-source cryptocurrency tumbler that operates on networks compatible with the Ethereum Virtual Machine. The mixing services obscure the path of the crypto transactions and make it extremely difficult to trace the original source of the funds.Although created as a privacy tool, hackers often use these mixing services to launder stolen funds via decentralized exchange platforms. The significant usage of Tornado Cash for transferring illicit funds prompted the United States government to impose sanctions on its use in August 2022. Subsequently, its founders were charged with money laundering and sanctions violations a year later.Related: Five US enforcement agencies form new digital currency anti-crime task forceWhile opinions within the crypto community vary regarding the adoption of privacy tools, there is a consensus against governmental persecution of developers and creators solely for creating an application.The crypto analytics firm PeckShield raised an alert regarding the transfer of funds on X and cautioned that the transfer to Tornado Cash suggests that the hacker is attempting to launder the stolen funds.Over the years, exploiters have chosen crypto-mixing services over centralized exchanges as once they are identified, addresses are blocked by exchanges.Kronos Capital was exploited in November 2023 after the exploiters managed to gain access to the firm’s API keys. The firm first denied any loss of funds during its early announcement. Later, on-chain investigator ZachXBT revealed that roughly 12,800 ETH worth $25 million was stolen and transferred into six unique crypto wallet addresses. Kronos Capital halted its trading services to investigate the loss.Magazine: Breaking into Liberland: Dodging guards with inner-tubes, decoys and diplomats
-
-----------------
-
-The crypto wallet MetaMask has announced the update for Ethereum
-
-MetaMask, one of the most popular crypto wallets, has announced a major update called ‘Intelligent Transactions’, aimed at combating the widespread issue of front-running on the Ethereum network. 
-This move is part of a broader initiative to improve the functionality and security of transactions for its large user base.
-
-The update of the crypto wallet Metamask for the Ethereum network
-Front-running is a common issue in decentralized finance (DeFi) where traders or bots anticipate other transactions in the mempool (a sort of waiting room for transactions before they are confirmed on the blockchain) and place their own transaction first by paying higher gas fees. 
-This unethical practice can lead to market manipulations and unfair advantages, negatively influencing users’ trust and the overall efficiency of the market.
-The new ‘Smart Transaction‘ feature of MetaMask aims to reduce these risks by introducing several advanced mechanisms.
-The key component of this update is the implementation of private transaction channels that keep transaction details hidden from the public mempool until they are ready to be processed. This approach reduces the visibility of transactions to potential front-runners.
-Furthermore, ‘Intelligent Transactions’ employ sophisticated routing algorithms that analyze the network in real time to determine the optimal path for transaction execution, minimizing delays and potential exposure to front-running. 
-MetaMask also promises improved encryption methods to further protect transaction data, ensuring that only intended parties can access and process it.
-The importance of this new feature
-The launch of ‘Intelligent Transactions’ is a fundamental step in MetaMask’s ambitious program to revise its core systems. 
-Traditionally, Ethereum wallets like MetaMask have functioned more as gateways to interact with the blockchain, heavily relying on Ethereum network’s standard protocols and exposed transaction processes.
-However, with the increasing complexity and scalability issues of the Ethereum network, MetaMask is taking proactive measures to optimize user experience and security.
-This initiative also includes plans to improve the design of user interfaces, making them more intuitive and easy to use, especially for those who are new to using cryptocurrencies.
-Furthermore, the integration of more robust security features such as multifactor authentication and biometric verification is set to enhance the overall security of digital asset management within the portfolio.
-The transition of MetaMask to a more secure and efficient framework comes at a crucial moment. 
-The Ethereum network has been under significant pressure due to its growing popularity and the resulting increase in fees and transaction times. 
-Innovative solutions like ‘Intelligent Transactions’ are essential to maintain Ethereum’s position as a leading platform for DeFi activities.
-The cryptocurrency community has reacted positively to the announcement of MetaMask. Many see this move as progressive not only because it addresses immediate issues like front-running, but also because it sets a precedent for other wallet providers and blockchain projects to improve their operational frameworks. 
-Facing security concerns head-on, MetaMask is likely to strengthen its reputation and user trust, which are crucial in the competitive market of crypto wallets.
-Conclusions
-MetaMask with the launch of ‘Intelligent Transactions’ marks a significant milestone in its development. This feature not only represents a tool to combat front-running, but is part of a broader strategy to redefine the operation of the most widely used Ethereum wallet. 
-As MetaMask continues to innovate and improve its service offerings, it remains at the forefront of developing technologies that could shape the future of cryptocurrency transactions on the Ethereum network. 
-This proactive approach in combating front-running and strengthening transaction security could set new standards of security and efficiency in the DeFi space, benefiting the entire cryptocurrency ecosystem. 
-MetaMask’s commitment to adapting and evolving alongside blockchain technology demonstrates a strong dedication to security, efficiency, and ease of use for cryptocurrency users worldwide.
-
-----------------
-
-Binance Announced the Listing of Three New Altcoin Trading Pairs in TRY Parity! - Bitcoin Sistemi
-
-
-Binance, the world's largest cryptocurrency exchange, started the day with an altcoin announcement and announced that it has listed new altcoin trading pairs.
-Accordingly, Binance said that the altcoins named EGLD, PHB and RSR are listed in the TRY trading pair (EGLD/TRY, PHB/TRY and RSR/TRY).
-
-
-
-“Dear Binance members,
-To expand the list of trading options offered on Binance Spot and improve users' trading experience, Binance will launch trading for EGLD/TRY, PHB/TRY and RSR/TRY trading pairs as of 08.05.2024 08:00 (UTC).
-Additionally, Binance will enable Trading Bots services for EGLD/TRY, PHB/TRY and RSR/TRY trading pairs as of 08.05.2024 08:00 (UTC).”
-
-Stating that these transaction pairs cannot be used by users residing in some countries, Binance listed these countries as follows: Canada, Cuba, Crimea Region, Iran, Netherlands, North Korea, Syria, the United States and its territories (American Samoa, Guam, Puerto Rico, Northern Mariana Islands, US Virgin Islands) and non-government-controlled territories of Ukraine.
-*This is not investment advice.
-
-
-
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
 Polygon Launches Alpha Testnet of Zero-Knowledge Rollup Solution 'Miden'
 
 
@@ -8619,3 +8466,193 @@ Megaphone
 FTX commits to 100% creditor payback and substantial bonuses
 
 Maxwell especially enjoys penning pieces about blockchain and cryptocurrency. He started his venture into blogging in 2020, later focusing on the world of cryptocurrencies. His life's work is to introduce the concept of decentralization to people worldwide.
+
+----------------
+
+DeFi tokens UNI, MKR lose lucky break: What’s going on? - AMBCrypto
+
+
+
+The tokens’ volume dropped by 71.30% after reaching a high level in March.
+Sentiment has begun to improve, but participants hesitated adding liquidity to the protocols.
+
+Two months after registering an amazing rise in transaction volume, Uniswap [UNI] and Maker [MKR] have lost a chunk of that figure.
+According to data from IntoTheBlock, the volume last week was only a little above $1 billion.
+This represented a 71.30% decrease since the hike, which happened in March. Volume can have a good impact on price action. For instance, when the metric jumped in March, the price of these tokens rallied.
+Numbers go down
+At that time, there was speculation that UNI and MKR might lead the revival of DeFi tokens that were lagging.
+DeFi stands for Decentralized Finance, and these cryptocurrencies have fundamentals related to the sector.
+Source: IntoTheBlock
+As of this writing, UNI’s price was 7.50%— a 33.62% decrease in the last 24 hours. MKR also plunged within the same period by 23.17%.
+These declines could be linked to the decreasing interest in the tokens. It could also serve as proof that AMBCrypto’s inference that DeFi tokens would find it hard to compete with meme coins could be valid.
+Besides the price action and volume, Uniswap and Maker have been displaced from their spots in the ecosystem. Previously, both projects were in the top three when it came to TVL.
+TVL is an acronym for Total Value Locked. The higher the TVL, the more trustworthy a protocol is perceived to be. But at press time, Maker was number four, while Uniswap was sixth.
+Source: DeFiLlama
+Participants are not convinced yet
+Despite the price correlation, the sentiment around both tokens differed. For example, Santiment data showed the UNI’s Weighted Sentiment was 0.181.
+The sentiment for MRK, at press time, was -0.242. Positive values of the metric indicate a rise in positive comments about a project.
+Negative readings, on the other hand, suggest that participants are not bullish on a token.
+Therefore, one can infer that the market offered UNI some goodwill while it was not the same for MKR. But one thing AMBCrypto noticed was that the Weighted Sentiment for MKR was rising.
+Source: Santiment
+
+Realistic or not, here’s MKR’s market cap in UNI’s terms
+
+Should the metric jump into the positive area, interest in the token might improve. In the short term, MKR and UNI’s transaction volume might not increase to the levels seen in March.
+Also, the prices of the token might move sideways for some time. However, if altcoins begin to move up simultaneously, the price of UNI might revisit $10. For MKR, an uptrend could lead the value to $3,300.
+
+
+
+
+
+
+----------------
+
+Solana Slerf (SOLSLERF) Will Explode 11,000%, as it Looks to Challenge Shiba Inu and Dogecoin
+
+
+
+                    
+
+Solana Slerf (SOLSLERF) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Solana Slerf (SOLSLERF), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Solana Slerf presents a similar opportunity.
+
+
+
+Solana Slerf has market cap below $20,000 at the moment, meaning that when it just reaches a modest market cap of $200,000-$500,000, early investors would generate returns of 1,000%-3,000% in a matter of days or hours.
+
+
+
+The exciting memecoin is poised to rally 5,300% in the coming two days, and Solana Slerf could potentially reach a multi-million dollar market cap within a few weeks.
+
+
+
+
+Currently, Solana Slerf can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy Solana Slerf on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Solana Slerf by entering its contract address – D2R7sKwPNpWGtEfMJiLVe5G2ZJbExnk98PEft2dhyCrL – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like SOLSLERF.
+
+
+                
+
+                
+
+----------------
+
+Nearly All FTX Creditors Will Get 118% of Their Funds Back in Cash, Estate Says in New Plan
+
+“As previously disclosed, FTX.com had a massive shortfall at the time of the Chapter 11 filing in November 2022 – holding only 0.1% of the Bitcon and only 1.2% of the Ethereum customers believed it held,” the press release stated. “Accordingly, Debtors have not been able to benefit from the appreciation of these missing tokens during these Chapter 11 cases.”
+
+----------------
+
+Meme Coins Go 74,000% Wild: Investors Bet on Country Coins Ahead of Olympics | Cryptoglobe
+
+
+                                
+ A curious trend has emerged in memecoin world: national pride is going digital as, with the Paris Olympics on the horizon, investors are flocking to a new niche country-themed meme coins, betting that the global sporting event will inflate their value.
+
+
+
+An online tracking platform, as first reported by CryptoBriefing, is monitoring a staggering 47 different country coins. These digital tokens, with names like “American Coin” (USA) and “China Coin” (CHINA), collectively represent a market capitalization of nearly $117 million. Trading activity is brisk, with almost $18.7 million changing hands in the past 24 hours.
+
+
+
+USA, the undisputed heavyweight of this digital gamesmanship, boasts a market cap near $92 million. According to DEX Screener, its value has skyrocketed a staggering 74,000% since its launch in mid-March, peaking on May 4 while China Coin trails far behind with a $5.8 million market cap, it has witnessed an impressive 23,000% growth since its inception.
+
+
+
+Looking at the most recent trading period, Palestine Coin (PALESTINE) takes the gold medal for growth, surging a remarkable 764% at the time of writing. France Coin (FRA) and UK Coin (UK) are also experiencing significant gains, rising 120% and 145% respectively over the past 24 hours.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+Adding a dash of humor to this global investment frenzy is the “Olumpec Terch” (OLUMPC) meme coin, a playful misspelling of “Olympics” capitalizes on both the Olympic buzz and the meme coin trend of purposefully misspelled names. Since its launch, OLUMPC has witnessed a meteoric rise of 6,400%, reaching its pinnacle on May 5.
+
+
+
+It’s worth noting that trading in memecoins carries a high level of risk and may not be suitable for all. The extreme volatility characteristic of memecoins can lead to significant losses as well as gains.
+
+
+
+It’s important to note that past performance is not necessarily indicative of future results and investors should conduct thorough research and consider seeking advice from an independent financial advisor. Additionally, the regulatory landscape for cryptocurrency investments remains uncertain in many areas, posing potential legal risks for trading and holding memecoins.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+Bitcoin Ethereum, Dogecoin Sink Further As Regulatory Woes Weigh Down Investors: Analyst Says Majority Top Market Cap Cryptos In 'Slight Buy Zones' - Benzinga
+
+The cryptocurrency market slid further Tuesday as market sentiment remained weak amid regulatory potshots taken at cryptocurrency entities. CryptocurrencyGains +/-Price (Recorded 8:45 p.m. EDT)Bitcoin BTC/USD-1.63%$62,321Ethereum ETH/USD-2.15%$3,007Dogecoin DOGE/USD-4.34%$0.1505What Happened: Bitcoin, the market bellwether, sank to $62,000, following a 1.63% drop in the last 24 hours. The price drop eroded more than $167 million worth of active positions from the market in the last 24 hours, with long liquidations amounting to 77% of the total.The second-largest cryptocurrency, Ethereum, which shed 2.15% in the 24 hours, saw $43.48 million in liquidations, followed by Bitcoin with $40.80 million in its positions getting recked.Despite the negative price action, the number of traders taking long positions on Bitcoin surged in the last 24 hours, exceeding the ones shorting the coin by a ratio of 1.11:1.The negative sentiment has lingered after brokerage firm Robinhood Markets Inc HOOD was slapped with a Wells Notice from the SEC, the latest cryptocurrency company to get on the radar of U.S. regulators.Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 8:45 p.m. EDT)AIOZ Network (AIOZ)+9.73%$0.8088Ethena (ENA)+5.26%$0.9429Chiliz (CHZ)+3.57%$0.1275The global cryptocurrency market cap now stands at $2.3 trillion, declining by 1.84% in 24 hours.To the contrary, stocks moved higher on Tuesday. The Dow Jones Industrial Average moved 31.99 points to the north, or 0.08%, to close at 38,884.26. The S&P 500 increased 0.13% to end the trading session at 5,187.70 points. The tech-heavy Nasdaq Composite, however, traded in the red, sinking 0.1% to 16,332.56 points when the markets closed.The yield on the 10-year Treasury was up by less than 1 basis point to 4.63% as of 9:30 p.m. EDT. Wall Street has been optimistic since the softer-than-expected U.S. jobs data fueled hopes of a more dovish monetary policy from the Federal Reserve. See More: Best Cryptocurrency ScannersAnalyst Notes: According to on-chain analytics firm Santiment, most of the leading coins in the market were in buying zones. The inferences were drawn using the popular technical analysis tool, Relative Strength Index.Ethereum's RSI was higher when compared to other assets, making it more vulnerable to a downside. On the other hand, Cardano's RSI was low, pitching it as a potential buy low candidate.Cryptocurrency analyst Michael van de Poppe talked about the struggling state of the altcoin market since spot Bitcoin ETF approvals."Altcoins are still within their longest bear market since existence. The likelihood of a longer than four-year cycle increases day-by-day," the analyst said.Kevin, another well-known cryptocurrency researcher and trader, echoed similar conclusions. "I have posted everything I can find numerous times and nothing has changed in months there’s no money flowing around Crypto. I’m not gonna feed you guys the same content over and over again and I cant resort to posting 1HR time frame non sense. Call me when something happens."Photo by SvetlanaParnikova on ShutterstockRead Next: Trump’s Potential Return Could Spur Crypto Growth, Standard Chartered Report Suggests
+
+----------------
+
+SEC’s Gary Gensler is getting irked being asked about crypto
+
+The head of the United States securities regulator, Gary Gensler, appears to be getting fed up with answering questions about crypto — recently commenting he receives an “outsized ratio” of questions about it compared to traditional finance. “Crypto is a small piece of our overall markets,” Gensler said on CNBC’s Squawk Box on May 7 responding to a question on where the Securities and Exchange Commission’s priorities lie.Gensler inferred a comparison between the “$110 trillion capital market” the SEC oversees and the $2.4 trillion crypto market — claiming much of the latter doesn’t comply with U.S. securities laws so it has “an outsized piece of the scams and frauds and problems in our markets.” “And so thus, you end up with like an outsized ratio of journalist questions and crypto journalists to market cap.”Host Andrew Ross Sorkin asked if the media’s crypto questions are because that’s where the SEC’s attention seems to be focused — which Gensler quickly rebutted that “it’s a function of where your attention is.”
+
+
+“Think about it. I’ve been on your show, what, a dozen times? And every show, you ask about crypto,” the SEC boss said.“My guessing is this will be a majority crypto interview. While the capital markets are $110 trillion. So it’s also about where the financial media is focused.”Gensler then evaded back-to-back questions — the first on the SEC’s Wells notice to Robinhood which alleged its crypto listing and custody services violated securities laws — saying he “can’t speak to any one company.”He claimed investors weren’t getting “the required or needed disclosures” about crypto and that “many of those tokens are securities under the law of the land, as interpreted by the U.S. Supreme Court.”Paul Grewal, Coinbase’s legal chief, a company locked in a legal fight with the SEC, told Gensler on X to “please stop misleading the market — tokens are NOT securities.”“Their pleadings notwithstanding, your own attorneys have admitted this in court,” Grewal added.Gensler also dodged answering if Ether (ETH) was a security or not and if the SEC would approve a related exchange-traded fund (ETF) — only saying that “those filings will take up at the appropriate time” by the five SEC commissioners.Gensler also defended against House Financial Services Chair Patrick McHenry’s allegation that he “misled Congress” when he “refused to answer” questions on the SEC’s classification of ETH.“We don’t speak about whether we have an investigation,” he said. “We don’t speak about whether somebody is, in our opinion, not following the law unless we actually bring a case.”McHenry claimed Gensler’s answer refusals were an “intentional attempt to misrepresent” the SEC’s position and cited Consensys’ April lawsuit against the SEC that alleged the regulator planned to regulate ETH as a security.Related: SEC pushes back against Terraform’s claims fraud happened outside USGensler however argued that he tells Congress “accurately what we’re doing.”“We stay quiet on many questions that you might ask at this live interview or even in a congressional hearing,” he said. The SEC has filed six crypto-related lawsuits so far this year — it brought 46 enforcement actions against crypto firms last year, a 10-year high and over double the number from 2021.There are at least a dozen court cases launched by the SEC still working their way through U.S. courts with many defendants pinned on allegations they sold unregistered securities and operated illegally.Magazine: Crypto regulation — Does SEC Chair Gary Gensler have the final say?
+
+----------------
+
+Azuro - Infrastructure and Liquidity for On-chain Predictions - Brave New Coin
+
+Rossen is a core contributor at Azuro, an infrastructure/liquidity layer for on-chain predictions. It utilizes a new Liquidity Pool design, the Liquidity Tree, which creates and maintains market liquidity.
+Why you should listen
+Azuro is an infrastructure/liquidity layer for on-chain predictions. It utilizes a Liquidity Pool design, the Liquidity Tree to create and maintain market liquidity.
+The Azuro Protocol is a decentralized protocol that enables peer-to-pool prediction markets without intermediaries. It’s built on EVM-compatible blockchains and consists of several smart contracts that handle different aspects of the prediction process, such as liquidity pools, odds, live betting, and payouts. The protocol uses a hybrid oracle/ automated market maker solution to determine the odds of different outcomes and to ensure that the process is fair and transparent.
+Azuro supports thousands of sports markets and other games, plus a rich feature set, which can be utilized by anyone permissionlessly for the creation of apps, embedded integrations or derivative products.
+The human desire to take risk for a gain is more widespread than ever. A generation of degens within and outside of crypto is here. A bet was one of the first forms of contract used by ancient people.
+Azuro enters the space with the mission to break down the barriers, creating a protocol dependent on community participation and ownership. A piece of critical on-chain infrastructure which acts as a black hole for liquidity for decentralized predictions and gaming.
+Azuro’s approach to concentrating liquidity can deliver much deeper liquidity vs any centralized options. Azuro’s tooling and oracle solutions can be utilized by any blockchain, starting with EVM-compatible ones. Azuro’s open design will allow anyone to launch a prediction site/app with no upfront costs and zero risk management capacity needed.
+Supporting links
+Azuro
+Andy on Twitter
+Brave New Coin on Twitter
+Brave New Coin
+If you enjoyed the show please subscribe to the Crypto Conversation and give us a 5-star rating and a positive review in whatever podcast app you are using.
