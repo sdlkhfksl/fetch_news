@@ -1,156 +1,3 @@
-Polygon Launches Alpha Testnet of Zero-Knowledge Rollup Solution 'Miden'
-
-
-                        
-                            Polygon Launches Alpha Testnet of Zero-Knowledge Rollup Solution ‘Miden’                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 7, 2024 03:27 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Polygon, a prominent Ethereum layer-2 developer, has introduced the alpha version testnet of its latest zero-knowledge (ZK)-rollup solution named Miden.In a post on May 6, Polygon announced that the Polygon Miden Alpha Testnet zero-knowledge is now live, enabling developers to initiate testing. Miden is a ZK-rollup specifically designed to enhance the capabilities of the Ethereum blockchain.Miden Incorporates Client-Side Proving
-Similar to other ZK-rollups, Polygon’s latest solution utilizes a cryptographic technique that allows data to be verified or “proved” without disclosing its contents to the rest of the network. Miden also incorporates client-side proving, which enables users to generate proofs for their own state transitions locally, without the need to reveal the state to the network. This approach aims to reduce the network load, enhance privacy, and improve scalability.Additionally, Miden introduces new functionalities, including private accounts that support private tokens and transactions, where only the hash of the account is stored on the blockchain. The solution also leverages parallel transaction execution, allowing concurrent processing of transactions, resulting in significantly higher throughput compared to the Ethereum mainnet and reduced blockchain node state bloat.The roadmap for Miden indicates that a builders testnet is scheduled for September, although no specific timeframe has been mentioned for the mainnet launch.Miden enters the market in direct competition with StarkWare’s layer-2 scaling network and rollup technology stack, known as StarkNet, as well as other alternatives like Matter Labs’ zkSync Era. Polygon also offers zkEVM, a scaling solution equivalent to the Ethereum Virtual Machine, which enables seamless compatibility with existing smart contracts, tools, and wallets.Despite the launch of the Miden testnet, the native token of the Polygon blockchain, also named Polygon, did not experience a significant reaction in the market. At the time of writing, Polygon’s token had fallen by 5% to trade at $0.704.Polygon Labs CEO Condemns Ethereum Layer 3 Networks
-Last month, Polygon Labs CEO Marc Boiron lashed out at Layer 3 (L3) networks on the Ethereum blockchain, claiming they are unnecessary for scaling the network and only serve to drain value from the mainnet.At the time, Boiron expressed his skepticism about L3 networks, stating that Polygon Labs, a prominent Layer 2 (L2) scaling network for Ethereum, does not work on L3s because they are not essential for scaling existing networks. “L3s exist only to take value away from Ethereum and onto the L2s on which the L3s are built,” he argued.The L3 ecosystem includes various solutions from L2 networks such as Orbs, Xai, zkSync Hyperchains, and the recently launched Degen Chain on Arbitrum Orbit. Meanwhile, the Polygon Proof-of-Stake (PoS) sidechain has successfully executed the Napoli hard fork, adding support for Dencun features and making it the first network to support RIP-7212. EIP-1153 aims to enhance the efficiency of block space utilization, optimizing the overall performance of the network.                                                     
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-DMarket opens week as top NFT in daily sales
-
-
-DMarket emerged as the top-ranking non-fungible token (NFT) collection on Monday, with a daily sales volume of US$842,038, which represents a 1% uptick from the day prior.
-
-
-
-The collection had a total of 36,900 transactions, involving 4,304 unique buyers and 3,555 sellers.
-
-
-
-DMarket is a Mythos-based collection that represents in-game items for popular games like Counter-Strike 2 and Dota 2, both of which feature in top esports competitions. The International 2021, a Dota 2 tournament held in Bucharest, Romania, had a prize pool of US$40 million, the largest in esports history.
-
-
-
-DMarket’s market-leading daily sales on Monday pushed its historic sales volume to US$422 million, now the 16th all time.
-
-	
-	
-	
-	
-
-
-The second position for the day was claimed by Solana’s Monkey Business, with daily sales reaching US$802,328. This collection saw a total of 148 transactions, engaging 74 unique buyers and 77 sellers. 
-
-
-
-Pudgy Penguins secured the third spot with a daily sales volume of US$703,920, a big leap from the previous day’s US$143,138. The day’s top Ethereum collection achieved this with just 19 transactions.
-
-
-
-Other notable collections include Bitcoin’s NodeMonkes and Solana’s Mad Lads. NodeMonkes recorded a daily sales volume of US$672,683 with 33 transactions, while Mad Lads followed with US$570,755 from 41 transactions.
-
-
-
-Last Thursday, NodeMonkes led the NFT market to flip SATS (a BRC-20 bundle) to claim the all-time leading spot among Bitcoin-based collections.
-
-	
-	
-	
-
-	
-
-
-DeGods experienced a decrease from the previous day’s sales of over US$1.1 million and generated US$564,417 in sales on Monday, dropping out of the top five. 
-
-
-
-Mutant Ape Yacht Club, on the other hand, saw an increase to US$355,212.56 in daily sales for sixth.
-
-
-
-Bored Ape Yacht Club, the parent project of Mutant Ape Yacht Club, trailed its spinoff collection closely with US$350,481.46. 
-
-
-
-BAYC is the world’s second-largest NFT collection by historic sales volume with US$3.14 billion.
-
-				 Post Views: 381
-			
-
-
-----------------
-
-News from the crypto Atom, Shiba Inu, and Cardano
-
-Despite the fact that at the moment the crypto markets are dominated by Bitcoin price movements, there are some cryptocurrencies that follow their own trend: let’s examine ATOM (Cosmos), SHIB (Shiba Inu) and ADA (Cardano). 
-
-Analysis of the cryptocurrencies Cosmos (ATOM), Shiba Inu (SHIB) and Cardano (ADA)
-ATOM is the native cryptocurrency of the Cosmos ecosystem.
-In theory Cosmos is an independent ecosystem, which should not be influenced by Bitcoin or Ethereum.
-Actually, the price trend of ATOM is heavily influenced by that of BTC, and to a lesser extent by that of ETH, although with some movements of its own. 
- In particular, in the last seven days the market value of ATOM has increased by 12%, compared to -3% for ETH and +0.1% for BTC. 
-This positive difference for ATOM, however, is followed by a sharp drop in the last thirty days, during which it has lost 18%. 
-In other words, just before mid-April, during the pre-halving retracement, the price of the Cosmos cryptocurrency experienced a sharp drop, much greater than that of Bitcoin or Ethereum.
-Since then it has simply been bouncing back, going from $7.7 to $9.1.
-What is surprising, however, is that its current price is actually lower than the $10.6 at the beginning of the year, even though in mid-March it managed to rise above $14. 
-In short, 2024 is not proving to be a great year for ATOM so far, as its price is still down by a staggering -79% from the highs of 2021.
-Just suffice to say that the current price is even lower than that of May last year, and this is because not even 2023 was a great year for the Cosmos cryptocurrency.
-An even uglier fact is that the current price is not much higher than that of August 2020, before the start of the last major bull run, and that in October of last year it had also dropped heavily below that threshold. 
-It almost seems that since the implosion of Earth/Moon in 2022, ATOM has lost all the gains from the last big bull run in 2021 and has never been able to recover them. 
-The trend of SHIB (Shiba Inu)
-Shiba Inu is one of the most important memecoins existing today. 
-Although it is a token, and not a native cryptocurrency, the project has its own blockchain which is only a layer-2 of Ethereum. 
-Even for SHIB, the last few months are not proving to be particularly happy so far. 
-In the last seven days it has lost 1.5%, and in the last thirty days it is losing 16%.
-It should be noted, however, that the current price of 23 cents is significantly higher than the 10 cents at the beginning of the year. 
-So despite a -16% in the last thirty days, it still maintains a +120% since the beginning of the year. 
-However, it must be said that 2023 has not been a particularly good year for the price of Shiba Inu, as it has only managed to go from 8 to 10 thousandths of a dollar even in the face of the beginning of the bull run in October. 
-Currently, it is still down by -73% from the highs of 2021, and since the implosion of Terra/Luna two years ago, it has only made one significant upward movement this year, at the beginning of March, when in just a few days it went from just under 10 millionths of a dollar to almost 36 millionths, with a +260% in a week. 
-Being a memecoin, its price trend moves in jumps, with real pumps often followed by dumps. 
-Furthermore, it should not be forgotten that recently other memecoins have landed on the crypto markets that are performing better than SHIB in terms of price. 
-ADA (Cardano) performance
-ADA is the native cryptocurrency of the Cardano blockchain. 
-Despite still being among the top 10 cryptocurrencies by market capitalization, its price performance is definitely disappointing. 
-In the last seven days it is losing 1.5%, while in the last thirty days it is at -24%. However, what strikes the most is the -24% since the beginning of the year, which makes it the cryptocurrency with the highest loss in 2024 so far among the top 15. 
-However at least until April 12th it had not performed badly in this 2024, going from $0.6 to $0.77, but only to drop in the last few weeks even below $0.45. 
-In other words, the good results of the first two and a half months of the year have turned out to be just a flash in the pan. 
-However, the picture improves slightly if the analysis is extended to 2023. 
-Indeed, last year it started at $0.24, then rose to $0.6 thanks to the end-of-year bull run. 
-So for Cardano, 2023 has been a clearly positive year, while instead 2024 is currently proving to be disappointing. 
-The fact is that, despite the ongoing bull run, it has never managed to rise above the $0.9 it had before the Terra/Luna implosion, so much so that the current price is still -85% compared to the all-time highs of 2021. 
-Even the fact that the bottom of the bear market of 2022 was reached at the end of 2023 does not shed a good light on the medium-long term trend of this cryptocurrency. 
-
-----------------
-
-Bitcoin, Ethereum, Dogecoin Dip After Robinhood Gets Wells Notice From SEC - Analyst Says ETHs Weak Fundamentals A 'Roadblock' For King Crypto - Benzinga
-
-Major cryptocurrencies witnessed a drop on Monday as another top cryptocurrency company stared at an enforcement action by U.S. regulators.CryptocurrencyGains +/-Price (Recorded 12:00 a.m. EDT)Bitcoin BTC/USD-1.01%$63,702Ethereum ETH/USD-2.46%$3,086Dogecoin DOGE/USD-4.36%$0.15What Happened: World's largest digital asset by market cap, Bitcoin BTC/USD, failed to sustain its recent climb to $65,000, falling back to the $63,000 zone. The price slump liquidated nearly $215 worth of positions in the last 24 hours, with long liquidations accounting for 68% of the total. Notably, Ethereum ETH/USD led the chart with over $67 million in liquidations, followed by Bitcoin at $54.71 million.The Open Interest in Bitcoin futures slipped 1.68% in the last 24 hours to $30 billion. The negative sentiment was triggered after brokerage firm Robinhood Markets Inc HOOD revealed that its crypto arm received a Wells Notice from the SEC, a precursor to a likely enforcement action by the regulator. Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 12:00 a.m. EDT)AIOZ Network (AIOZ)+26.85%$0.7527Solana (SOL)+13.77%$156.6Kaspa (KAS)+10.89%$0.1121The global cryptocurrency market cap now stands at $2.34 trillion, declining by 1.39% in 24 hours.Stocks traded higher on Monday. The Dow Jones Industrial Average closed at 38,852.27 points, witnessing an uptick of 1.46%. The S&P 500 rose 1.03% to end the trading session at 5,180.74 points. The tech-heavy Nasdaq Composite spiked 1.19% to 16,349.25 points at the closing bell. Weaker-than-expected U.S. jobs report from April was catalyzing the market, keeping investors' hopes high for an interest rate cut by the Federal Reserve. See More: Best Cryptocurrency ScannersAnalyst Notes: According to 10x Research, Bitcoin and Ethereum have become highly correlated, with Ethereum's lackluster performance weighing heavily on the king coin. "Ethereum's weak fundamentals are becoming a roadblock for Bitcoin as they prevent broad fiat inflow into the crypto ecosystem."Cryptocurrency analyst Michael van de Poppe predicted a bullish pivot for the altcoins in the next few months. He said, "Great close for the weekly candle on the altcoin market capitalization. Expecting that this will be testing ATH in the coming 3-5 months."Read Next: Elon Musk Meets Bitcoin-Supporting President Javier Milei Again: ‘I Recommend Investing In Argentina’
-
-----------------
-
-Revolut debuts dedicated crypto exchange for UK users
-
-The fintech company and global neobank Revolut made a notable move into the cryptocurrency sphere by quietly introducing a specialized crypto trading platform for retail customers in the United Kingdom.Revolut unveiled Revolut X on May 7, targeting a specific set of customers. The platform is designed to rival major cryptocurrency exchanges by offering easy access for users and charging minimal fees, according to a press release shared with Cointelegraph. The platform features easy "on-ramping" and "off-ramping," allowing users to seamlessly convert fiat currencies like GBP to crypto and vice versa. Notably, Revolut X offers fixed fees of 0% for makers and 0.09% for takers, regardless of trading volume, potentially undercutting competitors.Leonid Bashlykov, the Revolut head of crypto exchange product, said that the company is “excited” to introduce a new crypto product that will “change the game for experienced crypto traders.”“We understand that competitive fees as well as easy on and off ramping are at the heart of what experienced traders want from a crypto platform.”Initially, the platform will offer trading for over 100 cryptocurrencies, including popular choices like Bitcoin (BTC), Ether (ETH), and XRP (XRP). However, it says it plans to expand this selection in the coming months. It added that while the platform was designed with seasoned crypto traders in mind, any U.K. users with a retail account will have access to Revolut X desktop with their existing credentials and can trade directly between the platform and their Revolut accounts without any additional fees or limitations.Cointelegraph reached out to Revolut for further information on the development. Related: Crypto exchanges to meet Nigerian SEC chief for regulatory talksThis move comes after the company scaled back its crypto offerings in both the U.K. and the U.S. due to regulatory hurdles.Revolut — which started in the U.K. offering money transfers in 2015 — has grown to become one of the country’s largest fintech companies, with over 40 million users worldwide. It began allowing users to buy, hold, and trade cryptocurrencies in 2017.However, in December 2023, the company planned to halt crypto services in the U.K. ahead of new regulations from the Financial Conduct Authority (FCA). The FCA's rules, which aim to increase transparency and protect investors, have presented challenges for several crypto firms. Prior to that, in August 2023, the company suspended its crypto-related services in the U.S., though it only affected around 1% of its user base. The launch of Revolut X signifies a renewed focus on crypto for Revolut. It follows the March 2024 introduction of Revolut Ramp, a service that allows users to purchase crypto directly within their Web3 wallets through a partnership with Consensys, the developer of MetaMask.Magazine: CZ gets jail sentence, Gensler viewed Ether as security, and FBI targets mixers: Hodler’s Digest, April 28 – May 4 
-
-----------------
-
 Grayscale's Bitcoin ETF Breakout Series Ends! Successive Entries Started to Appear! - Bitcoin Sistemi
 
 Grayscale's GBTC spot Bitcoin exchange-traded fund (ETF) recorded net inflows for the second day in a row, according to SosoValue data.
@@ -8656,3 +8503,103 @@ Andy on Twitter
 Brave New Coin on Twitter
 Brave New Coin
 If you enjoyed the show please subscribe to the Crypto Conversation and give us a 5-star rating and a positive review in whatever podcast app you are using.
+
+
+----------------
+
+MATIC down 21% in April: Can 115K Polygon whales turn the tide in May? - AMBCrypto
+
+
+
+MATIC whales have accumulated more tokens in the last month.
+However, the token’s price has continued to fall.
+
+The count of Polygon [MATIC] whales has rallied in the last month despite the double-digit decline in the value of the Layer-2 (L2) token, according to Santiment’s data.
+According to the on-chain data provider, the number of MATIC whales that hold between 1,000 and 1,000,000 tokens has increased by 2% in the past 30 days. 
+As of this writing, this cohort of MATIC holders was 115,000.
+Likewise, bigger whales with between 1,000,000 and 100,000,000 MATIC tokens have increased their accumulation. During the period under review, their count has gone up by 5%.  
+As of this writing, they held 21% of MATIC’s circulating supply of 9.8 billion tokens. 
+Source: Santiment
+MATIC is due for further decline
+Despite the surge in whale activity in the last month, MATIC’s price has not seen any rally. Its price has declined by 21% within that period, per CoinMarketcap’s data. 
+At press time, the altcoin exchanged hands at $0.72.
+MATIC’s price decline in the last month mirrors the general decline recorded in the cryptocurrency market during that period. 
+Due to the fall in trading activity, the global cryptocurrency market capitalization has fallen by 11% in the past 30 days, according to CoinGecko’s data. 
+AMBCrypto assessed MATIC price movements on a 3-day chart and found a significant decline in demand for the L2 token by market participants. 
+The key momentum indicators observed were below their respective center lines at the time of writing.
+For example, MATIC’s Relative Strength Index (RSI) was 38.41, while its Money Flow Index (MFI) was 21.34. 
+At these values, these indicators showed that the altcoin was oversold, as the bears mounted significant downward pressure on its price.
+
+Read Polygon’s [MATIC] Price Prediction 2024-2025
+
+Confirming the bearish activity in the MATIC activity, its price rested below the Parabolic SAR indicator at press time. The indicator is used to identify potential trend direction and reversals.
+Source: MATIC/USDT on TradingView
+When its dotted lines are placed above an asset’s price, the market is said to be in a decline. It indicates that the asset’s price has been falling, and may continue to do so. 
+
+
+
+
+
+
+----------------
+
+BitPanda enters MENA with crypto trading infrastructure offering | Cryptopolitan
+
+Austrian based, Bitpanda, crypto and securities broker platform that offers custody services and tech trading solutions has announced its plans to expand to the Middle East, with the launch of Bitpanda MENA. BitPanda MENA is seeking a license in Dubai with Dubai’s virtual asset regulatory authority.According to the press release, Bitpanda will match the region’s ambitions and provide the infrastructure necessary to power future trading growth and unlock digital assets for millions of investors.Banks, fintechs, (neo-)brokers and crypto-native companies in the region will be able to partner with Bitpanda Technology Solutions (BTS) to launch their own trading solutions powered by Bitpanda’s infrastructure in as little as 3 months.This will happen as soon as Bitpanda MENA has finalized obtaining its local license later this year. BTS already partners with several of Europe’s largest banks, and currently provides the trading infrastructure for over 20 million customers across Europe.Eric Demuth, co-founder and CEO of Bitpanda commented, “Over the last year we’ve seen a huge increase in demand for access to digital assets and a general maturation of the industry. Through Bitpanda Technology Solutions we will provide the region with the trading infrastructure it needs to meet the ambitions of its investors. We are already the partner of choice for some of Europe’s biggest banks because we have proven again and again over the last decade that we provide both the best products, and the safety, security and trust they need to succeed. The UAE is the ideal place for us to make our entry to the Middle Eastern market. It has the perfect mix of investor demand and innovative regulatory environment that will allow us to deliver the best trading solution available on the market.”Speaking to the Emirates News Agency (WAM), Demuth said that opening an office for the platform in the UAE will allow it to provide the necessary infrastructure to stimulate future growth of the trading sector and make digital assets available to millions of investors in the region.Walid BenOthman, Managing Director of Bitpanda MENA added, “Bitpanda has built a truly world-class product that is already trusted by millions of European investors, and several of Europe’s largest banks. We know we have the best product available and are thrilled to be able to launch it in Dubai where demand for crypto and digital assets has never been higher.”Bitpanda MENA will open its first office in Dubai at the DMCC Crypto Centre and has already appointed an experienced team led by Walid Benothman to tailor its offering to the local market. In line with its long history of regulatory compliance, Bitpanda is in the final stages of obtaining its FSP and will continue to work with local regulators to ensure a fully compliant product offering.Speaking about the announcement, Ahmed Bin Sulayem, Executive Chairman and CEO of DMCC commented: “As the world’s leading free zone and largest hub for Web3 in the region, DMCC is delighted that Bitpanda has announced its expansion to the Middle East via Dubai. As one of the leading names in the European crypto space, we look forward to working with Bitpanda through the DMCC Crypto Centre and its over 600 member companies as the ecosystem grows. We’re thrilled to welcome another unicorn to Dubai.”Recently BitPands appointed Joshua Barraclough, a former JPMorgan executive, as the new CEO of its digital assets exchange, Bitpanda Pro. Barraclough brings a wealth of experience from his tenure as co-head of digital innovation at JPMorgan in London.His transition to Bitpanda Pro is driven by the growing integration of cryptocurrency investments into mainstream financial markets, a trend that is increasingly demanding sophisticated trading tools for both retail and institutional investors.This strategic hire follows Bitpanda’s recent capital boost in August 2023, where it secured $263 million in a Series C funding round led by Peter Thiel’s Valar Ventures, bringing the company’s valuation to an impressive $4.1 billion. The funds are earmarked for doubling down on technology enhancement, scaling international operations, and expanding the team.
+
+
+----------------
+
+LocalMonero exchange shuts down as crypto privacy services dwindle
+
+Peer-to-peer trading platform for privacy coin Monero (XMR) has shuttered its services effective immediately, adding to the recent wave of crypto privacy closures and arrests. On May 7, LocalMonero announced that, effective immediately, all new signups and advertisement postings for Monero trades are disabled. On May 14, the platform will disable the trading of the privacy-focused crypto asset.The firm cited “a combination of internal and external factors” but did not reveal the specific reasons for its closure. It added that on Nov. 7, the website will be taken down and advised users to reclaim any funds from their wallet prior to that date, otherwise, they may be considered abandoned.The P2P Monero trading platform, which was launched in 2017 as the XMR equivalent of LocalBitcoins, acknowledged that the Monero ecosystem has matured a lot over the years. The team added that the imminent launch of decentralized exchanges such as Haveno and Serai, and a recently announced privacy update called Full-Chain Membership Proofs (FCMPs), gives them confidence that Monero’s future is bright, “with or without our platform.”Screenshot of closure notice on localmonero.co.The move has been seen by some as yet another blow to privacy coins and protocols following Kraken’s termination of support for Monero for its customers based in Ireland and Belgium in April and recent legal action against Tornado Cash.Privacy Advocate “Seth For Privacy,” said it was an “incredibly sad day,” in a post on X on May 7. He added that LocalMonero has been “a cornerstone of the no-KYC Monero ecosystem” and there is no direct fiat to XMR alternative today.He said that although the platform did not provide a reason, users could speculate.“Feels like we're deep in the trenches of an all-out anti-privacy crypto war right now.”Related: Are privacy tokens under attack? Aleph Zero co-founder explainsPrivacy coins and services have been targeted in recent months by global finance regulators. In April, the co-founders of crypto mixer Samourai Wallet were arrested on charges of money laundering.Other privacy services such as Wasabi CoinJoin and Trezor Coinjoin were also recently shuttered by their founders as the privacy crackdown intensified. However, it may not be as clear-cut as that. Ethereum privacy protocol Railgun contributor Alan Scott Jr. told Cointelegraph in early May that intelligence agencies may not be as anti-privacy protocols as many believe. “Their concern is the potential problems around impeding their ability to catch bad actors,” he said at the time referring to agencies such as the FBI.Magazine: Tornado Cash 2.0: The race to build safe and legal coin mixers
+
+----------------
+
+2 key Bitcoin indicators have ‘cooled off’ - Why it could be bullish
+
+Two key Bitcoin (BTC) trading indicators — funding rate and 3-month annualized basis rate — could suggest the price is on track to go upwards soon, according to a crypto analyst.“Looks like we’re consolidating before the next leg up,” Reflexivity Research co-founder Will Clemente wrote in a May 7 post on X, explaining that both Bitcoin’s funding rate and Basis rate have “cooled off” after briefly reaching negative readings.Bitcoin's funding rate dipped into negative territory on several occasions in April. Source: Will ClementeBitcoin’s funding rate is often used to track overall trader sentiment for the cryptocurrency market. Exchanges use this rate to balance out traders entering long positions with those opting for short positions to mitigate the risk of overexposure.When long-position traders take more dominant positions, the funding rate turns positive, indicating their confidence in Bitcoin’s price increasing.At the time of writing, the OI-weighted funding rate is 0.0091%, having recovered from a negative rate of -0.0050% on May 4, as per CoinGlass data. “Sounds like the calm before the storm,” said pseudonymous crypto commentator Crypto Empire.“The Bitcoin funding rates still remaining this low, while Bitcoin is bouncing makes me feel extremely bullish,” echoed pseudonymous crypto trader Mister Crypto to their 98,000 X followers.The shift in the funding rate over the four-day period was also mirrored by a slight increase in Bitcoin’s price, which rose 1.11% to $62,361, as per CoinMarketCap data.Related: Bitcoin trader flags key levels as BTC price attacks $64K liquidityHowever, liquidation data contradicts this, suggesting that futures traders are still leaning bearish and anticipate a near-term price drop. A 3.5% rise in price to the key $65,000 level could liquidate $1.36 billion in short positions, meanwhile, a 3.5% drop to $60,500 in contrast would only wipe out $650 million in long positions.Bitcoin 3 month annualized basis rate. Source: Will ClementeMeanwhile, some traders also note that Bitcoin’s annualized basis rate has increased to the higher end of the 5-10% neutral range on major exchanges such as Binance, OKX, and Deribit.The annualized basis rate is a way to measure the cost difference between a Bitcoin futures contract and the actual price of Bitcoin. Traders often view rates above 10% as a neutral-to-bullish signal.Magazine: Buy altcoins now, but sell before ‘mid-2025’: Charles Edwards, X Hall of FlameThis article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+
+
+
+
+
+
+
+----------------
+
+South Korean OTC Crypto ‘Thieves’ Admit Guilt in USDT Trial
+
+
+                        
+                            South Korean OTC Crypto ‘Thieves’ Admit Guilt in USDT Trial                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 7, 2024 23:00 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Four suspected South Korean OTC crypto “thieves” have pleaded guilty to stealing around $735,000 from a crypto buyer in a “bogus” USDT deal.Five men appeared at the Incheon District Court on May 7, all accused of crypto-related theft and fraud, Maeil Kyungjae and Kyeonggi Ilbo reported.One suspect pleaded not guilty. But lawyers for the remaining four accepted the prosecution’s charges.South Korean OTC Crypto ‘Thieves’ Trial Begins
+The alleged incident took place in the Songnim District of Eastern Incheon at around 4 pm on February 19 this year.Prosecutors think one of the gang’s members met the crypto enthusiast “through a mutual acquaintance.” This member then “offered to sell this individual USDT coins at below the market rate.”The alleged victim’s lawyers said the stolen money had not yet been recovered. They called on the court to help return the funds.Prosecution officials think one of the accused, a man “in his 20s,” belongs to a “violent gang.” They stated that the gang is “active in Incheon.”Officials told the court the stolen cash may have been used in “a money laundering scheme.”Victim Wants Money Back
+During the police investigation, the alleged victim (aged in their 40s) claimed that the money was a “combination of” their own funds and “money borrowed from friends and acquaintances.”The suspect who pleaded not guilty to the charges told the court said his legal team would provide a “written explanation” of his innocence.Police originally arrested six people in conjunction with the incident.However, officers later released one suspect after establishing this individual was not involved in the alleged theft.Incheon District Court. (Source: MBC News/YouTube)USDT Popularity Rising in South Korea
+Reports of South Korean crypto OTC thefts have skyrocketed this year. The popularity of crypto investment – and USDT – is increasing fast in the East Asian nation.In March, police arrested 10 people who allegedly stole around $74,000 worth of cash from a USDT buyer in the affluent Gangnam District.Police also unveiled details of a similar incidents reported in Geumcheon in late February. Another incident was reported in Icheon in early January.USDT is widely used in OTC and peer-to-peer trading throughout East Asia, primarily as a currency in Bitcoin (BTC) trading.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
