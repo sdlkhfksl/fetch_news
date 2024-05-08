@@ -1,392 +1,3 @@
-As Marathon Digital joins S&P SmallCap 600, shares surge 18% | CryptoSlate
-
-  CryptoSlate on X x.com/cryptoslate Get the latest crypto news and expert insights. Delivered to you daily. Join 50k followers 
-
-----------------
-
-Polygon launches ZK-based Ethereum scaling solution Miden on testnet
-
-Polygon (MATIC), the leading Ethereum scaling solution, unveiled on Monday the introduction of its zero-knowledge (zk) based “Miden”, a scaler designed to enhance the capabilities of the Ethereum chain.A zero-knowledge rollup is a Layer 2 scaling solution that moves computation and network state off-chain. A rollup records transaction data directly on the Layer 1 chain, specifically on Ethereum. Put simply, a rollup decreases the computational burden on the Layer 1 chain, resulting in reduced transaction time and cost for users. Polygon’s ZK-rollup Ethereum scaler Miden hits testnetPolygon, a provider of layer-2 solutions for Ethereum, recently released an alpha version testnet of their new zero-knowledge rollup (ZK-rollup) solution named Miden. This comes as competition in the Ethereum scaling space intensifies.Polygon announced on May 6th that the Polygon Miden Alpha Testnet zero-knowledge feature was available for developers to start testing. Miden is a ZK-rollup that aims to enhance the functionalities of the Ethereum blockchain. The announcement was codial with “babe, wake up, it’s here: the Polygon Miden Alpha Testnet is live—a zk self-sovereign focused chain ready for pioneers who want to cook.”The protocol stipulated that the scaler will alleviate the strain on the Ethereum blockchain, enhancing privacy and scalability for users while expanding the chain’s capabilities. As the competition to expand Ethereum becomes more intense, developers can now start testing the zk-rollup.The several Layer 2 chains, namely Base, Optimism, Arbitrum, zkSync, Scroll, and Linea, aim to enhance the scalability of Ethereum. Rollups provide data verification while maintaining data confidentiality from the rest of the network. They prioritize user privacy and enable the development of proofs for client-side transactions locally. These steps aid in alleviating the strain on the underlying Ethereum blockchain.Keom Research, a project focused on developing zero-knowledge solutions for decentralized finance (DeFi), is currently conducting tests on Polygon’s Miden platform, as mentioned in a recent tweet on X.Miden explained – What did you miss out onThe scaler offers client-side proving, allowing users to construct proofs for their own state transitions without revealing the state to the network, as detailed by Polygon. The objective is to reduce the load on the network and enhance privacy and scalability.By design, the scaler also provides supplementary capabilities, such as private accounts that allow for private tokens and transactions, with only the hash of the account being maintained on the blockchain.Miden usees parallel transaction execution, allowing for concurrent processing of transactions. This enables it to achieve significantly greater throughput compared to the Ethereum mainnet and mitigate the issue of blockchain node state bloat.Additional expected notable features comprise of adaptable smart contracts and personalized node scripts, enabling users to compose their own scripts using the Miden virtual machine (VM) and programming languages like Rust.As per the Miden roadmap, a test network for builders is planned for September. The mainnet launch period is not specified.Miden has recently joined the market as a direct competitor to StarkWare’s layer-2 scaling network and rollup technology, StarkNet, as well as other options like Matter Labs’ zkSync Era.Polygon also develops zkEVM, a scaling solution that is functionally comparable to the Ethereum Virtual Machine. This allows for seamless compatibility with the majority of existing smart contracts, tools, and wallets.How is all this done?In order to handle all of these tasks, Miden nodes are equipped with distinct modules.The Tx prover is responsible for executing and providing evidence of transactions, similar to the Miden client.The Tx aggregator is a tool that combines multiple proofs together in order to decrease the size of the final state proof. This is achieved through the use of recursive proving.The block producer is responsible for providing the user with the RPC interface and managing transactions in the tx pool. It also maintains the state of Polygon Miden by storing information in three databases: accounts, notes, and nullifiers.
-
-
-----------------
-
-QCP Capital secures preliminary approval to operate in Abu Dhabi - Crypto Briefing
-
-
-
-
-QCP Capital, a top Singapore-based crypto options trading desk for digital assets, has received in-principle approval from the Financial Services Regulatory Authority of Abu Dhabi Global Market (ADGM) to conduct regulated activities. This development marks the firm’s expansion into the Middle East.The crypto options trading desk, which processed nearly $60 billion in crypto derivatives trading volume last year, is the first Singapore-based digital-asset market maker and broker dealer to receive preliminary approval from ADGM, according to a spokesperson from the regulator. Once it secures a full license, the company plans to relocate some of its more than 70 employees to Abu Dhabi.The United Arab Emirates has been actively working to attract more crypto companies, with Binance, OKX, and Nomura’s Laser Digital already establishing operations in the region. Melvin Deng, CEO of QCP, praised Abu Dhabi’s regulators for their progressive approach to the digital assets ecosystem, considering it as a part of traditional finance.“Abu Dhabi has got very progressive regulators in that they are thinking about the digital assets as a complete ecosystem with all of traditional finance,” said Deng.Deng, who joined QCP in 2021 after spending over 15 years at Standard Chartered Bank, also cited the geographical location as a factor in the firm’s decision to expand to the Middle East. He noted that the region serves as a confluence for capital flows from Europe, the Middle East, and Asia, similar to Singapore’s position.According to an Ernst & Young report, the monthly volume of crypto derivatives stood at $1.33 trillion as of September 2023, with most of the activity taking place outside the United States.QCP recently announced a partnership with Abu Dhabi-based Further Ventures to develop new products in digital assets. Once the firm receives the full license, it will prioritize core businesses such as trading and market making in the region.
-
-
-
-
-
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-
- 
-
-
-
-----------------
-
-First Mover Americas: Bitcoin Settles Into $63K-$64K Range
-
-Bitcoin fluctuated between $63,000-$64,000 during the Asian and European mornings on Tuesday, consolidating its recovery from last week's crash below $57,000. Despite retreating from Monday's high of around $65,500, BTC appears to have settled into a range comfortably above the $60,000 level. At the time of writing, it was priced at $64,114, largely unchanged from its price 24 hours before, but nonetheless up around 10% since the start of May following a slide of over 16% in April. The broader digital asset market has dropped 1.33% since yesterday, as measured by the CoinDesk 20 Index (CD20).
-
-----------------
-
-Why Is The Bitcoin Price Falling Today?
-
-
-                            Bitcoin (BTC) has experienced a price slowdown, having recently recovered above $60,000. This tepid price movement is believed to be due to a couple of factors, including the reduced demand for the Spot Bitcoin ETFs. 
-Spot Bitcoin ETFs Have Lost Their Spark
-The Spot Bitcoin ETFs recorded billions of dollars in net inflows in the first three months of launch. This contributed to the significant rally that Bitcoin recorded right around when the funds were approved, with the flagship crypto rising to a new all-time high (ATH) in March. However, demand for these funds has declined since the start of this month. 
-
-Research firm Kaiko also noted in its recent report that net inflows across all ETFs have steadily dropped for a while now. This has ultimately affected Bitcoin’s bullish momentum, with the flagship crypto trading sideways. Bitcoin’s price performance in the last 24 hours suggests that the recovery above $60,000 wasn’t necessarily a bullish reversal.
-Andrey Stoychev, Head of Prime Brokerage at Nexo, had previously warned that Bitcoin was unlikely to experience any significant price surge without a catalyst. He added that the crypto token would likely continue to trade around the $67,000 price range. That means one can expect Bitcoin to keep bouncing off the support and resistance in the meantime. 
-The silver lining is that the demand in the Spot Bitcoin ETFs could pick up soon enough, with these funds likely to provide a much-needed boost to Bitcoin’s price when that happens. A trend reversal for these ETFs looks imminent, especially after Grayscale’s GBTC recorded its first day of net inflows on May 3. 
-Another Reason Why Bitcoin’s Price Is Down
-Crypto analyst Mikybull Crypto also recently predicted that Bitcoin could drop below to clear the CME (Chicago Mercantile Exchange) gap at around $62,580. This price gap exists because the CME’s Bitcoin futures market doesn’t run on weekends. The crypto analyst added that things could pick up once Bitcoin clears the CME gap. 
-
-The analyst also suggested that the worst may be behind, irrespective of whether Bitcoin continues to trade sideways, as he stated that the crypto token’s local bottom is in. However, Mikybull Crypto also predicts that Bitcoin will need to clear out the $67,000 price level and consolidate before it can move towards $73,000. 
-In anticipation of this price surge, now looks to be an excellent time to accumulate the flagship crypto as crypto analyst Ali Martinez mentioned that Bitcoin’s Market Value to Realized Value (MVRV) 90-day ratio indicates that it is still in a “prime buy zone.”
-At the time of writing, Bitcoin is trading at around $63,400, down over 1% in the last 24 hours, according to data from CoinMarketCap. 
-
-BTC price struggles to hold $64,000 | Source: BTCUSD on Tradingview.com
-Featured image from Born2Invest, chart from Tradingview.com
-                            
-                            
-                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
-                                                            
-                                                            
-                                                    
-                    
-
-----------------
-
-Poll: Most U.S. Voters Cringe About Crypto, But Enough Care to Warrant Politicians' Attention
-
-About 14% of people in the online survey of registered voters own crypto right now, they said, and many more have a high awareness of the emerging financial technology. But fewer than one in three voters surveyed – 31% – said they have positive views on digital assets, according to the snapshot of responses from people in Michigan, Ohio, Montana, Pennsylvania and Arizona.
-
-----------------
-
-Silent Protocol unveils Ghost Layer, a modular Layer 1.5 for Ethereum
-
-
-Silent Protocol, a leader in blockchain privacy technology, has announced its Ghost Layer, an innovative modular Layer 1.5 tailored for Ethereum (ETH), according to the information shared with Finbold on May 7. 
-The new release aims to deliver compliant privacy enhancements to public blockchains, catering to individual and institutional clients alike.
-The launch also underscores Silent Protocol’s dedication to constructing a compliant and composable framework, allowing institutions to securely and privately leverage Ethereum. 
-
-
-Ghost Layer 0VM technology
-By opening access channels to various execution layers, Ghost Layer allows for easy integration of existing applications into private workflows.
-It leverages a zero-knowledge (ZK) based system in conjunction with its proprietary 0VM technology, which enables private asset storage and facilitates value transfers across different blockchains.
-Novachrono, the founder of Silent Protocol, elaborated on the Ghost Layer’s role within the blockchain landscape, stating: 
-
-“If you create a ledger whose state is decided by the base ledger but the computation is stored elsewhere — you can call it a Layer 1.5.” 
-
-The strategic importance of Ghost Layer
-Isa Sertkaya, Co-founder and CTO of Silent Protocol, highlights the strategic significance of the Ghost Layer:
-
-“Rooted out of Ethereum and supporting Ethereum assets, the Ghost Layer achieves modularity not by capturing value vertically but by enabling horizontal composability across different chains.”
-
-By implementing 0VM technology, the Ghost Layer advances system state while verifying updates and utilizing the base ledger for state validation through zksnarks.
-Developers on various blockchains now also have the opportunity to transform their existing applications into privacy-preserving ones, known as 0dapps, while retaining the liquidity available on the mainnet.
-Economical Zero Knowledge Execution Environment
-In 2023, Silent Protocol introduced the Economical Zero Knowledge Execution Environment (EZEE), introducing a fully composable architecture supporting functional privacy. 
-This framework empowers developers to create apps without the constraints of isolated systems. 
-Additionally, Silent Protocol developed the Silent Compliance VM, a decentralized protocol that selectively reveals data to prevent misuse by malicious actors. 
-
-
-----------------
-
-Ripple CTO Unveils Crucial Timeline for Stablecoin Reveal
-
-
-David Schwartz, Chief Technology Officer of Ripple, has provided clarity on the timeline for the launch of the company's stablecoin. Addressing recent speculation, Schwartz clarified that the stablecoin's launch is not scheduled for June, contrary to some interpretations. Instead, he indicated that updates, including the announcement of the stablecoin's name, are expected to be shared in June.This clarification follows Ripple's recent announcement of its entry into the stablecoin market, aiming to enhance the stability and accessibility of the XRP Ledger. The company intends to achieve this by backing the new stablecoin with a combination of U.S. dollar reserves and similar assets, positioning itself as a competitor to established stablecoin creators, such as Tether and Circle. By engaging with regulatory authorities and emphasizing compliance, the company aims to establish its stablecoin as a trusted digital asset, potentially mirroring the functionality of a digital dollar. Notably, Ripple's established rapport with the SEC, despite its tense legal battles, lends further credibility to the new venture.What's with XRP?The previous clarification provided by Schwartz also addressed questions regarding the role of XRP in Ripple's view on payment solutions. He emphasized that the popular cryptocurrency remains integral to the company's vision, highlighting its suitability for specific transactional contexts. Schwartz underscored Ripple's dedication to optimizing its services by leveraging XRP's strengths while acknowledging its limitations.With Schwartz's announcement, the XRP community anticipates further updates from Ripple in June, eagerly awaiting the progression of this significant initiative and how it will affect the trajectory of their favorite cryptocurrency.
-
-
-
-----------------
-
-Joseph Lubin Defends Ethereum Against SEC Overreach | Cryptoglobe
-
-
-                                
-In a recent interview with Wired, Joseph Lubin, co-founder of Ethereum and CEO of Consensys, shed light on his ongoing legal battle with the U.S. Securities and Exchange Commission (SEC). 
-
-
-
-Consensys is a leading blockchain software technology company with a core focus on the Ethereum ecosystem. They develop a comprehensive suite of tools, products, and infrastructure designed to empower developers, businesses, and individuals harnessing the potential of Ethereum. Consider ConsenSys a pivotal player in constructing the foundation for the decentralized web.
-
-
-
-The conflict, which centers around the SEC’s alleged attempts to classify Ethereum’s native cryptocurrency, ETH, as a security, has far-reaching implications for the future of the decentralized web.
-
-
-
-Last month, Consensys received a Wells Notice from the SEC, indicating that the regulator is considering suing the company over its MetaMask wallet. The SEC takes issue with two specific features of MetaMask: token swapping and staking. However, Lubin believes that the SEC’s actions go beyond MetaMask and represent a broader effort to assert control over Ethereum and the decentralized technologies built upon it.
-
-
-
-In response to the SEC’s notice, Consensys filed a lawsuit against the regulator, accusing it of an “unlawful seizure of authority over ETH.” The company argues that ETH does not possess the characteristics of a security and that the SEC’s actions could have disastrous consequences for the Ethereum network.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-Lubin explains that if the SEC were to successfully classify ETH as a security, it would have a “chilling effect” on Ethereum users in the United States. Individuals would be unable to legally acquire ETH, and software developers would be hindered in their ability to further develop the Ethereum protocol or build applications on top of it. Moreover, Lubin fears that the U.S. could use its influence to pressure other countries to reduce access to decentralized protocols and financial disintermediation.
-
-
-
-By bringing the lawsuit against the SEC, Consensys aims to clarify the limits of the regulator’s jurisdiction and encourage the broader crypto industry to push back against what Lubin describes as “aggressive and unlawful SEC overreach.” He argues that the SEC has been “gaslighting the industry” by secretly treating ETH as a security while publicly stating otherwise.
-
-
-
-Lubin likens the current situation to the early days of the internet, when new technologies caused confusion and required open dialogue and clear regulation. He believes that, ultimately, the situation will be resolved favorably for Ethereum, but acknowledges that the industry is currently in a “painful stage” marked by resistance from regulators.
-
-
-
-A favorable outcome for Consensys would be a clear declaration that ETH is a commodity, not a security, and the eventual approval of ETH spot exchange-traded funds (ETFs) by the SEC. Lubin believes that such a development would open “floodgates” of capital into the Ethereum ecosystem, driving further growth and maturation of decentralized finance (DeFi) applications.
-
-
-
-Lubin dismisses the notion that the SEC’s interest in Ethereum intensified following The Merge, a major upgrade to the network’s consensus mechanism. He argues that the post-Merge Ethereum network is more decentralized and secure, and that staking rewards should be seen as income, not investment contracts.
-
-
-
-When asked about the SEC’s motivations, Lubin offers a “conspiracy theory,” suggesting that the U.S. government and big banks are resistant to the disintermediation and direct financial agency that decentralized technologies offer. He believes that the SEC’s actions are less about expanding its jurisdiction and more about slowing down or killing new technologies that threaten the status quo.
-
-                            
-                        
-
-----------------
-
-QCP Receives In-Principal Approval From Abu Dhabi Regulator
-
-“Our intention is to be a responsible player that wants to support market confidence," CEO Melvin Deng said in a statement. "We are proud to be the first Singaporean digital asset market maker and broker-dealer to set up here in the market and hope we can encourage others to venture into this dynamic market.”
-
-----------------
-
-Artificial Intelligence Coins Rise Due to the Increase in Nvidia (NVDA) Shares! Pay Attention to This Date! - Bitcoin Sistemi
-
-
-Native cryptocurrencies of blockchain projects that claim to use artificial intelligence (AI) technology have led the recent recovery in the cryptocurrency market, along with a rise in shares of Nasdaq-listed chipmaker Nvidia (NVDA), known for its involvement with AI technology.
-
-Over the past seven days, RNDR, the token of The Render Network, a decentralized GPU-based rendering solution, has surged nearly 40% to $10,432, marking the most significant gain among the top 100 cryptocurrencies by market cap, according to data from CoinGecko.
-
-Similarly, other AI-related coins such as SingularityNET's AGIX, Bittensor's TAO, and Fetch.ai's FET also witnessed gains ranging from 17% to 23%, outperforming the overall market performance.
-
-
-
-Highlighting the growing anticipation surrounding Nvidia's upcoming earnings report, DYOR founder Hitesh Malviya said:
-“There is strong buzz around Nvidia's upcoming earnings. AI coins will continue to rise cyclically as they are directly correlated with all the AI-side developments happening around us.”
-
-
-
-
-
-
-Nvidia is scheduled to report first-quarter earnings after market close on May 22, with significant earnings growth expected on a year-over-year basis.
-
-The positive recent financial results of other AI-focused companies also contributed to the optimistic mood surrounding Nvidia.
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-This Solana trader lost $37,000 in 17 minutes with FOMO and a panic sell
-
-
-A cryptocurrency trader speculating in the Solana (SOL) ecosystem lost $37,000 worth of SOL trading a meme coin. As things developed, the trader bought under the ‘fear of missing out’ (FOMO) and panic sold for the realized loss.
-In particular, the Solana trader purchased 398 SOL worth of the cryptocurrency DEVIN during a price surge. The chart formed a local high at these levels and started dropping a few minutes later, as reported by Lookonchain.
-17 minutes later, the Solana trader panicked and sold the recently acquired DEVIN’s stack for 158.8 SOL. Therefore, the address 8TALRxv9p5FdM5Mssvs8MTdZ9vh7DCj496YGoazYmJnu effectively lost 239 SOL, valued at around $37,000 by the time of reporting. 
-
-
-DEVIN/SOL on Raydium DEX. Source: Lookonchain
-Solana trader: Panic sell and FOMO behaviors
-This trading behavior is known as a panic sell or capitulation. A sell-off decision under losses during an aggressive price crash. Essentially, investors do that in an attempt to lower forecasted losses if they believe the price will continue crashing.
-In this case, further price action justified the Solana trader’s action, as the panic selling occurred in the first 5 minutes of a 50-minute crash. However, this happened just before a major retracement that eventually surpassed the SOL-cost average of the FOMO purchases.
-On that note, a ‘fear of missing out’ behavior happens when the trader enters a position after a meaningful positive performance. Nevertheless, doing that made this address enter the local top, providing net negative results.
-If this Solana trader had waited for a correction before making the purchases—without FOMO—the results would have been better. Additionaly, if the trader had waited for the volatility to play out and did not panic sell, the address would currently hold a profitable stack of DEVIN.
-In this context, Lookonchain urged investors to “don’t FOMO” and “be patient.”
-
-Interestingly, the reported event illustrates two common behaviors among investors, which makes most traders lose money in the long term. Cryptocurrencies are highly volatile assets, and speculators should put emotion aside when making financial decisions.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-Whale That Bought Bitcoin in 2014 Moves $43,940,000 in BTC After Sitting Dormant for Over Decade: On-Chain Data - The Daily Hodl
-
-
-								A crypto whale is being noticed for suddenly moving tens of millions of dollars in Bitcoin (BTC) from a long-dormant wallet.
-According to blockchain tracking firm Lookonchain, the deep-pocketed crypto investor completely emptied their wallet that had contained 687.33 Bitcoin for more than a decade.
-
-
-
-
-
-
-
-
-
-
-“A wallet that has been dormant for 10.3 years transferred all 687.33 BTC ($43.94 million) out [on May 6th]. The whale received 687.33 BTC ($630,000 at that time) on January 12th, 2014, when the price was $917. Address: 15WZNLACuvcDrrBL2btDErJggnaMQtHh5G.”
-Source: Lookonchain/X
-Meanwhile, CryptoQuant CEO Ki Young Ju said last month that newer crypto whales are accumulating nearly twice as much BTC as their long-term holder counterparts. Ju also said that old BTC tokens were being transferred to new holders after Bitcoin’s average dormancy rate recently hit a 13-year peak.
-Bitcoin is trading for $63,835 at time of writing, down slightly in the last 24 hours.
-Next up, Lookonchain notices another whale is sitting on huge profits after buying a massive amount of Ethereum (ETH) last year. According to the on-chain monitoring platform, the investor has started to unload some of their holdings.
-“A whale who bought ETH a year ago seems to be selling ETH to take profits. He withdrew 12,906 ETH ($24.39 million) from Binance at $1,890 a year ago and deposited it into Lido. He withdrew 7,000 ETH from Lido when the market dropped on April 30th and deposited it into Binance [on May 6th]. His profit on ETH exceeds $16 million!” 
-Ethereum is trading for $3,083 at time of writing, down 1.6% in the last 24 hours.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Ronin Network Gets Boost from DeFi Lending, Aims to Revive Web3 Gaming | Cryptopolitan
-
-The Ronin network has a small but complete ecosystem containing all the common elements of decentralized finance. Originally designed for Axie Infinity, Ronin’s use has expanded to include DeFi projects and other games. In May, Ronin expanded the DeFi sector, especially due to inflows into the MetaLend project. For a month, the project grew its total value locked (TVL) by 30%, while Ronin as a whole also recovered some of its value in the past two quarters. April marked a watershed for the Ronin network, with new active wallets returning for all use cases. In addition to DeFi, Ronin grows with the addition of third-party games, expanding the portfolio from the selection of Axie Infinity games. Adding new projects is helping Ronin recover after the 2022 hack, where the Ronin bridge lost around $600M worth of tokens.Ronin Expands Beyond Games SpecializationIn its initial stage, the Ronin network was a tool for the assets of the Axie Infinity game. Ronin was created to achieve cheaper transactions and trading for Axie NFT and the AXS and SLP token transfers. The Katana DEX was also launched to serve the game community. Now, Ronin has a native wallet and many more functions to connect to the wider Web3 space. Ronin users can add Coinbase pay, expanding the potential audience to another 90M users, based on Coinbase’s statistics. Ronin itself boosts daily active users with gaming challenge events, tournaments, or by using a play-to-airdrop model for otherwise free games. All activities combined result in significant daily active wallets growth. 
-https://coinmarketcap.com/exchanges/katana/?type=spotAdditionally, Ronin offers an app-based integration to the Katana exchange, which now offers easier access to a wider selection of small-scale and riskier tokens. The Katana exchange has a turnover of around $4.2B in 24 hours, though liquidity is limited to the small selection of top tokens. RON Token Close to $1B ValuationThe RON token is now trying to recover its $1B valuation and possibly return as one of the successful unicorns in crypto space. RON has been successful in 2024, becoming one of the rare tokens to peak during the latest bull market. RON reached its all-time high in March, trading at $4.40. About two months later, RON is still holding onto some of the gains, trading at $2.80 for a total valuation of $913M. RON also has limited daily volumes of around $13M, but even activity at $100M is enough to cause a significant rally. The current market conditions see RON as potentially bullish if interest in Web3 and gaming returns. The RON token also benefitted from a new trading pair. At the end of April, RON was listed on the HTX exchange, in a new pairing with USDT. Axie Infinity Gamers Drive Attention to RoninRonin has the advantage of gaining attention when users return to Axie Infinity, one of the most high-profile games during the 2021 play-to-earn boom. The game is now showing signs of heightened interest, with more than 38K daily active players and more than $1B in value turnover. Users on Ronin are also reviving the NFT trade related to the Axie games, lifting turnover and interest in Axie metaverse land plots. Axie Infinity recently marked the highest player activity in the past 12 months, while also reaching 60K transactions per day on the Ronin blockchain.Additionally, the Wild Forest game aims to boost activity, by organizing play-to-airdrop events. Joining the game also requires usage of the Ronin network.In addition to gaming, Ronin is also working on a blockchain-based ID, one of the hot use cases for Web3 in 2024. Ronin offers a .ron naming service, creating specialized addresses similar to the Ethereum Domain Name Service.RON Tokens Locked for StakingRON is also growing in scarcity due to staking around 20% of the total supply. Staked tokens already exceed 209M, while only 1B RON will ever be created. Around 145K Ronin wallets have delegated their tokens. The circulating free supply of RON is only around 322M tokens, and usage for fees, gaming, and trading is growing.
-
-
-----------------
-
-Price prediction of Bitcoin: possible scenarios after the halving
-
-On April 20th, the fourth halving in Bitcoin’s history went live, leading to the halving of the block reward from 6.25 BTC to 3.125 BTC.
-Usually, the halving creates conditions for an increase in the price of the currency on the market, or at least that’s what has happened in recent years.
-What are the post-halving price predictions for Bitcoin in this cycle?
-SPOILER: there is someone who hypothesizes 150,000 USD
-All the details below.
-
-Bitcoin price prediction after the recent halving: is the road clear up to $150,000?
-Last week Bitcoin hit a new local low at 56,500 USD, breaking a ranging graphic structure that started at the beginning of March 2024, and then quickly recovered the points lost in early May, returning above the price of 64,000 USD.
-The canonical quadrennial event of new issuances reduction of the network, known in jargon as “halving”, did not immediately bring the desired effects from the community, especially considering the difficult outlook of the crypto which is in the midst of important geopolitical conflicts and macroeconomic tensions.
-The result, unexpected by most forecasts, was a retracement of 21.7% since the beginning of April. This bearish movement is now the heaviest of this cycle, surpassing the correction of September 2023.
-
-Indeed, the dip in recent days has been emphasized by the increase in the Labor Cost Index in the United States and the announcement by the Federal Reserve to continue fighting inflation without starting a quantitative easing policy which would involve a cut in interest rates on government bonds (possibly postponed to September)
-Throughout all of this, we also witnessed the launch of the Hong Kong Bitcoin spot ETFs, with data that initially disappointed expectations due to low volumes recorded, later contradicted by metrics on the first day of trading inflows that indicated incoming flows (seed capital) of $292 million.
-49.7% probability of a rate cut to 500-525 basis points at the FED meeting on September 18, 2024. Source: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
-Pushed by these dynamics, Bitcoin has encountered difficulties in finding a price balance, while miners are preparing to face a season with halved earnings due to the protocol’s halving.
-Despite all this, however, it seems that crypto is preparing the ground for a comeback in a big way, which would send it straight to record new all-time highs.
-On the macro front, the cooling of the labor market gives hope that the FED may provide the necessary fuel for risk-on markets to face the second half of 2024.
-From a more technical analysis and on-chain data perspective, we can see how the open interest, funding rate, and liquidation data have undergone a reset after the excessive speculation seen in the first quarter of the year, suggesting a possible restart in the near future.
-The halving effect, which reduces the supply of new coins by 50%, will have its effects in the coming months and potentially cause a supply shock if we also have an increase in demand pressure for spot ETFs in the USA and Hong Kong.
-In such a scenario, analyst Bernstein has released his forecast for the Bitcoin bull market, explicitly stating that the crypto will reach $150,000 as the cycle peak in the next year.
-
-On-chain data from Bitfinex: reduction of implied volatility
-According to the analysis of the cryptocurrency exchange Bitfinex, following the halving, the implied volatility of Bitcoin has substantially decreased, finding a new acceleration in price fluctuations only in the last few days.
-In a context of graphic uncertainty weighed down by complex macroeconomic issues, while traders were trying to establish a price balance for Bitcoin and other assets, the volatility index has dropped sharply suggesting the beginning of a phase of stagnation before the restart.
-This is what was reported by Bitfinex analysts, who observed how these dynamics reflect a less worrying expectation from market participants.
-“The halving of Bitcoin has not only changed the supply mechanism of Bitcoin, but has also played a crucial role in recalibrating the dynamics of the cryptocurrency market and investors’ expectations”
-It is clear that after the halving on April 20, it acted as an event of uncertainty resolution, significantly influencing the volatility and market dynamics of cryptocurrencies.
-In particular, the volatility index has dropped by 24.3%, going from 74.54 points to 56.47 points in just a few days. This change indicates the expected market sentiment regarding future price fluctuations, but it has not been reflected by substantial price movements, suggesting a stabilization effect.
-
-Similarly, the implied volatility of Ethereum (EVIV) has also decreased by 15.9 percent in the same period, dropping from 61.94 points to 52.08 points, even though its price has been more influenced by an upward trend with forecasts indicating the possibility of greater growth in ETH compared to BTC.
-These declines suggest a lower degree of connection between price levels and volatility, and a greater reduction in market uncertainty.
-In summary, Bitcoin’s halving not only reduced the potential supply pressure by decreasing the block reward, but also played a crucial role in recalibrating market dynamics and resetting investor expectations.
-Now the market is healthy to start again and aim for the long-awaited $100,000 break.
-
-----------------
-
-Why A Savvy Investor Bought 3.18 Million Fantom (FTM)
-
-
-A significant transaction has caught the attention of traders and analysts. A savvy investor has recently acquired a substantial amount of Fantom (FTM) tokens, signaling a potentially strategic move. 
-This purchase reflects the transparency of the crypto market, where large-scale investments that influence market trends can be detected on time.
-Savvy Investor Buys Fantom
-A prominent trader, identified by the blockchain address 0xd87666833ba1b370ac77f609696267ea8f30a727, has made a hefty purchase of 3.18 million FTM tokens. This latest transaction, valued at approximately $2.26 million, was executed over a span of five hours. That has marked a bold bet on the future of FTM.
-According to blockchain analytics platform Spot on Chain, this strategic accumulation of FTM by the trader follows a previous successful trade where he netted a profit of $1.67 million, a remarkable 148% gain. On January 24, 2024, the trader initially bought 3.389 million FTM for $1.13 million and sold all tokens on March 19, 2024, for $2.8 million USD. 
-
-These transactions reflect the trader’s adeptness in navigating the crypto market’s fluctuations.
-Read more: Fantom (FTM) Price Prediction 2024/2025/2030
-
-Fantom Trader Behavior. Source: Spot On Chain
-Fantom faces resistance as it currently trades around $0.71. Historical data indicates that the $0.79 to $0.82 range forms a robust resistance block, challenging to breach. 
-These levels have acted as both support and resistance in the past, making them critical markers for future price movements.
-Fantom Price Analysis. Source: TradingView
-Despite the current bullish actions of some investors, the broader market sentiment remains cautious. Analysts are watching the $0.79 mark, which could either catalyze a breakout to $1 if surpassed or reinforce the unbreached resistance.
-
-
-Disclaimer
-In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
 GlobalFoundries (GFS) Q1 Revenue Hits $1.55 Billion, Beats Forecasts - Tokenist
 
 
@@ -8317,3 +7928,692 @@ Featured image from iStock, chart from TradingView
                                                             
                                                     
                     
+
+----------------
+
+White Pepe (WHPEPE) to Skyrocket 7,000% as MEXC Listing Announced, While Shiba Inu and Dogecoin Struggle
+
+
+
+                    
+
+White Pepe (WHPEPE) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+White Pepe (WHPEPE), a new Solana memecoin that was launched today, is poised to explode over 7,000% in price in the coming days.
+
+
+
+
+This is because WHPEPE has announced its first centralized exchange listing, which will be on MEXC.
+
+
+
+This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
+
+
+
+Currently, White Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and White Pepe could become the next viral memecoin.
+
+
+
+To buy White Pepe on Raydium or Jupiter ahead of the MEXC listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for White Pepe by entering its contract address – 58kSp6Sn8P42EdRDgud75YcvkRLnCpMxPb7MqCRHkUeG – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like WHPEPE.
+
+
+                
+
+                
+
+----------------
+
+DePIN Projects are Expanding; which are the Hottest Tokens in That Space? | Cryptopolitan
+
+DePIN projects aim for a novel blockchain use case, creating decentralized physical infrastructure. The abbreviation represents the merging of physical and digital space through tokens and electronic systems. This crypto trend combines older platforms rebranding and new projects using existing technology. There are now enough projects carrying the DePIN tag to establish their own category. Collectively, DePIN tokens have a market cap of $33B, similar to Web3 and game projects during boom times. But at this valuation, DePIN seems to be a growing category, with some upside for individual tokens and the market as a whole.What is Included Among DePIN ProjectsDePIN brings together several categories that have already experienced bullish booms. The sector as a whole was consolidated in late 2023. In 2024, DePIN includes decentralized storage, distributed computing, networking, AI, services and sensors for the Internet of Things (IoT). Additionally, DePIN is closely related to oracle services and Real World Asset (RWA) tokenization. DePIN has been used to brand projects such as Render, which utilizes blockchain technology to build art-based communities.What is common in DePIN is a drive to collect resources from users in return for tokens or points. Many of these projects aim to disrupt centralized industries such as cloud storage and content platforms. The value of the infrastructure will also be the underlying value of the project. DePIN is also a way to create elements from a real economy, solving the value problem of tokenization and token valuations. Which are the Hottest DePIN Projects in MayMost DePIN projects are in the green recently. But two of them are standing out, after defying the recent market corrections. Render and AIOZ Network are also busy building up their social media profile, while promoting their approach to building infrastructure. Render (RNDR) is an Ethereum-based token, taking the easy launch approach while building its product. Render aims to offer distributed GPU rendering services, recorded on the blockchain. Additionally, the Render project is promoting itself through engaging events with digital artists. Render participated in a digital art tournament over the weekend to promote its Octane product for better rendering. The RNDR market price responded favorably to the exposure, rising to $10.06. RNDR is now within a small distance of repeating its all-time high at $12.34. The other prominent project in the past week is AIOZ Network (AIOZ). The project reawakened in the first months of 2024, moving to a higher price tier. AIOZ rallied to $0.80 in the span of a few days, on trading volumes above $50M. This activity is close to all-time high for AIOZ, and is tied to the project’s social media performance. AIOZ remains riskier compared to Render, due to its relatively low market cap. The project aims to become Web3 infrastructure by combining streaming, AI, and distributed storage. AIOZ may remain a hot token in the short term and bounce from its relatively low price. The main reason is the recent BitHumb listing. In the coming days, the exchange will also organize a trading event with incentives, further lifting AIOZ volumes. AIOZ is also traded as an Ethereum-based token, the only version which will be accepted for trading on exchanges. DePIN Brings Renewed Attention to Older ProjectsDePIN is also hosting a long list of relatively older token projects, which gained prominence during the 2018 ICO boom. The list includes successful storage projects like Filecoin (FIL), which also added a DeFi component. Siacoin (SIA) is also an older storage coin that is now considered a DePIN asset.Helium (HNT), a decentralized WiFi project, is also included in the rebranding list. Even platforms like Lisk (LSK) are now adding DePIN to their description. But the list of hot projects does not just hinge on the potential for token price action, or the size of the network. DePIN platforms compete with users by promising rewards and incentives. With those tools, DePIN is also a way to mine rewards and hope to turn the rewards into real value. DePIN has a dual impact on the crypto space, benefiting both established and emerging projects.
+
+
+----------------
+
+Vitalik Buterin addresses concerns over Signal's protocol integrity - Crypto Briefing
+
+
+
+
+Ethereum co-founder Vitalik Buterin has weighed in on the growing concerns surrounding the encrypted messaging app Signal, emphasizing the importance of free speech and decentralization in response to revelations about the app’s board chair and potential ties to US intelligence.In an X post sharing an article from City Journal, Block founder Jack Dorsey acknowledged that he was not aware of the issue.Buterin’s response to the post stressed the importance of freedom of speech as a “sacred principle” that should be applied universally.The post also received responses from key figures in the tech space, such as Elon Musk, who said that the issue was “concerning.”Buterin acknowledged how Signal’s open-source client allows users to verify that the app is not acting against them, regardless of the views held by the development team.“The one great thing about Signal is that it’s an open source client and so you can check it’s not acting against you, no matter what views the dev team has,” Buterin said.However, Buterin suggested that Signal could further strengthen its position by moving to a multi-client/server ecosystem, which would minimize the influence of any single team over user participation.He noted that while Signal’s founder, Moxie Marlinspike, has argued against federating the protocol due to the difficulty of making changes in a federated system, the success of multi-client blockchain ecosystems demonstrates that this barrier can be overcome through “intentional coordination.”The article in question highlighted Katherine Maher’s past as a “US-backed agent of regime change” and her involvement in coordinating online censorship during her tenure as CEO of the Wikimedia Foundation. It also raised concerns about Signal’s initial funding, which included a $3 million grant from the government-sponsored Open Technology Fund (OTF), potentially linking the app to US intelligence and foreign policy goals.The concerns raised by the City Journal article penned by Christopher Rufo have sparked a broader discussion about the role of communication platforms and the importance of transparency in maintaining user trust, the same principles that decentralized protocols have sought to address.
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+The SEC Urges The Court To Pass Its Proposed Final Judgment in Latest Reply Brief
+
+
+							
+
+The SEC has officially filed its redacted remedies reply brief in the case against Ripple.
+
+
+
+According to the SEC, Ripple is likely to repeat the offense it is accused of.
+
+
+
+The SEC pleaded that the court enter its Proposed Final Judgment as The Final Judgment.
+
+
+
+
+The U.S. Securities and Exchange Commission (SEC) has officially filed its redacted remedies reply brief and supporting exhibits in the ongoing case against Ripple. The filing is now publicly available after initial reports that the SEC made it under seal on the deadline day, May 6, 2024.
+
+
+
+
+
+
+
+In the filing, the SEC urged the court to enter the requested injunctions, citing the parties’ agreement that the question is whether there is a reasonable likelihood that Ripple will repeat the offense. The commission also noted that Ripple does not dispute two key factors, one of which is being liable for a violation, and the other is that the offense happened over many years.
+
+
+
+According to the SEC, courts readily enter injunctions in such cases because they indicate a higher likelihood of repetition. The commission further highlighted that Ripple’s ongoing business places it in a position where “violations could be anticipated.”
+
+
+
+Meanwhile, the SEC did not dispute that Ripple may not have committed any violation since 2020. However, it noted that even if that is the case, it does not guarantee the non-anticipation of another violation by Ripple. According to the SEC, a defendant’s disclaimer of intent to violate the law in the future does not bar injunctive relief.
+
+
+
+
+
+
+
+
+
+In furtherance of its argument, the SEC cited that Ripple maintains that its past conduct was blameless. Hence, the firm’s litigation of the rejected argument. The commission also highlighted Ripple’s argument that it voluntarily gave the SEC information about its business in 2013 without addressing the contravening steps it took in 2012.
+
+
+
+Citing many other reasons for its filing, the SEC concluded by pleading that the court enter its Proposed Final Judgment as The Final Judgment in the ongoing litigation.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+How much can you earn in 10 hours? A Team Allegedly Insider Earned $1.5 Million in 10 Hours: Here's the Altcoin He Bought! - Bitcoin Sistemi
+
+
+Recently, Solana (SOL)-based Dogwifhat (WIF) and many different mem tokens have brought millions of dollars to their investors.
+While investors continue to make money from their mem token investments, the latest news comes from investors with insider information on a Solana-based meme coin.
+
+
+According to Lookonchain's post, insiders in Solana-based meme token Thug bought as soon as liquidity was added by the developer.
+Insiders bought 674 million Thug for 1,500 SOL ($225 thousand) through 4 wallets, then sold 464 million Thug for 11,454 SOL ($1.72 million).
+
+
+
+
+
+Insiders, who earned $1.5 million with the THUG transaction in a short period of 10 hours, burned the remaining 210M Thug.
+
+“Insider Earns 9,954 SOL ($1.49 Million) With Thug!
+Insiders spent 1,500 SOL ($225k) to purchase 674 million Thugs via 4 wallets to which the developer added liquidity.
+Later, 674 million Thugs were distributed to multiple wallets and 464 million Thugs were sold for 11,454 SOL ($1.72 million).
+Insiders earned 9,954 SOL ($1.49 million) in just 10 hours!
+And the remaining 210M Thugs were burned.”
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Confusing Ethereum (ETH) Move from Grayscale! - Bitcoin Sistemi
+
+While all eyes were on the SEC's Etheruem ETF decision after the spot Bitcoin ETF approved in January, a surprise Ethereum move came from Grayscale.
+In these days when spot Ethereum ETFs are almost unlikely to be approved in the short term, Grayscale has withdrawn its application for Ethereum futures ETF.
+
+
+While this move by the company caused confusion among investors as the decision for spot Ethereum ETFs is awaited, the spot ETH application is still valid.
+Grayscale submitted its application for this Ethereum Futures ETF in September last year and decided to postpone it several times.
+
+
+
+
+
+While the reason for Grayscale's decision is still unclear, this withdrawal decision created speculation in the market.
+Commenting on this decision, Bloomberg ETF analyst James Seyffart said that this withdrawal decision could be a way to protect Grayscale's spot Ethereum ETF application from any rejection.
+
+
+Seyffart also added that Grayscale may have met with the SEC and been persuaded to withdraw the application with the information it received in these meetings.
+As it is known, the critical decision in spot Ethereum ETFs is expected to be May 23. Because the SEC must make a final decision on approval or rejection of VanEck's spot ETH ETF application by May 23.
+
+
+
+
+
+
+
+Is Ethereum a Security According to the SEC?
+Although the SEC did not make an official statement or make a decision on this issue, Ethereum Developer company Consensys recently filed a lawsuit against the SEC and asked the court to determine that ETH is not a securities.
+These court documents contained striking information about the SEC and Etheruem. Accordingly, the SEC and its chairman, Gary Gensler, believe that ETH has been traded as an unregistered security for at least 1 year.
+
+At this point, the emergence of the SEC's claim that it classified Ethereum as a security last year further diminished the hopes for ETF approval.
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Armani Ferrante, CEO of Backpack, on Solana and Web3 Super Apps | Ep. 332
+
+
+                        
+                            Armani Ferrante, CEO of Backpack, on Solana and Web3 Super Apps | Ep. 332                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 8, 2024 05:42 EDT                            
+                                                             | 4 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        In an exclusive interview with Cryptonews, Armani Ferrante, the founder and CEO of cryptocurrency exchange and multi-chain wallet Backpack, talked about taking a long, winding path to entering Solana and establishing Anchor.He discussed creating a super app – a one-stop app for all users’ needs – and why it’s relevant to have one.Ferrante also touched on the future of the crypto economy and why it will be ten times better.VIDEOCreating Anchor: A Winding Road Up a Hill
+Ferrante left his job at Apple in 2017. He was drawn to Ethereum, seeing it as “the coolest thing in the world.”He had no plans and no job – just a desire to work in the blockchain field.When Ferrante thinks about his process of establishing the popular developer tool on Solana, called Anchor, he describes it as “hill climbing.”“It is a reference to a way of algorithmically finding the optimum of a specific kind of curve you’re trying to optimize,” he said.He never had a grand vision that he followed and executed. Rather, it was years of thinking about specific problems that needed solving.Iterating ways to solve some of those problems opened up new paths, both good and bad.But with a bit of luck, after taking “a bunch of winding roads,” “eventually you end up in a reasonable spot,” he said.Over the next few years, Ferrante worked at various companies and projects, contributing to open source.“But the first thing that really got momentum was the couple of contributions to the Solana network,” he noted.He found Solana at a time when he and many others in the industry were searching for new architectures, blockchains, and ecosystems to meet the demands of a new generation of crypto applications.That was the time, in 2020, when Ferrante started finding his way through those up-hill winding roads.“I felt I had the ability to solve things. […] And it was really from there that a bunch of doors started opening. I was able to create a company, hire incredible people, get funding, and get the resources required to create a business.”From Mad Lads to Supper App
+But Anchor was not the end of the road.Ferrante moved to solve the next set of issues by building a crypto financial super app, Backpack.“Anything that you want to do in crypto, quite literally, can be done inside of Backpack, or that’s the goal,” Ferrante said.Among multiple other things, it enables a simple way to use any blockchain and decentralized app (dapp), and utilize the growing parallel financial system that’s being built on crypto rails.And it started with the Mad Lad non-fungible token (NFT) collection.This, said Ferrante, has “been an incredible test bed for us.”While it may have seemed simple from the user’s perspective, there was “a ton” that went into every step of the way.The team was making every experience unique, moving to differentiate itself from other projects.They built a variety of games and puzzles for users to play through the wallet and get on the NFT whitelist.Ferrante often uses the term ‘combination’ when speaking about the project’s success.“It was this really awesome combination of building new products and telling interesting stories with beautiful art that made the Mad Lads experience special.”At the end of the day, every NFT holder would have two products: a wallet and an exchange account. This was a way to build a company with “a passionate group of users.”Therefore, on the inside, the team combined different components into one super-app. “It’s been kind of our flavor [and] one of the main reasons behind a lot of the success.”And they’ve combined outside elements as well: “a bunch of incredible pieces, a bunch of incredible people, an incredible community coming together,” said Ferrante.Crypto Future: Creating 10x Better Economy
+In crypto, historically, we’ve seen that every bull cycle brings new liquidity hubs, which then create capital efficiency, Ferrante said.Also in crypto, he argued, people search for everything to be 10 times better, faster, and safer.“Whether you want to do 10X, with 10X less error, that makes sure that any ledger entry is provably correct with cryptography,” he said.Ultimately, crypto is providing all of these benefits to financial transactions.“When you have these things come together, you are creating this 10-times-better economy that can power all different parts of the world,” Ferrante concluded.____That’s not all!In this interview, Ferrante also discussed:
+studying at UC Berkeley and working at Apple;
+creating Anchor, a groundbreaking developer tool that transformed programming on Solana;
+growing the Backpack ecosystem and combining key elements into one super app;
+the Solana ecosystem and what’s to come;
+Solana vs Ethereum: comparing apples to oranges;
+multi-threaded, parallel blockchains, and the future of Web3.
+Watch the full episode here.__________About Armani FerranteArmani Ferrante is the founder and CEO of cryptocurrency exchange and multi-chain wallet Backpack.Co-founders Armani Ferrante and Tristan Yver launched the Backpack ecosystem of companies, including the Backpack wallet, the Mad Lads NFT collection, the xNFT standard, and Backpack Exchange.Before founding Backpack in April 2022, Ferrante created Anchor, a developer tool that revolutionized programming on Solana.He has become integral to numerous Solana projects and protocols, bonding its components to simplify the developer experience.Ferrante graduated from UC Berkeley with a degree in Computer Science. Before dedicating all his effort to crypto and Web3, he worked as a software engineer for Apple.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+A Spring Downfall: Solana Ecosystem and SOL Price Action in April 2024
+
+
+                        
+                            A Spring Downfall: Solana Ecosystem and SOL Price Action in April 2024                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 8, 2024 05:37 EDT                            
+                                                             | 10 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        In this report, we explore and analyze the Solana ecosystem downtime, SOL price action, and Solana meme coin action in April 2024, with a particular focus on the reasons for a staggering 56% SOL price drop.
+Key takeaways:
+
+
+The SOL price experienced a rollercoaster ride, dropping over 56% from $193 to $123 in April due to unresolved network issues and declining on-chain activity.
+Solana faced network congestion in April, with a staggering 75% of transactions failing at one point. This congestion was attributed to high demand, meme coin trading activity, and delayed network patches.
+Despite network issues, institutional investment in SOL surged. CoinShares reported nearly 15% of surveyed investors now hold SOL.
+FTX’s bankruptcy estate sold 30 million SOL tokens for ~$1.9 billion to compensate defrauded customers.
+Solana NFT sales volume dropped 100% compared to March, reaching $153.4 million.
+
+What You’ll Find in This April Solana Ecosystem Analysis:
+
+
+What is Solana?
+Solana On-chain Data Analysis and SOL Price Performance
+Solana Ecosystem Updates and Acquisitions
+Solana Meme Coins
+Solana Airdrops and DEXs
+Solana NFTs and Games
+Looking Ahead – Will SOL’s Price Ascend?
+
+
+What is Solana?
+Solana is an open-source blockchain platform founded in 2017, emphasizing scalability and speed. With its unique Layer 1 network architecture, it processes over 710,000 transactions per second, enabling the creation of smart contracts and decentralized applications (DApps) for various use cases, such as decentralized finance (DeFi) and nonfungible tokens (NFTs) marketplaces. Unlike Ethereum, Solana does not require additional scaling solutions, relying on powerful computers for network maintenance and data storage. Its native cryptocurrency, SOL, is essential for transactions and network security through staking.Solana On-Chain Data Analysis and SOL Price Performance
+Solana’s (SOL) price experienced a rollercoaster ride in April 2024, marked by significant price drops and a struggle to regain lost ground. This volatility can be attributed to a confluence of factors, including unresolved network issues, declining on-chain activity, and broader market sentiment.Starting at $193 on April 1, SOL’s price fell to $123 on April 13. This drop coincided with a developer’s admission that Solana’s network outage problems remained unresolved. This admission fueled investor concerns about the network’s stability, leading to a price drop of over 56%. Later in April, Solana recovered somewhat, reaching $159 on April 23, but was unable to hold this level and closed the month at nearly $130.SOL/USD price index. Source: TradingViewFurther downward pressure came from declining on-chain activity. Data suggested a decrease in both DEX transaction volume (from $3,8 billion on March 20 to $691,7 million on April 28) and the number of active decentralized application (DApp) users. Daily active addresses on Solana dropped significantly throughout April, reaching a low of 981k on April 28.Solana DEX trading volume in March and April 2024. Source: ArtemisData from HelloMoon showed a decline in new-user acquisition. On March 29, Solana welcomed a staggering 1 million new wallets. This number, however, began a concerning downward trend. By April 28, the number of new wallets executing their first transaction had plummeted to 702k. This represents a worrying 42% decline in new user acquisition within a single month which translates into a market cap loss of $30 billion in 30 days (from $91 billion on March 31 and $61 billion on April 29). Solana daily first signers in March and April 2024. Source: HelloMoonAdding fuel to the fire, in early April, the Solana network struggled with an alarming rate of failed transactions, with a staggering 3 out of 4 transactions failing (75%). Solana’s spike in failed transactions may have been caused by the surge in meme coin trading. Solana successful vs. failed transactions in April 2024. Source: DuneExperts believe a large portion of these failed transactions are likely coming from bots. Solana Foundation strategy lead Austin Federa attributed the current network congestion issues to several factors, including high demand for Solana block space and delayed implementation of patches to address network issues.Solana’s open interest (total value of outstanding futures contracts) also fell in April compared to March. On April 28, Solana’s open interest was only $1.74 billion.SOL open interest and volume in March and April 2024. Source: CoinglassSolana Ecosystem Updates 
+April 2024 was a month of contrasts for the Solana ecosystem. While it witnessed significant institutional adoption and new partnerships, network congestion cast a long shadow. Solana’s network congestionIn early April, Solana’s network choked under heavy meme coin activity, with transaction failures reaching 75% for a week. Developers claimed it was a bug, not a network issue. New projects, especially those planning token launches, have been put on hold until the technical issues related to Solana’s network congestion and transaction errors are resolved.After exacerbating congestion on the Solana network, Ore, the Bitcoin-like mining protocol on Solana, also announced it was pausing mining. On April 12, Solana devs released update v1.17.31 to tackle network congestion because of the surge in demand and network activity. This patch includes improvements for congestion and open interest issues. Some of the key upgrades include: differentiating staked vs non-staked data, efficiency improvements, and stricter controls for staked nodes. On April 9, Solana validators overwhelmingly approved (98%) a proposal to speed up transactions. The “Timely Vote Credits” system aims to incentivize validators to vote faster, ultimately leading to quicker transaction confirmation times.Institutional interestCoinShares reported a surge in institutional investment in Solana by hedge funds and wealth managers. Compared to earlier this year, nearly 15% of surveyed investors with $600 billion in assets now hold SOL, a “dramatic increase in allocations.”Crypto investments in January compared to April. Source: CoinSharesFTX’s estate liquidated $1.9 billion of its SOL holdingsIn a move to compensate defrauded customers, bankruptcy administrators for collapsed crypto exchange FTX sold 30 million SOL tokens with bids averaging around $100 per SOL. The sale generated roughly $1.9 billion. FTX, which filed for bankruptcy in 2022, previously disclosed holding a significant amount of SOL, the native token of the Solana blockchain. As of August 2023, FTX’s SOL holdings were valued at $1.2 billion, making it the exchange’s largest cryptocurrency asset. Bitcoin and Ethereum followed at $560 million each.Natix secured almost 5 million in fundingNatix, a DePIN project focused on mapping data on Solana, secured $4.6 million in funding. They plan to launch their token and airdrop about 1 billion tokens to their users. Borderless Capital led the round, with Tioga Capital and several other investors participating.Solana Ecosystem and Meme Coins 
+April 2024 was a wild month for Solana meme coins. While some projects skyrocketed to astronomical valuations, others fizzled out, leaving investors questioning the true potential of the meme coin craze. A bizarre scam launched on the Solana blockchain on April 29, with a meme coin called Bonk Killer (BONKKILLER) briefly reaching the highest market cap in the world at $328 trillion. This seemingly outlandish figure was a result of a malicious trap designed to steal investor funds. Bonk Killer attracted a small group of roughly 1,000 investors. However, the token’s smart contract was rigged with a “honeypot” feature. This allowed the creator to hold over 90% of the tokens and activate a “freeze authority” that prevented anyone from selling their holdings. According to independent blockchain sleuth ZachXBT, another 12 Solana meme coin presales were abruptly halted after just one month, having raised a total of $26.7 million from investors. Popular Solana memecoin Bonk (BONK) struggled to break above $0.00002462 on April 8 and fell to $0.00001346 on April 13, resulting in an 87% drop in price. Later in the month, the BONK price increased, reaching $0.00002924 on April 25 and closing the month at $0.00002171 per coin. BONK/USD price index. Source: CoinGeckoThe leading Solana-based meme token by market value Dogwifhat (WIF) failed to climb above $4.58 on April 1 and fell 114% to $2.14 on April 14. At the end of the month, WIF was worth $2.45. Notably, WIF still accounts for nearly half of Solana’s total meme coin market share.WIF/USD price index. Source: CoinGeckoSolana DEXs
+From airdrops aiming to attract users to a major acquisition — April 2024 was a month of significant developments for decentralized exchanges (DEXs) on the Solana blockchain. Airdrop frenzySeveral prominent Solana DEXs announced airdrops in April, aiming to incentivize user participation and boost their ecosystems. On April 16, the Drift Foundation unveiled the launch of its governance token, DRIFT. This token will be used for on-chain voting within the Drift protocol. To incentivize user participation, Drift also announced a 100 million token airdrop. Zeta Markets, another popular DEX for options trading, unveiled a similar airdrop of 100 million Z tokens. The token launch and airdrop are expected to occur next month.However, this trend wasn’t without its setbacks. The Parcl protocol, a decentralized betting platform on Solana, experienced a significant decline in TVL following an airdrop of its native PRCL token. According to DeFiLiama, TVL dropped 218% in April, falling from $185.6 million to $58.35 million. Parcl’s total value locked in April. Source: DeFiLiamaInvestments and acquisitionsJupiter, the largest Solana DEX by volume, made a strategic move by acquiring Ultimate, a wallet for DeFi and NFTs developed by the German crypto company Unstoppable Finance. This acquisition will potentially strengthen Jupiter’s position in the market and expand its product offerings. Solana interoperability layer Zeus Network closed an $8 million funding round, valuing the project at $100 million. The funding will likely be used to further develop their technology, which aims to facilitate seamless communication between different blockchains. Solana NFTs
+In April, Solana was the third most traded blockchain network in the NFT ecosystem. However, Solana experienced a dramatic decline in its NFT sales last month.Data from CryptoSlam showed that the sales volume of Solana-based NFTs in April reached $153.4 million, a 100% decrease from the sales volume in March. The data further revealed that the Solana network attracted around 487k buyers and 251k sellers in March. The number of NFT transactions on Solana in April reached more than 2.1 million. Sales volume for Solana-based NFTs reached $153,4 million in April. Source: CryptoSlamOne major driver of the user influx was the DogeZuki NFT collection. This collection of 2,800 Shiba Inu-inspired NFT items saw a massive influx of over 28,000 unique buyers within a week, with over 6,200 joining on two days (on April 26 and 27). Deez Nuts, another collection with 10,000 “nut” characters, also saw significant interest, attracting over 12,800 unique buyers in 48 hours (on April 23 and 24). This trend indicates a shift towards specific projects generating excitement and attracting new users, even if the broader market cools down.Looking beyond individual NFT projects, established players like STEPN, a Web3 lifestyle app, collaborated with sportswear giant Adidas to bring 1,000 NFTs to the Solana blockchain. The launch is part of a year-long cooperation and the first collection was available on STEPN’s NFT marketplace MOOAR on April 17.STEPN also announced a significant airdrop for its users. The company plans to distribute 100 million FSL points, valued at approximately $30 million.Notable NFT launches in April:
+Husky Friends (April 23 – April 30): Launched by Mad Bears Club, a Web3 investment company, this NFT collection features 10,000 unique digital artworks depicting adorable husky dogs. Each NFT has unique features and characteristics, providing a range of collectible options for dog lovers and NFT enthusiasts alike.
+Undeads: Pikenians (April 26  – May 03): This is a collection of generative 10,000 NFTs built on the Solana blockchain. The project is developed by the Pike Finance community and features unique character designs with distinct characteristics. 
+Radicals (April 30 – May 5): It’s a collection of 5,140 unique NFTs featuring 3D-animated characters, “RAD dudes.” The project focuses on the intersection of art and fashion through meticulously crafted digital clothing and accessories.
+Looking Ahead – Will SOL’s Price Ascend?
+April 2024 was a challenging month for Solana, marked by price volatility and network congestion concerns. However, there were also positive developments, such as continued institutional adoption and growth within the Solana ecosystem. For Solana, successfully addressing network congestion and scalability will be crucial for regaining user trust and attracting new projects. Upcoming network upgrades and developer efforts will be closely monitored.The broader market climate and investor sentiment will significantly influence the price of SOL. Regaining stability and demonstrating progress on network issues will be essential for a price rebound. Moreover, Solana will need to foster a healthy ecosystem that balances innovation with responsible project development, avoiding the pitfalls of meme coin frenzy.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Bybit integrates Ethena Labs’ USDe as trading collateral
+
+
+Bybit, one of the world’s leading cryptocurrency exchanges in terms of trading volume, has incorporated Ethena Labs’ synthetic dollar, USDe, as a collateral option for trading, according to the information shared with Finbold on May 8. 
+The integration aims to enhance capital efficiency for traders, enabling them to earn yields on their base assets while trading through their Bybit’s Unified Trading Account.
+The importance of Ethena Labs’ synthetic dollar
+Hao Yang, head of financial products at Bybit, expressed the significance of the integration, stating:
+
+
+
+“Our decision to integrate Ethena Labs’ synthetic dollar, USDe, as a collateral asset on Bybit is a game-changer. What we’re seeing is Ethena setting up USDe to become a competitor to USDT, which became the giant it is by dominating the trading pair market on crypto exchanges. This creates a dynamic dualism between TradFi-backed stablecoins such as USDT and crypto-native solutions like USDe.” 
+
+Yang further explained that by enabling USDe for use in Bybit Futures and Earn, the platform would be tapping into the demand for more versatile financial tools that empower 28 million users to manage and grow their portfolios in innovative ways. 
+Enhanced trading flexibility on Bybit
+By combining the different risk profiles of Tether (USDT) and USDe, Bybit users can enjoy even greater flexibility in how they manage their assets.
+Thanks to the integration, Bybit users can also access USDe through the platform’s Spot trading, utilizing the new product across derivatives within their Unified Trading Account. 
+Bybit also plans to list additional USDe spot pairs in the coming months, expanding the options available to traders. 
+
+
+----------------
+
+Founder & COO Chirag Jetani on Diamante’s Vision for High-Speed, Secure Blockchain Solutions
+
+
+In a recent in-depth interview with BeInCrypto, Chirag Jetani, the Founder & COO of Diamante Blockchain, shared his ambitious vision for advancing blockchain technology across multiple sectors. With a rich background in Web3, Jetani discussed the unique capabilities and strategic positioning of Diamante Blockchain, worldwide.
+The conversation explored a variety of topics, including the challenges of scalability and speed in blockchain technology and Diamante’s approach to creating a sustainable and efficient ecosystem.
+Jetani highlighted how Diamante Net, described as a “layer-1, state-of-the-art hybrid blockchain platform,” is aiming to redefine financial transactions with seamless interoperability.
+The Core Capabilities of the Diamante Network
+At its core, Diamante Network stands distinguished by its layer-1, hybrid blockchain infrastructure, crafted to address some of the most pressing issues faced by traditional blockchains: scalability, speed, and environmental impact. 
+By implementing a Federated Byzantine Agreement (FBA), Diamante enhances transaction processing speeds without compromising on security, a critical feature for modern enterprises and financial institutions.
+This strategic choice in consensus mechanisms allows Diamante to outpace conventional blockchains significantly. 
+“Our latest deployment reduced energy consumption by 40% through optimized consensus algorithms,” Jetani highlights.
+Furthermore, Diamante’s architecture supports a wide range of applications, from financial services to supply chain management, making it a versatile platform for various industries seeking blockchain solutions. Its strong design ensures that as the network scales, it remains efficient and secure, paving the way for a new standard in blockchain technology.
+The Role and Impact of DIAM Coin
+Central to the Diamante ecosystem is the DIAM Coin, a utility token designed to streamline the operations within the Diamante network and enhance user engagement. DIAM Coin serves multiple functions, from facilitating transactions with reduced fees to granting access to exclusive features within the Diamante suite of applications. 
+“DIAM Coin streamlines transactions, facilitating access to premium ecosystem features and driving user engagement,” Jetani explains.
+DIAM Coin is particularly pivotal in operating Diamante’s flagship applications, such as PayCircle, CreditCircle, MudraCircle, and MetaCircle. For instance, in PayCircle, DIAM is used to handle transaction fees and reward mechnaisim, which broadens its utility and acceptance from across the globe.
+Moreover, the economic model of DIAM Coin is strategically designed to be deflationary, where a portion of the coins used in transactions is burned, thus reducing the total supply and increasing scarcity. This mechanism supports the coin’s long-term value proposition, aligning with the ecosystem’s growth and sustainability goals. 
+“The strategic integration of DIAM across these platforms significantly propels its utility and engagement,” states Jetani.
+Key dApps and Their Contributions to the Ecosystem
+Diamante Network’s strong ecosystem is powered by a suite of decentralized applications (dApps) that leverage the core capabilities of the blockchain as well as AI to deliver unique solutions across various sectors. 
+At the forefront of these innovations are PayCircle, DiamCircle, MudraCircle, and MetaCircle, each designed to integrate seamlessly with the DIAM Coin, enhancing the blockchain’s utility and user experience.
+PayCircle: Streamlining Financial Transactions Across Currencies, Fiat & Crypto
+PayCircle serves as a comprehensive financial application and a super app that facilitates blockchain-based transactions, supporting fiat transactions and multi-currency digital assets trading. The app offers AI-curated and customized rewards and cashbacks based on individuals’ and businesses’ transactions.
+This dApp uses DIAM Coin to efficiently handle transaction fees, with a portion of the coin being burned to enhance network stability and ensure a sustainable supply. Chirag Jetani articulates the broader vision for PayCircle:
+“We are evolving our platform with our native digital asset, DIAM, broadening its utility as a strong payment method accepted by an expanding network of merchants.”
+MudraCircle: Enhancing CBDC Solutions with DIAM Coin
+MudraCircle focuses on central bank digital currency (CBDC) solutions, where DIAM Coin plays a crucial role in fee processing, network access, and governance participation. 
+This dApp enhances liquidity and interoperability between various digital currencies, enriching the financial ecosystem and providing users with reduced transaction fees and access to exclusive features.
+
+MetaCircle, set in a virtual environment, uses DIAM Coin as the primary currency for purchasing digital assets, such as virtual real estate and exclusive metaverse experiences. Its integration into MetaCircle’s virtual banking features simplifies asset management and financial transactions, making virtual financial services seamless and user-friendly. 
+Jetani notes, “MetaCircle uses DIAM Coin to create a comprehensive virtual economy, where users can engage in transactions as easily as they would in the real world.”
+These dApps are pivotal in driving growth and engagement within the Diamante Ecosystem, offering increased utility and incentivization through DIAM Coin and fostering a network effect that attracts more users and stakeholders, thereby accelerating ecosystem growth.
+Comparative Advantage Over Competitors
+Diamante Network stands out from other blockchain platforms because it seamlessly combines speed, security, and environmental friendliness. 
+Federated Byzantine Agreements (FBAs) are used for consensus, which guarantees fast transaction speeds and high security without the energy inefficiencies of traditional Proof of Work (PoW) and Proof of Stake (PoS) systems. By using FBAs, this is achieved.
+Diamante also offers predictive and analytical capabilities that automate complicated processes through the integration of blockchain technology with artificial intelligence (AI). This integration reduces the need for manual intervention and enhances the platforms. It also offers:
+
+Better efficiency
+Lower costs
+Faster decision-making
+
+In addition, Diamante allows for smooth communication with other blockchain networks, which greatly increases the reach and utility of its platforms.
+Diamante also stands out in an industry that is frequently criticized for its environmental impact thanks to its commitment to sustainability, which is another key component of its strategy. 
+“Our latest initiatives include participating in carbon credit markets and exploring renewable energy sources for our data centers, aiming to achieve a net-zero carbon footprint by 2025,” According to Diamante’s Co-founder & COO, Chirag Jetani.
+This showcases Diamante’s commitment about being an environmentally responsible business.
+Diamante’s Global Strategy and Future Outlook
+As Diamante Network sets its sights on global expansion, the eyes are on markets such as the UAE, USA, and India, focusing on sectors ripe for digital transformation through blockchain & AI technologies. 
+“We are poised for aggressive expansion into new markets, focusing on sectors such as digital finance, smart contracts, dApps, gaming, CBDC and more,” Jetani states.
+A key component of Diamante’s strategy involves understanding and adapting to these regions’ unique cultural, economic, and regulatory landscapes. This involves conducting extensive market research, forging strategic partnerships with local entities, and engaging directly with regulatory bodies to ensure compliance and foster trust. 
+The Dynamic Community and Strong Partnerships
+Diamante has been actively involved in various collaborations, forging partnerships with various Web3 projects and crypto events across the globe. With these collaborations, the company is paving the way for a seamless integration of technologies. 
+Diamante’s dynamic community of over one million showcases its strong commitment towards building a robust technology ecosystem, driving the evolution of blockchain, AI and Web3.
+Through these efforts, Diamante aims to tailor its technology to meet local demands, thereby facilitating smoother entry and stronger adoption.
+Looking ahead, Diamante is not only expanding geographically but also focusing on the integration of latest technologies, such as AI, IoT, and Metaverse, with its blockchain solutions. The future roadmap includes launching blockchain-based platforms for industries like pharmaceuticals to combat counterfeiting and enhance transparency. 
+“Our future plans are centered around harnessing blockchain and AI to address pressing global challenges in sectors including healthcare, finance, and supply chain management,” Jetani remarks.
+Links:Diamante Blockchain | DIAM Website | X (Twitter) | Telegram | Discord | Instagram | YouTube | Reddit | Facebook
+
+
+Disclaimer
+In compliance with the Trust Project guidelines, this opinion article presents the author’s perspective and may not necessarily reflect the views of BeInCrypto. BeInCrypto remains committed to transparent reporting and upholding the highest standards of journalism. Readers are advised to verify information independently and consult with a professional before making decisions based on this content.  Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+LocalMonero Initiates Process to Wind Down Operations after Seven Years in the Market | Coinspeaker
+
+
+
+The pressure on privacy-centric crypto projects including LocalMonero and Tornado Cash has recently escalated amid notable Web3 hacks.
+
+LocalMonero, a P2P Monero (XMR) trading platform, has announced the closure of its operations after seven years in the market. According to the announcement, LocalMonero made the hard decision of winding down its operations due to both internal and external factors. As a result, LocalMonero is henceforth not accepting new user registration and trade ad pasting has already been disabled.
+The LocalMonero platform was largely similar to the previously closed LocalBitcoin. The LocalMonero team has informed users that they have until May 14 to wind down on all new trades. Additionally, the LocalMonero team will be available throughout the process to mediate any trade dispute and facilitate seamless winding down of operations.
+
+
+
+
+Meanwhile, LocalMonero users have until November 7, 2024, to withdraw their funds from the platform, since the website will be taken down. The AgoraDesk team announced that LocalMonero users can opt to delete their account before the winding process is completed in the coming months,
+“The winding-down process begins today and finishes 6 months from now. Our support staff will be available for help throughout this period,” LocalMonero noted.
+What Next After LocalMonero
+The closure of LocalMonero has been a surprise to many users but nothing unexpected from the bigger picture. Furthermore, the United States and other global law enforcement have escalated the fight against the use of privacy-centric crypto coins like Monero (XMR) and Dash (DASH).
+The LocalMonero team highlighted that the Monero network has significantly grown in the past years and will survive without its help. Notably, the Monero ecosystem anticipates the imminent launch of Haveno protocol, Serai DEX, and atomic swap, among other projects geared towards network management.
+Meanwhile, the trading of Monero will significantly be facilitated by Bitcoin, which is highly liquid in fiat pairs. According to a popular pro-privacy X user, Seth For Privacy, the closure of LocalMonero is a sign of the heightened war against anti-privacy crypto.
+
+
+XMR Market Picture
+The fight against privacy-centric crypto projects, by different global governments, has seen the market share for Monero gradually decline in the recent past. According to the latest market data, XMR has a total valuation of about $2.3 billion and a 24-hour average trading volume of around $47 million.
+Earlier last month, cryptocurrency exchange Kraken announced the end of Monero trading in Ireland and Belgium. Kraken announced that deposits for Monero will be halted by May 10, 2024, and withdrawals will end by June 10.
+The shaping of the crypto market by the United States and other global jurisdictions has been condemned by some crypto leaders including Coinbase Global Inc (NASDAQ: COIN) CEO Brian Armstrong. Nonetheless, the cryptocurrency industry has been forced to yield some privacy to ensure future growth prospects.
+next
+
+Altcoin News, Cryptocurrency News, News 
+
+
+
+
+
+
+
+
+
+
+Thank you!
+You have successfully joined our subscriber list.
+
+
+
+
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Monero's largest P2P trading platform shuts down - CoinJournal
+
+
+
+                    
+
+                    
+LocalMonero is a peer-to-peer (P2P) trading platform for privacy-focused coin Monero (XMR).
+The platform is winding down, with the website set to shutter on November 7.
+
+LocalMonero, the largest peer-to-peer (P2P) trading platform for Monero (XMR), is shutting down.
+The P2P platform announced late Tuesday that it’s ending operations effective immediately, with new signups and ad postings disabled as of May 7.
+Ahead of the complete website shutdown, LocalMonero will halt all trading activities, with this scheduled for May 14. The platform’s seven-year stint that saw it become the largest peer-to-peer trading platform for Monero officially comes to a close on November 7.
+As it begins its six-month wind-down process, LocalMonero says the decision to shut shop comes amid a confluence of internal and external factors. However, the announcement on the platform’s website does not provide specific reasons for the move.
+Meanwhile, all users are advised to withdraw their funds before the deadline of November 7. Not doing so could render the funds “abandoned or forfeited.”
+LocalMonero shuts, but future of Monero “bright”!
+Shutting down Monero’s largest P2P platform could see an impact in terms of the buying and selling of XMR, the top privacy-centric cryptocurrency. Despite this, the team at LocalMonero believes the ecosystem’s future is on course for further growth.
+“LocalMonero has been around for most of Monero’s life. Fortunately, the Monero ecosystem has matured a lot over these years,” the announcement reads.
+Part of the optimism is down to the potential for projects such as decentralised exchanges (DEXs) Haveno and Serai. Atomic swaps and Full-Chain Membership Proofs (FCMP) are the other key developments likely to bolster the Monero protocol.
+Despite this outlook, Monero and other privacy coins have in recent months faced increased regulatory scrutiny and exchange delistings. 
+A number of privacy-focused services, including Wasabi Wallet and Trezor CoinJoin have shuttered, while US authorities recently arrested the co-founders of privacy wallet Samourai Wallet.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+CFTC Chair Says ‘Another Cycle of Enforcement Actions’ Coming As Crypto Enters New Phase of Asset Appreciation - The Daily Hodl
+
+
+								The chairperson of the U.S. Commodity Futures Trading Commission (CFTC) Rostin Behnam is warning that the crypto industry is likely to face more headwinds from regulators over the coming months.
+Speaking at the 2024 Milken Institute Global Conference, the CFTC chair says that the crypto industry will “probably see in the next six to 18 months or six to 24 months another cycle of enforcement actions” amid “asset appreciation and [renewed] interest by retail investors.”
+
+
+
+
+
+
+
+
+
+
+According to Behnam, the goal of the enforcement actions is to protect investors.
+“Without a regulatory framework, without that transparency, without those tools that we typically use as regulators, you are going to continue to see this fraud and manipulation.
+And putting aside the legitimacy and where this technology may go and what role it might play in our economy and commerce, the internet, digital assets generally… we just have to think about things from a regulatory and consumer protection standpoint. And I think that needs to be our guiding light in terms of driving this conversation, filling these regulatory gaps and creating this framework that’s ultimately going to protect American investors.”
+The CFTC chair also says there’s “common ground” among US lawmakers on the kind of regulations that crypto assets require.
+“There’s a sustainability to this asset class. There’s obviously been a growth over the past six months. And obviously, we have to deal with a lot of bad events from 2022 that scarred the industry…
+…but the fact of the matter is even though or despite what happened in 2022, here we find ourselves with a growing market, growing capital investment and growing market capitalization and I think a renewed interest by a lot of the entrepreneurs.”
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: DALLE3
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Good News from Bankrupt Cryptocurrency Exchange FTX to Its Creditors! - Bitcoin Sistemi
+
+There have been new developments on the FTX front, which went bankrupt in November 2022 and caused its customers to lose approximately 11 billion dollars.
+Accordingly, FTX, which entered the restructuring process, claimed that its customers who lost money by selling their assets would be paid and that the excess money would remain.
+
+
+According to FTX's new compensation payment plan, creditors with claims under $50,000 will receive 118% compensation.
+In a new payment plan announced yesterday, FTX stated that customers whose receivables are under $50,000 will receive 118% compensation; He said that other creditors will receive full refunds and billions of dollars more in compensation in the future.
+
+
+
+
+
+
+
+FTX CEO John J. Ray III said in the statement:
+
+
+
+“Under the new payment plan, we are pleased to be in a position to offer some creditors payment of 100% of their claim amounts.
+The plan has not yet been approved by the U.S. Bankruptcy Court.
+According to the new plan, creditors with claims under $50,000 will be entitled to receive 118% compensation upon court approval. “If approved, refunds are expected to occur within 60 days of the plan's effective date.”
+
+As it is known, former CEO and founder of FTX, Sam Bankman-Fried, who faced various accusations after the bankruptcy of the cryptocurrency exchange FTX, was found guilty of 7 crimes in March and was sentenced to 25 years in prison.
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+SEC Chair Talks Crypto in An Interview, Notes Key Issues
+
+
+							
+
+SEC Chair Gary Gensler called for increased transparency in the crypto space.
+
+
+
+Gensler seeks to eliminate the non-compliance in the space displayed by firms.
+
+
+
+The SEC Chair deflected questions regarding ETH or ETH ETF applications.
+
+
+
+
+Gary Gensler, chair of the U.S. Securities and Exchange Commission (SEC), appeared on CNBC’s “Squawk Box” on May 7, 2024, addressing key issues surrounding financial oversight and regulation. 
+
+
+
+The SEC Chair talked to Andrew Ross Sorkin and stated that the regulator oversees markets worth $110 trillion, but he is mostly asked questions about the digital asset space, which is a fraction of this amount.
+
+
+
+
+“Crypto is a small piece of our overall markets. And — but it’s an outsized piece of the scams and frauds and problems in our markets because without prejudging any one token, much of this field is noncompliant with the protections of our securities laws,” noted Gensler.
+
+
+
+
+While talking about the Wells Notices sent to Coinbase and Robinhood, Gensler underscored the SEC’s commitment to ensuring transparency and fairness in the crypto market. 
+
+
+
+He stressed the importance of providing full, fair, and truthful information to investors, highlighting that if crypto products are securities, the firms offering exposure to them must adhere to the same rigorous standards as other securities.
+
+
+
+
+
+
+
+
+
+Additionally, Gensler was also seen deflecting questions regarding the approval of a spot Ethereum exchange-traded fund (ETF) in the United States. He also did not answer if ETH is a commodity or a security.
+
+
+
+When asked about his future, Gensler expressed his commitment to his current role as SEC Chair. He noted his privilege in serving and emphasized his intention to continue in his role well into 2026. Gensler highlighted his focus on contributing to the robustness of American capital markets and protecting investor interests.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
