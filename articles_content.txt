@@ -1,110 +1,3 @@
-Vitalik Buterin Introduces Safer EIP Alternative: What It Means
-
-
-Vitalik Buterin, the co-founder of Ethereum, has proposed a pivotal alternative to Ethereum Improvement Proposal (EIP) 3074. This new proposal intends to boost security and minimize risks for core developers. 
-Featuring a novel transaction type, similar to EIP-2930, it includes additions such as a contract code string and a signature.
-How Vitalik Buterin’s Proposal Offers Heightened Security
-Initiating this process, the design begins by verifying that the contract code of the signer is empty. Subsequently, it sets this to the specified contract code, only to reset it to empty at the transaction’s conclusion. This methodology permits the signer of the contract code and the transaction origin to be distinct, thus offering both flexibility and heightened security.
-The proposed approach promises compatibility with existing EIP-3074 workflows by transforming them into streamlined interactions within the new framework. Through this, commands like AUTH and AUTHCALL are replaced by simpler verify and execute functions associated with externally owned accounts (EOAs). This simplification maintains operational integrity and also enhances process efficiency.
-Read more: Ethereum EIPs: What Are They? How Are They Implemented?
-
-Buterin asserts that his method aligns with any EIP-3074 workflow and requires minimal adjustments for integration. It supports forward compatibility with endgame account abstraction, avoiding the introduction of new opcodes, thus preventing potential redundancy in future blockchain contexts. 
-Additionally, it enables EOAs to temporarily undertake contract functionalities, ensuring compatibility with the current EntryPoint architecture.
-
-Despite its numerous advantages, including maintaining a unified code ecosystem likely to remain relevant in future frameworks, this proposal does carry potential drawbacks. It inherits some criticisms from EIP-3074, especially concerning possible centralization and the required trust in managed code pieces.
-
-“However, it feels like any EIP that attempts to handle the “privilege de-escalation” (aka sub-keys) use case of 3074 would have the same problem,” Buterin concluded.
-
-Pedro Gomes, co-founder of WalletConnect, also supported Buterin’s proposal. 
-
-“This new approach benefits from leveraging 4337 infra PLUS reduces the risk for core developers,” Gomes said.
-
-As the Ethereum (ETH) community anticipates the Pectra upgrade, scheduled between late 2024 and early 2025, excitement builds. This significant update, which will integrate EIP 3074 centrally, aims to revolutionize how users interact with Ethereum wallets by adding sophisticated smart contract functionalities. 
-Key features include a novel social recovery tool and the capability for transactions without ETH in wallets, dramatically lowering the barriers for newcomers.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-FTX's bankruptcy plan offers over 100% recovery for creditors, faces mixed reactions
-
-The bankrupt FTX estate has unveiled a new reorganization plan that promises substantial returns to its creditors.FTX creditors with claims below $50,000 would be eligible for a 118% recovery within 60 days of its approval by the Delaware bankruptcy court. Other non-governmental creditors would receive 100% of their claims plus up to 9% interest to account for the time value of their investments.Meanwhile, provisions exist to settle claims with regulatory bodies such as the IRS and CFTC. The IRS is poised to receive approximately $200 million, while the CFTC’s settlement remains undisclosed.FTX anticipates that the total value of assets collected and converted to cash for distribution will range between $14.5 and $16.3 billion. The firm achieved this recovery level by monetizing various assets, predominantly proprietary investments from Alameda or FTX Ventures businesses and litigation claims.John J. Ray III, Chief Executive Officer and Chief Restructuring Officer of FTX, said:“We are pleased to be in a position to propose a chapter 11 plan that contemplates the return of 100% of bankruptcy claim amounts plus interest for non-governmental creditors.”Not all FTX creditors are satisfiedFTX creditors are expressing discontent with the proposed reorganization plan, highlighting their inability to recover stolen funds at current market rates.Sunil Kavuri, a notable creditor, raised concerns about Sullivan & Cromwell’s inclusion of an Exculpation clause, shielding them from misconduct allegations such as selling FTX assets at substantial discounts.Similarly, Mike Belshe, the CEO of BitGo, added:“0% of FTX creditors agree that receiving $16800 for your Bitcoin is fully compensated. I understand why the bankruptcy process needs to work this way but let’s not pretend victims are getting their money back or that FTX wasn’t as awful as it was.”However, Bloomberg ETF analyst James Seyffart supported the plan, lauding its moral trajectory despite acknowledging that the figures may not fully restore creditors’ losses. He said:“Good good GOOD! The numbers won’t equate to FTX creditors just holding onto their assets. But allowing people to get more than 100% of their claim value from the time of bankruptcy is a move in the *Morally Correct* direction.”Mentioned in this articlePosted In: FTX, Bankruptcy
-
-----------------
-
-Cartier: USDT to launder money from drug trafficking.
-
-Maximilien De Hoop Cartier, member of the famous Cartier family, has been charged with money laundering from drug trafficking, using USDT. 
-
-Cartier and the use of USDT to launder money from drug trafficking
-Maximilien De Hoop Cartier, descendant of the famous Cartier family known for its French luxury goods, has been charged with money laundering from drug trafficking. 
-According to what reported, Cartier and five other Colombian individuals allegedly used the stablecoin Tether (USDT) to successfully launder substantial amounts of money.
-This is direct laundering for $14.5 million and hundreds of millions of dollars using shell companies, on behalf of undisclosed third parties. 
-Basically, the accusation against the Cartier family member was published by the United States Attorney’s Office for the Southern District of New York.
-The deed states that Maximilien De Hoop Cartier and five Colombian citizens have laundered drug trafficking funds using USDT, through a series of shell companies that acted as promoters of an unlicensed OTC cryptocurrency exchange. 
-Specifically, Cartier would have used the accounts of Bullpix Solutions LLC, Vintech Capital LLC, VC Innovated Technologies LLC, AZ Technologies LLC, Softmill LLC, and Sun Technologies LLC at financial institutions to act as unlicensed money transfer businesses, falsely claiming to operate in the software and technology sector.
-Cartier and money laundering from drug trafficking using the largest stablecoin USDT
-The scheme activated by the Cartier network and the five Colombians would have laundered 14.5 million USDT directly derived from the proceeds of the illegal activities mentioned between May 2023 and November 2023. 
-However, it seems that Maximilien De Hoop Cartier’s business was actually much larger, encompassing “hundreds of millions of dollars in illegal transactions and laundering hundreds of millions of criminal proceeds” since 2020.
-In this regard, Damian Williams, United States Attorney for the Southern District of New York, stated:
-“The charges filed today demonstrate the commitment of this office to pursue international drug traffickers and penetrate the complex money laundering networks that seek to exploit the US financial system.”
-The partnership between Tether and Chanalysis
-Recently, Tether has entered into a new partnership with Chainalysis, the renowned blockchain data platform, to develop together a customized solution.
-Specifically, the purpose of this collaboration is to create a custom solution to monitor secondary market activities. 
-This secondary market includes transactions involving USDT within a broader ecosystem, in addition to direct agreements between Tether and its counterparts. 
-In this way, Tether will be able to monitor transactions systematically, having a clearer view of the USDT market.
-Specifically, the tool will allow him to identify portfolios that may represent risks or be linked to addresses involved in illegal or sanctioned activities.
-
-----------------
-
-FTX Creditors Could Receive Up to 142% of Claims in $16.3B Payout Plan
-
-
-
-FTX CEO John J. Ray III stated that they are proposing a Chapter 11 plan that aims to return 100% of bankruptcy claims plus interest to non-governmental creditors.
-
-Cryptocurrency e­xchange FTX, which caused a stir in the industry whe­n it filed for bankruptcy in November 2022, has revealed a potentially favorable­ path for its creditors. According to an updated reorganization plan submitte­d on May 7, 2024, FTX estimates having betwe­en $14.5 billion to $16.3 billion available for distribution.
-The proposed plan offers a glimme­r of hope for the estimated 9 million custome­rs and investors who experie­nced substantial losses when FTX collapse­d. FTX’s plan to compensate investors could allow­ some creditors to receive payouts excee­ding their initial claims by up to 142%.
-
-
-
-
-118% Payout for Small FTX Creditors
-The plan prioritizes smaller cre­ditors by creating a “convenience­ class” for those with claims of $50,000 or less. Under this cate­gory, the exchange expects most of these­ creditors to get around 118% of their claims within two months of court approval. This quick re­payment approach aims to reduce furthe­r financial strain on those potentially affecte­d by FTX’s downfall.
-FTX plans to generate the­ distribution pool by selling various assets, including inve­stments held by Alameda Re­search, a crypto hedge fund pre­viously led by Sam Bankman-Fried, FTX Venture­s businesses, and possible se­ttlements from ongoing legal case­s. Importantly, the bankruptcy filing also covered asse­ts controlled by entities such as the­ Bahamas Securities Commission and the Unite­d States Department of Justice­.
-Additionally, the updated plan emphasize­s a collaborative approach. According to a statement from FTX, the­ document reflects a se­ries of agreed-upon de­als with key stakeholders. This conse­nsus-building strategy aims to speed up the­ resolution of the bankruptcy procee­dings, potentially reducing further de­lays for creditors.
-“We are pleased to be in a position to propose a Chapter 11 plan that contemplates the return of 100% of bankruptcy claim amounts plus interest for non-governmental creditors,” stated John J. Ray III, CEO of FTX.
-FTX’s Road to Recovery
-The FTX’s collapse­ has raised significant concerns. In February 2024, the­ company disclosed that it possessed only $6.4 billion in cash, a stark contrast to its pre­vious financial standing. Earlier this year, the company’s founde­r, Sam Bankman-Fried, receive­d a 25-year prison sentence­ for allegedly defrauding an estimated $8 billion from FTX’s customers.
-The­ proposed plan, while potentially be­neficial for the company’s creditors, doe­s not erase the substantial losse­s incurred by FTX’s stakeholders. However, it re­presents a potential pathway towards financial re­covery and underscores the­ ongoing efforts to navigate the comple­x bankruptcy process. 
-next
-
-Altcoin News, Cryptocurrency News, News 
-
-
-
-
-
-
-
-
-
-
-Thank you!
-You have successfully joined our subscriber list.
-
-
-
-
-
-
-----------------
-
 BTC price clings to $62K as Bitcoin bulls suffer post-halving ‘boredom’
 
 Bitcoin (BTC) eyed a test of range lows on May 8 as analysis complained of post-halving “boredom.”BTC/USD 1-hour chart. Source: TradingViewBTC price sags toward range bottomData from Cointelegraph Markets Pro and TradingView showed BTC price momentum heading to $62,000 during the Asia session.Bitcoin had managed a rebound beyond $65,500 days prior, and its subsequent 5% retracement left BTC/USD firmly in a range in place since before the weekend.The daily close, at around $62,300, left BTC/USD increasingly at risk of giving back more of its recent gains.“Any daily close below $62,100 or prolonged inactivity counts as a stop-loss,” J. A. Maartunn, a contributor to on-chain analytics platform CryptoQuant, warned in part of market coverage on X the day prior.Michaël van de Poppe, founder and CEO of trading firm MNTrading, expressed frustration at the lack of overall direction since Bitcoin’s block subsidy halving in mid-April.“Bitcoin slowly procedes towards the lower boundaries of the range for a test of support,” he wrote on the day.“After that, it seems likely we’ll continue the upwards grind. Boredom has started since the Bitcoin halving took place.”BTC/USD chart. Source: Michaël van de PoppeAn accompanying chart showed levels to watch to the downside “if a correction happens.”Fellow trader Moustache meanwhile remained optimistic, arguing that current moves should result in a more sustained upside as in previous post-halving setups.“The last dips before $BTC starts the next leg imo,” he told X followers.“It’s never been any different if you look at history. We’re in 2017 or 2020.”BTC/USD chart. Source: MoustacheBitcoin ETFs ditch inflow trendUpheaval in the crypto exchange-traded fund (ETF) sector produced mixed impressions of the outlook.Related: Bitcoin exchange inflows drop to 10-year lows after $74K all-time highsAs Cointelegraph reported, Grayscale, one of the operators of the new spot Bitcoin ETFs in the United States, pulled plans for an Ether futures ETF product.ETH/USD 1-hour chart. Source: TradingViewThe U.S.-based Bitcoin ETFs saw another day of net outflows on May 7, conspicuously contrasting with the prior two days’ inflows, which passed $500 million.Data from sources, including United Kingdom-based investment firm Farside, confirmed outflows of $15.7 million.Bitcoin ETF flows (screenshot). Source: FarsideAt the same time, investment firm Susquehanna disclosed an ETF portfolio worth $1.3 billion.This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
@@ -8664,6 +8557,119 @@ US House Proposes Bill to Ban Crypto Mixers for Two Years
 
                         Democratic representatives have introduced the US Blockchain Integrity Act to tighten regulations in the cryptocurrency sphere. The act aims to crack down on cryptocurrency mixers, often utilized for illicit financial activities. Led by Sean Casten and supported by fellow Democrats, the proposed bill seeks to enact a two-year ban on cryptocurrency mixers.US Lawmakers Look to Ban Crypto MixersA crypto mixer serves as a pool, enabling users to generate new addresses and withdraw funds without disclosing the connection between the depositor and withdrawal addresses. This opacity poses a significant challenge for law enforcement agencies, hindering efforts to track fund origins and destinations and creating an avenue for unlawful activities.The proposed legislation aims to disrupt the flow of illicit funds and promote transparency by prohibiting financial institutions, cryptocurrency exchanges, and registered money service businesses from accepting funds processed through a mixer. Violations of this ban would incur civil penalties of up to $100,000, serving as a deterrent against facilitating mixer-related transactions.Additionally, the bill mandates that the Treasury Department compile a comprehensive report during the ban period evaluating various aspects of mixer transactions, including involvement in illicit finance, legitimate use cases, law enforcement capabilities, and regulatory approaches in other jurisdictions. Cryptocurrency mixers have emerged as a focal point due to their role in obscuring transaction trails and enabling user anonymity, prompting alarm among law enforcement agencies regarding their exploitation by criminals for money laundering and terrorist financing.However, the proposed ban faces political challenges, particularly within the Republican-majority House, where its passage remains uncertain. While Democrats advocate for the initiative as a necessary measure to combat illicit finance, Republicans express concerns about stifling innovation and the need for balanced regulatory oversight.Beyond legislative efforts, US authorities have previously taken action against cryptocurrency mixers, exemplified by the Treasury’s targeting of mixer service Tornado Cash and legal actions against mixer developers for money laundering and sanctions violations.Moreover, lawmakers have raised apprehensions regarding offshore-issued stablecoins like Tether, citing potential links to illicit finance. Stablecoins pegged to fiat currencies and have gained traction for facilitating transactions within the cryptocurrency ecosystem, prompting scrutiny over issuer transparency and regulatory oversight.
 Crypto Mixer As a Safe Tool For Bad ActorsThe Poloniex hacker, notorious for the exchange’s security breach last year, recently funneled $3.4 million worth of Ethereum through the Tornado Cash mixer to launder the stolen funds. A report from blockchain intelligence firm Chainalysis reveals a surge in the popularity of crypto mixers in 2022, with these services receiving more cryptocurrency than ever before. According to the report, illicit addresses accounted for 23% of the funds sent to mixers in 2023, a significant increase from 12% in 2021. The rise in mixer usage is attributed to a doubling of the share of funds deemed illicit, which now represents the main driver for the uptick in mixer activity.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Crypto Prices May 9: Prices Dip as Big Data Looms Large
+
+
+                                Crypto market cap at $2.40 trillion, down 1.60% in value                                Cryptocurrency prices declined on Tuesday despite no significant data releases, ahead of the Bank of England's impending interest rate decision.	Traders are eagerly anticipating Thursday's release of unemployment claims.Major Events To Watch		Crypto Fear and Greed Index:	The Fear and Greed Index has slipped by 9 points to reach 55 out of 100, indicating a prevailing sentiment of greed. This could imply potential selling pressure in the cryptocurrency market.Crypto values experienced a decline within the last 24 hoursTOP 5 Losers CoinsIndicesLTPChange (%)dogwifhat$2.9110.83%Helium$4.849.70%Akash Network$4.437.99%JasmyCoin$0.017926.36%Jupiter$1.086.20%Latest Market Update: 			Bitcoin ($BTC), the oldest cryptocurrency, dipped below $61,500 early Wednesday.						Other popular altcoins such as #Ethereum ($ETH), #Dogecoin ($DOGE), #Ripple ($XRP), #Solana ($SOL), and #Litecoin ($LTC) experienced a mix of minor declines and gains.						The THORChain token was the standout performer, with a 24-hour surge of over 7 percent.						Conversely, memecoin #dogwifhat ($WIF) suffered the largest loss on the second day, plunging by 10.83% in the same period.						Total crypto market volume in the last 24 hours: $65.35B, marking a 2.75% increase.						DeFi volume stands at $7.28B, representing 11.13% of the total crypto market 24-hour volume.						Stable coins contribute $59.88B to the total volume, comprising 91.64% of the total crypto market 24-hour volume.						Bitcoin's dominance is currently 53.16%, down by 0.39% compared to the previous day.Major Worldwide News Update:			The Bank of England's upcoming meeting is anticipated to see interest rates unchanged, with attention turning to hints on future policy directions. Comfort with declining UK inflation has led to expectations of two 25-basis-point rate cuts this year, possibly beginning in June. This could weaken the pound against the dollar pre-Fed actions.						During Wednesday's North American session, Crypto prices dropped due to increased US Treasury yields and a robust US dollar. Economic events in the US are limited, with anticipation for Thursday's unemployment claims and Friday's University of Michigan Consumer Sentiment survey among traders.						Grayscale CEO Michael Sonnenshien remains undeterred after withdrawing Ethereum Futures ETF application, focusing on transitioning Ethereum Trust to a spot ETF, akin to Bitcoin Trust. Despite SEC delay on Invesco Galaxy ETF, Grayscale maintains optimism, citing regulatory cooperation. Grayscale also introduces Ethereum Mini Trust, catering to diverse investor needs.						Republican candidate Donald Trump openly endorses cryptocurrencies, promising to safeguard investors' rights and rejecting Biden's administration's regulatory crackdown. Trump pledges not to restrict Bitcoin, evolving from previous skepticism to embracing NFTs and accepting crypto campaign donations, contrasting Biden's regulatory stance, aligning with Senator Warren and SEC Chair Gensler.						The Biden administration plans to veto H.J. Res. 109, aiming to nullify the SEC's SAB 121, which regulates financial firms' custodianship of cryptocurrencies. Critics argue it hampers innovation and increases costs, while proponents assert it protects investors and financial stability. Cody Carbone criticizes SAB 121 for inhibiting trusted custodianship and the SEC's lack of transparency.						Crypto market experiences volume drop on macroeconomic concerns as Fed turns hawkish on prolonged high interest rates. Despite BTC price range-bound between $61K-$64K, whales accumulate $941 million worth BTC, bolstering bullish sentiment. Fed officials hint at rate cuts, spooking markets. Meme tokens lead leverage among top altcoins amidst whale accumulation.COIN GABBAR Views: Is Bitcoin poised to hit $100,000 in 2024, or are choppy waters ahead? Are bulls out of the race as BTC sees dips and bears gain ground, signaling a potential breakout? Could Bitcoin be gearing up for a bounce back? To get latest news Stay tuned us at coingabbarDisclaimer: Coingabbar's guidance and chart analysis on cryptocurrencies, NFTs, or any other decentralized investments is for informational purposes only. None of it is financial advice. Users are strongly advised to conduct their research, exercise judgment, and be aware of the inherent risks associated with any financial instruments. Coingabbar is not liable for any financial losses. Cryptocurrency and NFT markets could be highly volatile; users should consult financial professionals and assess their risk tolerance before investing.Also Read: Elon Musk Strings with Pi Coin, Rumor or Real?
+                            
+                        
+
+----------------
+
+Trump Champions Crypto: 'I'm Good With It, Vote For Me'
+
+
+								On late Wednesday, Donald Trump, the former President and Republican frontrunner, declared his support for cryptocurrencies. This announcement came during a notable gathering at his Mar-a-Lago resort in Palm Beach, Florida, dubbed the Trump Cards NFT Gala, attended by supporters who are holders of NFTs depicting Trump’s name and likeness.
+During the event, Trump criticized the Biden administration’s stance on digital assets. Mimicking a conversation, he said, “If you ask Biden, sir, are you for or against crypto? What’s that? What? Get me off the stage. Now, he has no idea. But look, [he’s] very much against it. The Democrats are very much against it.”
+He then aligned himself with the pro-crypto sentiment evident among the attendees, “And I say this, a lot of people are very much for it. Probably a lot of the people in this group. And I’m fine with it. I want to make sure it’s good and solid and everything else. But I’m good with it. And if you want, if you like crypto in any form, and it comes in a lot of different forms, if you’re in favor of crypto, you better vote for me.”
+
+
+
+Trump further lamented the exodus of digital asset companies from the United States, attributing this trend to an unfriendly regulatory environment fostered by the current government. “Crypto is moving out of the US because of hostility towards crypto,” he claimed, promising to reverse this trend by creating a more welcoming regulatory framework for blockchain and digital currencies.
+
+
+At the event, Trump also openly welcomed campaign donations in Bitcoin and other digital assets, signaling a major pivot in his acceptance and understanding of digital assets. When asked, “Can we donate using crypto?” Trump responded, “If you can’t, I’ll make sure you can.” This move could attract significant support from younger, tech-savvy voters who view them as a cornerstone of future financial systems.
+Crypto Is A Key Issue In The 2024 US Election
+Industry reactions to Trump’s statements were immediate and pointed. Ron Hammond, the government relations director at the Blockchain Association, noted the political divide, highlighting the day’s events on X: “I didn’t think crypto would be an election issue, but today’s polar opposite statements proved that. Twenty-one Democrats today voted against their own party realizing the trend: it’s a losing issue to be in the anti-army.”
+Further emphasizing the community’s reaction, Dennis Porter, CEO and founder of Satoshi Act, commented via X: “Trump just said he is pro-Bitcoin/crypto. Biden (so far) squarely opposed to Bitcoin/crypto. The wildest part: I’ve been hearing rumblings that Biden may pivot on the issue.”
+
+This sentiment reflects broader concerns about the US falling behind in the global race to embrace and regulate digital currencies. A recent poll conducted by DCG and The Harris Poll on May 7 revealed that in key battleground states, one in five voters considers Bitcoin and digital assets a significant issue for the 2024 election.
+The survey underscored a significant lack of trust in current elected officials’ understanding of technologies like digital assets, with four out of five respondents expressing a desire for lawmakers to have a better grasp of the technology before attempting to regulate it.
+“Half of voters (48%) distrust candidates interfering with crypto. A third (30%) are more likely to support pro-crypto politicians, and a quarter (25%) feel more trusting towards those enthusiastic about digital currencies,” DCG revealed via X.
+As the 2024 Presidential race heats up, Trump’s clear pivot to pro-crypto policies could not only sway single-issue voters but also redefine Republican strategies on technology and economic innovation. With this stance, Trump is positioning himself at the forefront of what may become a central issue in the upcoming US election.
+At press time, BTC traded at $61,421.
+BTC price, 1-day chart | Source: BTCUSD on TradingView.com
+Featured image from Fox Business, chartfrom TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Tron Price Prediction: TRX Outperforms Bitcoin, Can It Hit $0.132?
+
+
+                            Tron price is gaining pace above the $0.1220 resistance against the US Dollar. TRX is outperforming Bitcoin and could rise further above $0.1250.
+
+Tron is moving higher above the $0.120 resistance level against the US dollar.
+The price is trading above $0.1220 and the 100 simple moving average (4 hours).
+There was a break above a key bearish trend line with resistance at $0.120 on the 4-hour chart of the TRX/USD pair (data source from Kraken).
+The pair could continue to climb higher toward $0.1275 or even $0.1320.
+
+Tron Price Regains Strength
+Recently, Bitcoin and Ethereum saw a fresh decline below $63,500 and $3,100 respectively. However, Tron price remained stable above the $0.1180 support and even climbed higher.
+There was a decent move above the $0.120 resistance zone. TRX price cleared the 50% Fib retracement level of the downward move from the $0.1239 swing high to the $0.1181 low. Besides, there was a break above a key bearish trend line with resistance at $0.120 on the 4-hour chart of the TRX/USD pair.
+Tron price is now trading above $0.1220 and the 100 simple moving average (4 hours). On the upside, an initial resistance is near the $0.1250 level.
+
+Source: TRXUSD on TradingView.com
+The first major resistance is near $0.1275 or the 1.618 Fib extension level of the downward move from the $0.1239 swing high to the $0.1181 low, above which the price could accelerate higher. The next resistance is near $0.1320. A close above the $0.1320 resistance might send TRX further higher toward $0.1365. The next major resistance is near the $0.140 level, above which the bulls are likely to aim for a larger increase toward $0.150.
+Are Dips Supported in TRX?
+If TRX price fails to clear the $0.1250 resistance, it could start a downside correction. Initial support on the downside is near the $0.1220 zone.
+The first major support is near the $0.1195 level or the 100 simple moving average (4 hours), below which it could test $0.1180. Any more losses might send Tron toward the $0.1150 support in the coming sessions.
+Technical Indicators
+4 hours MACD – The MACD for TRX/USD is gaining momentum in the bullish zone.
+4 hours RSI (Relative Strength Index) – The RSI for TRX/USD is currently above the 50 level.
+Major Support Levels – $0.1220, $0.1195, and $0.1180.
+Major Resistance Levels – $0.1250, $0.1275, and $0.1320.
+                            
+                            
+                                                                                                Disclaimer: The article is provided for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk.
+                                                            
+                                                            
+                                                    
+                    
+
+----------------
+
+Nigeria Pushes Back Against Binance, Rejects CEO’s Bribe Claim
+
+
+                        
+                            Nigeria Pushes Back Against Binance, Claims CEO’s Bribe Allegation ‘Lacks Any Iota of Substance’                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 9, 2024 01:21 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Nigeria has fired back at Binance Holdings’ bribe accusation, claiming it’s a distraction to shift focus away from the exchange’s actions.The statement on Wednesday followed Binance CEO Richard Teng’s blog post, where he accused a Nigerian government official of pressuring crypto representatives to accept a secret agreement. This agreement would supposedly settle claims the Nigerian government has against the exchange.“Teng made false allegations of bribery against unidentified Nigerian government officials who he claimed demanded $150m in cryptocurrency payments to resolve the ongoing criminal investigation against the company,” the Ministry of Information spokesman Rabiu Ibrahim said.He added that the Binance CEO’s claim “lacks any iota of substance.” He also described it as a “diversionary tactic and an attempted act of blackmail.”The exchange “will not clear its name in Nigeria by resorting to fictional claims and mudslinging media campaigns,” he added. “The only way to resolve its issues will be by submitting itself to unobstructed investigation and judicial due process.”Binance didn’t return Cryptonews’ request for comment by press time.
+Binance Employees Allegedly Threatened, Offered Secret Deal
+According to Teng, Nigeria’s House Committee on Financial Crimes (HCFC) threatened to arrest Binance employees and bar them from leaving the country.After leaving the HCFC meeting, unidentified individuals reportedly approached Binance employees, offering to resolve the situation through a secret payment. The New York Times reported this $150m “settlement” originated within the Nigerian government.
+Detained Execs, Blocked Access
+The conflict began on Feb. 26 when executives Tigran Gambaryan and Nadeem Anjarwalla traveled to Abuja to address the Binance-Nigerian government dispute. However, Gambaryan and Anjarwalla were detained in Nigeria for two weeks in March without justification and later faced money laundering and tax evasion charges.Anjarwalla escaped soon after, but was recaptured in Kenya, nearly 3,000 miles away, in late April.Nigeria’s government had ordered the country’s telecoms to block access to Binance and other cryptocurrency exchanges. They justified this action by citing concerns about the devaluation of the Nigerian currency, the naira, and alleged involvement of the exchanges in illegal money transfers.Reports indicate Nigeria’s government is angry about capital flowing out of the country due to the crypto exchange. This has worsened the African nation’s financial problems.                                                    
                         	                                            
                         
                         
