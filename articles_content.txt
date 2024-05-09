@@ -1,433 +1,3 @@
-Robinhood's $618 Million Revenue Surpasses Q1 Forecasts
-
-
-Robinhood Markets Inc. showcased a resilient performance in the first quarter of 2024. It has transitioned from a significant loss last year to posting its second consecutive quarterly profit.
-The company announced on Wednesday that its net income reached $157 million. This achievement marks a stark turnaround from a net loss of $511 million in the same quarter the previous year.
-Robinhood’s Performance in Q1 Exceeded Expectations
-In its latest quarterly report, Robinhood announced a 40% increase in net revenues, reaching $618 million. Transaction-based revenues increased by 59%, with crypto transactions playing a big part. Specifically, revenue from crypto transactions surged by 232%, amounting to $126 million.
-Additionally, Robinhood reported a substantial increase in crypto assets under custody, which stood at $26 billion by the end of March. This represents a 78% rise from the end of 2023.
-
-Read more: How to Buy and Sell Crypto on Robinhood: A Step-by-Step Guide
-Robinhood’s Assets Under Custody (AUC). Source: Robinhood’s Q1 2024 Earnings Presentation
-Robinhood also achieved all-time highs in both net deposits and Gold subscribers. Furthermore, the quarter saw Robinhood making significant strides in user engagement and product offerings. Jason Warnick, Robinhood’s Chief Financial Officer (CFO), expressed satisfaction with the results.
-
-“We delivered significant revenue growth and margin expansion in Q1 as we remain focused on driving another year of profitable growth in 2024,” Warnick stated.
-
-The results significantly exceeded Wall Street expectations. The earnings per share were 18 cents, far above the anticipated 6 cents. Meanwhile, the net revenue surpassed forecasts of $549 million.
-
-Following the company’s growth and strong financial performance, Robinhood (HOOD) shares experienced a surge. During after-hours trading, the shares advanced by 6.3%, reaching $19.01.
-Read more: Coinbase vs. Robinhood: Which Is the Best Crypto Platform?
-HOOD Price Performance. Source: Google Finance
-However, Robinhood now faces increased scrutiny from the US Securities and Exchange Commission (SEC). The SEC recently issued a Wells notice for potential violations concerning Robinhood’s crypto practices.
-
-The concerns involve the platform’s crypto listings, custody, and operational procedures. This could result in various enforcement actions.
-Robinhood’s Chief Executive Officer, Vlad Tenev, expressed frustration over the SEC’s actions on his X (Twitter) account. Tenev criticized the regulatory body for what he considers an excessive and damaging focus on crypto. He articulated a strong commitment to defending Robinhood’s business.
-
-“While we strive to maintain positive and productive relationships with our regulators, if necessary we will use our resources to contest this matter in the courts, with the intent of both defending our crypto business and establishing regulatory clarity in the United States for the benefit of our customers,” Tenev affirmed.
-
-This tension between Robinhood and the SEC is part of a broader regulatory tightening across the crypto sector. SEC Chairman – Gary Gensler has made clear his aim to enforce stringent regulations to safeguard investors and ensure comprehensive disclosures by crypto platforms. 
-With the industry facing potential regulatory adjustments, the outcomes could significantly influence both Robinhood’s operations and the wider market environment.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
-
-
-
-
-----------------
-
-Robinhood Reports 3X Jump In Crypto Volume, Executives Say 'Business As Usual' Despite SEC Well Notice - Benzinga
-
-Trading platform Robinhood Markets Inc HOOD disclosed a first-quarter notional cryptocurrency trading volume of $36 billion, a more than three-fold increase year-over-year.  What Happened: The surge in volumes helped boost cryptocurrency-related revenue to $126 million, up 232% year-over-year. According to the company, the cryptocurrency arm played a vital role in driving total transaction-based revenue to $329 million, up 59% over the same period last year.  The firm reported $26 billion worth of cryptocurrencies under custody as of March 31, marking a 78% jump quarter-over-quarter. The company’s cryptocurrency arm, Robinhood Crypto, allows users to trade in popular coins such as Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), Dogecoin (CRYPTO: DOGE), and others.Why It Matters: The impressive numbers from Robinhood's cryptocurrency vertical come despite growing regulatory hostilities in the U.S. The firm was subpoenaed by the SEC over its cryptocurrency listings, platform operations, and security in February.More recently, the company disclosed getting slapped with a Wells Notice from the regulator, a prelude to a likely enforcement action. Responding to questions on the Well Notice during the earnings call, CEO Vlad Tenev termed it as a disappointing development, saying "We firmly believe U.S. consumers should have access to this asset class. They deserve to be on equal footing with people all over the world."The top executive stated that the firm would defend itself from any potential legal action. Chief Financial Officer Jason Warnick reassured clients that their accounts were not affected due to the Wells Notice, calling it "business as usual" for Robinhood Crypto. Price Action: Robinhood stock was up 4.20% to $18.60 in after-hours trading as of 7:59 p.m. EDT.Read Next: Bitcoin, Ethereum, Dogecoin Continue To Slip: Analyst Says King Crypto Network Fundamentals Indicate 300% Upside, Could Top Between $250K-$275K
-
-----------------
-
-Why Account Abstraction Is the Key Technology for the Future of Web 3.0 and GameFi UX - The Daily Hodl
-
-
-								
- 
-The UX problem in Web 3.0 and GameFi has no one-size-fits-all solution. It is a sophisticated and interconnected issue – otherwise, we would have seen it solved many years ago.
-Indeed, Ethereum has done a great job in lowering its transaction fees and increasing throughput. Similarly, layer-two solutions introduced greater and cheaper scalability to the system.
-The UX, however, is still a tough entry barrier, and several unexpectedly popular DApps (decentralized applications) can still impose a huge workload on crypto networks.
-The past years brought little change – now is the right time to focus on the overall UX improvement, and new blockchain technologies like ‘account abstraction’ can help.
-Account abstraction – the Ethereum UX revolution
-Imagine an average user attracted to a new viral DApp. They excitedly download the app to try the latest trend. Oh, they can’t do it just yet – they need a wallet first.
-They may have heard about MetaMask, so that’s the low-hanging fruit.
-Now, the wallet is there, but the majority of users have some sort of an upfront cost – this is simply their business model, an initial investment.
-After all, isn’t our user used to small in-app purchases virtually everywhere else?
-Still, you can’t buy tokens directly in a wallet, so most of the time they’ll head straight to whatever centralized exchange is the most popular in their region.
-They fill in their passport info, residency address and a utility bill to prove it, and tax ID number, and submit a photo – hold on, the resolution is too low. And this one is too oversaturated. And this is way too shadowy.
-Nice! It should only take the exchange’s KYC (know your customer) team a day or two to verify their identity. ‘The photo doesn’t match the photo on your passport.’ They have to resubmit.
-Anticipation breeds appetite, and our user happily logs into the app, connects the wallet, and attempts to make their first balance refill – only to find out that the wanted token’s protocol is not supported by the exchange they’ve chosen.
-They need to get used to this feeling – in the unlikely situation that such a user returns to the app, they will have to keep track of gas quotes, Ethereum balance for gas fees, native token balance for in-app payments and a stablecoin account to hedge their earnings against market volatility.
-Oh, and don’t forget to store the seed phrase – otherwise, all the funds would be irrecoverably lost.?? This is simply not tolerable in 2024.
-Now, we have the technology that could mitigate many of these hurdles – account abstraction.
-In technical terms, account abstraction decouples the wallet from the private key, allowing customers to effectively use smart contracts as their accounts.
-In practice, however, this translates to a revolution in the UX of DApps. Firstly, arbitrary verification allows users to set up an account via Google, Apple or other well-known methods.
-Secondly, account abstraction facilitates sponsored transactions, providing users with the opportunity to pay gas fees in any ERC-20 token or automatically link them to their fiat cards – no longer restricting users from maintaining a sufficient Ethereum (ETH) balance just for transactions to get through.
-Account abstraction also enables trusted session functionality for GameFi projects, meaning that it wouldn’t need to approve each in-game purchase during the play session.
-A smart contract wallet could approve certain transactions during the play session – or by any other parameters, like a fixed time, value, etc. – thus not tearing up the in-game user experience and keeping it safe.
-As such, a trusted session will not be permanent.?? Ultimately, with account abstraction, an interested gamer would download the game from the App Store, log in via Apple credentials and begin to play.
-Simple GameFi – just like that.
-Layer-three solutions and the key to zero gas
-Onboarding and wallet creation are not the only UX roadblocks for GameFi. A significant portion of challenges is caused by the gas concept itself.
-One can even observe the correlation between GameFi activity and the spikes in gas fees.
-Even if the fees are reasonably low, the very concept of paying an unpredictable extra amount is a major psychological deterrent.
-A potential way out is layer-three zero-gas solutions.
-Layer-three solutions are flexible application-specific blockchains that are built atop existing layer-two Ethereum projects.
-Following the principle of Ethereum vertical scaling, layer-three introduces even greater throughput and even lower gas fees.
-In fact, by combining it with the sponsored transactions feature of account abstraction, project owners can fully pay for their users’ commissions, enabling the first true free-to-play, play-to-earn experience.
-Alternatively, developers can support different approaches towards paying gas fees – for instance, with cheap tradable in-game items or covering all users’ gas fees as part of a premium gaming account or through in-game rewards, like those found in battle pass models or special events.
-Overall, such zero-gas solutions will create a smoother gaming process, making Web 3.0 gaming indistinguishable from the Web 2.0 experience.
-No more annoying monetary roadblocks – just you and the game.
-A technology-level enabler of UX excellence
-The UX problem in Web 3.0 and GameFi is a really sophisticated one. Had it been simple, it would have been resolved long ago.
-As the industry acknowledged the importance of UX, many roadblocks were gradually smoothened.
-Still, only with the combination of new blockchain technologies like account abstraction and layer-three do I see a new-level enabler for Web 3.0 and GameFi UX to finally become as convenient as Web 3.0.
-With most in-app actions processed off-chain, the main chain will benefit from reduced network loads and greater maximum throughput.
-At the same time, zero-gas solutions and account abstraction will reduce unnecessary onboarding and in-app interaction steps, creating the most seamless experience for the user.
-By the end of 2024, we may witness the emergence of a new generation of GameFi apps – distributed via popular app stores, linked to your preferred credentials, zero gas and with fiat withdrawals.
-Just like the good old Web 2.0 gaming – but with data ownership that pays.
-
-Yaniv Baruch is the chief operating officer at Playnance, a dedicated GameFi ecosystem running on PlayBlock, the leading gaming layer-three blockchain solution on Arbirum Orbit. Yaniv is a veteran fintech professional, starting in 2004 at RBC, and has valuable expertise in the Web 3.0 space and a broad skill set in financial markets.
- 
-Check Latest Headlines on HodlX
-Follow Us on Twitter Facebook Telegram
-
-Check out the Latest Industry Announcements  
-
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-Generated Image: Midjourney
-								
-								
-															
-
-
-						
-
-----------------
-
-Optimism to roll out new Superchain features for layer-3 devs
-
-Ethereum scaling solution provider Optimism is looking to take its blockchain throughput a step further by onboarding layer-3 applications on top of the OP Stack.On May 8, the Optimism team said that they were welcoming layer-3s to the Superchain where they can build on the OP Stack and share revenue with the Optimism Collective.The OP Stack is the open standard codebase that powers development on Superchain, but it “isn’t limited to L2 chain deployers and app builders,” said the team before adding “it can also be leveraged by an ecosystem of L3s.”Optimism Superchain is a network of layer-2 chains, known as OP Chains, which share security, communication layers, and open-source technology.Layer-3s will have access to benefits like eligibility for retro funding, airdrops, and developer grant programs, but may have limitations on certain features like interoperability, it noted. Layer-3 protocols are built on top of layer-2s to host application-specific decentralized applications, providing enhanced solutions for scaling, performance, interoperability, customization, and costs.Blockchain layers. Source: CoinGeckoThere are two key features coming to the OP Stack to support L3 builders — custom gas tokens, and “Plasma Mode.” Custom gas tokens, a highly requested feature in the final stages of development, allow developers to use a layer-2 token as the native gas token for a layer-3 protocol. This lowers onboarding costs as there is no need to perform costly transactions bringing gas tokens from L1 to L2, and then onto L3. Plasma Mode is an alternative to the data availability layer which can reduce the fixed overhead cost of operating an L3 compared to an L2. Data availability refers to the ability of network participants to access and verify the data stored on the blockchain.Related: Polygon’s ZK-rollup Ethereum scaler Miden hits testnetThe goal is to make the Optimism Superchain more accessible to developers by offering layer-3 features and functionality. However, not all are convinced that L3 is the way forward for Ethereum scaling. In April, Polygon CEO Marc Boiron argued that layer-3 networks were not necessary and could increase security risks to Ethereum by capturing value from the network. On May 9, Boiron reiterated his stance claiming that “L3s are worse than L2s,” before adding: “L2s allow you to settle back to Ethereum frequently and quickly. L3s do not. They always need to pass through their L2 overlords.” Ethereum co-founder Vitalik Buterin commented on L3s in late 2022 stating that they will serve a different purpose to scaling by providing “customized functionality.” Rollup-based Optimism, or OP Mainnet, is the second largest layer-2 network with a total value locked of $6.76 billion giving it a market share of around 18%, according to L2beat. Magazine: ZK-rollups are ‘the endgame’ for scaling blockchains: Polygon Miden founder
-
-----------------
-
-Illegal XRP Exchange Operator Jailed for 8 Years in South Korea
-
-
-                        
-                            Illegal XRP Exchange Operator Jailed for Eight Years in South Korea                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 8, 2024 23:00 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        An illegal XRP exchange operator has been sentenced to jail for eight years in South Korea after duping investors out of almost $3.4 million.The unnamed operator stole almost $2 million of the total from one individual, prosecutors explained in a trial at the Seoul High Court.
-Illegal XRP Exchange Told Customers it Had a Deal With Ripple
-The court upheld the verdict of a Seoul District Court. This court earlier sentenced the operator to 12 years in jail, Namdo Ilbo reported.However, the High Court judge ruled that the operator had taken steps to compensate one of their victims, and so reduced the sentence accordingly.The operator can now accept the verdict or appeal the judgment at the Supreme Court.The South Korean Supreme Court. (Source Pectus Solentis {Balibandi}[CC-BY-SA-2.0-kr])The High Court heard that the accused became the CEO of a “domestic cryptocurrency exchange” in 2015.The exchange “advertised” that it had “signed a formal supply agreement with” the XRP token issuer Ripple and Ripple Labs.The court heard that an individual referred to as B (for legal reasons) sent the exchange fiat worth around $2 million in 2015.The CEO told B they could pay 20% less than the market rate for the coins. However, the CEO convinced B to keep the coins on the exchange’s platform.XRP prices over the past seven days. (Source: CoinMarketCap)In 2017, the exchange told B that he could boost his XRP 2.35 million holdings to 3 million in three months. B was told they could do so by lending the coins to another victim (C).The coins were worth around $700,000 at the time, the media outlet reported.
-More Victims Fell Victim to Fraud
-The CEO also duped another investor, named D by the court. The operator, prosecution officials explained, duped D into handing over XRP coins in a loan deal.But instead of paying back this loan, the CEO traded D’s XRP for Bitcoin. He then sent the BTC to a wallet registered in his son’s name.The court said that some of the victims had “suffered enormous damage through no fault of their own.”Police were unable to recover most of the lost coins and fiat.CEO ‘Skipped Bail Before Re-arrest’
-Witnesses also testified that the CEO had tried to convince them to make “false statements” absolving him of guilt.The CEO then tried to escape justice by “requesting a postponement of the sentencing date” and “asking for time to compensate for the damage.”When judges granted his requests, he took the opportunity to skip bail and go into hiding, before he was eventually rearrested two years later.In sentencing, the presiding High Court judge said:
-“The defended has shown no signs of remorse. He has also shown serious disregard for the law, so he needs to be punished severely.”In February 2023, the CEO of a fake crypto bank was given a 10-year jail term after cheating thousands of South Korean investors out of a total of $181 million.In January 2023, the Supreme Court sent the head of V Global, another fake crypto exchange that also defrauded thousands of investors, to prison for 25 years.The head of another crypto exchange, Bitsonic, was jailed for seven years for price manipulation in February this year.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-$20M bridged ETH returns to ZKasino multisig, raising hopes for a refund
-
-More than $20 million worth of bridged Ether (ETH) has been mysteriously returned to blockchain-based gambling project ZKasino wallet — almost three weeks after users accused platform founders of an exit scam. On May 9, an X feed set up to recover funds from the ZKasino exit scam reported that almost $21 million worth of wstETH (wrapped Lido staking ETH) had returned to the project’s multisignature wallet — prompting some to believe investors may soon be getting their funds back as originally promised. “One of the three scammers just sent the funds back to the original multi-sig wallet address,” the $JAIL feed said providing proof of the transfers with Etherscan. The 6,021 wstETH moved equates to around two-thirds of the amount that went missing in the heist, prompting the question “Could they be preparing to refund the victims?”Source: $JAILZKasino launched on April 20 offering an airdrop in its native token ZKAS to those that bridged ETH to the platform, promising to return the ETH. However, the gambling project instead moved around $33 million worth of users’ bridged Ethereum to the staking protocol Lido Finance, instead of returning the funds to users as originally promised.This led to accusations of an exit scam or rug pull as more than 10,000 people had bridged assets based on pledges made by the protocol that they claim was later broken. On April 29, Dutch authorities arrested a 26-year-old man suspected of being involved in the alleged ZKasino scam.Authorities seized around $12.2 million worth of cryptocurrencies, real estate, and luxury cars from the suspect at the time. Source: ShockSome in the crypto community speculated the arrested suspect could be the project founder going under the pseudonym “Derivatives Monke” who was doxxed as Elham Nourzai by blockchain sleuths. On May 8, Cointelegraph reported that the Binance on-chain investigations team played a key role in leading law enforcement to the arrest of the suspect.Binance also assisted by freezing millions of dollars worth of stolen crypto after receiving a seizure warrant from authorities against the attacker’s accounts.Despite the arrest, illicit funds continue moving on-chain, indicating other potential attackers may remain at large. However, the latest movement of funds back to the project’s multisig has renewed hope for victims. Related: Trader loses $68M in address poisoning scamApril saw $25.7 million worth of cryptocurrency lost to scams and hacks, not including the ZKasino incident, according to figures from on-chain intelligence firm CertiK. This is the lowest historical figure since 2021 according to the firm which started tracking the data that year. Related: Lazarus Group laundered over $200M in hacked crypto since 2020
-
-----------------
-
-This Ethereum Killer Is Defying Gravity Amid Downturn In Major Crypto Prices - Are We Getting Ready For A 'Parabolic Bull Run?' - Benzinga
-
-Cardano ADA/USD, the tenth-largest cryptocurrency by market cap, defied the broader market downturn to post impressive gains in the 24-hour timeframe.What Happened: ADA spiked 4.23% in the last 24 hours to trade at $0.463 at the time of publication, according to data from Benzinga Pro. The rally made ADA the third-best-performing digital asset in the market over the last 24 hours. The outperformance helped ADA, often dubbed an Ethereum ETH/USD killer, attract eyeballs. Socially-driven engagements such as likes, comments, and reposts for the coin surged, according to social analytics firm LunarCrush. Prominent on-chain analytics firm IntoTheBlock flashed "Mostly Bullish" signal for ADA, in contrast to "Mostly Bearish" and "Mostly Neutral" signals for other blue-chip currencies. Why It Matters: ADA has seen a notable increase since the week began, climbing to $0.47 on May 6. Th uptick followed by a hypothetical proposal by Cardano founder Charles Hoskinson, asking the community's views on partnering with Bitcoin Cash. Nearly 69% of the respondents have voted in favor of the proposal as of this writing, with two days still left before the poll ends.Moreover, the community was eagerly awaiting the Chang Hard Fork, a major technical upgrade aimed at boosting the network's scalability and transaction speeds. The hard fork was tentatively slated for the second quarter. Based on historical movements, noted cryptocurrency analyst Ali Martinez had predicted a "parabolic bull run" for ADA. He said that last month's 50% price decline was a golden opportunity to stack up the asset. Photo by Dennis Diatel on ShutterstockRead Next: Dogecoin Down 6%: Time To ‘Play It Safe,’ Suggests Trader
-
-----------------
-
-White Pepe (WHPEPE) Will Surge 6,800% as MEXC Listing Announced, While Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-White Pepe (WHPEPE) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-White Pepe (WHPEPE), a new Solana memecoin that was launched this week, is poised to explode over 6,800% in price in the coming days.
-
-
-
-
-This is because WHPEPE has announced its first centralized exchange listing, which will be on MEXC.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, White Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and White Pepe could become the next viral memecoin.
-
-
-
-To buy White Pepe on Raydium or Jupiter ahead of the MEXC listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for White Pepe by entering its contract address – 58kSp6Sn8P42EdRDgud75YcvkRLnCpMxPb7MqCRHkUeG – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like WHPEPE.
-
-
-                
-
-                
-
-----------------
-
-Nifty News: 3 Bored Apes gone phishing, fantasy.top fees beat Tron and more
-
-Bored Ape owner loses 3 rare NFTs to phishing attackA phishing attacker has pilfered three rare-trait Bored Ape Yacht Club nonfungible tokens (NFTs) worth a total of around 56 Ether (ETH), or $167,500 from one unlucky holder. On-chain investigator ZachXBT first noted the transaction showing the three Bored Apes being moved out of the wallet labeled “tatis.eth” to an Etherscan-labeled known phishing wallet.The on-chain transaction shows the three Bored Apes on the move. Source: EtherscanIt’s not known exactly how the attack was carried out but the attacker wallet appears to use the wallet drainer-as-a-service Pink Drainer.Typically such phishing attacks spoof X accounts and websites of crypto projects like Bored Ape creator Yuga Labs’ aiming to pull in crypto users to connect their wallets with promises of rewards.The attacks can also be more targeted, especially toward wallets home to big-ticket NFTs or large sums of crypto. Either way, once a targeted user connects their wallet to a drainer — it’s plundered.This time, the phisher got Bored Apes #7531, #6736 and #2100 which among them have the respective rare traits of white fur which just 4% have, a small grin which 3% have, and “Bored Pizza” only seen in 0.5% of the 10,000-strong collection, according to OpenSea.Crypto influencer NFT cards “fantasy.top” beat Tron on feesNFT trading cards splattered with images of crypto influencers have made more fees than the blockchain Tron over the past week as Crypto X has seemingly piled into the buzzy project.“Fantasy.top” on Coinbase’s Ethereum layer 2 Blast launched on May 1 and over the past seven days raked in $9.3 million in fees — the fifth-most profitable crypto project and topping Tron’s $8.73 million earnings, per DefiLlama.The top 10 protocols by seven day fees. Source: DefiLlamaIn the last 24 hours fantasy.top was the seventh-most fee-earning protocol with over $924,000, below Tron’s $1.39 million. For comparison the next highest fee-earning NFT-related project was Blur at about $28,700.Fantasy.top users can trade cards of crypto personalities and those featured on the card get 1.5% of the trading volume and 10% of fees from card “packs” — multiple cards bundled together.The highest-priced NFT cards include Blast founder “Pacman.” Source: fantasy.topThe earning incentive has given influencers the push needed to plug the protocol to their followers and the shilling seems to have paid off with fantasy.top paying out a total of $1.25 million worth of ETH to card-featured influencers on May 7. Source: CirrusCryptoPunks sales saw Ethereum briefly top NFT marketEthereum was briefly back as the top NFT sales chain as trading of the blockchain’s early NFT collection CryptoPunks pulled it to the lead over the last 24 hours.CryptoPunks saw over $1.1 million in volume over seven transactions, placing it in second for sales volume for the day behind uncategorized NFT-like Bitcoin Ordinals, according to CryptoSlam!It pulled Ethereum sales volumes to over $6.7 million, just above Bitcoin which has posted consistently strong NFT sales numbers since at least March.Earlier today, Ethereum was the 24-hour leading chain for NFT sales volume. Source: CryptoSlam!Ethereum’s time at the top didn’t last. At the time of writing Bitcoin was back on top with $6.6 million in volume to Ethereum’s $6.2 — the latter seeing 24-hour sales volumes drop by nearly 14%, unable to keep pace with the growing Ordinals volume over the same time.Three of the top five most traded NFTs in the last day were Bitcoin-based, two of those saw volumes rise. Source: CryptoSlam!Sorry Ronaldo, Binance NFT holders are still allowed to “siuuu”A Miami federal judge denied soccer star Cristiano Ronaldo’s motion to dismiss a $1 billion class-action suit over his Binance-tied NFTs. In a May 4 order, Florida District Court Judge Roy Altman granted the class group’s request to stay the trial and flatly denied Ronaldo’s April 25 bid to toss the suit.The full text of Judge Altman’s paperless order. Source: CourtListenerA group of Binance users hit Ronaldo with the suit in November, alleging they took losses on “unregistered securities” featured on Binance because he promoted the exchange.Related: Blockchain education initiatives take off amid crypto bull marketRonaldo had three Binance-tied NFT collections and the suit claimed those who signed up to the exchange to nab them were likely to hang around and use Binance for crypto investing.In his dismissal bid, Ronaldo’s lawyers argued he had nothing to do with what the suit claimed Binance did and the American-based complaint had no sway over the Portuguese-born resident of Saudi Arabia.Other newsDonald Trump hosted a dinner for holders of his NFTs at his residence in Florida in his time off court where he’s charged with faking business records to pay $130,000 to porn star Stormy Daniels to keep quiet about an alleged affair.NFT conglomerate Yuga Labs last month initiated a round of layoffs as it restructured to focus more on its long-in-development Otherside metaverse.NFT Collector, DCinvestor: Is this the best NFT collection in the world?
-
-----------------
-
-Donald Trump Calls to End Crypto Hostility in America
-
-
-                        
-                            Donald Trump Calls to End Crypto Hostility in America, Advocates for Inclusion                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 9, 2024 00:26 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Donald Trump, former US President and current presidential candidate, on Wednesday hosted a special event at his Mar-a-Lago resort in Florida for NFT owners, where he voiced his support for crypto.The presumptive Republican presidential candidate held the event for fans who purchased at least 47 of his NFTs, each costing $99.During a Q&A session, he agreed with a participant who said many cryptocurrency businesses are leaving the country “because of the hostility.” He likely pointed to the Securities and Exchange Commission’s recent enforcement actions against crypto companies, including industry leaders Binance and Coinbase, for allegedly offering unregistered securities.“Well, we’ll stop it because I don’t want that,” he said. “If we’re going to embrace it, we have to let them be.”Trump Questions Biden’s Understanding of Crypto
-He also took a jab at incumbent president Joe Biden, suggesting he doesn’t understand cryptocurrency at all. He further criticized the Democrats, claiming they strongly oppose crypto.“I’m fine with it. I want to make sure it’s good and solid and everything else, but I’m good with it,” he added. “And if you like crypto in any form — it comes in a lot of different forms — if you’re in favour of crypto, you better vote for Trump.”Meanwhile, the government, under current president Biden, wants stricter rules for the industry.
-StanChart Predicts Trump Win Could Boost Cryptocurrency Market
-Earlier, Donald Trump was an outspoken critic of Bitcoin and other cryptocurrencies, repeatedly voicing concerns about the assets. In July 2019, he showed his disapproval, calling them “not money” and criticizing their volatility and lack of underlying value. He further argued that these assets can be used for illegal activities like drug trafficking.Despite this, the leading Republican candidate has touted a pro-crypto stance during his election campaign. In January, he pledged to prevent establishing a Central Bank Digital Currency (CBDC) if elected President in November, citing a desire to safeguard Americans from government overreach.“Such a currency would give the federal government absolute control over your money. They could take your money, and you wouldn’t even know it was gone,” he said.This week, StanChart analyst Geoff Kendrick suggested that cryptocurrencies could benefit from a second term for Trump. He argued that under a renewed Trump administration, there could be a generally favorable impact due to a more supportive regulatory climate.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-3 memorable moments from Donald Trump’s ‘Mugshot’ NFT event
-
-Former United States President Donald Trump made more than a few memorable quotes as he hosted a gaggle of nonfungible token (NFT) enthusiasts at his Florida home on Wednesday. Other than vowing to keep crypto entrepreneurs in the United States, Trump also took partial credit for making “NFTs hot again” thanks to his sizeable collection and even dissed a political rival’s inspired memecoin — inadvertently causing its price to surge. Countless clips of his most memorable lines surfaced on X on May 8, including: On crypto: “I’m good with it”One of the first clips to make the rounds on social media included Trump vowing to provide a better regulatory environment for crypto businesses and entrepreneurs by removing the “hostility” toward crypto — which he suggests is brought about by the Biden administration and the Securities and Exchange Commission.
-
-
-“Gensler is very much against it. The Democrats are very much against it [but] I’m fine with it, I want to make sure it’s good and solid and everything else, but I’m good with it.”When asked what he would do to remove that hostility and keep innovators in the United States by NFT enthusiast “Malcolm,” Trump responded:“We’ll stop it because I don’t want that, I don’t want that. If we’re going to embrace it we have to let them be here.”On NFTs: “We made NFTs hot again”Trump also claimed that his Mugshot NFTs and other collections “made NFTs hot again” at a time when the NFT market seemingly lost its steam — which received an uproar of cheer from attendees.Most attendees had to purchase one of Trump’s Mugshots NFTs for $4,653 or more to be invited to the dinner event.Source: Donald TrumpTrump NFT Cards, POTUS and Melania Trump’s 1776 collection are among the other digital art collectibles linked to Donald Trump’s name.On BODEN: “That’s a lotta money for a coin”To no one’s surprise, Trump isn’t a fan of the Joe Biden-linked Jeo Boden (BODEN) meme coin, which currently boasts a market capitalization of over $260 million.“That’s a lotta, money for a coin, I don’t like that investment,” he said.BODEN spiked more than 10% shortly after his comments were shared on X.But another meme coin based loosely on Trump,Donald Tremp (TREMP), took the cake, skyrocketing nearly 110% over the same timeframe.The multibillionaire also poked fun at his political rival in a separate comment, mockingly suggesting he “has no idea” what crypto is.“If you’re in favor of crypto, you better vote for Trump.”
-
-
-Trump previously referred to Bitcoin (BTC) as a scam in 2021 but has begun to embrace it and the broader industry in recent months. However, he still has a strong preference for maintaining the U.S. dollar’s dominance under the traditional banking system. Trump also recently said he would never allow for the creation of a central bank digital currency under his watch.Related: Former US President Donald Trump launches ‘MugShot’-themed NFT dropThe mugshot NFT came about after Trump surrendered himself to authorities in Georgia in August, 2023, where he was indicted on charges related to attempts to overturn the 2020 election.He must attend his criminal trial for falsifying business documents for a $130,000 payment to adult film star Stormy Daniels — separate from the charges he faces in Georgia, Florida and the District of Columbia. Trump has been in a New York courtroom on trial days since jury selection started on April 15. However, the court is not in session on Wednesdays, so he took the opportunity to fly down to his Florida residence on May 8 to host the event.Magazine: What do crypto market makers actually do? Liquidity, or manipulation
-
-
-
-----------------
-
-Biden Administration Warns Against Overturning SEC Crypto Rule
-
-
-The US House of Representatives has taken a significant step toward reshaping the regulation of digital assets by passing Representative Mike Flood’s bipartisan resolution, H.J.Res. 109, on May 8. This resolution seeks to overturn the Securities and Exchange Commission’s (SEC) Staff Accounting Bulletin (SAB) 121, which has been a point of contention within the financial and crypto communities.
-Advocates for the bill argue that the SEC’s rule burdens financial institutions. They say it makes serving as custodians of digital assets too expensive.
-Legislative Support vs. Presidential Veto: The Battle Over SAB 121
-Under SAB 121, issued in March 2022, financial institutions must include customers’ digital assets on their balance sheets. Critics argue this accounting requirement causes significant operational and financial challenges. These challenges affect firms that custody cryptocurrencies and other digital assets.
-By overturning SAB 121, supporters of H.J.Res. 109 believe it will remove regulatory barriers. This, in turn, will facilitate safer and more efficient digital asset transactions through regulated banks and financial institutions. Congressman Patrick McHenry highlighted the practical implications of SAB 121.
-
-“If you want American assets to be protected, they should be held in custody, not on the bank’s balance sheet. […] And finally, if you want to send a message that rogue regulators cannot circumvent Congress in our well-established rule-making process, vote yes,” Congressman McHenry said.
-
-Read more: How Does Regulation Impact Crypto Marketing? A Complete Guide
-
-
-VIDEO
-
-The resolution has garnered support from various sectors of the industry and legislators who believe that the SEC’s rule represents an overreach of regulatory powers. This sentiment is echoed by House Majority Whip Tom Emmer, who emphasized the nonpartisan nature of digital asset innovation.
-
-“We must work that way in Congress to ensure the digital asset ecosystem can thrive here in the United States,” Emmer affirmed.
-
-However, the opposition to this resolution comes from the highest levels of government, including the President Joe Biden administration. They argue that overturning SAB 121 would weaken the SEC’s ability to protect investors and the broader financial system from the risks associated with crypto assets.
-
-“Limiting the SEC’s ability to maintain a comprehensive and effective financial regulatory framework for crypto-assets would introduce substantial financial instability and market uncertainty. If the President were presented with H.J. Res. 109, he would veto it,” The White House stated.
-
-Lawmakers Critique SEC’s Crypto Crackdown
-Criticism of the SEC’s recent actions extends to its handling of major crypto platforms. For instance, the SEC’s issuance of Wells Notices to platforms like Robinhood has been portrayed by some lawmakers as an overextension of its regulatory mandate. US Representative John Rose argued that such actions exceed the SEC’s role to maintain orderly markets and protect investors.
-
-
-“The SEC exceeded its mandate to protect investors and maintain fair, orderly markets by issuing a Wells Notice to Robinhood, a precursor to enforcement action. I’m proud to help lead the effort to provide clarity by passing the FIT for the 21st Century Act so that rogue regulators like Gary Gensler can focus on their mandate to protect investors and not disrupt innovation,” Congressman Rose said.
-
-SEC Chairman Gary Gensler defended his strict regulatory approach in a CNBC interview. He aims to bring the crypto sector under tighter control.
-Gensler spoke about the SEC’s oversight of a $110 trillion capital market. He views cryptocurrencies as prone to scams and fraud.
-However, Gensler was reluctant to question whether Ethereum (ETH) is a commodity or security. Instead, he focuses on the lack of necessary investor disclosures and criticizes intermediaries’ practices in the centralized crypto markets.
-
-SEC Commissioner Mark Uyeda critiqued this stance. FOX journalist Eleanor Terrett reported that Uyeda emphasized the need for a regulatory framework that accommodates innovation.
-
-Read more: What Does It Mean To Receive a Wells Notice From the SEC?
-
-“While the easiest regulatory response to crypto and digital asset innovation is to use bad actors as an excuse to ‘shut it all down’, regulators should be creating a pathway to compliance for legitimate efforts. The SEC has yet to develop that pathway,” Uyeda explained.
-
-As H.J.Res. 109 moves to the Senate, the implications of its potential approval loom large over the regulatory environment of digital assets. This highlights the ongoing debate between regulation and innovation in the crypto sector.
-
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Coincheck's Nasdaq Listing Set for Completion Between Q2 and Q3 - Coin Edition
-
-
-							
-
-Coincheck plans to merge with Thunder Bridge Capital Partners IV, Inc. (THCP).
-
-
-
-The merger, pending regulatory approvals, is expected to finalize in Q3-Q4 2024.
-
-
-
-Despite a 2023 setback delaying its listing, Coincheck pursues global expansion via this strategic merger with THCP.
-
-
-
-
-Japan-based cryptocurrency exchange Coincheck is teaming up with Thunder Bridge Capital Partners IV, Inc. (THCP), a Special Purpose Acquisition Company (SPAC) listed on Nasdaq. This proposed merger will see Coincheck listed as a publicly traded entity on the Nasdaq Global Select Market under the “CNCK” ticker.
-
-
-
-In a recent statement, THCP confirmed that it had tendered a registration statement to the U.S. Securities and Exchange Commission (SEC) for the partnership with Coincheck. The filling, put forward by Coincheck Group B.V., covers the business details and timeframe for completion.
-
-
-
-In the meantime, Coincheck’s collaboration with SPAC is set to be finalized between Q3 and Q4 of 2024. The proposed merger is subject to regulatory approvals and other closing clauses. 
-
-
-
-Once finalized, Coincheck Group B.V. will be renamed Coincheck Group N.V. This will make the company a publicly traded holding company headquartered in the Netherlands, with Coincheck operating as its wholly-owned subsidiary.
-
-
-
-
-
-
-
-
-
-Coincheck is a digital exchange platform boasting a market share of over 1.98 million accounts. At the same time, Thunder Bridge Capital Partners IV is an SPAC specializing in mergers and acquisitions within the financial sector. As such, this initiative signals Coincheck’s goal of expanding its global presence and tapping into the Nasdaq market.
-
-
-
-In 2023, Coincheck saw a setback when its parent company, Monex Group, announced a one-year postponement in its public listing. Initially billed for completion by July 2, 2023, the anticipated union was rescheduled to July 2, 2024.
-
-
-
-This pause was verified by Monex Group in June 2023, which confirmed an amendment to the SPAC’s certificate of incorporation during a shareholders’ meeting. Even though the reasons for the delay were undisclosed, opinions arose regarding potential hurdles in securing shareholder endorsement. This pause was the second instance Coincheck’s Nasdaq listing was postponed.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-US House Proposes Bill to Ban Crypto Mixers for Two Years
-
-
-                        
-                            US House Proposes Bill to Ban Cryptocurrency Mixers for Two Years                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 9, 2024 00:10 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Democratic representatives have introduced the US Blockchain Integrity Act to tighten regulations in the cryptocurrency sphere. The act aims to crack down on cryptocurrency mixers, often utilized for illicit financial activities. Led by Sean Casten and supported by fellow Democrats, the proposed bill seeks to enact a two-year ban on cryptocurrency mixers.US Lawmakers Look to Ban Crypto MixersA crypto mixer serves as a pool, enabling users to generate new addresses and withdraw funds without disclosing the connection between the depositor and withdrawal addresses. This opacity poses a significant challenge for law enforcement agencies, hindering efforts to track fund origins and destinations and creating an avenue for unlawful activities.The proposed legislation aims to disrupt the flow of illicit funds and promote transparency by prohibiting financial institutions, cryptocurrency exchanges, and registered money service businesses from accepting funds processed through a mixer. Violations of this ban would incur civil penalties of up to $100,000, serving as a deterrent against facilitating mixer-related transactions.Additionally, the bill mandates that the Treasury Department compile a comprehensive report during the ban period evaluating various aspects of mixer transactions, including involvement in illicit finance, legitimate use cases, law enforcement capabilities, and regulatory approaches in other jurisdictions. Cryptocurrency mixers have emerged as a focal point due to their role in obscuring transaction trails and enabling user anonymity, prompting alarm among law enforcement agencies regarding their exploitation by criminals for money laundering and terrorist financing.However, the proposed ban faces political challenges, particularly within the Republican-majority House, where its passage remains uncertain. While Democrats advocate for the initiative as a necessary measure to combat illicit finance, Republicans express concerns about stifling innovation and the need for balanced regulatory oversight.Beyond legislative efforts, US authorities have previously taken action against cryptocurrency mixers, exemplified by the Treasury’s targeting of mixer service Tornado Cash and legal actions against mixer developers for money laundering and sanctions violations.Moreover, lawmakers have raised apprehensions regarding offshore-issued stablecoins like Tether, citing potential links to illicit finance. Stablecoins pegged to fiat currencies and have gained traction for facilitating transactions within the cryptocurrency ecosystem, prompting scrutiny over issuer transparency and regulatory oversight.
-Crypto Mixer As a Safe Tool For Bad ActorsThe Poloniex hacker, notorious for the exchange’s security breach last year, recently funneled $3.4 million worth of Ethereum through the Tornado Cash mixer to launder the stolen funds. A report from blockchain intelligence firm Chainalysis reveals a surge in the popularity of crypto mixers in 2022, with these services receiving more cryptocurrency than ever before. According to the report, illicit addresses accounted for 23% of the funds sent to mixers in 2023, a significant increase from 12% in 2021. The rise in mixer usage is attributed to a doubling of the share of funds deemed illicit, which now represents the main driver for the uptick in mixer activity.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
 Crypto Prices May 9: Prices Dip as Big Data Looms Large
 
 
@@ -9215,3 +8785,589 @@ Bitcoin was trading at $62,623 at press time, reflecting a 1.85% surge over the 
         
 
         
+
+----------------
+
+Crypto Presidential Rally: TRUMP Soars 36.2% And Flips BODEN
+
+
+																In a year full of global elections, the crypto industry remains expectant and critical of every candidate’s stance on cryptocurrencies. The US presidential elections could pose a turning point for regulations and adoption that could affect the industry worldwide. 
+On Wednesday, Donald Trump, former US president and Republican candidate, stated his support for the industry and criticized Biden’s administration for its stance on digital assets. MAGA (TRUMP), the Trump-inspired memecoin, saw its price skyrocket  63% in the following hours.
+
+	Related Reading
+
+
+
+Trump’s Stance On Crypto 
+The Republican candidate held a gathering on Wednesday at his Mar-a-Lago resort in Palm Beach, Florida. Holders of NFTs bearing Trump’s name and likeness attended the Trump Cards NFT Gala. 
+During this event, the former US president strongly criticized Biden’s administration and its hostility towards the sector. He revealed he is “fine” with crypto and wants to make it a “solid” industry.
+Trump claimed he’s the best option for those who are in favor of cryptocurrencies:
+
+(…) I’m fine with it. I want to make sure it’s good and solid and everything else. But I’m good with it. And if you want, if you like crypto in any form, and it comes in a lot of different forms, if you’re in favor of crypto, you better vote for me.
+
+Moreover, the Republican candidate asserted that “crypto is moving out of the US because of the hostility towards it,” something he alleges he doesn’t want to continue and promises to stop.
+
+
+When asked what he would do to stop the exodus of digital asset businesses, he stated that to embrace them, they would have to let them be in the country. To achieve this, the candidate promised a more welcoming regulatory framework for crypto. 
+As part of his jab at the current administration, Trump mimicked US President Joe Biden, claiming he would be clueless if asked about cryptocurrencies. He further added, “The Democrats are very much against it.”
+TRUMP Flips BODEN As Price Soars 
+After Trump’s declarations, two memecoins inspired by the politicians saw a price reaction. Jeo Boden (BODEN) soared 23.5% in the following hour, going from $0.34 to $0.42. 
+Since then, the price has retraced to hover between the $0.35-$0.36 range. BODEN is trading at $0.3492, representing a 15.1% increase in the last 24 hours. 
+The token’s daily trading volume also saw a significant 35.7% surge, with over $20 million traded in the past day. Despite benefiting from the Republican candidate’s jab at its inspiration, BODEN Still displays red numbers in the longer timeframes, with a 29.9% and 59.8%  weekly and monthly decrease.
+
+
+As a result, TRUMP’s $252 million market capitalization flipped BODEN’s $239 million. The Trump-inspired token became the 14th largest memecoin by market capitalization, per CoinGecko data. 
+
+	Related Reading
+
+
+
+Moreover, TRUMP seemingly won this round with crypto investors, which rallied 63% after Trump’s statement. The token surged from $4.2 to $7.1 in the following hours before retracing to the $5.3 level.
+TRUMP trades at $5.43 at the time of writing, representing a 36.2% increase in the last 24 hours.
+
+TRUMP's performance in the 1-week chart. Source: TRUMPUSDT on TradingView
+Featured Image from Unsplash.com, Chart from TradingView.com
+																								
+															
+
+
+						
+
+----------------
+
+Diving into Bitcoin whale activity: 15K BTC snapped up in 2 days - AMBCrypto
+
+
+
+A cohort of BTC whales have continued to fill their bags.
+This has happened despite the coin’s recent price action.
+
+Bitcoin [BTC] whales have intensified accumulation despite the coin’s recent decline below $62,000. 
+According to on-chain data provider Santiment, BTC whales holding between 1000 and 10,000 coins accumulated 15,121 BTC valued at $930 million between the 7th and the 8th of May.
+ This pushed the cohort’s total BTC holding to its highest level in 14 days.
+
+
+At press time, this group of BTC investors held 38% of the coin’s circulating supply of 20 million BTC. 
+BTC has the bears to contend with
+At press time, BTC exchanged hands at $61,621. The coin recently crossed below its 20-day simple moving average (SMA), putting it at risk of a further decline in the short term. 
+When an asset’s price falls below its 20-day SMA, it suggests that the short-term trend for the asset is downward. 
+Market participants often view this as a sign that sellers are in control and that the asset’s price will likely continue declining.
+Readings from BTC’s price movement on a 1-day chart showed that its price fell below its 20-day SMA on the 7th of May and has since witnessed a 3% decline in its value.
+Further, the coin has seen a decline in demand among general market participants. An assessment of its key momentum indicators showed them below their respective center lines at press time.
+For example, the coin’s Relative Strength Index (RSI) was 44.12, while its Money Flow Index (MFI) was 23.21. At these values, the indicators showed significant bearish pressure in the market.
+Likewise, as of this writing, the coin’s Chaikin Money Flow (CMF) was poised to cross below the zero line. This indicator measures the money flow into and out of the coin’s market. 
+A CMF value below zero indicates market weakness, suggesting increased liquidity exit. 
+Source: BTC/USDT on TradingView
+If the bears strengthen their position, they may pull the coin’s price down to the support line of BTC’s descending channel pattern.
+
+Read Bitcoin’s [BTC] Price Prediction 2024-25
+
+ If this happens, the leading cryptocurrency asset will exchange hands at the $57,000 price region. 
+However, if this bearish projection is invalidated as bullish activity gains momentum, BTC’s price may rally toward the pattern’s resistance line and attempt a crossover.
+
+
+
+
+
+
+----------------
+
+CZ hits back at WSJ, Hong Kong crypto ETF’s take ‘$50B equivalent’: Asia Express
+
+
+            
+Our weekly roundup of news from East Asia curates the industry’s most important developments.
+
+
+
+Binance is under scrutiny yet again 
+
+
+
+Cryptocurrency exchange Binance has been accused of firing its own investigators after discovering that its VIP client, props trading firm DWF Labs, engaged in alleged acts of market manipulation. 
+
+
+
+A May 9 Wall Street Journal report claimed that DWF Labs engaged in market manipulation, wash trading, and inflated trading volumes amounting to $300 million through deals with crypto projects. After the exchange’s surveillance team recommended offboarding the client, Binance allegedly sided with DWF Labs and fired the investigator, arguing insufficient evidence for the claim.
+
+
+
+DWF Labs co-founder Andrei Grachev. (X)
+
+
+
+Binance has denied involvement. “We affirm our strict market surveillance program. We do not tolerate market abuse,” said the exchange in a tweet. “Market maker competition is fierce and our investigation team’s job is to be neutral and look at the evidence without any bias, including bias that might come from market-making firms’ claims against their competitors.”  
+
+
+
+According to the exchange, its staff has offboarded 355,000 users with a transaction volume of $2.5 trillion for violating its terms of use in the past three years. 
+
+
+
+DWF Labs, too, has denied the allegations. “We want to clarify that many recent allegations reported in the press are unfounded and distort the facts,” they said. “DWF Labs operates with the highest standards of integrity, transparency, and ethics, and we remain committed to supporting you and our over 700 partners across the crypto ecosystem.”
+
+
+
+Binance’s co-founder and spouse of its co-founder and former CEO Changpeng Zhao, penned a response dripping in irony, writing: 
+
+
+
+
+“I am very grateful to the WSJ for their consistent and long-term devotion to Binance, which has greatly increased our exposure and saved us a lot of marketing budget. However, I have noticed an interesting phenomenon where some mainstream media articles are increasingly driven by emotions and biases rather than facts. For example, the complaints of former employees can become the basis of an article, while Binance’s proactive assistance to law enforcement agencies in investigating and apprehending the mastermind behind Zkasino (as a matter of fact) is not deemed worthy of reporting.” 
+
+
+
+
+DWF Labs is a prominent trading firm in the crypto industry. Founded by Andrei Grachev in 2021, the firm invests in promising projects and provides long-term financial support to them, as stated on its website. 
+
+
+
+
+
+
+Thailand Web3 Music Festival concludes 
+
+
+
+Music idol protocol Fansland’s music festival in Bangkok, Thailand attracted over 30,000 festival go-ers from May 4 to 5. 
+
+
+
+The Web3 aspect was perhaps of less appeal than a performance by South Korean pop star PSY, the creator of “Gangnam Style.” More than 20 other artists graced the stage, including renowned Cantonese Hip-Hop artist Edison Chen, powerhouse vocalists Henry Lau, Gen1es, BKPP, Chanyeol, BUS, Dreamnote, Pretzelle, Sistar19, Taemin, and 24kGoldn. “Their electrifying performances set the stage ablaze, creating an atmosphere of pure excitement and energy that left the audience in awe,” organizers breathlessly reported. 
+
+
+
+
+
+
+
+In addition to human performances, the festival featured tokenized music products and AI-generated music idols. 
+
+
+
+The festival featured a unique NFT ticketing system where tickets were minted as NFTs on Fansland and became tradable on secondary markets. The tickets can also be used as an access point to interact with Fansland DeFi. 
+
+
+
+The first batch of NFT ticket holders for this music festival automatically became early participants in Fansland.AI, unlocking perks such as token airdrops and future whitelist qualifications. 
+
+
+
+Fansland aims to create a decentralized fan economy infrastructure so that global music lovers can interact with their singers and idols. It focuses on Web3 music festivals, NFT ticketing, and real-world asset DeFi. Last month, Fansland secured a $10 million funding round led by IME, Linear Capital, and Falablock. 
+
+
+
+The debut of the Fansland music festival in Bangkok. 
+
+
+
+
+
+
+Hong Kong ETFs attract $317M, but can it last?
+
+
+
+The total assets under management of six Hong Kong spot Bitcoin and Ether ETFs have surpassed $317.4 million since their inception on April 30. 
+
+
+
+Data from local crypto exchange OSL, which also serves as the trading platform and sub-custodian for a few of the aforementioned ETFs, show that a combined 2,079.42 Bitcoin (BTC) and 396.79 Ether (ETH) have flowed in. 
+
+
+
+“Together, we have addressed some of the most intricate challenges of our industry —regulated digital asset custody, ensuring stable liquidity, and bridging traditional financial markets with the speed of on/off-chain operations,” commented Patrick Pan, CEO of OSL. 
+
+
+
+The Hong Kong spot crypto ETFs are denominated in three fiat currencies and allow investors to subscribe and redeem ETF units in both crypto and fiat. However, it appears that the vast majority of assets managed by the ETFs — well over $200 million, were subscribed prior to their listing. 
+
+
+
+As per data compiled by Farside Investors, total asset flow into the six ETFs has amounted to just $24.7 million since April 30, a mere fraction of the tens of billions of dollars that went into U.S. spot Bitcoin ETFs in their first week of launch. 
+
+
+
+Nevertheless, many industry veterans remain optimistic
+
+
+
+“The HK ETFs at $310m is equiv to $50b in US market,” said senior Bloomberg ETF analyst Eric Balchunas on April 6, in reference to the Hong Kong market’s relative size and liquidity compared to the United States. “So in that regard these ETFs already as big to their local mkt as US ones are to its.”
+
+
+
+ApolloSats co-founder Thomas Fahrer claimed “rumors are swirling of a pending approval into Hong Kong Stock Connect which would allow Mainland Chinese to invest and could ignite this market.” However these are merely rumors and mainland Chinese investors are currently prohibited from accessing the Hong Kong crypto ETFs, barring a population of over 1 billion from entering the space. 
+
+
+
+Despite high hopes, the Hong Kong crypto ETFs did not attract as many assets as expected. 
+
+
+
+$128 million pledged for Hong Kong crypto ETF liquidity fund 
+
+
+
+Market makers remain bullish on the prospects of the Hong Kong ETFs. 
+
+
+
+On May 8, digital asset managers LD Capital, Antalpha Ventures, and Highblock pledged a total of $128 million “to provide market-making services to Hong Kong ETFs, aimed at enhancing liquidity, improving the efficiency of capital flows, and reducing the risks associated with liquidity fluctuations and transactional volatility.”
+
+
+
+LD Capital is a digital asset fund with a focus on primary and secondary blockchain investments, with over 300 blockchain enterprises in its portfolio. Antalpha Ventures is a financial services platform affiliated with Bitmain, a major manufacturer of Bitcoin mining ASICs. 
+
+
+
+Highblock Limited, which was established by former executives from major international digital asset trading platforms, has more than ten years of experience in blockchain quantitative trading. The company is licensed for digital asset quantitative trading in Hong Kong and provides quantitative trading and investment portfolio management services in the digital asset sector.
+
+
+
+The liquidity addition may be significant as due to liquidity restraints in the Hong Kong market and ongoing market downturn in China, the six spot crypto ETFs only saw trading volume of around $100 million on day one. 
+
+
+
+
+    Subscribe
+    The most engaging reads in blockchain. Delivered once a
+        week.
+        
+
+
+
+
+
+                        
+
+            
+		
+			
+			
+				Zhiyuan Sun
+				Zhiyuan Sun is a journalist at Cointelegraph focusing on technology-related news. He has several years of experience writing for major financial media outlets such as The Motley Fool, Nasdaq.com and Seeking Alpha.
+				
+									
+			
+
+		
+		
+                                
+                        Read also
+                        
+                            
+                                 
+                
+                
+        Hodler's Digest SEC ‘backed into a corner,’ IRS tracks crypto trades, and Mickey Mouse NFTs: Hodler’s Digest, Dec 31 – Jan 6
+    
+    
+        by	
+        Editorial Staff
+        7 min
+        January 6, 2024
+    
+    
+        The SEC is backed into a corner on Bitcoin ETF approval, the IRS has new rules for crypto transactions in 2024, and the original version of the Mickey Mouse mascot trends as NFT. 
+        Read more
+    
+ 
+                
+                
+        Hodler's Digest Binance removes 3 stablecoins, Russia eyes cross-border crypto payments and UK exudes crypto positivity: Hodler’s Digest, Sept. 4-10
+    
+    
+        by	
+        Editorial Staff
+        7 min
+        September 10, 2022
+    
+    
+        The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more — one week on Cointelegraph in one link!
+        Read more
+    
+                            
+                        
+                    
+                    
+            
+
+            
+
+----------------
+
+Win $SAND and NFTs in 'The Voice' Experience in The Sandbox | Cryptopolitan
+
+NBC Hit Show, The Voice just launched ‘The Voice Coach Battle experience‘ in The Sandbox giving participants an exciting opportunity to win exclusive NFTs and $SAND tokens out of a prize pool of 15,000 SAND. Along with that, players from select countries can also win tickets to watch The Voice live.
+What’s the impact of this collaboration between The Sandbox and The Voice? Well, The Voice is a hit show with a large fanbase, most of which certainly isn’t well-acquainted with Web3 yet. Experiences like these in a blockchain metaverse like The Sandbox can drive a lot of visibility and attention towards Web3, and in particular, blockchain games.Regarding this collaboration, the CEO of Virtual Band Group, Justin W. Hochberg stated, “The future of entertainment is here now with new ways to unite and delight The Voice fans globally.”At the same time, Arthur Madrid, the co-founder and CEO of The Sandbox also signaled his excitement, as he stated, “The Sandbox is a hub for creativity, discovery, and self-expression, naturally making it the perfect venue for The Voice.”How to win NFTs and $SAND by participating in The Voice Coach Battle?The goal of this experience is to put the players at the place of the coaches in The Voice, live. There’s a shared pool of 15,000 SAND to be distributed among the participants who complete all the quests of this experience.Participants can also vote and predict for performers advancements in the on-going season 25 of The Voice, and if their predictions come true, they will win an exclusive The Voice NFT.Voting for real-life The Voice performers in The Sandbox (Source: The Sandbox X account)Those who complete the whole experience and fill out an online form will get the chance to win tickets to see The Voice live. However, this applies to select countries only.Overall, this is a good opportunity to players, and especially the fans of voice to put their enthusiasm to good use, and win amazing rewards.What are the requirements to earn rewards?  Firstly, you need only 18 EP to complete the event. Other than that, you need to complete all the quests in order to receive $SAND reward and the chance to win live tickets. At the same time, you will get a digital memorabilia only if you complete at least one quest. Also, it is necessary to have a KYC-verified account.
+
+
+----------------
+
+Ghana Merges Tradition and Technology with NFT Stamp Collection
+
+
+                        
+                            Ghana Merges Tradition and Technology with NFT Stamp Collection                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 9, 2024 18:43 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        To commemorate the 25th anniversary of His Majesty Otumfuo Osei Tutu II’s reign, Ghana Post launched a collection of “Crypto stamps” linked to non-fungible tokens (NFTs) on May 9. The initiative blends Ghanaian cultural heritage with cutting-edge blockchain technology, offering a unique way to celebrate the King’s Silver Jubilee.
+Ghana NFT Stamps: Bridging Tradition and Technology
+These limited-edition Ghana Crypto Stamps, priced at $18 (250 Ghanaian cedi) each, are linked to unique NFTs, verifiable on the blockchain, providing collectors with proof of ownership and authenticity. Only 7,200 Crypto Stamps are available, making them potentially valuable collectible for collectors and technology enthusiasts.The integration of NFTs ensures the security and transparency of the Ghana crypto stamp collection. By using blockchain technology, collectors can verify the authenticity of their stamps through a simple smartphone scan, generating a unique authentication message for each scan. This process effectively combats counterfeiting and safeguards the integrity of each collectible.With the release of these NFTs, Ghana has become the first African country to release a commemorative stamp collection on the blockchain.
+African Adoption of Cryptocurrency
+Ghana’s foray into NFT stamps reflects a growing adoption of cryptocurrency and blockchain technology across Africa.The South African Reserve Bank recently announced plans to regulate and integrate cryptocurrency and central bank digital currency (CBDC) into its financial system. This initiative seeks to modernize payment infrastructure, enhance access to financial technology, and ultimately benefit the local economy. While the South African plan focuses on the domestic market, it underscores the continent’s increasing openness to embracing digital currencies.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Grayscale's Quarterly Revenue Stays Flat After Massive Bitcoin Outflows
+
+
+                        
+                            Grayscale’s Quarterly Revenue Stays Flat After Massive Bitcoin Outflows                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 9, 2024 18:43 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+Source: DALL·E
+                        Grayscale, the company behind the world’s largest Bitcoin (BTC) ETF, saw flat revenues in Q1 despite non-stop outflows from its world-famous fund throughout the quarter.
+Grayscale’s Bitcoin: Outflows VS Revenue
+Per a shareholder letter from Grayscale’s parent company Digital Currency Group (DCG), the Grayscale Bitcoin Trust (GBTC) netted $156 million between January and March – nearly identical to its Q4 2023 figure.As usual, this comprised most of DCG’s total $229 million revenue, up 11% from the prior quarter. The conglomerate’s gains were primarily driven by its mining pool giant Foundry and investment platform Luno, up 35% and 46% respectively.
+“While Grayscale expected outflows alongside increased competition under the ETF wrapper, Q1 revenue attributable to GBTC nevertheless exceeded our expectations,” read the shareholder letter.
+Upon converting into a Bitcoin spot ETF on January 11, GBTC lowered its long-standing management fee from 2% to 1.5%, following through on a promise to cut charges for critical investors who often labeled the fund as “exploitative.”However, most of Grayscale’s competitors who launched alongside them that day sported ultra-low fees of 0.3% or lower, including funds launched by recognizable names like BlackRock and Fidelity.As such, new and prospective Bitcoin ETF buyers had no incentive to invest through Grayscale, leaving little to no demand/inflows to counterbalance regular outflows from the fund.Such outflows have been seismic, to be sure: the fund now only controls 291,790 BTC, less than the 619,000 BTC it held as of January 10.As explained by market analysts at Glassnode, Grayscale’s investor base mostly represents long-term holders who have chosen to sell their Bitcoin at a profit as the asset’s price climbed.Last week, the fund experienced its first net inflow day since January 11.Losing Bitcoin ETF Market Share
+That said, thanks to the value of its existing BTC rising over the past quarter, the company’s assets under management (AUM) has suffered less, falling from $30 billion to $18 billion.BlackRock’s iShares Bitcoin Trust (IBIT) has nearly caught up to GBTC in size, controlling 273,25 BTC as of May 8, according to on-chain data.On a yearly basis, DCG’s revenue rose 51% compared to Q1 2023. Meanwhile, Bitcoin’s price has risen 125% since this time last year.Regulators are currently reviewing an application for Grayscale to launch an Ether (ETH) spot ETF, though analysts don’t like their odds of approval. The company recently rescinded its application to launch an Ether futures ETF.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Binance Fined $4.3M in Canada as Global Regulators Circle - DailyCoin
+
+
+        
+Binance has been slapped with a multi-million dollar fine in Canada.
+
+
+
+The fine comes about a year after the firm left the jurisdiction.
+
+
+
+The firm is also under scrutiny in several other jurisdictions.
+Binance, the world’s largest crypto exchange by market capitalization, can not seem to catch a break.The crypto exchange’s years of operating in the gray area and eschewing traditional corporate practices appear to be catching up with it. In November 2023, the exchange was slapped with $4.3 billion in fines from the U.S. Department of Justice (DOJ)  for money laundering violations.
+Now, the firm has been slapped with another fine, this time in Canada for similar violations.Binance Slapped With $4.3M FineIn a press statement on Thursday, May 7, the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) disclosed that it had imposed an “administrative monetary penalty” of $6 million CAD or about $4.3 million USD on Binance for failing to comply with anti-money laundering and counter-terrorism financing rules.According to the regulator, the crypto exchange failed to report transactions over $10,000 on the exchange. The fine comes nearly a year after the exchange disclosed that it was closing shop in the country, citing restrictive regulations related to “stablecoins and investor limits.”A Global Noose Tightening?Beyond the U.S. and Canada, Binance faces significant regulatory scrutiny in several other jurisdictions, including the Philippines and Nigeria. Regulators have moved to block the exchange’s online presence in the Philippines.
+In Nigeria, the firm faces charges of money laundering and tax evasion. The situation in Nigeria is further complicated by the arrest of the exchange’s Chief Financial Crime Compliance Officer, Tigran Gambaryan. The American has been held in the country for over two months and named in the charges against the exchange.On the Flipside 
+Despite its several regulatory challenges, Binance is still the largest crypto exchange in the world.
+
+
+
+Binance CEO Richard Teng has committed to steering the firm down the regulatory-compliant path.
+Why This Matters The recent fine Binance faces adds to the exchange’s growing regulatory troubles. At the same time, it is another signal of shifting industry dynamics compelling crypto exchanges to comply with regulations in their jurisdictions.Read this for more on Binance’s history with Canada:Binance Canada Exit Leaves Crypto Community SplitFollow Ethereum’s latest effort to improve wallet UX:How Ethereum EIP-7702 Boosts Wallet UX with Minimal Downsides    
+              
+    
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Shiba Inu Team Issues Critical Warning To SHIB Community Following Major Listing | Bitcoinist.com
+
+
+								The Shiba Inu team has issued a crucial warning to its community, alerting them to the presence of fraudulent groups seeking to exploit the trust of SHIB community members for personal gain. This cautionary message from the team arrives as the cryptocurrency scored another significant listing milestone.
+SHIB Team Cautions Against Scams
+The Shiba Inu team has advocated for heightened vigilance against scams targeting community members. In a recent X (formerly Twitter) post, Shibarmy Scam Alerts, a social media handle dedicated to exposing scams, issued a stern warning regarding multiple scam attempts observed on Telegram social media platform.
+The scam tracker has urged community members to watch out for fake or fraudulent groups impersonating legitimate Shiba Inu channels on Telegram. They disclosed tactics employed by these deceptive channels, including “promising giveaways, exclusive content, investment opportunities, and offering assistance for transaction issues to deceive unsuspecting community members.  
+Excluding Telegram, the Shiba Inu community has also seen a rise in scam activities via X, with numerous scammers targeting community members using similar impersonation tactics or phishing attacks. 
+While informing Shiba Inu members of these latest scam attacks on the community, Shibarmy Scam Alerts also outlined various ways SHIB community members can protect their privacy and security. The SHIB tracker emphasized the importance of verifying the authenticity of Telegram groups by checking for verification badges and announcements from reputable sources. 
+Furthermore, the team stressed the significance of avoiding suspicious links and refraining from sharing wallet addresses in public chat rooms to reduce the likelihood of becoming a primary target for malicious attackers. Finally, Shibarmy Scam Alerts has urged users to stay updated on security alerts and adhere to optimal security practices, such as reporting any suspicious scam activities to the relevant authorities.  
+Shiba Inu Gets Listed By Crypto Exchange Nexo
+Amidst efforts to combat scam attempts within the Shiba Inu community, the cryptocurrency is celebrating a new milestone, securing listings from major exchanges. Nexo, a Switzerland-based all-in-one crypto platform, announced in a post on X on May 7, that it has officially integrated Shiba Inu into its crypto offerings. 
+In its post, the crypto exchange lauded SHIB’s impressive growth over the years, highlighting the important role the Shiba Inu community, including its developer and dedicated supporters, has taken in boosting the development of the SHIB ecosystem. 
+This listing also comes as Shiba Inu’s demand in the broader crypto market is growing at a rapid pace. Including Nexo, over 50 other crypto platforms or exchanges have listed SHIB, such as Binance, Robinhood, Bitget, and recently, Bitcoin.com.au. 
+
+SHIB price drops below $0.000023 | Source: SHIBUSDT on Tradingview.com
+Featured image from CoinMarketCap, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Crypto influencers become 'PokÃ©mon cards' on Blast game - Crypto Briefing
+
+
+
+
+Influencers from the crypto community on X were turned into a trading card game by the Blast-based game Fantasy.top. In the past four days, the cards related to these influencers reached 9,518 Ether (ETH) in trading volume, according to a Flipside dashboard created by user Hildobby.The cards’ power level is defined by how regularly the influencers publish with their X account, their follower count, and the reach of their tweets. Moreover, the more an influencer card is used by players, the more they receive from Fantasy.top. The power levels are based on the last seven days.Image: Fantasy.topFantasy.top leverages the current narrative of social finance, or SocialFi, which is hot after Friend.tech launched its native token FRIEND. FRIEND launched at an initial price of $3.03 but fell sharply in just three hours to $0.89. However, the token made a significant recovery to $2.19 at the time of writing.A crypto researcher known as DeFi Edge explained in his newsletter that Fantasy.top is better than Friend.tech at aligning the interests of users, influencers, and the protocol itself.“Influencers will get a share of revenue from: users/card traders want to buy cards from their favorite influencers; influencers are intrinsically motivated to improve their X engagement; this boosts their points, so users and influencers are perfectly aligned; the platform is giving money to influencers whose cards are used in competitions, so influencers are happy; the protocol wants more traders and influencers on their platform, so they’ll keep shipping features to make Fantasy.top more attractive.”Influencers receive 1.5% of all the fees collected from the trading volume of their respective cards, and also a 10% cut on pack sales which is split between the cards discovered. Packs are like boosters found in traditional trading card games, where a user gets random cards by opening them. At the time of writing, the platform’s marketplace generated 285.5 ETH in fees, equivalent to $863,000.The Fantasy.top platform is only accessible with referral codes, and it doesn’t have a native token yet.
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+Ethereum Whale Makes Massive Bet on ETH After 20% Price Drop | Cryptoglobe
+
+
+                                
+An Ethereum whale has made a massive bet on the second-largest cryptocurrency by market capitalization after withdrawing funds from leading cryptocurrency exchange Binance and staking them, to then borrow with those holdings and buy more.
+
+
+
+According to data first shared by on-chain analysis service Lookonchain the Ethereum whale withdrew 6,030 ETH tokens worth over $18 million from leading cryptocurrency exchange Binance as it kept on accumulating funds since the beginning of the month, to the point they managed to have 10,758 ETH worth over $32.14 million in their wallet.
+
+
+
+The whale then swapped their ETH for Lido Staked ETH (stETH), a liquid derivative token representing Ether that’s staked on Lido, a decentralized liquid staking protocol. The tokens represent ETH that’s earning from validating transactions on the network, while being liquid to use on other decentralized finance protocols.
+
+
+
+The whale then deposited the stETH into decentralized lending protocol Aave to borrow $28.5 million in stablecoins, which it then used to buy more ETH, effectively leveraging their position on the second-largest cryptocurrency.
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+The whale’s bet on ETH comes after the cryptocurrency lost nearly 20% of its value over the last 30-day period to now trade below the $3,000 mark, while still being up around 30% year-to-date.
+
+
+
+As CryptoGlobe reported a major ETH whale has recently cashed in on a successful year, as after purchasing a significant amount of ETH at around $1,890 per token, the whale started taking profit.
+
+
+
+The whale first withdrew 12,906 ETH, valued at roughly $24.39 million at the time, from the leading cryptocurrency exchange Binance. The tokens were then deposited into Lido, before the whale withdrew 7,000 ETH from it and redeposited the funds on Binance to sell them.
+
+
+
+Featured image via Pixabay.
+
+                            
+                        
+
+----------------
+
+Ethereum Price Prediction Amidst Heavy Whale Purchases
+
+
+                        
+                            Ethereum Price Prediction Amidst Heavy Whale Purchases – Will ETH Break Past $3,000 Soon?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 9, 2024 18:22 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The Ethereum (ETH) price is swinging either side of the $3,000 level as traders monitor a spike in whale purchases and ask whether the cryptocurrency could soon be set for a rebound.On-chain-focused analytics X account @lookonchain reported on Wednesday that a whale recently accumulated $32.14 million in ETH.These tokens were withdrawn from Binance, before being sent to Aave to borrow $28.5 million in stablecoins.These stablecoins were then promptly used to buy more Ethereum.Increased buying activity from whales is almost always taken as a good sign for a cryptocurrency.Whales are often looked at as smart money that might have some market insight the rest of us don’t.Ether bulls will be hoping that accumulation from this whale marks the bottom of ETH’s recent dip.The Ethereum price, last at $3,020, is down 26% versus its early March highs.The Ethereum price has pulled 26% lower versus its March highs. Source: TradingViewEthereum Underperforming Bitcoin – Here’s Why
+The downturn in the Ethereum price since March is mostly a result of broader market conditions turning less bullish.After hitting record highs above $73,000 in March on ETF demand optimism, easing ETF flows and macro headwinds have forced Bitcoin lower to the $62,000s.However, where Bitcoin is currently down around 15% versus its March peak, Ethereum’s pullback has been harsher.That can partially be explained by the fact that Ether is generally a higher beta asset versus Bitcoin. That’s to say, its likely to perform relatively better in times of risk-on and relatively worse in times of risk-off.But its also likely due to the pricing out of optimism that spot Ethereum ETFs will soon gain approval.The SEC is widely expected to reject these ETF applications this month as it probes crypto firms for evidence that Ethereum might be a security.However, given these rejections are now widely expected, this is unlikely to have much market impact.
+Ethereum Price Prediction – Where Next for ETH?
+While whale activity has some hoping the Ethereum price could soon rebound, technical analysis suggests the outlook remains fragile.The Ethereum price remains locked within a downward trend channel that has been in play since March.It has also broken to its 50 and 100DMAs. A recovery to the $3,200 area is plausible, but this is a very strong area of resistance.With the next leg of the crypto market rally unlikely to take hold anytime soon, Ether could continue to struggle.While whale activity has some hoping the Ethereum price could soon rebound, technical analysis suggests the outlook remains fragile. Source: TradingViewA test of support at $2,700 in the coming weeks is very plausible, especially if Bitcoin dips back under $60,000.This is roughly in line with where the 200DMA resides and so should be a strong zone of support.
+Ether Turns Inflationary as Ethereum Fees Drop 
+The recent Dencun upgrade has reduced Ethereum fees by as much as 4x, according to CryptoQuant data.That has substantially reduced the cryptocurrency’s burn rate, with the Ether supply recently turning inflationary as a result.This has concerned some ETH traders. Many see continued ETH deflation as a key value proposition for holding the cryptocurrency.However, these traders must remember the chilling impact that high fees has on Ethereum’s adoption.If Ethereum is going to retain its spot as the dominant smart-contract-enabled blockchain in web3, lowering fees is key.After all, why would everyday users choose to transact on Ethereum if fees are 100x higher than on other chains.
+ETH Alternative to Consider – Mega Dice (DICE)
+Crypto investors looking for investments with greater upside potential than ETH should check out presale investing.Web3 projects and protocols often sell their native tokens at a discount to early investors to raise funds for development.If presale investors can find a good project that gains traction in the market, they can book exponential gains.One project that analysts at Cryptonews are a big fan of is Mega Dice Casino.This already well-established crypto casino has launched a presale of its utility token, DICE.DICE holders get big cashback benefits on their wagers and can generate passive income via DICE staking.The crypto casino is also running a $750,000 airdrop to reward early presale investors.The project has already raised $870,000. Potential investors may want to move quickly, as the DICE price will rise when the $1 million milestone is hit.Check Out Mega Dice Casino’s Presale                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Bitcoin Mining Difficulty Is Plummeting-Here’s Why - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsBitcoin just got much easier to mine—should we be worried? Data from BTC.com shows that Bitcoin mining difficulty plunged nearly 6% to 83.1 trillion hashes yesterday. The higher the mining difficulty—measured through the energy and resources that miners use to keep the network secure—the more difficult Bitcoin is to attack.A drop in difficulty, therefore, isn’t a good sign. But it’s expected, at least in the short term, experts told Decrypt.“If there isn’t enough margin for miners to make a profit, they turn off, which causes the hash rate to go down,” Luxor mining pool CEO Nick Hansen told Decrypt.“Hash rate” refers to the speed at which a miner produces hashes—the process of encrypting data. This model is known as proof-of-work, a key differentiator for Bitcoin. Bitcoin last month underwent a quadrennial event called the halving. The update cut miner rewards in half from 6.25 BTC for each block they process to 3.125 BTC. Miners—who produce new coins and keep the network ticking along by processing new transactions—now have to work harder to stay in the game. And with smaller rewards but harder work, a lot of miners are closing up shop altogether. Nishant Sharma, founder at BlocksBridge Consulting—a research and communications strategy firm dedicated to the Bitcoin mining industry—said that this is what usually happens after a halving. “After a Bitcoin halving, the drop in mining rewards leads less efficient miners to unplug their machines,” he said. “This self-adjusting feature favors leaner operations, as remaining miners receive increased rewards due to the reduced difficulty,” said Sharma.Scott Norris, CEO of mining firm Optiminer, concurred: “This is a normal occurrence after a halving event and healthy for the network and the well positioned miners,” he said.“The miners who planned properly will grow or the ones who turned off will get newer tech and find cheaper energy while everyone waits for the price to reflect the halving,” Norris added. “Either way, the network will continue to grow.”The price of Bitcoin is also playing a part in the drop in mining difficulty: the asset touched a new all-time high of $73,737 last month but today stands at $62,506, a drop of 15%, according to CoinGecko. If the asset were priced higher, mining the asset would be more profitable, rewards for miners would be higher and more would be able to stay in business. But a declining BTC price makes this more difficult, compounding the effects of the halving.Still, Norris says this isn't a surprise—and neither is the lull in the market.“It always happens this way,” said Norris. “Historically, it’ll be late in the year before we see much price rise [for Bitcoin].”Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Sexual Misconduct Allegations Lead Founder of Ethereum Layer-2 Chain 'Eclipse' to Step Back
+
+Neel Somani, the founder and CEO of Ethereum scaling company Eclipse, said on Thursday that he would be stepping back from his role as a "public face" for the company in response to a recent slate of sexual misconduct allegations.
