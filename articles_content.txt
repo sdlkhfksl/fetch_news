@@ -1,716 +1,3 @@
-Marathon Digital Reports Facing 'Operational Challenges' in Q1 Earnings
-
-
-                        
-                            Marathon Digital Reports Facing ‘Operational Challenges’ in Q1 Earnings                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 10, 2024 00:01 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Bitcoin mining firm Marathon Digital reportedly battled against “operational challenges” to produce record financial results in the first quarter of 2024.In its first-quarter earnings report, the firm reported producing 2,811 Bitcoins during the first quarter of 2024, compared to 4,242 in the last quarter of 2023, a decline of 33.73%.Marathon Digital reported revenues increased 223% to $165.2 million in the first quarter of 2024 from $51.1 million in the first quarter of 2023. The firms’ energized hash rate which measures the computational power of a blockchain network, increased 142% to 27.8 EH/s in the first quarter of 2024 from 11.5 EH/s in the first quarter of 2023.Marathon Digital shared trading under the ticker “MARA” were down 2.19% at $19.56 at market close on Thursday.“During the first quarter of 2024, we doubled the size of our portfolio of digital asset compute, launched our first products and services to support the Bitcoin ecosystem, and we battled against operational challenges to produce record financial results,” said Fred Thiel, Marathon’s chairman and chief executive officer, a press release.Thiel explained in less than four months the mining firm initiated, closed, and integrated the acquisitions of its first three sites. Due to this, the firm doubled the size of its portfolio to 1.1 gigawatts of capacity, 54% of which is directly owned and operated by Marathon Digital.The firm said it had secured its first paying customers for MARA firmware and began building a sales pipeline for its two-phase immersion system.
-HODL Strategy Helps Firm Gain Momentum
-“Despite the operational challenges we faced in the first quarter, we were able to leverage our agility to redistribute equipment to newly acquired sites amidst ongoing repairs,” said Thiel. “When combined with our HODL strategy, these actions allowed us to capitalize on Bitcoin’s positive momentum and produce record financial results for the quarter,” added Thiel.The firm went on to grow its topline to $165.2 million, improved net income to a record $337.2 million, and generated adjusted EBITDA of $528.8 million.
-Mining Companies Experience Production Decline
-Earlier this year, several public mining companies reported decreases in Bitcoin production ranging from 6% to 12% for April following the halving event. Major Bitcoin miners, including Bitfarms, Cipher, CleanSpark, Core Scientific, Riot, and Terawulf, were all affected, according to a report from The Miner Mag.However, the report said that the robust Bitcoin fee market briefly mitigated the impact of the halving on these companies. Hut 8, one of the prominent Bitcoin mining companies in North America, has reported a significant decline in its proprietary production for April. In their monthly update released on Monday, Hut 8 disclosed that they mined 148 BTC with their proprietary mining fleet during April, marking a 36% decrease compared to March.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Solana NFTs: Traders surge 111%, but sales are down - Why? - AMBCrypto
-
-
-
-The number of NFT traders on Solana recently rallied to a multi-month high.
-The steady decline in SOL’s price has led to a fall in NFT sales volume.
-
-The daily count of non-fungible token [NFT] traders on Solana [SOL] climbed to a multi-month high on the 8th of May, data from CryptoSlam showed.
-According to the NFT data tracker, 123,426 traders executed the sale of at least one Solana-based NFT on that day. This marked a 111% rally from the 58,405 NFT traders on the network recorded the previous day.
-Source: CryptoSlam
-However, despite the surge in NFT traders count, NFT sales volume on Solana cratered by 16% on the 8th of May. That day, the USD value of all Solana-based NFTs sold was $3.01 million. 
-On the 7th of May, it was above $3.5 million.
-This decline in sales volume is due to the steady decline in SOL’s value in the past few days. According to CoinMarketCap’s data, the coin’s value fell by 7% between the 7th and the 8th of May. 
-At press time, SOL traded at $143.04. 
-While a decline in SOL’s price can make minting and buying NFTs on Solana more affordable, it might not translate to the same total spending as before.
-Also, with SOL’s low price action, investors who bought SOL-based NFTs for potential appreciation in SOL’s value might become hesitant to sell.
- This could lead to fewer high-value NFT purchases, impacting the overall sales volume.
-State of the NFT market
-An assessment of the performance of the general NFT ecosystem revealed a decline in the past 30 days, mirroring the downtrend in the general cryptocurrency market. 
-According to CoinGecko’s data, global cryptocurrency market capitalization has plunged by 15% in the last month. At press time, this was $2.4 trillion.
-According to NFTGo’s data, NFT sales volume during that period totaled $488 million and declined by 29%.
-Due to the decline in trading activity, NFT market capitalization plummeted. At $17.28 billion at press time, this dropped by 15 % in the past 30 days. 
-Source: NFTGo
-
-Read Solana’s [SOL] Price Prediction 2024-25
-
-During that period, the NFT trader count fell by 9.5%.
-Per NFTGo’s data, the total number of unique addresses that bought or sold at least one NFT from any of the NFT collections tracked over the last month was 107,000.
-
-
-
-
-
-
-----------------
-
-Sui's zkLogin Now Adds Multi-signature Recovery And Support For Apple Accounts - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-Sui’s zkLogin introduces multi-signature recovery and Apple account support, enhancing user options and account recovery capabilities.
-
-
-
-The integration of multi-signature recovery improves account recoverability.
-
-
-
-These updates reflect Sui’s commitment to simplifying Web3 adoption and bridging the gap for non-crypto users.
-
-
-
-
-Sui Foundation, in a recent announcement on its official blog, unveiled two significant enhancements to its social login basic tool, zkLogin. 
-
-
-
-
-
-Sui’s zkLogin Introduces Multi-Signature Support
-
-
-
-The updates include multi-signature recovery and support for Apple accounts, providing users with expanded options and improved account recovery mechanisms.
-
-
-
-Initially introduced last year with support for Google, Twitch, and Facebook accounts, the integration with Apple of Sui’s zkLogin offers users the convenience of consolidating all their social logins under one platform, particularly beneficial for iOS users seeking seamless integration with Sui wallet creation within iPhone applications.
-
-
-
-The introduction of multi-signature (multi-sig) recovery presents a novel approach to account recovery, prioritizing both security and user accessibility. With zkLogin’s reliance on the application client ID and issuer, such as Google, multi-sig significantly enhances account recoverability, ensuring users can regain access even if the original application or credential issuer becomes inactive.
-
-
-
-
-Sui Foundation’s Commitment to Web3
-
-
-
-Sui’s concerted efforts to onboard new users to Web3 align with the platform’s mission to bridge the gap between traditional and decentralized technologies. Recognizing the challenge faced by both Sui and other Web3 companies in retaining non-crypto users during initial platform access, Sui’s zkLogin marks a pivotal step towards enhancing user confidence and usability within the Web3 ecosystem.
-
-
-
-Through the creation of a multi-sig wallet with zkLogin and an additional private key backup, users can maintain access to their assets in the event of app or credential issuer discontinuation. Moreover, the integration of multi-sig with zkLogin facilitates more intricate use cases, enabling builders to incorporate up to 10 zkLogin accounts from various credential providers with customizable weights and thresholds, thereby expanding the tool’s versatility and utility.
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-Visited 1 times, 1 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
-BlockFi Shut Down Will Take Place In May, Users Need To Withdraw Asset Before April 28 - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-BlockFi shut down will take place at the end of May, and Coinbase will be reliant on it for distribution.
-
-
-
-Clients who missed withdrawal deadlines will have their crypto holdings transferred to Coinbase instead of being liquidated to cash.
-
-
-
-The partnership ensures continued access to crypto assets, with BlockFi highlighting Coinbase’s involvement as crucial for facilitating future crypto distributions.
-
-
-
-
-BlockFi, a crypto lender undergoing liquidation, has announced plans to close its web platform by the end of May 2024.
-
-
-
-
-
-BlockFi Shut Down Will Take Place in Partnership with Coinbase for Distribution
-
-
-
-In a bid to facilitate the withdrawal process for its clients, BlockFi will be teaming up with Coinbase, a leading cryptocurrency exchange, as its primary distribution partner.
-
-
-
-BlockFi shut down comes as part of its bankruptcy proceedings, ensuring that clients with BlockFi Interest Accounts (BIAs), retail loans, and private accounts can still access their funds. Eligible customers who have not withdrawn their crypto holdings by April 28 or completed identity verification by May 10 will have their assets transferred to Coinbase instead of being liquidated to cash.
-
-
-
-Continued Access to Crypto Assets Through The Partnership
-
-
-
-Clients will have the option to access their funds in kind through their existing or newly created Coinbase accounts. Those unable to create a Coinbase account will receive their funds in cash. BlockFi has emphasized that it has not partnered with any other crypto companies for distributions and warns users of potential scams.
-
-
-
-
-The partnership between BlockFi and Coinbase aims to enable seamless access to crypto holdings during BlockFi shut down. Instructions will be provided to users by both companies, with future distributions potentially facilitated through Coinbase by the plan administrator in BlockFi’s bankruptcy case.
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-Visited 32 times, 34 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
-Starknet Foundation Launches $5 Million Seed Grants Program to Boost Final-Stage Blockchain Projects
-
-
-
-                    
-
-The Starknet Foundation recently unveiled a significant $5 million Seed Grants Program, designated in USDC, to propel the development of nascent projects on its network. 
-
-
-
-This initiative is set to provide vital financial backing to at least 200 emerging teams, each receiving $25,000. 
-
-
-
-
-The focus is on aiding projects in their final stages, helping them overcome the “last mile” challenge to successfully launch on Starknet. 
-
-
-
-Starknet operates as an Ethereum layer-2 scaling solution employing zero-knowledge rollup technology, which has been gaining traction among developers.
-
-
-
-Diego Oliva, CEO of the Starknet Foundation, emphasized the rationale behind this substantial financial commitment. 
-
-
-
-
-He explained, “We’ve been listening carefully to devs [developers] and hearing about the main challenges they face. 
-
-
-
-“We are talking about people with amazing creativity and vision who need support with that ever-hard ‘last mile’ to get a project over the line and into production. 
-
-
-
-“So we responded with this program, which is intended, very directly and with minimal bureaucracy, to address this.” 
-
-
-
-This quote highlights the foundation’s strategic approach to foster a robust development environment and streamline project completion.
-
-
-
-
-READ MORE: Bullish Momentum Looms: Bitcoin’s Price Eyeing Upsurge on Inverse Head-and-Shoulders Confirmation
-
-
-
-The program targets Starknet-associated projects that have already developed a minimum viable product (MVP) or proof-of-concept, which are considered ready for the next leap.
-
-
-
-Oliva further stated, “In general, we want to reduce the barriers and burdens young teams face when considering starting a project. 
-
-
-
-We’re trying to clear the path to innovation,” reflecting the foundation’s commitment to reducing entry barriers for newcomers and catalyzing innovation within the blockchain ecosystem.
-
-
-
-The rising interest in Starknet is evidenced by the growing number of developers engaging with its ecosystem. 
-
-
-
-According to Electric Capital’s 2023 Developer Report, the total monthly developers associated with Starknet surged to over 22,400 by December 2023, marking an increase of more than 113% since December 2020.
-
-
-
-Blockchain gaming, in particular, stands out as a significant area of growth and application within the Starknet and broader blockchain environment. 
-
-
-
-Oliva commented on the exciting developments in this sector, stating, “Starknet is leading the way in fully on-chain gaming. 
-
-
-
-Key projects in this area include Realms, Influence, and Dojo. 
-
-
-
-This sector is growing fast, with more teams building on Starknet using the Dojo standard. 
-
-
-
-Gaming is important not just for gamers but for everyone because it’s demanding on the network, testing its capabilities and demonstrating its power.” 
-
-
-
-According to DappRadar, blockchain gaming accounts for 35% of the total decentralized application activity, attracting over 2.2 million daily unique active wallets, underscoring the substantial impact and potential of gaming on blockchain platforms.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Tether Criticizes Deutsche Bank’s Research on Stablecoins
-
-
-							
-
-Deutsche Bank Research analysts recently released a paper on stablecoins launched since 1800.
-
-
-
-The analysts conclude that most pegged coins failed, with only 14% surviving.
-
-
-
-Tether criticizes the researchers, claiming they failed to produce concrete data to support their arguments.
-
-
-
-
-In a recent study, Deutsche Bank Research analysts concluded that most stablecoins failed, with only 14% surviving. Raising concerns regarding the future of stablecoins, the researchers posited, “Some may survive, although most will likely fail.”
-
-
-
-Stablecoins are digital currencies pegged to another asset like fiat currency, gold, etc. As these types of currencies are stable, most investors depend on them in the highly volatile crypto market.
-
-
-
-
-
-
-
-
-
-The analysts surveyed nearly 334 pegged currencies launched since 1800. They asserted that only a very few currently exist among the total stablecoins. They added that the successful stablecoins boasted three features that the failed stablecoins lacked: credibility, reserve backing, and tightly controlled systems.
-
-
-
-As per the research, 49% of the stablecoins failed, existing only for 8 to 10 years. The analysts argued that “macroeconomic factors are key to determining a peg sustainability.” Marion Laboure, Senior Strategist at Deutsche Bank Research, stated, “Issues around governance and speculative forces could also indicate when there’s a possibility of de-pegging.” He added,
-
-
-
-
- “We chose to compare stablecoins to peg currencies because historically their similarities make them a close proxy as both are pegged currencies. Both require ample reserves and credibility from issuers, are exposed to speculative forces, and the majority of both stablecoins and historical currency pegs track the USD.” 
-
-
-
-
-However, Tether, the issuer of stablecoin giant USDT, raised its voice against the Deutsche Bank Research report, claiming that the analysts failed to produce “concrete data” supporting their arguments. While the researchers pinpointed Terraform Labs’ TerraUSD as an example of the fall of stablecoins, Tether commented, “Its comparison to Terra, an algorithmic stablecoin, is misleading and irrelevant to the discussion on reserve-backed coins.”
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-BlockFi Partners with Coinbase for Crypto Withdrawals
-
-
-                        
-                            BlockFi Shuts Web Platform, Partners with Coinbase for Crypto Withdrawals                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 10, 2024 00:46 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Embattled crypto lender BlockFi announced Thursday that it plans to close its web platform this month, and is partnering with Coinbase to distribute funds to clients.The New Jersey-based firm said its Coinbase partnership will allow eligible BlockFi Interest Account, Retail Loan, and Private Clients to withdraw their crypto holdings.BlockFi filed for bankruptcy in Nov. 2022 after FTX’s collapse. CEO Zac Prince, who testified as a government witness in Bankman-Fried’s criminal trial, claims the FTX founder’s actions directly caused BlockFi’s bankruptcy.
-Missed BlockFi’s Withdrawal Deadline? You Can Still Recover Your Crypto
-In 2023, BlockFi announced it was shutting down and planned to return customers’ crypto holdings. The deadline for most customers to request withdrawals was April 28, 2024.On Thursday, the lender told clients that since the deadline to withdraw their digital assets from the current estate distribution has passed, clients will receive instructions on how to set up a Coinbase account. Through this method, they can withdraw their digital assets if they have an existing or new approved Coinbase account.The company is also giving another chance to those who missed the withdrawal deadline. They will still have the option to withdraw from BlockFi’s platform. Those who do not establish an approved Coinbase account may have their assets liquidated into cash and distributed to them accordingly.
-BlockFi Tells Customers To Download Important Documents Before Platform Closure
-The plan administrator will have the power to use Coinbase for upcoming distribution rounds, which may involve distributions from recovered funds from FTX. Without this capability, the administrator would be limited to distributing cash for subsequent distributions.BlockFi said it does not plan to collaborate with any additional providers for cryptocurrency distributions. Consequently, it cautioned investors to remain vigilant against potential scam attempts from third-party entities. BlockFi has previously been the target of fraudulent activity, where claimants received deceptive emails resembling legitimate communications, falsely promising immediate withdrawals of their remaining balances.Customers were further encouraged to retrieve their transaction history, tax documents, and any other pertinent information from BlockFi before the shutdown occurs.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Attacker Returns $153,000 Worth of Ether to Victim After Stealing $68 Million
-
-
-                        
-                            Attacker Returns $153,000 Worth of Ether to Victim After Stealing $68 Million                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 10, 2024 00:43 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        An attacker involved in a $68 million address poisoning scam has exhibited a gesture of goodwill by returning $153,000 worth of Ether to the victim.The address-poisoning attack initially saw the attacker tricking a user into transferring $68 million worth of Wrapped Bitcoin (WBTC), which has taken a new twist with the recent kind-hearted act of returning a fraction of the stolen funds.
-Attacker Expressed Willingness To Negotiate
-The attacker, operating under the alias “FakePhishing327990” on Etherscan, sent $153,000 Ether to the victim, accompanied by a message expressing willingness to negotiate and seeking communication via Telegram.The Victim contacting the address poisoning attacker Source: EtherscanBlockchain data reveals that the victim, identified by their account ending in 8fD5, initiated communication with the attacker. The victim proposed a resolution in which the attacker would return 90% of the stolen funds in exchange for a 10% bounty and a commitment to refrain from legal action. The victim emphasized the inevitability of tracing the funds and provided a deadline for the decision.Subsequently, another account controlled by the attacker, ending in 72F1, responded by sending 51 Ether to the victim. This symbolized a fraction of the stolen funds returned as a demonstration of goodwill. The accompanying message reiterated the attacker’s willingness to negotiate and requested the victim’s Telegram username for further communication.The negotiation unfolds against the address poisoning scam, in which the attacker utilizes a smart contract to deceive the victim into transferring 1,155 WBTC by exploiting the appearance of similarity between addresses.This sophisticated tactic, known as an “address poisoning attack,” involves spamming victims with transactions that mimic their own, ultimately leading to costly errors. Security experts caution users to scrutinize transaction details meticulously, particularly the sending address, to mitigate the risks associated with such attacks.
-Phishing Attacks On Rise
-An NFT trader recently fell victim to a phishing scam, losing over $145,000 worth of tokens. The trader, known as “tatis.eth,” was targeted by an attacker named “PinkDrainer,” who stole three valuable BAYC NFTs from the victim’s wallet.BAYC, short for Bored Ape Yacht Club, is a collection of highly valued Ethereum-based NFTs featuring unique cartoon ape designs. The stolen NFTs were transferred to a phishing address and sold for 48.5 ETH.This incident is part of a broader trend of phishing scams targeting cryptocurrency users, with notable losses reported in the first two months of 2024.According to Scam Sniffer data, over $104 million worth of cryptocurrencies has been lost to phishing attacks in this period, with a significant portion coming from the Ethereum ecosystem.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Zombie Coin (ZOMCOIN) to Rally 8,000% After Solana Launch, Looks to Challenge Shiba Inu and DogeCoin
-
-
-
-                    
-
-Zombie Coin (ZOMCOIN) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Zombie Coin (ZOMCOIN), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Zombie Coin presents a similar opportunity.
-
-
-
-Zombie Coin has market cap below $15,000 at the moment, meaning that when it just reaches a modest market cap of $200,000-$500,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
-
-
-
-The exciting memecoin is poised to rally 8,000% in the coming two days, and Zombie Coin could potentially reach a multi-million dollar market cap within a few weeks.
-
-
-
-
-Currently, Zombie Coin can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-To buy Zombie Coin on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Zombie Coin by entering its contract address – FbkoYsCAPbcyJkSoqXTxDKKoGQrYoqgtdLf9GBEqy2vr – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like ZOMCOIN.
-
-
-                
-
-                
-
-----------------
-
-TON Phishing Message Fools Users With Cheap 5000 USDT - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-Slow Mist founder exposes TON phishing messages, which users tricked into believing they receive cheap USDT via TON message comments.
-
-
-
-TON’s increased user base attracts scammers who are exploiting its asynchronous nature and smart contract functionality.
-
-
-
-
-A recent revelation by Slow Mist founder sheds light on a new phishing scam leveraging the Telegram Open Network (TON) transfer mechanism to deceive users into receiving seemingly inexpensive USDT tokens.
-
-
-
-
-
-Slow Mist Founder Exposes TON Phishing Message
-
-
-
-The TON phishing messages scam operates through misleading message comments within the TON blockchain, with content suggesting the receipt of substantial amounts of USDT, such as “Received +5,000 USDT.” However, users fall victim to the illusion of receiving such funds, unaware of the deception.
-
-
-
-The TON blockchain, renowned for its asynchronous nature and smart contract functionality, facilitates data transmission among its users. The surge in TON’s user base, driven by the growing interest in blockchain technology, has unfortunately led to the proliferation of fraudulent schemes like TON phishing messages.
-
-
-
-TON, an integral component of the Web3 ecosystem, aims to redefine decentralized experiences beyond DeFi, dApps, and DAOs. With developers actively collaborating to support Telegram‘s vast user base exceeding 700 million, the TON Foundation plays a pivotal role in fostering this innovative landscape.
-
-
-
-
-Crypto Community Grapples with Persistent Phishing Scams
-
-
-
-Crypto phishing scams, a persistent menace in the digital asset realm, exploit unsuspecting individuals by masquerading as legitimate entities and offering false promises of free tokens or coins.
-
-
-
-Amidst this backdrop, the crypto community grapples with the aftermath of various scams, including the recent ZKasino fraud case, resulting in investors losing an estimated $33 million in digital assets. Dutch authorities have taken action, apprehending a suspect linked to the ZKasino scam on April 29, signaling efforts to combat fraudulent activities within the industry.
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-Visited 22 times, 22 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
-Eclipse Labs CEO Steps Down Following Sexual Misconduct Allegations
-
-
-                        
-                            Eclipse Labs CEO Steps Down Following Sexual Misconduct Allegations                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 10, 2024 00:21 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Eclipse Labs founder and CEO Neel Somani has announced he will be “temporarily reducing” his role as the public face for the firm following serious allegations of sexual misconduct.Somani took to the social media platform X, formerly Twitter, to address the allegations stating he is innocent and prepared to defend his reputation.“Serious allegations have been made against me on Twitter in the last week. These allegations are false, but serious allegations about sexual misconduct warrant a serious and thoughtful response,” said Somani using the social platform X.Eclipse Labs took to social media to address the allegations stating it is committed to maintaining professional standards and gender equality.Eclipse Labs is a layer-2 blockchain scaling project built on Ethereum with headquarters in San-Francisco. “The senior leaders at Eclipse are well equipped to take on these responsibilities and this will allow these conversations to unfold and the truth to emerge about these allegations,” said Somani using the social media platform X. In March, Eclipse Labs announced it had raised $50 million in funding round to fuel the launch of its solution for scaling the Ethereum network. The funding round was co-led by Placeholder and Hack VC, bringing the total capital raised to $65 million. Other notable participants in the round included Polychain Capital, Delphi Digital, Maven 11, DBA, Apollo-managed funds, and Fenbushi Capital. Eclipse Labs announced it is hiring for several roles, including a Growth Engineer, Marketing Lead, and People Operations Manager, with a preference for candidates based in the Bay Area.In December 2023, Eclipse launched a testnet with the intention of prioritizing developers. Opening the mainnet to developers and giving them a platform to build applications that benefit from the project’s architecture.Eclipse Labs is attempting to foster collaboration and interoperability between the Ethereum and Solana ecosystems. This approach allows applications built for Solana to run on Eclipse with minimal modifications. SOL tokens remain the primary currency within the Eclipse ecosystem, further bridging the gap between the two major blockchain players.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Tether refutes Deutsche Bank research revealing stablecoin solvency risks - Crypto Briefing
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-----------------
-
-Ethereum L2 Eclipse CEO steps back amid sexual misconduct claims
-
-Ethereum layer 2 blockchain Eclipse founder and CEO Neel Somani says he is “temporarily reducing” his role as a “public face” for the firm as he faces sexual misconduct allegations.“Serious allegations have been made against me on Twitter in the last week. These allegations are false,” Somani wrote in a May 9 X post. “Serious allegations about sexual misconduct warrant a serious and thoughtful response.”He added he “never sexually assaulted or harassed any woman” and would “work to clear my name and defend myself.”Source: Neel SomaniEclipse’s senior leadership was “well equipped to take on these responsibilities and this will allow these conversations to unfold and the truth to emerge about these allegations,” he wrote.In a May 9 X post, Eclipse wrote its team “takes allegations against our CEO, Neel Somani, seriously and believes in the importance of truth.”Related: SEC doesn’t want Ethereum to transform banking landscape, says Joseph Lubin“Eclipse remains committed to maintaining the highest personal and professional standards, including gender equality and fair treatment,” it wrote.Source: EclipseSomani and Eclipse did not immediately respond to requests for comment.In March, Eclipse said it raised a $50 million Series A round led by venture firms Hack VC and Placeholder which brought its total capital to raised to $65 million.The firm launched the mainnet of its Ethereum layer 2 in September 2023.Magazine: The real risks to Ethena’s stablecoin model (are not the ones you think)
-
-----------------
-
-Jack Dorsey says Bitcoin will be worth 'at least a million' by 2030
-
-Twitter co-founder Jack Dorsey says the price of Bitcoin (BTC) could reach a price of at least $1 million by the year 2030, adding that its value could grow even further from that point onwards. Speaking in a May 9 interview with journalist Mike Solana on Pirate Wires, Dorsey offered a bullish outlook for the long-term price action of Bitcoin as well as providing further context behind his abrupt departure from the board of BlueSky — a decentralized Twitter alternative he helped launch in 2019. Dorsey told Solana he believes Bitcoin's price could reach “at least a million” by 2030 adding that that it most likely “hits that number and goes beyond.”Dorsey — now the head of the financial services firm Block — noted that Bitcoin’s price isn’t actually the most interesting aspect of Bitcoin, and instead pointed to the collaborative nature of the ecosystem and the way it incentivizes collective efforts to enhance the network.“The most amazing thing about Bitcoin, apart from the founding story, is anyone who works on it, or gets paid in it, or buys it for themselves — everyone who puts any effort in to make it better — is making the entire ecosystem better, which makes the price go up.”“It's a fascinating ecosystem and movement, more than anything else,” he said before adding, “It taught me a lot.”Source: Mike SolanaRelated: Bitcoin could soon ‘BLOW higher’ on bullish candle hammer: Glassnode execsDorsey raised eyebrows earlier this week when it was confirmed he would be departing the board of Bluesky, a decentralized social network he helped start as an alternative to Twitter.He said that Bluesky was “literally repeating all the mistakes [Twitter] made,” adding that it is not a protocol that could be deemed truly decentralized. “It’s another app,” he said.Dorsey originally envisioned Bluesky as an open-source protocol that Twitter and other social media platforms could build on top of, separating the protocol layer from the application layer to reduce censorship risks.However, he said the firm started behaving more like a traditional company that began pushing for moderation tools. “Everything we wanted around decentralization, everything we wanted in terms of an open source protocol, suddenly became a company with VCs and a board. That's not what I wanted, that's not what I intended to help create.”Dorsey, who has since deleted his Bluesky account, said the platform with Nostr, an anonymous, open protocol with no company or centralized control, aligned more with his goals of censorship resistance.In a note to shareholders on May 2, Dorsey said that his fintech firm Block will flip 10% of its gross profit from Bitcoin-related products back into buying more BTC every month.On May 1, it was reported that US federal prosecutors were probing Block after documents alleged compliance violations at the firm’s payment divisions, Square and Cash App.Magazine: US enforcement agencies are turning up the heat on crypto-related crime
-
-----------------
-
-Franklin Templeton: Friend.Tech and SocialFi Fuel Base Growth
-
-
-Franklin Templeton, a prominent asset manager with a vast portfolio exceeding $1.4 trillion, recently turned its analytical gaze towards Base—a layer-2 (L2) blockchain solution crafted by the crypto exchange Coinbase.
-Launched to the public on August 9, 2023, Base has swiftly climbed the ranks within the blockchain community. Particularly, it has caught the eye for its innovative approach in the Social Finance (SocialFi) domain.
-Base’s Emergence as a SocialFi Contender
-Franklin Templeton’s analysis reveals that roughly 46% of all transactions on Base are intertwined with SocialFi applications. This marks it as a pivotal sector for Base’s adoption and subsequent growth. Franklin Templeton highlights Friend.Tech as a prime example.
-Friend.Tech is a mobile-only application that capitalizes on monetizing social interactions on its platform. It has recently made headlines due to the launch of its second version (Friend.Tech V2) and a native token airdrop—FRIEND.
-
-Read more: What is Friend.Tech? A Deep Dive Into The Web3 Social Media App
-Social-Related Transactions by Network. Source: Franklin Templeton Digital Assets
-The FRIEND token is claimed to be solely owned by its user base. It boasts a market cap of around $200 million, highlighting the robust community engagement and investor confidence in Base’s ecosystem.
-Furthermore, Franklin Templeton outlined that integrating SocialFi applications directly with Coinbase’s expansive user base provides Base a unique advantage.
-
-
-“With the support of the Coinbase platform, Base has a strong combination of SocialFi applications and direct integration with Coinbase users, positioning itself well to capture a material share of SocialFi activity and remain a leader in the Ethereum L2 sector going forward,” Franklin Templeton analysts wrote.
-
-Base uses “optimistic rollups” to speed up transactions and cut costs. It batches transactions off the main Ethereum blockchain. Then, it consolidates these transactions and finalizes them on the Ethereum mainnet.
-This process allows Base to reduce costs significantly while maintaining Ethereum’s high-security standards. Thus, Base stands out among other L2 solutions.
-Compared to other L2 solutions like Arbitrum and Optimism, Base has shown unprecedented growth. L2BEAT data shows that Base’s total value locked (TVL) increased by over 630% from $742.63 million to $5.45 billion in the year-to-date (YTD) time frame. Meanwhile, Arbitrum, the top L2 solution with a $16.03 billion TVL, saw only a roughly 47% increase during the same time frame.
-
-Read more: A Beginner’s Guide to Layer-2 Scaling Solutions
-Base TVL. Source: L2Beat
-Despite its numerous achievements, Base faces ongoing challenges, notably with the security of its meme coin projects. As per previous reports, 91% of meme coin projects on the Base platform are susceptible to security breaches, potentially jeopardizing user investments. 
-This risk highlights the need for ongoing security improvements to protect users and maintain trust in Base’s ecosystem.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Trump-Inspired MAGA Coin Leaves Parody Biden Memecoin In The Dust With 23% Weekly Gain As Ex-President Warms Up More To Crypto - Benzinga
-
-A cryptocurrency themed around former U.S. President Donald Trump surged this week as the firebrand leader stepped up his endorsement of digital currencies. A rival coin, however, saw its fortunes tank.What Happened: MAGA Coin TRUMP/USD saw a 5% increase in the last 24 hours and a 23% rise since the beginning of the week, as per data from Coinmarketcap.This uptick coincided with Trump’s amplified crypto-friendly rhetoric, particularly notable at a recent NFT event where he emphatically endorsed cryptocurrencies, even proclaiming, “If you’re in favor of crypto, you better vote for Trump.” Santiment data confirms a surge in Trump’s mentions across major crypto-centric social platforms, reflecting his growing advocacy for digital assets.See Also: Best 10 Altcoins In May 2024Conversely, mentions of President Joe Biden escalated amidst concerns over potential stringent crypto regulations. This negative sentiment impacted Jeo Boden BODEN/USD, a cryptocurrency parodying the incumbent president, which experienced an 18.88% drop in the last 24 hours and a 28% decrease over the week.Why It Matters: MAGA Coin, inspired by the “Make America Great Again” movement, has skyrocketed 25x year-to-date, signaling the potential rise of a new category of political finance cryptocurrencies, colloquially termed “Politi-Fi.” This trend underscores Trump’s strategic alignment with the growing crypto demographic in the U.S., as highlighted in a Visual Capitalist report revealing approximately 53 million Americans as crypto owners in 2023, the highest in absolute numbers and the third-highest by population share.Since its launch on Aug. 11, 2023, MAGA has surged by an astonishing 35,211%, while BODEN, launched on March 10, 2024, has seen a 768% increase.Read Next: Donald Trump Says ‘You Better Vote’ For Him If You’re Pro-Crypto: But Has He Always Been ‘Fine With It’?Photo via Shutterstock
-
-----------------
-
-Can Crypto Markets March Higher When $1.1B Bitcoin Options Expire Today?
-
-
-																Aside from a minor mid-week dip, crypto markets have been relatively inactive in the past several days and continue to trade sideways.
-However, around 18,280 Bitcoin options contracts are set to expire on May 10, which may inject some volatility.
-The notional value for this week’s batch of expiring BTC contracts is around $1.15 billion, according to Deribit. The batch is slightly smaller than last week’s expiry event.
-Bitcoin Options Expiry
-The put/call ratio for this week’s BTC options is 0.64, which means that more calls, or long contracts, are expiring than puts or shorts.
-The longs are also dominating in open interest (OI) with almost $700 million at the $70,000 and $100,000 strike prices. Open interest refers to the number or value of contracts that have yet to be settled.
-
-
-
-
-OI for put contracts is also starting to creep up with around $360 million at the $50,000 strike price, according to Deribit.
-Overall, the open interest for Bitcoin call options is more than double the OI for put options, indicating bullish trader sentiment.
-Call options give the right to purchase the underlying asset at a predetermined price on or before a specific date.
-Moreover, trading firms like QCP Capital and Paradigm have observed revived demand for upside call options, including buyers closing existing positions to roll into higher strike calls expiring in July and September.
-Bitcoin Options Expiring Contracts. Source: Deribit
-In addition to today’s batch of Bitcoin options, 276,000 Ethereum contracts are also set to expire.
-These have a notional value of around $840 million and a put/call ratio of 0.74. There is a lot of OI, around $636 million, at the $3,600 strike price, indicating that Ethereum derivatives traders are also bullish.
-Crypto Market Outlook
-Crypto markets have gained 2.1% on the day to reach $2.45 trillion in total capitalization. However, they have consolidated around this level since mid-April with very little movement in either direction.
-Bitcoin dipped below $61,000 on May 9 but has recovered to tap $63,000 during the Friday morning Asian trading session. The asset has been down trending since its all-time high in mid-March and has lost 15% since then.
-Ethereum prices hit an intraday low of $2,953 but have since recovered to reach $3,032 at the time of writing.
-The altcoins are mostly in the green at the moment, with larger gains for Solana (SOL) and Toncoin (TON).
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
 Jack Dorsey Forecasts Bitcoin Will Surge to $1 Million By 2030
 
 
@@ -9079,3 +8366,397 @@ Moreover, the compliance efforts of crypto exchanges with Indian regulations hav
 Bitcoin (BTC) Price Is In a 'Bore to Death' Phase. When Will the BTC Rally Resume?
 
 The current period resembles the action from April through September of 2023 when bitcoin was stuck in the $25,000-$30,000 range for an excruciating six months. Eventually, cryptocurrencies were able to sustain a multi-month rally, with BTC ultimately hitting an all-time high in March of this year.
+
+----------------
+
+"Base Season?" Coinbase L2 Earns Institutional Nod: Here's Why - DailyCoin
+
+
+        
+Coinbase-incubated Layer 2 Base has received recognition from Franklin Templeton.
+
+
+
+The trillion-dollar asset manager has heralded the network’s strides in the SocialFi space.
+
+
+
+The nod comes as the network records significant gains in several metrics outstripping market leaders Arbitrum and Optimism.
+Base‘s notoriety is extending beyond degen circles.
+In recent months, the Coinbase-incubated Ethereum Layer 2 has experienced a meteoric rise in several key metrics. This rise has now drawn the attention of $1.5 trillion asset manager Franklin Templeton. The firm has heralded the network’s potential, particularly in the SocialFi sector.A SocialFi HomerunIn a Thursday, May 9, report, Franklin Templeton asserted that Base “has hit a homerun” in SocialFi. The firm noted this while citing data that the Ethereum Layer 2 accounted for 46% of the SocialFi market share, outstripping close rivals Polygon and BNB.Base’s SocialFi landscape is dominated by Friend.Tech. The application, which allowed users to tokenize their social media accounts, was a hit sensation right out of the gate, gaining sign-ups from NBA stars and Y Combinator CEO Gary Tan. But, in recent months, the platform’s meteoric rise has taken a hit amid privacy, legal, security, and user experience concerns. Following a recent airdrop, however, the project appears to be experiencing a resurgence.Franklin Templeton tipped the combination of Base’s support of leading SocialFi applications and Coinbase’s partnership to see the network maintain a key position in the SocialFi and Ethereum Layer 2 space in general.
+The recent Franklin Templeton nod comes as Base is beginning to outstrip other Layer 2 networks in several key metrics.Base Set to Sieze the Ethereum L2 Crown?On Thursday, May 9, crypto analytics platform IntoTheBlock shared data that showed that this week, Base had led the Ethereum Layer 2 ecosystem in several key metrics, including active addresses, daily transactions, and ETH inflows. According to the data, the network boasted 548,000 active addresses compared to Optimism‘s 534,000 and Arbitrum‘s 528,000. At the same time, the network also recorded 2.48 million transactions compared to the 1.97 million recorded by Arbitrum and the 550,000 recorded by Optimism. Base also saw the most ETH net inflows with 5.81K ETH, far more than the 2.73K ETH recorded by Arbitrum and the 1.46K ETH net inflows to Optimism.The recent strides come as the network has emerged as a favorite among investors following the Dencun upgrade.On the Flipside 
+Coinbase maintains that Base will have no native token.
+
+
+
+Base’s success has also attracted bad actors. According to a recent Scam Sniffer report, thefts on the network increased 145% month on month in April 2024.
+Why This MattersThe recent Franklin Templeton nod suggests that Base’s reach is crossing over from just crypto natives to institutions.Read this for more on Coinbase’s Base:Base Reaches Record Deployers, Surpasses Ethereum in VolumeBinance gets another hefty fine. Find out more:Binance Fined $4.3M in Canada as Global Regulators Circle    
+              
+    
+
+----------------
+
+JP Morgan, Wells Fargo latest major banks to disclose Bitcoin exposure via ETFs
+
+JP Morgan and Wells Fargo are the latest major global banks to disclose exposure to Bitcoin via some of the spot BTC exchange-traded funds launched in January.The two lenders filed their 13F disclosures on May 10, revealing a modest investment in the Bitcoin ETFs.JP Morgan disclosed $731,246 of spot Bitcoin ETF investments in BlackRock’s IBIT,  Bitwise’s BITB,  Fidelity’s FBTC, and Grayscale’s GBTC. The majority of the amount — $477,425 — was invested in IBIT. Meanwhile, Wells Fargo reported a $141,817 investment in Grayscale’s GBTC during the first quarter.Earlier disclosures have revealed that both BNP Paribas and BNY Mellon have also invested amounts into the Bitcoin ETFs, signaling a growing trend among traditional financial institutions despite the modest exposures.Furthermore, other major banks, including Morgan Stanley and UBS, have indicated an intent to allow clients to invest in spot Bitcoin ETFs. However, the two lenders have yet to disclose direct exposure to Bitcoin as of press time.Industry experts, including BlackRock’s head of digital assets, believe that the trend of institutional flows into Bitcoin ETFs is only beginning with the volume expected to rise as more sophisticated money, like sovereign wealth funds, begin entering the sector.BlackRock 13FBlackRock disclosed a $6.6 million investment in its own IBIT fund in its 13F filing on May 10.The company’s strategy follows other spot Bitcoin ETF issuers that have similarly invested in their own funds. Ark Invest holds $206.4 million of its ARKB fund, while Van Eck holds $98,000 of its HODL fund.BlackRock’s latest investment comes alongside solid performance for BlackRock’s IBIT. The fund has the highest cumulative inflows of any spot Bitcoin ETF at $15,490 and is the second-largest spot Bitcoin ETF in terms of assets under management.BlackRock’s IBIT has also set a new record for reaching $10 billion in AUM. Bloomberg ETF analyst Eric Balchunas commented on the trend, noting:“The record speed for an ETF to reach $10b in assets was held by JEPQ who did it in 647 trading days … IBIT got there in 49 days, FBTC in 77 days.”TradFi entering BitcoinChicago-based hedge fund CTC Alternative Strategies reported a $27.7 million investment in IBIT on May 9.Other financial institutions and companies that recently disclosed investments in spot Bitcoin ETFs include Hightower Advisors, US Bancorp, SouthState, Susquehanna International Group, Burkett Financial Services, and Legacy Wealth Asset Management.The above companies are a few of the hundreds of other firms that have made similar disclosures in their 13F filings since spot Bitcoin ETFs went live in January.According to data from Fintel, over 240 firms have invested in IBIT, while over 130 companies have invested in FBTC. More than 467 firms have invested in Grayscale’s GBTC, which existed before its conversion to an ETF in January.Mentioned in this article
+
+----------------
+
+Jack Dorsey Predicts Bitcoin Boom to $1 Million by 2030: What's Driving His Bold Vision?
+
+
+								Jack Dorsey, the former CEO of Twitter and a well-known figure in the tech and cryptocurrency sectors, recently shared his view that Bitcoin could reach $1 million by 2030.
+His prediction is part of a broader bullish outlook on the pioneer cryptocurrency, suggesting that its value could continue to climb even after hitting this milestone.
+Dorsey’s comments came during a detailed discussion about the future of digital currencies and his own experiences in the industry.
+
+Dorsey’s Vision: Beyond Bitcoin’s Price
+Dorsey’s enthusiasm for Bitcoin extends beyond its potential price appreciation. In the interview with Pirate Wires, he expressed a deep appreciation for the Bitcoin ecosystem, noting that it has been a significant source of learning for him.
+According to Dorsey, the collaborative and open nature of the Bitcoin community means that efforts by any individual to improve the network or engage with it positively can lead to broader benefits for all participants. This aspect of Bitcoin, as much as its price potential seems to captivate him.
+Dorsey particularly noted:
+The most amazing thing about Bitcoin, apart from the founding story, is anyone who works on it, or gets paid in it, or buys it for themselves — everyone who puts any effort in to make it better — is making the entire ecosystem better, which makes the price go up.
+In the same conversation where he discussed Bitcoin’s future, Dorsey also touched on his reasons for departing from BlueSky, the alternative social media platform he helped to co-found after leaving Twitter.
+He criticized BlueSky for what he sees as its deviation from the original vision of decentralization, noting that the platform has started to mirror traditional corporate structures with its focus on venture capital and a formal board of directors.
+This shift, according to Dorsey, contradicts the ethos of “decentralization and open-source protocols” that he aimed to champion. Dorsey’s critique extends to the broader tech industry’s approach to developing and managing digital platforms.
+He believes that many of the mistakes made by Twitter are being repeated by BlueSky and others, particularly when it comes to governance and the balance between open protocols and corporate control.
+His views highlight a tension within the tech world between the push for innovative, user-driven platforms and the pull of traditional business models.
+Bitcoin Market Movements And Broader Predictions
+While Dorsey has put forward a long-term view of BTC reaching $1 million, the crypto is currently trading above the $62,000 mark, showing a steady increase of 2.5% in the past 24 hours and 3.7% over the past week.
+BTC price is moving sideways on the 4-hour chart. Source: BTC/USDT on TradingView.com
+These movements are part of a wider trend that has seen various experts put forward optimistic forecasts for Bitcoin’s price trajectory.
+For example, Tom Lee of Fundstrat has predicted that Bitcoin could rise to $150,000 by the end of the year, citing the launch of several spot Bitcoin ETFs as a key development that simplifies crypto investments for mainstream audiences.
+Lee’s bullish stance is supported by his belief that the current crypto bull cycle is far from over, despite recent price dips and inflation concerns.
+
+Further supporting this optimistic outlook, Standard Chartered’s research notes suggest that Bitcoin could reach $150,000, while Ethereum could hit $8,000 by the end of 2024. These projections reflect a growing consensus among financial analysts that major digital assets have substantial room to grow.
+Featured image from Unsplash, Chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+ARK Invest removes staking feature from its Ethereum spot ETF filing - Crypto Briefing
+
+
+
+
+ARK Invest and 21Shares have amended their S-1 form for the proposed spot Ethereum exchange-traded fund (ETF) by removing the staking component, as shown by a filing dated May 10.In February, the two firms updated their filing with the option to stake Ethereum, in addition to cash-only redemption. Staking is considered a good way for fund managers to profit from the large amounts of crypto that ETFs can hold beyond just earning management fees.However, at the time, experts suggested that ARK Invest’s staking proposal for Ethereum was more of a “probe” to test the SEC’s response rather than a confident expectation that it would be approved by the securities agency.The Securities and Exchange Commission (SEC) has indicated that staking could classify the asset as a security, which is undesirable for spot Ethereum ETFs. Last year, the SEC fined Kraken and demanded a halt to its staking services.Legendary trader Peter Brandt said in a recent post on X that the SEC is going to crack down on staking.The latest amendment to ARK Invest’s application fuels speculation about ongoing discussions between the SEC and spot Ethereum ETF applicants, suggesting that the applications are being modified to align with SEC preferences.The reasons for ARK Invest’s recent modification remain undisclosed, as no official statements have been made by the involved parties.Crypto analysts are marking May as a critical month for the future of these spot Ethereum ETFs. The SEC is expected to make a decision on VanEck’s filing on May 23. The general consensus among analysts is that the filing will likely be rejected.Earlier this week, Grayscale, the world’s leading digital asset manager, withdrew its Ethereum futures ETF application, potentially to avoid sole responsibility for legal challenges in case of a denial from the SEC.[Updated with ARK Invest’s filing in February, Kraken’s case, and Peter Brandt’s statement]
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+JPMorgan reports holding shares of several spot Bitcoin ETFs
+
+United States-based financial company JPMorgan Chase has disclosed investments in Bitcoin (BTC) exchange-traded funds offered by Grayscale, ProShares, Bitwise, BlackRock and Fidelity.In a May 10 filing with the U.S. Securities and Exchange Commission (SEC), JPMorgan Chase reported it held roughly $760,000 worth of shares of the ProShares Bitcoin Strategy ETF (BITO), BlackRock's iShares Bitcoin Trust (IBIT), Fidelity’s Wise Origin Bitcoin Fund (FBTC), Grayscale Bitcoin Trust (GBTC) and the Bitwise Bitcoin ETF. In addition, the bank reported 25,021 shares worth roughly $47,000 in Bitcoin Depot, a crypto ATM provider.The SEC filing came the same day as Wells Fargo reported exposure to Grayscale and ProShares Bitcoin ETFs in its holdings and Bitcoin Depot. Susquehanna International Group reported on May 7 that it purchased more than $1 billion worth of shares of the spot crypto ETFs in the first quarter of 2024.Related: JPMorgan debuts tokenization platform, BlackRock among key clients: ReportJPMorgan Chase is the largest bank in the U.S. by assets, controlling roughly $2.6 trillion. The SEC added that observers should not assume that the information provided by the financial firm was “accurate and complete.”The SEC approved the listing and trading of spot Bitcoin ETFs on U.S. exchanges in January. Many experts expect the commission to decide on spot Ether (ETH) exchange-traded funds by May 23, when an application from asset manager VanEck reaches its final deadline.Magazine: What do crypto market makers actually do? Liquidity, or manipulation
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+‘Sleeping Giant’ XRP About To Awaken - Why Ripple's XRP $5 Eruption Price Now Looks Nigh ⋆ ZyCrypto
+
+
+            
+            
+Advertisement
+
+&nbsp
+
+&nbsp
+Throughout 2024, Ripple’s XRP has lagged behind its top crypto rivals, registering around 4.5% year-to-date returns and failing to revisit its peak value set in January 2018. Contrarily, the wider cryptocurrency market has grown considerably, gaining circa 55% during the same timeframe.
+
+
+
+The key reason behind XRP’s underperformance is the U.S. Securities and Exchange Commission’s (SEC) pending case against Ripple. A court ruled last year that Ripple’s XRP sales to institutional customers constituted unlawful securities sales. The regulator has now requested a federal judge to impose a $2 billion penalty on the fintech startup.
+
+
+
+However, according to Evai CEO Matthew Dixon, the tides could soon turn in favor of XRP. Dixon suggested that the forthcoming consumer price index (CPI) report for April, which is set to be released on May 15, could awaken the “sleeping giant” and drive the XRP price to new heights. He anticipates a weeker-than-expected CPI index to light a fire under the XRP bulls.
+
+
+
+Economists estimate that the CPI rose 0.3% month-on-month in April ahead of the Wednesday report, which would cast doubt on hopes for a Federal Reserve rate cut this summer. Nevertheless, lower-than-expected numbers would benefit risk assets such as major altcoins like XRP.
+
+
+
+XRP Set For Rapid Rally To New Highs?
+
+
+
+Despite facing extreme sell-pressure over the last five years, XRP remains in a consolidation phase, with the XRPArmy attentively looking out for a huge breakout that could propel its price past the magical $5 milestone, setting a new record high.
+Advertisement
+
+&nbsp
+
+
+
+Ripple and the SEC are currently in the lawsuit’s remedies stage. Ripple’s chief legal officer Stuart Alderoty recently indicated that the nearly 4-year long legal battle is almost coming to an end, as ZyCrypto reported.
+
+
+
+As the crypto community eagerly awaits the outcome of the long-drawn-out suit, experts expect a final judgment around September. Meanwhile, Ripple is primed to launch XRPL enterprise solutions to the Japanese market via a strategic partnership with Tokyo-based consulting company HashKey DX.
+        
+
+        
+
+----------------
+
+Only a fool would vote on crypto alone - Blockworks
+
+
+US presidential candidates on both sides of the two-party spectrum are taking advantage of the crypto industry.
+You’ll notice how I didn’t say that crypto will be a hot button topic this election season, or that the crypto space will play any sort of role in shaping election discourse. 
+No. It’s clear to me that some of the main players in this presidential race are planning to exploit the crypto world for money and votes — and those in crypto should stop playing along.
+Why should favorable cryptocurrency legislation take precedence over all else? Perhaps you really believe that the financial system is broken, and that a path forward for cryptocurrency in the US is the best way to create a new, more egalitarian society that will allow all to flourish. 
+But that’s not what I see. 
+What I see is a small number of wealthy individuals, who made that wealth from cryptocurrency, looking for the government to let them continue growing that wealth unfettered.
+Among diehard crypto evangelists right now, “voting for crypto” means voting Republican for president. According to this side of the debate, any other decision will virtually assure the death of the American crypto industry. 
+This fear (true or not) has led some major personalities in Web3 to push crypto supporters into becoming single-issue voters. Their message is clear: Choose your 2024 candidates based solely on their cryptocurrency stance, or else.
+In other words, Americans should prioritize their own selfish financial interests over broader societal and ethical concerns. When you promote the idea of voting for America’s crypto industry above all else, you’re deciding to ignore all of the other issues that are really at stake this election season — healthcare access, Social Security, gun legislation, women’s rights, LGBT issues, immigration, to name a few.  
+I want to be clear — I do not care if you vote Republican, Democrat, or third-party, as long as you care about the issues at stake, and truly believe that the candidate in question is representative of your views. But voting for a candidate you would not otherwise support, simply because they favor the deregulation of a sector in which you hold a profit motive, is a compromise that you should not make.
+Crypto isn’t political by accident
+Cryptocurrency has undeniably (and perhaps unfortunately) become a partisan issue.
+Blockchain technology, which underpins the entire crypto industry, is neither inherently good or bad. But it’s the actions of individuals and what they do with this technology that has drawn regulatory scrutiny over the years. This has transformed a neutral technology stack into a deeply partisan issue, with sharply divided views across party lines concerning its integration into the American financial system and beyond.
+On the left side of the political spectrum — the same side already in favor of stricter financial regulations — politicians often place crypto against a global backdrop of scams, money laundering and market manipulation to strengthen their calls for oversight. Their tagline is to keep consumers safe.
+Lawmakers on the right — who already favor less financial regulation as a rule — instead posit that intense crypto regulation will cripple innovation and impede technological advancement. They say that their aim is to keep American innovation moving forward at a brisk pace, far ahead of other countries like China. 
+However, their supposed motivations are arguably applicable only during the election season. Because what all politicians actually want is your attention, your money, and ultimately your ballot. As with most issues, when the time comes, it is unlikely that much in the way of meaningful change will come from either side of the aisle. Instead, it will be the actions of the innovators within the crypto space that move the needle forward — which you would think that anyone who truly supports a limited government would appreciate.
+The very idea that crypto needs to be “voted” into office has led to the platforming of some very unsavory people who really have nothing to do with crypto at all — besides a shared desire to solicit donations from this niche, newly rich subset of Americans.
+Last year, Vivek Ramaswamy gave a fireside chat at Messari’s Mainnet last fall, promoting his presidential crypto plan a few months before he dropped out of the race. Consensus will have Robert F. Kennedy Jr. speak this year, announcing the news with a headline calling him a “pro-crypto presidential candidate.” I can think of a lot of other modifiers for RFK Jr. that are more headline-worthy than his stance on crypto. 
+And most importantly, Crypto Twitter has, for the most part, widely embraced former President Donald Trump’s words of support for NFTs and crypto. And far be it for me to say whether that support is genuine, or more largely based on the fact that he’s made millions of dollars selling NFTs branded with his own image.
+Backing these candidates simply because they seem to make positive noise about crypto isn’t taking back the power from Wall Street or helping make the world a more financially equitable place — it’s falling for empty campaign rhetoric. 
+The idea that any presidential (or gubernatorial or senatorial) candidate is trying to win favor with the crypto crowd because they truly believe in crypto is laughable. These candidates are looking for crypto money, nothing more and nothing less. Those in crypto who support such candidates are either willing to pretend that these officials understand even the basic strokes of how crypto works under the hood (let alone its implications for the broader frameworks of finance and democracy), or they are willing to compromise their morals and ethics for the mere possibility of moon-making crypto legislation in the future.
+As the one, big, obvious example: If you believe that Donald Trump will truly support the crypto industry, you have to be willing to overlook his judicially acknowledged sexual assault charges, overt institutional fraud and genuine attempts to overthrow American democracy when you cast your vote in November. 
+Is cryptocurrency really that important to you?
+
+Molly Jane Zuckerman is the opinion editor at Blockworks. She previously led educational content at CoinMarketCap and ran the news desk at Cointelegraph. Molly Jane is now based in New York after almost a decade in Russia, and can talk your ear off about Russia lit and detective novels. 
+Jeff is an editor at Blockworks, based in the United States. He has been a part of the blockchain space for over a decade, most recently working as US news editor at Cointelegraph. His areas of focus include empowering artists and creators through technology, using proof-of-participation methods to reward self-improvement, reducing the effectiveness of Sybil attacks, seeking transparent equity for disadvantaged communities, and exploring fairer models of world governance. 
+
+
+----------------
+
+Will Vitalik Buterin’s Gas Fee Proposal Make Ethereum More Like Solana? - Decrypt
+
+Ethereum could use a much better system for charging transaction fees from its users, the network's chief architect Vitalik Buterin argued in a widely circulated essay published Thursday.Buterin's post, which laid out a path toward a more customized and equitable system, immediately garnered reactions from two principal groups: Ethereum users, who expressed their excitement at the prospect of lower fees on the network’s costly mainnet; and Solana users and developers, who noticed that Buterin's proposal sounded an awful lot like the Solana network's own fee model.“It’s certainly a Solana-esque approach,” Mert Mumtaz, a prominent Solana builder and the co-founder and CEO of infrastructure startup Helius Labs, told Decrypt.So just how similar is Buterin’s “multidimensional gas fees” proposal to Solana's "local fee markets"?Gas fees refer to the transaction costs that blockchain users pay to the network. This system is in many ways what gives tokens like Ethereum (ETH) and Solana (SOL) their value. You need ETH to pay gas if you want to do just about anything on the Ethereum network, just like you need SOL to do things on Solana. When there's a lot of activity on the network, gas fees go up. And when there's less activity, gas fees go down.In some ways, Solana's current gas fee structure and Vitalik's “multidimensional gas fees” proposal stem from the same philosophy: In the name of fairness, different types of on-chain transactions should cost different amounts, depending on demand. But in practice, leaders of both networks appear to have different ideas about how to implement such a philosophy—leading to a potentially significant difference in user experience.Solana currently operates on a “local fee markets” structure, wherein gas fees are calculated on a per-account basis, project by project. In this system, spikes in gas fees due to network congestion are effectively quarantined to specific projects.For example, a spike in gas fees induced by a hot Solana NFT mint should only impact users who are interacting with that project—users elsewhere across the entire Solana network should be unaffected. (There is currently some disagreement within the Solana community about whether local fee markets actually work as effectively as intended, in part due to the hyper-congestion that can occur in crowded mini-gas ecosystems.)But Solana’s setup makes a clear contrast to Ethereum—where demand for wildly popular NFTs has previously clogged the entire network, sending gas fees skyrocketing for everyone. The “multidimensional gas fees” concept proposed by Vitalik Buterin does seek to make Ethereum transaction costs more equitable. But it doesn't appear to outline a boutique system like Solana’s, in which every individual project on Ethereum would become its own siloed gas ecosystem. Instead, multidimensional gas on Ethereum would only distinguish between different macro categories of effort required to complete network transactions, Ethereum core developer Marius Van Der Wijden told Decrypt. For example, computation, storage, and calldata might fetch different premiums at a given moment, depending on demand. Different on-chain transactions consist of different ratios of those categories of computing. Per Buterin, Ethereum’s Dencun upgrade, which went live in March, constituted the debut of such a system by sending layer-2 data, the sort that comes from layer-2 networks like Arbitrum, to “blobs.” Blobs feature different prices and different limits than the rest of an Ethereum block. At a macro level, expanding multidimensional gas to differentiate between more computational categories might improve Ethereum’s efficiency, and in Buterin's view, significantly increase scalability of the network’s mainnet. But it likely wouldn't insulate Ethereum users from spikes in network volatility induced by trending projects—it’s not that boutique in design.So, all that is to say: Solana and Ethereum maximalists, fear not. There will still be plenty of differences to pick apart.Edited by Andrew HaywardStay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Ondo Finance to Launch Real World Assets Payment Network
+
+
+Ondo Finance, a pioneer in decentralized finance (DeFi), has announced a strategic partnership with Zebec Network, a platform specializing in tokenized real-world assets (RWA). 
+This collaboration aims to enhance real-time payroll payments using Zebec’s advanced payment technology and Ondo’s USDY stablecoin system.
+Ondo Finance Partners With Zebec Network
+The partnership seeks to expand the operation of USDY, a stablecoin known for its stability and performance. It will also integrate Zebec’s Instant Card technology and RWA payment solutions. 
+The combined technologies aim to provide companies, traders, and individual users with “real, free, and problem-free” financial services, enhancing the overall efficiency and experience of payroll and financial management.
+
+“Zebec Network’s continuous payment technology revolutionizes payroll by enabling payments per second, improving efficiency and ultimately the end-user experience. Zebec’s integration of USDY into its payment solutions is an exciting option but logical,” Justin Schmidt, president of Ondo Finance, said.
+
+
+The integration of USDY into Zebec’s suite of products marks a significant step in redefining global financial ecosystems. 
+With a current capitalization of $7.8 trillion and an 11.3% growth rate, the RWA market presents a substantial opportunity for both companies. Daily trading volume within this ecosystem is $494.3 million, reflecting its robust activity and potential for further expansion.
+
+
+“This integration marks a significant advance in our shared quest to redefine financial ecosystems globally. By incorporating USDY, an RWA asset, we further enhance Zebec’s suite of products, empowering businesses and individuals to manage their finances with immediacy and unprecedented efficiency,” Sam Thapaliya, founder of Zebec Network, said.
+
+Read more: What Are Tokenized Real-World Assets (RWA)?
+The announcement positively impacted Ondo Finance’s native token, ONDO, which rose 6% from $0.76 to $0.83 before stabilizing at $0.80. Additionally, ONDO’s trading volume increased by 4.78%, and its market capitalization grew by 0.98%, reaching $1.10 billion. 
+This response reflects the market’s confidence in the new partnership and its potential to revolutionize financial services.
+ONDO Price Performance. Source: CoinMarketCap
+Looking ahead, Zebec Network plans to offer users passive income opportunities by accessing their returns in USDY through the Instant Card. Notably, USDY will not be available in the United States, ensuring compliance with US Securities Law. 
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Wells Fargo Banks Has Invested $143 Million In Bitcoin, Filing Reveals
+
+
+                        
+                            Wells Fargo Banks Has Invested $143 Million In Bitcoin, Filing Reveals                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 10, 2024 17:19 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Wells Fargo, the third largest bank in the United States, has invested in one of the country’s new Bitcoin ETF products.According to a 13F-HR form submitted on Friday, the bank held exposure worth $143 million across three different Bitcoin investment products as of March 31.Wells Fargo Buys Bitcoin
+The vast majority of those funds were held with the Grayscale Bitcoin Trust (GBTC) – a Bitcoin spot ETF whose shares are designed to track Bitcoin’s spot price during traditional stock market hours. The fund directly backs its shares with a fixed amount of BTC, which gradually declines over time due to management fees.The other two Bitcoin-related investments include a $99,000 position in the Bitcoin ATM provider Bitcoin Depot and a $1.2 million position in the ProShares Bitcoin Strategy ETF (BITO), a Bitcoin futures ETF.The total position represents just a drop of Wells Fargo’s $603 billion in assets under management and has likely shrunk alongside Bitcoin’s price since the reporting period.Nevertheless, the crypto community has hailed the bank’s allocation as a massive step toward institutional Bitcoin adoption.Back in 2018, the same bank temporarily banned crypto credit card purchases, but its analysts came to recognize Bitcoin’s rapid adoption growth and price appreciation over the coming years.Why Choose Grayscale?
+Wells Fargo began offering Bitcoin ETFs as an investment option in February for clients who specifically requested the product. Since launching in January, U.S. Bitcoin spot ETFs have absorbed $11.8 billion of net inflows.Other major financial institutions have also disclosed substantial allocations to Bitcoin ETFs in previous weeks. So far, the largest known owner of the products is Susquehanna International Group, an investment firm with $438 billion AUM holding $1.8 billion in Bitcoin ETFs.Interestingly, both Wells Fargo and Susquehanna invested most heavily into GBTC, which is the most expensive of all its competitors. The fund charges 1.5% per year in management fees, compared to a 0.3% management cost from most other rivals like BlackRock and Fidelity.Grayscale is currently the largest Bitcoin ETF thanks to its pre-ETF launch Bitcoin stack, but only by a thin margin. The fund has suffered nearly endless outflows since January 11.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+MetalCoreâs CTO on how to make a Web3 game fun: âWe use what we understandâ - Crypto Briefing
+
+
+
+
+Blockchain games dominated the first quarter, representing 30% of all on-chain activity in this period, according to the “State of the Dapp Industry Q1 2024” report by DappRadar. The report highlights that an average of 2.1 million wallets were active daily during Q1.This dominance in gaming activity on the blockchain could mean that analysts’ expectations about Web3 games focusing on entertainment this cycle are being fulfilled. MetalCore is a blockchain shooting game from this new batch of titles focused on entertaining gameplay, and it is finding success in its second closed beta testing.“[The number of players] It’s actually a lot more than we expected. We planned for a couple hundred, maybe 1,000 players. We’ve got close to 9,000 players and about 1,500 to 2,000 daily active users. And then at any given time, we have somewhere between 300 and 400 concurrent users, which is really good for a game that is not freely available, you still have to sign up on a waitlist and get keys,” shared Dan Nikolaides, CTO of MetalCore.The second closed beta test for MetalCore ends May 16th, after a two-week period used majorly to test game economy and check bugs, added Nikolaides. Since those testing periods are executed without the completed game, they are harder to retain players, which is why MetalCore’s team is surprised by the number of players dedicating up to 50 hours a week to the game.However, making a blockchain game fun is not an easy task, especially because most of the teams behind new Web3 titles are from the traditional gaming industry, and must get acclimated to new standards.“Web3 industry is really young still, so it’s hard to know what’s right. And that leads to changing directions, more so than we would do in Web2. Changing directions from a business perspective is not something that you typically would need to do in Web2. It is pretty much about thinking: well, this is going to be a premium game or a free-to-play game, or we’re going to sell it in bundles, or whatever it is going to do. Whatever the business plan is, that doesn’t require you to change your entire development process.”Yet, in Web3 there are more factors to consider, such as choosing a blockchain to deploy digital assets and deciding whether or not the game will have tokens. This drastically affects the technology stack used and what the team can do with digital assets, said MetalCore’s CTO.“Are we going to be able to upgrade them? Are they gonna have attributes that we can cheaply upgrade and can players level them up? Or is that gonna be too cost-prohibitive? That is just the simplest of things. Even from the business side, we have to question when we should launch from a market perspective. Like when is a good time to launch a token? Who should we partner with? All of these are very, very difficult decisions that we have to make besides just making the game, which definitely there was a learning curve there for us to figure all this out.”Scratching an ideaMetalCore is a multiplayer shooting game that reminds famous titles, such as Titanfall and Destiny. Players can go on missions, use different battle vehicles, and fight alien monsters. Nikolaides shared that the decision to create a multiplayer online game is tied to the “company DNA,” but it started outside the Web3.“We started this off actually as a VR game. So we made a VR game called World of Mechs for Quest 2 [VR goggles]. And that was really fun. Our founder has a long history of developing mech games. And once we did that, we had a really good foundation for fun mech combat. And we were like: ‘What if we took this and made a big PC game out of it?’ And at the time, we weren’t sure how to fund it. We weren’t sure how to make it happen.”Migrating to Web3 then made sense, as the team would be able to create a new blockchain title from scratch, instead of just trying to “slam a game into Web3.” After this decision, Nikolaides explains that making the game free-to-play was the next logical step, as the team didn’t want to gatekeep the game with costly NFTs, allowing players to build a community around it.“Gatekeeping games with NFTs is just not fun. The fun thing about games like this is when you can show off. If you have something really cool, naturally you want to show off to other people. But if you make a game where you have to buy a super expensive NFT just to play, there’s nobody to show off to. Nobody else is there to be like ‘oh my god, that’s so cool.’ So people generally, just the average person, really loves to feel they have achieved something.”Keep it simpleBesides the initial barrier of getting used to a new industry, Nikolaides shares additional challenges when creating a fun Web3 game, and how MetalCore’s team overcame them. “There are all the normal challenges that come with making a fun game even in Web 2, which is difficult by itself. Then there are additional challenges, which are the kind of economic challenges of designing a system that works in Web3.”MetalCore’s approach then was to keep “as close as possible to something they understood,” says Nikolaides. They already understood the idea of building a character, leveling it up, improving its load-outs, spending time, energy, resources, and money potentially upgrading it and making it “super bad-ass,” he adds.“And then we thought that with a free marketplace of NFTs, people would want to sell upgraded characters. And so we kind of designed our game around upgrading characters, right? This was very important for us, because instead of trying to do something very complicated, we kind of could take a lot of lessons that we learned in Web2, that we understood from designing game economies that involved upgrading characters, and then just kind of do it in such a way that it was Web3 friendly.”
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+U.S. House Gears Up to Decide on Landmark Cryptocurrency Legislation | Cryptopolitan
+
+Damilola is a crypto enthusiast, content writer, and journalist. When he is not writing, he spends most of his time reading and keeping tabs on exciting projects in the blockchain space. He also studies the ramifications of Web3 and blockchain development to have a stake in the future economy.
+
+----------------
+
+SEC Rebuts Coinbase's (COIN) Attempt to Get Appeals Court to Answer Key Crypto Question
+
+"Similarly, attempting to meet the 'precedential value for a number of cases' factor, Coinbase again pivots away from the 'contractual obligations' question, this time into '[h]ow Howey applies to secondary-market crypto transactions,'" the filing said.
+
+----------------
+
+WBTC address poisoner sends nearly all funds back to victim after negotiations
+
+The address poisoning attacker who tricked a user into sending them 1,155 Wrapped Bitcoin (wBTC) (worth $68 million at the time) has returned nearly all of the funds stolen, blockchain data shows. The funds had been swapped for Ether (ETH) during the time period that they were held by the attacker, and the price of ETH had fallen. However, the attacker sent back approximately 22,960.07 ETH, worth $65.7 million, which represents over 96% of the US dollar value of the funds t originally stolen.Address poisoning victim’s wallet shows over 22,000 ETH held within it. Source: Etherscan.At 8:47 am UTC on May 10, multiple wallets began sending ETH to the account. The first transfer was for 29.999 ETH ($87,199 based on the ETH price at the time). Over the course of the next day, over 225 wallet transactions were made from various accounts to send ETH to the victim’s address. The value of each transaction ranged from 29 to 67 ETH.Accounts sending ETH to the victim’s address. Source: Etherscan.By the end of the series of transactions, the wallet had a balance of over 29,000 ETH. The transfers occurred after a series of messages had been exchanged between the victim and attacker. The victim had at first agreed to allow the attacker to keep 10% of the funds as a bounty. However, this deal appears to no longer be on the table, as the attacker has returned more than 90% at the time of publication.In a report attributed to blockchain security platform Match Systems and seen by Cointelegraph, the platform claimed to have discovered information that “strengthened” the victim’s negotiating position, implying that security experts were making progress towards identifying who the attacker was. According to the report, Match Systems “conducted a detailed analysis of the incident and identified several opportunities to strengthen the negotiating position for subsequent communication with the attacker.” As a result, “the hacker returned the entire stolen amount of 22,960 ETH to the victim.” The report stated that the victim “has no complaints against the attacker” at the moment.Cointelegraph reached out to Match Systems to confirm the report’s authenticity, but did not receive a response by the time of publication.Address poisoning attacks can cause substantial losses to crypto users. Experts suggest that they can be avoided by carefully inspecting the receiving address before each transaction is sent.Related: DEA gets duped: Agency loses $55K in address poisoning scam
+
+----------------
+
+New Crypto Wallet Scoops Up Over 350 Billion PEPE Tokens - Can This Send The Memecoin Higher? ⋆ ZyCrypto
+
+
+            
+            
+Advertisement
+
+&nbsp
+
+&nbsp
+A new player has entered the meme coin arena, making waves with a crazy purchase of over 350 billion PEPE tokens on the Binance exchange. This acquisition, worth an estimated $2.914 million, has ignited speculation and excitement in the crypto space, raising questions about PEPE’s future trajectory.
+
+
+
+The transaction, reported by the analytics account @lookonchain on X, marks the emergence of a potential mega whale in the PEPE ecosystem. With such a substantial investment, this new player has positioned itself as a powerful force in the meme coin market. This event has also sparked speculation about their motivations and the potential impact on PEPE’s price movement.
+
+
+
+Major Moves
+
+
+
+Furthermore, PEPE’s ecosystem is becoming increasingly active. That’s because a significant volume of tokens is exchanged between anonymous wallets, and substantial transfers are made to wallets associated with major exchanges like Kraken. These movements suggest active trading and strategic positioning by investors.
+
+
+
+Despite a minor decline following the initial surge, PEPE’s price remains relatively stable, currently trading at $0.000008326 per token at the time of writing. However, the entry of a new whale investor and the surge in trading activity raises the question: can this significant acquisition send the meme coin even higher?
+
+
+
+What’s Next for PEPE?
+
+
+
+The answer remains uncertain, as the crypto market is highly volatile and unpredictable. That’s especially true when talking about meme coins. While the influx of a large investor could potentially increase confidence and drive further price appreciation, it also introduces new dynamics and uncertainties into the market. Crypto enthusiasts will follow the situation closely in the coming days to see the impact of this acquisition on PEPE’s price dynamics.
+Advertisement
+
+&nbsp
+
+
+
+In conclusion, a new crypto wallet on Binance purchased over 350 billion PEPE tokens, sparking excitement and speculation within the memecoin community. As the market awaits further developments, all eyes will be on PEPE to see if this significant transaction can propel the meme coin to new heights.
+        
+
+        
+
+----------------
+
+Here's Why Vitalik Buterin Endorsed Privacy Protocol Railgun
+
+
+In a recent interview with BeInCrypto, Alan Scott, a researcher at Railgun, elaborated on the recent endorsement by Ethereum co-founder Vitalik Buterin. 
+This endorsement highlights the advancements and the unique privacy features that Railgun aims to bring to the decentralized finance (DeFi) sector.
+DeFi Through Zero Knowledge Proof Tech
+Railgun leverages zero-knowledge proofs (zk-SNARKs) to ensure user privacy while interacting with DeFi applications. 
+
+“Zero-knowledge proofs allow users to prove a statement’s truth without revealing the actual information. In Railgun’s case, users can prove they own a specific balance of encrypted tokens in the Railgun smart contract, enabling privacy-preserving transactions,” Scott told BeInCrypto. 
+
+
+The project stands out in the DeFi space with its ability to perform cross-contract calls privately. This innovation allows users to engage in various DeFi activities, such as swapping and farming, from a privacy-preserving externally owned account (EOA). “This feature is a huge advantage,” Scott noted, and “it’s encouraging to see recognition from one of the greatest minds in the space.”
+Vitalik Buterin’s endorsement has invigorated the Railgun team, sparking new initiatives and driving execution. While new collaborations have not yet materialized, the endorsement boosts the project’s credibility and motivates contributors to enhance DeFi privacy solutions.
+Read more: What is Railgun? A Guide to the EVM Privacy Protocol
+Railgun’s features include Private Proofs of Innocence, which help users demonstrate non-interaction with malicious actors on-chain. This technology ensures that users are not sharing a system with nefarious addresses. Additionally, Railgun integrates auditability features, such as a view-only private key, enabling users to reveal transaction graphs to third parties and integrate with tax software like Koinly.
+Scott emphasized the importance of both technology and education in addressing privacy challenges. This approach pushed Railgun into developing comprehensive documentation and active community presence on platforms like Telegram and Discord.
+
+
+“The best approach to these kinds of challenges is tech and education based. It’s about demonstrating from a technical standpoint not only how these tools work but also their practical effects,” Scott said. 
+
+Privacy on the Blockchain Should Be Easy
+Looking ahead, Railgun is set to introduce two major updates. The first is Version 3, which is a complete rework of the contracts to a modular architecture. It enables new private DeFi capabilities such as leverage and reducing gas costs by up to 50% for certain transactions. 
+The second one is Railgun Connect, a universal privacy plugin for Ethereum Virtual Machine (EVM). It allows users to use their private balance on most DeFi platforms without requiring integration. 
+
+With these, the protocol aims to make private transactions as straightforward as public ones. Therefore, it ensures that DeFi users do not have to sacrifice privacy for self-custody and on-chain opportunities.
+
+“The goal is to make private transactions as easy to use as public transactions such that all DeFi users can remain private with as much of the complexity abstracted away as possible. DeFi users shouldn’t be forced to choose between embracing self-custody and on-chain opportunities or giving up their valuable financial data,” Scott explained.
+
+Collaboration within the privacy ecosystem is also a priority. Scott highlighted efforts by Ameen Solamani and initiatives like Web3Privacy.info, which compile research on privacy mechanisms. These collaborations aim to advance the understanding and implementation of privacy technologies in the DeFi space.
+Read more: What are Zero-Knowledge Proofs? Securing Growth for Web3 Apps
+This commitment to innovation and privacy reflects why Vitalik Buterin’s endorsement is well-deserved, spotlighting Railgun’s potential to transform the DeFi sector.
+
+
+Disclaimer
+Following the Trust Project guidelines, this feature article presents opinions and perspectives from industry experts or individuals. BeInCrypto is dedicated to transparent reporting, but the views expressed in this article do not necessarily reflect those of BeInCrypto or its staff. Readers should verify information independently and consult with a professional before making decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
