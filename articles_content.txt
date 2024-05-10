@@ -1,506 +1,3 @@
-Scammer's Regret? $71 Million Bitcoin Thief Sends Ethereum to Victim - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsThe Ethereum user who accidentally sent $71 million worth of Wrapped Bitcoin to the wrong address last week—after being hit with an apparent “address poisoning” scam—may be about to get their money back. Or at least some of it.On May 3, address 0x1E227 sent 1,155 Wrapped Bitcoin (WBTC)—about $71 million worth—to a scammer’s crypto address, after being fooled into thinking the recipient's address was one of their own. The victim has been corresponding with the thief over the blockchain ever since, and was partially refunded with 52 ETH ($156,000) early Thursday.“Please leave your Telegram and I will contact you,” wrote the thief within the blockchain transaction on Thursday.The attacker initially stole the funds through a popular technique called “address poisoning” or “wallet contamination.” This involves a scammer sending a zero-value transaction to a target’s wallet from a crypto address purposefully picked to look like one that the victim regularly corresponds with.In this case, both the victim’s real target address and the scammer’s address began with characters 0xd9A1, and ended with 853a91, making them difficult to tell apart at first glance within most wallet apps.The scammer’s goal is to bait the victim into copying the fake address from their transaction history the next time they intend to send themselves money, and to intercept that transfer for themselves.After losing the funds last Friday, the victim initially messaged the thief to admit that they “won”, and asked that they return 90% of the money, keeping 10% as a clean reward.“We both know that $7 million will definitely make your life better, but $70 million won't let you sleep well,” the victim wrote.The scammer responded by demanding the victim send the $1.6 million in DAI stablecoin remaining at the wallet address, or else they wouldn’t consider the offer. “If you don't, you won't hear from me again & I won't respond,” the scammer wrote.The victim followed up with threats to track down the hacker based on their transaction history if they didn’t take the initial 90/10 offer.“We both know there's no way to clean [these] funds. You will be traced,” the victim wrote. “We also both understand the ‘sleep well’ phrase wasn't about your moral and ethical qualities.”Onlookers joined in on the conversation, with one offering services to provide data about the hacker, such as IP addresses, in return for $100,000. Others came to the scammer’s defense, congratulating the theft and assuring them that the victim’s threat was a bluff—and calling the victim a “dumb, greedy whale.”Edited by Andrew HaywardStay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-3 reasons why Bitcoin traders say a BTC price trend reversal is overdue
-
-Bitcoin (BTC) price is down 1.85% over the last 24 hours and currently trades 17% below its all-time high of $73,835 reached on March 14.BTC/USD daily chart. Source: TradingViewDespite this performance, the technical setup, whale activity and on-chain data show that Bitcoin traders believe a trend reversal toward news highs could be in the making.Bitcoin price retests key support areasData from Cointelegraph Markets Pro and TradingView shows Bitcoin price oscillating between $60,648 and $62,800 over the last 24 hours. Bitcoin’s monthly chart shows the current price range is retesting an area that acted as a resistance when the BTC hit previous all-time highs, as observed by popular analyst Rekt Capital.According to Rekt Capital, this area is now acting as support for BTC since last month’s halving sell-off did not pull the price below this range.“On the monthly timeframe, Bitcoin is still retesting the old All Time High major resistance area (red) as new support (green).”BTC/USD monthly chart. Source: Rekt CapitalFellow analyst Moustache made the same observation, sharing a BTC/USD three-day chart showing that the price was trading at a level close to the previous all-time high.According to Moustache, this has happened only twice in the past—in 2017 and 2020. In both cases, previous all-time highs supported Bitcoin’s price, after which the coin went on a parabolic uptrend, hitting new record highs. Source: MoustacheIn another X post on April 25, Moustache commented on a similar set-up on the monthly chart, saying that BTC was going higher after retesting the line. “After reclaiming the line in 2012, 2016 and 2020, Bitcoin was just getting started. This will go much higher.”Whale accumulation backs Bitcoin’s potential upsideResponding to the market’s drawdown over the last few days, Bitcoin whales took advantage of the entry into the “prime buy zone” and bought more BTC in the dips, according to market intelligence firm Santiment.The analytics firm noted that addresses holding more than 1,000 BTC have “made some accumulation moves over the past 24 hours” as BTC ranged tightly between $61,000 and $64,000.In a May 9 post on the X social platform, Santiment said,“Wallets with 1K-10K $BTC have collectively accumulated ~$941M worth of coins, rebounding to their highest holding level in 2 weeks. ”Bitcoin 1,000-10,000 BTC chart holdings. Source: SantimentThis means large Bitcoin investors are “showing signs of confidence despite price drop to $62.000,” the on-chain data provider explained. Overall, this is a positive sign as continued accumulation signals bullish sentiment among this cohort of investors.Related: Bitcoin price buys time at $61K as US jobless claims hit 9-month highsDeclining Bitcoin balance on exchangesData from on-chain metrics analytics firm CryptoQuant shows that BTC balance on exchanges reached a five-year low of 1.927 million BTC after dropping 6.54% over the last 90 days.BTC reserve on exchanges. Source: CrytoQuantDecreasing BTC balances on exchanges simply means investors could be withdrawing their tokens into self-custody wallets, indicating a lack of intention to sell in anticipation of a future price increase.This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-
-
-----------------
-
-Robinhood CEO says SEC unwilling to facilitate crypto industry despite 'good faith'
-
-Robinhood CEO Vlad Tenev voiced strong concerns about the limitations regarding the accessibility of crypto for Americans and criticized the SEC for its “regulation by enforcement” approach toward the industry.Tenev made the statement during a CNBC interview on May 9, where he also discussed the significant increase in crypto trading on the platform and the SEC’s recent Wells Notice against the firm’s crypto unit that claims it is selling unregistered securities.Regulatory hurdlesRobinhood’s crypto trading volumes surged 224% in the first quarter. Despite this growth, Tenev disclosed that the company’s discussions with the SEC had stalled after 16 meetings without any progress as the regulator did not engage in productive discourse.Tenev explained during the interview:“We tried to create what we call a special purpose broker-dealer for transacting in crypto assets… Unfortunately, a clear path forward with the SEC never emerged, and they did not reciprocate our efforts.”The failed discussions ultimately resulted in the SEC issuing a Wells Notice against the firm, indicating potential enforcement actions for alleged securities violations.Tenev expressed disappointment over the SEC’s decision to halt discussions and highlighted the regulator’s preference for “regulation by enforcement” rather than adapting its rules to facilitate the evolving crypto industry.He argued for regulatory adjustments to permit brokers to incorporate digital assets, a move he believes the SEC is currently reluctant to make.Tenev added that the SEC has the ability to change the regulatory framework for crypto but there seems to be no intent to do so from the regulator.Importance of accessThe Robinhood CEO framed the situation as a broader issue of consumer rights, stressing the importance of crypto and the necessity for Americans to have unfettered access to them.Tenev said the firm does not agree with keeping Americans out of the crypto industry, especially as it is becoming “more and more important.”The Wells Notice against Robinhood marks a significant moment in the broader discussion on how financial regulatory bodies should manage the growing crypto market.The conflict with the SEC places Robinhood at the center of a critical debate over the future of crypto regulation and the role of traditional financial oversight in an increasingly digital economy.Mentioned in this article
-
-----------------
-
-BitMEX Co-Founder Arthur Hayes Predicts Bullish Crypto Market Surge Ahead of U.S. Elections
-
-
-
-                    
-
-Arthur Hayes, co-founder of BitMEX, believes the next few months present a prime time for cryptocurrency investment, particularly for those with disposable fiat money. 
-
-
-
-In an interview with Cointelegraph, Hayes emphasized, “Those people who have fiat and extra cash that want to allocate to crypto, this is the perfect opportunity to do so.” 
-
-
-
-
-He sees the current stagnant market conditions as a golden chance to buy before the expected uptrend in the crypto market.
-
-
-
-He attributes the anticipated rise in Bitcoin and other cryptocurrencies later this year to inflationary monetary policies. 
-
-
-
-Hayes suggests that these policies will play a central role in driving the market upwards. 
-
-
-
-
-READ MORE: Sui Network Addresses Token Supply Concerns, Asserts Transparency and Third-Party Oversight
-
-
-
-He states, “Major economies around the world are going to print even more money between now and, say, the next 18 to 24 months,” signaling potential inflationary pressures that could increase the value of decentralized digital currencies like Bitcoin.
-
-
-
-Furthermore, Hayes argues that the forthcoming United States presidential elections will act as a bullish catalyst for the cryptocurrency market. 
-
-
-
-He believes that financial authorities in the U.S. will likely adopt looser monetary policies to aid President Joe Biden’s reelection campaign. 
-
-
-
-
-Such actions, according to Hayes, will mirror past trends where monetary expansion was linked to rallies in the crypto market.
-
-
-
-He explains the process by which governments can influence the economy and, by extension, the crypto market: “When you control the purse of the government, it’s very easy to do so by printing money, borrowing it, and handing it out to people in various forms.” 
-
-
-
-This method of monetary manipulation historically correlates with increases in the cryptocurrency market, suggesting a similar outcome could occur in the upcoming election cycle.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Veteran Trader Targets Political Meme Coins TRUMP, USA, BODEN As 'Largest Narrative' Before Dogecoin Does 'Something Crazy' Later - Benzinga
-
-Crypto trader Altcoin Sherpa reveals his current meme strategy, which centers on U.S. politics-related meme coins and considering a robust big cap like Dogecoin DOGE/USD for potential future gains.What Happened: Sherpa’s meme strategy revolves around concentrating on a single sector, politics, currently holding positions in MAGA TRUMP/USD and USA USA/USD, a US-focused meme coin on Solana SOL/USD.He further expresses interest in purchasing Jeo Boden BODEN/USD as he believes this sector will become the largest narrative amid the election season gaining momentum later in the year.He cites former President Donald Trump engaging in his "normal antics" as a potential driver of interest in these meme coins. In addition to U.S. politics, Altcoin Sherpa is also keen on investing in a robust big-cap meme coin like Dogecoin. However, he plans to exercise patience before entering a position, suggesting that he expects Dogecoin to "do something crazy later this year."Also Read: Donald Trump Says ‘You Better Vote’ For Him If You’re Pro-Crypto: But Has He Always Been ‘Fine With It’?Why It Matters: By focusing on politically themed meme coins and anticipating the increased attention surrounding the upcoming election season, the trader positions himself to capitalize on the heightened interest and potential price action in this niche.The trader emphasizes the importance of including memes in one’s portfolio and ignoring the defi/L1s/metaverse/gaming/RWA. He adds, "Memes should be high on your list as far as narratives/categories go."This statement underscores Altcoin Sherpa’s belief in the potential of meme coins to generate significant returns, particularly in comparison to other popular sectors in the crypto space.While Dogecoin is the original meme coin launched years ago, political meme coins have not completed one year of existence. CryptocurrencyPriceSingle Day Gains +/- Market Cap Dogecoin DOGE/USD$0.1487+0.45%$21.4BMAGA TRUMP/USD$6.36+53.9%$270.2MJeo Boden BODEN/USD$0.3377+11.6%$242.8MUSA USA/USD$0.055587+20.3%$62.1MWhat’s Next: The influence of Bitcoin as an institutional asset class is expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: House Challenges SEC Over Crypto Custody Rules, Biden Vows BlockadeImage: Shutterstock
-
-----------------
-
-DCG First Quarter Revenue Hits $229 Million Despite Grayscale's GBTC Slump - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-Digital Currency Group (DCG) reports a strong Q1 2024 performance, with revenues reaching $229 million, marking a 50% year-over-year increase.
-
-
-
-Subsidiaries Grayscale, Foundry, and Luno contribute to DCG first quarter revenue growth, despite challenges such as heavy redemptions and increased competition.
-
-
-
-Grayscale’s revenue remains steady at $156 million, despite outflows of $17.4 billion post-conversion to an ETF.
-
-
-
-
-According to Bloomberg, Digital Currency Group (DCG) showcased a stellar performance in the first quarter of 2024, posting revenues of $229 million.
-
-
-
-
-
-DCG First Quarter Revenue Achieves Outstanding Performance
-
-
-
-DCG first quarter revenue marks an impressive year-over-year surge of over 50% and an 11% increase from the previous quarter. The surge in revenues aligns with the broader resurgence witnessed in the crypto market during the same period.
-
-
-
-Grayscale contributed significantly to the DCG first quarter revenue, accounting for $156 million. Despite facing heavy redemptions and a reduced management fee following the conversion of the Grayscale Bitcoin Trust (GBTC) to an ETF, Grayscale’s revenue remained steady from the previous quarter.
-
-
-
-Foundry, another subsidiary of DCG, experienced a 35% increase in revenue quarter-over-quarter, attributed to higher revenue from staking and equipment sales. Similarly, Luno, DCG’s crypto exchange, saw a notable uptick in revenues, up by 46% to $16 million, driven by increased trading volumes amid heightened market activity.
-
-
-
-
-Grayscale’s Steady Revenue Amidst Industry Shifts
-
-
-
-The company highlighted key industry developments in Q1, including the approval of Grayscale’s GBTC and spot Bitcoin ETFs in the U.S., and Bitcoin prices hitting all-time highs in March. Despite facing outflows and increased competition, Grayscale’s revenue from GBTC exceeded expectations.
-
-
-
-However, Grayscale witnessed outflows of about $17.4 billion since the conversion of GBTC into an ETF, as investors shifted assets to lower-cost funds offered by competitors. Despite this, Grayscale’s ETF still generated $156 million in revenues, reflecting the enduring demand for its products. The company attributed the flat revenue to the redemption and the drop in GBTC’s sponsor fee.
-
-
-
-DCG’s robust performance in Q1 underscores the resilience and growth potential of the crypto industry, despite regulatory challenges and market fluctuations.
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-Visited 10 times, 10 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
-SEC Scuppers Exodus' Stock Debut in Sudden U-Turn - DailyCoin
-
-
-        
-The SEC has delayed listing the cryptocurrency wallet company Exodus’s stock exchange.
-
-
-
-The SEC’s last-minute request for further review mirrors similar challenges other crypto companies face.
-
-
-
-Exodus has remained hopeful for a swift resolution and may explore alternative listing options.
-Exodus Movement Inc., a leading developer of self-custodial cryptocurrency wallets, hit a hurdle in its journey to a major stock exchange listing. The company announced that the NYSE American, originally slated for a May 9 Class A Common Stock debut, has postponed the listing.Exodus Follows Ripple’s PathThis development highlights the ongoing tension between innovation in the cryptocurrency space and regulatory oversight from government bodies like the Securities and Exchange Commission (SEC).
-The SEC requested further review of Exodus’ registration statement at the last minute, causing the delay. Exodus remains hopeful for a swift resolution and indicated they might seek a listing on a national exchange after the SEC completes its review. In the meantime, trading will continue on the OTC Markets’ OTCQX exchange.“While we are surprised and confused by this last-minute decision, we remain hopeful that the SEC will follow through on its commitment to treat us as the law intends. Exodus has been fully transparent and responsive throughout this process and we expect a swift resolution in this matter,” Exodus CEO JP Richardson exclaimed.This incident isn’t isolated. Ripple, another prominent player in the cryptocurrency industry, faced similar challenges during their IPO plans. In January, Ripple CEO Brad Garlinghouse shelved the company’s public offering plans due to what he called a “hostile” regulatory environment in the US. Crypto Firms Struggle Against SECThis move followed a legal battle with the SEC, dating back to 2020, over allegations of unregistered securities sales. Referring to the difficulties faced by Coinbase, another major crypto company that encountered legal issues following its IPO despite initial SEC approval, Garlinghouse had this to say:“In the United States, trying to go public with a very hostile regulator that’s approved your S-1, that doesn’t sound like a lot of fun to me,” Garlinghouse stated. The SEC plays a critical role in safeguarding public offerings through regulations. The agency has historically taken a cautious approach towards the cryptocurrency sector. Their rigorous review processes have impacted other companies like Robinhood, which initially delayed its IPO due to SEC scrutiny of its crypto offerings. Robinhood eventually went public in July 2021.
-The delay in Exodus’ listing underscores the challenges faced by cryptocurrency companies seeking mainstream recognition through traditional stock exchange listings. As the industry continues to evolve, navigating the complexities of regulations will remain a crucial hurdle for crypto businesses aiming for broader public participation.On the Flipside
-A delay in stock exchange listing does not necessarily hinder a company’s growth. Exodus can continue trading on the OTCQX exchange and focus on other avenues for expansion.
-
-
-
-Exodus can use this time to strengthen its product and user base, making it more attractive to future investors.
-Why This MattersThis incident exemplifies the roadblocks cryptocurrency firms encounter when seeking legitimacy through traditional stock markets. The SEC’s scrutiny of Exodus and Ripple’s shelved IPO plans highlights the potential for regulatory hurdles to stifle innovation and hinder wider public adoption of cryptocurrency businesses.If you found the regulatory hurdles faced by Exodus concerning, then you won’t want to miss this:Grayscale Drops Ether Futures ETF Bid as SEC Stalls ApprovalAre you interested in the recent war on crypto? This article discusses the SEC’s crackdown on crypto businesses and Gary Gensler’s defense of the SEC’s actions:Gary Gensler Defends Robinhood Action: SEC Follows the Law    
-              
-    
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Inside Crypto's 'KOL' Economy: Influencer-Investors Get Special Treatment in Token Deals
-
-KOL arrangements are "a win for protocols, a win for KOLs, but a heavy loss for retail," said Muur, the influencer who said she doesn't take these deals. "These deals are not properly disclosed in most cases, so the community doesn’t know about KOL rounds and its vesting terms," she lamented, expressing a sentiment echoed by other insiders.
-
-----------------
-
-Binance Denies Allegation Of Market Manipulation From DWF Labs
-
-
-                        
-                            Binance Denies Allegation Of Market Manipulation From DWF Labs                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 9, 2024 13:25 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Binance is fighting back against the DWF Labs allegation against the platform on May 9. This follows an explosive report from the Wall Street Journal (WSJ) that revealed that Binance dismissed an employee who uncovered evidence of market manipulation by DWF Labs, a major market on the trading platform.According to the WSJ report, the dismissed employee and his colleagues at Binance’s market surveillance team had identified instances of pump-and-dump schemes and wash trading conducted by “VIP” clients, including $300M by DWF Labs. These activities violated Binance’s terms and conditions.
-Binance & DWF Labs Allegation Entails $300 Million of Wash Trading
-The investigators recommended removing DWF Labs from the platform, which they accused of manipulating the price of several cryptos, including the YGG token.Instead, Binance launched an inquiry into the team’s work, claiming there was insufficient evidence of wash trading by DWF Labs. According to the WSJ, the head of surveillance was fired afterward.DWF Labs, an investor in crypto projects that gained prominence in 2023, was reportedly involved in trades of over $4 billion monthly on the Binance platform.In response to the allegations, Binance refuted the claims, asserting they do not tolerate market manipulation.The exchange also revealed its successful record of removing high-profile traders who broke the rules. Binance claimed to have removed over 355,000 users who violated its terms of service in the past. The exchange said the ousted market makers had a combined transaction volume of $2.5 trillion.
-Binance & DWF Allegation Slammed as “Unfounded and Not Accurate”
-DWF Labs released a Telegram announcement shortly after the WSJ report, which entails the rebuttal of the report that it engaged in price drive, artificial volume, and $300 million of wash trading on Binance in 2023.“It has come to our attention that a recent article contains many allegations that we believe to be unfounded and that do not accurately represent our ethical business practices,” the market-making firm stated. “We have always prioritized our relationship with our partners and the broader community, successfully supporting more than 700 portfolio companies in the crypto ecosystem. We take pride in being compliant, transparent, and diligent in our work.”Last year, Binance settled charges brought forward by multiple US regulators, agreeing to pay $4.3 billion in settlement over alleged violations of operating an unregistered exchange, insufficient controls over market manipulation, and commingling of funds.The US SEC’s litigation against Binance exchange resulted in a plea deal and a settlement of $4.3 billion for violating US anti-money laundering standards. Binance co-founder Changpeng Zhao (CZ) also stepped down as the CEO as part of the settlement. He has been sentenced to four months in prison with an additional fine of $50 million.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Tokenization to unlock interoperability across payments, investments
-
-The lines between payment and investment assets are becoming increasingly blurred. In the near future, it may be possible to split a dinner and pay using shares of tokenized funds, a blend made possible by tokenizing assets.Rob Durscki, senior director of tokenization at the Stellar Development Foundation, shared the prediction during the TokenizeThis 2024 event in Miami on May 9. According to him, the bridge between payments and investments will unlock new utilities across financial products. Durscki noted: “What we’re seeing now with partners like Franklin Templeton, WisdomTree, and others issuing this new round of assets on-chain is that they want to unlock yield, [...] but they also want to make it almost seamless to use as a payment tool as well.”Tokenization is the process of converting rights or ownership of an asset, like real estate or stocks, into a digital token on a blockchain. This enables a digital representation of the asset, allowing for fractional ownership, increasing liquidity and making some financial products more accessible to small investors.“Nothing prevents us here from splitting the check on the dinner, and I’ll pay with Franklin Temple funds because I can send you $20 in 3.6 seconds on Stellar. [...] If you forget about that, you’re still getting 5%, 6% a year on that dinner. [...] This positive blur between investment and payment because it’s ultimately value, right? And we’re unlocking the movement of value.” TokenizeThis 2024. Source: Sam Bourgi/CointelegraphRipple’s vice president of engineering, Bradley Chase, also participated in the panel and spoke about customization trends emerging from enterprise customers. According to Chase, more and more enterprises are seeking to receive stablecoin payments and hold tokens on-chain as a way of generating additional revenue.“Those customers now have their own customers that want to pay in stablecoins and they want to hold those stablecoins. So that’s kind of the simplest on and off-ramp gateway for them into the space.”More than $1 billion worth of U.S. Treasurys has already been tokenized across Ethereum, Stellar, and other blockchains. A recent estimate from Ripple forecasts tokenized markets to reach $16 trillion in the coming years, a figure eight times larger than the total market capitalization of the entire cryptocurrency sector. Magazine: Lazarus Group’s favorite exploit revealed — Crypto hacks analysis
-
-----------------
-
-Reimagining Female Empowerment in the Age of Digital Influence and Crypto
-
-For many young women of this generation, the digital realm serves as both a canvas and a stage. Social media platforms offer a medium through which they can curate their image, projecting an idealized version of themselves to the world without the need for physical alteration. With the rise of influencer culture, these individuals find themselves thrust into the spotlight, their online personas meticulously crafted to garner attention, recognition and status.
-
-----------------
-
-Crucial ETH and SEC Statement from Ethereum Co-Founder - Bitcoin Sistemi
-
-
-Ethereum co-founder and cryptocurrency billionaire Joseph Lubin has expressed concerns about the US Securities and Exchange Commission's (SEC) approach to regulating the cryptocurrency industry. Lubin argues that the SEC's current stance could potentially “cripple” the industry's growth.
-Lubin explained that the SEC appears to have reclassified Ethereum as a security without informing the public. The move has raised concerns specifically about ETH spot ETFs, which the SEC fears could flood the cryptocurrency ecosystem with excessive interest and capital.
-
-
-The SEC also alleged that popular cryptocurrency wallets Coinbase and MetaMask acted as brokers. Lubin warns that this sets a dangerous precedent. “The SEC is now scouring the GitHubs of software developers who don’t even develop financial applications to find out which products can be classified as brokerage firms,” Lubin said.
-
-Lubin believes the SEC's current regulatory approach is an “attempt to paralyze” the crypto industry. He argues that the SEC does not want Ethereum and other cryptocurrencies to shape the banking landscape.
-
-
-
-
-
-Additionally, Lubin warns that the SEC's anti-crypto stance could cripple Ethereum's growth in the US, hindering acquisition and development. He argues that irrational regulations must be resisted for the sector to grow.
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Bitcoin Traders Closing More Positions As Prices Range Above $60,000
-
-
-																Bitcoin has been trending lower after failing to break above $66,000 in early May, deflating hopes of immediate price gains post-Halving. Taking to X, one analyst shared on-chain data that paints a more nuanced picture than a simple loss of confidence in recent weeks. 
-Bitcoin Open Interest Remains Low: Bullish?
-The analyst, pointing to CryptoQuant data, observes that leveraged traders on perpetual trading platforms like Binance appear to be closing their positions more than opening new ones. The analyst notes that the reading is at -20% at the monthly change in Open Interest. 
-BTC open interest in one month | Source: Analyst on X
-At this level, it shows that more traders are closing more positions than opening new ones. This development suggests that most traders adopt a strategic wait-and-see, watching prices evolve.
-
-	Related Reading
-
-
-
-Despite the decrease in positions opening, it’s important to note that this is not a sign of BTC’s downfall or the invalidation of a potential surge. The analyst interpreted this contraction as a strategic move by traders, who are cautiously optimistic and not exiting the market due to bearish expectations. 
-In a separate post, the analyst added that the Bitcoin market needs the current wave of liquidation and “negativity” for accumulating short positions. All short positions opened at spot levels bet that BTC will continue trickling lower, even breaking below $56,500. 
-BTC long liquidation dominance | Source: Analyst on X
-However, the more short positions there are, the higher the possibility of a “short squeeze” forming. When this happens, there will be a sudden price spike, liquidating shorts and forcing sellers to buy back into the market to prevent further damage. 
-BTC Inside A Trade Range: Will $60,000 Fail?
-Despite the potential upside hinted by on-chain data, prices remain confined within a narrow range. Last week, bulls failed to close above $66,000, confirming the impressive march from May 3. 
-Bitcoin trending sideways on the daily chart | Source: BTCUSDT on Binance, TradingView
-Bitcoin found resistance and is moving lower toward the psychological $60,000 level. From price action, losses below this line might fast-track the collapse toward $56,500 registered in early May. 
-Going forward, traders will closely monitor how prices evolve after the all-important Halving on April 20. Considering the approval of spot Bitcoin exchange-traded funds (ETFs) and the involvement of institutions, some analysts expected prices to shoot higher immediately. 
-
-	Related Reading
-
-
-
-Nonetheless, this has not been the case. Prices continue to hang amid fluctuating inflows to spot ETFs, and the United States Federal Reserve is still not slashing interest rates.
-Feature image from Shutterstock, chart from TradingView
-																								
-															
-
-
-						
-
-----------------
-
-Dencun Destroyed The Ethereum "Ultra-Sound Money" Narrative: CryptoQuant
-
-
-								Researchers at CryptoQuant, a crypto analytics platform, are now disproving the idea that Ethereum is “ultra-sound money,” especially after activating the highly anticipated Dencun Upgrade in mid-March. 
-Analysts observe that the hard fork has slowed the number of coins going to the “furnace.” Accordingly, ETH is now more deflationary, considering the rising daily supply over the past weeks. 
-The Impact Of Dencun On Gas Fees
-Analysts say the Dencun Upgrade was one of the major updates after The Merge. With Dencun, Ethereum developers introduced proto-danksharding for more efficient and cheap transaction processing, especially by layer-2 platforms like Arbitrum. 
-Besides helping reduce gas fees for layer-2 solutions, the update enhanced the mainnet scalability. Accordingly, the primary layer could handle more transactions without congestion or gas fees spiking.
-
-Though layer-2 gas fees have drastically fallen, activity on Arbitrum, Optimism, and Base have registered more activity. However, the problem with lower gas fees from layer-2 transactions, which are bundled and confirmed mainnet, means Ethereum is now increasing fewer coins. 
-Ethereum price trending sideways on the daily chart | Source: ETHUSDT on Binance, TradingView
-As such, ETH gradually becomes inflation after months of supply reduction, reflecting the adoption of the mainnet and off-chain solutions.
-The rate at which ETH became deflationary pre-Dencun meant the “ultra-sound money” narrative was valid. Due to the rapidly falling supply, ETH, like BTC or gold, could become a store of value.
-Ethereum Is Becoming Inflationary: Study
-However, CryptoQuant data now paints a concerning picture. A report found that shrinking gas fees from layer-2 platforms translates to lower ETH being taken from supply. 
-ETH supply rising after Dencun | Source: CryptoQuant
-This “structural shift” researchers discovered, means that ETH supply is no longer decreasing as rapidly as before. In their assessment, they noted that in recent days, the ETH supply has been growing at the fastest daily rate since the Merge.
-ETH burning post-Dencun is falling | Source: CryptoQuant
-At this pace, if the rate of ETH burning continues to drop, Ethereum may no longer be on track to become deflationary. It will be especially so if activity shifts, as has been the case, to competition low-fee and scalable networks like Solana and Avalanche. 
-
-Falling Ethereum and Bitcoin prices will further exacerbate the burn rate. Whenever prices crumble, on-chain activity tends to contract sharply over time.
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Trustnodes - Bringing You Tomorrow Today
-
-
-
-    
-
-      
-
-        
-        
-  
-
-
-----------------
-
-Trading Giant Susquehanna Adds $1,174,000,000 Worth of Spot Bitcoin ETFs to Portfolio - The Daily Hodl
-
-
-								Global trading and technology firm Susquehanna is making massive investments in spot Bitcoin (BTC) exchange-traded funds (ETFs).
-In a new filing with the U.S. Securities and Exchange Commission (SEC), the company says it bought 17,271,326 shares of Grayscale Bitcoin Trust (GBTC) in three tranches of $6.3 million, $1.05 billion and $34.77 million for a total of $1.09 billion.
-
-
-
-
-
-
-
-
-
-
-The GBTC investment, which is now worth $955.10 million based on the current market price of $55.30 per share, represents Susquehanna’s biggest spot Bitcoin ETF allocation.
-The trading firm also bought 1,349,414 shares of Fidelity Wise Origin Bitcoin Fund (FBTC) for $83.74 million, 583,049 shares of BlackRock’s iShares Bitcoin Trust (IBIT) for $23.6 million, 560,832 shares of Bitwise Bitcoin ETF (BITB) for $21.7 million and 508,824 shares of ARK 21 Shares Bitcoin ETF (ARKB) for $36.1 million.
-Susquehanna’s portfolio also includes 256,354 shares of VanEck Bitcoin Trust (HODL) bought for $20.6 million, 255,814 shares of WisdomTree Bitcoin Fund (BTCW) valued at $19.3 million at time of purchase, 166,200 shares of Invesco Galaxy Bitcoin ETF (BTCO) acquired for $11.8 million and 192,391 shares of Valkyrie Bitcoin Fund (BRRR) worth $3.9 million.
-In all, the trading giant with $481 billion in total assets under management (AUM) invested $1.31 billion in nine spot Bitcoin ETFs.
-The SEC greenlit 11 applications to offer the BTC investment product in January, though it did warn that Bitcoin is still considered a volatile and speculative asset.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Canadian regulator fines Binance $4.4M for AML and CFT violations
-
-The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) announced it was imposing a $4.4 million administrative monetary penalty on Binance for failing to register and report large transactions in digital assets.In a May 9 notice, FINTRAC said it had imposed penalties on Binance Holdings Limited for noncompliance with Anti-Money Laundering (AML) and Countering the Financing of Terrorism (CFT) regulations. According to the regulator, Binance failed to register as a foreign money services business and report digital currency transactions that exceeded $10,000. FINTRAC said it had fined Binance 6,002,000 CAD, or roughly $4.4 million at the time of publication. The regulator reported that Binance’s activities for incurring the fine happened in 2023 when it was winding down its operations in Canada. Cointelegraph reached out to Binance for comment but did not receive a response at the time of publication.Source: FINTRACBinance announced in May 2023 that it planned to leave the Canadian market, citing regulatory concerns. FINTRAC reported 5,902 separate transactions of $10,000 or more in crypto on the exchange from June 2021 to July 2023.“Binance Holdings Limited was provided with several opportunities to register with FINTRAC as an FMSB, however, they had not completed their registration by the deadlines provided,” said FINTRAC. “It should be noted that Binance Holdings Limited was deemed to be an FMSB and was required to be registered with FINTRAC up until September 25th, 2023, when it officially ceased all operations in Canada. Up until that day, Binance Holdings Limited was in violation of its registration requirements.”Related: Canada to begin implementing international crypto tax reporting standardThe $4.4 million penalty was separate from legal entanglements Binance has faced or is currently facing in other jurisdictions. In November 2023, the company settled with authorities in the United States, requiring it to pay $4.3 billion in penalties. Changpeng Zhao stepped down as CEO as part of the deal and pleaded guilty to one felony charge. He was subsequently sentenced to four months in prison.In Nigeria, two Binance executives were arrested in February and face tax evasion and money laundering charges. Though one of the men reportedly escaped to Kenya, Interpol suggested it was ready to extradite him to Nigeria, where court proceedings are expected to resume on May 17.Magazine: Your guide to crypto in Toronto: Crypto City
-
-----------------
-
-Major US City Handing $32,000,000 To Residents As Guaranteed Income Program Reboots - The Daily Hodl
-
-
-								A major US city is preparing to relaunch a multimillion-dollar basic income program that will hand cash directly to residents.
-Mayor Brandon Johnson says he is allocating $32 million to reboot the Chicago Resilient Communities pilot, reports CBS News.
-
-
-
-
-
-
-
-
-
-
-The revived program seeks to hand out $500 per month for a period of one year to families experiencing financial struggles.
-The mayor says funding will come from the $1.9 billion that the city received from President Biden’s American Rescue Plan Act (ARPA) in 2021.
-The city of Chicago is giving the guaranteed income program new life in an effort to distribute the remaining ARPA funds or risk giving it back to the federal government next year.
-Chicago Resilient Communities was initially launched by former Mayor Lori Lightfoot in 2022 to help 5,000 low-income households get back on their feet after the pandemic.
-The Johnson administration has not yet divulged the qualification details for the rebooted program. Participants of the original pilot were Chicago residents at least 18 years old at time of enrollment, had a family income at or below 250% of the Federal Poverty Line and faced financial difficulties due to the Covid-19 pandemic.
-The exact number of families that will receive the $500 monthly payment under the restarted program also remains unknown.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
 Best Crypto to Buy Now May 9 - Arweave, Render, Toncoin
 
 
@@ -9136,3 +8633,514 @@ Featured image from Koszary Tradingu, chart from TradingView.com
 Analyst Says Dogecoin(DOGE) Is a 'Crapshoot,' Could These 3 Meme Coins Have Higher Returns? - Benzinga
 
 Since its launch in 2013, DOGE has not done much to add value to the ecosystem. However, the token has seen some of the largest returns of any asset over the past decade. This feat makes little sense to those outside of the cryptocurrency community, but DOGE supporters believe that buying and HODLing their position is what has led to the gains. However, the euphoria of DOGE's success could come to an end, according to some analysts.Don't Miss:Pav Hundal is an analyst for Swyftx, an Australian cryptocurrency exchange. He noted that the future of DOGE "will depend on the decision-making of the millions of minnow investors who bought DOGE in 2021 and right now are sitting on paper losses." Additionally, Hundal noted that "it's a crapshoot. If most of these people decide to take quick profits during the cycle, you could start to see selling pressure ratchet up."Essentially, Hundal believes that the next small uptick in the price of DOGE will lead to a huge wave of selling that could potentially spell the end for the token. If this logic holds and DOGE could potentially lose its spot as the top memecoin, there are a few other tokens that could potentially be a better investment.Dogwifhat (WIF) is the next pick for a memecoin that could potentially outperform expectations. The token has only been around since December 2023 but has already cemented itself in the top 40 tokens by market cap. It has attracted significant attention, which could lead to gains if DOGE begins to fall.Trending: 1 in 4 Americans own a share of Bitcoin according to NASDAQ, how much would $10 get you today?Another choice is Shiba Inu (SHIB). This project is known as the "Dogecoin killer," as it is making moves to directly compete with and overtake DOGE. To do this, it has created a large ecosystem, complete with a decentralized exchange (DEX), NFT projects, a layer-2 blockchain, and a magazine. This focus on building out an ecosystem, along with its current community of investors could prove fruitful in light of a potential DOGE collapse.Lastly, if you are interested in politics or the upcoming election, MAGA Coin (TRUMP) could be a decent investment. The token has seen enormous gains since its launch in August 2023. It combines memecoins with politics to attract investors. With the election in November, the token could receive more and more attention, which could lead to gains. However, this token is likely the riskiest of the three due to its smaller market cap and the fact that Trump is a very controversial person. So, according to some, the end of DOGE's reign as the top memecoin could come very soon. If this is the case, many may start looking for the next memecoin to make them into a millionaire overnight. Read Next:
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Kraken Fights Back in SEC Lawsuit: Is the SEC Overreaching? - DailyCoin
+
+
+        
+A major cryptocurrency exchange has found itself in a heated legal battle with the SEC.
+
+
+
+The SEC has accused the exchange of operating as an unregistered securities market.
+
+
+
+Kraken believes the SEC’s actions have set a dangerous precedent for future crypto regulation.
+The legal battle between cryptocurrency exchange Kraken and the U.S. Securities and Exchange Commission (SEC) heats up as Kraken refutes the agency’s claims. The SEC lawsuit, filed last November, alleges Kraken operated as an unregistered securities exchange and made millions from unregistered securities.Kraken Challenges SEC’s Definition of SecuritiesKraken argues the SEC’s case lacks merit and misinterprets core legal concepts. Their response highlights the agency’s failure to precisely identify which crypto assets constitute securities on the exchange.
+Furthermore, Kraken takes issue with the SEC’s use of broad terms like “investment concept” and “ecosystem” instead of established legal terms like “investment contract” and “enterprise.” This, according to Kraken, reflects a fundamental misunderstanding of the case’s legal framework.The SEC’s lawsuit isn’t the first hurdle Kraken has faced. Months prior, they settled charges related to their staking service. This latest lawsuit, however, has broader implications for the entire cryptocurrency industry.Kraken contends that the SEC’s case sets a “dangerous precedent” for the agency’s reach within the crypto sphere. In response to Kraken’s initial motion to dismiss, the SEC filed a lengthy opposition, defending its authority.Howey Test at Heart of Kraken’s DefenseThe crux of Kraken’s defense hinges on a different interpretation of investment contracts. They argue the SEC’s insistence on written contracts is misplaced, as agreements can be oral, expressed, or implied.
+Additionally, Kraken references past SEC cases involving initial coin offerings (ICOs) to bolster their argument. These cases, Kraken argues, demonstrate a focus on contractual rights and obligations, a key factor in defining investment contracts under the Howey Test, the legal standard used to determine if an asset is a security.The Howey Test establishes a security based on specific criteria: investment of money in a common enterprise with the expectation of profits derived from the efforts of others.This legal battle unfolds amidst ongoing discussions in the U.S. Congress regarding crypto regulation. Further complicating the picture, eight state attorneys general have filed an amicus brief supporting Kraken’s position, suggesting the SEC may have overstepped its authority.On the Flipside
+The amicus brief could be seen as an attempt to limit federal overreach, potentially creating a patchwork of state regulations for crypto.
+
+
+
+Kraken’s prior settlement over staking could be used by the SEC to argue the exchange understands the regulatory landscape.
+Why This MattersBy challenging the SEC’s definition of securities and their broad reach within crypto, Kraken’s defense could significantly impact how crypto assets are regulated. A win for Kraken could set a clearer standard for classifying cryptocurrencies, potentially reducing regulatory burdens for the industry and fostering innovation.Curious about the role of data in cryptocurrency ETFs? This article dives into CF Benchmarks, a company that provides reference data for cryptocurrency ETFs:Kraken’s Indices Unit Claims 50% of Crypto Benchmarking MarketInterested in the legal battle between the SEC and Kraken? This article explores a lawsuit that challenges the SEC’s authority to regulate crypto assets:SEC Slammed in Kraken Lawsuit for Having “No Authority”    
+              
+    
+
+----------------
+
+TSM Stock Gains After Firm Reports 60% Increase in Y/Y Revenue - Tokenist
+
+
+					
+Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
+
+
+
+Taiwan Semiconductor Manufacturing Company (NYSE: TSM) has been experiencing significant stock price surge after reporting its latest earnings. The company’s strong earnings and revenue growth have contributed to the over 4% jump in US-listed shares of the firm today.
+
+
+
+TSM Stock Up 78% Over the Past Year
+
+
+
+At the time of writing, TSM’s stock price stands at $149.04, reflecting a recent increase of 4.38%. The company has delivered substantial returns to its investors, with a year-to-date return of 43.89% and a remarkable 78.43% increase over the past year. Looking at the long-term performance, TSM’s stock has skyrocketed by 293.58% in the last five years. The company’s market capitalization has reached an impressive $637.90 billion, and its trailing Price to Earnings (P/E) ratio is 27.56. TSM has reported a revenue of $2.25 trillion and a net income available to common stockholders of $857 billion, resulting in a profit margin of 38.16%. Analysts have provided various price targets for TSM, with a high estimate of $188.00 and a low of $150.00.
+
+
+
+
+
+TSM Reports 60% y/y Revenue Surge Driven by AI Demand
+
+
+
+TSM has been reporting strong financial results, driven by the increasing demand for advanced semiconductors used in artificial intelligence (AI) applications. In April, the company’s revenue surged by nearly 60% year-over-year, reaching approximately $7.2 billion. For the first quarter, TSM’s revenue increased by 13% compared to the same period last year, totaling $18.87 billion. The company anticipates continued growth, with a projected 27.6% increase in revenue for the second quarter.
+
+
+
+TSM’s ongoing robust performance can be attributed to the sustained high demand for its cutting-edge semiconductor products. The company’s strategic expansions in the United States and Japan aim to mitigate risks associated with its production concentration in Taiwan, considering the geopolitical concerns surrounding the region. These expansions are expected to further strengthen TSM’s position in the global semiconductor market and help the company navigate potential challenges arising from geopolitical tensions.
+
+
+
+
+
+
+
+Do you think TSM’s geopolitical risks are something investors should worry about, given its current place in the global semiconductor industry? Let us know in the comments below.
+
+
+
+Disclaimer: The author does not hold or have a position in any securities discussed in the article.
+
+
+
+
+
+				
+
+				
+
+		
+			About the author
+		
+
+		
+		
+
+					
+				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
+			
+		
+	
+
+									
+				
+			
+
+----------------
+
+Eduard Jubany Tur, Founder of ZKX, on Perpetual Futures, DeFi Growth in Asia, and How DeFi Can Democratize Finance | Ep. 333
+
+
+                        
+                            Eduard Jubany Tur, Founder of ZKX, on Perpetual Futures, DeFi Growth in Asia, and How DeFi Can Democratize Finance | Ep. 333                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 10, 2024 10:55 EDT                            
+                                                             | 4 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Eduard Jubany Tur, the founder of ZKX, a decentralized perpetual futures exchange on Starknet, sat down for an exclusive interview with Cryptonews Podcast.He talked about the growth of the crypto industry in Asia, which is home to most of the early adopters, and the region’s key relevance for the industry.Tur also discussed differences between crypto users in Asia and the rest of the world, noting that most people are nonetheless still on centralized exchanges rather than in DeFi.Getting people to move to DeFi is currently difficult given its overall complexity, but there are clear solutions, Tur remarked.VIDEOCrypto Growth Starts in Asia
+While working in venture capital, Tur was based out of Taiwan, getting a clear view of the Asia market, he said.He helped startup founders across various countries, including Indonesia, India, Thailand, Korea, and China.Through this work, he got to learn the advantages of each country and the specific issues each deals with.Notably, the data showed that “most of the growth in crypto has always come from these markets in Asia.”Most centralized exchanges that we know today and many of the projects were born out of Asia.However, what Tur and his colleagues found is that, centralized exchanges have been very good at targeting emerging market users.DeFi projects, on the other hand, have not.Cryptofolk in Asia is Very Different from Rest of the World
+There are some key differences between Asia and other parts of the world, Tur argued.The first is the demographics. Asia has a much younger population, which is also growing massively in terms of purchasing power. They’re starting to have more disposable income for investing.Another notable factor is that Asia has many more risk-takers. They are more willing to try new things and adopt new technologies.“That makes a huge difference when it comes to the adoption of crypto overall,” Tur said.However, each country has its own very unique features as well.For example, South Korea and Japan are massive markets for crypto. People here are more willing to hold coins in the long term and are often passive investors.China, Hong Kong, and Taiwan are looking more towards derivatives and leverage trading. There are more risk-takers here.The Philippines, Indonesia, and Vietnam are also key markets where people initially started farming new coins. People here may have less disposable income but are still willing to invest and provide asymmetric bets in the ecosystem.Additionally, certain governments in Asia have been relatively crypto-friendly, which encouraged industry growth and crypto adoption.All this said, it is important to note that most of these users “are still very much set towards centralized exchanges.”Getting People Off Centralized Exchanges and Into DeFi
+Millions of users are on the centralized exchanges, and only a few hundred thousand actively trade in DeFi, Tur remarked.Changing this will require many improvements across the entire user experience of DeFi.One key element is account obstruction. It will provide users with a conduit to replicate Web2 experiences but with Web3 benefits.There are many great design possibilities around account obstruction that should really simplify onboarding, Tur remarked.Another key element is localization. This includes providing products in local languages and adapting them to users’ needs in each particular area.Finally, DeFi has a developer-oriented culture. While this makes sense in the early stages of an industry, it’s time to switch to the user-centric approach.Therefore, it’s necessary to create simple, understandable, and engaging products that bring value to users. That way, new users will be coming to DeFi on their own.This is the part of the cycle we’re going to be facing in the next few years, Tur said.Even Losers Get Rewarded
+There’s a need now for innovation that will drive users towards DeFi, away from centralized exchanges.An incremental infrastructure improvement would not be enough. What’s needed is innovation in the user experience.Most trading experiences in DeFi now are boring, Tur said. They’re just a trading terminal without a dynamic and engaging experience.Therefore, ZKX mission is to make trading social and gamified within DeFi, Tur remarked. This can incentivize users to start trading within DeFi.ZKX, for example, had 30-minute trading competitions with three leaderboard categories: volume, profit, and loss.This means that even the losses get some incentives because these traders also contribute to the health of the protocol, Tur said.It’s a balance the platform has been working to build: being a serious, scalable, reputable, and trustworthy platform within DeFi but still simple and fun.____That’s not all.In this interview, Tur also discussed:
+his pre-crypto journey and Web2 background;
+mining Bitcoin in 2014;
+building geolocation and digital mapping services on the blockchain, now one of the use cases for DePIN;
+why the team decided to build ZKX on Starknet;
+ZKX 30-minute trading competitions;
+perpetual swaps and futures, and how these differ from each other and other trading instruments;
+creating user-centric platforms that cater to traders of all levels, thus incentivizing engagement while ensuring accessibility.
+You can watch the full interview here.__________About Eduard Jubany TurEduard Jubany Tur is the founder of ZKX, a decentralized perpetual futures exchange on Starknet.His background in tech and finance has led him to tackle some of DeFi’s most pressing challenges, such as accessibility and user engagement.With the goal of making DeFi more approachable and efficient, Tur has been at the forefront of integrating gamification into trading, enhancing the learning curve with innovative solutions.Beyond that, Tur and ZKX are also leveraging Starknet for scalability, advancing trading with security and transparency, and fostering community governance.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Hong Kong issuer seeks spot Bitcoin ETF for mainland China
+
+The CEO of Harvest, the issuer of a spot Bitcoin (BTC) exchange-traded fund (ETF) in Hong Kong, is looking to make its Bitcoin ETF accessible to mainland Chinese investors.Harvest CEO and chief investment officer Han Tongli is considering options that would allow mainland China investors to purchase its Bitcoin and Ether (ETH) ETFs. That would be possible by offering its products through Hong Kong’s ETF Connect framework, The South China Morning Post reported on May 9.The ETF Connect was launched in 2022, and it was approved by the China Securities Regulatory Commission and the Securities and Futures Commission. The tool is designed to promote the interaction and integration of Hong Kong and mainland China, offer diverse asset allocation choices and promote liquidity.As long as “everything goes smooth and well” in the next two years, Harvest doesn’t rule out the opportunity of applying for its ETFs to be included in the ETF Connect, CEO Tongli said.Harvest CEO Han Tongli (center) speaks at Bitcoin Asia on May 9, 2024. Source: SCMPThe potential inclusion of Bitcoin and Ether ETFs in the ETF Connect program could be a massive bullish trigger on cryptocurrency markets, as China has a large investor pool. But it’s yet to be seen whether the Chinese government would accept such an opportunity for its citizens, as local authorities have maintained a very restrictive approach toward cryptocurrencies like Bitcoin for many years.According to SCMP, Hong Kong’s Bitcoin and Ether futures-based ETFs — launched in 2022 — have not been included in the Stock Connect.Related: Is China warming up to Bitcoin ETFs? BTC investor’s reply sparks curiosityHong Kong’s capability to provide mainland China investors with a Bitcoin ETF has been a hot issue even before the launch of Bitcoin and Ether ETFs in Hong Kong on April 30, 2024.Many industry analysts didn’t expect a lot of market action from the launch because the Hong Kong ETF market is significantly smaller than the one in the United States or mainland China.According to Bloomberg data, some Hong Kong-based subsidiaries of mainland China companies have 1,400% more assets in the mainland Chinese market than in the local one. According to some sources, all Hong Kong ETFs should account for 0.6% of the U.S. ETF market.Magazine: Binance hits back at WSJ, Hong Kong crypto ETF’s take ‘$50B equivalent’: Asia Express
+
+----------------
+
+Refund of $70M 'address poisoning' scam ongoing, over 50% returned | Protos
+
+
+The victim of a $70 million ‘address poisoning’ scam is in the process of being refunded, following on-chain negotiations with the perpetrator.
+At the time of writing, over half of the funds (14,500 ETH, worth $43.5M) have been returned to the victim’s Ethereum address.
+Beginning at around 8AM UTC, almost exactly a week after the initial loss of 1155 WBTC, transactions of between 25 ETH ($75k) and 50 ETH ($150k) began to stream into the victims address. The transfers came directly from the hundreds of addresses into which the attacker had previously dispersed the stolen funds.
+
+Address poisoning is a method scammers use to trick crypto users into sending funds to an address which appears almost identical to one they have interacted with previously.
+As crypto security firm SlowMist’s report explains, the attack requires pre-emptively generating thousands of addresses, before monitoring blockchain transactions for potential targets. Scammers then send ‘dust’ transactions (of negligible value) from an address which has matching leading and trailing characters, in order to ‘poison’ the victim’s transfer history.
+
+Once the trap is set, the attackers rely on the victim accidentally copy-pasting the malicious address from a wallet or block explorer, inadvertently sending funds directly to the scammer.
+
+Read more: Crypto security firms more concerned with social media clout than the details
+In this case, once the attack had proved a success, the resulting 1,155 WBTC were swapped to 22,955 ETH, before being layered into hundreds of further addresses.
+The day after making their costly error, the victim sent a message to the scammer via Ethereum’s input data messaging system:
+“You won bro.Keep 10% to yourself and get 90% back.Then we’ll forget about that.We both know that 7m will definetely make your life better, but 70m won’t let you sleep well.”
+Read more: Here’s what on-chain messages reveal about the $200M Euler Finance hack
+The victim kept up the pressure the following day, sending three more messages and setting a deadline for the ‘bounty’ offer.
+In SlowMist’s report, published Wednesday, the firm identified previous attacks carried out by the perpetrator as well as an exchange address, OTC desks and IP addresses connected  to their activities (though, as SlowMist points out, these may be simply be VPN addresses). 
+Yesterday, the scammer sent an on-chain message asking for the victims’s Telegram handle along with 50 ETH, seemingly a gesture of good faith. From there, negotiations went off-chain.
+Earlier today, the refund process began. Over half of the stolen amount has so far arrived over the course of more than 200 transactions, following the victim’s confirmation of receipt of the first batch.
+Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Bluesky, and Google News, or subscribe to our YouTube channel.
+ 
+
+----------------
+
+Bitcoin Exchange Kraken Applies to the Court to Reject the Cases Filed Against It by the SEC! Here's the Reason! - Bitcoin Sistemi
+
+
+Kraken, a leading cryptocurrency exchange, has taken legal action to dismiss lawsuits filed against it by the US Securities and Exchange Commission (SEC), citing concerns about potential repercussions for the broader US financial regulatory framework.
+Kraken Wants SEC's Allegations Dismissed
+This development comes before the trial, when Judge William H. Orrick is set to preside over the case on June 12 in the Northern District of California, according to court filings.
+
+
+In documents filed with the court, Kraken claims that denying the SEC's allegations was necessary to avoid what it perceives as a “significant realignment” of the U.S. financial regulatory structure.
+
+The lawsuit, filed by the SEC last November, alleges that Kraken is not registered as a broker, clearinghouse or exchange, and indicates that legal challenges remain after the exchange's previous agreement on the staking service.
+
+
+
+
+
+Kraken's defense relies on the classification of cryptocurrencies as commodities rather than securities, arguing that the assets listed in the SEC's complaint fall into that category.
+In response to Kraken's request to dismiss the case, the SEC filed a 39-page objection last month, asserting its authority to enforce registration requirements for securities brokers.
+
+
+The SEC rejected Kraken's claim that its jurisdiction exceeded legislative limits, emphasizing that its actions were consistent with Congressional powers to enforce the Securities Act and the Exchange Act.
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+The Week in Polkadot: Monthly Active Accounts Hit All-Time High - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsWelcome to Decrypt’s Week in Polkadot, our regular round-up of the latest developments in the Polkadot ecosystem.The number of monthly active accounts on Polkadot reached an all-time high in April, the highest since the start of 2022 when parachains, one of the ecosystem’s key distinguishing factors, first launched.Meanwhile, ahead of the community vote on Polkadot’s JAM Upgrade being implemented, many parachains, including the smart contract platform Moonbeam, achieved near record highs in active users.You can find out a full breakdown of the statistics here.According to an analysis by blockchain research firm Messari, transactions on Polkadot also rose 48% in the last quarter. XCM messages—which Polkadot uses to communicate with blockchains which use other consensus mechanisms—were up 94% quarter-over-quarter and 314% over the past 6 months.Asynchronous Backing comes to Relay ChainAsynchronous Backing, a new approach to how parachain blocks are validated by the Relay Chain, has been enabled on Polkadot.The Web3 Foundation says that the new update will allow blocks to be produced faster, boost available block space, and enable higher utilization of parachain blocks. This could help use case applications across gaming and DeFi.Compared to traditional ‘Synchronous Backing,’ the new system may lower the risk of discarding potentially helpful block data.With Asynchronous Backing, multiple unincluded parablocks can now exist in the Relay Chain pipeline simultaneously.Parablocks are nuggets of transaction data which are sent from various parachains back to the Relay Chain for validation.In traditional synchronous systems, if a block is not added immediately, it is often discarded, which can waste the network’s computing power unnecessarily.StellaSwap gets new analytics dashboardStellaSwap, one of the most popular DEXs for Polkadot-based tokens, is now available on Dune Analytics.The new public dashboard will allow StellaSwap users to access key metrics about the peer-to-peer marketplace on Dune. These include daily volumes, pool breakdowns, swap volume, active accounts, and unique accounts.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+EigenLayer’s $15B Token Launch Sparks Division for Excluding US, China - Coin Edition
+
+
+							
+
+The $15B valued DeFi EigenLayer launches its EIGEN token airdrop today. 
+
+
+
+However, due to regulations, EigenLayer excluded users from the U.S. and China.
+
+
+
+Analysts criticized the lack of transparency as early supporters are blocked from the airdrop.
+
+
+
+
+EigenLayer, a $15 billion valued decentralized finance (DeFi) protocol, is stirring both excitement and controversy in the crypto scene with its upcoming token launch. The project is set to distribute its highly anticipated EIGEN token via an airdrop starting Friday. 
+
+
+
+However, the excitement about the free token distribution is marred by controversy due to the exclusion of users from the U.S., China, and other regions. Eigen Labs, the brains behind EigenLayer, cited regulatory uncertainties in the restriction posed to users from the U.S. and China.
+
+
+
+Expectedly, the decision has drawn criticism from within the crypto community. Kunal Goel, an analyst at Messari, noted that the promise of the EIGEN token airdrop has been the primary incentive for users to invest in the service. 
+
+
+
+Given the new restriction, Goel lamented that many early supporters will be ineligible to claim their tokens. The restrictions even disqualify VPN users and residents of some other countries.
+
+
+
+
+
+
+
+
+
+Similarly, Nick Cote from Secondlane expressed dissatisfaction with Eigen Labs’ lack of transparency about jurisdictional restrictions. “Issuers not being upfront with jurisdictional restrictions leaves a sour taste in people’s mouths,” Cote remarked.
+
+
+
+Meanwhile, in a recent podcast, Robert Drost of the Eigen Foundation emphasized the importance of adhering to regulatory guidelines. 
+
+
+
+After being criticized by the crypto community, EigenLayer revised its airdrop plans by announcing an additional allocation of 28 million EIGEN tokens. Notably, early this year, Eigen Labs secured approximately $165 million in funding from investors, including the prominent a16z (Andreessen Horowitz).
+
+
+
+According to DeFiLlama, EigenLayer has attracted a staggering $15.01 billion in assets since its soft launch earlier in 2023. 
+
+
+
+EigenLayer TVL | DeFiLlama
+
+
+
+Furthermore, the project has surpassed other DeFi applications in popularity, partly affecting liquid staking platforms like Lido and Rocket Pool. These platforms have experienced a 27% drop in total value locked since March, with nearly 4% of all ETH now re-staked on EigenLayer.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Coingecko Research: Over 20% of Top Cryptos Are Low Float | Cryptopolitan
+
+A shocking research analysis has been released by Coingecko indicating the little-known side of cryptocurrencies. The research findings identify a unique trend amongst newer cryptocurrencies, raising some eyebrows. The research reveals that nearly a quarter of the Top 300 cryptocurrencies in the market today are low float. Low Float Cryptos- Coingecko ResearchThe Coingecko research defines Low-float as a cryptocurrency with a market cap to full diluted valuation ratio below 0.5. High-float cryptocurrencies would then have a market cap to FDV ratio between 0.5 and 0.99, while a perfect market cap to FDV ratio of 1 represents fully diluted cryptocurrencies. Among the top 300 cryptos in the market, only 24.67% are fully diluted, while a huge chunk is high-float, accounting for 54%. The numbers start to get more interesting as you dive deeper into the analytics. The research reveals that out of the 64 low-float cryptos, 54 of them were launched within the last four years. High-float and Fully Diluted Market Cap CryptocurrenciesCoingecko’s research analytics disclosed that only 74 cryptocurrencies in the top 300 have a perfect market cap to FDV ratio, translating to 24.7%. The fully diluted tokens essentially have no further tokens lined up for release.Of the 74 fully diluted cryptocurrencies, 14 were Memecoins, showing the strong presence of Memecoins in the current crypto market.The high-float tokens account for the largest portion of the top 300 cryptocurrencies, with 54% of the market.  More than half of their total supply is already in circulation. It appears there’s a strong correlation between the age of the cryptocurrency and the market cap to FDV ratio. Mostly, older cryptocurrencies seem to have higher ratios. The research reveals the average market cap to FDV ratio of the top 300 cryptocurrencies to be 0.73, which looks like a healthy figure for the industry. CoinGecko’s Research MethodologyCoingecko’s research team excluded stablecoins and wrapped tokens in the study, and ranked cryptocurrencies by market cap. The final list was taken on May 8th. The study assumed tokens with no maximum supply had the same FDV as their market capitalization. The analytics reveal an interesting perspective on the current state of cryptocurrencies, exposing current trends and potential future trends within the crypto industry.
+
+
+----------------
+
+Harvest Global eyes mainland China for crypto ETF products | Cryptopolitan
+
+Harvest Global Investments is eyeing an ambitious expansion into mainland China with its pioneering cryptocurrency ETFs, signaling a new era in investment opportunities bridging Hong Kong and the Chinese mainland.Harvest’s Strategic Vision for ETF ExpansionHarvest Global Investments, not just content with being one of the three issuers of Hong Kong’s first spot cryptocurrency ETFs, is plotting a future where mainland investors can directly access their Bitcoin and Ether products. This vision is articulated through their potential inclusion in the ETF Connect scheme.Launched in May 2022, this scheme allows mainland investors to engage with selected ETFs listed in Hong Kong, and is a component of the broader Stock Connect program that began back in 2014, initially linking the Hong Kong and Shanghai stock exchanges.Han Tongli, the CEO and chief investment officer of Harvest Global, conveyed on the sidelines of the Bitcoin Asia conference, the firm’s openness to applying for their ETFs, which invest directly in crypto tokens, to be part of this connect program.The caveat is, everything must proceed smoothly over the next two years. The integration of their crypto ETFs into this scheme could significantly elevate market confidence and introduce a vast new pool of investors to these emerging products.The Challenges and ProspectsDespite the potential for groundbreaking expansion, challenges loom large due to the Beijing authorities’ known reservations towards cryptocurrencies and financial innovation. Most commercial cryptocurrency activities are currently banned in mainland China, though the legality of trading and ownership by individuals still sparks debates.Nevertheless, Hong Kong’s crypto scene recently celebrated a milestone with the launch of its spot Bitcoin and Ether ETFs, the first in Asia. Despite their pioneering status, the launch was met with lukewarm trading volumes, starkly contrasting with the bustling ETF markets in the U.S.However, these products were touted for their unique approach, including in-kind subscriptions that allow purchasing ETFs directly with Bitcoin and Ether, with fund managers even waiving management fees temporarily to attract investors.The mixed reception to these ETFs highlights the hesitance and cautious approach many investors have towards Hong Kong’s commitment to becoming a regional crypto hub.During a panel at the Bitcoin Asia conference, Han expressed disappointment over the slow start but remains optimistic about the potential growth of the local market, stating that the Hong Kong market, which he views as more neutral with broader appeal in Asia, could eventually double the size of its American counterparts.As the city strives to establish a complete virtual asset ecosystem, Han foresees the local crypto ETFs flourishing to become the largest in trading volume in Hong Kong by year’s end. Harvest is also preparing to launch collateralized financial products based on these ETFs, further diversifying their offerings.The two-day Bitcoin Asia conference, which took place at the Kai Tak Cruise Terminal, highlighted these ETFs prominently. Legislative Council member Johnny Ng opened the event with enthusiastic remarks about the ETFs, calling them a major development in Hong Kong’s financial industry.Despite the second-largest first-day trading volume seen in these ETFs, with China Asset Management Company leading the pack, the journey ahead for Harvest Global and the broader ETF market in Hong Kong looks both promising and fraught with regulatory challenges.
+
+
+----------------
+
+‘Stand With Crypto’ Backs U.S. Politicians with Fundraiser Plan - DailyCoin
+
+
+        
+A U.S. crypto advocacy group has formed a political action committee.
+
+
+
+The group aims to support crypto-friendly politicians.
+
+
+
+Other crypto advocacy groups in the country have formed similar committees.
+Coinbase’s digital asset advocacy group, Stand With Crypto, has revealed plans to raise money from its nearly half a million members in support of U.S.-based “crypto-friendly” politicians.Launched in August last year, the Stand with Crypto Alliance is a non-profit organization on a mission to champion clear, “common-sense’ regulation in the U.S. crypto industry. The group has 164,507 policymaker contacts and has donated over $86 million so far, raised from 448,317 crypto advocates.Rooting for Crypto-Friendly CandidatesOn March 10, Reuters reported that the advocacy group has formed a new Political Action Committee (PAC), whose aim is to support pro-crypto politicians in their pursuit of various positions in the House of Representatives and the Senate.
+In addition to conducting a fundraiser for the politicians, the group made several direct endorsements, including Jim Justice, a Republican running for Senate in West Virginia, and Jim Banks, a Republican vying for Indiana’s Senate seat.Other endorsements from the group are Eddy Morales, a Democrat running to represent Oregon’s Third District; Troy Downing, a Republican running to represent Montana’s Second District; and Shomari Figures, a Democrat running to represent Alabama’s Second District.“The goal is to endorse candidates and support candidates that are protecting the rights of our advocates of Stand With Crypto throughout November.” The report quoted Nick Carr, chief strategist at Stand With Crypto.With the plan, the advocacy group joins other influential crypto-focused PACs in the U.S., such as Fairshake, Protect Progress, and Defend American Jobs, which have so far raised over $110 million in this election cycle, Reuters claimed.
+Read why Coinbase wants pro-crypto officials to end SEC’s sting:Coinbase Boss Wants Pro-Crypto Officials to End SEC StingStay updated on why the SEC served Robinhood’s crypto unit with a Wells Notice:U.S. SEC Serves Robinhood Crypto with Wells Notice    
+              
+    
+
+----------------
+
+Bringing Venture Capital to the community, BasedVC’s strategy with Rudy De La Cruz | Cryptopolitan
+
+Rudy De La Cruz has advised startups valued at over $100 million alongside other multiple consulting roles. Rudy later transitioned to web3 and brings a wealth of expertise to basedVC. BasedVC is a community-driven venture capital fund that provides liquidity and access to retail investors so that they can co-invest alongside the world’s top funds.About RudyHello Rudy, please introduce yourself and briefly describe your career journey. As a key player in the web3 VC space with Sublime Ventures, my career journey began in management consulting, business brokerage, private equity, and healthcare. There, I discovered my passion for problem-solving and helping others. I transitioned to become a partner and advisor to several web2 startups that have achieved valuations exceeding 100 million dollars. This experience equipped me with valuable insights and expertise that I now bring to the web3 venture capital landscape, where I continue to support innovative projects and entrepreneurs in the decentralized technology space through Sublime Ventures.What was the inspiration behind the transition into web3?The inspiration behind my transition into crypto and web3 venture capital stemmed from witnessing the transformative potential of decentralized technologies and blockchain innovations. As a problem solver, I recognized the immense opportunities presented by the web3 space to revolutionize industries while prioritizing helping others. Decentralizing Venture Capital with BasedVCIn your own words, please describe Venture Capital, particularly within the web3 space.Venture capital in the web3 space is the funding provided to startups and projects leveraging blockchain technology – Gaming, artificial intelligence, real-world assets, and other emerging technologies within the decentralized web ecosystem. These investments aim to support innovative projects that have the potential to disrupt traditional industries and create new paradigms of value exchange and interaction. How does basedVC democratize access to web3 venture capital? BasedVC aims to democratize access to web3 venture capital by providing a platform where retail investors can participate in early-stage investments in promising blockchain projects. Through basedVC, investors can gain exposure to exclusive opportunities in the rapidly evolving web3 space, which were previously only accessible to a select group of investors with privileged access.Take us through the process of investing with basedVC.Investing with basedVC involves three simple steps:Log in via the NFT gated platform, where you can stake your tokens. Browse the available investment opportunities and choose projects you wish to invest in. (We provide comprehensive research reports.) You can then commit funds to the selected projects through the platform. BasedVC manages the investment execution and post-investment support, including delivering vested tokens. Users also have the option to allocate OTC via our platform for liquidity. Tell us more about transferring or selling vested tokens after investing with basedVC. After investing with basedVC, investors may log in to the platform to claim their vested tokens. Subsequently, the tokens are transferred to their wallet to be stored. Then, the tokens may be transferred to a decentralized or centralized exchange to sell in the open market. How does the platform ensure transparency and fairness in investment rounds for retail and institutional investors?BasedVC ensures transparency and fairness in investment rounds by disclosing relevant information about the projects, conducting thorough due diligence, and providing equal opportunities for all investors to participate in the investment opportunities available on the platform. Moreover, we leverage smart contracts and blockchain, where transactions can be tracked to epitomize transparency. By maintaining open communication channels and adhering to best practices in investment management, basedVC aims to create a level playing field for all participants.BasedVC, is KYC-free. How do you intend to ensure regulatory compliance, especially while noting the crypto regulatory landscape is evolving quickly?While basedVC is KYC-free, the platform remains committed to ensuring regulatory compliance by closely monitoring the evolving crypto regulatory landscape and adapting its processes accordingly. By implementing robust internal controls, compliance mechanisms, and risk management protocols, basedVC aims to mitigate regulatory risks and uphold legal standards in its operating jurisdictions.With the growing popularity of crypto launchpads and token sales, how does basedVC stand out in securing exclusive opportunities for its investors?BasedVC distinguishes itself in securing exclusive opportunities for investors by leveraging its network, expertise, and reputation in the web3 space. Through strategic partnerships, early-stage deal sourcing, rigorous project selection criteria, and co-marketing, basedVC aim to provide its investors with access to high-potential projects that offer unique value propositions and growth potential.Looking AheadHow do you envision basedVC evolving in the next five years?BasedVC is poised to evolve over the next five years by expanding its investment portfolio, enhancing its platform features, and deepening its engagement with the web3 ecosystem. The team is exploring new investment verticals and strategic partnerships to cater to the evolving needs of investors in the dynamic crypto landscape. By staying ahead of trends and fostering a strong community, basedVC is primed to be a key pillar in the web3 space for years to come. Exciting developments are underway at basedVC, with upcoming updates that promise to revolutionize the web3 investment landscape. Stay tuned for groundbreaking announcements that will redefine how you invest in the future of blockchain technology. The best is yet to come – keep your eyes peeled for what’s on the horizon with basedVC.
+
+
+----------------
+
+Bots perform 90% of stablecoin transactions, Visa says
+
+Photo: Dado Ruvic (Reuters)Nearly 90% of tracked stablecoin transactions are not human-involved. According to recent data published by Visa and blockchain data provider Allium, less than 10% of transactions are initiated by actual users, and most are done by bots. This means that only $149 billion out of the total of $2.2 trillion in stablecoin transactions recorded last month can be attributed to “organic” payments activity, per the analysis.Krispy Kreme's Q1 beat driven by heart donutsThe report cites May 5 as an example, when $51.6 billion worth of stablecoin transactions were processed, but only $4.6 billion was actual activity after removing inorganic transactions.Stablecoins are cryptocurrencies whose value is tied to that of another currency, or commodities like gold, or any financial instrument. With the new data dashboard, both companies are tracking transactions of major stablecoins, such as Tether, Circle’s USDC, Paxo’s USDP, and PayPal’s PYUSD. All these stablecoins are pegged to the U.S. dollar.Visa’s head of crypto, Cuy Sheffield, responded to a Coin Metrics chart that suggested stablecoins were catching up with established settlement networks. Sheffield said that transactions initiated by smart contracts, without human involvement, cannot be directly compared to traditional payment processor transactions.Stablecoins have been developed to address the high volatility associated with the most widely used cryptocurrencies. A currency must remain relatively stable to be used as a medium of exchange, thereby guaranteeing the parties involved that it will retain its purchasing power in the short term.For instance, Tether (USDT) is the top stablecoin that acts as a medium for investors to trade Bitcoin and other cryptocurrencies. Tether accounts for over 50% of the daily trading volume of Bitcoin and up to 70% of some other major cryptocurrencies.
+
+----------------
+
+The Cryptonomist
+
+Binance and KuCoin have obtained registration from the anti-money laundering regulatory authority in India, marking a step forward for the credibility of cryptocurrencies. 
+These two exchanges, among the nine that were banned in December, are the first offshore entities linked to cryptocurrencies to receive registration in India. 
+The regulatory authority commented that these recordings give “a little more credibility to the system.” Let’s see all the details below. 
+
+Anti-money laundering registration in India: Binance and KuCoin get the green light
+Binance, the leading cryptocurrency exchange in the world, and its competitor KuCoin have become the first offshore entities related to cryptocurrencies to obtain approval from the Financial Intelligence Unit of India (FIU-IND), part of the Indian Ministry of Finance.
+This happens months after both companies were banned for “operating illegally.” These two companies, along with Huobi, Kraken, Gate.io, Bittrex, Bitstamp, MEXC Global, and Bitfinex, had been excluded from India towards the end of last year.
+The director of FIU-IND, Vivek Aggarwal, stated that the approval of Binance and KuCoin represents a positive signal for the credibility of cryptocurrencies in the country. 
+Aggarwal also explained that the unit will establish a working group to review compliance guidelines on money laundering in the context of virtual digital asset services. 
+He also emphasized that official recognition of the industry requires the support of the Indian parliament and government.
+KuCoin was the first cryptocurrency exchange to pay a fine, paying 41,000 dollars, and has resumed its operations. On the other hand, Binance will have to attend a hearing with the FIU and pay a fine in order to resume its activities. 
+According to the Economic Times, Binance may have to pay up to 2 million dollars. Vivek Aggarwal confirmed that Binance is registered, but the compliance process is not yet complete as the amount of the fine must be determined after the hearing.
+Other entities like Kraken, Gemini, and Gate.io are in talks with the regulatory authority, while OKX and Bitstamp have submitted plans to exit the Indian market.
+India now counts 48 cryptographic entities registered as reporting entities under the anti-money laundering law. 
+The meeting with the press last Friday represented the first time that the FIU officially spoke about cryptocurrencies and follows a meeting between the FIU and the representatives of the 48 registered entities, also a novelty.
+India’s ambiguity on crypto: from taxes to G20 global consensus
+At the national level, India has maintained an ambiguous position on cryptocurrencies. 
+In 2022, the high taxes imposed on digital assets, together with the crisis in the cryptocurrency markets, have pushed many Indian traders towards international exchanges. Damaging the local sector. 
+However, trading volume has returned to Indian exchanges after the ban imposed on offshore entities.
+During its presidency of the G20 in 2023, India pushed for a global consensus on the regulation of cryptocurrencies, managing to obtain the agreement of all members on the general guidelines. 
+However, the country has been criticized for trying to obtain international consensus without having clear legislation on cryptocurrencies.
+India has kept a cryptocurrency bill in cold storage since 2021 and indicated that it will decide its position in the coming months. 
+A prominent legislator told CoinDesk that there probably won’t be any cryptocurrency bill before mid-2025.
+
+----------------
+
+Digital Currency Group Sees Revenue Rise Despite Grayscale Struggles - Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest (ARCA:GBTC) - Benzinga
+
+Digital Currency Group (DCG), the investment firm behind industry giant Grayscale, reported a strong first quarter with overall revenue climbing 11% to $229 million.What Happened: This positive performance comes despite ongoing challenges faced by Grayscale’s flagship product, the Grayscale Bitcoin Trust GBTC, Coindesk reported.“The first quarter of 2024 was marked by several exciting developments for our industry,” DCG said in a letter to shareholders, highlighting the approval of the long-awaited Bitcoin ETF and the surge in Bitcoin prices. “Against this backdrop, we are pleased to showcase a strong start to the year for DCG.”Grayscale Holds Steady Despite OutflowsGrayscale, a subsidiary of DCG, contributed $156 million to the company’s overall revenue. This figure remained relatively flat compared to the previous quarter, even amidst significant outflows from GBTC. The conversion of GBTC into a spot ETF in January opened the door for competition with lower fees, leading some investors to move their holdings elsewhere.“While Grayscale expected outflows alongside increased competition under the ETF wrapper, Q1 revenue attributable to GBTC nevertheless exceeded our expectations,” the company stated.Also Read: Bitcoin Spot ETFs Collect $11.29M Net Inflows On ThursdayThe Future Of GrayscaleOther DCG subsidiaries, however, painted a brighter picture. The cryptocurrency mining pool Foundry and the global investment platform Luno reported impressive revenue increases of 35% and 46%, respectively.The question remains: can Grayscale weather the storm? The company acknowledged the need to adjust its fees but has yet to implement those changes. To stay competitive, Grayscale has filed for a new Bitcoin ETF with a significantly lower fee structure, but its approval by the SEC is still pending.Looking Ahead: Benzinga’s Future Of Digital Assets EventThe future of Grayscale and the broader digital asset industry will undoubtedly be a hot topic at upcoming industry events. Benzinga’s  Future of Digital Assets conference, happening on Nov. 19, is one such platform where key players will gather to discuss the latest trends, regulations, and investment opportunities in the crypto space.Read Next: Joseph Lubin Accuses SEC Of Stifling Crypto Growth Amid Legal Showdown
+
+----------------
+
+What is Lightning? And Why Don't You Need an Altcoin? #bitcoin #bitcoinnews #shorts - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Analyst Justin Bennett Says Bitcoin’s in a ‘Slow Bleed’ and on the Cusp of Plunging Further - Here Are His Targets - The Daily Hodl
+
+
+								A widely followed crypto strategist believes Bitcoin (BTC) could suddenly plunge much lower.
+In a new post, crypto analyst Justin Bennett tells his 111,300 followers on the social media platform X that if Bitcoin fails to hold $61,000 as support the crypto king could remain in a downtrend for a while.
+
+
+
+
+
+
+
+
+
+
+However, he says that if Bitcoin can break through the $65,000 level on the monthly chart, the top digital asset by market cap would confirm a bullish trend.
+“BTC looks pretty terrible at the moment. This slow bleed is not ideal for buying. We’ve seen this before, and it usually results in a cascade of long liquidations. Maybe this time is different. We’ll see. $61,000 is a must hold for bulls, $65,000 is monthly resistance.”
+ 
+Source: Justin Bennett/X
+Next up, the analyst says that Ethereum (ETH) against Bitcoin (ETH/BTC) is likely heading lower after failing to hold a key support level.
+“Speaking of slow bleed, ETH/BTC has broken its 2017 diagonal on the weekly and monthly charts. Most likely a move into those 3.8-4% highs from here.”
+Source: Justin Bennett/X
+ETH/BTC is trading for 0.048 BTC ($3,019) at time of writing, up slightly in the last 24 hours.
+Lastly, Bennett warns that Ethereum may follow a similar bearish price pattern as in July 2023 if the top altcoin fails to reclaim the $3,150 level on its weekly chart.
+“This slow bleed from ETH doesn’t look great. Ethereum needs to recover $3,150 this week, or things could get dicier than they are. If you think a simple trend line doesn’t matter, check out July 2023.”
+Source: Justin Bennett/X
+Ethereum is trading for $3,017 at time of writing, up 1.5% in the last 24 hours.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: DALLE3
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Nvidia Earnings and OpenAI's Challenge Fuel AI Coins Surge
+
+
+							
+
+Bullish attitude dominates in the AI market, as seen by strong price increases for numerous AI currencies.
+
+
+
+Semiconductor companies are driving AI coin rallies, with Nvidia’s earnings report and market optimism boosting the sector’s market cap by 10.4%.
+
+
+
+OpenAI’s forthcoming search engine launch increases AI competition, signals innovation, and may raise investor confidence in projects involving AI.
+
+
+
+
+
+Semiconductor businesses continue to fuel the artificial intelligence (AI) coin boom, boosted by Nvidia’s impending earnings report and a jump in AI market excitement. The AI market valuation, which is now $27.8 billion, has increased by 10.4% in the previous 24 hours.
+
+
+
+Nvidia is anticipating release of its Q1 earnings statement on May 22 that may eventually favour the bullish trend of the AI market. Investors follow up the process, waiting for an upward trend in the blockchain-related equities, and the AI-based blockchain tokens will benefit from this.
+
+
+
+In addition, a new stream on the path is also expected, which may boost the already bullish atmosphere around AI coins. As per sources, OpenAI, an AI research and deployment firm, has plans to release a search engine in the competition with Google on May 13. Consequently, the appearance of OpenAI in the field of Google competition harbors the possibility of a change in the search engine market.
+
+
+
+The forthcoming introduction of OpenAI’s search engine is considered as an enormous advance in the AI commerce. As OpenAI expands into the field of AI-powered search, it not only increases competition but also represents the sector’s unwavering quest for innovation. This development is likely to boost investor confidence in AI-related ventures.
+
+
+
+In the previous 24 hours, several AI currencies have seen huge price increases. Fetch.ai (FET) is currently at $2.34, with a market capitalization of $1.986B, representing an 8.84% growth in value. Render (RNDR) is up 11.83%, trading at $11.41, with a market capitalization of $4.435B. 
+
+
+
+The Graph (GRT) has since increased by 18.51%, and is now trading at $0.311864 with a market capitalization of $2.957B. Furthermore, Bittensor (TAO) is today at $395.96, with a market capitalization of $2.668B, representing a 2.84% increase. 
+
+
+
+Akash Network (AKT) has surged by 17.08%, priced at $5.73, with a market cap of $1.352B while SingularityNET (AGIX) has seen a 9.67% increase, trading at $0.980312, with a market cap of $1.256B.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
