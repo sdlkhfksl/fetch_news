@@ -1,383 +1,3 @@
-Starknet to bring on AI agents that can carry out on-chain activity
-
-Ethereum layer-2 blockchain Starknet will soon allow artificial intelligence (AI) agents on its blockchain that can autonomously perform on-chain activities for users, such as optimizing yield and re-allocating portfolios.Giza — a firm aiming to bring AI to blockchains — raised $3 million in a pre-seed round led by CoinFund in July 2023 and is spearheading the effort. Co-founder Renç Korzay told Cointelegraph that AI agents would be deployed on Starknet by the end of June, with other chains to follow.Korzay said the agents could take over four activities, the first being yield aggregating — finding “where the highest return is and depositing to different yield avenues.”Later releases will see the AI agents also be a “robo-advisor and figure out the best portfolio allocation for a user given their risk appetite,” said Korzay.In the beta phase, the Giza team will be auditing and approving agent strategies to ensure security. In the future, Agents will become completely permissionless through the Giza Protocol, which will provide both cryptographic and cryptoeconomic security to ensure a trust-minimized exchange between developers and users.They can also autonomously provide liquidity on decentralized exchanges or make leveraged price bets and “predict price movements,” adjusting crypto holdings “based on the strategy set by the user,” he added. The yield-optimizing AI agents will be the first to deploy, with the other types to follow, according to a May 9 press release shared with Cointelegraph.It’s billed as “low-cost and low-computation,” and it can max out returns by buying or selling assets so they stay at the same weighting in a portfolio on lending platforms that it can directly use and sign off on transactions.“As all accounts on Starknet are smart contracts — via the network’s native account abstraction features — this allows for proofs to be verified directly within the contract,” Giza explained. Three-month Starknet active users chart. March saw activity spike as it conducted a token airdrop. Source: StarkscanThe AI models are built with the Starknet programming language Cairo and “verify complex computations” using Zero-Knowledge Scalable Transparent Argument of Knowledge and zero-knowledge proofs (ZK-proofs) created by Starknet development firm StarkWare.ZK-proofs allow for information to be shared and authenticated while maintaining user privacy.Related: Philosopher Yuval Noah Harari warns of AI’s risks in financeGiza co-founder Cem Dagdelen said in a statement the company expects agents will “become the new application layer for Web3, abstracting away smart contract risks and complexities from users.”However, the agents aren’t limited to just crypto and blockchain. According to Giza, they can also help “highly regulated sectors” cut oversight costs by using models to check “the validity of their outputs.”Ava Labs founder Emin Gün Sirer said at a recent blockchain conference he thinks AI-backed smart contract coding is five to 10 years away and, when it arrives, could “onboard billions of new [blockchain] users.”Meanwhile, Ethereum co-founder Vitalik Buterin has cautioned developers that it’s “worth treading carefully” when adding AI to blockchains, saying AI can help humans understand what is happening on-chain, but it shouldn’t be tasked with enforcing smart contract rules.Magazine: How to control the AIs and incentivize the humans with crypto
-
-----------------
-
-EU seeks stakeholder opinions on adding crypto to 12T euro investment market
-
-The European Union security watchdog, the European Securities and Markets Authority (ESMA), is seeking the opinion of experts on whether to add crypto to the 12 trillion euro ($12.8 trillion) investment product market.The ESMA asked industry experts for their views on whether Undertakings for Collective Investment in Transferable Securities (UCITS) — an investment product market valued at 12 trillion euros — can gain exposure to different asset classes such as structured or leveraged loans, catastrophe bonds, emission allowances, commodities, crypto assets and unlisted equities.UCITS are a class of investment funds comprising products intended to protect and simplify investing transactions. UCITS are often comprised of mutual, exchange-traded or money market funds. EU regulations govern these funds; however, non-EU investors can also gain exposure. UCITS stakeholders have until Aug. 7 to submit their comments. If approved, UCITS would become one of the largest mainstream funds with crypto exposure. The request for expert opinions comes amid the approval of spot Bitcoin (BTC) exchange-traded funds in the United States and Hong Kong, with securities regulators worldwide appearing to warm up to crypto exposure in traditional investment vehicles. Related: The Runes protocol will ignite a new season for Bitcoin after the halvingWhile spot BTC ETFs are solely crypto-focused, UCITS investments are divided into numerous fund types, each with a particular asset allocation based on the fund’s risk profile. If approved, there won’t be an independent UCITS fund with 100% crypto allocation but multiple UCITS funds with a percentage allocation in crypto. EU regulations currently prohibit independent crypto-centered investment products. Thus, investors have to access them via exchange-traded notes.The European Union is known for its strict crypto regulatory policy. It is one of the first regions to introduce a complete crypto regulatory framework in the form of its Markets in Crypto-Assets Regulation (MiCA). One of the questions asked by the ESMA in the feedback is how adding specific cryptocurrencies to the framework would or wouldn’t be affected by MiCA.Magazine: What do crypto market makers actually do? Liquidity, or manipulation
-
-----------------
-
-How is Litecoin a Winner? LTC Leads As Most Widely-Used Coin for Payments and Simple Transactions | Cryptopolitan
-
-Litecoin (LTC) is fulfilling precisely the use case of its initial vision – to become a fast, cheep tool for payments. For that reason, LTC is once again the winner when it comes to just moving funds. The Litecoin network has relatively low fees, while also offering growing security through mining.Litecoin is also one of the most active coins on BitPay even in comparison to Bitcoin (BTC). Only two years ago, Litecoin made up 25% of payments on BitPay locations, extending its share since then.Litecoin is also traded on most major exchanges and can be used for moving funds between wallets. While Litecoin has rallied in the past, it also trades in a relatively predictable way, also serving as a predictable payment tool.Litecoin Seen as an Investment Wild CardLTC is currently consolidating around $81.50, surviving the last few corrections with relatively low downside. This time, LTC has not rallied to an outsized gain, but also avoided deep corrections.While LTC is convenient for spending, there are also signs of accumulation, while waiting for a bigger breakout. LTC was one of the earliest assets to go mainstream through the Grayscale funds. Currently, the funds are matching the market price, while growing their LTC reserves.BitPay Drives Litecoin AdoptionLitecoin is available on most wallets, but only some apps are active for web-based spending. BitPay facilitates the Litecoin turnover by offering ways to spend the coin within the Internet ecosystem. Gift cards and e-commerce gateways are some specific ways that BitPay makes the Litecoin option available.As of April 2024, over 37% of all Litecoin payments are going through the BitPay wallet. Trust Wallet and Exodus are also important due to their user-friendly features. These two wallets make up 45% of all LTC coin transfers. There is a small community of users still hanging onto the Litecoin Core wallet, and under 3% use Coinbase wallet.BitPay also grows the Litecoin network by connecting its owners with hundreds of merchants in its growing selection. BitPay aims to unite the crypto payment potential with the wider fintech ecosystem, finding viable use cases for its portfolio of assets. Recently, BitPay also partnered with MoonPay to add more fiat spending options.For that reason, BitPay mostly uses a small selection of assets, limiting itself to blue chip coins and some of the most common stablecoins.BitPay handled more than 341K crypto transactions for the past three months and more than 54K in April alone. BitPay connects those transactions to real-world goods and services, even though this number may be relatively low compared to overall network activity.The Litecoin community is a mix of long-term holders and active users. About 30% of the LTC supply is active in a 24-hour period.On an hourly basis, there are close to 10K transactions on average. LTC is also relatively scarce after miners produced the first 75M coins. There are about 9M coins left to produce, which will include a series of halvings every four years. Litecoin has already completed 11 years without network outages or significant attacks, proving its reliability.Due to this reason, Litecoin serves as a preferred choice for mid-range transactions, typically with a value of around 108 LTC. The network also carries multiple small transactions of around 1 LTC.In addition to LTC production, the miners are also supporting the Dogecoin (DOGE) blockchain, where the total DOGE produced is not limited.Litecoin Active Addresses Going StrongLitecoin active addresses respond to market trends. From the start of Q2, the Litecoin network has on average around 300K daily active wallets, with spikes in daily activity. On the most active day of 2024, more than 1.3M wallets were active, coinciding with peak market valuations.Another sign of network health is the mining activity. The average Litecoin hashrate went up around 30% in the past 12 months, surpassing one PetaHash per second.Litecoin’s network is profitable to mine at scale even at the current market price, offering miners highly liquid rewards.
-
-
-----------------
-
-Pantera Capital Joins Bullish Bitcoin Forecasts, Predicts Price Surge to $114,000 by 2025
-
-
-                        
-                            Pantera Capital Joins Bullish Bitcoin Forecasts, Predicts Price Surge to $114,000 by 2025                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 9, 2024 08:10 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Crypto hedge fund Pantera Capital has reiterated its bullish stance on Bitcoin, predicting a potential surge in price to $114,000 by August 2025.The forecast comes as the industry grapples with challenges such as inflation concerns, Federal Reserve interest rate policies, and the escalating Middle East crisis.In its latest report, Pantera Capital revisited its analysis from November 2022, which examined Bitcoin’s past performance before and after its most recent halving event.
-Pantera Uses Stock-to-Flow Model to Predict Bitcoin Price
-Utilizing a stock-to-flow model, Pantera assessed the supply of Bitcoin in relation to the rate of new production, which is designed to decrease by 50% every four years during halving events.Historical data shows that Bitcoin’s price has experienced significant increases, sometimes up to 93-fold, in response to these events.By studying both pre-halving and post-halving rallies, Pantera Capital determined that, on average, prices tend to reach their peak approximately 2.6 years after halving events.Based on this analysis, the projected timeframe for Bitcoin’s potential surge aligns with August next year.While the stock-to-flow model is not an exact science, it has gained popularity within the crypto industry as a tool to evaluate the intrinsic value of Bitcoin.Pantera Capital’s forecast joins a chorus of other optimistic predictions for Bitcoin.Research firm Bernstein has set a target of $150,000 by mid-2025, while Anthony Scaramucci, founder of Skybridge Capital, envisions a price of $170,000 or higher next year. Fundstrat Global Advisors’ Thomas Lee has also expressed the possibility of Bitcoin reaching $150,000 in 2024 and even $500,000 over the next five years.
-Bitcoin Sees Heightened Volatility
-Bitcoin closed the week at approximately $64,000, representing a 1.4% increase from the previous week’s closing value of around $63,100.The week was marked by heightened volatility, with prices initially dipping significantly to around $56,500 on Wednesday before rebounding above $60,000 by Friday.While Bitcoin ETFs experienced net outflows for the fourth consecutive week, the period of outflows may have peaked, Matteo Greco, a research analyst at digital asset investment firm Fineqia International, said in a recent note.He added that trading volume for Bitcoin ETFs remained relatively steady during the week, with cumulative trading volume since inception reaching $246.6 billion.During the week alone, trading volume amounted to $10.9 billion, a 12.3% increase from the previous week.However, these figures still fall below the average trading volume of $3.1 billion since the inception of Bitcoin ETFs.“These figures suggest that the period of outflows may have peaked, with trading volumes showing signs of increase and outflows potentially stabilizing,” he wrote.Furthermore, following a four-month period of consistent outflows, Grayscale’s spot Bitcoin ETF finally witnessed a positive shift. On Friday, May 3, the downward trajectory was reversed when GBTC experienced its first inflow of $63 million.As a result, the overall spot Bitcoin ETF market saw net positive inflows of $378.3 million after seven days of continuous outflows.The trend continued on Monday, May 6, as GBTC recorded its second inflow of $3.9 million, bringing the total inflows to $66.9 million.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Vitalik Buterin proposes multidimensional gas framework for Ethereum | Cryptopolitan
-
-Ethereum‘s gas system, a core component for computing transaction costs, is set for a significant overhaul. Vitalik Buterin has put forth a bold proposal to introduce a multidimensional gas framework, aimed at addressing the current system’s limitations.The Current Gas System and Its ChallengesVitalik told us that Ethereum currently uses a unified gas system where various computational efforts—like processing, storage operations, data transmission, and cryptographic proofs—are all quantified under the single metric of “gas.”Source: Vitalik ButerinFor instance, a typical transaction might cost 47,085 gas, broken down into base costs, data inclusion, storage interactions, and execution efforts. Although this system simplifies market operations and fee calculations, it merges fundamentally different types of resources, which can be problematic.Vitalik explained that this blending leads to inefficiencies because it treats distinct network resources as if they were interchangeable. This misconception can result in the network either rejecting safe transaction blocks or accepting potentially harmful ones due to inappropriate gas limit settings. He believes that moving to a multidimensional gas model could better represent the true limits and capabilities of the network, potentially boosting throughput by not oversimplifying the resource interchangeability.Introducing Multidimensional GasThe concept of multidimensional gas isn’t entirely new, as Vitalik highlighted its active implementation with EIP-4844. This enhancement introduces “blobs” for rollup data, which significantly lowers transaction costs on layer 2 solutions. By allowing separate caps and fees for data and computation, Ethereum can handle more substantial and complex operations without compromising network integrity.Vitalik told us about the challenges of large block sizes and their impact on Ethereum’s scalability. He mentioned that before the recent reforms, even a minor reduction in data costs could dangerously increase the maximum block size, straining the network. The introduction of blobs addresses this by setting distinct limits and costs for different types of data, which has already made operations like rollups far cheaper and increased transaction volumes significantly.The Future of Ethereum’s Gas SystemLooking ahead, Vitalik believes the next big challenge will be integrating stateless clients, which require a network to process transactions without storing every piece of state data on every node. This approach would benefit greatly from a more refined gas model where different types of data and operations are priced according to their actual demands on the system.However, the real potential for a multidimensional gas system lies in its flexibility to manage different network resources independently. For example, state growth could be managed under its pricing model, distinct from transaction processing or data storage, allowing the network to adapt more dynamically to changing demands.Vitalik is optimistic about the benefits of this system but recognizes the complexities involved, especially when it comes to transaction execution and sub-calls within the Ethereum Virtual Machine (EVM). Each type of transaction could potentially require its gas metrics, complicating the design and execution of smart contracts.Despite these challenges, he is convinced that the advantages—particularly in terms of scalability and efficiency—justify the effort. With careful implementation, a multidimensional gas system could make Ethereum more robust and flexible, better suited to meet the demands of its diverse user base.
-
-
-----------------
-
-'Rich Dad Poor Dad' Author Kiyosaki Shares Key Bitcoin Revelation Amid Crucial Warning
-
-
-In a recent social media update, popular author Robert Kiyosaki, best known for his "Rich Dad Poor Dad" book, has provided a crucial insight into the current economic landscape, while issuing a stern warning to his followers. The focal point of his message revolves around the potential of Bitcoin amid an ominous forecast of impending economic depression.Kiyosaki's latest post underscores his belief that being prepared for adverse financial conditions is paramount. Urging his audience to move away from the metaphorical "Disneyland" of financial ignorance, Kiyosaki advocates for proactive measures to secure wealth, notably through astute investments in tangible assets like gold, silver and the increasingly prominent cryptocurrency, BTC."Best time to get rich"In a thought-provoking twist, Kiyosaki reflects on his previous thesis regarding economic downturns as opportunities for wealth accumulation. He highlights the need to break away from the illusion of prosperity and confront the harsh realities of economic cycles. For Kiyosaki, the looming prospect of depression serves as a catalyst for proactive wealth-building, urging individuals to seize the moment and prepare diligently for the road ahead. This is not the first time Kiyosaki has sounded the alarm bells about economic instability. He posits that amid fear, doubt and uncertainty, Bitcoin stands out as a beacon of potential wealth accumulation, citing its resilience in the face of inflationary pressures and currency devaluation.Of particular interest is Kiyosaki's bullish stance on Bitcoin's price future trajectory. Forecasts of its value skyrocketing to staggering heights, including predictions of it reaching $120,000 by year's end and a jaw-dropping half-million mark in the following year, have garnered attention and sparked discussions in financial circles.
-
-
-
-----------------
-
-Ethereum Foundation's 1,000 ETH Transfer Raises Eyebrows
-
-
-								Ethereum, the second-largest digital asset by market capitalization, has been under the spotlight once again. Recent movements of ETH by the Ethereum Foundation have stirred concerns among market observers, igniting debates about potential volatility in Ethereum’s price.
-
-Foundation’s Massive ETH Transfers
-The Ethereum Foundation’s series of transfers to the multisign address “0xbc9” have captured the attention of crypto enthusiasts. According to reports from Spot On Chain, the foundation has transferred a total of 5,000 ETH to this address since the start of 2024. The latest transaction, involving 1,000 ETH valued at $3 million, has added fuel to the ongoing discussion.
-
-Source: Spot On Chain
-Market Speculation Amidst Resistance Levels
-Against the backdrop of the crypto’s struggle to breach the $3,200 resistance level, the current market environment amplifies the apprehension. ETH hovers below $3,000 per coin, prompting speculation about whether the foundation’s actions could exacerbate the downward trend. Some analysts even predict a potential drop in ETH’s price to $2,500, adding to the market’s uncertainty.
-ETH price action in the last 24 hours. Source: Coingecko
-Market Impact Analysis
-A considerable percentage of the ETH supplied to the address—specifically, 1,76 ETH—was quickly sold for 4.80 million DAI, averaging $2,72 per ETH. However, these sales frequently correspond with a drop in ETH price, raising suspicions about possible price manipulation.
-Historical data further supports these concerns, indicating a correlation between the foundation’s sell-offs and downward pressure on ETH’s price. With the multisign address currently holding 2,508 ETH, equivalent to $7.51 million, market participants are treading cautiously, wary of the implications for the coin’s value.
-
-ETH market cap currently at $356 billion. Chart: TradingView.com
-Developments In The Ethereum Ecosystem
-Despite the market turbulence, the ETH ecosystem continues to evolve. Recent developments, including Ethereum Improvement Proposals (EIPs), reflect the community’s efforts to enhance the network’s functionality and scalability. Notably, EIP-7702 has emerged as an alternative to EIP-3074, showcasing the community’s commitment to addressing the altcoin’s challenges.
-Related Reading: Commencement Exercises Chaos! Drug-Induced Bitcoin Speech Gets Booed At Ohio State
-Moreover, Ethereum’s transition from a Proof-of-Work (PoW) to a Proof-of-Stake (PoS) consensus mechanism remains a focal point. The network’s inflationary dynamics following the Dencun upgrade in March have sparked discussions about its long-term sustainability.
-The burning of gas fees post-Merge has led to a notable reduction in the growth of ETH’s circulating supply, signaling a significant shift in the crypto’s economic model.
-Looking Ahead
-As the crypto community braces for what lies ahead, all eyes remain glued to Ethereum’s price chart, eagerly awaiting clues about the next move of the leading altcoin. Amidst market uncertainties, Ethereum’s potential rally gathers attention, with reports suggesting a resurgence in momentum.
-With intriguing updates expected on the ETH blockchain and ongoing discussions about its future direction, the Ethereum community remains resilient, navigating through the ever-changing landscape of digital assets.
-Featured image from X.com, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Cardano's bullish breakout? This time, it's $1 or $0.40 for ADA's price - AMBCrypto
-
-
-
-ADA’s price increased by more than 4% in the last 24 hours. 
-Most metric sand investor sentiment looked bullish on ADA.
-
-Cardano’s [ADA] performance in the last few hours was one of the best among the top 10 cryptos. This has pushed ADA’s price to a critical level, as it was on the verge of breaking out of a bull pattern. 
-Cardano prepares for a rally
-World Of Charts, a popular crypto analyst, recently posted a tweet highlighting a bullish pattern that formed on ADA’s chart. As per the tweet, ADA’s price reached the upper trendline of a bullish flag pattern. 
-A successful breakout above that mark could result in explosive growth. In fact, the tweet mentioned that a breakout could allow ADA to touch $1 in the coming weeks. 
-ADA’s price action backed this possibility, as it was one of the top gains among the top 10 cryptos. According to CoinMarketCap, Cardano was up by more than 4% in the last 24 hours. 
-At the time of writing, ADA was trading at $0.4603 with a market capitalization of over $16.4 billion, making it the 10th largest crypto. 
-The token’s trading volume also surged by 74% along with its price, which is usually a positive signal. 
-AMBCrypto then took a look at Santiment’s data to see whether metrics were supporting this price uptick. We found that ADA’s Funding Rate declined slightly on the 9th of May.
- This was bullish, as prices generally move in the opposite direction from funding rates. 
-Its velocity was high, meaning that ADA was used more often in transactions within a set time frame. Another bullish metric was the MVRV ratio, which improved sharply thanks to ADA’s recent price uptick.
-Source: Santiment
-What’s next for ADA?
-Apart from these, investors’ confidence in Cardano also increased in the last few hours. As per our look at Santiment’s data, ADA’s Weighted Sentiment went in the positive zone. 
-This meant that bullish sentiment around the token increased. 
-Its Social Volume also spiked, reflecting a rise in the token’s popularity in the crypto space. 
-Source: Santiment
-A few of the technical indicators also looked optimistic. For instance, the MACD displayed a bullish advantage in the market. 
-The Relative Strength Index (RSI) registered an uptick, indicating a further increase in price, which might allow ADA to break above the bull pattern. 
-
-Read Cardano’s [ADA] Price Prediction 2023-24
-
-If a breakout happens, then the first test of ADA will be near its immediate resistance at $0.518. 
-However, the Chaikin Money Flow (CMF) registered a sharp downtick, which hinted that ADA’s bull rally might not last and ADA might plummet to its support at $0.43.
-Source: TradingView
-
-
-
-
-
-
-----------------
-
-Spot Bitcoin ETFs Clock $11M Net Inflows On Wednesday As Grayscale Shifts Focus To Spot Ether ETF - Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest (ARCA:GBTC) - Benzinga
-
-Spot Bitcoin ETFs saw modest inflows on May 8, with the $11.5409 million inflow into the Bitwise ETF BITB being the only non-zero balance of the day.What Happened: Notably, Grayscale’s GBTC GBTC, BlackRock‘s iShares Bitcoin Trust IBIT, the Fidelity Wise Origin Bitcoin Fund FBTC and Ark’s ARKB ARKB reported neither inflows nor outflows on Wednesday.The total net asset value of Bitcoin spot ETFs now stands at $51.504 billion, indicating robust investor interest and confidence in cryptocurrency as a viable asset class, according to data from SoSo Value.In related developments, Grayscale Investments, a leading player in the cryptocurrency investment space, is shifting its focus towards enhancing its spot exchange-traded products, particularly its Ethereum trust. This strategic pivot was confirmed by CEO Michael Sonnenshein during a Financial Times event in London.Sonnenshein emphasized the company's core commitment to spot products, aligning with Grayscale’s foundational strategy. He said, "At Grayscale we decided to focus our energy on our spot products. That's really core to our DNA."Also Read: Are Bitcoin Whales Buying The Dip With Less Enthusiasm?Why It Matters: This announcement comes on the heels of Grayscale withdrawing its application for an Ether futures ETF, a decision influenced by the existing abundance of futures products in the market and the competitive nature of the Ethereum ETF sector.Notably, products such as VanEck's EFUT and ProShares' EETH currently dominate the market, capturing over 90% of the total trading volume at their launches.The strategic realignment by Grayscale underscores a broader trend within the crypto investment community, where focus is increasingly shifting towards spot-based offerings rather than futures, possibly due to investor demand for direct exposure to cryptocurrencies rather than derivative products.What’s Next: These developments in the cryptocurrency investment sphere will be among the key topics discussed at the upcoming Benzinga’s Future of Digital Assets event on Nov. 19.The event will explore the implications of recent inflows into Bitcoin ETFs and the strategic shifts by major asset managers like Grayscale. Attendees can expect to gain valuable insights into the dynamics of cryptocurrency investments, the evolving landscape of ETF products, and the future trajectory of digital assets within the broader financial market.Read Next: Major Trading Firm Purchased $1B Worth Of Bitcoin ETFs In Q1Image: Shutterstock
-
-----------------
-
-Vitalik Unveils Multidimensional Gas Pricing for Ethereum: What It Means for User | Cryptoglobe
-
-
-                                
-In a blog post dated May 9, 2024, Ethereum’s co-founder Vitalik Buterin introduced an innovative concept to address efficiency issues within Ethereum’s transaction processing system. His proposal revolves around the idea of “multidimensional gas pricing,” which aims to optimize how Ethereum manages and prices computational tasks.
-
-
-
-Simplifying Ethereum’s Gas Mechanism
-
-
-
-In Ethereum, “gas” refers to the unit that measures the amount of computational effort required to execute operations like transactions and smart contracts. Traditionally, Ethereum has used a single-dimensional gas system where various types of computational efforts—such as executing commands, storing data, and handling complex cryptographic proofs—are cumulatively priced under one umbrella of “gas cost.”
-
-
-
-The Problem with Single-Dimensional Gas
-
-
-
-Buterin points out that this single-dimensional approach has a significant drawback: it oversimplifies how different resources are consumed on the Ethereum network. For instance, storing data might have a different impact on the network compared to executing a transaction. Treating these diverse activities as equivalent in terms of resource consumption can lead to inefficiencies and potential security risks. For example, if the network underestimates the resources needed for a transaction type, it could either reject safe transactions or accept potentially harmful ones.
-
-
-
-Introducing Multidimensional Gas Pricing
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-To tackle this, Buterin proposes a system where gas is no longer a single entity but split into multiple dimensions—each representing a specific type of resource usage. This approach, already partly implemented in Ethereum’s EIP-4844 upgrade, allows for more accurate and fair pricing of the varied demands placed on Ethereum’s infrastructure.
-
-
-
-Practical Applications and Implications
-
-
-
-One practical manifestation of this idea is the introduction of “blobs” for rollups (layer 2 scaling solutions that help Ethereum scale by handling transactions off the main chain). These blobs are priced separately from regular transaction gas and have their limits, making rollup transactions significantly cheaper and more efficient. The differentiation in pricing helps in managing network demands more effectively without compromising the throughput.
-
-
-
-What This Means for Ethereum Users
-
-
-
-For everyday users and developers, this change means that transactions could become cheaper and the network more robust against spam and attacks. Developers, in particular, might need to rethink how they design their applications to optimize for the different types of gas costs.
-
-
-
-The Future of Ethereum’s Gas System
-
-
-
-Looking ahead, Buterin envisions expanding this multidimensional approach to other areas of Ethereum’s operation, such as storage. This could involve setting separate limits and prices for different types of data storage, potentially increasing the overall efficiency and security of the network.
-
-                            
-                        
-
-----------------
-
-Binance fires investigator for exposing market manipulation with DWF Labs â WSJ - Crypto Briefing
-
-
-
-
-Binance has reportedly fired a member of its market-surveillance team who uncovered evidence of market manipulation by DWF Labs, one of the exchange’s high-profile clients.According to a Wall Street Journal report, the dismissed employee and his colleagues had identified instances of pump-and-dump schemes and wash trading by “VIP” clients, including DWF Labs.The market-surveillance team, which was hired to identify signs of market manipulation and other illicit activities as part of Binance’s efforts to improve its compliance practices, found that “VIP” clients – those trading more than $100 million per month – were engaging in activities prohibited by Binance’s terms and conditions.DWF Labs, a prolific investor in crypto projects that emerged in early 2023, was reportedly making over $4 billion in monthly trades on the exchange.Binance has denied the claims, stating that it rejected allegations of permitting market manipulation and that the employee was dismissed after an inquiry found the accusations against the client were not “fully substantiated.”“Binance emphatically rejects any assertion that its market surveillance program has permitted market manipulation on our platform,” a spokesperson from the exchange said.DWF Labs also responded to the article, claiming that the allegations were “unfounded and distort the facts.”“It has come to our attention that a recent article contains many allegations that we believe to be unfounded and that do not accurately represent our ethical business practices,” DWF Labs said in an announcement through its Telegram channel.The investigators submitted a report alleging that DWF Labs had manipulated the prices of several tokens through $300 million worth of wash trades in 2023. However, Binance determined that there was insufficient evidence of market abuse, the WSJ report states.A specific token linked to Web3 gaming, YGG, was named alongside six other tokens. YGG is a token launched by Yield Guild Games, a Web3 firm which has key leadership from the Philippines, where Binance is currently banned.A recent statement from Binance further said that it was “unaware” of the documents, arguing that if these allegations were “very concerning” if proven to be true. The exchange’s founder, Changpeng Zhao, has been sentenced to four months in prison after the exchange was embroiled in a series of legal battles.
-
-
-
-
-
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-
- 
-
-
-
-----------------
-
-Lawyer Questions Claims That Ripple’s ODL Agreement Satisfies The Howey Test
-
-
-							
-
-Bill Morgan has questioned the claim that Ripple’s ODL agreement satisfies the Howey Test.
-
-
-
-Morgan asked how and where the expectation of profit arose from the contract.
-
-
-
-According to Morgan, the reviewed agreement did not involve a transfer of title in XRP or a sale.
-
-
-
-
-Renowned crypto lawyer Bill Morgan has questioned the claim that Ripple’s ODL agreement satisfies the Howey Test. In a recent post on X, the prominent crypto personality shared his findings from the 2020 ODL contract between Ripple and an Australian ODL customer. After his review, Morgan asked how and where the expectation of profit arose from the contract.
-
-
-
-
-
-
-
-Following his review, Morgan highlighted some of the features he discovered in the contract. He noted that the contract involved XRP transfer into the purchaser’s agreed account with Bitstamp or another account and held on bailment, which the customer will hold as a bailee. The crypto lawyer emphasized the transaction was a transfer and not a transfer of title in the XRP or a sale,  describing it as “Committed XRP.”
-
-
-
-Morgan also noted that the transaction becomes a sale once the ODL customer withdraws XRP from the bailment account. He explained that the withdrawal is converted into a  USD purchase price at a market rate managed by an automated software system. Hence, upon withdrawal of the XRP, the ODL customer is deemed to have purchased XRP from the Ripple company at the market rate.
-
-
-
-
-
-
-
-
-
-According to Morgan, the contract terms constrain the ODL customer from purchasing the Committed XRP for investment purposes or with an expectation of profit. The customer shall only use the Committed XRP for an ODL transaction on an exchange or through a party approved for ODL.  
-
-
-
-Morgan further noted that breaching the agreement term, which Ripple has the right to monitor, can result in the termination of the agreement and the return to Ripple of all unpurchased XRP in the bailment account.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Ripple to Use Its Upcoming Stablecoin AND XRP in Cross-Border Payment Product, Says Senior Exec | Cryptoglobe
-
-
-                                
-Last month, at Paris Blockchain Week 2024 (April 9-11, 2024), Web3 journalist Ornella Hernández talked to Markus Infanger, Senior Vice President of RippleX. His discussion focused on the growing ecosystem, new technological advancements, and Ripple’s role in facilitating blockchain innovation.
-
-
-
-The XRP Ledger booth attracted significant attention at the conference, serving as a hub for queries and discussions about blockchain development. Infanger noted the enthusiastic reception from attendees, many of whom were eager to learn about starting projects on the XRP Ledger. This interest highlights the ledger’s expanding influence and the community’s eagerness to explore its capabilities.
-
-
-
-Ripple is actively fostering an environment conducive to innovation. Infanger detailed the resources available to developers, including grant programs, accelerators, and learning portals. These initiatives are designed to support developers at various stages of their projects, from inception to implementation, ensuring they have the tools needed to succeed.
-
-
-
-During his chat with Hernández, Infanger highlighted several projects currently leveraging the XRP Ledger, such as Palisade, Sologenic, and Phi Wallet. These projects exemplify the ledger’s utility in promoting financial inclusion and advancing the tokenization of assets. By supporting these initiatives, RippleX is not only advancing its technological base but also contributing to the broader blockchain ecosystem.
-
-
-
-Infanger provided updates on the latest enhancements to the XRP Ledger, including the introduction of an automated market maker and a new decentralized identifier (DID) standard. These developments are part of Ripple’s ongoing efforts to enhance the ledger’s functionality and scalability. The automated market maker is designed to improve liquidity and trading efficiency, while the new DID standard aims to provide more robust identity solutions within the blockchain space.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-Ripple’s commitment to community development is evident in its educational efforts. Infanger emphasized the importance of the learning portal and other resources that help new developers navigate the complexities of blockchain technology. By democratizing access to comprehensive educational materials, Ripple ensures that newcomers can effectively contribute to and grow within the XRP Ledger ecosystem.
-
-
-
-Even more interestingly, the Ripple executive discussed Ripple’s upcoming stablecoin project. The planned stablecoin is envisioned as a key development for Ripple, aiming to bridge the gap between traditional finance and cryptocurrencies. Markus projected significant growth for the stablecoin market and expressed enthusiasm about Ripple’s ability to meet developer demands and facilitate more financial activities on-chain with a compliance-first approach.
-
-
-
-Ripple plans to leverage its stablecoin in existing real-world cross-border payment products alongside XRP, enhancing scalability and offering new options for financial transactions. Additionally, the stablecoin will support projects involving real-world assets on the XRP Ledger, indicating Ripple’s strategic focus on broadening the ledger’s utility across global financial operation
-
-
-
-Markus touched on the crucial role stablecoins play in developing regions like Latin America and Africa, where they counteract local currency instability and high inflation rates. Ripple’s stablecoin aims to provide solutions that are globally applicable, reinforcing its potential to impact a wide range of financial operations worldwide
-
-
-
-
-VIDEO
-
-
-
-
-
-
-
-
-Featured Image via Pixabay
-
-                            
-                        
-
-----------------
-
 SharkNinja Inc. Surpasses Forecasts with 24.7% Gain in Q1 Net Sales, $1B+ Revenue - Tokenist
 
 
@@ -9054,3 +8674,443 @@ Disclaimer
 In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
 
  
+
+
+----------------
+
+Russian opposition activist launches zero-knowledge voting app to challenge Putin's inauguration - Crypto Briefing
+
+
+
+
+Russian opposition activist and former Pussy Riot lawyer Mark Feygin has launched a referendum on the zero-knowledge voting app Russia2024, challenging the legitimacy of the recent Russian elections and Vladimir Putin’s inauguration as president.The vote, which went live on May 10th, three days after Putin’s inauguration, is the first protest vote on the app following months of audits and stress tests.Russia2024 was built using Rarimo’s Freedom Tool, an open-source, surveillance-free voting solution that leverages blockchain and zero-knowledge cryptography to ensure citizens can poll, vote, and protest without being tracked. The app was first announced in a broadcast on March 9, 2024.Following the announcement, the Kremlin attempted to obstruct the app by filing against it, temporarily removing it from the Apple store, and sponsoring negative reviews, a strategy exposed by a whistleblower who expressed support for the app.“Dissent in Russia is growing more risky and public opinion harder to track. It is critical that we provide reliable, surveillance-proof avenues for protest and polling. Russia2024 and its underlying technology has enabled that,” Feygin said in a press release shared with Crypto Briefing.The app was developed by Kyiv-based Rarilabs, with key contributions from activist developers working anonymously inside regimes around the world. Rarilabs is a privacy-first social protocol backed by Pantera Capital. In 2022, the company raised $10 million at a $100 million valuation for its Series A funding round.According to the project’s whitepaper, the app uses Russia’s machine-readable passport information submitted by a user.The data is then decrypted and verified locally (on a device). Digital identity, once authenticated, is resolved using a generated keypair, which is then used to interact with the app’s smart contract. The image below illustrates how the app works.Zero-knowledge cryptography severs the link between the pass and passport data, and votes are published directly on Arbitrum, an Ethereum L2, where the data then becomes tamper-proof.“Freedom Tool was built to help give a voice to people living in regimes. Its implementation in Russia is an early example of how blockchain and zero-knowledge cryptography can meet the urgent need around the world for privacy technology,” said Lasha Antadze, co-founder of Rarilabs.Antadze previously worked on the Ukrainian government’s e-identity and digitalization reform, as well as the EU’s Stork 2.0 digital signature standardization.
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+Japanese company Metaplanet acquires an additional 19.87 BTC Worth 200 Million Yen | Cryptopolitan
+
+The Japanese company Metaplanet made headlines after acquiring close to 20 BTC in what looked like Microstrategy’s approach to accumulating Bitcoin. Metaplanet Inc. has embarked on an aggressive approach to buying and holding Bitcoin. Considering this recent purchase, Metaplanet Inc. has a total of 117.7 Bitcoins, currently valued at approximately $7.3 million. Metaplanet’s Inc. is a large investment and consulting firm in the heart of Tokyo, and its decision to aggressively purchase Bitcoins is a clear indicator of a shift in investment strategy. Understanding the Magnitude of Metaplanet’s BTC investmentDepending on who’s reading this, a $6.5 million investment in Bitcoin could represent a significant investment or not. The company’s decision to invest this much in Bitcoin is better understood by looking at its total market cap. Reportedly, the Japanese company’s Bitcoin holdings now account for approximately 33% of its total market capitalization. This is a significant investment in Metaplanet’s books, indicating how valuable the Japanese company perceives Bitcoin. The Japanese Investment and Consulting company follows in the footsteps of pro-Bitcoin corporations like Microstrategy, which have also continued accumulating Bitcoin as part of their primary asset holdings. Metaplanet’s Grand Plan with BitcoinTokyo’s financial institution has completely embraced the corporate Bitcoin standard. Dylan LeClair, who recently joined the company as the Director of Bitcoin Strategy, shared how the company will strategically leverage public capital markets to acquire additional Bitcoin for shareholders over time. According to Dylan, the financial repression in Japan has left investors with limited investment options to choose from. As a result, the company is looking for alternative options like Bitcoin to insulate its balance sheets from realities such as the structural weakness of the yen. The institution’s grand plan is not only to strengthen its balance sheets but also to capitalize on it. Bitcoin is viewed as a safer alternative to hedge against inflation, triggering corporations to explore its benefits. Larger institutions like Microstagey are leading the way. Metaplanet Inc. is looking to be a pioneer of corporate Bitcoin in Japan. The bold steps by the Japanese company set the stage for financial institutions alike to accept Bitcoin as a digital asset, impacting its balance sheets. As a result, the revolution continues to grow, and more investors get exposed to Bitcoin, leading to mass adoption as intended.
+
+
+----------------
+
+Eclipse Founder Accused of Sexual Misconduct, Steps Down
+
+
+							
+
+Neel Somani, the founder of Eclipse, has been accused of sexual harassment.
+
+
+
+Somani maintained his innocence, adding that he never sexually assaulted anyone.
+
+
+
+Somani is stepping down as the public face of Eclipse. 
+
+
+
+
+Neel Somani, the founder of Eclipse, Ethereum’s fastest L2 solution powered by the Solana Virtual Machine, focused on privacy, security, and decentralization, has faced allegations of misconduct, ranging from inappropriate social media conduct to serious accusations of sexual assault. 
+
+
+
+Haseeb Qureshi, managing partner at crypto VC firm Dragonfly Capital, stated in an X post that his company passed on investing in Eclipse while conducting due diligence on the L2 solution. During the process, Dragonfly found a history of sexual harassment surrounding Somani. 
+
+
+
+
+
+
+
+
+
+Qureshi concluded that the fact that Somani received funding and successfully sold millions in secondary for a pre-launch token despite his history is “embarrassing.”
+
+
+
+On the other hand, Somani maintained his innocence, stating that he had never sexually assaulted a woman. He said that he’ll quit his role as the “public face” for Eclipse because it wouldn’t be fair to the team and the L2 solution “to have this situation weighing on their reputations,” adding:
+
+
+
+
+“I’ll be temporarily reducing my role as a public face for Eclipse. The senior leaders at Eclipse are well equipped to take on these responsibilities and this will allow these conversations to unfold and the truth to emerge about these allegations.”
+
+
+
+
+Further, in a statement, Eclipse stated that it “remains committed to maintaining the highest personal and professional standards, including gender equality and fair treatment.” The firm will closely monitor the situation and reveal details about the other senior members who are leading Eclipse.Eclipse co-founder Sam Thapaliya commented that his firm is “committed to upholding the highest standards of integrity and accountability” in all its operations.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Analysis of the crypto Qubic, Kaspa and Render
+
+The crypto world is now extremely vast, and in this article we will analyze in particular the trends of Qubic, Kaspa and Render.
+
+The recent performance of the crypto Qubic, Kaspa, and Render
+Qubic is a new layer-1 project based on Proof-of-Work (PoW).
+PoW is the consensus algorithm used by Bitcoin. Even Ethereum was initially based on PoW, but in September 2022 it switched to Proof-of-Stake (PoS).
+Although initially most cryptocurrencies were based on PoW, now most of them are instead based on PoS, because it allows for greater scalability.
+PoW, however, remains more secure, even though the level of security achieved by PoS is still high, and that’s why crypto projects based on PoW also survive. For example, Bitcoin is very unlikely to abandon it.
+Qubic for example claims to be able to guarantee feeless transactions, even though it is based on PoW. It also claims to use artificial intelligence (AI).
+The cryptocurrency QUBIC landed on the crypto markets at the end of 2023, with an initial price around 2.6 millionths of a dollar, although since the bull run had already started by then, the price rose to 5.4 thousandths already during the first week of presence on exchanges.
+However, until early February it dropped, even significantly below the initial price, without benefiting from the December bull run. 
+Nevertheless, starting from mid-February it began to benefit from the bullrun, rising up to 12.2 thousandths of a dollar. 
+However, it was a speculative mini-bubble that burst starting from March. For example, when the price of Bitcoin reached its all-time high, Qbic had already dropped to 9 millionths of a dollar.
+The price then continued to decrease, reaching the current 5.8 millionths. 
+These seem to be predominantly speculative movements, and since Qbic only capitalizes half a billion dollars, it is possible that its price will remain volatile for a long time. 
+At this moment it is difficult to imagine if the project has significant long-term development potential, and given the volatility at this moment its cryptocurrency should be considered a predominantly speculative asset. 
+The trend of Kaspa 
+Kaspa is also a crypto project based on PoW. 
+However, this is a project that has been existing for almost two years, and so far it has grown almost constantly. 
+His cryptocurrency KAS debuted on the crypto markets in May 2022, with an initial price of 0.2 thousandths of a dollar. 
+Already in the course of the same 2022 it recorded a real first boom, with the price rising to over 9 thousandths of a dollar, and in 2023 the upward trend continued.
+After the initial boom in 2022, it has recorded at least three more.
+The second one was at the beginning of 2023, when taking advantage of the rebound in the crypto markets, the price of KAS even reached 37 cents. At that point, in less than a year, it had gained 18,000%. 
+In light of this performance, it is possible to affirm that the initial price was widely underestimated, although surely the excellent start of 2023 for the crypto markets as a whole must have helped a lot. 
+However, he then recorded two more booms, although with lower percentage gains. 
+With the beginning of the bullrun, in October of last year, the price of KAS started to rise again, reaching 140 thousandths of a dollar ($0.14) in November. At that point, the initial +18,000% had added another +280%.
+However, the crypto bullrun continued in 2024, and so in February the price of Kaspa rose to almost 180 cents of a dollar. 
+Since then it has dropped a bit, even reaching below $0.14 in February. 
+This trend suggests that the great bull run of Kaspa may have already run its course, and that it probably only served to bring KAS’s market capitalization to the level it deserved, above three billion dollars. 
+This is a level comparable to Stellar’s XLM, and only slightly lower than that of CRO. In other words, although it is only in 38th place overall, Kaspa has now entered the ranks of the top 50 cryptocurrencies in the world. 
+Prices and latest Render news
+A different speech is instead the one concerning Render.
+It is indeed a project born in 2020, before the last major bull run of the crypto markets.  
+It does not have its own blockchain, but a token called RNDR on the Ethereum blockchain.
+Although the price of this token has gone through the great bull run of 2021, its performance over time has remained extremely interesting.
+The thing that stands out is that after reaching $7.8 in 2021, in the course of 2024 it managed to do better, setting a new all-time high in mid-March at $13.6. 
+This is a remarkable performance, because while in mid-March Bitcoin set a new all-time high of about +6% compared to 2021, RNDR in 2024 performed even 74% better than 2021. 
+Furthermore, having debuted on the crypto markets at 0.06$, the performance in 2021 was already remarkable: +13,000%.
+It is also worth noting that during the bear market of 2022, the price only managed to return to $0.4, a figure much higher than the $0.1 it had before the start of the great bull run, and that before the start of the late 2023 bull run it had already returned to almost $2.5. 
+So although it is a token with a decidedly volatile value, it seems to have an excellent long-term trend, at least up to now. 
+It is no coincidence that it has a market capitalization of almost 4.4 billion dollars, which puts it ahead of Ethereum Classic and just slightly below UNI from Uniswap. 
+It is difficult to say if this upward trend can last much longer, but for now its trend is definitely positive, 
+
+----------------
+
+Prices and news of the crypto Solana, Dogecoin and Jupiter
+
+Our column dedicated to the analysis of the crypto world is back: today we analyze three important assets, Solana (SOL), Dogecoin (DOGE) and Jupiter (JUP).
+
+Prices and market statistics of the crypto Solana (SOL), Dogecoin (DOGE), Jupiter (JUP)
+The current price of Solana (SOL) is 153.54 USD, marking an increase in the last hour of 0.76%, 5.87% in the last day, and 10.26% in the last week.
+This performance shows a strong interest from investors towards Solana, placing it in fifth place in terms of popularity in the cryptocurrency market.
+Its market capitalization is 68.9 billion USD, with a trading volume in the last 24 hours of 2.3 billion USD. The amount of SOL in circulation is 448.3 million units.
+ Solana holders maintain their positions on average for 145 days, indicating a medium to long-term confidence in the project and its future prospects. The all-time high recorded for SOL was 260.00 USD, demonstrating that the currency has growth potential and can attract further investments. 
+The current price of Dogecoin (DOGE) is 0.15 USD, showing an increase of 0.36% in the last hour, 2.63% in the last day, and 13.16% in the last week. 
+This positive trend reflects a growing interest from investors in this cryptocurrency, ranked ninth in terms of popularity in the market. Dogecoin has a market capitalization of 21.8 billion USD and a trading volume in the last 24 hours of 1.1 billion USD.
+ The circulating supply is 144.2 billion DOGE. Dogecoin holders maintain their positions on average for 85 days, indicating a moderate confidence in the currency. 
+The all-time high for DOGE was 0.74 USD, suggesting that, despite its volatile nature, Dogecoin has the potential to reach higher valuations. 
+The current price of Jupiter (JUP) is 1.11 USD, with a market capitalization of 1.5 billion USD. These data indicate a stable presence in the cryptocurrency market. 
+The trading volume in the last 24 hours stands at 134.8 million USD, demonstrating active participation from investors. With a circulating supply of 1.4 billion JUP, this cryptocurrency shows a wide distribution among holders.
+Jupiter has reached a historical high of 1.84 USD, suggesting that the value of JUP has the potential to grow beyond the current price, based on its historical performance. This historical peak provides an important reference point for investors interested in Jupiter’s future prospects in the competitive context of the cryptocurrency market.
+NFT Solana: Explosive Growth in the Number of Traders, But Sales are Declining. What’s Happening?
+Despite a surprising 111% increase in the number of traders in the NFT market on Solana, total sales are showing an opposite trend.
+Recently, data has revealed that the volume of NFT sales on this blockchain has experienced a significant decline. This scenario raises questions about the dynamics behind the increasing interest of investors compared to the decrease in actual transactions.
+The enthusiasm for NFTs on Solana is clearly visible from the increasing number of traders, attracted by the low transaction fees and fast processing that the network offers. 
+However, the decrease in sales volume could be attributed to several factors. Among these, market saturation and changing investment trends play crucial roles.
+Industry experts suggest that, as more individuals are exploring the NFT market as a potential source of income and collecting, caution has become predominant among buyers due to price fluctuations and general economic uncertainty. 
+Furthermore, the exponential growth in the number of available NFTs may have made it more difficult for buyers to find unique works that offer long-term value, resulting in a lower frequency of high-profile sales.
+This divergence between the entry of new traders and the decrease in sales highlights the complexity and volatility of the NFT market, and suggests that the future of this sector may depend not only on technological innovation, but also on a better understanding of market dynamics and investment strategies by participants.
+Dogecoin (DOGE) Price on the Edge: the Threat of the Death Cross
+Dogecoin, the popular meme coin, is in a critical phase, with the imminent threat of a death cross that could trigger a significant price correction. 
+The death cross, a technical term used in trading to indicate the bearish crossover between the 50-day moving average and the 200-day moving average, is seen as a strong negative signal by market analysts.
+In addition, the Moving Average Convergence Divergence (MACD), an indicator that helps identify changes in momentum and price direction, is showing signs of an imminent bearish crossover. This signal could further strengthen the already observed bearish trends, increasing pressure on traders.
+The critical price area for Dogecoin is currently between $0.15 and $0.14, where approximately 12.46 billion DOGE are held. A drop below this level could trigger cumulative losses of around $1.8 billion, accentuating the climate of uncertainty and potential selling panic among investors.
+This scenario highlights the intrinsic volatility of Dogecoin and other cryptocurrencies, emphasizing the importance for investors to carefully monitor market indicators and be prepared to adjust their strategies in response to rapid changes in the financial landscape.
+
+----------------
+
+Binance Fined by Canada’s FINTRAC Over Policy Breaches
+
+
+							
+
+Canada’s FINTRAC levied a $4.4 million penalty on Binance.
+
+
+
+Binance failed to comply with AML laws, claims FINTRAC.
+
+
+
+The regulator also found significant gaps in Binance’s compliance procedures.
+
+
+
+
+Canada’s financial crime watchdog, the Financial Transactions and Reports Analysis Centre (FINTRAC), has fined Binance, the world’s largest cryptocurrency exchange by trading volume, a hefty penalty of 6 million Canadian dollars, equivalent to about $4.4 million USD. 
+
+
+
+As per a report from Bloomberg, this fine comes as a consequence of Binance’s failure to comply with laws related to money laundering and terrorist financing.
+
+
+
+Fintrac identified several administrative violations, including Binance’s failure to register as a foreign money-services business and its alleged failure to report large virtual currency transactions of C$10,000 or more, along with the required information. These violations point to significant gaps in Binance’s compliance procedures.
+
+
+
+This latest penalty adds to Binance’s growing list of regulatory and legal issues. The exchange has been under scrutiny by various regulatory bodies, including the U.S. Securities and Exchange Commission (SEC). 
+
+
+
+
+
+
+
+
+
+Last year, Binance faced accusations of prioritizing profits over user protection. In November, Binance pleaded guilty to violating U.S. anti-money-laundering regulations, resulting in a $4.3 billion fine. Additionally, the SEC has filed a civil lawsuit against Binance.
+
+
+
+It is important to note that administrative penalties like the one imposed on Binance are aimed at encouraging businesses to change their behavior rather than being purely punitive. These penalties are intended to drive improvements in compliance practices across the industry. 
+
+
+
+Under Canada’s Proceeds of Crime and Terrorist Financing Act, regulatory bodies like FINTRAC have the authority to issue such penalties in order to promote a more compliant and secure financial environment.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Shiba Doge Hybrid (SHIDOGE) to Surge 8,000% as MEXC Listing Announced, While Shiba Inu and Dogecoin Struggle
+
+
+
+                    
+
+Shiba Doge Hybrid (SHIDOGE) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Shiba Doge Hybrid (SHIDOGE), a new Solana memecoin that was launched today, is poised to explode over 8,000% in price in the coming days.
+
+
+
+
+This is because SHIDOGE has announced its first centralized exchange listing, which will be on MEXC.
+
+
+
+This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
+
+
+
+Currently, Shiba Doge Hybrid (SHIDOGE) can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Shiba Doge Hybrid (SHIDOGE) could become the next viral memecoin.
+
+
+
+To buy Shiba Doge Hybrid on Raydium or Jupiter ahead of the MEXC listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for SHIDOGE by entering its contract address – 797CmcxqkLZaSjMd7MdyNZ9swuSzaGdYWkJ65jehiXWa – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like SHIDOGE.
+
+
+                
+
+                
+
+----------------
+
+BlockFi partners with Coinbase for fund distribution, shuts down web platform
+
+Bankrupt crypto lender BlockFi is completing its wind-down of operations, revealing its intention to shut down its web platform in May. BlockFi has partnered with Coinbase to allow clients to access and withdraw funds.In a blog post, the company stated that its collaboration with Coinbase will enable “eligible BlockFi Interest Accounts (BIA), Retail Loans, and Private Clients” to withdraw their funds.In November 2022, BlockFi declared bankruptcy following FTX’s collapse, and in 2023, BlockFi announced its closure and outlined plans to return customers’ crypto holdings, with a withdrawal request deadline set for April 28, 2024.The lender informed clients on Thursday, May 9, that as the deadline to withdraw digital assets from the current estate distribution has passed, they will receive instructions on setting up a Coinbase account to facilitate withdrawals, whether using an existing or new Coinbase account.Source: BlockFiThe company is providing an additional opportunity for verification via the BlockFi platform for those who missed the withdrawal deadline and the May 10 deadline. Clients who do not establish an approved Coinbase account may have their assets liquidated into cash and distributed accordingly.The plan administrator will continue to use Coinbase for upcoming distribution rounds, potentially involving recovered funds from FTX.BlockFi stated that it does not intend to partner with any other platforms for cryptocurrency distributions. Therefore, investors are advised to stay cautious to avoid potential scams from third-party entities.Related: FTX victims describe ‘irreparable harm’ ahead of Sam Bankman-Fried’s sentencingBlockFi has faced fraudulent activity in the past, with individuals receiving deceptive emails that mimicked legitimate communications, falsely claiming immediate withdrawals of their remaining balances.BlockFi reached an $875 million in-principle settlement with the estates of FTX and Alameda Research in March. The settlement resolved BlockFi’s claims against FTX, totaling approximately $1 billion, and also saw FTX waive “millions of dollars of avoidance claims and other counterclaims” against BlockFi.BlockFi’s CEO Zac Prince, who testified as a government witness in Sam Bankman-Fried’s criminal trial, said that the actions of the FTX founder directly led to BlockFi’s bankruptcy.In September 2023, the bankruptcy court approved BlockFi’s Chapter 11 plan to repay its 10,000 creditors. Estimates show BlockFi owes up to $10 billion to over 100,000 creditors, including $1 billion to its three largest creditors and $220 million to bankrupt crypto hedge fund Three Arrows Capital.Magazine: What do crypto exchanges really do with your money?
+
+----------------
+
+Luxor Q1 report predicts recovery in Bitcoin hashprice over next five months | CryptoSlate
+
+Quick TakeThe Bitcoin mining sector has faced challenges with historically low hashprices in recent weeks following the halving event. However, hash prices surged to multi-year highs on the day of the halving, buoyed by increased fees attributed to Runes.According to Glassnode data, the hash price is $51,915 in USD terms and 0.84 BTC, nearing all-time lows. However, May 9 saw a recent uptick in hash price due to the biggest difficulty adjustment drop since November 2022.Miner Hashprice (Revenue Per Exahash): (Source: Glassnode)Glassnode defines the miner revenue per exahash metric as a tool for gauging daily miner earnings in relation to their proportional contribution to network hash power. It’s derived by dividing the total miner income (combining subsidies and fees) by the current hashrate (in EH/s). This data is provided on a daily basis, offering insights into the daily revenue earned per 1 EH/s of hash power contributed by miners to the network.Luxor, a mining pool and hashrate marketplace, released its Q1 2024 report on the state of Bitcoin mining. The report suggests that the hash price may have reached its bottom, at least in the short term, and anticipates a rise over the next five months. This projection is based on the expectation of either higher transaction fees or a decrease in mining difficulty.The report says:“This means that Luxor Hashrate Forward traders expect hashprice to increase over the next five months by way of either an increase in transaction fees or a decrease in Bitcoin mining difficulty”.Luxor Hashrate Forward Curve (06-May-24): (Source: Luxor)In addition, Luxor’s hashrate forwards are trading above the current spot price through October, also known as Contango.“Luxor’s Hashrate Forwards are trading in contango through October, which means that the contract prices for these forward contracts (which are essentially future contracts, although they trade OTC and not on an exchange) are trading above the current spot price”.The report suggests that hashrate traders are bullish on transaction fees in the short term.“Hashrate traders have been bullish on transaction fees, which they are baking into their expectations for hashprice in the coming months”.I see two potential scenarios for increased fees: First, if the Bitcoin bull run continues, we could see increased adoption and network congestion. Alternatively, another surge in Inscriptions and Runes could also drive up fees.
+
+----------------
+
+Memecoins & SocialFi Apps Drive Base Network’s Growth
+
+
+							
+
+The Ethereum Layer 2 network, Base, has seen a vast growth in adoption and activity.
+
+
+
+Franklin Templeton hints at the emergence of a Base Season, reflecting on the platform’s growth.
+
+
+
+The rise of SocialFi applications and the growth of Base memecoins have significantly contributed to the popularity of Base.
+
+
+
+
+Base, a relatively new Ethereum Layer 2 network launched by Coinbase, has seen increasing adoption driven by the rise of SocialFi (Social Finance) applications and the growth of Base memecoins. Asset manager Franklin Templeton, in a recent X post, acknowledged the growing demand for Base as the emergence of a “Base Season.”
+
+
+
+
+
+
+
+According to a recent report released by IntoTheBlock, the L2 networks of Ethereum stand out with unique user engagement and transaction management. Among the Ethereum L2s, Base has gained traction, boasting 1.48 million transactions per day.
+
+
+
+The blockchain’s ability to maintain large-scale operations is one of the major reasons for the users’ preference for Base over other L2 networks. In addition, the supply of USDC on Base has also increased, currently exceeding $2.5 billion.
+
+
+
+
+
+
+
+
+
+Franklin Templeton’s report spotted the surge of SocialFi applications like Friend.Tech is the key driver of the Base’s demand. While most of the crypto-related SocialFi apps are built on Base, more than 46% of transactions on Base are connected to these applications. The report stated, “[It is] positioning itself well to capture a material share of SocialFi activity and remain a leader in the Ethereum L2 sector going forward.’
+
+
+
+Sharing insights on Base’s widening adoption and Franklin Templeton’s report, Chinese reporter Colin Wu posted a message on the X platform. Wu wrote, “Driven by memecoins and Friend tech, Base activity has increased significantly.”
+
+
+
+
+
+
+
+Friend.Tech is one of the most popular SocialFi apps built on Base. Users can monetize their content through “key shares” or “tokenized attention.” The report asserted that the contribution of Friend.Tech in the growth of Base activity is much significant. The platform added that Coinbase has had a supporting hand in the growth as it helped the L2 network to capture about half of the SocialFi market share.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Marathon Digital's Mixed Q1: Growth Amid Setbacks
+
+
+Marathon Digital Holdings, Inc., a US-based Bitcoin mining company, showcased a mixed financial performance in the first quarter 2024.
+This period brought significant growth in hash rate and revenues. Yet, it also presented several operational challenges.
+Marathon Digital Faced Financial and Operational Challenges Amidst Growth
+Marathon’s Q1 2024 revenues soared by 223% compared with Q1 2023 to $165.2 million. Its net income rose 184% to $337.2 million from the same quarter in 2023.
+Additionally, the company produced 2,811 BTC, a 28% increase from Q1 2023. However, compared to the Q4 2023, this figure marks a decrease of roughly 34%.
+
+Read more: How Much Electricity Does Bitcoin Mining Use?
+Fred Thiel, Marathon Digital’s CEO, explained the reason behind it. He cites unexpected equipment failures and maintenance issues adversely impacting the company’s Bitcoin production.
+
+“Bitcoin production, and therefore revenues, generated during the quarter was negatively impacted by unexpected equipment failures, transmission line maintenance, and higher than anticipated weather-related curtailments at Garden City and other sites during the quarter,” Thiel stated.
+
+Indeed, Marathon’s Bitcoin production trails behind Core Scientific, another US-based Bitcoin mining company. Core Scientific reported 2,825 Bitcoin (BTC) mined during Q1 2024.
+Nonetheless, the start of 2024 has been a period of notable expansion for Marathon Digital. The company reported a 142% increase in its energized hash rate, reaching 27.8 exahash per second (EH/s). The figure is up from 11.5 EH/s in the same period last year.
+
+Marathon also expanded its technological infrastructure and product offerings. This quarter saw the introduction of Anduro, a new multi-chain Bitcoin layer-two network. Anduro aims to foster Bitcoin’s development and adoption.
+Moreover, Marathon launched several innovative products to enhance the efficiency and performance of Bitcoin mining operations. Among these were Slipstream, a service for speeding up Bitcoin transaction confirmations, and MARA UBC 2100, a control board developed internally to optimize mining operations.
+Furthermore, the company has aggressively pursued expansion through acquisitions. It added more than 1.1 gigawatts to its mining capacity.
+
+Notably, 54% of this capacity is now under Marathon’s direct control and operation. This strategic expansion is aligned with Marathon’s ambitious target. It aims to boost its hash rate to 50 EH/s by the end of 2024, doubling its current capacity.
+However, Marathon’s overall performance in the quarter didn’t meet analysts at Zacks Equity Research’s estimation. Marathon’s reported revenues missed the Zacks consensus estimate by 14.80%. This led Zacks to adjust the current rank of Marathon Digital’s stock (MARA) status to “hold.”
+Read more: 5 Best Platforms To Buy Bitcoin Mining Stocks in 2024
+MARA Price Performance. Source: Google Finance
+Marathon Digital’s stock (MARA) price dropped after the earnings report. During after-hours trading, MARA’s price dipped to $18.60 on May 9. In a longer time frame, MARA’s price has been down 14.30% year-to-date.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+
+
+
+
+----------------
+
+Ethereum: for the SEC the crypto is a threat to banks
+
+Joseph Lubin, co-founder of Ethereum and founder of Consensys, has released statements regarding the behavior of the Securities and Exchange Commission (SEC) of the USA against cryptocurrencies. 
+According to Lubin, the SEC sees Ethereum as a threat to the banking landscape, and is acting to hinder innovation in the United States. 
+
+Ethereum vs. SEC: according to Lubin, the crypto threatens banks and finance in the USA
+At FT Live at the Crypto and Digital Asset summit in London, Joseph Lubin, co-founder of Ethereum and founder of Consensys, spoke about how the SEC is acting against cryptocurrencies.
+Specifically, Lubin believes that the Securities and Exchange Commission of the United States is engaging in strategic enforcement actions, rather than having a meaningful dialogue with the cryptocurrency industry.
+The lack of regulatory clarity and these actions against crypto, suggest that the SEC is intentionally hindering innovation, which threatens the current banking and financial landscape of the country.
+And indeed, according to the co-founder of Ethereum, the actions of the SEC are intended to create fear, uncertainty, and doubt for the cryptocurrency industry “in an attempt to paralyze” and force the company to go offshore.
+Regarding this, Lubin said:
+“The SEC seems to have reclassified Ether as a security without telling anyone that it is doing so. It is proceeding with a strategic series of executive actions rather than an open discussion and a clear definition of the rules”
+Ethereum vs. the SEC: the crypto ETF issue could further scare banks
+Lubin then spoke about two other issues concerning the SEC against Ethereum. One is the decision by Consensys to sue the SEC, after receiving a Wells notice from the agency. 
+Just with the goal of obtaining greater clarity, the company’s counteraction against the SEC will go to a US court. However, it is worth considering that the Commodity Futures Trading Commission had previously classified Ether ETH as a commodity.
+On this subject, here is the tweet from Consensys that explains its position:
+
+“It’s not just about protecting a digital asset, but safeguarding the future of innovation in the United States. It’s about safeguarding the future of innovation in the United States. An overly zealous financial regulator should not hold a revolutionary technology hostage.” – @ethereumjoseph in today’s edition of @FT”
+The other issue regarding the SEC vs. Ethereum case, instead, concerns the upcoming deadline for Ethereum spot ETFs, which must be approved or rejected by the end of this month of May 2024. 
+Here too, Lubin emphasizes that the SEC’s decision could depend on both the success of capital inflows for the Bitcoin spot ETF and the lack of readiness on the part of banks and the traditional financial system. 
+In this sense, Lubin has also hypothesized that the perspective that customers in the banking sector will move assets into digital forms, using decentralized finance constructs, could scare many banks and other financial institutions.
+Vitalik Buterin’s new revolutionary proposal: EIP-7702
+And while on one hand there is concern about whether government and institutions are ready for the great Ethereum, on the other hand, the other co-founder of Ethereum, Vitalik Buterin, is dealing with his continuous technological progress. 
+Recently, Buterin together with Sam Wilson, Ansgar Dietrichs and Matt Garnett, presented a new revolutionary proposal: EIP-7702.
+Basically, the proposal aims to refine the concept of “account abstraction” on Ethereum. 
+It proposes to introduce a new feature and capability to externally owned accounts (EOA), like normal wallets, allowing them to temporarily assume the functions of a smart contract during a transaction. 
+
+----------------
+
+Solana Surpasses Ethereum in DEX Volume
+
+
+Solana has managed to top Ethereum in 24-hour daily volume in decentralized exchanges, according to recent data. The two popular blockchains recorded $1.3 billion and $1.29 billion, respectively, in DEX trading volume. BSC comes in third place with $604 million worth of DEX trading volume. Arbitrum and Base are in fourth and fifth places after generating $510 million and $286 million in DEX trading volume, respectively. Another flippening? It is also worth noting that Solana’s total fees are now at 50% of Ethereum’s fees over the past few days. For comparison, the ratio was just 1% during the 2021 bull run. Some analysts expect Solana to flip Ethereum in fees this month, which would be a major development for the cryptocurrency ecosystem. However, it is worth noting that the capital moving to layer-2 solutions is one of the reasons for this changing dynamics. Solana surges 6% The price of the SOL cryptocurrency has surged more than 6% over the past 24 hours, which makes it one of the best-performing altcoins. The token is currently changing hands at $154 on major spot exchanges. Its market cap currently stands at $68 billion. For comparison, ETH is currently up a modest 1.23%. Yet, with its valuation of $365 billion, it still dwarfs Solana. 
+
