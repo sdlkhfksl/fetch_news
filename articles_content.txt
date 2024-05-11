@@ -1,389 +1,3 @@
-BlockFi closure: Coinbase assumes asset management
-
-Maxwell especially enjoys penning pieces about blockchain and cryptocurrency. He started his venture into blogging in 2020, later focusing on the world of cryptocurrencies. His life's work is to introduce the concept of decentralization to people worldwide.
-
-----------------
-
-XRP Price Prediction for May 10
-
-
-
-
-Cover image via U.Today
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Bulls are trying to get back in the game at the end of the week, according to CoinMarketCap.Top coins by CoinMarketCapXRP/USDThe price of XRP has risen by 0.46% over the last day.Image by TradingViewOn the hourly chart, the rate of XRP is bearish as it is on the way back to the local support of $0.5135. If sellers' pressure continues, one can expect a breakout, followed by a move to the $0.51 area.Image by TradingViewOn the bigger time frame, there are also no reversal signals yet. If bulls lose the $0.51 zone, the drop is likely to continue to the $0.48-$0.50 range next week.Image by TradingViewFrom the midterm point of view, the weekly bar is about to close bearish. If the situation does not change, traders may witness a test of the previous candle low of $0.4780 soon.XRP is trading at $0.5130 at press time.
-
-
-
-----------------
-
-Empire Newsletter: How crypto can solve AI's centralization problem - Blockworks
-
-
-Why AI needs crypto
-Crypto is very good at one thing: getting humans to do one thing. This will become incredibly important in an AI world. 
-Technology is deflationary and creates abundance, but it is also a centralizing force. Look at Google (owns 90% of search) and social (TikTok, Meta). 
-Chris Dixon documents this phenomenon well in his latest book “Read Write Own.” Unlike internet protocols (TCP/IP, HTTPS, SMTP), internet service companies like Google and Meta have amassed monopoly-like market shares. These companies own your data and, after achieving scale, adopt monopoly-like practices to squash competition. Meta shut down their App Store, OpenAI did the same, and Google has crushed multiple calendar-app startups. 
-In theory, you can use other social media platforms, but none achieve the same level of network effects as TikTok or Meta. 
-Read more: AI has a monopoly on power and privacy. Blockchain fixes this.
-The centralizing effect of technology may be even greater with AI. I recently came across Anthropic’s CEO interview on CNBC where he estimates “we’re going to see models trained in the next year are going to be about $1 billion…and then 2025, 2026, we’re going to go to $5 billion or $10 billion. And I think there’s a chance it may go beyond that to $100 billion.” Few companies will afford that. 
-Perhaps more importantly, companies that own the data will have an edge to train models. A startup may be able to raise a couple billion, but they won’t be able to easily replicate clinical trial data or years of user behavior data.
-The promise of technology is that it is democratizing and lowers the barriers for companies to reap the benefits. This narrative rings true with AI  — after all, companies will be able to embed LLMs and other forms of AI (robots, automation processes etc)  to unlock productivity gains. Like trickle-down economics, trickle-down tech will benefit many. But the centralizing effect of technology will likely be no different and perhaps even greater with AI. 
-So where does crypto fit into all of this?
-Crypto has proven to be very good at getting humans to do a specific action which benefits the overall network. From Bitcoin to DePIN, crypto networks are case studies on how to scale networks more efficiently by transferring the costs to do-it-yourself (DIY) participants incentivized to spend resources (time, hardware, compute) expecting to earn in return tokens which represent ownership in the network. 
-The challenge is that bootstrapping and scaling the supply side of networks can be very capex-intensive in these networks. Historically, this has been one of the reasons why there is network centralization. You have 1-2 ride-sharing companies and social media platforms. But when you radically lower the financial burden to bootstrap a network from a company/protocol to participants, then you level the playing field. 
-You can more easily overcome the cold-start problem networks face by attracting supply and demand because both sides are incentivized to earn tokens (i.e., ownership in the network).
-Giving network participants a greater cut of revenue/profits will be the reason why crypto networks from DePIN to AI will emerge as leaders and will be able to displace incumbents. 
-One area I see this already playing out is in training — specifically, reinforced learning from human feedback (RLHF). 
-In short, AI models with human feedback are superior to AI models without it. The more RLHF you have, the better the model. Capturing human feedback can be very expensive. But again, crypto has proven to be good at getting people to do a specific action with token incentives, so we may be able to create systems that capture RLHF in greater scale and in a more cost-effective manner than traditional methods. 
-Instead of having one company to raise a ton of VC money to fund RLHF, a network can finance this with clever cryptoeconomics.
-Crypto may also be crucial to minimize data selection for training bias (data is open, accessible and immutable in blockchains) and platform risk. 
-Look at Google’s Gemini as an example — one platform has many opinions on the data on which the models are trained. The bet is that companies/developers will want certainty that the models they are utilizing are as unbiased as possible and have cryptographic proofs that models are doing what they are being told.
-The most exciting thing about this is that the impact crypto can have on AI is already being felt. 
-AI will be explosive. Its effect will be felt by everyone, but incumbents may capture even more value. Crypto offers an interesting and viable solution to counteract the centralizing force of technology and restore the original principles of the internet. I see a world where crypto —  specifically, this idea of creating participatory networks — will become the de facto go-to-market mechanism for networks. 
-Crypto is the extension pack of the internet.
-— Santiago Roel Santos
-Data Center
-
-Bitcoin’s price is up over 3% to $63,000 early Friday.
-Marathon mined 2,811 BTC last quarter, a decrease of over 30% from the previous quarter.
-Pump.fun has brought in nearly $500,000 in revenue over the past 24 hours, per DefiLlama.
-Grayscale’s outflows have picked back up, with $43 million leaving the fund yesterday, according to data from Farside.
-ETH’s price is up 2% to over $3,000, per Coinbase.
-
-Not selling is still holding
-BlackRock’s memecoin balance is piling up.
-Nearly $200,000 in random tokens are parked in addresses linked to BlackRock’s onchain money market fund, BUIDL. New deposits come in every day.
-To be clear, BlackRock is not buying memecoins, despite the spoofed Uniswap trades that suggest it had bought trillions of BOMEPEPE.
-It’s long been tradition for memecoin holders, and maybe even the creators themselves, to direct funds to the wallets of popular figures. 
-Read more from our opinion section: BlackRock clearly wants to take crypto seriously. Too bad it’s forever silly.
-Think of it as part hat-tip, part marketing spend — the onchain equivalent of renting a billboard inside a blockchain explorer.
-BUIDL’s onchain history has seen more than 500 transactions but only about two dozen appear to be actioned by BlackRock itself. 
-BlackRock initially funded BUIDL with 1 ETH from Kraken and 200 USDC minted directly via Circle. The fund then sent small amounts of USDC between itself, in early-to-mid March, apparently to warm up, about a week before the fund was formally announced.
-Since then, Larry Fink’s firm, the world’s largest asset manager, has been interacting with Ondo Finance, which has been acquiring BUIDL’s tokens as one of its reserve assets (there are currently 13 holders of BUIDL). 
-All while almost 300 different tokens have flooded BUIDL’s addresses, not just on Ethereum, but on any EVM-compatible chain with an analogous wallet, including Binance Smart Chain, Polygon and Avalanche.
-Most of the tokens sent to BlackRock to date are worthless. But there are some with active markets, which gives them real value, and not all are strictly memecoins. 
-Caution is advised when looking into any of these tokens — their place in BlackRock’s wallet isn’t exactly an endorsement.
-BlackRock has been forced to hold more than $60,000 worth of UBXS alongside its legitimate stablecoin balance. UBXS is pitched as a utility asset for tokenized real estate app Bixos. 
-There’s also nearly $30,000 of ISP, which supposedly powers open-world, play-to-earn metaverse platform Ispoverse that can support virtual hackathons. 
-Although, I’m not sure it really helps perception of those projects to be placed alongside tokens like FINKWIF, NOODS, PEEON and BOBO MUMU.
-Still, BlackRock hasn’t sold any of the tokens playing stowaway in its Ethereum wallet. Does that count for anything? 
-Probably not. Sad.
-— David Canellis
-The Works
-
-Kraken is pushing harder for a dismissal in its SEC lawsuit, Bloomberg writes. 
-Token projects are increasingly turning to online influencers for help, according to CoinDesk’s Danny Nelson.
-Neel Somani, founder of Ethereum scaling startup Eclipse, says he is “reducing” his role amid sexual misconduct allegations made against him. 
-Espresso and Polygon Labs are partnering on rollup interoperability.
-US airlines are expanding their use of AI, according to the New York Times.
-
-The Morning Riff
-Pump.fun is exactly what Gary Gensler and the SEC are afraid of. 
-It’s also one of those things that is so unique to crypto — mixing fun with the potential to profit. 
-But it’s also risky, as Blockworks reporter Jack Kubinec pointed out in the Lightspeed newsletter yesterday. Folks who go to casinos are probably of the same mindset as a lot of folks on Pump.fun, and for them, the risk is worth the potential reward. 
-For the SEC and Gensler, though, this is a scenario they claim they want to protect investors from. While Pump.fun says it prevents rug pulls or exit scams, it can’t stop shady people from doing shady stuff. 
-So while the SEC continues its crusade against companies that have said they want to — or have tried to — come in and register, I’ll sit back and watch crypto’s latest venture play out.
-— Katherine Ross
-
-Start your day with top crypto insights from David Canellis and Katherine Ross. Subscribe to the Empire newsletter.
-
-
-----------------
-
-Jupiter Aims To Launch Mobile App Launch By July - The Defiant
-
-Jupiter now accounts for 50% of Solana’s computational load.Siong, the co-founder of Jupiter, Solana’s leading DEX aggregator, unveiled a target launch date for the protocol’s mobile app.Speaking during the Solana Crossroads 2024 conference, Siong revealed that the project is aiming to roll out its mobile app during “late May or early June.” Siong noted that a “test flight” version of the application is already “up and running,” with Jupiter currently in the process of submitting the mobile app to Apple for approval.The news comes as Jupiter is driving a dominant share of trading activity on Solana.Siong estimated that Jupiter accounts for roughly 50% of Solana’s computational load per block, and is receiving more than 250,000 requests from users per second.According to Jupiter Station, Jupiter hosted nearly 1.85 million transactions in the past 24 hours, equating to nearly $809 million in trade volume.The project also launched a perpetual contracts trading platform roughly seven months ago, which has since grown to capture a roughly 70% to 75% market share for perps trading on Solana.The Jupiter Perpetual Exchange currently boasts a total value locked (TVL) of $340.7 million and drove $424.5 million worth of volume in the past 24 hours, according to DeFi Llama.JUP rollercoasterJupiter also airdropped its JUP token to 955,000 early adopters in January, with the token debuting at a $900 million market cap, according to CoinGecko.Like many airdropped assets, JUP slumped during its first month of trade, falling 29% to post an all-time low of $0.47 two weeks after launching. The downward momentum was intensified by backlash from Jupiter’s community in response to Jupiter moving to sell 18.5% of JUP’s supply via its LFG Launchpad just a couple of days after the airdrop.However, JUP began to regain steam in late February, rallying to a record high of $1.75 in early April. The token has since pulled back by 36.6%, last changing hands for $1.11.JUP/USD. Source: CoinGecko.Last week, Jupiter integrated support for Clone Protocol, allowing users to trade assets from outside of the Solana ecosystem from the platform.
-
-----------------
-
-Bitcoin Tops $63,000; Akash Network Emerges As Top Gainer - Benzinga
-
-Bitcoin BTC/USD moved higher, with the cryptocurrency prices rising past the key $63,000 level on Friday.Ethereum ETH/USD also recorded gains, trading above the key $3,000 mark this morning.Akash Network AKT/USD was the top gainer over the prior 24 hours, while UNUS SED LEO LEO/USD turned out to be the biggest loser.At the time of writing, the global crypto market cap rose to $2.33 trillion, recording a 24-hour gain of 3.1%. BTC was trading higher by 3.2% at $63,074 while ETH rose by around 1.7% to $3,031 on Friday.Here are the top ten crypto gainers and losers over the past 24 hours:Gainers                                                Akash Network AKT/USD
-Price: $5.91
-
-
-
-24-hour gain: 22%
-The Graph GRT/USD
-Price: $0.3118
-
-
-
-24-hour gain: 17.3%
-Toncoin TON/USD
-Price: $6.96    
-
-
-
-24-hour gain: 16.8%
-Arweave AR/USD
-Price: $44.52
-
-
-
-24-hour gain: 14.4%
-Immutable IMX/USD
-Price: $2.30
-
-
-
-24-hour gain: 13%
-BOOK OF MEME BOME/USD
-Price: $0.01151
-
-
-
-24-hour gain: 11.5%
-LosersUNUS SED LEO LEO/USD
-Price: $5.92     
-
-
-
-24-hour drop: 0.7%
-TRON TRX/USD
-Price: $0.1249
-
-
-
-24-hour drop: 0.3%
-Lido DAO (CRYPTO: W)
-Price: $1.88                
-
-
-
-24-hour drop: 0.1%
-BNB BNB/USD
-Price: $594.76
-
-
-
-24-hour drop: 0.1%
-Read This Next: Enbridge, Funko And 3 Stocks To Watch Heading Into FridayMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-'Shiba Inu On Solana' Bonk In For An 'Explosive Rally,' Millionaire Trader Predicts - Benzinga
-
-Crypto trader Unipics, also known as “Bonk Guy,” shared his bullish outlook on Bonk BONK/USD, forecasting an imminent explosive rally.What Happened: “Bonk guy” attributes BONK’s recent weakness, particularly on weekends, to the ongoing vesting of tokens to OpenBook users. Every Friday, 161 billion tokens, worth around $4 million, are released, creating a significant source of sell pressure. However, with less than two weeks remaining until the vesting period ends, the trader anticipates a shift in market dynamics.Despite the recent challenges, the trader highlights BONK’s impressive performance in 2023, noting that it was the best-performing meme coin of the year. In the past year, Bonk hit a peak of over $2 billion in market capitalization, despite many market participants believing it to be "dead."Also Read: Trader Who Made ‘Giga Wealth’ On Memes Reveals ‘Mememillions Playbook,’ Still Holds Most Of His DOGEWhy It Matters: “Bonk guy,” who gained notoriety for riding a trade from five to eight figures, emphasizes the inherent volatility of meme coins, stating that they can be "insanely volatile, both to the upside and downside." He predicts that when BONK rallies next, it will trigger a fear of missing out (FOMO) among investors, causing the token to "absolutely rip."The analysis highlights the significant impact that vesting periods and token releases can have on the price action of cryptocurrencies, particularly meme coins.The meme coin has witnessed a significant surge in its performance and strengthened its position in the top six of the meme coin table. It is currently valued at $1.6 billion, up 14.5% month-over-month, compared to Dogecoin’s 20% and Shiba Inu’s 15% drops, respectively.Price Action: At the time of writing, BONK was trading at $0.00002444, up 2.5% in the past 24 hours.What’s Next: The influence of Bitcoin as an institutional asset class is expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: VanEck Meme Coin Index With DOGE And SHIB Would ‘Outperform 99% Of People If You Left It Alone,’ Says TraderThis content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.Image: Shutterstock
-
-----------------
-
-Crypto Clash: Kraken Fights SEC's Definition Of Securities
-
-
-								Crypto exchange Kraken has intensified its fight against the US Securities and Exchange Commission (SEC) by formally submitting a reply in support of its motion to dismiss the agency’s lawsuit. The filing, dated May 9, 2024, challenges the SEC’s claim that Kraken operated as an unregistered exchange dealing with securities, specifically “investment contracts.”
-Led by Matthew C. Solomon from Cleary Gottlieb Steen & Hamilton LLP, Kraken’s legal team disputes the SEC’s allegations, asserting that no specific investment contracts traded, brokered, or settled on Kraken’s platform have been identified. They argue that crypto assets alone, which are the only products alleged to have been handled by Kraken, do not meet the definition of investment contracts under federal securities laws.
-Kraken Fights For The Entire Crypto Industry
-The filing emphasizes a critical flaw in the SEC’s approach, accusing the regulatory body of conflating primary offerings conducted outside of Kraken with secondary crypto market transactions on the platform. Kraken’s attorneys contend that the SEC’s approach ignores the distinct legal treatment required for primary and secondary market transactions under the Securities Act of 1933 and the Securities Exchange Act of 1934.
-
-Kraken’s submission states, “The transactions alleged to have occurred on Kraken are blind bid/ask secondary market sales of digital assets… unaccompanied by any contractual terms or other obligations that may have existed at the initial offering.” This, they argue, could improperly extend the SEC’s regulatory reach to virtually any digital asset or commodity by asserting an associated “investment concept” or “ecosystem.”
-Further challenging the SEC’s jurisdiction, Kraken’s lawyers invoke the major questions doctrine, arguing that the expansive interpretation of regulatory authority over crypto assets should be explicitly authorized by Congress, not determined through litigation. They maintain that the Howey Test’s criteria — a standard used to define what constitutes an investment contract — are not met, as there was no investment of money in a common enterprise with a reasonable expectation of profits predominantly from the efforts of others.
-The SEC initially sued Kraken in November, after previously settling charges over Kraken’s staking services. In its opposition filed last month, the SEC defended its actions, stating, “it is simply not the case that this enforcement action exceeds the authority Congress granted the SEC.” The SEC argued that its enforcement aligns with the Howey test and its Congressional mandate, dismissing claims of overreach.
-Related Reading: Taiwan Sets Sights On Crypto Firms With Tough New Jail Time Laws
-The court is scheduled to hear arguments on the motion on June 12, 2024. If Kraken’s motion to dismiss is granted by Judge William H. Orrick, it could set a significant legal precedent for the entire crypto industry, potentially limiting the SEC’s ability to regulate secondary market transactions of crypto assets under the current legislative framework.
-At press time, Bitcoin traded at $63,237.
-BTC price, 1-day chart | Source: BTCUSD on TradingView.com
-Featured image from Koszary Tradingu, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Analyst Says Dogecoin(DOGE) Is a 'Crapshoot,' Could These 3 Meme Coins Have Higher Returns? - Benzinga
-
-Since its launch in 2013, DOGE has not done much to add value to the ecosystem. However, the token has seen some of the largest returns of any asset over the past decade. This feat makes little sense to those outside of the cryptocurrency community, but DOGE supporters believe that buying and HODLing their position is what has led to the gains. However, the euphoria of DOGE's success could come to an end, according to some analysts.Don't Miss:Pav Hundal is an analyst for Swyftx, an Australian cryptocurrency exchange. He noted that the future of DOGE "will depend on the decision-making of the millions of minnow investors who bought DOGE in 2021 and right now are sitting on paper losses." Additionally, Hundal noted that "it's a crapshoot. If most of these people decide to take quick profits during the cycle, you could start to see selling pressure ratchet up."Essentially, Hundal believes that the next small uptick in the price of DOGE will lead to a huge wave of selling that could potentially spell the end for the token. If this logic holds and DOGE could potentially lose its spot as the top memecoin, there are a few other tokens that could potentially be a better investment.Dogwifhat (WIF) is the next pick for a memecoin that could potentially outperform expectations. The token has only been around since December 2023 but has already cemented itself in the top 40 tokens by market cap. It has attracted significant attention, which could lead to gains if DOGE begins to fall.Trending: 1 in 4 Americans own a share of Bitcoin according to NASDAQ, how much would $10 get you today?Another choice is Shiba Inu (SHIB). This project is known as the "Dogecoin killer," as it is making moves to directly compete with and overtake DOGE. To do this, it has created a large ecosystem, complete with a decentralized exchange (DEX), NFT projects, a layer-2 blockchain, and a magazine. This focus on building out an ecosystem, along with its current community of investors could prove fruitful in light of a potential DOGE collapse.Lastly, if you are interested in politics or the upcoming election, MAGA Coin (TRUMP) could be a decent investment. The token has seen enormous gains since its launch in August 2023. It combines memecoins with politics to attract investors. With the election in November, the token could receive more and more attention, which could lead to gains. However, this token is likely the riskiest of the three due to its smaller market cap and the fact that Trump is a very controversial person. So, according to some, the end of DOGE's reign as the top memecoin could come very soon. If this is the case, many may start looking for the next memecoin to make them into a millionaire overnight. Read Next:
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Kraken Fights Back in SEC Lawsuit: Is the SEC Overreaching? - DailyCoin
-
-
-        
-A major cryptocurrency exchange has found itself in a heated legal battle with the SEC.
-
-
-
-The SEC has accused the exchange of operating as an unregistered securities market.
-
-
-
-Kraken believes the SEC’s actions have set a dangerous precedent for future crypto regulation.
-The legal battle between cryptocurrency exchange Kraken and the U.S. Securities and Exchange Commission (SEC) heats up as Kraken refutes the agency’s claims. The SEC lawsuit, filed last November, alleges Kraken operated as an unregistered securities exchange and made millions from unregistered securities.Kraken Challenges SEC’s Definition of SecuritiesKraken argues the SEC’s case lacks merit and misinterprets core legal concepts. Their response highlights the agency’s failure to precisely identify which crypto assets constitute securities on the exchange.
-Furthermore, Kraken takes issue with the SEC’s use of broad terms like “investment concept” and “ecosystem” instead of established legal terms like “investment contract” and “enterprise.” This, according to Kraken, reflects a fundamental misunderstanding of the case’s legal framework.The SEC’s lawsuit isn’t the first hurdle Kraken has faced. Months prior, they settled charges related to their staking service. This latest lawsuit, however, has broader implications for the entire cryptocurrency industry.Kraken contends that the SEC’s case sets a “dangerous precedent” for the agency’s reach within the crypto sphere. In response to Kraken’s initial motion to dismiss, the SEC filed a lengthy opposition, defending its authority.Howey Test at Heart of Kraken’s DefenseThe crux of Kraken’s defense hinges on a different interpretation of investment contracts. They argue the SEC’s insistence on written contracts is misplaced, as agreements can be oral, expressed, or implied.
-Additionally, Kraken references past SEC cases involving initial coin offerings (ICOs) to bolster their argument. These cases, Kraken argues, demonstrate a focus on contractual rights and obligations, a key factor in defining investment contracts under the Howey Test, the legal standard used to determine if an asset is a security.The Howey Test establishes a security based on specific criteria: investment of money in a common enterprise with the expectation of profits derived from the efforts of others.This legal battle unfolds amidst ongoing discussions in the U.S. Congress regarding crypto regulation. Further complicating the picture, eight state attorneys general have filed an amicus brief supporting Kraken’s position, suggesting the SEC may have overstepped its authority.On the Flipside
-The amicus brief could be seen as an attempt to limit federal overreach, potentially creating a patchwork of state regulations for crypto.
-
-
-
-Kraken’s prior settlement over staking could be used by the SEC to argue the exchange understands the regulatory landscape.
-Why This MattersBy challenging the SEC’s definition of securities and their broad reach within crypto, Kraken’s defense could significantly impact how crypto assets are regulated. A win for Kraken could set a clearer standard for classifying cryptocurrencies, potentially reducing regulatory burdens for the industry and fostering innovation.Curious about the role of data in cryptocurrency ETFs? This article dives into CF Benchmarks, a company that provides reference data for cryptocurrency ETFs:Kraken’s Indices Unit Claims 50% of Crypto Benchmarking MarketInterested in the legal battle between the SEC and Kraken? This article explores a lawsuit that challenges the SEC’s authority to regulate crypto assets:SEC Slammed in Kraken Lawsuit for Having “No Authority”    
-              
-    
-
-----------------
-
-TSM Stock Gains After Firm Reports 60% Increase in Y/Y Revenue - Tokenist
-
-
-					
-Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
-
-
-
-Taiwan Semiconductor Manufacturing Company (NYSE: TSM) has been experiencing significant stock price surge after reporting its latest earnings. The company’s strong earnings and revenue growth have contributed to the over 4% jump in US-listed shares of the firm today.
-
-
-
-TSM Stock Up 78% Over the Past Year
-
-
-
-At the time of writing, TSM’s stock price stands at $149.04, reflecting a recent increase of 4.38%. The company has delivered substantial returns to its investors, with a year-to-date return of 43.89% and a remarkable 78.43% increase over the past year. Looking at the long-term performance, TSM’s stock has skyrocketed by 293.58% in the last five years. The company’s market capitalization has reached an impressive $637.90 billion, and its trailing Price to Earnings (P/E) ratio is 27.56. TSM has reported a revenue of $2.25 trillion and a net income available to common stockholders of $857 billion, resulting in a profit margin of 38.16%. Analysts have provided various price targets for TSM, with a high estimate of $188.00 and a low of $150.00.
-
-
-
-
-
-TSM Reports 60% y/y Revenue Surge Driven by AI Demand
-
-
-
-TSM has been reporting strong financial results, driven by the increasing demand for advanced semiconductors used in artificial intelligence (AI) applications. In April, the company’s revenue surged by nearly 60% year-over-year, reaching approximately $7.2 billion. For the first quarter, TSM’s revenue increased by 13% compared to the same period last year, totaling $18.87 billion. The company anticipates continued growth, with a projected 27.6% increase in revenue for the second quarter.
-
-
-
-TSM’s ongoing robust performance can be attributed to the sustained high demand for its cutting-edge semiconductor products. The company’s strategic expansions in the United States and Japan aim to mitigate risks associated with its production concentration in Taiwan, considering the geopolitical concerns surrounding the region. These expansions are expected to further strengthen TSM’s position in the global semiconductor market and help the company navigate potential challenges arising from geopolitical tensions.
-
-
-
-
-
-
-
-Do you think TSM’s geopolitical risks are something investors should worry about, given its current place in the global semiconductor industry? Let us know in the comments below.
-
-
-
-Disclaimer: The author does not hold or have a position in any securities discussed in the article.
-
-
-
-
-
-				
-
-				
-
-		
-			About the author
-		
-
-		
-		
-
-					
-				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
-			
-		
-	
-
-									
-				
-			
-
-----------------
-
-Eduard Jubany Tur, Founder of ZKX, on Perpetual Futures, DeFi Growth in Asia, and How DeFi Can Democratize Finance | Ep. 333
-
-
-                        
-                            Eduard Jubany Tur, Founder of ZKX, on Perpetual Futures, DeFi Growth in Asia, and How DeFi Can Democratize Finance | Ep. 333                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 10, 2024 10:55 EDT                            
-                                                             | 4 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Eduard Jubany Tur, the founder of ZKX, a decentralized perpetual futures exchange on Starknet, sat down for an exclusive interview with Cryptonews Podcast.He talked about the growth of the crypto industry in Asia, which is home to most of the early adopters, and the region’s key relevance for the industry.Tur also discussed differences between crypto users in Asia and the rest of the world, noting that most people are nonetheless still on centralized exchanges rather than in DeFi.Getting people to move to DeFi is currently difficult given its overall complexity, but there are clear solutions, Tur remarked.VIDEOCrypto Growth Starts in Asia
-While working in venture capital, Tur was based out of Taiwan, getting a clear view of the Asia market, he said.He helped startup founders across various countries, including Indonesia, India, Thailand, Korea, and China.Through this work, he got to learn the advantages of each country and the specific issues each deals with.Notably, the data showed that “most of the growth in crypto has always come from these markets in Asia.”Most centralized exchanges that we know today and many of the projects were born out of Asia.However, what Tur and his colleagues found is that, centralized exchanges have been very good at targeting emerging market users.DeFi projects, on the other hand, have not.Cryptofolk in Asia is Very Different from Rest of the World
-There are some key differences between Asia and other parts of the world, Tur argued.The first is the demographics. Asia has a much younger population, which is also growing massively in terms of purchasing power. They’re starting to have more disposable income for investing.Another notable factor is that Asia has many more risk-takers. They are more willing to try new things and adopt new technologies.“That makes a huge difference when it comes to the adoption of crypto overall,” Tur said.However, each country has its own very unique features as well.For example, South Korea and Japan are massive markets for crypto. People here are more willing to hold coins in the long term and are often passive investors.China, Hong Kong, and Taiwan are looking more towards derivatives and leverage trading. There are more risk-takers here.The Philippines, Indonesia, and Vietnam are also key markets where people initially started farming new coins. People here may have less disposable income but are still willing to invest and provide asymmetric bets in the ecosystem.Additionally, certain governments in Asia have been relatively crypto-friendly, which encouraged industry growth and crypto adoption.All this said, it is important to note that most of these users “are still very much set towards centralized exchanges.”Getting People Off Centralized Exchanges and Into DeFi
-Millions of users are on the centralized exchanges, and only a few hundred thousand actively trade in DeFi, Tur remarked.Changing this will require many improvements across the entire user experience of DeFi.One key element is account obstruction. It will provide users with a conduit to replicate Web2 experiences but with Web3 benefits.There are many great design possibilities around account obstruction that should really simplify onboarding, Tur remarked.Another key element is localization. This includes providing products in local languages and adapting them to users’ needs in each particular area.Finally, DeFi has a developer-oriented culture. While this makes sense in the early stages of an industry, it’s time to switch to the user-centric approach.Therefore, it’s necessary to create simple, understandable, and engaging products that bring value to users. That way, new users will be coming to DeFi on their own.This is the part of the cycle we’re going to be facing in the next few years, Tur said.Even Losers Get Rewarded
-There’s a need now for innovation that will drive users towards DeFi, away from centralized exchanges.An incremental infrastructure improvement would not be enough. What’s needed is innovation in the user experience.Most trading experiences in DeFi now are boring, Tur said. They’re just a trading terminal without a dynamic and engaging experience.Therefore, ZKX mission is to make trading social and gamified within DeFi, Tur remarked. This can incentivize users to start trading within DeFi.ZKX, for example, had 30-minute trading competitions with three leaderboard categories: volume, profit, and loss.This means that even the losses get some incentives because these traders also contribute to the health of the protocol, Tur said.It’s a balance the platform has been working to build: being a serious, scalable, reputable, and trustworthy platform within DeFi but still simple and fun.____That’s not all.In this interview, Tur also discussed:
-his pre-crypto journey and Web2 background;
-mining Bitcoin in 2014;
-building geolocation and digital mapping services on the blockchain, now one of the use cases for DePIN;
-why the team decided to build ZKX on Starknet;
-ZKX 30-minute trading competitions;
-perpetual swaps and futures, and how these differ from each other and other trading instruments;
-creating user-centric platforms that cater to traders of all levels, thus incentivizing engagement while ensuring accessibility.
-You can watch the full interview here.__________About Eduard Jubany TurEduard Jubany Tur is the founder of ZKX, a decentralized perpetual futures exchange on Starknet.His background in tech and finance has led him to tackle some of DeFi’s most pressing challenges, such as accessibility and user engagement.With the goal of making DeFi more approachable and efficient, Tur has been at the forefront of integrating gamification into trading, enhancing the learning curve with innovative solutions.Beyond that, Tur and ZKX are also leveraging Starknet for scalability, advancing trading with security and transparency, and fostering community governance.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Hong Kong issuer seeks spot Bitcoin ETF for mainland China
-
-The CEO of Harvest, the issuer of a spot Bitcoin (BTC) exchange-traded fund (ETF) in Hong Kong, is looking to make its Bitcoin ETF accessible to mainland Chinese investors.Harvest CEO and chief investment officer Han Tongli is considering options that would allow mainland China investors to purchase its Bitcoin and Ether (ETH) ETFs. That would be possible by offering its products through Hong Kong’s ETF Connect framework, The South China Morning Post reported on May 9.The ETF Connect was launched in 2022, and it was approved by the China Securities Regulatory Commission and the Securities and Futures Commission. The tool is designed to promote the interaction and integration of Hong Kong and mainland China, offer diverse asset allocation choices and promote liquidity.As long as “everything goes smooth and well” in the next two years, Harvest doesn’t rule out the opportunity of applying for its ETFs to be included in the ETF Connect, CEO Tongli said.Harvest CEO Han Tongli (center) speaks at Bitcoin Asia on May 9, 2024. Source: SCMPThe potential inclusion of Bitcoin and Ether ETFs in the ETF Connect program could be a massive bullish trigger on cryptocurrency markets, as China has a large investor pool. But it’s yet to be seen whether the Chinese government would accept such an opportunity for its citizens, as local authorities have maintained a very restrictive approach toward cryptocurrencies like Bitcoin for many years.According to SCMP, Hong Kong’s Bitcoin and Ether futures-based ETFs — launched in 2022 — have not been included in the Stock Connect.Related: Is China warming up to Bitcoin ETFs? BTC investor’s reply sparks curiosityHong Kong’s capability to provide mainland China investors with a Bitcoin ETF has been a hot issue even before the launch of Bitcoin and Ether ETFs in Hong Kong on April 30, 2024.Many industry analysts didn’t expect a lot of market action from the launch because the Hong Kong ETF market is significantly smaller than the one in the United States or mainland China.According to Bloomberg data, some Hong Kong-based subsidiaries of mainland China companies have 1,400% more assets in the mainland Chinese market than in the local one. According to some sources, all Hong Kong ETFs should account for 0.6% of the U.S. ETF market.Magazine: Binance hits back at WSJ, Hong Kong crypto ETF’s take ‘$50B equivalent’: Asia Express
-
-----------------
-
-Refund of $70M 'address poisoning' scam ongoing, over 50% returned | Protos
-
-
-The victim of a $70 million ‘address poisoning’ scam is in the process of being refunded, following on-chain negotiations with the perpetrator.
-At the time of writing, over half of the funds (14,500 ETH, worth $43.5M) have been returned to the victim’s Ethereum address.
-Beginning at around 8AM UTC, almost exactly a week after the initial loss of 1155 WBTC, transactions of between 25 ETH ($75k) and 50 ETH ($150k) began to stream into the victims address. The transfers came directly from the hundreds of addresses into which the attacker had previously dispersed the stolen funds.
-
-Address poisoning is a method scammers use to trick crypto users into sending funds to an address which appears almost identical to one they have interacted with previously.
-As crypto security firm SlowMist’s report explains, the attack requires pre-emptively generating thousands of addresses, before monitoring blockchain transactions for potential targets. Scammers then send ‘dust’ transactions (of negligible value) from an address which has matching leading and trailing characters, in order to ‘poison’ the victim’s transfer history.
-
-Once the trap is set, the attackers rely on the victim accidentally copy-pasting the malicious address from a wallet or block explorer, inadvertently sending funds directly to the scammer.
-
-Read more: Crypto security firms more concerned with social media clout than the details
-In this case, once the attack had proved a success, the resulting 1,155 WBTC were swapped to 22,955 ETH, before being layered into hundreds of further addresses.
-The day after making their costly error, the victim sent a message to the scammer via Ethereum’s input data messaging system:
-“You won bro.Keep 10% to yourself and get 90% back.Then we’ll forget about that.We both know that 7m will definetely make your life better, but 70m won’t let you sleep well.”
-Read more: Here’s what on-chain messages reveal about the $200M Euler Finance hack
-The victim kept up the pressure the following day, sending three more messages and setting a deadline for the ‘bounty’ offer.
-In SlowMist’s report, published Wednesday, the firm identified previous attacks carried out by the perpetrator as well as an exchange address, OTC desks and IP addresses connected  to their activities (though, as SlowMist points out, these may be simply be VPN addresses). 
-Yesterday, the scammer sent an on-chain message asking for the victims’s Telegram handle along with 50 ETH, seemingly a gesture of good faith. From there, negotiations went off-chain.
-Earlier today, the refund process began. Over half of the stolen amount has so far arrived over the course of more than 200 transactions, following the victim’s confirmation of receipt of the first batch.
-Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Bluesky, and Google News, or subscribe to our YouTube channel.
- 
-
-----------------
-
 Bitcoin Exchange Kraken Applies to the Court to Reject the Cases Filed Against It by the SEC! Here's the Reason! - Bitcoin Sistemi
 
 
@@ -9915,3 +9529,283 @@ Start your day with top crypto insights from David Canellis and Katherine Ross. 
 SEC challenges Coinbase's appeal bid, hints at Ripple ruling's limited impact
 
 Benson is a blockchain reporter who has delved into industry news, on-chain analysis, non-fungible tokens (NFTs), Artificial Intelligence (AI), etc.His area of expertise is the cryptocurrency markets, fundamental and technical analysis.With his insightful coverage of everything in Financial Technologies, Benson has garnered a global readership.
+
+----------------
+
+Erik Voorhees, ShapeShift Founder, Unveils Privacy-Focused AI Platform 'Venice'
+
+
+                        
+                            Erik Voorhees, ShapeShift Founder, Unveils Privacy-Focused AI Platform ‘Venice’                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 11, 2024 12:00 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Erik Voorhees, the founder of popular cryptocurrency exchange ShapeShift, has unveiled his latest venture called “Venice AI.”The new platform introduces a privacy-focused generative AI chatbot, addressing the growing concerns surrounding privacy in both the cryptocurrency and artificial intelligence (AI) industries.In the announcement, Voorhees expressed his worries about the direction of AI, stating that he observed a trend where large tech companies, closely aligned with governments, are gaining control over AI technologies.He said that this could lead to a dystopian future and advocates for open-source decentralization as a countermeasure.Voorhees aims to provide users with an alternative choice by offering open-source AI solutions.Voorhees Shifts Toward AI
+Back in 2014, Voorhees launched the ShapeShift cryptocurrency exchange.However, in July 2021, the exchange announced its transition into an open-source decentralized exchange (DEX), with control being transferred to the ShapeShift DAO.Following a battle with the Securities and Exchange Commission, ShapeShift agreed to pay a fine and comply with a cease-and-desist order, leading Voorhees to shift his focus towards building a permissionless, decentralized AI model.Venice AI, the latest product from Erik Voorhees, prioritizes user privacy. It does not store user data or have access to user conversations.Instead, user input is sent through an encrypted proxy server to a decentralized GPU, which runs the AI model and returns the answer.This process ensures security and anonymity, as the GPU only sees the specific prompt and not the user’s entire conversation.Venice AI’s model is designed to be substantially better than the current status quo, where centralized companies store and retain user conversations tied to their identities.The AI industry’s top players, such as Microsoft, Google, OpenAI, and Meta, have made efforts to improve the perception of generative AI by promoting responsible AI practices.However, Voorhees argues that once a company has access to user information, it cannot be trusted to delete it permanently.Venice AI addresses this concern by avoiding central repositories altogether. Chat history is stored locally in the user’s browser and can be deleted at any time, even without creating an account.Venice Pro Offers More Features
+While creating an account offers certain advantages, such as higher message limits and the ability to modify prompts, users can also access additional features by subscribing to a Venice Pro account.Currently priced at $49 annually, Venice Pro provides unlimited text prompts, removes watermarks from generated images and document uploads, and allows users to turn off Safe Mode for unrestricted image generation.Although Venice AI does not yet accept digital currencies for Venice Pro subscriptions, Voorhees confirmed that this feature is coming soon.In the meantime, users holding the Morpheus token will be rewarded with a free Pro account indefinitely.The platform integrates with MetaMask wallets, offering users a seamless experience.While Venice AI is built on the decentralized Morpheus network, Voorhees acknowledges concerns regarding its performance.He noted that it is important that AI solutions are on par with centralized companies to ensure user adoption.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Mark Cuban: 'Crypto voters will be heard this election' - Here's why - AMBCrypto
+
+
+
+SEC-crypto clashes affect election dynamics, industry growth, and voter sentiments.
+Trump’s and Biden’s crypto stances shift support among voters, revealing a political divide.
+
+The upcoming United States election appears to have a unique dynamic, notably due to the ongoing regulatory battles between the Securities and Exchange Commission (SEC) and crypto entities. 
+In contrast to previous years, 2024 is making headlines due to ongoing SEC scrutiny over firms like Ripple [XRP], Uniswap [UNI], Binance [BNB], Coinbase, Robinhood, and others.
+Mark Cuban’s insights 
+Delving deeper into the matter, crypto maximalist Mark Cuban responded to Donald Trump’s newfound support for cryptocurrencies, foreseeing their significant impact on the upcoming election. He said, 
+“If @joebiden loses, there is a good chance you will be able to thank @GaryGensler and the @NewYork_SEC.” 
+This highlights Cuban’s concerns about potential risks to the crypto industry development and America’s global image. 
+Criticizing SEC Chair Gary Gensler for neglecting investor protection, he noted, 
+“Gensler HAS NOT PROTECTED A SINGLE INVESTOR AGAINST FRAUD.”  
+Cuban believes that Gensler’s actions have significantly hindered the operations of legitimate crypto companies. This has resulted in the potential closure of numerous businesses and countless entrepreneurs. 
+Reflecting a shared viewpoint, Hayden Adams, Uniswap’s CEO, in a separate interview with the “Bankless” podcast, noted,
+“The SEC is essentially taking very aggressive stances and basically trying to shut down crypto.” 
+Should Congress step in? 
+Trump’s openness to crypto donations contrasts Biden’s resistance, shifting crypto voters’ support towards Trump.
+Remarking on the same, Cuban noted, 
+Source: Mark Cuban/X
+ Needless to say other execs including Jake Chervinsky, chief legal officer of Variant in a recent stream on “Unchained”, shed light on the disagreement between the SEC and Coinbase and claimed, 
+“I think it really is time for Congress to step in and decide what the law should be instead of leaving us all in this sort of haze of regulatory uncertainty.” 
+
+
+
+
+
+
+----------------
+
+Trump’s Pro-Crypto Bluster at NFT Gala Lacked Policy Substance
+
+"Biden doesn’t even know what it is. If you ask Biden, 'Sir, are you for or against crypto?' he’ll say, 'What’s that? Get me off the stage.' He has no idea," Trump said. Whether or not that somewhat plausible presumption is true, Trump followed up with an attack on Gensler, an official well-versed in crypto.
+
+----------------
+
+A Crypto Startup Founder’s Diary - Decrypt
+
+For years, I told myself that I’m not the founder type. Instead, I try to be that strong operator who makes founders’ dreams come true. Perhaps the avoidance of being a founder comes from my Chinese upbringing. As my mother often says: “A gun shoots the first bird that sticks its head out.”She didn’t want me to be that first bird. So until recently, my career was defined by the idea of working hard toward someone else’s vision—until I stumbled into crypto. Crypto is self-sovereignty, starting from custodying one’s own keys. The crypto community encourages ownership via participation. Yes, we all love to see magical internet money going up, but the industry has profound financial, social and technological implications to our society. Crypto is a once in a lifetime opportunity for a generation to express raw talent while owning a piece of it. I was extremely lucky that my first job in crypto was in business development at Consensys. The job gave me a perspective on the full crypto stack: from the base layer (Linea), to middleware (Infura), to the user interface (MetaMask).I was having fun. People started to know me not as Shuyao Kong, the global head of BD at ConsenSys, but as “Brother Bing,” a Decrypt columnist and founder of Hot Pot DAO. But a small voice began to grow louder in my head wondering: Can you do something on your own? Many people have entrepreneurial itches but most don’t scratch them. I knew that I was driven primarily by three missions: (1) working at the cutting-edge of crypto tech; (2) welcoming young talent to crypto; and (3) incubating tangible crypto products for emerging markets. As I was exploring, my good old Consensys network played the magic. Not only has ConsenSys incubated multiple well-known products (including Decrypt), but also inspired a class of crypto founders, operators, investors and rebels who are still pushing the boundaries.When my former colleague Yi Tang messaged me in January, I knew he was up for something solid. Yi and I were at the front lines in 2018 trying to bring Asian Pacific governments and big businesses on-chain. He’s now a prominent crypto investor at Qiming Venture, one of the largest funds in the world. “We have a pretty solid portfolio company that’s looking for a business cofounder,” he messaged me on Telegram, and sent me MegaETH’s twitter handle. Looking through the Github repo, I couldn’t help but wonder who would be so dumb as to call themselves “MegaETH.” I mean, I like having ETH in the name, but Mega gave a 2017 ICO vibe. I was not over the moon. But I was curious to learn about the tech, so I scheduled a call with Yilong, who had started MegaETH after completing his PhD from Stanford’s computer science department. In his typically calm, steady voice, Yilong walked me through his motivation, system-design philosophy, and vision. Simply put: He wanted to build a scalable base layer so devs can create easy to use, fast, cheap crypto-native dapps.  The thesis is simple and clever. After a decade, no one has succeeded in scaling a blockchain that’s as user friendly as Web2. Solana, which was a step in the right direction, still faces scaling challenges and is still in beta. And the Ethereum L2s collectively only scale the mainnet by a factor of 10, which is pretty meager.Since no blockchain is scalable enough, dapps offer inferior performance resulting in poor user experience. I often joke that developers are cheating the blockchain because they’d rather put data off-chain than on-chain due to poor performance issues. These are the problems that MegaETH will attempt to fix.MegaETH, Rust in Prod. Image: MegaETHAs Yilong explained the thinking behind MegaETH, there was a charming, quiet confidence in his voice. Within an hour, I went from “cool tech but so what” to “this thing will Make Ethereum Great Again.” My mind was 80% mega-aligned after the call. The next day, I met Lei Yang, who would become our third co-founder and CTO. Lei is already a well-known blockchain researcher at MIT. His ability to explain complicated blockchain concepts in the most normie-friendly way was the finest I’ve seen in crypto. The MegaETH Team began to take shape, virtually, and I signed on in March to lead all the business and marketing efforts.There was a lot of work to do, obviously. But there was also the fun of a startup. Since we lived all over the world, the founding team met in person hardly at all—once at ETH Denver and later in Boston, when everyone traveled to Lei’s PhD thesis defense. These in-person hangouts were wonderful moments. For instance, we learned that Lei is a fan of rabbits. He actually goes to a park near MIT and feeds bunnies every week. In his spirit, we are designing a MegaETH logo of a lighting-fast bunny rabbit. Along the way, we are learning about each other’s communication style, diet, and even family members. Now, as I write these words in the middle of the night in Dubai, it strikes me that while my entrepreneurial journey might have started from some sort of vague instinct, it really took off when I met the right people. Lots of things are keeping me up at night. We have yet to receive funding. We desperately need a developer evangelist who can nerd-snipe devs to our ecosystem. And we don’t even have a website yet. But so far, despite what my mother taught me, it feels really good to stick my head out. And I haven’t gotten shot yet. Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Wells Fargo Employee Sanctioned After Allegedly Stealing Funds From Customers, Refusing To Cooperate With Investigation - The Daily Hodl
+
+
+								The Financial Industry Regulatory Authority (FINRA) is barring a former Wells Fargo broker who’s accused of stealing funds from clients.
+In a letter of acceptance, waiver and consent (AWC), the regulator says ex-Well Fargo employee Andrew J. Egber violated two FINRA rules when he deliberately ignored requests to cooperate in an investigation.
+
+
+
+
+
+
+
+
+
+
+Last month, Wells Fargo amended Egber’s Form U5, stating that the banking giant had started an internal review over “allegations of possible theft of client funds.”
+FINRA requires member firms to file a Form U5 to explain the reasons behind a former employee’s exit.
+On March 29th, FINRA says it sent Egber a request to produce information and documents to shed more light on Wells Fargo’s amended U5 filing. The regulator also says that on the same day, it sent a request to Egber to appear for an on-the-record testimony.
+But FINRA says Egber chose to reject both requests.
+“During a call with FINRA staff on April 9, 2024, in email correspondence with FINRA staff on April 11, 2024, and by this agreement, Egber acknowledges that he received FINRA’s Rule 8210 requests, he will not produce the information and documents requested at any time, and he will not appear for on-the-record testimony at any time.”
+
+For refusing to cooperate, Egber has been barred from working with any FINRA member organization “in any capacity,” including clerical or ministerial roles.
+The AWC will also become part of Egber’s permanent disciplinary record and the document will be made available through the regulator’s public disclosure program.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Meme Coins Losing Value: BONK, WIF, DOGE Under Pressure
+
+
+With seven-digit long liquidations, meme cryptocurrencies are yet again among the worst sufferers of the cryptocurrency market drop. The segment's net valuation might dip below $50 billion while all majors are doing worse than the market benchmark.All major meme coins are in red: BONK, WIF, FLOKI underperformingToday, May 11, 2024, plenty of meme cryptocurrencies are in the red zone. While the net cryptocurrency market capitalization lost 3.6%, all major dog coins are performing worse. Some cryptos with nine-digit caps even demonstrate double-digit losses.Image by CoinGeckoOverall, the sphere of meme coins saw 4.6% of its net valuation being erased. In the top 10 meme coins by market cap, Popcat (POPCAT) suffered the worst, with 17.3% lost overnight. Its capitalization plunged from $513 million to $425 million.Amid the largest meme coins, Floki (FLOKI), Bonk (BONK) and Dogwifhat (WIF) witnessed the largest losses with 5%, 6.2% and 4.7% price reductions.Such a dropdown is accompanied by significant long positions liquidated. As per CoinGlass data, traders of Dogecoin (DOGE), Bonk (BONK), Pepe (PEPE) and Dogwifhat (WIF) lost $4.5 million worth of long positions in 24 hours.Amid plummeting Bitcoin (BTC) prices, the net volume of long liquidations exceeded $131 million in equivalent, with $3.56 million lost in the largest single liquidation.Dogwifhat (WIF) cat-themed spin-off stands alone: CWIF spikes by 30%When it comes to the segment's performance, cat-themed meme coins are the weakest amid all digital assets. In total, they lost 11.9% in the last 24 hours.At the same time, a single asset demonstrates the opposite performance. Catwifhat (CWIF), a Solana WIF copycat, added over 30% in the last day and exploded into the top 1,000 cryptos by market cap.With 6.9% lost, Solana meme coins remain the seventh weakest category in crypto in terms of 24 hour performance. The segment's capitalization eyes $7 billion at shrinking trading volume.
+
+
+
+----------------
+
+Buy signal for two oversold cryptocurrencies this May
+
+
+The cryptocurrency market has seen a significant downturn, with the total market capitalization dropping from $2.49 trillion to $2.21 trillion over the past month. Over the week, Bitcoin (BTC) fell 4.6% to $60,844.77, while Ethereum (ETH) dropped by 7.19% to $2,903.84.
+However, the overall 1-week relative strength index (RSI) standing at 48.70 indicates that not all assets are equally impacted. Moreover, some may be approaching oversold territories, hinting at potential buying opportunities according to data from CoinGlass. 
+From an optimistic perspective, Finbold identified two cryptocurrencies that are notably oversold on a short-term basis, as evidenced by their 1-week RSI readings, and may offer good buying opportunities amidst the market crash.
+
+
+MANTA (MANTA)
+MANTA emerges as a standout among oversold assets. Currently priced at $1.66, MANTA has experienced a significant decrease of 38.10% over the past month.
+Crypto market daily RSI heatmap, MANTA. Source: CoinGlass
+This is coupled with an RSI of 28.02 over the week and 38.27 over the past 24 hours, suggesting that MANTA is deeply oversold. These technical indicators, combined with MANTA’s strong fundamentals, suggest a potentially undervalued asset that may be poised for a rebound.
+Frax Share (FXS)
+Another cryptocurrency showing similar patterns is Frax Share (FXS), currently priced at $4.26, down by 35.39% over the same period. RSI levels of 29.21 weekly and 38.06 over the past 24 hours indicate that FXS is approaching oversold territory.
+Crypto market daily RSI heatmap, FXS. Source: CoinGlass
+This technical assessment points towards a possible price recovery, making FXS an attractive investment option for those considering entering the market during this downturn.
+The current market landscape presents a challenging yet opportunistic scenario. Both MANTA and FXS show significant price reductions accompanied by low RSI values, classifying them as potentially oversold. 
+For technically inclined investors, these cryptocurrencies provide notable buy signals based on their current market valuations and technical indicators. However, it’s crucial to remember the high volatility of cryptocurrencies, where market conditions can rapidly change
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Bitcoin emerges as the winner as the dollar tanks - Report
+
+In the last 4 years, the US dollar has been the subject to two wars and a global pandemic (Covid-19). While all this was taking place the dollar has been weakened, leaving United States economic government arms to figure out ways to strengthen the weakening dollar.Amid plans to strengthen the USD, Bitcoin has risen to strength all by itself. Analysts report the BTC has been on the winning side of the de-dollarization agenda pushed by the BRICS economic block.Bitcoin takes the win as the dollar collapsesBased on TradingView data, the U.S. Dollar Index (DXY), which evaluates the dollar’s performance against a selection of major global currencies, experienced a 0.45% decrease from its peak of 105.73 as the week closed at 105.25.On the other hand, following the announcement of the U.S. unemployment figures, the S&P 500 remained remarkably close to its all-time high, trading within a 1% range. At the close of trading in the week, the Dow Jones experienced a positive increase of 0.85%, with the S&P 500 also showing a gain of 0.51% and the Nasdaq Composite seeing a rise of 0.27%. In the last 24 hours, the price of bitcoin saw a 2.5% increase and was trading at $62,927 at 9:06 a.m. ET.According to market analysts, the recent increase in U.S. jobless claims has had a negative impact on the dollar. This suggests that the overbought dollar is still susceptible to weaker U.S. data releases. As a result, investors may now be more confident in their belief that the U.S. jobs market is weakening.Last Thursday, the U.S. Labor Department released the weekly jobless claims report, which revealed an increase in new claims for unemployment benefits. This surge in claims marks the highest level seen in over eight months.The data was released following a disappointing U.S. jobs report last Friday, which showed that employers added only 175,000 jobs last month, falling short of economists’ expectations for a 243,000 increase.In the past 24 hours, the GM 30 Index, which tracks the performance of the top 30 cryptocurrencies, has seen a 2.53% increase, reaching a value of 131.96.Currently, the value of Bitcoin (BTC) stands at $61,412.51, reflecting a 0.8% rise in the past hour and a 0.6% increase since yesterday. The current value of BTC is 3.9% lower than its value a week ago.The current global crypto market cap stands at $2.38 Trillion, with a slight decrease of -0.78% in the last 24 hours and a significant increase of 105.06% compared to one year ago. BTC’s market cap currently stands at $1.2 Trillion, indicating a 50.45% Bitcoin dominance. On that note, stablecoin’s market cap stands at $161 Billion, representing a 6.75% share of the overall crypto market cap.Dollar dominance dwindles as BRICS take overChina and Russia are exerting significant influence to reduce the dominance of the US dollar on the global stage. In a recent press meeting, Chinese President Xi Jinping expressed his belief that the era in which the United States exerted dominance over the world was drawing to a close.The alliance is empowering developing countries to make trades using their own currencies, thereby bolstering their domestic economies.The increasing influence of the US dollar is prompting developing countries to shift away from the currency and align themselves with BRICS. Furthermore, the imposition of sanctions by the US has resulted in a significant outflow of funds from developing economies, with a preference for conducting transactions using local currencies. The development is just the beginning, and BRICS will carry it forward for many more years and decades to come.
+
+
+----------------
+
+Bitcoin Price Prediction as BTC Hits $60k After FED's Rate Cut Comments - What’s Next?
+
+
+                        
+                            Bitcoin Price Prediction as BTC Hits $60k After FED’s Rate Cut Comments – What’s Next?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 11, 2024 11:32 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Bitcoin Price PredictionBitcoin (BTC/USD) recently crossed the $60,000 threshold, only to face new challenges from Federal Reserve sentiment. The cryptocurrency, currently trading around $60,800, experienced a modest drop of about 1.50% over the last day, keeping the bitcoin price prediction bearish.This market movement aligns closely with remarks from Federal Reserve Governor Michelle Bowman, as reported by financial journalist Walter Bloomberg, indicating that rate cuts are not seen as necessary this year.These comments from a Fed official have injected a note of caution into the market, moderating expectations that had been buoyed by the possibility of looser monetary policy.With this backdrop, investors are closely monitoring further economic updates to gauge potential shifts in Fed strategy that could influence Bitcoin’s market dynamics in the upcoming months.Bitcoin Price Prediction
+Bitcoin (BTC/USD) is trading at $60,800, marking a decline of around 1.50% over the last 24 hours. Given this slight decline, the market seems concerned about Bitcoin price prediction.Yet, BTC continues to be the most valuable cryptocurrency, with a market capitalization of about $1.2 trillion. The trading volume within this period has reached a substantial $22 billion, reflecting the high level of activity in the Bitcoin market.From a technical perspective, Bitcoin’s key pivot point is $60,975. Immediate resistance is found at $63,400, with further barriers at $65,050 and $67,160. These levels will need to be surpassed for Bitcoin to regain bullish momentum.Conversely, immediate support lies at $59,075. If this level fails to hold, subsequent support levels at $56,640 and $54,400 will become the focal points for potential bearish pressure.Bitcoin Price Prediction – Source: TradingviewThe Relative Strength Index (RSI) is currently at 38, suggesting a potential oversold condition but also indicating that there might be further downside if market sentiment does not improve. Moreover, the 50-day Exponential Moving Average (EMA), positioned at $62,151, is providing significant resistance.In summary, Bitcoin currently shows a bearish trend as it trades below the critical pivot point of $60,975. Maintaining this position might result in additional decreases, potentially reaching the support level of $59,075.Last Chance to Buy Dogeverse Before Launch – Over $15M Raised
+Dogeverse, the rapidly expanding meme coin network that spans multiple blockchains, including Ethereum, BNB Smart Chain, Polygon, and soon Solana, Base, and Avalanche, has made a notable splash in the cryptocurrency world. The project has successfully raised over $15 million, surpassing its initial goal of just under $13 million. Currently priced at $0.00031, Dogeverse is set for a price increase in less than a day.This broad expansion aims to blend the popular Doge appeal with superior blockchain capabilities, promising greater utility and wider adoption. With the launch imminent, this is your last chance to invest in Dogeverse at the current rate.For more updates and to engage with the community, follow Dogeverse’s official channels on Twitter and Telegram.Don’t miss out – secure your Dogeverse now before the price escalates!                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Bitcoin volatility plunges below Tesla, Nvidia stocks amid $100K price prediction
+
+Bitcoin's (BTC) volatility in the annual timeframe has dropped below that of top tech stocks, including Tesla, Meta, and Nvidia, signaling its growth toward becoming a more mature and stable asset class.Bitcoin becomes more stable than many S&P 500 stocksAs of May 11, Bitcoin's 1-year realized volatility, which represents the standard deviation of returns from the mean return of a market, was at around 44.88%. In comparison, the annualized realized volatility of "magnificent seven" stocks such as Tesla, Meta, and Nvidia was over 50%.Bitcoin's 1-year volatility vs. magnificent seven stocks. Source: BloombergMoreover, Bitcoin has shown relatively lower volatility compared to 33 of the roughly 500 companies in the S&P 500 index, noted Fidelity Investment in its latest report. Notably:"Bitcoin was actually less volatile than 92 of the S&P 500 stocks in October of 2023 when using the 90-day realized historical volatility figures. Some of these names are also large-cap and mega-cap stocks." Bitcoin vs. S&P 500 companies 360-day volatility. Source: BloombergBitcoin mirroring gold volatility patternsBitcoin's annualized volatility in its nascent years was over 200%, a trend typical among newer asset classes with higher capital inflows. This is because these inflows represented a smaller proportion of the total capital base. Consequently, new investments are less likely to significantly influence market prices or the decisions of marginal buyers and sellers, as illustrated in Bitcoin's long-term volatility chart below, showing a gradual stabilization of volatility over time with a downward-sloping regression line.Bitcoin realized volatility vs. market cap. Source: GlassnodeBitcoin's recent volatility patterns closely resemble gold's in its early trading years. Like gold, Bitcoin has undergone a period of price discovery, marked initially by high volatility, which gradually subsides as the market matures. Gold prices surged with inflation after its decoupling from the U.S. dollar in 1971 and the legalization of its private ownership in 1974. As a result, the precious metal's volatility reached over 80 during the early 1970s—almost twice that of Bitcoin in April 2024.Gold price and historical volatility. Source: BloombergHowever, as gold became an established asset class with a more stable price range, its volatility decreased.   This similarity suggests that, like gold, Bitcoin is transitioning toward a more stabilized asset class as it becomes better integrated into the broader financial landscape.Related: Bitcoin overtakes gold in investor portfolio allocation — JPMorganOne major evidence emerges by comparing Bitcoin’s annualized volatility of around 44% at its current price highs above $60,000 with around 80% three years ago when the price was around the same level."What this may be pointing to is a growing belief that Bitcoin is maturing, further accelerated by the landmark approvals of several spot Bitcoin exchange-traded products in the U.S.," argues Fidelity researcher Zack Wainwright, adding:"Bitcoin was nearly half as volatile in 2024 at $60,000 when compared with 2021. When putting this all together, a thesis pointing toward a growing acceptance of Bitcoin due to potential maturation begins to emerge."Major BTC price jump ahead?Interestingly, the period of lower annualized Bitcoin realized volatility has preceded major price increases. In other words, accumulation sentiment among existing and new Bitcoin investors tends to rise when the price stabilizes.Bitcoin annualized realized volatility vs. price. Source: GlassnodeBitcoin's 1-year volatility was around 43% in December 2023. Since then, its price has risen by circa 75%, helped further by the demand for spot Bitcoin ETFs in the United States. As of May 11, these ETFs had attracted $11.68 billion cumulatively.Spot Bitcoin ETF cumulative inflows. Source: Farside InvestorsRobert Mitchnick, head of digital assets for BlackRock, the world's largest asset-management company, notes that the coming months will likely see significant players like sovereign wealth funds, pension funds, and endowments engaging with spot Bitcoin ETFs. Institutional investors typically have stringent risk management protocols. Lower volatility in an asset class translates to more predictable and stable returns, which align better with their investment strategies.Related: 39% of Canada’s institutional investors have exposure to crypto: KPMG“It’s very important to remember that this takes time; these companies are just starting to do their due diligence,” independent market analyst Scott Melker argues, adding:"The massive institutional flood of money that will drive bitcoin to all-time highs."Melker expects the BTC price to rise toward $100,000-150,000 range due the anticipated ETF inflows.This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+----------------
+
+Shiba Inu (SHIB) Payments Expand to Airbnb, Nike Thanks to This Integration
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+In an exciting development, SHIB payments are set to permeate everyday transactions as Lithuanian-based fintech company CoinGate announces the integration of SHIB support for Polygon and Binance Smart Chain (BSC).This move not only solidifies SHIB's position in the market but also opens doors for its practical utility, with major brands such as Airbnb and Nike now accessible to SHIB holders.CoinGate, a cryptocurrency payment gateway, serves as a bridge between cryptocurrencies and traditional businesses, enabling merchants to accept digital assets as payment for goods and services.By adding support for SHIB on Polygon and Binance Smart Chain, CoinGate not only enhances accessibility but also unlocks a plethora of opportunities for SHIB holders to engage in real-world transactions."We have added SHIB support for Polygon and Binance Smart Chain. Shibarmy, use your SHIB to book Airbnb, grab the latest games from Steam & PS5, refresh your wardrobe with Nike & Zalando and more," CoinGate announced in a tweet. With Airbnb, Nike, Zalando, Steam and PS5 now within reach, SHIB users can leverage their holdings to book accommodations, purchase apparel, buy the latest games and indulge in a myriad of offerings from these global giants.This integration not only underscores the growing acceptance of cryptocurrencies but also showcases SHIB's versatility as a medium of exchange beyond speculative trading.The decision to support SHIB on Polygon and Binance Smart Chain remains significant expanding SHIB's exposure. Polygon, with its low fees, presents an ideal environment for SHIB payments, enhancing user experience and minimizing friction in transactions. Similarly, Binance Smart Chain's robust infrastructure and vibrant ecosystem augment the accessibility of SHIB, further bolstering its utility and appeal to a diverse range of users.
+
+
+
+----------------
+
+Coinbase Pushes for Clearer Crypto Regulation, SEC Says No - DailyCoin
+
+
+        
+Coinbase has been locked in a battle with the SEC over how cryptocurrency should be regulated in the US.
+
+
+
+Coinbase has argued for new, crypto-specific rules, while the SEC has maintained that existing laws are sufficient.
+
+
+
+This disagreement has escalated into legal challenges, with accusations of unfairness being levied by both sides.
+The simmering tension between cryptocurrency exchange Coinbase and the Securities and Exchange Commission (SEC) has erupted into a full-blown battle over the regulatory framework governing digital assets. At the heart of the dispute lies Coinbase’s insistence on a more crypto-specific regulatory approach, which the SEC has vehemently rejected.Coinbase Fights for Crypto Specific RulebookCoinbase argues that the current regulatory landscape, designed for traditional securities, is ill-suited for the dynamic world of cryptocurrency. They believe these outdated rules hinder innovation and create uncertainty within the industry. The exchange has been pushing for a dedicated set of regulations tailored to the unique characteristics of digital assets.
+However, the SEC remains firmly entrenched in its position. The Commission maintains that existing securities laws are perfectly capable of regulating cryptocurrencies, pointing to past court decisions that applied these laws to digital assets. They argue that their current regulatory approach effectively balances investor protection with market stability, fostering healthy capital formation within the cryptocurrency ecosystem. This disagreement has escalated further with Coinbase’s legal challenge against the SEC. Is the SEC Targeting Crypto Unfairly?The exchange claims the lack of clear crypto-specific regulations creates unfairness, as the SEC’s enforcement actions seem to operate under a different set of rules. They argue for more transparent and predictable regulations to ensure a stable environment for the industry.The SEC counters this claim, insisting that its enforcement authority remains consistent, and the existing laws provide sufficient guidance. They view the rulemaking process and enforcement actions as separate functions, with the latter not requiring changes to the regulatory framework. Coinbase CLO Challenges SEC InconsistencyThis stance has been met with strong criticism from Coinbase’s Chief Legal Officer, Paul Grewal, who accuses the SEC of inconsistency and unfair treatment, particularly in regards to their lawsuit against the exchange.Coinbase further bolsters its case by highlighting the SEC’s seemingly contradictory approach in other ongoing legal battles, such as the lawsuit against Ripple Labs. This perceived inconsistency further fuels their argument for a more transparent and definitive regulatory framework for the cryptocurrency industry.With both sides unwilling to budge, the battle between Coinbase and the SEC is far from over. The outcome of this dispute will have a significant impact on the future of cryptocurrency regulation in the United States, shaping the landscape for both investors and businesses in the digital asset space.On the Flipside
+In the SEC’s defense, creating unique crypto regulations could result in a patchwork of rules across different countries, which could complicate international operations for crypto businesses.
+
+
+
+Clear legal precedents established through ongoing cases like the one against Coinbase could provide some level of certainty without needing entirely new regulations.
+Why This MattersThe clash between Coinbase and the SEC isn’t just about one company; it’s a fight that will define how the entire cryptocurrency industry in the US is regulated. The court’s decision will determine whether clear, crypto-specific rules are established, or if the industry remains tangled in the uncertainties of applying traditional securities laws to a constantly evolving asset class.Cryptocurrencies can be volatile, but Coinbase is a major player in the industry. This article explores how they are doing financially and what the future holds for the company:Coinbase Q1 Crushes It, But Fickle Crypto Winds LingerLegal battles can have a big impact on the crypto industry. This article explores a recent court ruling that could set a precedent for the entire industry:Coinbase’s Ruling May Send Ripple vs SEC Case to Supreme Court    
+              
+    
+
+----------------
+
+JPMorgan Reports $760K Spot Bitcoin ETF Holdings Even As CEO Jamie Dimon Called For Shutting Down Crypto Industry - JPMorgan Chase (NYSE:JPM) - Benzinga
+
+The largest bank in the United States, JPMorgan Chase & Co. JPM, has disclosed a significant investment in Bitcoin BTC/USD exchange-traded funds (ETFs) despite its CEO Jamie Dimon's persistent criticism of cryptocurrencies.What Happened: JPMorgan has invested approximately $760,000 in spot Bitcoin ETFs on behalf of its clients, according to recent filing with the Securities and Exchange Commission (SEC).The bank’s holdings are spread across several ETFs, including BlackRock’s iShares Bitcoin Trust (IBIT), the ProShares Bitcoin Strategy ETF (BITO), Fidelity’s Wise Origin Bitcoin Fund (FBTC), the Grayscale Bitcoin Trust (GBTC) and the Bitwise Bitcoin ETF.In addition to this, JPMorgan purchased 25,021 shares of crypto ATM provider Bitcoin Depot Inc. worth $47,415 and 34,662 shares of Bit Digital Inc. worth $99,480.See Also: Trump Pledges To ‘Make Sure You Can’ Donate Using Crypto To His 2024 CampaignThis announcement follows a similar disclosure by rival bank Wells Fargo & Co WFC, which revealed its holding of 2,245 GBTC shares worth $121,207.Dimon previously referred to Bitcoin as a “pet rock” used by criminals and speculators.Why It Matters: This move by JPMorgan, despite Dimon’s criticism, is indicative of the increasing acceptance of Bitcoin within traditional financial institutions.In December, Dimon reiterated his long-standing opposition to Bitcoin and other cryptocurrencies, suggesting that the government should shut down the industry.In January, following the SEC’s approval of a Bitcoin ETF, Dimon’s stance appeared to soften. He said, "I defend your right to do Bitcoin," eliciting a strong reaction from former National Security Agency contractor Edward Snowden.Read Next: Here’s How Much $1,000 Invested In Dogecoin Would be Worth If You Invested When Elon Musk First Tweeted About DOGEDisclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.Photo courtesy: Flickr
