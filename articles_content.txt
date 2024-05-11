@@ -1,76 +1,3 @@
-Ripple Teams up to Build a Secret Management Protocol
-
-
-Ripple, the issuer of XRP tokens, has formed a strategic alliance with Algorand and Hedera, aiming to revolutionize secret management. 
-This partnership inaugurates the DeRec Alliance, which also includes Swirlds Labs and XRPL Labs among its founding members.
-What is DeRec Alliance?
-The DeRec Alliance is dedicated to enhancing digital asset recovery through an open-source protocol. This system allows for the secure and confidential recovery of digital secrets, such as passwords and keys, using a method based on secret sharing.
-Founding members, including Ripple, are pivotal in the Technical Oversight Committee (TOC). They influence governance and policies that shape the future of digital asset security. The TOC provides expert oversight and direction, which is critical in guiding the alliance’s strategic initiatives.
-Read more: What is a Private Key in Crypto?
-
-The demand for such a system has surged as digital asset adoption increases. Traditional recovery methods often leave assets at risk or completely irrecoverable if the owners lose their keys. 
-For example, Rain Lõhmus of LHV Bank cannot access 250,000 Ethereum worth over $700 million. Also, former Ripple CTO Stefan Thomas is locked out of a Bitcoin (BTC) wallet due to a forgotten password. Thomas’ 7,000 BTC are worth over $441 million.
-
-The DeRec protocol involves a network of ‘helpers’ – either friends or businesses – who each hold a part of a user’s digital secret. If the user loses access to their device or data, these helpers can collaboratively reconstruct the secret. This system ensures that no single helper accesses the complete secret, maintaining high security and redundancy without compromising privacy.
-Additionally, the system is designed to automatically adapt to changes, such as when helpers join or leave. This feature maintains the integrity of the secret, ensuring continuous security despite changes in the user’s network of helpers.
-
-“The DeRec Alliance addresses one of the biggest challenges facing mainstream crypto adoption—secure and user-friendly management of private keys. By establishing clear standards for key recovery, this collaboration across the crypto industry empowers individuals to take control of their digital assets with confidence,” Markus Infanger, Senior Vice President of RippleX, said.
-
-Despite progress, Ripple faces ongoing legal challenges from the US Securities and Exchange Commission (SEC). For instance, on May 7, the SEC objected to Ripple’s plan of issuing a “new unregistered crypto asset.”
-Read more: Everything You Need To Know About Ripple vs SEC
-However, the SEC has not mentioned more details about the new crypto asset.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-'Age of Ethereum' Incoming for 5 Key Reasons
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Despite some skepticism, Ethereum has five compelling reasons that it has a bright future, presented from a balanced perspective.Superior ecosystem compared to Bitcoin’s L2:While Bitcoin's layer-2 (L2) applications are developing, they currently lag behind Ethereum in terms of functionality and user experience. Ethereum has established itself as the preferred platform for developers, largely due to its more mature ecosystem and broader acceptance. Despite the noise around Bitcoin’s potential for application development, Ethereum remains the go-to for developers looking for robust, tested and versatile solutions.ETH/USD Chart by TradingViewRegulatory challenges may not be pivotal:There is a lot of talk about the U.S. Securities and Exchange Commission (SEC) possibly classifying Ethereum as a security. However, the outcome of this regulatory scrutiny is still uncertain. Even if Ethereum faces some regulatory hurdles, its integral role in the finance and tech sectors — backed by significant support from big tech and traditional finance (tradfi) asset managers — suggests it could withstand potential challenges.Scalability and competition from Solana:Solana has been marked as a more scalable blockchain platform with faster growth in applications. However, its scalability benefits are accompanied by technical risks and less diversity in the client base compared to Ethereum.Adoption by major financial players:Major financial institutions like Visa, MasterCard, JP Morgan and Citibank have explored blockchain solutions separate from Ethereum. Yet, the interoperability and established network of Ethereum could eventually attract these giants. The blockchain’s ability to operate on a trustless, global scale makes it an attractive backbone for future financial operations.Symbiotic relationship with layer-2 solutions:There is a misconception that value primarily accrues to layer-2 technologies rather than Ethereum itself. In reality, Ethereum and its layer-2 solutions enjoy a symbiotic relationship. The success of applications running on Ethereum's network enhances the core platform's value, akin to how railways benefit from the businesses they enable.
-
-
-
-----------------
-
-Dogecoin (DOGE) Appears Headed for a 'Golden Cross'
-
-During DOGE's early 2021 run, interest rates were near or below zero worldwide, which catalyzed unprecedented risk-taking across all corners of the financial market. That's not the case any more, with rates in the U.S., the world's largest economy, at multiyear highs above 5%.
-
-----------------
-
-Livepeer (LPT) Coin is Trending: Announcement Coming Up for Web3 Social Media Platform | Cryptopolitan
-
-Livepeer (LPT) undergoes another boom cycle with a vertical price climb. LPT reached $19.33, within one price move from its yearly peak above $25. Demand for the token led LPT to a monthly peak in trading volumes above $106M in 24 hours. In 2024, LPT achieved two other vertical climbs and moved to a higher tier as interest returned to Web3 projects. The hope for LPT is to return to its all-time peak, when the token traded above $68 during the 2021 bull market. LPT remains at risk for deep corrections. Its most active trading pair on Binance, LPT/USDT, has only $181K liquidity for 2% slippage.LPT Shifts Trading ProfileIn the past month, the LPT trading profile has also shifted as tokens moved to a different set of exchanges. Binance and Coinbase marked net withdrawals for LPT, while the tokens flowed into OKX, Gate.IO, and other small exchanges.The token may undergo rapid inflows and outflows due to limited arbitrage opportunities. There is a disparity in LPT pairings, which may explain the increased trading activity.Livepeer was also selected as one of the projects in Grayscale’s portfolio, and it became the top performer during the latest rally. LPT stands out as a blue chip when decentralized storage and computing tokens are also expanding. The LPT rally follows highly active days for Render (RNDR), Akash Network (AKN) and AIOZ Network (AIOZ).Livepeer Aims for Development Beyond Short-Term Price HypeLivepeer has a long-term goal of building the world’s decentralized video infrastructure. The project aligns with the trending DePIN projects that focus on distributed computation and infrastructure. In May, Livepeer is boosting its social media profile with a pre-announcement. Livepeer will present its network upgrade and new tools to combine AI and video streaming during the ETH Berlin meetup. Livepeer aims to grow its influence, targeting content creators and developers. The project claims to offer 80% lower costs than existing cloud and video streaming services. All video streaming is supported by the globally available Livepeer Network, which combines user resources for lag-free streaming. Livepeer also boosted its brand in 2023, by creating enterprise products for prominent social media companies. So far, Livepeer has onboarded partners like Fishtank LIVE, Minds, Switchboard, The Lot Radio, and MyPrize. Independent creators can also use open-source Livepeer API to stream on demand. Livepeer Stands Behind Video VerificationLivepeer is also focusing on emerging problems with streamed content. With the rise of AI, the veracity of every video may be questioned. Livepeer is researching tools to prevent fake content and AI-generated fakes. Reliable and verified video is key, as Livepeer strives to grow the adoption of its flagship product, Livepeer Studio. Livepeer aims to become a key player in the growth industry of video streaming. In 2023, global streaming reached $553B and is projected to grow to 671.8B by the end of 2024. Video streaming still depends on AWS usage and other centralized cloud services. Blockchain projects are trying to achieve better pricing and access to grab a piece of the expanding market.Recent studies show decentralized streaming may be taking off this year. In April, Livepeer marked 30% growth compared to Q4, 2023. Through a series of updates and development over the years, Livepeer achieved the current network potential. The Livepeer Network itself is scalable, but the LPT asset remains an Ethereum-based token. Livepeer distributed its tokens in 2018 before developing its streaming service to ensure widespread holding of the tokens. Around 30% of all LPT tokens are in an escrow treasury. LPT also has 12% of its supply stored in a Binance wallet, suggesting sellers may be waiting in the sidelines to take profits. But LPT also has long-term holders, and has been distributed to more than 2.2 million wallets over the past six years. LPT tokens also have key utility and are used by streamers to pay for online resources. As streamers grow, so does demand for LPT. Network “orchestrators” receive the tokens as payment from streamers, who require the CPU, GPU, and bandwidth resources for on-demand streaming.
-
-
-----------------
-
-Bitcoin Is Getting Less Difficult To Mine After Halving - But Is That A Good Or Bad Sign? - Benzinga
-
-Bitcoin BTC/USD miners may heave a sigh of relief as the network experienced its largest negative difficulty adjustment since November 2022. What Happened: The Bitcoin blockchain underwent its fourth negative difficulty adjustment for the year, according to CryptoQuant's Head of Research Julio Moreno, making it easier for the halving-battered sector to produce blocks and generate new Bitcoins. The mining difficulty is adjusted every 2.016 blocks, or roughly two weeks, to ensure block production time remains at 10 minutes. It is positively correlated with hash rate, the computational power dedicated by miners.The latest 5.7% drop in difficulty comes as a likely response to the 10% decline in the 7-day moving average of the hash rate from 655 EH/s on the halving day to 586 EH/s as of May 10, according to Hash Rate Index. Why It Matters: The quadrennial halving that slashed block rewards, severely impacted miners' revenue streams. CryptoQuant's Moreno noted, "As revenue has declined sharply after the halving, Miners are currently underpaid by the most since March 2020, the COVID crash." The loss in earnings prompted many participants, particularly those operating on a small scale, to turn off their machines and abandon the market. This caused a hash rate decline and subsequently led to a negative difficulty adjustment.The sentiment was echoed by Luxor mining pool CEO Nick Hansen who reportedly told Decrypt, "If there isn't enough margin for miners to make a profit, they turn off, which causes the hash rate to go down.”That said, CEO of mining firm Optiminer Scott Noris pointed out that this bodes well for the sector’s future growth. "The miners who planned properly will grow or the ones who turned off will get newer tech and find cheaper energy while everyone waits for the price to reflect the halving," he told Decrypt.With difficulty lowered and competition lessened, mining costs could decrease, providing temporary relief for the sector.Miners earn the majority of their revenues through fixed subsidies from every block produced. Halvings attack this very component severely, as each occurrence reduced rewards by 50%. Price Action: At the time of writing, Bitcoin was trading up 2.81% at $62919.46, according to data from Benzinga Pro.Read Next: Joseph Lubin Accuses SEC Of Stifling Crypto Growth Amid Legal ShowdownPhoto by Gaston Cerliani on Shutterstock
-
-----------------
-
-Cardano Founder Charles Hoskinson Says Voting For Biden Is A 'Vote Against American Crypto Industry' - Benzinga
-
-Charles Hoskinson, the founder of Cardano ADA/USD, has accused President Joe Biden of actively working to stifle the Bitcoin BTC/USD and cryptocurrency industry in the United States.What Happened: Hoskinson, in a video posted on social media platform X on Thursday, criticized the Biden administration for its alleged efforts to “destroy the American cryptocurrency industry,” reported Cointelegraph.The Cardano founder pointed out that the U.S. government has been detrimental to the crypto industry through various means, including restricted access to bank accounts and the Securities and Exchange Commission’s policy of regulation by enforcement. He also criticized the White House for obstructing the legislative process."A vote for Biden is a vote against the American cryptocurrency industry," Hoskinson said.Hoskinson’s comments were in response to a statement from the White House, indicating that President Biden would veto legislation aimed at overturning SEC guidelines that discourage banks from holding crypto assets."The [Trump] administration had its issues but mostly ignored our industry. The Biden administration has engaged in a coordinated effort to kill crypto," Hoskinson said.See Also: Bitcoin, Ethereum, Dogecoin Dip After Robinhood Gets Wells Notice From SEC — Analyst Says ETHs Weak Fundamentals A ‘Roadblock’ For King CryptoHe also criticized the SEC for using outdated legislation that he believes should not apply to new and emerging asset classes. Hoskinson cited other countries such as Switzerland, Singapore, and Dubai, which have welcomed crypto companies and reaped the benefits of substantial investments.Notably, Hoskinson’s comments were challenged by a Twitter user who pointed out that the Trump administration had also been unsupportive of crypto. Hoskinson, however, stood by his claims, asserting that the Biden administration’s stance was “completely wrong.”Why It Matters: The Biden administration’s approach to cryptocurrency has been a subject of debate and scrutiny. The House of Representatives recently voted in favor of a resolution seeking to overturn a controversial SEC cryptocurrency accounting directive, indicating a growing divide between legislative preferences and executive defense of regulatory measures.Earlier in March, a poll revealed that former President Donald Trump was the top choice for U.S. voters who own cryptocurrencies. This indicates a potential shift in voter sentiment towards the Biden administration’s handling of the crypto industry.On the other hand, Trump has recently publicly endorsed cryptocurrency, positioning it as a significant election issue, which contrasts with President Biden’s perceived unfamiliarity with the crypto world.Read Next: Trump Pledges To ‘Make Sure You Can’ Donate Using Crypto To His 2024 Campaign — Unwittingly Sends Memecoin Parodying Biden SurgingImage Via Shutterstock Engineered by Benzinga Neuro, Edited by Kaustubh BagalkoteThe GPT-4-based Benzinga Neuro content generation system exploits the extensive Benzinga Ecosystem, including native data, APIs, and more to create comprehensive and timely stories for you. Learn more.
-
-----------------
-
 Ethereum ETF Applications: Is There Potential For New Breakthrough? - Coincu
 
 
@@ -9625,6 +9552,311 @@ DISCLAIMER: The information on this website is provided as general market comme
 
 
 Visited 27 times, 27 visit(s) today
+
+	
+	
+
+
+
+	
+
+----------------
+
+Bitcoin spot ETFs - Not the catalyst most thought it would be in 2024? - AMBCrypto
+
+
+
+Grayscale’s Bitcoin ETF recorded a negative outflow of over $43M, triggering outflows for the other products
+However, Bitcoin’s market wasn’t particularly affected by it
+
+It has been a slow month for U.S. spot Bitcoin ETFs, once lauded as the big catalyst for a 2024 bull run that might see Bitcoin climbing to as high as $100,000. In fact, just yesterday, the products saw about $11.3 million in outflows, triggered by Grayscale.
+Change in investor sentiment?
+Data from Coinglass revealed an unsettling trend for Grayscale’s GBTC, which continued to bleed with $43.4 million fleeing the fund. Despite this exodus, GBTC had a brief moment of respite last Friday, with a surprising $60 million pouring in, hinting at its still potent market presence.
+Conversely, optimism seemed to sparkle for BlackRock’s IBIT Bitcoin ETF, which welcomed an impressive $14.2 million. This rebound paints a picture of growing investor trust in this particular Bitcoin ETF. Fidelity’s Wise Bitcoin ETF wasn’t left behind either, enjoying a $2.7 million boost.
+Bitwise’s BITB ETF also caught the investor’s eye, pulling in $6.8 million and standing out as Thursday’s favorite with $11.5 million in inflows, while its peers lagged behind. Meanwhile, Ark 21shares (ARKB) ETF caught a $4.4 million wave of support on the same day. WisdomTree’s BTCO and Franklin Templeton’s EZBC Bitcoin ETFs saw more modest gains, with inflows of $2.2 million and $1.8 million, respectively.
+Source: Coinglass
+It was a quieter day for ETFs from Hashdex, VanEck, Valkyrie, and Invesco Galaxy, which recorded no new flows, highlighting a possible disinterest in these Bitcoin ETF products among institutional investors.
+Since their inception, these funds have collectively seen an influx of $12.1 billion, with giants like BlackRock’s iShares and Fidelity’s investments capturing the lion’s share. Despite similar performance across the board, with returns hovering around 28%, investor reactions have varied significantly.
+The big loser? Grayscale. The fund has witnessed a staggering $17.2 billion withdrawal since its conversion. Even after slashing its fees, Grayscale’s charges remain significantly higher than its competitors, who mostly hover around a 0.20%-0.25% expense ratio. 
+Meanwhile, Coinglass revealed that Grayscale still holds nearly 293 BTCs, which are worth $18.4 million.
+Source: Coinglass
+The outflows in crypto ETF products isn’t isolated to just the United States alone. 
+In fact, data showed that Hong Kong’s spot Bitcoin ETFs have seen outflows of over $5.5 million in the past 24 hours, indicating a general loss of interest in the products.
+Source: Coinglass
+What about BTC?
+Amid this, Bitcoin has managed to hold its ground. At press time, the king of cryptos was still managing to hover above $63,000, with a hike of 4% in the last 24 hours. Also, the community is currently 78% bullish on BTC, according to data from CoinGecko.
+The Bitcoin halving didn’t yield the results many of us were hoping for and since then, all the top ten cryptocurrencies have been seeing mostly bullish sentiments by investors and sometimes, even traders.
+However, with doubts peaking, the ongoing exit of smaller investors might ironically clear the stage for Bitcoin and its fellow cryptos to stage a comeback as summer approaches, hinting at a potential reset in the volatile cycles of the crypto-market.
+
+
+
+
+
+
+----------------
+
+Pepe Doge to Rally 7,600% After Solana Launch, Looks to Challenge Shiba Inu and Dogecoin
+
+
+
+                    
+
+Pepe Doge (PEPEDOGE) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Pepe Doge (PEPEDOGE), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Pepe Doge presents a similar opportunity.
+
+
+
+Pepe Doge has market cap below $15,000 at the moment, meaning that when it just reaches a modest market cap of $200,000-$500,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
+
+
+
+The exciting memecoin is poised to rally 7,600% in the coming two days, and Pepe Doge could potentially reach a multi-million dollar market cap within a few weeks.
+
+
+
+
+Currently, Pepe Doge can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy Pepe Doge on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Pepe Doge by entering its contract address – 7s7VZhFWTez5ykSr214AxnqRTMdcKu5rd77YFAx2DGG1 – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like PEPEDOGE.
+
+
+                
+
+                
+
+----------------
+
+SEC insists that Coinbase 'just does not like the answer'
+
+The U.S. Securities and Exchange Commission (SEC) has opposed cryptocurrency exchange Coinbase's request for an interlocutory appeal concerning a “controlling question” in the ongoing lawsuit, alleging that Coinbase is seeking to manipulate the interpretation of the question itself.“Coinbase’s attempts to manipulate the question for appeal to shoehorn it into a certifiable question under 28 U.S.C. § 1292(b) are self-defeating,” the SEC declared in a May 10 filing with the United States District Court for the Southern District of New York.The SEC further reiterated that Coinbase "does not like" the Howey Test — the agency's standard for determining what is a security — and the current framework for securities regulation, choosing to set up its business in ways that might be expensive to follow existing laws."Coinbase just does not like the answer. Having made the weather, Coinbase cannot now complain that it is raining."It comes after Coinbase filed an interlocutory appeal on April 12 arguing that an investment contract cannot exist without a post-sale obligation. As the SEC disagrees with this, Coinbase allege that whether or not it does so is a controlling question — a key legal issue that can strongly influence the outcome of the case.However, the SEC argued that Coinbase is only claiming this to be a controlling question as the exchange can't provide a clear explanation of what constitutes an "contractual undertaking.""Coinbase remains unable to advance a single, coherent version of this theory, which it now claims presents a controlling question," the SEC asserted.Court filing with the United States District Court for the Southern District of New York. Source: Court ListenerBut the SEC argued that in eighty years, no court has ever demanded "contractual undertakings" after a sale.“Interlocutory review is not warranted simply because Coinbase proposes a new legal test and disagrees with the Court’s rejection of that test,” the SEC noted.“But Coinbase’s decision to do so, and its desire to rewrite settled, decades- old legal precedent to fit its own policy goals and business needs provides no compelling reason to prematurely certify an appeal in this case,” it added.Related: Coinbase faces new lawsuit over alleged investor deceptionThe SEC sued Coinbase in June 2023, saying the crypto exchange violated federal securities laws by listing 13 tokens it alleged were securities.Coinbase argued that the transactions on its exchange shouldn't be considered securities, claiming it falls outside of SEC regulations. However, the SEC holds the opposite opinion.“At least some of the transactions on Coinbase’s platform and through related services constitute ‘investment contracts,’ which the federal securities laws have long recognized as securities,” the SEC stated in March 27 court documents.Magazine: How to stop the artificial intelligence apocalypse: David Brin, Uplift author
+
+----------------
+
+Crypto Supporter Mark Cuban Challenges SEC On Crypto In 2024 Election - Coincu
+
+
+
+	
+
+Key Points:
+
+
+
+
+Crypto supporter Mark Cuban warns of crypto’s significance in the 2024 election and condemns SEC Chair Gary Gensler’s regulatory approach.
+
+
+
+A poll reveals that most crypto voters support Trump over Biden, despite concerns about Biden’s anti-crypto sentiment and SEC enforcement actions.
+
+
+
+
+Crypto supporter Mark Cuban has fired back at former 2024 Republican presidential candidate Donald Trump over his recent embrace of cryptocurrencies, predicting their pivotal role in the upcoming 2024 election.
+
+
+
+
+
+Crypto Supporter Mark Cuban Challenges SEC Ahead of 2024 Election
+
+
+
+Cuban took to social media to voice concerns about the nation’s increasingly hostile attitude toward the crypto industry, cautioning that it could jeopardize both the sector’s growth and America’s global reputation.
+
+
+
+Accusing Securities and Exchange Commission Chairman Gary Gensler of neglecting investor protection and hindering legitimate crypto businesses, Cuban warned Congress of the impending influence of crypto voters in the next election cycle. A January poll indicated that 51% of cryptocurrency voters are in favor of Trump as a presidential candidate, although opinions on congressional races vary.
+
+
+
+Crypto supporter Mark Cuban echoed sentiments expressed by other crypto leaders, criticizing Gensler’s regulatory approach for stifling innovation and driving legitimate companies out of the U.S. market. He urged Congress to intervene, proposing that the Commodities Futures Trading Commission (CFTC) take the reins in regulating all crypto activities to provide much-needed clarity and support for the industry.
+
+
+
+
+Cuban Urges Congressional Action for Crypto Clarity
+
+
+
+Meanwhile, Trump announced his willingness to accept cryptocurrency donations for his campaign, while memecoins inspired by him and President Biden saw a surge in value on May 9.
+
+
+
+President Biden’s recent resistance to crypto-friendly measures, including his veto of a resolution overturning SEC crypto accounting guidance, has further alienated crypto voters. The rift is evident in polling data, with a majority of crypto voters leaning toward Trump, aligning with his pro-crypto stance.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 37 times, 37 visit(s) today
+
+	
+	
+
+
+
+	
+
+----------------
+
+Crypto Trader Turns $6,500 into $5.6 Million with Astounding 85,000% Gain | Cryptoglobe
+
+
+                                
+A cryptocurrency trader has managed to score an 85.000% gain trading a little-known cryptocurrency using two wallets. Effectively turning $6.500 into $5.6 million while doing so, significantly outperforming the wider cryptocurrency market.
+
+
+
+According to data from on-chain analytics firm Lookonchain, the cryptocurrency trader with the Ethereum Name Service domain “waxl.eth,” has managed to score their 870x gain after spending $6,500 to buy 2.08 million worth of $TRUMP tokens using two wallets.
+
+
+
+The trader sold 1.24 million TRUMP tokens for $902,000, having around 832,000 tokens left after their sale, with these being wroth around $4.7 million. The trader, according to Lookonchain, also made more than $1.23 million on $BASEDAI.
+
+
+
+The blockchain analysis service noted that the trader spent $4,000 to buy 249,000 $BASEDAI tokens, and sold 19,500 of those for $137,000 after its price exploded while still keeping 238,000 worth over $1.1 million in their wallet.
+
+
+
+
+
+
+
+As CryptoGlobe reported, recent trading activity suggests that memecoin traders are currently betting on cryptocurrencies referring Presidential candidate Donald Trump, with significant whale transactions pointing to that shift over tokens referring to current US President Joe Biden.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+The change came after Trump endorsed the cryptocurrency space. Which some see as push for cryptocurrency businesses to relocated to the United States, after he emphasized the need for a regulatory environment encouraging the growth ad stabilization of the cryptocurrency market.
+
+
+
+According to on-chain analysis service Lookonchain, a notable transaction involved the sale of 49,253 “Jeo Boden” ($BODEN) tokens and the purchase of 50,797 “Doland Tremp” ($TREMP) tokens.
+
+
+
+This activity might indicate that crypto traders, or ‘whales,’ are speculating on a rising favorability towards Trump-related digital assets compared to those associated with Biden.
+
+
+
+These trades also come after Trump recently suggested President biden “doesn’t even know” what cryptocurrency is, and suggested that cryptocurrency advocates should vote for him instead, implying further support for the space.
+
+
+
+Featured image via Pixabay.
+
+                            
+                        
+
+----------------
+
+JPMorgan Chase Bitcoin ETF Investment Reported With $760,000 - Coincu
+
+
+
+	
+
+Key Points:
+
+
+
+
+JPMorgan Chase, the largest US bank, discloses exposure to spot Bitcoin ETFs in an SEC filing totaling around $760,000.
+
+
+
+Despite CEO Jamie Dimon’s past skepticism, the move marks JPMorgan’s entry into the cryptocurrency market.
+
+
+
+The JPMorgan Chase Bitcoin ETF investment aligns with a broader trend of traditional financial institutions embracing cryptocurrency.
+
+
+
+
+JPMorgan Chase, the largest bank in the United States, has unveiled its exposure to spot Bitcoin exchange-traded funds (ETFs) in a recent filing with the Securities and Exchange Commission (SEC).
+
+
+
+
+
+JPMorgan Chase Bitcoin ETF Investment Revealed
+
+
+
+The filing, submitted on May 10, reveals that JPMorgan Chase Bitcoin ETF investments were provided by industry giants such as Grayscale, ProShares, Bitwise, BlackRock, and Fidelity.
+
+
+
+According to the SEC document, JPMorgan’s holdings include ProShares Bitcoin Strategy ETF (BITO), BlackRock’s iShares Bitcoin Trust Fund (IBIT), Fidelity’s Wise Origin Bitcoin Fund (FBTC), shares of Grayscale Bitcoin Trust (GBTC), and shares of Bitwise Bitcoin ETF, totaling approximately $760,000 in value.
+
+
+
+While the disclosed amount may seem modest compared to other institutional investments in Bitcoin, it signifies JPMorgan’s entrance into the cryptocurrency market, a move that contradicts CEO Jamie Dimon‘s public skepticism toward Bitcoin.
+
+
+
+
+Moreover, JPMorgan also reported holdings in Bitcoin Depot, a Bitcoin ATM provider valued at approximately $47,000 for 25,021 shares. These disclosures indicate the bank’s growing involvement in the cryptocurrency space.
+
+
+
+Traditional Banks Embrace Cryptocurrency Investments
+
+
+
+The news of JPMorgan Chase Bitcoin ETF investment comes amid increasing interest from traditional financial institutions in cryptocurrency. Wells Fargo, the third-largest bank in the US, also revealed its exposure to Grayscale and ProShares Bitcoin ETFs on the same day.
+
+
+
+As spot Bitcoin ETFs gain traction in the finance sector since their approval earlier this year, institutions like JPMorgan and Wells Fargo are positioning themselves to capitalize on the growing popularity of digital assets. However, observers are cautioned not to assume the accuracy and completeness of the information provided by these financial firms, as noted by the SEC.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 28 times, 28 visit(s) today
 
 	
 	
