@@ -1,198 +1,3 @@
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-WIF's price - How long will this memecoin sustain its green streak? - AMBCrypto
-
-
-
-WIF registered a massive surge in on-chain volume over the last few days
-WIF’s social volume hiked too, despite the sentiment around the token falling
-
-Dogwifhat [WIF] has been one of the market’s most popular memecoins over the last few months. As expected, this has translated into a hike in its volumes, with its network growing accordingly too.
-Volumes on the rise
-According to recent data, the on-chain volume on WIF grew significantly over the last 24 hours. This contributed to the memecoin surpassing other established networks in this domain.
-Source: X
-One of the reasons for this would be the ever-growing popularity of the WIF network. AMBCrypto’s examination of Santiment’s data revealed that the social volume around WIF has remained high over the past month. However, there was a trend observed that could impact WIF negatively in the social sphere.
-Weighted sentiment, a metric used to determine the sentiment of the conversations being had on the social front for a token or a network, declined significantly over the past few days.
-This meant that pessimism around WIF grew, affecting the token’s price negatively.
-Source: Santiment
-A look at the memecoin’s price
-Since 01 April, after hitting the $4.857-level, the price of WIF declined significantly on the charts. Over this period, the price hit multiple lower lows and lower highs, establishing a bearish trend. However, the trend could reverse itself soon provided there is enough bullish momentum around WIF. The $3.502-level has been tested multiple times and has been weakened over the last week.
-If this continues the price may be able to push past this resistance and aim for the $4.382-level in the future.
-The CMF (Chaikin Money Flow) for WIF also fell significantly over the last few days. This indicated that the money flow for WIF had fallen materially.
-However, the RSI (Relative Strength Index) for WIF sustained its uptrend, implying that the bullish momentum around WIF was relatively high.
-Source: Trading View
-Whales move in
-Another factor that could affect WIF’s price would be whale behaviour. Based on lookonchain’s data, a whale recently invested 4.2 million USDC to purchase 1.4 million WIF tokens at a price of $2.99.
-This whale, who has been trading WIF since early on, amassed a total profit exceeding $8 million from WIF transactions.
-
-Is your portfolio green? Check out the dogwifhat Profit Calculator
-
-Source: X
-
-
-
-
-
-
-----------------
-
-Crypto Custody Tech Firm Fireblocks Plans NYDFS-Regulated Trust Company
-
-"Our position is not to poke at any regulator, any political party, or the government," Levine said. "We're just applying the existing rules and existing framework. We know there's a business need based on clients, based on the market opportunity. We understand what the current regulatory framework is, and SAB 121, as it is, in the current view of federal regulators and state regulators. We believe that pursuing the trust license in becoming a qualified custodian was the right approach."
-
-----------------
-
-Shouldn't All These Crypto Lawyers Start Learning About Crypto?
-
-Fortunately, as crypto-native associates become more senior, the dynamics within law firms are beginning to change. Truly adept "crypto lawyers" have emerged at many prestigious law firms, and there are lawyers at specialized boutiques who certainly know their stuff, but this phenomenon remains surprisingly rare. This shift is crucial, as lawyers who understand and can innovate within the framework of cryptocurrency law are critical for the industry's future.
-
-----------------
-
-Ethereum's Monetary Shift Post-Dencun: Insights from CryptoQuant | Cryptoglobe
-
-
-                                
-The Ethereum blockchain, a cornerstone of the decentralized finance (DeFi) ecosystem, has consistently grappled with scalability issues. Network congestion during periods of high activity leads to slow transaction times and exorbitant gas fees, hindering user experience and hindering the network’s ability to support a wider range of applications. The Dencun upgrade, deployed in March 2024, marked a significant step towards addressing these challenges, introducing novel concepts that lay the groundwork for a more scalable future for Ethereum.
-
-
-
-Dencun, an amalgamation of the Cancun and Deneb upgrades, did not offer an immediate silver bullet solution. However, it represented a critical juncture in Ethereum’s development. The centerpiece of Dencun was the introduction of “proto-danksharding,” a concept that paves the way for future sharding implementation on the Ethereum network. Sharding essentially involves dividing the blockchain into partitions, or shards, each processing transactions independently. This parallel processing capability has the potential to significantly increase Ethereum’s transaction throughput. While Dencun itself does not implement sharding, it lays the technical foundation for its future integration.
-
-
-
-While addressing long-term scalability was a core objective, Dencun’s impact on transaction fees in the immediate term was more nuanced. The upgrade did not directly reduce fees on the main Ethereum network. Instead, it focused on optimizing fees within Layer 2 networks. Layer 2 solutions operate on top of the Ethereum blockchain, bundling transactions together and processing them off-chain before transmitting them back to the mainnet. This approach helps alleviate congestion on the main Ethereum network and can potentially lower fees for users.
-
-
-
-A key component of Dencun, EIP-4844, specifically reduced the cost for Layer 2 networks to submit their bundled transactions back to the main Ethereum blockchain. This improvement in Layer 2 efficiency has the potential to indirectly translate to lower fees for users who leverage these Layer 2 solutions. However, it is important to note that the realized fee reduction on Layer 2 networks may not be as significant as initial projections suggested, and the long-term impact on fees requires further observation.
-
-
-
-The Dencun upgrade did have an unforeseen consequence. The success in lowering transaction fees also resulted in a decrease in the amount of ETH burned on the network. Previously, higher network activity corresponded to higher fees, and a portion of these fees were burned, leading to a deflationary effect on the total supply of ETH. This deflationary mechanism was one of the anticipated benefits of the Ethereum Merge, the transition from a proof-of-work to a proof-of-stake consensus mechanism. With a reduction in ETH burned and the natural increase in supply continuing, the total supply of ETH began to grow again at a faster rate compared to the period following the Merge. This shift has pushed ETH back towards an inflationary model.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-The Dencun upgrade’s legacy is multifaceted. It demonstrably addressed scalability concerns and set the stage for a future Ethereum capable of handling a significantly higher transaction volume. However, the unintended consequence of potentially reversing ETH’s deflationary trend has ignited discussions about the future trajectory of Ethereum’s economic model.
-
-
-
-
-VIDEO
-
-
-
-
-The Dencun upgrade has prompted a fresh analysis from CryptoQuant, a respected South Korea-based blockchain analytics firm. This upgrade, according to CryptoQuant, may significantly alter Ethereum’s progression towards becoming an “ultra sound money” – a concept that denotes a currency that appreciates or maintains its value over time.
-
-
-
-CryptoQuant explains that “ultra sound money” in the context of Ethereum refers to the blockchain’s potential to decrease its total ETH supply over time. They say this was being facilitated by strategic upgrades like EIP-1559 and The Merge, which introduced mechanisms to burn a portion of transaction fees. According to CryptoQuant, this feature was pivotal in reinforcing Ethereum’s deflationary economic model.
-
-
-
-Post-Dencun upgrade, CryptoQuant notes a critical shift—there has been a decoupling of Ethereum’s transaction fees from network activity levels, which has effectively altered the ETH burn rate. While this has led to reduced transaction costs for users, CryptoQuant raises concerns that this adjustment challenges the deflationary mechanism previously set by The Merge. They emphasize that maintaining a deflationary supply now demands significantly higher network activity than before.
-
-
-
-CryptoQuant articulates that the reduction in transaction fees, though beneficial for user adoption and network throughput, introduces inflationary pressures to the Ethereum ecosystem. They claim this shift could impact the long-term valuation of ETH, potentially affecting Ethereum’s attractiveness as a deflationary asset.
-
-
-
-
-
-
-
-
-
-
-
-Featured Image via Pixabay
-
-                            
-                        
-
-----------------
-
-2 cryptocurrencies to reach $1 billion market cap in May
-
-
-As May 2024 progresses, the cryptocurrency market is experiencing the ripple effects of the Bitcoin (BTC) halving event that took place in April—a key event often seen as a bullish catalyst for Bitcoin and the broader cryptocurrency landscape.
-This positive sentiment is proving advantageous for several cryptocurrencies nearing significant market cap milestones, particularly the $1 billion mark. Despite the prevailing market trends, certain assets are showing strong potential for growth, supported by robust underlying fundamentals.
-Building on this trend, Finbold has identified two cryptocurrencies poised to attract a substantial capital inflow in May 2024, potentially propelling them toward the $1 billion market cap milestone. Notably, these assets are already approaching this significant threshold.
-
-
-Tezos (XTZ)
-Tezos (XTZ), a blockchain platform known for its focus on security, decentralized governance, and scalability, is nearing a market cap of $910 million. Currently priced at $0.9277, marking a 4.50% increase over the last day, the ecosystem has shown notable activities. 
-Tezoz price and market cap. Source: CoinMarketCap
-Recently, the Tezos Foundation has partnered with Magic to enhance the onboarding process for decentralized applications (dApps). This will integrate Magic’s wallet solutions with the Tezos blockchain to improve user experiences, particularly by simplifying the processes for web3 applications.
-Furthermore, Rarible, a key player in the digital marketplace space, is set to incorporate Tezos on its aggregated platform. This development underscores Tezos’ expanding influence and adoption in the NFT and broader digital asset markets.
-Despite a challenging market environment, Tezos has shown resilience. According to CoinCodex, Tezos is expected to see a 6.54% price increase, potentially reaching around $1.020 by May 31. 
-The Fear & Greed Index stands at 66, pointing to strong market interest in Tezos. Over the last 30 days, these indicators highlight its robust fundamentals and the strong support it continues to receive from its community and developers.
-JasmyCoin (JASMY)
-JasmyCoin (JASMY) , which integrates IoT and blockchain technologies to empower users with data sovereignty, is currently demonstrating promising growth with a market cap nearing $905 million and a price of $0.01836. 
-JasmyCoin price and market cap. Source: CoinMarketCap
-According to CoinCodex, the price of JasmyCoin is predicted to rise by 152% and reach $0.0474 by May 31. The technical indicators suggest a neutral current sentiment, while the Fear & Greed Index indicates a level of 66.
-Both Tezos and JasmyCoin are aligned with broader market trends and are poised to benefit from any positive shifts in market sentiment.
-These two cryptocurrencies are likely to attract increased investment if the cryptocurrency market regains its bullish momentum, pushing their market caps over the $1 billion threshold.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk 
-
-
-----------------
-
-This Bull Run Might Skip Ethereum (ETH): Opinion
-
-
-In an acerbic X post, Ethereum (ETH) veteran, prominent investor, podcaster and crypto educator Ryan Sean Adams describes two alternative midterm forecasts for Ether (ETH) as a crypto coin.Bearish: Inevitable puberty of Ethereum (ETH)In a 2024-2025 potential rally, Ethereum (ETH) might be overlooked by investors as it is going through the "awkward" phase of "puberty." It looks too slow and expensive compared to its own second-layer solutions of various types, Adams admits. While L2s are necessary for the scaling of such a blockchain and reflect the founder's vision of its progress, it has nothing to do with the interests of its most obvious investors.Meme coin champions and dApps users (including retroactive airdrop farmers) are too focused on alternative L2/L3 blockchains, while institutional "big money" is on its way to Bitcoin (BTC).The approval of Spot Ether ETFs in the U.S. might change the status quo but, as U.Today previously reported, analysts are skeptical of the possibility of this step in the coming months.As such, Ethereum (ETH) is getting through the challenges of its "puberty" while "toddler chains" are looking for shortcuts and, therefore, might look more attractive in the midterm.Bullish: Rock solid monetary economics for "chain of 1000 chains"At the same time, the arguments of Ethereum (ETH) optimists also look strong as of Q2, 2024. Ethereum (ETH) meets this cycle stronger than in 2020 with viable overhyped L2s and zkEVMs driving innovations and attracting value.With its "rock solid monetary economics" cemented by ERC 4337 implementation, it remains the only profitable blockchain, and its competitors are not even close to this status.Also, despite the growing audience of alternative blockchains, Ethereum (ETH) mainnet remains the root chain for 1,000 blockchains, Adams says.These two theses are just "two perspectives for ETH bulls," the author concludes.Ether (ETH) is changing hands at $2,925, being 3% down in the last 24 hours.
-
-
-
-----------------
-
-Aggressive Stock Buying On Rising Layoffs And Revenue Rise At The Largest Chip Manufacturer TSMC - Taiwan Semiconductor (NYSE:TSM) - Benzinga
-
-To gain an edge, this is what you need to know today.Buying On Rising LayoffsPlease click here for an enlarged chart of SPDR S&P 500 ETF Trust SPY which represents the benchmark stock market index S&P 500 (SPX).Note the following:
-	The chart shows that the stock market has vigorously risen from the recent pullback.
-	The chart shows that RSI reached oversold levels during the recent pullback and now has risen to touch the lower band of the overbought zone.  Historically, this setup leads to more stock market gains.
-	The chart shows that the volume during the recent rise is not heavy.  This indicates lack of conviction.
-	The chart shows that the stock market is now in the resistance zone.
-	In The Arora Report analysis, stops of the short sellers are right above the resistance zone.  If the stock market rises further, Wall Street’s hunt and destroy algorithms will kick in, taking out the stops of short sellers and igniting a short squeeze. The result of such a scenario would be a new stock market high.  
-	Yesterday in the Morning Capsule we shared with you:
-
-Jobless claims came at 231K vs. 213K consensus. This indicates that the job market is beginning to slow.
-
-	The bulls latched on to the rise in jobless claims and aggressively bought stocks. There is merit to this line of thinking because Powell is already itching to cut rates and rising layoffs will give him an excuse to cut rates.
-	Prudent investors need to be somewhat careful as weekly jobless claims series is very volatile.
-	For proper analysis at The Arora Report, in addition to the weekly data, we look at a four week moving average of initial jobless claims.  The four week moving average is now at 215K – up 2.26% from the prior week and down 10.14% from a year ago.  Considering the size of the U.S. economy, a rise of 2.26% over the prior week is hardly meaningful, but do not tell that to trigger happy stock market bulls.  Prudent investors should watch the trend over a period of several weeks, not just one week. Jobless claims is a leading indicator and carries heavy weight in The Arora Report adaptive ZYX Asset Allocation Model with inputs in ten categories. In plain English, adaptiveness means that the model changes itself with market conditions.  Please click here to see how this is achieved. One of the reasons behind The Arora Report’s unrivaled performance in both bull and bear markets is the adaptiveness of the model. Most models on Wall Street are static. They work for a while and then stop working when market conditions change.
-	Adding to the optimism this morning is a report of rising revenues at the world’s largest chip manufacturer Taiwan Semiconductor Mfg. Co. Ltd. TSM. TSM is manufacturing a vast majority of the artificial intelligence chips, and the data shows sales are booming.  Here are the details:
-	
-		April revenues came at T$236.02B.  This is up 59.6% year-over-year and up 21% month-over-month.
-		January - April revenue came at T$828.67B. This is 26% year-over-year.
-	
-	
-	Data from TSM is bringing buying into artificial intelligence stocks such as NVIDIA Corp NVDA, Advanced Micro Devices, Inc. AMD, Micron Technology Inc MU, and Applied Materials, Inc. AMAT.
-ChinaStocks in Hong Kong have reached a nine month high. There is China risk, but stocks in Hong Kong represent the best value in the whole world at this time. The ETF of choice is iShares China Large-Cap ETF FXI. As full disclosure, FXI is in The Arora Report's ZYX Emerging Model Portfolio.Magnificent Seven Money FlowsIn the early trade, money flows are positive in Apple Inc AAPL, Meta Platforms Inc META, NVDA, and Tesla Inc TSLA.In the early trade, money flows are neutral in Amazon.com, Inc. AMZN and Microsoft Corp MSFT.In the early trade, money flows are negative in Alphabet Inc Class C GOOG.In the early trade, money flows are positive in S&P 500 ETF (SPY) and Invesco QQQ Trust Series 1 QQQ.Momo Crowd And Smart Money In StocksThe momo crowd is aggressively buying stocks in the early trade. Smart money is inactive in the early trade.GoldThe momo crowd is buying gold in the early trade. Smart money is inactive in the early trade.For longer-term, please see gold and silver ratings.The most popular ETF for gold is SPDR Gold Trust GLD. The most popular ETF for silver is iShares Silver Trust SLV. OilThe momo crowd is buying oil in the early trade.  Smart money is inactive in the early trade.For longer-term, please see oil ratings.The most popular ETF for oil is United States Oil ETF USO.BitcoinBitcoin BTC/USD is rising along with tech stocks.Protection Band And What To Do NowIt is important for investors to look ahead and not in the rearview mirror.Consider continuing to hold good, very long term, existing positions. Based on individual risk preference, consider a protection band consisting of cash or Treasury bills or short-term tactical trades as well as short to medium term hedges and short term hedges. This is a good way to protect yourself and participate in the upside at the same time.You can determine your protection bands by adding cash to hedges. The high band of the protection is appropriate for those who are older or conservative. The low band of the protection is appropriate for those who are younger or aggressive. If you do not hedge, the total cash level should be more than stated above but significantly less than cash plus hedges.A protection band of 0% would be very bullish and would indicate full investment with 0% in cash. A protection band of 100% would be very bearish and would indicate a need for aggressive protection with cash and hedges or aggressive short selling.It is worth reminding that you cannot take advantage of new upcoming opportunities if you are not holding enough cash. When adjusting hedge levels, consider adjusting partial stop quantities for stock positions (non ETF); consider using wider stops on remaining quantities and also allowing more room for high beta stocks.  High beta stocks are the ones that move more than the market.Traditional 60/40 PortfolioProbability based risk reward adjusted for inflation does not favor long duration strategic bond allocation at this time.Those who want to stick to traditional 60% allocation to stocks and 40% to bonds may consider focusing on only high quality bonds and bonds of seven year duration or less. Those willing to bring sophistication to their investing may consider using bond ETFs as tactical positions and not strategic positions at this time.The Arora Report is known for its accurate calls. The Arora Report correctly called the big artificial intelligence rally before anyone else, the new bull market of 2023, the bear market of 2022, new stock market highs right after the virus low in 2020, the virus drop in 2020, the DJIA rally to 30,000 when it was trading at 16,000, the start of a mega bull market in 2009, and the financial crash of 2008. Please click here to sign up for a free forever Generate Wealth Newsletter.This article is from an unpaid external contributor. It does not represent Benzinga's reporting and has not been edited for content or accuracy.
-
-----------------
-
 Tether (USDT) Warning from Deutsche Bank! - Bitcoin Sistemi
 
 
@@ -9868,3 +9673,366 @@ Uniswap creator Hayden Adams wrote.Crypto makes it to the ballot paperAccording 
 Jamie Dimon Was RIGHT About Bitcoin?! - YouTube
 
 AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+JPMorgan Chase Blocks $100 Chocolate Purchase, Approves $49,000 Illicit Wire Transfer - Here's Why the Bank Is Refusing To Reimburse - The Daily Hodl
+
+
+								A couple in Atlanta says one phone call led to their entire life savings being drained from their JPMorgan Chase bank account.
+Gloria and Gary Moss tell FOX 5 that they felt secure after Chase blocked a $100 purchase for chocolate months ago, requiring confirmation for the transaction to go through.
+
+
+
+
+
+
+
+
+
+
+But on February 16th, the couple says they received two text messages that also appeared to be from Chase’s fraud department, telling them that one of their debit cards had been compromised.
+The texts came from the same six-digit short code as every other alert from Chase’s communications system, so the message seemed legit.
+Gloria called the number and says she unknowingly spoke to a scammer who sounded professional and asked for a one-time pin (OTP) code that was text messaged to her phone, claiming it was needed to cancel her card.
+Gloria confirmed the OTP code, which gave the criminal the power to drain the couple’s life savings – about $49,000 – in around 20 minutes while they kept her distracted on the phone.
+The Mosses say the massive transfer went through without any further contact or concern from Chase, and the money was cleared via wire transfer to Wells Fargo – which was only able to return about $700 back to the couple.
+In a letter, Chase defended its security systems and refused to reimburse the account, stating that the bank did call the Mosses and that someone who answered the phone verified the wire was valid.
+Local police say they’re now investigating the incident and exploring whether or not someone was able to gain control of Gloria’s cell phone.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+'Jeo Boden' Meme Coin Soars 25% After Trump Diss - Details
+
+
+																The memecoin “Jeo Boden” has taken the crypto world by storm, riding on the back of a lukewarm comment from former US President Donald Trump. The whimsical cryptocurrency, a playful misspelling of President Joe Biden’s name, experienced a huge increase after Trump mentioned it at an NFT event in Florida.
+What was once a subject of amusement has now become a serious investment, as Boden surged 20% following Trump’s offhand remark.
+
+	Related Reading
+
+
+
+Trump Rally Or Fleeting Frenzy? Analysts Divided
+The cryptocurrency community has been divided over the impact of Trump’s mention of Boden. Some analysts, such as Samantha Wilkins, believe that any mention from a prominent figure like Trump is positive for the memecoin. They contend that Boden has shown to be a tenacious and astute investment, and that the excitement around it has only grown as a result of Trump’s remark.
+
+However, some experts remain skeptical. They caution that Boden’s value is built on hype rather than utility, making it susceptible to swift market shifts. A single negative tweet from Trump or a change in market sentiment could cause Boden to come crashing down as quickly as it rose.
+Will Trump Re-Boden The Market?
+Adding another layer of intrigue to the Boden saga, the prediction platform Polymarket has created a contract speculating on the likelihood of Trump mentioning the memecoin again before July. Currently, the contract’s “yes” shares are trading at $0.05, indicating an 11% chance that Trump will utter the word “Boden” in the coming months.
+Source: Polymarket
+This unique situation presents an unusual scenario where the value of a memecoin hinges on the whims of a former president. If Trump revisits Boden in a future speech or tweet, it could trigger another surge in price.
+However, if he remains silent, the current hype surrounding Boden may fizzle out, leaving investors holding a depreciating digital punchline.
+
+Jeo Boden is currently trading at $0.2799. Chart: TradingView
+Boden: A Gamble On Speculation
+The rise of Boden serves as a cautionary tale for memecoin enthusiasts. While these tokens can offer explosive returns, their value is often tied to fleeting trends and external factors beyond their control. With the enigmatic Trump as a wildcard influence, the future of Boden remains uncertain.
+
+	Related Reading
+
+
+
+Investors eagerly await the next chapter in this bizarre crypto story, as the saga of Boden continues to unfold. It is a gamble on speculation, where the coin’s value dances on the edge of uncertainty. The Boden phenomenon highlights the unpredictable nature of memecoins and the risks associated with investing in such volatile assets.
+Featured image from Reddit, chart from TradingView
+																								
+															
+
+
+						
+
+----------------
+
+Here’s What Volatility Says About Where Dogecoin Price Is Headed
+
+
+								Dogecoin now finds its current price movement moving with a peculiar lack of action. In this case, the lack of action points to low volatility, especially in the last few days. Notably, on-chain data from IntoTheBlock has revealed that the crypto is now at its lowest point in the last 30 days. 
+
+In the crypto world, low volatility typically means lower interest from short-term speculators and traders, which in turn could lead to DOGE trading in a sideways movement in the short term.
+Volatility Points To Stagnant Price Action
+At the time of writing, DOGE is trading at $0.1430 and is down by 5.22% in the past 24 hours. This decline has seen the meme coin reversing some of its gains earlier in the week. Interestingly, this reversal and failure to keep up its price gains means DOGE has largely bounced between the upper end of $0.172 and the lower end of $0.12 since the middle of April. 
+According to the data from IntoTheBlock, this sideways movement can be attributed to a lack of volatility from the meme coin. 
+DOGE’s price action is primarily influenced by a limited number of factors, given its meme coin status and lack of a clearly defined real-world utility. One of these factors involves the movements of whales, while another is the increased demand fueled by trader hype. This surge in demand, in turn, leads to heightened volatility and a quick increase in prices. 
+
+Dogecoin is now trading at $0.14. Chart: TradingView
+On the other hand, when a crypto like Dogecoin experiences a period of low volatility, it usually means the price isn’t moving up or down very much. 
+In other words, the market has temporarily reached an equilibrium. During these lulls, the Dogecoin price tends to move sideways, trading within a narrow range. The low volatility indicates a lack of strong sentiment in either direction. Neither the bulls nor the bears have taken control, so the market is indecisive.
+What’s Next For DOGE?
+At the time of writing, DOGE could continue trading around the $0.14 price level in the coming days. The crypto is also at risk of revising $0.12 at the downside if the $0.14 support level fails to hold. However, DOGE is still one of the largest cryptocurrencies by market cap, meaning this period of low volatility could end as soon as it began. 
+
+A factor that could return bullish momentum is the recent reports of Tesla adding Dogecoin as a payment method according to a FAQs section on the company’s official website. 
+The lackluster action presents a good opportunity for Dogecoin traders to load up their holdings while anticipating a price increase in the longer term.
+Featured image from Pinterest, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+Shiba Inu burn rate spikes over 50%: What does it mean for SHIB? - AMBCrypto
+
+
+
+While the burn rate increased, SHIB’s price fell by 3.86%.
+A decrease in circulation and social dominance indicated a possible entry for the token.
+
+The number of Shiba Inu [SHIB] tokens burned in the last 24 hours has increased by 56.16%, data from Shibburn showed. A day before this figure decreased, and was less than 40 million tokens.
+The major aim of Shiba Inu burning is to increase the value of the tokens in circulation by creating scarcity. This way, SHIB can tackle inflationary pressure.
+Therefore, the recent increase suggests that SHIB might avoid another plunge. However, it is not all the time that the token price rises when the burn rate jumps.
+In some instances, SHIB moves sideways. Other times, the price declines.
+Source: Shibburn
+SHIB fails to go with the trend
+As of this writing, SHIB’s price has lost 3.86% of its value. This happened within the same period the number of burned tokens increased, indicating a next-to-nothing effect on the memecoin’s value.
+However, AMBCrypto checked Shiba Inu’s social dominance to see if there had been any changes. Social dominance measures the rate of discussions about a project when compared to other top 100 assets.
+At press time, on-chain data from Santiment showed that the metric dropped slightly to 0.677%.
+This decline was a testament to the fact that traders might be overlooking SHIB and concentrating on other projects for now.
+From a price perspective, this presents a potential buying opportunity before the price jumps. Should the price of the token begin to rise, social dominance might also increase, and this could be a case of FOMO.
+FOMO stands for Fear Of Missing Out. It happens when attention moves to a project after the price must have appreciated by a significant percentage.
+Those who engage in this might either get burnt by a correction or be left with crumbs of gains.
+Source: Santiment
+Price may lay back for a while
+But AMBCrypto does not expect the big move to happen in the next few days. However, a surge in buying pressure could confirm the upswing.
+If this is the case, SHIB might begin a race that sets it above $0.000030. Furthermore, the one-day circulation dropped to 447.71 billion.
+Two days before that, the metric was over 1 trillion. Circulation measures the number of tokens used in transactions within a given period.
+With the decline, SHIB might not have to deal with intense selling pressure. Hence, this could offer some stability for the price.
+Source: Santiment
+
+Realistic or not, here’s SHIB’s market cap in DOGE terms
+
+In a bullish scenario, the decrease could cause SHIB’s price to go on a steady uptick, meaning the potential move to $0.000030 could be possible.
+However, activity on the Shiba Inu network has been decreasing, indicating that the potential rally could take some time. But if the 24-hour active addresses begin to rise again, the price of SHIB might follow.
+
+
+
+
+
+
+----------------
+
+$44 billion company’s CEO makes a stand for Bitcoin in letter to shareholders
+
+
+Block Inc. (NYSE: SQ), Square’s and Cash App’s parent company, and valued at $44 billion has raised its earnings forecast for the year and unveiled significant plans to expand its Bitcoin (BTC) holdings. The announcement led to a 7.9% surge in Block’s shares in post-market trading.
+In a letter to shareholders, CEO Jack Dorsey stressed the importance of an “open protocol for money“ aligning with broader movements towards cryptocurrency acceptance.
+
+“We believe the world needs an open protocol for money, one that’s not owned or controlled by any single entity,” Dorsey said in the note.
+
+
+
+This approach is further validated by recent green lights from the Securities and Exchange Commission (SEC) for several Bitcoin ETFs, marking a  shift towards institutional acceptance of cryptocurrencies
+To solidify this commitment, Block plans to allocate 10% of its gross profits from Bitcoin-related products to additional Bitcoin acquisitions each month. Currently, less than 3% of Block’s resources are invested in Bitcoin-related initiatives, a figure set to grow substantially.
+This strategic pivot is underscored by Block’s robust financial performance. The company has revised its annual adjusted core earnings forecast upwards from $2.63 billion to at least $2.76 billion, buoyed by strong U.S. consumer spending that defies fears of an economic slowdown. In the reported quarter, Block notched a 19% jump in total net revenue, reaching $5.96 billion.
+Operational and financial highlights
+Financially, Block reported a substantial increase in its operations, with gross profit rising to $2.09 billion, a 22% increase from the previous year. The company’s net income was notably robust, reporting $472 million, or 74 cents per share, a significant increase from $98.3 million, or 16 cents per share, a year earlier.
+The Cash App segment of Block’s business, a widely used mobile payment platform, reported a gross profit of $1.26 billion, marking a 25% year-over-year increase. The platform’s monthly active users for the Cash App Card rose to 24 million in March, with the total number of monthly transacting activities reaching 57 million, a 6% year-over-year increase.
+Moreover, Block has been focusing on integrating Afterpay, the buy now, pay later company it acquired for $29 billion in 2021. Although Afterpay experienced significant losses post-acquisition, this integration is a critical part of Block’s strategy to enhance its suite of financial products and services.
+Wall Street’s mixed views on Block’s valuation
+SQ Analyst ratings. Source. tipranks
+The investment community has expressed mixed views on Block’s financial outlook. According to 30 Wall Street analysts providing 12-month price targets in the last three months, the average price target stands at $90.42, with a high forecast of $100.00 and a low of $62.00. 
+This range indicates a potential upside of 26.80% from the current share price of $71.31. These projections reflect varying degrees of confidence in Block’s strategic direction and its potential impact on the company’s future profitability and market position.
+As Block continues to innovate and expand its financial products, the strategic emphasis on Bitcoin could not only redefine its growth trajectory but also influence broader market trends in digital currency and financial technology.
+This bold move could very well shape the future landscape of how technology giants engage with cryptocurrency, marking a pivotal moment in Block’s history.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+LayerZero Sybil User Analysis: Only 30k Users Admit To Sybil Activity
+
+
+
+	
+
+Key Points:
+
+
+
+
+LayerZero’s 5 million addresses made 1-5 transactions each, 4.24 million costing less than $10.
+
+
+
+Out of 6 million users, only 400k to 600k are real, with 30k identified as Sybil.
+
+
+
+LayerZero incentivizes Sybil users to self-report, offering 15% of their initial tokens.
+
+
+
+
+LayerZero Sybil user analysis revealed, CEO said that out of 6M users, just 400k-600k are genuine accounts. Currently, only 30k are identified as Sybil.
+
+
+
+
+
+On May 04, LayerZero Labs reportedly introduced a mechanism to address Sybil activity, also known as “airdrop farming”.
+
+
+
+Sybil farming refers to the creation of multiple fake accounts to unfairly gain tokens. LayerZero aims for its tokens to benefit authentic, committed network users rather than those engaged in Sybil farming.
+
+
+
+To mitigate the negative impacts of Sybil activity, LayerZero Labs has launched an incentive for Sybil users to self-report.
+
+
+
+
+Readmore: Tether Expands Into Eastern Europe With A New Investment In CityPay.io
+
+
+
+Consequences for Non-Compliant Sybil Users
+
+
+
+These users can reveal their actions within a specified period and receive 15% of the tokens they were initially allocated without any repercussions. The self-reporting process involves linking a wallet associated with Sybil activity and signing a confirmation message.
+
+
+
+For those who fail to self-report by May 17, LayerZero Labs will enforce consequences, including public identification of non-compliant Sybil users and community reporting of suspected Sybil activity.
+
+
+
+LayerZero Sybil User Analysis 
+
+
+
+According to Wu Blockchain, the CEO of LayerZero revealed that roughly 5 million addresses only executed 1 to 5 transactions; approximately 4.24 million of these addresses incurred a cost of less than $10.
+
+
+
+
+
+He previously indicated that from the total of 6 million users, a mere 400k to 600k represent genuine accounts. However, at present, only 30k addresses are identified as Sybil.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 1 times, 1 visit(s) today
+
+	
+	
+
+
+
+	
+
+----------------
+
+After 2 Years of Struggling, the Giant Whale Gave Up: Sells All Assets from Three Altcoins for a Loss of $8.43 Million - Bitcoin Sistemi
+
+
+A cryptocurrency whale that didn't seem to be very successful at trading seems to have finally given up.
+According to data provided by Lookonchain, the whale sold all of its Ethereum (ETH), Optimism (OP) and Arbitrum (ARB) holdings just hours ago, for a loss of $8.43 million.
+
+
+According to the data, the whale wallet sold $19.5 million worth of ETH at $2,903 and lost $6.45 million.
+On the other hand, it sold $1.06 million worth of OP at $2.48 and lost $902 thousand. Finally, he sold ARB worth $ 882 thousand at $ 0.98 and lost $ 1.08 million.
+
+
+
+
+
+
+It is not clear whether the cryptocurrency whale gave up completely and exited the market, or whether he waited for the market to drop further and sold his assets to buy lower.
+At the time of writing this article, ETH is traded at 2.905, OP is traded at 2.55, and ARB is traded at $1.
+
+
+Currently, the whale wallet still holds the USDC stablecoins it obtained from the sale of the assets in question.
+Balina had been accumulating a significant part of the assets in question since 2022.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Solana Price Prediction as CEO Yakovenko Previews Post-Firedancer Era - Is SOL Set to Lead in Web3?
+
+
+                        
+                            Solana Price Prediction as CEO Yakovenko Previews Post-Firedancer Era – Is SOL Set to Lead in Web3?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 11, 2024 13:21 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Solana (SOL/USD) is trading at $145.88, experiencing a minor decline of 1.50% in the last 24 hours. Amidst this fluctuation, CEO Anatoly Yakovenko shared a bullish outlook for Solana‘s role in the Web3 space at the Solana Crossroads 2024 conference.With the upcoming release of Firedancer, Solana’s new client, the network aims to enhance its transaction capabilities and efficiency significantly. This advancement could potentially elevate Solana’s market position, influencing the Solana price prediction as it prepares to lead in the Web3 era.Solana’s Future After Firedancer: Anatoly Yakovenko Reveals Vision at Crossroads 2024
+At the Solana Crossroads 2024 conference, Anatoly Yakovenko, CEO of Solana Labs, shared his vision for the network’s advancement beyond its “mainnet beta” phase with the impending release of Firedancer. This new client, developed by Jump Crypto, is set to boost Solana’s transaction capabilities and overall efficiency by introducing an alternative to its existing single-client system, aiming to bolster network stability.VIDEOYakovenko stressed the benefit of diversifying client development to reduce bug risks and expressed optimism about Firedancer’s deployment before the Solana Breakpoint conference in September.Despite facing challenges like network outages and centralization critiques, Solana continues to handle a high volume of transactions. The network’s endurance through rigorous testing by various applications, including memecoins and NFTs, has been instrumental in fine-tuning its operations.Yakovenko also detailed ambitious plans for Solana to host over $1 trillion in stablecoins within five years, underscoring a commitment to scaling at the base layer of the blockchain, in stark contrast to Ethereum’s multi-layered scaling strategy.He highlighted ongoing hardware innovations from companies such as Taiwan Semiconductor Manufacturing Company and Nvidia as crucial support for Solana’s scalability goals, positioning it for a significant role in the future of blockchain technology.Key Takeaways:
+Firedancer Launch: Aiming to enhance reliability and efficiency, it is set for a potential launch before September.
+Network Challenges: Past issues are viewed as critical stress tests, paving the way for future scalability.
+Future Goals: Solana plans to host over $1 trillion in stablecoins, focusing on scalability through hardware advancements.
+Solana Price Prediction
+From a technical perspective, Solana’s pivotal price point is $140.89. Should the price ascend, the immediate resistance level is at $155.33, followed by higher barriers at $166.83 and $175.83. These levels could curb upward movements unless significant buying pressure emerges.Conversely, the support framework begins at $132.31, with further floors established at $122.20 and $112.48. These markers are crucial for Solana, as they represent potential reversal zones if the price trajectory dips.Solana Price PredictionThe Relative Strength Index (RSI) currently sits at 42, reflecting a bearish momentum. Additionally, the 50-day Exponential Moving Average (EMA), located at $146.39, is slightly above the current trading price, reinforcing it as a resistance level.In summary, Solana faces a testing market environment. A decisive move above the $146.39 level could alter its course towards bullishness.“Let’s move from Solana’s ecosystem to the WienerAI presale in the AI-driven trading space.”Join WienerAI Presale Now: Secure Your Stake Before Prices Rise
+WienerAI ($WAI) is an advanced AI-powered trading tool designed to revolutionize crypto trading. Its intuitive interface allows users to identify lucrative trading opportunities quickly, offering seamless transactions without the hassle of transaction fees or the risk of being outmanoeuvred by MEV bots.Currently, WienerAI has embarked on its presale journey, gathering momentum with a robust initial phase that has already raised over $1.54 million out of a targeted $1.88 million. With only days remaining until the next price increment, this is a pivotal moment for potential investors.Each $WAI is priced at $0.000706, with investment opportunities intensifying as the platform gears up for its next strategic phases, which include expanding its reach and launching on global exchange platforms.Don’t miss out on securing your stake in WienerAI—invest now to take advantage of the current rate before it increases.                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
