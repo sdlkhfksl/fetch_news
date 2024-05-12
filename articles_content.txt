@@ -1,192 +1,3 @@
-Ethereum's latest 'low' - How ETH's price action is affecting staking - AMBCrypto
-
-
-
-The number of new ETH staked daily has dropped on the charts
-This can be attributed to the altcoin’s meek price performance
-
-The daily amount of new Ethereum [ETH] staked fell to a year-to-date (YTD) low on 6 May, according to Glassnode’s data. 
-Information from the on-chain data provider revealed that the number of coins transferred to the staking deposit contract address on that day totalled 11,285 ETH (valued at approximately $34 million). This figure marked a 92% decline from the YTD peak of 192,008 ETH coins staked on 28 March.
-Source: Glassnode
-Assessed using a 30-day moving average, the amount of new ETH staked initiated its downtrend on 29 February, with the same since down by over 85%.
-Fall in ETH’s price to be blamed?
-The crash in the daily amount of new ETH staked can be attributed to the altcoin’s price action. In fact, according to CoinMarketCap’s data, ETH was valued at $3,033 at press time, having shed 14% of its value in just 30 days. 
-When ETH holders “lock” up their coins, their rewards are typically paid out in ETH upon maturity or expiration of the staking period. Therefore, if ETH’s value declines, the dollar value of those rewards to which they are entitled also falls. 
-For example, on the leading liquid staking platform Lido Finance [LDO], its staking Annual Percentage Rate (APR) has trended south since 19 April. With a reading of 2.9% at the time of writing, this has dropped by 19% since the aforementioned date, according to data from Dune Analytics.
-Source: Dune Analytics
-This can make staking a less attractive venture to new investors seeking returns.
-Also, the coin’s short-term holders, known to be the major drivers of day-to-day price action, are often paper-handed. This means they are willing to sell at any sight of “trouble.” As such, they may be discouraged from staking their holdings if ETH’s price continues to drop, and they may opt to sell their coins instead.
-
-Read Ethereum’s [ETH] Price Prediction 2024-25
-
-Network validators are unmoved by low price action
-Despite ETH’s current performance, voluntary exits by its network validators have continued to fall. According to Glassnode’s data, after rallying to a YTD peak of 2000 on 2 April, the daily count of validators that have left the network has dropped by 61%. 
-Due to this, the number of active validators on the network has continued to surge. At press time, there were 994,000 active validators on the Ethereum network. 
-
-
-
-
-
-
-----------------
-
-XRP Price Prediction: Crypto Pundit Predicts 46,900% Breakout To $246, Here’s How | Bitcoinist.com
-
-
-								A crypto analyst has predicted a mega-bullish rally for the XRP price, the native token of the XRP Ledger (XRPL). Using trend lines, a technical analysis tool used to identify the direction in which a cryptocurrency’s price is moving, the analyst has projected a breakout to $250. 
-Analyst Predicts XRP Is About To Go Parabolic
-A crypto analyst identified as “The Block Bull,” on X (formerly Twitter) has shared a blueprint of XRP’s price action during this market cycle. The analyst has identified crucial junctures for XRP, including anticipated break-out points, interim peaks and the transition into a bear market as the market cycle completes. 
-
-He has projected that XRP could rise to $250 during this bull cycle, potentially experiencing a 46,900% surge by year-end, with the momentum extending into 2025.
-Sharing a chart depicting XRP’s price movements from 2015 to 2024, the crypto analyst noted several super cycles XRP had experienced. He revealed that XRP had witnessed a breakout in 2018, occurring 36 weeks after the Bitcoin halving and concluding after 77 weeks.
-During the second Bitcoin halving in 2021, the crypto analyst revealed that XRP also underwent another breakout within 36 weeks, reaching an interim peak 48 weeks after Bitcoin halving. Based on this time analysis of the XRP price, The crypto pundit projects a parabolic surge in XRP’s price in the present market cycle, potentially leading to a breakout 36 weeks after the Bitcoin halving event on April 20, 2024.  
-The Block Bull foresees the possibility of XRP experiencing a breakout akin to previous cycles, with a potential interim peak 48 weeks after the Bitcoin halving, specifically on March 24, 2025. Additionally, he suggests that XRP could transition into a bear market phase by October 2025, likely within the first or second week of the month. 
-XRP Price Update
-Currently, 20 days after the 2024 Bitcoin halving event, XRP’s price is trading at $0.51, marking a monthly price decrease of 15.90%, according to CoinMarketCap. The cryptocurrency has failed to witness a significant rally, despite the market’s overperformance at the beginning of the year. 
-While The Block Bull has maintained an optimistic outlook for XRP’s price trajectory in the 2024 bull cycle, several community members hold divergent views. A crypto member who criticized the analyst’s ambitious price target, argues that a more conservative rise to $1 for XRP seems more plausible than a dramatic surge to $250 by the end of the year.
-
-Others have outrightly dismissed the $250 price prediction, highlighting the prevailing pessimism within the broader crypto community concerning the XRP’s price fundamentals. Since the legal clash between Ripple and the United States Securities and Exchange Commission (SEC), the XRP price has declined significantly, struggling to regain its past momentum.
-The cryptocurrency has also been consolidating around the $0.5 price point for months, disappointing most XRP investors and holders who hope for a potential price surge to new all-time highs. 
-
-XRP price trending at $0.51 | Source: XRPUSDT on Tradingview.com
-Featured image from NewsBTC, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-‘Open-source’ CBDCs aren’t going to protect you from government
-
-People are taking notice more each day that central bank digital currencies, or CBDCs, are not worth the risk. Yet, to combat these concerns, some policymakers have been increasingly looking toward open-source coding as a way to offer transparency and perhaps win the public’s trust. But make no mistake, while transparency is welcome, it’s no silver bullet.For those familiar with cryptocurrency, the concept of using open-source code needs no introduction. However, for those that might not be familiar, the concept simply refers to publicly publishing the source code behind a project instead of locking it away as confidential or a trade secret. For example, the code behind Bitcoin (BTC) is free and open for all to see. Making a project open source has many advantages. For instance, doing so opens the doors for external audits. After a careful review, someone may find a vulnerability that wasn’t apparent to the original designers. Or, perhaps more concerningly, someone may find something nefarious embedded deep within the project. Related: 3 trends to think about before Bitcoin's bull run resumesTurning back to the example of Bitcoin, having the code be freely available allows people to verify that the 21 million supply cap is more than just an advertising slogan — it’s embedded within the design. In effect, publishing the code behind a project helps people know who they can (or can’t) trust. Yet, open-source coding is no silver bullet — especially when it comes to the problems that plague CBDCs. Consider what happened in Brazil last year. Brazil’s central bank published the source code for its pilot CBDC and it took just four days for people to notice that the CBDC had tools for surveillance and control embedded within its code. Were this the case with a decentralized cryptocurrency, people could carve out a new path and fork the chain, or simply not use it. But what recourse is there for CBDC users when a CBDC is the epitome of centralized money under government control? People could speak out, but central banks are often steered by unelected officials who do not answer to the public. People could choose an alternative money, but governments often try to stomp out currency competition. So while the transparency is helpful for understanding how the system works, it does little by itself to help citizens who want to change the system.Shifting the focus slightly, the U.S. code offers an illustrative example. Anyone can crack open the U.S. code, look to title 12, chapter 35, section 3413 and section 3414 to see there are 20 different exceptions that allow the government to effectively ignore your right to financial privacy. This transparency is certainly helpful for understanding how the government maintains such an expansive financial surveillance system, but transparency alone is not enough to fix the problem. Another example of why open-source code is not a silver bullet for fixing CBDCs can be seen in Norway where the Norwegian central bank also published the code behind its CBDC project. Yet here the problem is slightly different — it demonstrates that what is open source today may not be open source tomorrow. When dealing with a centralized entity like a national government, that decision can come quickly and without consulting the public. Norway’s central bank acknowledged this point quite explicitly by noting that its current focus in no way represents a long-standing commitment to open-source code.As a final example, the experience in the United States also demonstrates that previous statements do not represent a future commitment to open-source technology. The Federal Reserve has conducted CBDC research and pilots for years. However, one notable project was the collaboration with MIT. Referred to as “Project Hamilton,” this project led to the creation of an open-source CBDC model. Yet, nothing binds the Federal Reserve to the results of Project Hamilton or any open-source model. In fact, the Federal Reserve seems to have all but abandoned the project. Related: Jerome Powell’s pivot heralds a boring summer for BitcoinWe are still seeing the very early stages of CBDC development, but these examples are telling. Policymakers should be commended for embracing transparency, but the public shouldn’t be fooled into thinking that transparency is a panacea that fixes all of the problems posed by a CBDC. Although the use of open-source technology has been one of the cornerstones of cryptocurrency development, people should not lose sight that decentralized cryptocurrency also gives people the power to act on that information. And it is that condition that has created a revolution in the way people think about money and finance. There is no way a CBDC can replicate that benefit. The problems here extend far beyond the often-obfuscated conduct of central banks and go right to the core question of how much power a government should have . Fundamentally, the problem with CBDCs is that they risk centralizing money more than ever before, so much so that it risks giving the government virtually unlimited power over citizens’ economic choices. Nicholas Anthony is a guest columnist for Cointelegraph and a policy analyst at the Cato Institute’s Center for Monetary and Financial Alternatives. He is the author of The Infrastructure Investment and Jobs Act’s Attack on Crypto: Questioning the Rationale for the Cryptocurrency Provisions and The Right to Financial Privacy: Crafting a Better Framework for Financial Privacy in the Digital Age.This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
-
-
-----------------
-
-Cardano ($ADA) Price Could Surge Over 1,500% in Near Future, Analyst Says | Cryptoglobe
-
-
-                                
-A popular cryptocurrency analyst known as Javon Marks on the microblogging platform X (formerly known as Twitter), has recently suggested that the price of the native token of smart contract platform Cardano ($ADA) could surge over 1.500% in the near future.
-
-
-
-In a post shared with their nearly 40.000 followers, the analyst noted that the price of Ada has showed “major progress since breaking the resisting trend” surging more than 200$ toward “its first target at $2.7709,” with a recent pullback potentially “streghtening them for even more climbing.”
-
-
-
-The analyst added that if the breakout holds ADA could see a potential further upside of over 460% to reach its target. Adding that based on historical data it could go much higher, pointing to the $7.8 mark as a possibility. That mark would represent a rise of over 1.500% for the cryptocurrency.
-
-
-
-
-
-
-
-Another cryptocurrency analyst, known as Trend Rider on the microblogging platform, said that the price of ADA is holding onto its support level and if it manages to do so over the next one to two weeks, bears will get tired and the cryptocurrency’s price could bounce.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-Cardano’s native token Ada is at the time of writing trading at $0.45 after losing over 2% of its value over the last 24-hour period and more than 23% over the last 30 days amid a wider cryptocurrency market correction.
-
-
-
-Nevertheless the Cardano community has kept on building, with the number of its Plutus V2 smart contract growing by over 1,000 in a single month even as the cryptocurrency market corrected.
-
-
-
-The number of smart contracts on Cardano surpassed 1,000 back in January 2022 after the price of ADA exploded with the rollout of the widely anticipated Alonzo hard fork, which brought smart contracts into the network, allowing it to compete with other blockchains such as the BNB Chain ($BNB), Ethereum ($ETH), and Solana ($SOL).
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
-Shiba Doge Hybrid (SHIDOGE) Will Surge 8,000% as MEXC Listing Announced, as Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-Shiba Doge Hybrid (SHIDOGE) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Shiba Doge Hybrid (SHIDOGE), a new Solana memecoin that was launched this week, is poised to explode over 8,000% in price in the coming days.
-
-
-
-
-This is because SHIDOGE has announced its first centralized exchange listing, which will be on MEXC.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, Shiba Doge Hybrid (SHIDOGE) can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Shiba Doge Hybrid (SHIDOGE) could become the next viral memecoin.
-
-
-
-To buy Shiba Doge Hybrid on Raydium or Jupiter ahead of the MEXC listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for SHIDOGE by entering its contract address – 797CmcxqkLZaSjMd7MdyNZ9swuSzaGdYWkJ65jehiXWa – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like SHIDOGE.
-
-
-                
-
-                
-
-----------------
-
-Will OpenAI Let ChatGPT Make Porn? AI Maker Says It Depends - Decrypt
-
-Leading AI developer OpenAI riled up the tech world and the mainstream press alike on Thursday when it introduced a new model specification that many interpreted to mean that its wildly popular generative AI tools would be allowed to generate not-safe-for-work adult content.“We believe developers and users should have the flexibility to use our services as they see fit, so long as they comply with our usage policies,” OpenAI wrote. “We're exploring whether we can responsibly provide the ability to generate NSFW content in age-appropriate contexts through the API and ChatGPT.”In its announcement, OpenAI also reiterated that its current policy prevents ChatGPT from serving up NSFW content, described as content that would not be appropriate in "a conversation in a professional setting, like erotica, extreme gore, slurs, and unsolicited profanity."Nonetheless, the idea that OpenAI was contemplating lifting restrictions on the creation of pornography raised eyebrows. In retrospect, an Open AI product lead tells Decrypt, the company could have better explained what it was “exploring.”“I think what I would love to do—based on the feedback and the reaction, in the next version we share—is be more precise about what some people's definition of NSFW content and the taxonomy here," OpenAI product lead for model behavior Joanna Jang said, noting that NSFW could mean anything from written profanity to AI-generated deepfake images.As for what specific material would be allowed under a more permissive stance, Jang told NPR that it “depends on your definition of porn.”She stressed that deepfakes are absolutely off the table."Following applicable laws and protecting people's privacy, we thought that would cover it—but we should be clear that we are not in it for creating AI deepfakes or AI porn," Jang told Decrypt. "That is just not something that we even should have the time or bandwidth to be prioritizing when there are more important problems to be solved.”In addition to blocking NSFW content and ensuring legal compliance, the OpenAI model specification includes several other rules that ChatGPT is designed to follow, including not providing hazardous information, respecting creators and their rights, and protecting people’s privacy.Currently, OpenAI’s ChatGPT Plus—which includes Dall-E 3 for images and GPT-4 for text—will not allow users to generate overtly sexual or gory images or text. When asked to do so, ChatGPT will respond that the request violates its terms of service. As a result, Jang points out that the web is rife with complaints from OpenAI users that the company is censoring them."There's a lot of criticism of censorship and what have you, and a lot of that discussion is conflating—to no one's fault—what is OpenAI's policy versus what is actually not our policy,” Jang said. “Are these models behaving that way, even though it goes against the guidelines?"As Jang explained, OpenAI published the spec to lay out ideal model behaviors, focusing on legal compliance and avoiding NSFW content while embracing transparency.“We want to bring more nuance to this discussion because right now—before the model spec—it was, ‘Should AI crate porn or not?’” Jang said. “And I'm hoping that through the model spec, we can actually have these conversations.”Again, this is why I wish I had actually put down [a framework] so that we could have kickstarted this conversation even a day earlier,” she added.For mental health experts, the prospect of popular AI platforms moving into the realm of pornography and adult content is troubling.“In the field of sex and porn addiction, with AI-generated pornography, we are starting to see an increase in addictive behaviors,” Brandon Simpson, a behavioral health specialist at the Men’s Health Foundation, told Decrypt. “Since AI-generated pornography creates the unique and ever-growing intensity needed to fulfill a dopamine response, people are diving in and replacing it with human interactions, which leads to levels of social anxiety, performance anxiety, and a variety of other sexual-related dysfunctions.”Even with guardrails put in place by OpenAI and other major generative AI platforms from Google and Meta, there is strong demand for AI-generated porn, and myriad ways to harness the technology to depict an unsuspecting victim—or generate child sexual abuse material (CSAM)."The spec is only part of our story for how to build and deploy AI responsibly,” an OpenAI representative later told Decrypt. ”It's complemented by our usage policies, how we expect people to use the API and ChatGPT”—ultimately intended to demonstrate transparency and “to start a public conversation about how it could be changed and improved.”OpenAI has invested heavily in improving the privacy and security of its suite of AI tools, including hiring cybersecurity red teams to find vulnerabilities on its platforms. In February, OpenAI and Microsoft announced a joint operation blocking Chinese and North Korean hackers from using ChatGPT, and OpenAI joined with Google and Meta last month in a pledge to prioritize child safety in the development of its AI models.Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
 Zombie Coin to Surge 8,000% After Solana Launch, as it Looks to Challenge Shiba Inu and Dogecoin
 
 
@@ -11536,3 +11347,86 @@ In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiase
 
 
 
+
+
+----------------
+
+This Week on Crypto Twitter: Fantasy Top Tops the Charts, Trump Courts Crypto - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsIllustration by Mitchell Preffer for DecryptThis week, a gamified competition among Crypto Twitter influencers generated a frenzy of posts and millions in profits while major public figures like Tom Brady and Donald Trump waded back into crypto waters. Fantasy Top—an Ethereum NFT game that pits social media fan bases against each other in a fantasy football-like competition—made waves this week as tribes of Crypto Twitter users furiously commented and reposted to support their chosen influencers. The game paid out $1.25 million to creators this week, plus potentially millions more in Blast Gold, as a cut of the game’s success. As the first round of the game concluded this week, influencers took victory laps alongside their followers; several accounts shared their bounties with the fans who pushed them over the top.  While most of the buzz surrounding Fantasy Top was positive, given its incredible profitability, others were more skeptical given the long history of “SocialFi” projects with no apparent use case other than generating speculative interest, which typically collapse after stalling.Meanwhile, in the real world, Tom Brady caught some rough jokes at his Netflix roast earlier this week over his current commitment to crypto and former ties to the failed FTX exchange. Many crypto users still welcomed the brief mainstream moment in the spotlight as a sign that crypto can still climb higher.The biggest mainstream news to impact crypto came on Wednesday, however, when former president Donald Trump hosted a dinner party for holders of his NFTs at his Mar-a-Lago resort in Florida. At the gathering, Trump declared his intent to embrace crypto in the United States if re-elected, sending many crypto users into a frenzy. At the same event, another NFT holder asked Trump about BODEN, a meme coin mocking President Joe Biden. Simply by making a quip about it—saying he didn’t think the coin sounded like a good investment—BODEN surged the following day.Remarkably, users of the crypto betting site Polymarket had already waged nearly $100,000 on whether Trump would reference the coin by July. But read the fine print: Trump had to say the word ‘Boden,’ which he failed to. So close, yet so far. For all the frivolity, Trump's event was a stark contrast to Pres. Joe Biden backing the SEC at the start of the week, and many commentators saw a serious election wedge issue developing. “Crypto voters will be heard this election,” former TIME and Bloomberg tech journalist and MoonPay exec Keith Grossman tweeted. “What is really needed is not division but rather a clear regulatory framework that is NOT politicized.”Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Crypto wallet adds pay-per-use access to premium subscription AIs
+
+
+The popular crypto wallet, Cake Wallet, has added support to a pay-per-use artificial intelligence (AI) platform that allows access to premium APIs like ChatGPT-4, Dall-E 3, Claude 3 Opus, and more. Finbold exclusively talked to the companies’ founders about using cryptocurrencies for payments in their services.
+Vik Sharma, founder of Cake Wallet, announced the implementation of NanoGPT in a post on X on May 12. The AI application is available on Cake’s Marketplace, below the Cake Pay service for pre-paid gift cards.
+Cake Wallet’s user interface, Marketplace, NanoGPT. Source: Vik Sharma on X
+Now, Cake Wallet users can pay-per-use premium AI chatbots directly from their cryptocurrency self-custody address with Nano (XNO). Moreover, it is possible to swap other supported cryptocurrencies in-app, such as Bitcoin (BTC), Monero (XMR), Litecoin (LTC), Bitcoin Cash (BCH), Polygon-based USDT, USDC, and others.
+
+
+
+“AI chatbots have become very popular and, in Cake Wallet, we believe cryptocurrencies like the ones supported by the app can be a great way to open up access for them [AI chatbots], more efficiently and privately – as we are fully committed to these attributes as a company. Also, nano is perfect for this micropayment use case due to having zero fees.”
+– Vik Sharma, for Finbold
+
+What is NanoGPT?
+NanoGPT is a cryptocurrency service connected to multiple artificial intelligence APIs bridging crypto payments to a pay-per-use model. This allows users to avoid keeping numerous premium subscriptions to access different AIs according to their specific needs.
+NanoGPT user interface featuring multiple AIs. Source: Finbold
+Notably, Finbold reported about the tool when it was first launched as a simple Telegram bot that supported only ChatGPT-4. Thus, we again talked to NanoGPT’s founder, Mira Hurley, about the recent partnership with Cake Wallet.
+
+“NanoGPT has improved a lot since it was a simple Telegram bot. We’ve moved from a single model to users being able to select from a range of text and image models; you can continue any old conversation at any time; users can now track their usage to see to what extent our service is cheaper than subscription; we’ve added support via discord, email, and Twitter; and have added just a ton of quality of life improvements.”
+– Mira Hurley, for Finbold
+
+As of this writing, Hurley was giving away small amounts of XNO for new Cake Wallet users to try the tool for free.
+
+Subscriptions vs. pay-per-use services using crypto wallets
+Interestingly, pay-per-use services are increasingly becoming preferred alternatives to the popular subscription models broadly used by many industries. This model looks at feeless and instant crypto payments as a natural way to make it possible.
+In particular, access to premium AIs like ChatGPT-4, Dall-E 3, Claude 3 Opus, and others has earned the attention of developers and companies like Cake Wallet, NanoGPT, and PayPerQ. The latter offers a similar pay-per-use service while taking Bitcoin payments via the Lightning Network, as reported by Finbold in April.
+Should users start preferring this new model, companies will need to adjust their offerings and payment options to adapt. However, it is still soon to tell where the pay-per-use concept will lead the AI industry and if crypto payments will be part of that change. 
+
+
+----------------
+
+Dormant Bitcoin Addresses Emerge with $60 Million Jackpot
+
+Emmanuel Omwanda is a blockchain reporter who dives deep into industry news, on-chain analysis, non-fungible tokens (NFTs), Artificial Intelligence (AI), and more. His expertise lies in cryptocurrency markets, spanning both fundamental and technical analysis.
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Funding Wrap: Arbelos raises $28M for derivatives-focused exchange - Blockworks
+
+
+Crypto’s love affair with derivatives drags on. 
+In the week’s largest funding round, Arbelos Markets raised $28 million for a principal trading firm specializing in crypto derivatives. Dragonfly led the seed round, which also drew participation from FalconX, Circle Ventures, Paxos and Deribit, among others.
+Derivatives are financial contracts that base their value on an underlying asset. Put and call options are examples, as are futures contracts. DeFi pioneered the concept of perpetual futures, a crypto-native innovation that lets futures contracts be traded without an expiration date. Huge leverage, huge risk. 
+But Arbelos is less degen and more institutional. In a press release, co-founder and CEO Joshua Lim called it a “smart principal risk-taker with a strong balance sheet and a flexible product.” Former FTX.US CEO Brett Harrison is building a product in a similar vein. 
+Read more: Ex-FTX US exec Brett Harrison’s startup raises $12M for derivatives brokerage
+But Arbelos is not a brokerage. It’s a firm that provides liquidity and infrastructure for the trading of assets including derivatives. The firm will use the fresh funds to “improve its quant trading infrastructure, hire top talent, and expand its access to new markets and its range of products,” Arbelos said in a press release.
+Arbelos seems to be pitching itself as more trustworthy and grown-up in contrast to the crypto firms that played fast and loose with risk controls and blew up the market in 2022. 
+“Post the collapses of last cycle, Arbelos is rebuilding the DNA of the modern primary dealer, and in the process they’re returning trust & transparency to the space at large,” Dragonfly’s Omar Kanji wrote on X.
+Founders Fund backs zero-knowledge proof startup
+Peter Thiel-backed Founders Fund led a $13.2 million round in Lagrange. Archetype Ventures, 1kx, Maven11, Fenbushi Capital, Volt Capital, CMT Digital and Mantle Ecosystem Fund also contributed.
+Lagrange says it’s building a “hyper-parallel ZK coprocessor.” In plainer terms, Lagrange is trying to apply privacy-preserving zero-knowledge proofs in a way that can handle tons of data — as blockchains tend to do. 
+Lagrange has launched zk light clients for Ethereum rollups as an actively validated service on EigenLayer. 
+Other notable funding news
+
+AgriDEX, a platform for the tokenization of agricultural commodities, disclosed a $5 million raise. 
+Blockchain data access protocol Lava Network announced a strategic $11 million raise. 
+Solana-based game developer Seeds Labs raised $12 million.
+
+
+Start your day with top crypto insights from David Canellis and Katherine Ross. Subscribe to the Empire newsletter.
+
+
+----------------
+
+Will the Stock Market Crash in 2024 (or is there more upside)? | Gareth Soloway - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
