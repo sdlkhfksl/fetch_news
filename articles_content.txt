@@ -1,895 +1,3 @@
-Banking Giant Wells Fargo Holds Spot Bitcoin ETF on Behalf of Clients, According To New SEC Filing - The Daily Hodl
-
-
-								US banking giant Wells Fargo is now holding a spot Bitcoin ETF on behalf of its clients, according to a new filing with the SEC.
-The bank’s Form F13 filing, which requires institutional investment managers to disclose their holdings, says Wells Fargo is holding 2,245 shares of the Grayscale Bitcoin Trust (GBTC), which was converted to an ETF in January.
-
-
-
-
-
-
-
-
-
-
-The total value of those shares is $121,207 at time of publishing – a sliver of the firm’s approximately $2 trillion in assets under management.
-But the revelation is significant given the resistance that banks have historically shown toward customers who want exposure to the digital asset industry.
-This week, the US House of Representatives passed a bill that would overturn SEC guidelines that disincentivize banks from holding crypto by requiring them to list the assets as liabilities on their balance sheets.
-The bill passed with 207 votes from Republicans and 21 votes from Democrats, passing 228 votes to 182.
-Republican Representative Mike Flood, who drafted the resolution, said it’s designed to “ensure consumers are protected by removing roadblocks that prevent highly regulated banks from acting as custodians of digital assets.”
-The Biden Administration has vowed to veto the law if it passes the Senate, saying it could “inappropriately constrain the SEC’s ability to ensure appropriate guardrails and address future issues related to crypto-assets including financial stability.”
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Featured Image: Shutterstock/nuttapon averuttaman
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-What Are Crypto Trading Bots and How to Use Them? | Cryptoglobe
-
-
-                                
-AI and machine learning advancements have greatly enhanced trading bots, enabling them to navigate complex market dynamics and predict trends more accurately. The crypto market’s volatility and profit potential have surged demand for bots, which execute trades faster than humans. 
-
-
-
-Crypto bots have become more sophisticated and competitive as demand for cryptocurrency assets soars. With the increased demand, platforms have begun to offer even pre-built, easy-to-set-up bots that cater to varied trading styles, preferences, and necessities.
-
-
-
-This article will guide you on everything you need to know about crypto trading bots, including how they work, how to set up or install a pre-built bot, the pros and cons, and much more.
-
-
-
-Without further ado, let’s get to it.
-
-
-
-How do Crypto Trading Bots Work?
-
-
-
-Artificial Intelligence (AI) is the backbone behind crypto trading bots. They use AI to:
-
-
-
-Analyze market data and trends and adjust positions based on market conditionsDetect trading signalsManage portfoliosExecute trades based on predetermined criteria or patternsAnd much more
-
-
-
-By harnessing AI and machine learning technologies, these bots can process extensive data from diverse sources like social media, news platforms, and cryptocurrency markets to forecast price movements accurately and execute trades accordingly.
-
-
-
-In summary, crypto trading bots can make a trader’s life easier by offering several key
-
-
-
-functionalities, such as portfolio management, algorithmic order execution, and leveraging insights from market analysis to inform trading decisions.
-
-
-
-It’s also worth pointing out some cryptocurrency trading bots are built-in on cryptocurrency exchanges. These are often less advanced systems that allow traders to dollar-cost average (DCA) into a position, automatically buy a token whenever a price drops to specific levels, or bots that trade on grids.
-
-
-
-Installing and Using Crypto Trading Bots
-
-
-
-Crypto trading bots can be built from scratch using reputable companies’ Application Programming Interfaces (APIs) or bought and installed without too many technical hurdles.
-
-
-
-Either way, the integration of AI makes crypto trading bots a valuable resource for traders; they can operate round the clock in a market that never sleeps, execute trades at speeds surpassing human capabilities, and make rational decisions without emotional biases.
-
-
-
-Using Pre-Built Crypto Trading Bots
-
-
-
-If building your trading bot seems daunting, you can opt for a pre-built solution:
-
-
-
-Sign Up: Register for a reputable trading bot platform that offers pre-built bots tailored to different trading strategies.
-
-
-
-Set Up the Bot: Follow the platform’s instructions to configure your bot according to your preferred trading strategy. Customize parameters such as trading pairs, risk management settings, and trade execution rules.
-
-
-
-Connect Your Exchange Accounts: Link your bot to your exchange accounts by entering the API keys with the appropriate permissions. This will allow the bot to execute trades on your behalf.
-
-
-
-Launch and Monitor: Once your bot is configured, launch it and closely monitor its performance, especially during the initial stages. Be prepared to adjust your strategy based on real-time market data and bot performance metrics.
-
-
-
-Before choosing a crypto bot, it’s advisable to search for reputable platforms and keep your API keys confidential to protect your assets from potential threats. Always DYOR —do your own research.
-
-
-
-Building Your Own Crypto Trading Bot
-
-
-
-With the right tools and strategies in place, a well-designed trading bot can help you navigate the complexities of cryptocurrency trading and achieve your investment objectives. To build your crypto trading bot, follow these steps:
-
-
-
-Choose a Programming Language: Select a language like Python, JavaScript, or C++ with robust APIs and market data processing libraries.
-
-
-
-Integrate Crypto Exchanges: Create exchange accounts, obtain API keys, and enable your bot to interact with exchange APIs for trading.
-
-
-
-Define Bot’s Architecture: Plan how your bot will interact with APIs, process data, and execute trades, considering factors like latency and security.
-
-
-
-Select a Trading Strategy: Align your bot with a strategy such as arbitrage or trend following, determining its logic and algorithms.
-
-
-
-Write and Test the Bot: Code your bot according to your chosen strategy and thoroughly test it using historical data for backtesting.
-
-
-
-Connect to an Exchange: Use obtained API keys to set up a connection with your chosen exchange, ensuring necessary permissions.
-
-
-
-Deploy the Bot: Launch your bot for trading, closely monitoring its performance and adjusting strategies as needed.
-
-
-
-Optimize and Maintain: Regularly optimize your bot with current market data, adjusting strategies and updating software to ensure security and performance.
-
-
-
-Crypto Trading Bot Examples
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-AI trading bots offer traders a potent means to automate strategies and capitalize on market opportunities efficiently, though they carry risks like technical complexity and security concerns.
-
-
-
-Pionex
-
-
-
-Recognized as the pioneer with built-in crypto trading bots, Pionex offers a range of bots like the Grid Trading Bot, Infinity Grid Bot, and DCA bot, all free to utilize. Its reputation lies in its user-friendliness, robustness, and cloud-based security, making automatic cryptocurrency trading effortless.
-
-
-
-
-
-
-
-Cryptohopper
-
-
-
-One of the most adaptable crypto trading bot globally, Cryptohopper empowers users to automate their trading strategies. Its intuitive interface caters to novices and experts alike. Cryptohopper prioritizes security and privacy, collaborating closely with exchanges and regulatory bodies.
-
-
-
-
-
-
-
-3Commas
-
-
-
-A favored choice, 3Commas provides tools for short, long, and futures trading across numerous major exchanges. Its features include 2FA, IP whitelisting, and educational resources for newcomers, ensuring a comprehensive trading experience.
-
-
-
-
-
-
-
-Shrimpy
-
-
-
-Offering tailored features and analytical insights for performance tracking, Shrimpy excels in delivering a seamless user experience.
-
-
-
-
-
-
-
-Gunbot
-
-
-
-Ideal for those seeking customization, Gunbot caters to specific trading needs such as overall performance and technical day trading, making it a standout option in the market.
-
-
-
-
-
-
-
-The Pros & Cons of Crypto Trading Bots
-
-
-
-Advantages of utilizing crypto trading bots include enhanced efficiency and speed, emotion-free trading devoid of human biases, and continuous 24/7 market monitoring.
-
-
-
-However, there are risks and limitations associated with these bots. Technical complexity may pose challenges, particularly for beginners.
-
-
-
-Security risks exist due to direct asset access, potentially leading to scams or fund losses from malicious codes. Additionally, the volatile nature of cryptocurrency markets necessitates frequent strategy adjustments, and the effectiveness of a bot depends on its programming.
-
-
-
-Closing Thoughts
-
-
-
-Crypto trading bots are popular trading tools, handy when it comes to analyzing trends, executing trades automatically, and managing portfolios effectively. These bots use AI to process extensive data from diverse sources, enabling accurate price forecasts and informed decisions.
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
-Mastercard Partners with Top U.S. Banks to Explore Blockchain for Streamlined Banking Settlements
-
-
-
-                    
-
-Mastercard has partnered with leading U.S. banks such as Citigroup, Visa, and JPMorgan to explore distributed ledger technology for banking settlements through tokenization. 
-
-
-
-This initiative, dubbed the Regulated Settlement Network (RSN), aims to unify the settlement processes of diverse financial assets like Treasurys and investment-grade debt on a single platform.
-
-
-
-
-By tokenizing these assets, RSN intends to streamline settlements on a shared ledger, enhancing efficiency across the system.
-
-
-
-The testing phase, which follows a 12-week pilot that began in late 2022, originally concentrated on managing cross-border and domestic dollar transactions between banks. 
-
-
-
-The current focus has shifted to simulating settlements in U.S. dollars, looking to optimize the efficiency of cross-border transactions while minimizing risks like fraud and errors.
-
-
-
-
-READ MORE: Grayscale Halts Four-Month Outflow Streak with Positive Inflows into Bitcoin ETF
-
-
-
-Mastercard’s Raj Dhamodharan emphasized the potential of this technology, stating, “application of shared ledger technology to dollar settlements could unlock the next generation of market infrastructures — where programmable settlements are 24/7 and frictionless.”
-
-
-
-As part of the ongoing proof-of-concept trials, the RSN has welcomed new participants, including the USDF Consortium directly, and Tassat Group as a contributor. 
-
-
-
-Consulting firm Deloitte has also joined to provide advisory services, with the Securities Industry and Financial Markets Association serving as the program manager.
-
-
-
-
-In total, ten major banking institutions are involved in this pioneering effort, including Citi, JPMorgan, Mastercard, Swift, TD Bank N.A., U.S. Bank, USDF, Wells Fargo, Visa, and Zions Bancorp. 
-
-
-
-Additionally, six other entities such as the MITRE Corporation, BNY Mellon, Broadridge, the DTCC, ISDA, and Tassat Group will contribute their specialized knowledge to the project, aiming to reshape how financial transactions and settlements are conducted in the banking sector.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Bitcoin’s big change: Miner volume share drops post-halving and that means... - AMBCrypto
-
-
-
-The volume of Bitcoins contributed by miners has dropped since 19 April
-This has fueled the low rate at which new Bitcoins are created and entered into circulation
-
-The share of Bitcoin’s [BTC] volume contributed to by the miners on its network has declined steadily since the last halving event, according to IntoTheBlock’s latest finding.  
-Bitcoin’s last halving event occurred on 19 April. Aiming to reduce the amount of BTC in circulation, the event halved miner rewards from 6.25 BTC to 3.125 BTC.
-
-
- 
-Due to the reduction in the total amount of coins received by miners on the Bitcoin network, their share of the coin’s total volume often craters after a halving event. 
-IntoTheBlock noted further that the decline in BTC miner rewards has also slowed the rate at which new BTCs are added to the coin’s total supply. In fact. the on-chain data provider found that the prevailing inflation rate was around 1.66% on the charts. 
-Mining activity on the Bitcoin network
-Since the halving event, BTC’s Miner Supply Ratio has dropped slightly, according to CryptoQuant’s data. This metric measures the proportion of new coins added to BTC’s total supply by miners.
-When it declines in this manner, the share of new coins being added to BTC’s total supply by miners on the network falls. At press time, the value of this metric was 0.09, having fallen by 0.1% since 19 April.
-Source: CryptoQuant
-Furthermore, there has been a minor decline in BTC Miner Reserves since the conclusion of the halving event. With a figure of 1.8 million BTC at press time, this has fallen by 0.11% since 19 April.
-This metric measures the amount of coins held in affiliated miners’ wallets. Its value indicates the reserves that miners are yet to sell.
-
-Read Bitcoin’s [BTC] Price Prediction 2024-25
-
-This is evidence of the fact that although some miners on the network have sold some off their coin holdings to book profits after the halving event, there has not been any significant selling activity. 
-This was confirmed by the drop in the coin’s Miner to Exchange Flow. Assessed using a seven-day moving average, this has cratered by 76% since the last halving event. 
-Source: CryptoQuant
-Finally, the Miner to Exchange Flow metric measures the amount of BTC flowing from miners to exchanges. When this metric declines, it means that miners are selling fewer coins. 
-The decline noted in BTC’s Miner to Exchange Flow revealed that the miners on the coin’s network have continued to maintain a bullish outlook, despite its recent price performance. 
-
-
-
-
-
-
-----------------
-
-Bitcoin Down 20% From March But Glassnode Analysts Are Very Bullish: Here's Why
-
-
-																Bitcoin might have posted the deepest correction since the FTX crash in November 2022, dipping over 20% from its all-time high of around $74,000. However, Glassnode analysts, while sharing their preview on X, remain cautiously optimistic. 
-BTC corrections | Source: Glassnode via X
-Bitcoin Drops 20% From March High, But Glassnode Is Bullish
-Glassnode notes that the Bitcoin “macro uptrend still appears to be one of the more resilient in history” and that though corrections have been made, they are relatively shallow. With this position, the blockchain analytics platform confirms that the coin has improved with liquidity rising, reducing volatility.
-
-	Related Reading
-
-
-
-Following the correction from March 2023 highs, Bitcoin has struggled to maintain the uptrend. So far, BTC has support at around $60,000, but a key reaction level to watch is $56,500 on the lower side. On the flip side, if prices recover, breaking above $66,000, BTC might rally, even breaching $72,000 and later $74,000.
-Bitcoin price trending sideways on the daily chart | Source: BTCUSDT on Binance, TradingView
-However, for bulls to find support and prices to rally, triggers would be from fundamental factors. Though price action structure might offer support, price catalysts are, as history shows, related to market events. 
-As Glassnode observes, the robust macro trend, bullish for Bitcoin, has tapered volatility, helping maintain the uptrend. The increasingly shallow corrections, as the blockchain analytics platform notes, point to a more mature market backed by more institutions.
-Whales Accumulating As Institutions Eye BTC
-Confidence remains high. On-chain data reveals that one whale has taken advantage of the relatively low prices and the correction to stack coins. 
-In the last week, the whale bought over 100 BTC, pushing the amount of coins bought this month to over 7,257 BTC. This aggressive accumulation suggests that the whale, even at the current multi-year high, Bitcoin could be undervalued.
-BTC whale accumulating | Source: Analyst on X
-There could be more Bitcoin tailwinds incoming. For instance, this week, former United States president Donald Trump started accepting crypto donations in the ongoing campaign. This shift of stance has been bullish since Trump dismissed Bitcoin earlier. 
-While this happens, European regulators appear open to approving Bitcoin as an investable asset within Undertakings for Collective Investment in Transferable Securities (UCITS) funds. If this goes through, it could unlock more billions into Bitcoin from European institutions. 
-This move is massive, considering that banking giants like Morgan Stanley and BNP Paribas are already exploring ways for their clients to invest in BTC.
-Related Reading: Bitcoin Short Term NUPL Value Turns Negative, What This Means For Price
-From a macro level, the rising M2 money supply in the United States amid concerns from the United States Federal Reserve that inflation is high might further buoy Bitcoin demand. BTC, like gold, is considered a safe haven, a hedge against inflation since its supply is designed to be deflationary. 
-Feature image from DALLE, chart from TradingView
-																								
-															
-
-
-						
-
-----------------
-
-BlockFi Announces Complete Website Shutdown, Selects Major Exchange For Fund Withdrawals | Bitcoinist.com
-
-
-								BlockFi, a centralized crypto lender, recently shut down its web platform and selected Coinbase as its distribution partner for customer fund withdrawals. The move comes as BlockFi aims to ensure a swift transition for eligible customers following the closure of its platform.
-BlockFi Selects Coinbase As Exclusive Partner
-According to the company’s press release on the matter, eligible BlockFi clients will have the option to access their crypto withdrawals via Coinbase after the withdrawal request deadline of April 28, 2024. 
-
-Crypto-eligible customers who missed the withdrawal deadline or did not complete an identity verification request by Friday, May 10, will have their assets made available for withdrawal in kind if they create or already have an open and approved Coinbase account. If clients choose not to create an approved Coinbase account, their in-kind distribution may be liquidated to cash as planned.
-It should be noted that the crypto lender will exclusively collaborate with Coinbase for crypto distributions and advises clients to remain cautious of potential scams from unauthorized third parties targeting BlockFi clients.
-Furthermore, the BlockFi web platform will be permanently shut down in May 2024. The exact date will be communicated separately to clients in the upcoming weeks. 
-To ensure the preservation of their transaction history, tax forms, and other important data, BlockFi encourages all clients to download the required information from the platform before the shutdown date. 
-Distributions Underway For Wallet Holders
-BlockFi’s decision to shut down its web platform follows its filing for Chapter 11 bankruptcy protection in the US District of New Jersey. The company faced challenges due to the collapse of the Three Arrows Capital (3AC) hedge fund, which impacted its operations. 
-However, BlockFi has been actively working to recover funds from FTX and other counterparties, including reaching an agreement with the bankrupt crypto exchange and Alameda Research estates to settle substantial claims.
-
-According to the crypto lender’s founder Zac Prince, BlockFi’s focus remains on recovering as much value as possible for its clients despite the bankruptcy proceedings. 
-Prince suggests that distributions have already occurred for BlockFi wallet account holders, with interest account clients expected to receive distributions once funds are recovered from the FTX estate. 
-With the ongoing estate distributions and positive trends in FTX estate recoveries, the lender’s founder has expressed a sense of closure and is ready to embark on new professional endeavors. 
-Having kept a significant amount of personal crypto at the company, Prince states that he relinquished recovery rights to increase the recovery pool for clients and has committed to providing ongoing unpaid cooperation to support the BlockFi estate.
-The daily chart shows the total crypto market cap’s valuation at $2.1 trillion. Source: TOTAL on TradingView.com
-Featured image from Shutterstock, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-Ethereum Is Down 30% From 2024 Highs: Why Is This Analyst Super Bullish?
-
-
-								While Ethereum struggles to regain the Q1 2024 momentum, currently tethered close to the psychological $3,000 level, one trader remains bullish. 
-Taking to X, the analyst posts several reasons to negate concerns by skeptics even with the coin trading 30% from March 2024 highs when prices broke above $4,000. By this take, doubts about future gains could be unfounded as they paint an overly pessimistic outlook for the second most valuable cryptocurrency. 
-Ethereum Is Under Pressure: Here’s Why
-Ethereum is in a bearish breakout formation at press time following sharp losses in mid-April. Although there are hints of strength, the rejection from $2,800 wasn’t enough to assuage fears. 
-Ethereum trending sideways on the daily chart | Source: ETHUSDT on Binance, TradingView
-As prices range within a $500 zone capped at $2,800 and $3,300, bulls have a chance, though sellers could also press lower, continuing the losses of April.
-There are multiple reasons to support the bearish forecast. Some investors, the analyst observes, are still hesitant to get exposure to ETH because of Bitcoin and its swelling layer-2 ecosystems. 
-
-The launch of the Runes Protocol saw activity flow to Bitcoin, pushing transaction fees on the world’s most valuable network. Trading fees have fallen, as seen on YCharts on May 10.
-Bitcoin transaction fees | Source: YCharts
-Beyond this, there are concerns that the United States Securities and Exchange Commission (SEC) might classify ETH as a security, leading to stricter regulations. Moreover, Solana, a modern high-throughput blockchain, is seen as a stiff competitor considering its surge in activity, mostly from meme coin projects. 
-Analyst: Here’s Why ETH Will Rise
-Though the threat from Solana and other low-fee and scalable platforms, on top of the United States SEC concerns, is real, the analyst is upbeat. Explaining in a bid to dismantle cause for worry, the analyst dismisses the Bitcoin layer-2 ecosystem as “trash.” Though popular, the analyst thinks it will always be inferior to Ethereum’s in functionality and practicality. 
-Beyond this, the analyst adds that though the United States SEC threat exists, it’s unlikely to be successful. Even if it is, powerful political and economic forces like Wall Street will continue to support Ethereum’s growth. 
-Thus far, Wall Street players like BlackRock have expressed interest in issuing spot Ethereum exchange-traded funds (ETFs), which has boosted confidence.
-Related Reading: XRP Ledger Validator Launched By Japanese Financial Titan: Details
-Moreover, the analyst downplayed Solana’s strengths, suggesting its scalability and growth might be exaggerated. 
-Specifically, the analyst noted the existence of equally superior layer-2 scaling solutions for the Ethereum-like Base. From a security perspective, Solana also has limited client diversity, negatively impacting the network reliability. 
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Turbo crypto price prediction - Key levels to watch after its 40% hike - AMBCrypto
-
-
-
-TURBO rallied by over 40% on Thursday against an overall choppy market 
-Market sentiment was positive, but can it drive bulls further? 
-
-Most memecoins decoupled from the broader market and rallied on Thursday. Jumping on the trend, Turbo Crypto, an AI-inspired and frog-themed meme, also surged by over 40% and broke above its recent price consolidation range. 
-However, the bullish momentum had tapered off at the time of writing. So, what are the key levels to consider next? 
-Turbo crypto price prediction: What are the next targets to watch?
-Source: TURBO/USDT on TradingView
-A Fibonacci retracement tool was placed between the January lows of $0.0002129 and 2024 highs of $0.001488. The Fib tool revealed that TURBO was range-bound between the 61.8% – 78.6% placeholders of mid-April and early May. 
-The memecoin broke above the range during Thursday’s rally, effectively flipping the market structure to bullish. However, despite a slight tapering of upswing momentum at press time, bulls still had the market leverage. 
-The RSI (Relative Strength Index) was above average, indicating that buying pressure was still strong. On the contrary, the fluctuating CMF (Chaikin Money Flow) could derail a stronger and sustained upside move because of muted capital inflows. 
-Sidelined bulls could wait for a retest on the 50% or 61.8% Fib levels for re-entry positions, with bullish targets at 38.6% or 23.6% Fib levels based on risk profile. 
-However, a drop back to the previous range, especially below the blue 50-EMA (Exponential Moving Average), could embolden sellers. 
-Turbo price prediction: A liquidity grab in play?
-Source: Coinglass
-Coinglass’s data showed considerable liquidity on both price extremes. The liquidity map tracks the stop losses of most leveraged traders, and price action tends to move towards these levels to “grab liquidity” before stabilizing. 
-If the typical liquidity grab plays out, TURBO could hunt for liquidity near $0.00085 before fishing for more at $0.001 and $0.00115. These levels coincided with the 50% and 23.6% Fib placeholders on the price charts.
-
-
-Read Bitcoin [BTC] Price Prediction 2024-2025 
-
-These readings mean that $0.00085 could be crucial support, while $0.0011 would be a key bullish target in case of a rebound. The positive weighted sentiment value supported the aforementioned scenario, since more market participants were bullish on the memecoin.
-Source: Santiment
-
-
-
-
-
-
-----------------
-
-Ethereum Gas Fees Plunge To Lowest Since 2020: Is This The End Of High Costs?
-
-
-								In a significant development for Ethereum, the average gas fee on the network has dropped to 6.8 Gwei, marking the lowest level since January 2020, as shown by YCharts.
-This decrease in gas fees has made all on-chain operations, including asset swaps, cross-chain bridging, and non-fungible token (NFT) minting, considerably more affordable for users.
-Ethereum Average Gas Price. | Source: YCharts
-Dencun Upgrade Lowers Ethereum Fees
-The plunge in transaction fees has impacted several operations on the Ethereum network. For instance, according to data from Etherscan, asset swaps can now be executed for just $7.32, bridging at $2.35, and borrowing at $6.21, while NFT minting is priced at roughly $12.37.
-
-This reduction in fees follows the post-Dencun upgrade, which introduced blobs and optimized network usage. This upgrade sparked curiosity among developers about the potential increase in gas prices should market activity surge.
-The Dencun upgrade has notably decoupled Ethereum’s transaction fees from network activity, maintaining low fees even during periods of high usage.
-This change benefits users and adjusts the deflationary mechanism set by previous upgrades like EIP-1559 and The Merge.
-With this new fee structure, the anticipated pressure from ETH’s burning mechanism has lessened, indicating a shift towards a more inflationary trend in the short term, as lower transaction fees mean less ETH is burned.
-Impact on Ethereum’s Market Dynamics And Future Projections
-Martin Koppelmann, the co-founder of GnosisDAO, highlighted the current fee dynamics on Ethereum, questioning whether the low base fee and unexplored price discovery of blob fees are the new normal or if the network will experience spikes to over 100 Gwei again.
-
-This uncertainty underscores the challenges in predicting network demand and its implications on fees. Meanwhile, Ultrasoundmoney’s data shows a significant decrease in the burn rate of ETH, with only 521.02 ETH burned in the past day, further evidence of the softened deflationary impact post-Dencun.
-Ethereum Burn Rate in the past day. | Source: Ultrasoundmoney
-The broader market reactions to these developments are mixed. ETH’s price has shown volatility, with an early increase of about 2% to a high of $3,058, followed by a downturn to $2,920, marking a 16% decline over the past 30 days.
-ETH price is moving sideways on the 4-hour chart. Source: ETH/USDT on TradingView.com
-As noted by crypto analyst Shin Forex, this price behavior is partly influenced by liquidity dynamics. His ETH/BTC chart analysis suggests that liquidity is moving towards Bitcoin rather than altcoins like Ethereum, leading to a potential decrease in investor interest in Ethereum.
-
-The analyst also observed that the ETH/BTC pair has broken below its support level of 0.05, a pattern that historically precedes a price crash. He predicts Ethereum could spiral to around $2,500 if the ETH/BTC pair falls below 0.04.
-Featured image from Unsplash, Chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Toncoin surges by +17% - Is it time for TON holders to cash out? - AMBCrypto
-
-
-
-TON’s price surged significantly over the last 24 hours
-Activity on the network grew, while the revenue generated by the protocol fell
-
-Toncoin [TON] turned out to be one of the underdogs of the crypto-market. In fact, over the last few months, TON has outperformed a lot of crypto-assets across various sectors.
-TON’s latest rally
-Over the last 24 hours, for instance, the price of TON has surged by 17.74%. The price of TON had previously projected a bearish pattern since 11 April. However, the latest hike in its price has been significant enough for a possible trend reversal. The CMF (Chaikin Money Flow) soared over the last few days, indicating that the money was flowing into TON.
-On the contrary, the RSI (Relative Strength Index) for TON climbed well above neutral – A sign that it may be in an overbought position and its price could see a slight correction in the future.
-Source: Trading View
-This can be attributed to, in part, the launch of Notcoin, a community token that onboarded users into web3 through a tap-to-earn mining mechanic.
-Despite the surge in price, however, there remain a few issues that are plaguing the token. The network growth for TON, for example, fell significantly over the last few days. This suggested that new addresses have been losing interest in the TON token.
-Moreover, the velocity around the TON token also fell – Evidence of the frequency with which TON was being traded having declined.
-
-Read Toncoin’s [TON] Price Prediction 2024-25
-
-These factors could prove to be detrimental for TON in the long run and could hinder the altcoin’s ability to rally going forward.
-Source: Santiment
-Looking at the data
-Furthermore, the MVRV ratio for TON also hiked, indicating that addresses are getting profitable. This incentivizes addresses to sell their holdings which could result in TON’s price being affected negatively.
-However, the Long/Short ratio for TON also climbed during this period, implying a hike in the number of long-term holders of TON. Here, it’s worth noting that long-term holders are less likely to sell their holdings and respond impulsively to market fluctuations.
-Source: Santiment
-In terms of overall activity too, the protocol did well.
-Daily active users on the network surged from 175,000 to 270,000 over the last few weeks. Surprisingly though, the revenue generated by the network fell significantly during this period.
-
-Read Toncoin’s [TON] Price Prediction 2024-25
-
-Source: Token Terminal
-
-
-
-
-
-
-----------------
-
-Banking Giant JPMorgan Chase Holds $760,000 in Spot Bitcoin ETFs: New SEC Filing - The Daily Hodl
-
-
-								The biggest bank in the US, JPMorgan Chase, says it now holds about $760,000 in spot Bitcoin ETFs on behalf of its clients.
-In a new Form F13 filing, which requires institutional investment managers to disclose their holdings, JPMorgan says the exposure is spread across BlackRock’s iShares Bitcoin Trust (IBIT), the ProShares Bitcoin Strategy ETF (BITO), Fidelity’s Wise Origin Bitcoin Fund (FBTC), the Grayscale Bitcoin Trust (GBTC) and the Bitwise Bitcoin ETF.
-
-
-
-
-
-
-
-
-
-
-The revelation follows a similar filing from rival Wells Fargo, which says it holds 2,245 shares of the Grayscale Bitcoin Trust (GBTC) worth $121,207 at time of publishing.
-JPMorgan is also one of the authorized participants powering BlackRock’s Bitcoin ETF, facilitating flows in and out of the fund.
-Despite Bitcoin’s sudden adoption on Wall Street, JPMorgan CEO Jamie Dimon continues to be one of the loudest critics against BTC.
-Dimon recently called Bitcoin a pet rock used only by criminals and speculators. When asked if the new ETFs changed his thinking, Dimon told CNBC it was the last time he would comment on the leading crypto asset.
-“I don’t care. So just please stop talking about this shit… This is the last time I’m ever going to state my opinion.”
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-DeBank Has Connected to OKX Web3 Wallet! - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-DeBank integrates OKX Web3 wallet, enabling real-time asset balance tracking on its platform. 
-
-
-
-Users gain access to industry-leading Web3 portal supporting 90+ public chains. 
-
-
-
-DeBank offers comprehensive insights on whale trading dynamics, NFT market trends, and more.
-
-
-
-
-DeBank, a prominent Web3 native communication tool and asset tracker, has made a significant stride by integrating access to the OKX Web3 wallet. 
-
-
-
-
-
-This development enables users to seamlessly monitor changes in their asset balances on-chain through the DeBank official website.
-
-
-
-The collaboration between DeBank and OKX Web3 Wallet signifies a milestone in the realm of decentralized finance (DeFi), offering users enhanced accessibility and convenience in managing their digital assets. With DeBank’s intuitive interface and the robust features of the OKX Web3 Wallet, users can expect a seamless and efficient experience in tracking their holdings across various blockchain networks.
-
-
-
-Readmore: US Election Overview: Swing States, Coalitions, And 2024 Prospects
-
-
-
-
-Access 90+ Chains on DeBank via OKX Web3 Wallet
-
-
-
-
-
-One of the key advantages of this integration is the ability for users to stay updated on their asset balances in real-time, directly from the DeBank platform. Whether it’s monitoring whale trading dynamics, tracking NFT market trends, or simply managing their portfolios, users can leverage DeBank’s comprehensive suite of tools to stay informed and make informed decisions.
-
-
-
-The OKX Web3 Wallet, renowned as the industry’s leading one-stop Web3 portal, further amplifies the functionality offered by DeBank. With support for over 90 public chains and a unified ecosystem encompassing apps, plugins, and web pages, the OKX Web3 Wallet empowers users with unparalleled access to the decentralized ecosystem.
-
-
-
-By integrating access to the OKX Web3 Wallet, DeBank enhances its position as a go-to platform for crypto enthusiasts seeking comprehensive insights and analytics. Whether users are navigating the complexities of DeFi protocols or exploring emerging trends in the NFT space, DeBank provides a user-friendly interface coupled with robust features to facilitate their journey in the decentralized landscape.
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-
-
-
-
-
-
-
-
-Visited 9 times, 9 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
-Bitcoin ETFs Soar As 3rd Largest US Bank Reveals Ownership In New Filing | Bitcoinist.com
-
-
-								In a notable development highlighting the increasing interest of traditional financial institutions in Bitcoin (BTC), Wells Fargo, the third-largest bank in the United States, has revealed its exposure to spot Bitcoin ETFs. 
-The US Securities and Exchange Commission (SEC) approved the regulated index funds in January, allowing institutions like Wells Fargo to invest in the largest cryptocurrency in the market. 
-This move signifies a significant entry into the Bitcoin market for the bank, as spot Bitcoin ETFs provide a regulated investment vehicle for institutional investors seeking exposure to Bitcoin’s price movements without directly owning the asset.
-Wells Fargo And BNY Mellon Invest In Bitcoin ETFs
-According to a recent filing, Wells Fargo holds positions in various spot Bitcoin ETFs. The bank has invested in Grayscale’s spot Bitcoin ETF, the Grayscale Bitcoin Trust (GBTC), ProShares Bitcoin Strategy futures ETF, and shares in Bitcoin Depot Inc. 
-
-Wells Fargo’s disclosure follows a growing trend among major banks and traditional asset managers investing in spot Bitcoin ETFs. As reported by Bitcoinist, the Bank of New York Mellon Corporation (BNY Mellon), one of the oldest and largest banks in the US, has also revealed its investments in Bitcoin ETFs managed by BlackRock and Grayscale. 
-BNY Mellon’s engagement with Grayscale involved purchasing shares of Grayscale’s Bitcoin Trust, while its involvement with BlackRock’s IShares Bitcoin Trust (IBIT) included acquiring shares of the ETF. These investments, though symbolic in size, highlight the bank’s recognition of Bitcoin’s potential as an asset class.
-BlackRock And Fidelity Surpass $10B In Assets In Record Time
-The rapid growth and adoption of Bitcoin ETFs are notable. Bloomberg ETF expert Eric Balchunas pointed out that before the introduction of Bitcoin ETFs, the record for an ETF to reach $10 billion in assets was held by the JPMorgan Nasdaq Equity Premium ETF (JEPQ), which took nearly three years. 
-However, BlackRock’s IBIT achieved this milestone in 49 days, while Fidelity’s FBTC ETF accomplished it in 77 days. These ETFs have also demonstrated strong trading volume and inflows, indicating the growing interest and demand for Bitcoin investment products.
-
-In sum, Wells Fargo’s disclosure of exposure to spot Bitcoin ETFs highlights the increasing involvement of traditional banks in the cryptocurrency market. As more institutions recognize the potential of Bitcoin and seek regulated investment vehicles, spot Bitcoin ETFs have emerged as an attractive option. 
-The 1-D chart shows that BTC’s price is trending downward. Source: BTCUSD on TradingView.com
-Currently, the largest cryptocurrency in the market, Bitcoin, is trading near the critical resistance level of $61,000, which holds significant importance for the potential growth of BTC.
-However, recent market movements have resulted in Bitcoin retracing its gains from the weekend, with a 1.2% price decrease observed over the past seven days. This decline has impacted the cryptocurrency’s short-term performance. 
-Featured image from Shutterstock, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-Ethereum's short-term outlook - How high or low will ETH's price go now? - AMBCrypto
-
-
-
-Legendary trader Peter Brandt believes Ethereum’s price chart is ‘intriguing’
-Ethereum’s price showed signs of recovery, with an increase in new addresses
-
-Ethereum has so far exhibited a volatile mix of price movements, initially dipping below the $3,000-threshold in recent days before rallying above it once again. 
-This price behavior has caught the attention of traders and investors alike, with the asset appreciating by a 1.4% in the early hours of Friday. This recovery signifies a pivotal moment for Ethereum as it strives to maintain its momentum above this key price level.
-Analyzing Ethereum’s chart patterns and broader market sentiment
-Amidst these fluctuations, Peter Brandt, a seasoned trader with decades of experience in the financial markets, took to the social media platform X to express his views on Ethereum’s current price chart, which he described as “intriguing.” His analysis has sparked a wide array of discussions among the trading community.
-Brandt’s examination of Ethereum’s price chart revealed two potential patterns – A flag and a channel. Initially, he interpreted the formation as a flag, which is typically seen as a continuation pattern that appears during brief pauses in dynamic market trends. 
-However, upon further analysis, Brandt suggested that the pattern might better resemble a channel. 
-Source: X
-This structure is defined by two parallel, sloping lines, with the price testing each boundary at least twice. Despite the ambiguity in defining the exact pattern, Brandt highlighted the potential for a breakout in either direction, indicating a neutral position towards the immediate future of Ethereum’s price movements.
-This neutrality is mirrored in the broader market sentiment. 
-For instance, data from Santiment indicated that the sentiment towards top cryptocurrency assets remains “negative,” a trend that has been persistent since the Bitcoin halving took place on 19 April. This episode failed to catalyze a significant increase in market caps across the sector. 
-Source: Santiment
-This overarching mood suggests that while immediate gains are possible, the market remains cautious about the longer-term prospects.
-Signs of recovery and technical outlook
-Despite the prevailing bearish sentiment, however, there are signs of potential recovery on the horizon. 
-According to Glassnode data, the number of new Ethereum addresses has surged, climbing above 160,000 from its lows below 100,000 earlier in January. 
-Source: Glassnode
-This uptick in new addresses could be a bullish signal for Ethereum, indicating greater interest and potential investment in the asset, despite its recent struggles.
-From a technical perspective, the daily chart for Ethereum still highlighted a bearish trend at press time, with sustained breaks of structure to the downside. However, a closer look at the 4-hour chart revealed that Ethereum could see short-term upward movement. This potential hike could be a strategic move by the market to take out liquidity at higher levels, before continuing the prevailing downtrend.
-Source: ETH/USDT, TradingView
-Additional analysis from AMBCrypto supported this view, noting increased volatility in Ethereum’s price movements, as indicated by the Bollinger Bands. 
-Finally, the Relative Strength Index (RSI) had a reading of 40, reinforcing the strong bearish sentiments in the market.
-
-
-
-
-
-
-----------------
-
-Phishing Group Returns Stolen Crypto Worth $66.88M to Victim, Collects Bounty! - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-Phishing group returns 22,960 ETH ($66.88M) after stealing 1155 WBTC. 
-
-
-
-Victim’s 10% bounty incentivizes return of all phished assets. 
-
-
-
-Collaboration and swift action lead to successful recovery, highlighting cybersecurity resilience in crypto.
-
-
-
-
-The phishing group responsible for the theft of 1155 Wrapped Bitcoin (WBTC) has made amends by returning all 22,960 Ethereum (ETH) worth approximately $66.88 million to the victim’s address. 
-
-
-
-
-
-This marks the completion of the restitution process, with all phished assets now safely back in the hands of the rightful owner.
-
-
-
-The phishing incident had initially sent shockwaves through the cryptocurrency community, as hackers managed to infiltrate hundreds of addresses and siphon off substantial sums of digital assets. However, the victim, whose identity remains undisclosed, took swift action and engaged with the perpetrators to negotiate the return of the stolen funds.
-
-
-
-The resolution of this high-profile cybercrime is attributed to the collaborative efforts between the victim and the phishing group. The decision to return the stolen assets reflects a rare instance of cooperation between cybercriminals and their victims in the cryptocurrency realm.
-
-
-
-
-Readmore: US Election Overview: Swing States, Coalitions, And 2024 Prospects
-
-
-
-Victim Recovers 22,960 ETH After WBTC Theft
-
-
-
-
-
-In a show of goodwill, the victim had earlier announced a 10% bounty for the safe return of the stolen funds. This incentive likely played a pivotal role in incentivizing the phishing group to initiate the restitution process and fulfill their promise to return the pilfered assets.
-
-
-
-The successful recovery of the stolen cryptocurrency underscores the importance of prompt action and effective communication in responding to cybersecurity threats within the digital asset space. By engaging with the perpetrators and offering a tangible incentive for cooperation, the victim was able to achieve a favorable outcome and reclaim their lost assets.
-
-
-
-While the incident serves as a reminder of the persistent risks associated with online fraud and cyberattacks, it also highlights the potential for constructive resolutions through dialogue and negotiation. As the cryptocurrency ecosystem continues to evolve, proactive measures and collaboration between stakeholders remain essential in mitigating security vulnerabilities and safeguarding against malicious actors.
-
-
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-
-
-Visited 27 times, 27 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
 You’re Wrong About Economics and Why You Should Learn To Love Bitcoin - The Daily Hodl
 
 
@@ -11287,6 +10395,793 @@ Despite these advancements, the price of SHIB has been consolidating. Since May 
 Read more: Shiba Inu (SHIB) Price Prediction 2024/2025/2030
 Shiba Inu (SHIB) Price Performance. Source: TradingView
 Conversely, a breakdown could see the price drop to approximately $0.00002080, nearly 8% below the current level.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Crypto market's weekly winners and losers - TON, RNDR, BONK, CORE - AMBCrypto
+
+
+
+Toncoin, Render, and Akash Network had the biggest gain in the past week.
+Core, Bonk, and Pendle were the biggest losers in the past week.
+
+This week, Toncoin [TON] emerged as the top gainer, leading the charge among cryptocurrencies. Other notable gainers included AI and computing-related tokens, which also performed well in the market.
+ However, the charts indicated that the trend of meme coins has subsided, at least for now. 
+Bonk [BONK] was highlighted as one of the biggest losers over the past week, signaling a downturn for meme coins in the current market conditions.
+Biggest winners
+Toncoin
+AMBCrypto’s analysis of Toncoin’s price movement revealed a steady climb throughout the week, starting at approximately $5.9 on the 5th of May and reaching around $6.8 by the 11th of May. 
+CoinMarketCap’s data indicated a 24.35% increase over the past seven days, positioning TON as the top gainer for the week. Toncoin surpassed $7 at one point before settling around $6.8 at week’s end. 
+As of this writing, TON was trading at around $6.9, boasting a market capitalization exceeding $24 billion.
+ However, its trading volume has decreased by over 60% and was around $267.5 million at the time of this writing.
+Render
+AMBCrypto’s look at Render’s [RNDR] chart showed a strong performance over the past week. 
+According to AMBCrypto’s assessment of the daily timeframe chart, RNDR started the week with a strong 10.28% surge, elevating its price from approximately $8.9 to $9.8. 
+Subsequently, on the 9th of May, it experienced another significant increase of over 9%, driving its price to around $10.85. Despite some declines during the week, its overall uptrends compensated for any losses.
+ Although it closed the week in the red, its price remained at around $10.9.
+Source: TradingView
+Also, CoinMarketCap data confirmed a notable 20.80% increase in the week for Render, making it the second-highest gainer. 
+Similar to TON, RNDR also witnessed a decline in trading volume over the past 24 hours, with a reduction of over 50%.
+As of this writing, its volume was around $210.5 million, with a market capitalization of around $4.2 billion. However, it was trading at around $10.8 as of this writing, with around a 0.6% decline. 
+Akash Network
+Akash Network [AKT] emerged as the third-largest gainer in the past week, boasting an impressive 18.33% increase, as reported by CoinMarketCap. 
+Analyzing AKT’s price trend revealed that it started the week trading at approximately $5. However, it experienced downturns on the 7th and the 8th of May, falling to as low as $4.2. 
+Nevertheless, the token rebounded on the 9th of May, concluding the week at around $5.7. 
+At press time, it traded within the $5.7 price range, with a market capitalization was around $1.3 billion, although it has declined by over 3% in the last 24 hours. 
+Additionally, its trading volume has decreased by over 50% during the same period, at around $122.3 million at press time.
+Biggest losers
+Core 
+Core [CORE] experienced a significant decline of 14.62% in the past week, placing it among the top losers, as indicated by data from CoinMarketCap. 
+CORE’s price trend revealed a challenging trajectory, with the token starting the week at approximately $1.9 and subsequently experiencing a steady decline. By the week’s end, its price had plummeted to around $1.5.
+However, there are signs of a potential uptrend as of the current writing, with the token attempting to recover and trading at around $1.7. 
+Additionally, its market capitalization was around $1.5 billion at the current time, showcasing an almost 5% increase in the last 24 hours.
+Despite this attempted recovery, Core’s trading volume has decreased by almost 5% in the last 24 hours, currently at around $66.7 million. 
+Bonk
+Bonk, once considered a high-flying memecoin, has faced negative performance in the past week.
+ AMBCrypto’s examination of its daily timeframe price trend revealed a negative pattern resembling a declining staircase, indicative of a notable decline. 
+Source: TradingView
+The week began with a stark decline of over 4%, with BONK trading at around $0.000026.
+ Subsequently, it witnessed three consecutive days of declines until experiencing a slight uptick on the 9th of May, where it saw an over 5% increase.
+ However, by the end of the week, its price had dropped to around $0.000022, marking it as the second-largest loser of the week with a decline of 14.44%, according to CoinMarketCap data.
+As of press time, Bonk’s market capitalization was around $1.45 billion, representing a decrease of over 2%.
+ Additionally, its trading volume has decreased by over 50% to approximately $103.5 million, indicating reduced market activity. 
+Pendle
+Pendle [PENDLE] experienced a downturn this week, emerging as the third-biggest loser according to CoinMarketCap data, with a 13.55% loss in value over the past week. 
+The price trend analysis revealed that the week started at around $5.0, with a brief surge to over $5.3 on the 6th of May. 
+However, from the 7th of May onward, the price began to decline steadily, ultimately settling around $4.3 by the week’s end.
+At the time of writing, Pendle’s market capitalization had decreased by over 3% in the last 24 hours, standing at approximately $1 billion. 
+Furthermore, trading volume witnessed a nearly 50% decline within the same period, reaching around $25.7 million.
+Conclusion 
+Here’s the weekly recap of the biggest gainers and losers. It’s crucial to bear in mind the volatile nature of the market, where prices can shift rapidly.
+Thus, doing your own research (DYOR) before making any investment decisions is best.
+
+
+
+
+
+
+----------------
+
+$81,000 Drained From Wells Fargo Account, Sent To Citibank - Victim Says She Received No Alerts, No Care, No Compensation - The Daily Hodl
+
+
+								A woman who discovered tens of thousands of dollars missing from her Wells Fargo account says the financial giant is failing to protect its customers.
+The victim, who wants to remain anonymous to protect her identity, says thieves looted more than $81,000 from her account via electronic transfers, reports FOX News Memphis.
+
+
+
+
+
+
+
+
+
+
+The woman says she had only withdrawn money from her account three times after opening it five years ago.
+She says the incident happened in November, but she noticed the theft months later because she did not receive any suspicious activity alert or notification from Wells Fargo.
+“I couldn’t believe that this was happening to me. I wasn’t expecting anything to go out of that account. I called the bank immediately…
+I would want them to refund or reimburse my money back.”  
+The victim says Wells Fargo told her the funds were transferred to a Citibank account under her name and social security number. But she says she never opened a Citi account and was not alerted by the banking giant that someone was using her personally identifying information to open one.
+She says she’s worried that she may not see a single cent of her money after both Wells Fargo and Citi told her that they would not reimburse the looted funds. She also says Wells Fargo is blaming her for not taking immediate action.
+“[They’re] saying, ‘If you would have told us within two hours, we would have stopped that transaction from happening,’ when they did not even send an alert.”
+The victim says she doesn’t know how her details got exposed because she only shared her name, social security number and bank account with two potential lenders in September when she was buying a house and to the town she’s living in for bills purposes.
+Without recourse, the woman now says she’s taking all her money out of her Wells Fargo account.
+“I am changing banks. I am not ever going to trust a bank that does not care for its customers.”
+VIDEO
+ 
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Canada’s Financial Regulator Fines Binance Holdings $4,300,000 Over Alleged Anti-Money Laundering Failures: Report - The Daily Hodl
+
+
+								Regulators in Canada have reportedly fined Binance millions of dollars after the crypto exchange allegedly failed to comply with anti-money laundering and terrorist financing laws.
+According to a new report by Reuters, The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) is penalizing the world’s largest crypto exchange platform by volume after it failed to register as a foreign money services business.
+
+
+
+
+
+
+
+
+
+
+FINTRAC says it fined Binance $4.38 million after it failed to report receiving crypto assets worth C$10,000 ($7,310) or more on 5,902 separate instances between June 1st, 2021 and July 19th, 2023.
+Binance decided to leave Canada in May of last year after it said it had issues with the country’s regulations on investor limits and stablecoins.
+At the time, Binance said Canada’s new regulations rendered its market “no longer tenable.”
+ “Unfortunately, new guidance related to stablecoins and investor limits provided to crypto exchanges makes the Canada market no longer tenable for Binance at this time. 
+We put off this decision as long as we could to explore other reasonable avenues to protect our Canadian users, but it has become apparent that there are none.”
+However, Binance said that it would consider returning to Canada  the country establishes proper regulations. Also last year, Changpeng Zhao, the Canadian chief executive of Binance, pleaded guilty in a US court to violating anti-money laundering laws.
+Zhao was sentenced to four months in prison and Binance was slapped with a massive $4.3 billion penalty.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Bitcoin Nears $60,000 Amid Post-Halving Volatility and Market Speculation
+
+
+
+                    
+
+Bitcoin‘s price recently approached the $60,000 support level as it faced the post-halving “danger zone,” causing concern among investors. 
+
+
+
+On May 10, data from Cointelegraph Markets Pro and TradingView highlighted Bitcoin’s intraday lows reaching $60,190 on Bitstamp. 
+
+
+
+
+The cryptocurrency experienced a sharp decline from around $63,000, sparking varied speculations about the cause of this drop.
+
+
+
+Trader Skew, discussing the market dynamics on X (formerly Twitter), pointed out, “Monthly open has been swept again as well monthly buyers taken out. 
+
+
+
+If bulls want higher & want to break this downtrend its here imo,” indicating a critical juncture for Bitcoin bulls around the $60.8K to $61K range, which he identifies as a key area for potential bullish action.
+
+
+
+
+Material Indicators, a trading resource, suggested that large-volume institutional players might be influencing the market, speculating, “that some institutional entity may not want to see Bitcoin breakout over the weekend while the BTC ETF market is closed,” reflecting concerns over market manipulation during off-hours.
+
+
+
+An analysis of the order book on Binance showed a new sell block around $62,500, which was predicted to possibly adjust post-weekly close. 
+
+
+
+READ MORE: U.S. Regulators Increase Scrutiny on Crypto Firms Amid Rising Market Manipulation Concerns
+
+
+
+Material Indicators further speculated, “I won’t be the least bit surprised if this sell wall moves lower to push price down. 
+
+
+
+
+“I also won’t be surprised if we see a roof pull after the W candle closes on Sunday,” suggesting potential strategic moves in the market.
+
+
+
+Rekt Capital, a popular trader and analyst, updated his views on Bitcoin’s behavior post-halving. 
+
+
+
+He noted that the typical price drop following a halving event was nearing its end, marking a close to the “danger zone.” 
+
+
+
+He recalled his prediction from the end of April about a significant downturn, which materialized as Bitcoin fell to two-month lows at $56,500. 
+
+
+
+Reflecting on the market’s response, he concluded, “Bitcoin indeed downside wicked below the Re-Accumulation Range Low just like in 2016. 
+
+
+
+Thus price-wise, the Post-Halving ‘Danger Zone’ purple has been satisfied,” yet he also noted, “Time-wise however, the ‘Danger Zone’ officially ends in 2 days.”
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Viral Pepe (PEPEVIR) Will Explode 14,000% Ahead of MEXC Listing, as Shiba Inu, Bonk and Dogecoin Lag
+
+
+
+                    
+
+Early investors in memecoins like Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) made astronomical returns, and Viral Pepe (PEPEVIR) presents a similar opportunity for a limited time.
+
+
+
+Viral Pepe (PEPEVIR), a newly launched Solana memecoin, is poised to explode over 14,000% in a matter of days, as former Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) investors pour funds into this new token.
+
+
+
+
+PEPEVIR will be listed on MEXC, one of the largest centralized exchanges in the world, within a few days – and this is a massively bullish development for the token, as millions of new investors will easily be able to buy Viral Pepe.
+
+
+
+Currently, Viral Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy PEPEVIR on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Viral Pepe by entering its contract address – AKN68pzqJzSDNfiv7nDFk27ny5TkgKFjmKEozcwYszVq – in the receiving field.
+
+
+
+
+PEPEVIR currently has a market cap of just under $15,000, meaning it has huge upside potential.
+
+
+
+Early investors could make returns similar to those who invested in Shiba Inu (SHIB), Dogecoin (DOGE) and Bonk (BONK) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+                
+
+                
+
+----------------
+
+BofA Announced: "June Will Be a Month to Remember", Here's Why - Bitcoin Sistemi
+
+
+Bank of America (BofA) analysts predicted that June will be an “unforgettable” month with important decisions expected from many central banks.
+This week has been a week full of surprises from central banks, with the Bank of Sweden (Riksbank) cutting interest rates and the Bank of England (BoE) expressing more confidence than previously expected that inflation will move in the desired direction.
+
+
+“We got a glimpse of what June will look like for markets, when many central banks will make important decisions,” BofA analysts said. Analysts continued: “All together, we may be entering one of the most important months for markets in a long time, where key decisions will be made for many central banks. This could be a June to remember.”
+
+Despite the BoE's 'structural' dovish trend, BofA analysts still believe wage increases will be more stubborn. BofA said, “Our call for the first rate cut in August continues.”
+
+
+
+
+
+Looking ahead, BofA said its focus in Europe will be on March UK labor market data due next week. They also expect the German ZEW indicator to continue improving in May and the first quarter GDP for the Eurozone to provide further insight into the evolution of growth across the region.
+*This is not investment advice.
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+FLOKI, BONK's volatile week: Will the bear runs continue? - AMBCrypto
+
+
+
+Market sentiment remained bearish on both BONK and FLOKI. 
+Most indicators and metrics hinted at continued price declines. 
+
+Bonk [BONK] and Floki Inu [FLOKI], two of the most popular meme coins, had a tough week as their values declined in double digits. 
+However, as the market trend changed, their southward momentum also declined. Does this mean that investors could expect their charts to turn green in the upcoming week? 
+BONK and FLOKI bears stand strong
+According to CoinMarketCap, BONK’s price dropped by more than 17% in the last seven days. FLOKI’s fate was also similar, as its value dipped by over 13% during the same time.
+ The declining price action took a heavy toll on these meme coins’ market sentiments. AMBCrypto’s analysis of Santiment’s data, both meme coins’ Weighted Sentiments remained drastically low. 
+This signified that bearish sentiment around BONK and FLOKI was dominant in the market.
+Source: Santiment
+However, the bearish trend seemed to have been coming to an end as the degree of price decline dropped. While BONK’s price dropped only by 1.8% in the last 24 hours, FLOKI’s price dipped by 1.5%.
+ This might be an indication of a trend reversal. At press time, FLOKI was trading at $0.0001685, while BONK had a value of $0.00002264.
+Is a trend reversal possible?
+To see whether that’s the case, AMBCryto checked their metrics. We found that FLOKI’s MVRV ratio dropped sharply last week, meaning that fewer investors were in profit. 
+Its Funding Rate increased on the 12th of May. Generally, prices tend to move the other way than the Funding Rate, suggesting that FLOKI’s price might continue to fall. 
+Coinglass’ data revealed that, like FLOKI, BONK’s Funding Rate also registered an increase in the past few hours.
+Source: Santiment
+We then analyzed both meme coins’ daily charts to better understand what to expect. Beginning with FLOKI, we found that the meme coin might just be testing the upper trendline support of its bullish flag pattern. 
+Its Money Flow Index (MFI) also registered a slight uptick, hinting at a price increase. However, the Chaikin Money Flow (CMF) remained in the bears’ favor. 
+If the southward price action continues, then FLOKI’s price might touch $0.000156 support, from where it might rebound. 
+Source: TradingView
+BONK’s market indicators also looked pretty bearish. Its CMF was also considerably lower than the neutral mark. 
+Unlike FLOKI, BONK’s MFI registered a downtick, suggesting that the chances of a continued price decline were high. Additionally, the MACD also displayed a bearish crossover. 
+Sources: TradingView
+
+Read Bonk’s [BONK] Price Prediction 2024-25
+
+AMBCrypto then checked BONK’s liquidation heat map to look for possible support zones. As per our analysis, BONK has strong support near $0.000022. 
+If it manages to turn bullish from there, then its price could move up towards $0.000029. But a plummet under that could push BONK’s price down to $0.000018 in the coming week. 
+Source: Hyblock Capital
+
+
+
+
+
+
+----------------
+
+DOJ Appoints Consulting Firm for Three-Year Monitoring Role of Crypto Exchange Binance: Report - The Daily Hodl
+
+
+								The U.S. Department of Justice (DOJ) has reportedly appointed a London-based consulting firm to serve as an outside monitor for Binance after the world’s largest crypto exchange pleaded guilty to violating US anti-money laundering (AML) regulations and sanctions laws.
+People familiar with the matter but wanted to remain anonymous say the DOJ has selected Forensic Risk Alliance (FRA) for the three-year monitorship of Binance over the previous frontrunner, New York-based law firm Sullivan & Cromwell, reports Bloomberg.
+
+
+
+
+
+
+
+
+
+
+One of the conditions of Binance’s plea deal in November is the appointment of an independent firm to monitor its compliance. The newly appointed monitor will have access to Binance’s internal records, facilities and employees to report on the crypto exchange’s activities to the government.
+Sullivan & Cromwell used to be the leading contender for the lucrative role, but controversies over its ties with defunct crypto exchange FTX and its alleged failure to detect the fraud perpetrated by the firm’s convicted co-founder, Sam Bankman-Fried, reportedly prompted the Justice Department to review other options.
+But Sullivan & Cromwell is still expected to get the appointment for a separate five-year Binance monitorship on behalf of the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN).
+FRA, which specializes in forensic accounting, data governance and compliance consulting services, previously worked with Switzerland-based trading company Gunvor SA to negotiate a $661 million settlement with the DOJ over a bribery case involving Ecuadorian officials.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Featured Image: Shutterstock/WhiteBarbie/ittoilmatar
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Forensic Risk Alliance Appointed to Monitor Binance Compliance After $4.3 Billion Plea Deal
+
+
+
+                    
+
+The U.S. Department of Justice (DOJ) has appointed Forensic Risk Alliance (FRA) to monitor cryptocurrency exchange Binance’s compliance with regulatory standards. 
+
+
+
+This follows Binance’s November 2023 plea deal wherein it admitted to charges of money laundering and other federal offenses, resulting in a $4.3 billion fine. 
+
+
+
+
+FRA’s three-year engagement will involve scrutinizing Binance‘s internal records, premises, and employee interactions to keep the DOJ informed of its compliance status, a Bloomberg report revealed on May 10.
+
+
+
+Originally, the law firm Sullivan & Cromwell was considered for the monitoring contract due to their prominence in the sector. 
+
+
+
+However, their previous association with FTX, another crypto exchange that went bankrupt, influenced the DOJ’s decision to opt for FRA instead. 
+
+
+
+This decision came amid allegations against Sullivan & Cromwell for their involvement in FTX Group’s fraudulent activities, as reported by Cointelegraph on February 17. 
+
+
+
+READ MORE: Toncoin Surges Ahead of Notcoin Game Launch, Outshines Broader Crypto Market with Robust Growth
+
+
+
+The firm allegedly had prior knowledge of deceitful practices at FTX that led to the loss of client funds, as stated by FTX creditors in a class-action lawsuit.
+
+
+
+Despite these controversies, Sullivan & Cromwell is expected to secure a separate five-year monitoring contract for Binance under the auspices of the Treasury Department’s Financial Crimes Enforcement Network.
+
+
+
+
+In related news, Binance’s former CEO, Changpeng “CZ” Zhao, was sentenced to four months in prison on April 30. 
+
+
+
+The sentence was for failing to implement an effective Anti-Money Laundering program at the exchange. 
+
+
+
+
+Although prosecutors sought a three-year term, the judge mitigated the sentence, citing a lack of evidence that Zhao was directly aware of specific illicit activities within Binance.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Ripple's XRP Architect David Schwartz Explains His 40,000 ETH ICO Purchase and Missed Fortunes ⋆ ZyCrypto
+
+
+            
+            
+Advertisement
+
+&nbsp
+
+&nbsp
+Ripple’s Chief Technology Officer (CTO), David Schwartz, has recently provided insights into his involvement in Ethereum’s early days, shedding light on his purchase of 40,000 Ethereum tokens during the public initial coin offering (ICO).
+
+
+
+The revelation came following a query posed by an XRP supporter, MetamanX, on May 10. This prompted Schwartz to elaborate on his engagement with Ethereum before the public pre-ICO phase.
+
+
+
+Schwartz clarified that his involvement in Ethereum’s ICO was not merely a business decision but a personal one, as he revealed his acquaintance with Vitalik Buterin, one of Ethereum’s founders. In response to the inquiry, Schwartz disclosed that Buterin, a close friend, had extended an invitation to participate in the ICO, which prompted him to contribute 20 BTC to support Buterin’s initiative.
+
+
+
+“I knew Vitalik. He invited me to participate. I wanted to support him, so I went in for 20 BTC. I didn’t really ask any questions. It got me 40,000 ETH. I thought of it as helping an acquaintance,” Schwartz stated.
+
+
+
+Public records validate Schwartz’s account, indicating that the Ethereum ICO lasted 42 days between July 22 and September 2, 2014. Early investors could secure 2,000 ETH for 1 BTC. As the ICO progressed, the exchange rate of ETH to BTC increased, with 1 BTC eventually fetching 1,337 ETH by the sale’s conclusion.
+Advertisement
+
+&nbsp
+
+
+
+The pundit shared a tweet from last December in which he disclosed having sold his Ether. Notably, Schwartz’s decision to liquidate his 40,000 ETH portfolio when its value rose to $40,000 marked a commendable return on investment, amounting to roughly 220% after a two-year holding period.
+
+
+
+“As many of you know, I sold 40,000 ETH at about $1 to put solar panels on a house I no longer own. That ETH was worth over $100 million shortly after,” Schwartz wrote on December 8, 2023.
+
+
+
+However, hindsight reveals a missed opportunity for the Ripple CTO. Had he retained his investment to date, Ether’s current price of $2,927, it would be worth a staggering $117,166,291, reflecting a 292,816% increase from his sale price of $40,000.
+
+
+
+In a reflective tone revealing the sale, Schwartz shared a personal tale, drawing parallels between his actions and those of his father. He recounted his father’s decision to sell Apple stock to fund renovations and a new house, only to witness the stock’s value soar subsequently. 
+
+
+
+“My father, ironically, did almost the same thing. After my older siblings moved out, my parents didn’t need the enormous house we were living in. But it needed quite a bit of fixing up to sell. So, my father sunk a lot of money into gutting and redoing the house. But during the months it took to do that, as renovation costs escalated, the real estate market crashed. He took a huge loss on the deal.” Schwartz revealed.
+        
+
+        
+
+----------------
+
+New Memecoin Book of Shiba Inu Will Surge 9,000% as MEXC Listing Announced, While Shiba Inu and Dogecoin Struggle
+
+
+
+                    
+
+Book of Shiba Inu (BOSHIBA) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Book of Shiba Inu (BOSHIBA), a new Solana memecoin that was launched today, is poised to explode over 9,000% in price in the coming days.
+
+
+
+
+This is because BOSHIBA has announced its first centralized exchange listing, which will be on MEXC.
+
+
+
+This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
+
+
+
+Currently, Book of Shiba Inu can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Book of Shiba Inu could become the next viral memecoin.
+
+
+
+To buy Book of Shiba Inu on Raydium or Jupiter ahead of the MEXC listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Book of Shiba Inu by entering its contract address – 24YoPq1drHd7Xs7NbYhU3HvBCMsGZqmSefD7FYeZ6W5D – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like BOSHIBA.
+
+
+                
+
+                
+
+----------------
+
+Sam Altman thinks giving everyone ‘a slice of GPT’ could pay for UBI
+
+OpenAI CEO and Tools for Humanity Chairperson Sam Altman believes the progress being carved out by today’s frontier artificial intelligence (AI) models could lead to a vast restructuring of socioeconomics. Altman recently unveiled a vision wherein treating “compute” as a resource and asset, could supplant monetary income as a means of providing a universal basic income (UBI), during a recent interview on the All-In podcast. VIDEOWhile the interview touched on a number of subjects, it quickly turned to the dangers of AI and how humanity would cope with threats ranging from AI-wrought human extinction to employment displacement. On the former subject, Altman acknowledged that there could come a time when AI models were sufficiently capable of posing such threats. His solution is a global oversight board with the capacity to regulate the largest projects, thereby leaving startups relatively unfettered by potentially growth-stifling laws. “I think there will come a time, in the not super distant future ... where the frontier AI systems are capable of causing significant global harm. And, for those kinds of systems ... I would like to see some sort of international agency that is looking at the most powerful systems and ensuring reasonable safety testing.”Altman assured the All-In team that GPT-4, OpenAI’s current state-of-the-art production model, posed no “significant” threat to human lives.On the jobs front, Altman is a well known advocate for UBI. Aside from OpenAI, he also helms Tools for Humanity, a firm whose main product is the Worldcoin cryptocurrency and identity verification platform. Worldcoin is given to anyone willing to verify their humanity. After which, holders receive a monthly token stipend.Speaking to the All-In team, Altman decried government poverty assistance programs as mostly ineffective and called for a simple, respectful approach to UBI: “I’m not a super fan of how the government has handled most policies designed to help poor people, and I kind of believe that if you could just give people money they would make good decisions and the market would do its thing.”He went on to point out that giving people money is not going to solve all problems,” adding that it’s “certainly not going to make people happy.” But ventured that “it might solve some problems and it might give people a better horizon with which to help themselves.”As to why he’s such an advocate for UBI, Altman said that he and his colleagues realized back in 2016, when they began taking AI seriously, that it could have far-reaching effects. They began conducting studies and found that UBI showed promise. Now, Altman believes that the UBI paradigm itself could be ripe for an upending:“2016 was a very long time ago. ... I wonder if the future looks something more like universal basic compute than universal basic income and everybody gets a slice of GPT-7’s compute and they can use it, they can resell it, they can donate it to somebody to use for cancer research. Related: Apple finalizing deal with OpenAI for ChatGPT iPhone integration: Report
+
+----------------
+
+Satoshi Resurfaced? Decade-Long Dormant Wallets Spring To Life, Unleashing Over $60 Million In BTC ⋆ ZyCrypto
+
+
+            
+            
+Advertisement
+
+&nbsp
+
+&nbsp
+In a notable development, two dormant Bitcoin wallets, untouched for over a decade, have suddenly come to life, transferring a staggering $60 million in Bitcoin (BTC).
+
+
+
+The revelation came to light through a tweet by Lookonchain, a service that tracks significant crypto transactions. The tweet announced the movement of 1,000 BTC from these long-dormant wallets in just 20 minutes.
+
+
+
+Notably, the wallets, identified as “16vRqA” and “1DUJuH,” received 500 BTC on September 13, 2013, when Bitcoin’s price hovered around a mere $124. Going by this price, each Whale’s Bitcoin reserve was worth $62,000. Mirroring it with today’s BTC price at $61,107, each whale’s BTC worth is approximately $30.6 million, reflecting a 49,179.8% Return on Investment (ROI).
+
+
+
+This latest development comes after another dormant Bitcoin wallet, inactive for a decade, came to life on May 6 and moved 687.33 BTC, valued at around $44 million.
+
+
+
+Notably, the movement of such vast sums of Bitcoin raises questions about the intentions of the wallet holders. Speculation abounds regarding whether these wallets belong to Bitcoin Creator, Satoshi Nakamoto or early Bitcoin miners who had forgotten about their holdings or individuals with an unparalleled commitment to the “HODL” strategy.
+Advertisement
+
+&nbsp
+
+
+
+Notably, the timing of these events coincides with Bitcoin’s current volatility. Analysts are divided on the direction of its price amid conflicting indicators. While some foresee a potential surge to $70,000 or beyond in the coming months, on-chain data suggests that long-term holders may be offloading their holdings.
+
+
+
+JA Martunn, a leading analyst at Cryptoquant, recently highlighted this phenomenon, noting that the “Coin Days Destroyed” metric indicates a likely peak in Bitcoin’s price. Notably, this metric considers the age and volume of Bitcoin transactions, suggesting that seasoned market participants are divesting their holdings.
+
+
+
+
+
+
+
+Martunn, however expressed optimism, suggesting that newer market participants may ultimately catalyze a fresh bull run by relinquishing their holdings to experienced market players. 
+
+
+
+“Eventually, there reaches a point where the influx of new investors cannot sustain the demand for older coins at prevailing prices, leading to a decline. This prompts newer investors to sell at a minor loss, triggering further sell-offs. Ultimately, the cycle concludes with capitulation, as newer participants relinquish their holdings to experienced market participants” he added.
+
+
+
+That said, it is important to note that the average purchase price for new whales is $61,200. According to Cryptoquant analyst Axel Adler, they may experience stress if the price drops below this threshold.
+
+
+
+“Currently, this level is acting as support. Based on history, new whales almost always have to experience stress. The simplest way to get rid of it is to HODL,” he wrote.
+        
+
+        
+
+----------------
+
+Crypto Market Continues its Descent: Is the Bull Run Over? - DailyCoin
+
+
+        
+Crypto markets have experienced volatility, leading investors to question the longevity of the current bull market.
+
+
+
+While some cryptocurrencies have defied the trend with impressive gains, others have endured significant losses.
+
+
+
+Analysts have remained bullish on the long-term potential of cryptocurrencies despite the short-term turbulence.
+This week, the cryptocurrency market navigated choppy waters, leaving many investors wondering if the recent surge is nearing its peak. While some coins managed to weather the storm, others took a significant tumble.TON Soars 20% While Dogecoin Leads Top 10 LosersDespite the overall downturn, a few bright spots emerged. Telegram’s native token, TON, defied the bearish trend and surged a staggering 20%. Binance Coin (BNB), the exchange’s token, also clung to modest gains of 0.34%. However, its position remains precarious, hovering just above the break-even point.
+Among the biggest losers this week were Dogecoin (DOGE), Avalanche (AVAX), and Shiba Inu (SHIB). DOGE, the meme-inspired cryptocurrency, posted the steepest decline in the top ten coins, dropping a hefty 11.2%. AVAX and SHIB weren’t far behind, suffering losses of 9.8% and 9% respectively.Ethereum (ETH), the second-largest cryptocurrency by market capitalization, also took a hit, shedding 7% of its value over the past week. The remaining coins in the top ten managed to limit their losses to under 5%. XRP, Bitcoin (BTC), and Cardano (ADA) dipped by 5%, 4.5%, and 4.2% respectively, while Solana (SOL) rounded out the losers with a minor 1.8% decrease.Despite the current setback, many analysts remain optimistic about the long-term prospects of cryptocurrencies. They point to continued institutional adoption, growing developer activity, and the potential of emerging blockchain technologies as reasons for continued growth.WinnersOnly 2 of the top 10 cryptocurrencies experienced price increases over the past week. Here’s a look at them:
+DailyCoin’s Snapshot of the Crypto Markets’ Weekly Winners: Source DailyCoinLosersAll but 2 of the top 10 cryptocurrencies experienced price losses over the past week. Here’s a look at them, ranked by their percentage decrease:
+DailyCoin’s Snapshot of the Crypto Markets’ Weekly Losers: Source DailyCoinThis is just a snapshot of the current market conditions at the time of writing. Cryptocurrency prices are constantly fluctuating, so it’s important to do your own research before making any investment decisions.On the Flipside
+While TON and BNB have made gains, the overall market trend is still down.
+
+
+
+Losses across most major coins highlight the interconnectedness of the crypto market.
+
+
+
+The recent price drops could be a natural correction after a strong upswing earlier in the year. Investors might be cashing in on profits before reinvesting.
+Why This MattersWhile top coins like Ethereum and Bitcoin saw moderate dips, this week’s price swings highlight the ongoing volatility within the crypto market, even for established players. This underscores the importance of investors conducting thorough research and maintaining a diversified portfolio to navigate these fluctuations.If you’re interested in Dogecoin, you might be interested in this article about recent price trends and holder behavior:Dogecoin Gears Up For $0.20 Amid Rising Large Holder NetflowSolana’s price has dropped recently. This article explores what caused the drop and what the future might hold for Solana:Solana Drops on FTX Liquidation, Open Interest Drops    
+              
+    
+
+----------------
+
+This is Why Franklin Templeton Bets on Blockchain Technology
+
+
+Jenny Johnson, President and CEO of Franklin Templeton oversees a financial titan with $1.6 trillion in assets. Recently, she underscored the significant benefits of blockchain technology in asset management. 
+Speaking at the 27th Annual Milken Institute Global Conference in California, Johnson expressed her enthusiasm for blockchain’s potential, especially in tokenizing real-world assets.
+Jenny Johnson Believes Mutual Funds and ETFs Will Soon Come On-Chain
+During her conversation with Bloomberg, Johnson emphasized Franklin Templeton’s innovative approach to utilizing blockchain technology. She detailed an experiment where the company processed account records using traditional and blockchain methods over six to eight months. 
+
+“We were astonished by how much less cost it was to run it on the blockchain. It’s a very effective technology, and we think it is going to open up a lot of new investment opportunities. Eventually, I think exchange-traded funds (ETFs) and mutual funds are all going to be on blockchain,” Johnson stated.
+
+
+The CEO also discussed the challenges in financial services related to data reconciliation across systems. This process is often costly and time-consuming. 
+Blockchain provides a single source of truth for transactions, dramatically reducing costs and improving efficiency. This reduction in friction indeed paves the way for new investment opportunities.
+Johnson also illustrated blockchain’s broader potential with a reference to pop superstar Rihanna, who issued non-fungible tokens (NFTs) for royalties from her songs. 
+
+“So when Spotify plays a Rihanna song, and you own that token, the smart contract can kick off. And the payment mechanism built into the blockchain can give you your fractions,” Johnson said.
+
+Read more: Where To Buy Tokenized or Fractionalized Real Estate and Art
+
+
+VIDEO
+
+Franklin Templeton launched the Franklin OnChain US Government Money Fund (FOBXX) in 2021, a trailblazer as the first US-registered fund that uses public blockchain for processing transactions and documenting share ownership.
+
+“I am a huge fan of blockchain and the technology. We had the first SEC approved money market fund, the SEC had us run the shareholders’ servicing system,” Johnson said.
+
+At the heart of this innovation lies the BENJI token. Operating on the Stellar (XLM) and Polygon (MATIC) blockchains, these tokens uniquely represent shares of the FOBXX fund. 
+
+They include assets like government securities, cash, and repurchase agreements. They also offer a stable yield, which is highly attractive to investors seeking dependable returns.
+Recent data from rwa.xyz shows that the BENJI token has a market capitalization of $367 million. This impressive figure ranks it second only to BlackRock’s USD Institutional Digital Liquidity Fund (BUIDL). 
+On April 25, Franklin Templeton expanded the functionality of BENJI tokens. They are now available for peer-to-peer transfer on the public blockchain.
+Read more: What is Tokenization on Blockchain?
+Continuing its commitment to the blockchain, the company launched a Bitcoin ETF in January, achieving modest net flows of $351 million to date. Moreover, on February 13, Franklin Templeton sought SEC approval for a spot Ethereum ETF, further integrating blockchain into its offerings.
 
 
 Disclaimer
