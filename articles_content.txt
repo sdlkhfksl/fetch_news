@@ -1,645 +1,3 @@
-Will the Stock Market Crash in 2024 (or is there more upside)? | Gareth Soloway - YouTube
-
-AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
-
-----------------
-
-Hacker returns $71 million worth of crypto to phishing victim
-
-
-A whale lost 1,155 Wrapped BTC (WBTC), worth $71 million, due to a phishing attack on May 3. Surprisingly, the attacker returned all the funds to the victim a week later.
-On May 2, the whale spent $29.6 million DAI to buy 502 WBTC at $58,951. Later, on May 4, the victim created a new address and transferred 0.05 ETH for testing—a usual practice when moving large amounts.
-As reported by Finbold, the attacker generated phishing addresses in advance and monitored users’ on-chain activities. When the victim whale was about to transfer WBTC, the attacker sent 0 ETH using a phishing address.
-
-
-Victim’s transaction history. Source: Etherscan / Lookonchain
-A specific phishing: Address poisoning attack
-Interestingly, this attack used a technique known as “Address Poisoning,” as it poisons the victim’s transaction history. The phishing address had the same starting and ending letters as the whale’s new address.
-This attack is particularly hard to spot because many crypto wallets hide the middle part of the address with “…” to improve the user interface. Moreover, users often copy addresses from transaction histories and only check the starting and ending letters.
-Therefore, the whale mistakenly copied the phishing address and sent 1,155 WBTC to the attacker.
-Attacker returns stolen $71 million to phishing victim
-On-chain data shows that the attacker immediately converted the stolen WBTC into 22,960 ETH, possibly for money laundering purposes. Lookonchain reported the entire development of these events and summarized it in a post on X on May 12.
-Attacker’s swap history. Source: Etherscan / Lookonchain
-Notably, the whale tried to contact the attacker, offering a 10% bounty for returning 90% of the funds. Initially, the attacker did not respond, but as the cybersecurity company Slow Mist tracked the attacker’s IPs, possibly from Hong Kong, the attacker replied and returned all the funds.
-To prevent such attacks, users should carefully check the entire address when making transfers. Saving trusted addresses in the address book and copying from there is recommended. Enabling small transaction filtering in wallets can also help filter out phishing transactions, further preserving the funds. 
-
-
-----------------
-
-How To AI: Fine Tune Your Chatbot Privacy Settings - Decrypt
-
-It may be easy, even comforting, to imagine that using AI tools involves interacting with a purely objective, stoic, independent machine that knows nothing about you. But between cookies, device identifiers, login and account requirements, and even the occasional human reviewer, the voracious appetite online services have for your data seems insatiable.Privacy is a major concern that both consumers and governments have about the pervasive spread of AI. Across the board, platforms highlight their privacy features—even if they're hard to find. (Paid and business plans often exclude training on submitted data entirely.) But any time a chatbot “remembers” something can still feel intrusive.In this article, we will explain how to tighten your AI privacy settings by deleting your previous chats and conversations and by turning off settings in ChatGPT, Gemini (formerly Bard), Claude, Copilot, and Meta AI that allow developers to train their systems on your data. These instructions are for the desktop, browser-based interface for each.ChatGPTStill the flagship of the generative AI movement, OpenAI’s ChatGPT has several features to improve privacy and alleviate concerns about user prompts being used to train the chatbot.In April, OpenAI announced that ChatGPT could be used without an account. By default, prompts shared through the free, account-less version are not saved. But, if a user does not want their chats used to train ChatGPT, they still need to toggle the “Temporary chat” settings in the ChatGPT dropdown menu at the top left of the screen.If you have an account and subscription to ChatGPT Plus, however, how do you keep your prompts from being used? GPT-4 gives users the ability to delete all chats under its general settings. Again, to make sure chats are also not used to train the AI model, look lower to “Data controls” and click the arrow to the right of “Improve the model for everyone.”A separate “Model improvement” section  will appear, allowing you to toggle it off and select "Done." This will remove the ability of OpenAI to use your chats to train ChatGPT.There are still caveats, however."While history is disabled, new conversations won’t be used to train and improve our models, and won’t appear in the history sidebar," an OpenAI spokesperson told Decrypt. "To monitor for abuse—and reviewed only when we need to—we will retain all conversations for 30 days before permanently deleting."Claude“We do not train our models on user-submitted data by default,” an Anthropic spokesperson told Decrypt. “Thus far, we have not used any customer or user-submitted data to train our generative models, and we’ve expressly stated so in the model card for our Claude 3 model family,”“We may use user prompts and outputs to train Claude where the user gives us express permission to do so, such as clicking a thumbs up or down signal, on a specific Claude output to provide us feedback,” the company added, noting that it helps the AI model “learn the patterns and connections between words.”Deleting archived chats in Claude will also keep them out of reach. “I do not retain or have access to any previously deleted chats or conversations,” the Claude AI agent helpfully answers in the first person. ”My responses are generated based on the current conversation only.”Like ChatGPT, Claude does hold on to some information as required by law.“We also retain data in our backend systems for the amount of time specified in our Privacy Policy unless required to enforce our Acceptable Use Policy, address Terms of Service or policy violations, or as required by law,” Anthropic explains.As for Claude's collection of information across the web, an Anthropic spokesperson told Decrypt that the AI developer’s web crawler respects industry-standard technical signals like robots.txt that site owners can use to opt-out of data collection, and that Anthropic does not access password-protected pages or bypass CAPTCHA controls.GeminiBy default, Google tells Gemini users that “your conversations are processed by human reviewers to improve the technologies powering Gemini Apps. Don't enter anything that you wouldn't want to be reviewed or used."But Gemini AI users can delete their chatbot history and opt out of having their data used to train its model going forward.To accomplish both, navigate to the bottom left of the Gemini homepage and locate “Activity.”Once on the activity screen, users can then turn off “Gemini Apps Activity.”A Google representative explained to Decrypt what the “Gemini Apps Activity” setting does.“If you turn it off, your future conversations won’t be used to improve our generative machine-learning models by default,” the company representative said. “In this instance, your conversations will be saved for up to 72 hours to allow us to provide the service and process any feedback you may choose to provide. In those 72 hours, unless a user chooses to give feedback in Gemini Apps, it won’t be used to improve Google’s products, including our machine learning technology.”There is also a separate setting to clear out your Google-connected YouTube history.CopilotIn September, Microsoft added its Copilot generative AI model to its Microsoft 365 suite of business tools, its Microsoft Edge browser, and Bing search engine. Microsoft also included a preview version of the chatbot in Windows 11. In December, Copilot was added to the Android and Apple app stores.Microsoft does not provide the option to opt out of having user data used to train its AI models, but like Google Gemini, Copilot users can delete their history. The process is not as intuitive on Copilot, however, as previous chats still show on the desktop version’s home screen even after being deleted.To find the option to delete Copilot history, open your user profile at the top right of your screen (you must be signed in) and select “My Microsoft Account.” On the left, select “Privacy,” and scroll down to the bottom of the screen to find the Copilot section.Because Copilot is integrated into Bing’s search engine, clearing activity will also clear search history, Microsoft said.A Microsoft spokesperson told Decrypt that the tech giant protects consumers’ data through various techniques, including encryption, deidentification, and only storing and retaining information associated with the user for as long as is necessary.“A portion of the total number of user prompts in Copilot and Copilot Pro responses are used to fine-tune the experience,” the spokesperson added. “Microsoft takes steps to de-identify data before it is used, helping to protect consumer identity,” adding that Microsoft does not use any content created in Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams) to train underlying “foundational models.”Meta AIIn April, Meta—the parent company of Facebook, Instagram, and WhatsApp—rolled out Meta AI to users.“We are releasing the new version of Meta AI, our assistant, that you can ask any question across our apps and glasses,” Zuckerberg said in an Instagram video. “Our goal is to build the world's leading AI and make it available to everyone.”Meta AI does not provide users the option to opt out of having their inputs used to train the AI model. Meta does give the option to delete past chats with its AI agent.To do so from a desktop computer, click the Facebook settings tab at the bottom left of your screen, located above your Facebook profile image. Once in settings, users have the option to delete conversations with Meta AI.Meta does explain that deleting conversations here will not delete chats with other people in Messenger, Instagram, or WhatsApp. A Meta spokesperson declined to comment on whether or how users could exclude their information from being used in Meta AI model training, instead pointing Decrypt to a September statement by the company about its privacy safeguards and the Meta settings page on deleting history.“Publicly shared posts from Instagram and Facebook—including photos and text—were part of the data used to train the generative AI models,” the company explains. “We didn’t train these models using people’s private posts. We also do not use the content of your private messages with friends and family to train our AIs.”But anything you send to Meta AI will be used for model training—and beyond.“We use the information people share when interacting with our generative AI features, such as Meta AI or businesses who use generative AI, to improve our products and for other purposes,” Meta adds.ConclusionOf the major AI models we included above, OpenAI’s ChatGPT provided the easiest way to delete history and opt-out of having chatbot prompts used to train its AI model. Meta's privacy practices appear to be the most opaque.Many of these companies also provide mobile versions of their powerful apps, which provide similar controls. The individual steps may be different—and privacy and history settings may function differently across platforms.Unfortunately, even cranking all privacy settings to their tightest levels may not be enough to safeguard your information, according to Venice AI founder and CEO Erik Voorhees, who told Decrypt that it would be naive to assume your data has been erased.“Once a company has your information, you can never trust it’s gone, ever,” he said. “People should assume that everything they write to OpenAI is going to them and that they have it forever.”“The only way to resolve that is by using a service where the information does not go to a central repository at all in the first place,” Voorhees added—a service like his own.Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-Solana Price Prediction - Could Solana Regain Bullish Momentum And Push To $200?
-
-
-								Solana has seen its price struggling to return to bullish levels for the past month. Solana previously reached $208 on March 18 after a strong price uptick spanning over five months. However, this cross over $200 was very brief as Solana dipped to $167 before reversing and reaching $203 again on April 1. 
-
-Again, this cross over $200 was also brief and Solana has been on a downfall since then. Interestingly, the recent price level has put Solana on a 30% correction in the past six weeks. While this is a hard crash, Solana is now looking prime to resume its uptrend, with indicators now flashing bullish.
-Solana To Regain Bullish Momentum?
-Solana’s parabolic price rise from October 2023 to April 2024 led to an overheated market that was bound to correct. This rise was mostly exacerbated by the surge in popularity of Solana meme coins and the general bullish crypto market greed spearheaded by Bitcoin. 
-This uptick saw Solana briefly overtaking BNB in market cap rankings after fully displacing XRP and ADA. However, as the greed flipped to caution, Solana started to correct with the rest of the market.
-Solana dipped to a low of $120 on May 1 with the bulls defending this price support. According to a crypto analyst known pseudonymously as Inmortal, this was the last major price correction for Solana in the current market cycle. 
-As a result, Solana now finds itself ranging around a minor support at $140. Per a SOL chart shared by Inmortal on social media, the crypto is now ready to march to a fresh all-time high of $320.
-
-
-Inmortal is not the only analyst predicting a bullish Solana move. Analysts Maximilian FX and Orson Fawley also believe Solana is ready to beat the $200 price mark again.
-
-Solana is currently trading at $145. Chart: TradingView
-Price Levels To Watch For Solana’s Next Move
-At the time of writing, Solana is trading at $145, down over 30% from its yearly high of $208. After such a sharp drop Solana has created some key price levels to watch during its next big move. The first notable price resistance is at $158. 
-If Solana can break back above $160, it may signal the correction is over and the uptrend has resumed. Other resistance levels on the journey to $200 are around $175 and $185. On the other hand, a drop below $140 risks a move toward the next major support level at $120. 
-
-Although the overall crypto market sentiment is currently neutral, the environment remains favorable for a SOL price recovery.
-Featured image from melanciadesign.com, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Can Ethereum bulls take bears out of the market? - AMBCrypto
-
-
-
-The positive reading of the bulls and bears indicator suggests that the price might increase.
-Ethereum’s network was overvalued and could hinder the potential upswing.
-
-The price of Ethereum [ETH] might have decreased by 7.30% in the last 24 hours, but an assessment of a key indicator suggested that the decline might soon end.
-The indicator talked about here is the Bulls And Bears metric provided by IntoTheBlock. This indicator can be measured in addresses or volume.
-However, the focus is usually on large buyers or sellers, as they have a big influence on price movements.
-The 1% want to keep the faith
-A net negative of the Bulls and Bears indicator suggests more large sell orders than buys. In this instance, the price of the asset involved might decrease.
-But for Ethereum, data showed that the reading was positive, indicating bullish confidence in the price trend. Should this metric maintain its position over the coming days, then ETH might be able to rise toward $3,100.
-Source: IntoTheBlock
-However, failure to sustain the status quo or improve on it could send the price of the altcoin below $2,800. When AMBCrypto looked at Ethereum’s STH-NUPL, we observed that market participants were not exactly confident in the cryptocurrency.
-STH-NUPL stands for Short Term Holder — Net Unrealized Profit/Loss. With this metric, one can have an idea of the behavior of short-term investors.
-Investors panic, but ETH may come to their aid
-From our analysis, ETH’s underwhelming price action has changed the sentiment investors have toward the coin. In March, the metric was in the optimism (yellow) region.
-At that point, holders were confident in ETH’s price action. But as of this writing, that reading has reached the capitulation (red) region, indicating that market participants are in fear.
-Source: Glassnode
-However, fear can act as fuel for a bounce. If the STH-NUPL continues to fall, ETH’s price might also decrease.
-Moving, on, a turnaround might occur as intense fear could trigger a harder upswing if buying pressure increases.
-In this instance, Ethereum might target a rise toward $3,500. Besides this metric, AMBCrypto found another indicator suggesting that ETH might soon recover.
-This time, we looked to the dormant circulation. According to on-chain data from Santiment, the 90-day dormant circulation had dropped to 9246.
-If the metric increases, it means that coins that have not moved for a long while are starting to change wallets. Sometimes, this means old hands are selling.
-Source: Santiment
-Thus, the recent decline implied that long-term Ethereum investors were not selling as much as they did around the 7th and 8th of May.
-
-Read Ethereum’s [ETH] Price Prediction 2024-25
-
-However, the Network Value to Transaction (NVT) ratio suggested that ETH might still be overvalued. Low values of the NVT suggest undervalued.
-But for Ethereum, the metric spiked, indicating that the network is overvalued relative to transactions.
-
-
-
-
-
-
-----------------
-
-Bitcoin or Ethereum? We asked ChatGPT which asset is a better buy for summer 2024
-
-
-As summer 2024 approaches, the debate intensifies between Bitcoin (BTC) and Ethereum (ETH), two major players in the cryptocurrency market. Bitcoin is increasingly viewed as a digital gold, offering stability in times of economic uncertainty.
-This perception is supported by its reduced volatility post-halving, now lower than that of many S&P 500 companies, according to Fidelity.
-Ethereum continues to push the envelope with technological innovations like the recent Dencun upgrade, which aims to cut fees and enhance scalability. However, these changes have brought back inflationary aspects, moving away from the deflationary trend set by the 2022 Merge.
-
-
-This has led to heightened volatility, with Ethereum’s implied volatility remaining significantly higher than Bitcoin’s despite the overall market calming.
-With their divergent roles in investment portfolios—Bitcoin as a burgeoning digital asset and Ethereum as a technological pioneer—Finbold sought insights from ChatGPT, OpenAI’s advanced AI model, to determine which might excel in the coming months.
-This analysis highlights the need to evaluate Bitcoin’s appeal as a growing store of value against Ethereum’s progressive platform in a rapidly changing market landscape.
-ChatGPT’s analysis: Bitcoin vs. Ethereum investment prospects
-According to ChatGPT, the decision largely depends on individual investment strategies and risk tolerance. Bitcoin is generally better suited for investors seeking stability and a relatively safe store of value, akin to digital gold, especially amidst economic uncertainties. It appeals to risk-averse individuals or those new to cryptocurrencies.
-ChatGPT Bitcoin investment prospects. Source: Finbold and ChatGPT
-Conversely, Ethereum fuels a platform for decentralized applications and is a major player in blockchain technology. Investors who believe in the future of these technologies may prefer Ethereum.
-ChatGPT Ethereum  investment prospects. Source: Finbold and ChatGPT
-While Bitcoin offers stability and potential for incremental growth, Ethereum provides a gateway to a rapidly evolving blockchain ecosystem with higher risk and potentially higher rewards.
-Ultimately, diversification with both BTC and ETH can be a way to manage risk and potentially benefit from the growth of both major cryptocurrencies.
-Bitcoin and ETH recent price performance
-Bitcoin and Ethereum price chart. Source: TradingView
-As of 2024, the year-to-date performance of Bitcoin and ETH presents a clear contrast in investment returns. Bitcoin has seen a significant rise, with a YTD increase of 45.16%, showcasing its volatile yet high-growth nature. The current price of Bitcoin stands at approximately $61,200.
-On the other hand, ETH has gained 28% YTD, with its current price at about $2,921.
-The choice between Bitcoin and Ethereum should align with individual investment goals, risk tolerance, and interest in the technological aspects of cryptocurrencies. 
-While Bitcoin offers stability and potential for incremental growth, Ethereum provides a gateway to a rapidly evolving blockchain ecosystem with higher risk and potentially higher rewards.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-Wall Street Giants Unveil Crypto Plans To Boost Institutional Adoption - Coin Edition
-
-
-							
-
-Renowned financial institutions set to test novel blockchain-based regulated settlement network.
-Identified institutions for the test include JP Morgan, Citi, Wells Fargo, Visa, and Mastercard.
-Polygon’s Colin Butler considers the developing trend a signal for mass crypto adoption.
-
-
-
-
-Renowned financial institutions, including JPMorgan, Citi, U.S. Bank, and Wells Fargo, are among the organizations that will test an upcoming regulated settlement network involving the common settlement of tokenized assets on shared-ledger technology. According to reports, payment giants Visa and Mastercard and global financial messaging service Swift will also participate in the testing process.
-
-
-
-
-
-
-
-
-
-The innovation comes amid growing concerns over the struggles of the U.S. dollar, the universal settlement currency. In a recent report, the billionaire Tesla CEO, Elon Musk, warned that the greenback could collapse. Hence, efforts by the identified Wall Street giants to explore asset tokenization, an idea that Citi analysts predict could become a $5 trillion market by 2030.
-
-
-
-
-
-
-
-Colin Butler, global head of institutional capital at Polygon, considers the developing trend a signal for mass crypto adoption. Butler described it as the five-yard-line for mass institutional adoption. He noted that adding the latest test is “incrementally more important” than earlier trials like JPMorgan’s onyx private blockchain and unified ledger, a concept introduced by the Bank of International Settlements (BIS) last year.
-
-
-
-
-
-
-
-
-
-Rendering his opinion on the ongoing development, Raj Dhamodharan, executive vice president for blockchain and crypto at Mastercard, highlighted the importance of significant partnerships in blockchain exploration. According to him, it will be critical for public and private organizations to partner closely to explore how to apply blockchain solutions to solve real-world pain points and improve efficiencies.
-
-
-
-Dhamodharan’s comment supports the statement by Larry Fink, BlackRock’s chief executive, who described asset tokenization as “the next generation for markets.” Fink’s statement aligns with his company’s recent announcement that it has entered the second stage in its plan for a crypto-based revolution in financial markets. BlackRock noted the revolution would involve launching a tokenized private equity fund.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Religious leaders debate going to church in the metaverse
-
-When the first radio and television broadcasts began to trickle into homes around the world, religious programming was among the early mainstays of both new mediums. Now, as the world pivots away from flat, 2D screens and frequency-bound audio broadcasts, religious practitioners from around the globe have begun adopting metaverse, Web3, spatial computing, and artificial intelligence technologies as conduits to faith. However, there are still naysayers who believe there are dangers associated with these technologies, faith leaders who wonder if modern technological trappings are necessary, and billions of traditional religious followers awaiting guidance. On the supporting side, Sreevas Sahasranamam a Professor at the University of Glasgow, recently expounded on the positive potential for a metaverse for practitioners of the Hindu faith in Swarajya magazine:“Imagine getting Geetopadesha straight from Lord Krishna. No, I am not talking about being on a Sci-Fi time machine to take me back in time to the Kurukshetra war. Rather, I am talking about being in my living room, donning the role of Arjuna, seeking answers to my internal battles through Geetopadesha from Lord Krishna's avatar on a Ray-Ban Meta glass.”Many see the immersive qualities of the metaverse, especially when experienced through virtual reality, as a method to bring them closer to the scriptures and stories surrounding their religions. Sahasranamam also wrote about using the metaverse as a meditation aid, saying that the immersion it offered could lead to deeper and more meaningful experiences. Not everyone is as pumped about the potential for the metaverse as a religious tool. Gavin Ortlund and Jay Kim, theologians and Christian pastors from the United States, see it as something that could add to the current fellowship paradigm, but both men appeared to agree that it wasn’t a replacement for physical churches. The two discussed the issue in a recent video. During the talk, Kim wondered aloud if the idea of “church in the metaverse” was an oxymoron. The duo’s main objection appears to be the digital/virtual nature of the metaverse. Per Ortlund:“So, baptism and the Lord’s Supper, and those are physical acts, a church is irreducibly physical, you know, you need physical bodies for church because you have to have people there to get into the water or to eat the bread and wine. And so that’s just one example of where something gets lost if you’re moving away from face to face, bodily contact.”In Rome, the Catholic church takes a different view altogether. It embraces some metaverse tech, having dabbled in Web3, non-fungible tokens (NFTs), and metaverse for the past couple of years, but Pope Francis, its current leader, isn’t a fan of all future-facing technologies. As Cointelegraph recently reported, the Pope had some choice words concerning the onset of the artificial intelligence era:“There is the substantial risk of disproportionate benefit for the few at the price of the impoverishment of many.”His ultimate prescription is to advocate for the development of a strong moral and legislative bulwark against the existential and detrimental harms posed by AI, though he does recognize the benefits of technology when used responsibly. Related: Islam and crypto: How digital assets can comply with Islamic financial law
-
-----------------
-
-This Week in Crypto Games: 'Notcoin' Token Launch Date, 'Fantasy Top' Takes Over, and Rugging for Fun - Decrypt
-
-The crypto and NFT gaming space is busier than ever lately, what with prominent games starting to release, token airdrops piling up, and a seemingly constant array of other things happening at all times. It’s a lot to take in!Luckily, Decrypt’s GG is all over it. And if you need a quick way to get caught up on the latest moves around crypto video games, we’re happy to present This Week in Crypto Games.Our weekend roundup serves up the biggest news from the past week, along with a few other tidbits you might have missed. We also showcase a few of our original stories from the week.Biggest newsNotcoin launch confirmed: After missing a couple previous estimates, Notcoin has finally announced that the NOT token launch has a confirmed date. Notcoin’s NOT token, which will be minted on The Open Network (TON), will be listed on May 16. Binance and OKX are both running staking reward campaigns beginning on May 13.Viral Telegram-based game Notcoin paused its gameplay in April ahead of its imminent token launch, but it didn’t come as quickly as expected. Originally planned for April 20 alongside the Bitcoin halving, the devs pushed the launch date back to ensure a smooth launch.Fantasy Top dropped: A new crypto social media game has entered the lobby. Fantasy Top takes the core principles of fantasy football and swaps in 120 crypto influencers, traders, and content creators. And it’s dominating the crypto conversation right now.Influencers who are turned into NFT cards, called heroes, are rewarded with a percentage of their cards’ trading volume, as well as part of the total pack sale revenue. A cool $1.25 million worth of ETH was distributed to Twitter influencers last week. Getting rugged is fun?: A new game launched last week turns minting Ethereum meme coins into a competitive game. Rug.fun is a two-phased 24-hour game that sees investors attempt to create and buy into the highest and lowest liquidity meme coins. Anywhere in-between when the timer hits zero? Then you’re getting rugged.By the creators of Mint.fun, an NFT discovery site that was just acquired by Zora, the Context team airdropped the first token made using the protocol to victims of previous rug pulls. ICYMIGG spotlightHere are a few of our original stories from this past week that we think are well worth a weekend read:Edited by Andrew HaywardStay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-Another Bitcoin Earthquake in Hong Kong: This Time They Are Working on "Bitcoin Collateralized Mortgage" - Bitcoin Sistemi
-
-
-Hong Kong, known for its financial center status, recently hosted the Bitcoin Asia conference. The event attracted a significant number of participants from mainland China, despite the country's ban on commercial cryptocurrency trading. Organized by BTC Inc, which also runs the Bitcoin Conference and owns Bitcoin Magazine, the conference was attended by approximately 5,500 participants, half of whom are estimated to be from mainland China.
-David Bailey, co-founder and CEO of BTC Inc, noted that interest in the conference was strong due to Hong Kong's imminent launch of spot Bitcoin ETFs and anticipation of the launch of Ethereum ETFs, as well as an increase in the development of layer 2 projects. “I think ETFs are kind of an admission that Bitcoin is here to stay,” Bailey said.
-
-
-
-New ETFs in Hong Kong that accept in-kind subscriptions and allow purchases made with Bitcoin and ETH have been positively received by cryptocurrency investors. According to Bailey, this feature is “very important” because crypto investors can use ETF shares as collateral for loans. Harvest Global and ChinaAMC, managers of Hong Kong's crypto ETFs, confirmed they are working to promote collateralization of ETF products in the city.
-*This is not investment advice.
-
-
-
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Bitcoin Hovers Below $62,000, But Could This Signal a Bottom? - DailyCoin
-
-
-        
-The price of Bitcoin has slumped after reaching a record high. Analysts are now debating whether the worst is over.
-
-
-
-Weak investors have likely sold their holdings, while strong believers are accumulating more Bitcoin. 
-
-
-
-Analysts suggest the lack of widespread “buy-the-dip” chatter could be a bullish signal.
-After reaching a new all-time high of $73,750 in March, Bitcoin has experienced a significant correction, consolidating around the $60,000 mark. This price drop initially ignited a “buy-the-dip” frenzy among cryptocurrency traders, confident that Bitcoin would quickly rebound. Is Bitcoin Price Nearing a Bottom?Recent trends suggest this buying pressure might be waning, and according to some analysts, this could be a positive sign for the future of Bitcoin’s price. Cryptocurrency analytics platform Santiment observed a decline in social media chatter around “buying the dip,” which they view as a potential indicator that the market is nearing a bottom. Historically, periods of extreme negativity often follow Bitcoin crashes, with “buy-the-dip” sentiment fading as fear sets in. However, Santiment suggests that the current decline in such conversations might signify a shift. 
-With the weak hands, or risk-averse investors, likely having sold their holdings, the remaining players could be the more resilient bulls who are strategically accumulating Bitcoin at its current price point. While definitively identifying a market bottom remains impossible until after the fact, some technical factors provide a glimmer of hope. Key support levels on the Bitcoin chart haven’t been breached, and the underlying fundamentals of the cryptocurrency haven’t changed significantly. If Bitcoin can maintain its position above $60,000, it could be a strong indication that the correction has reached its floor.Bullish Signs Emerge Despite Short-Term DipFurther bolstering the bullish case is the ongoing positive narrative surrounding the Spot Bitcoin ETFs. Increased mainstream adoption through these exchange-traded funds could trigger a significant price upswing for Bitcoin. 
-Crypto analyst Willy Woo highlights another positive technical indicator, Bitcoin’s risk signal recently printed a lower high. This formation has historically paved the way for bullish trends, suggesting a potential reversal in the near future.Bitcoin is currently trading at $61,000, reflecting a 4.2% dip in the last week. While the immediate future might see continued consolidation, factors like the halving event, which significantly reduces the supply of new Bitcoin entering the market, still has the potential to lead to bullish price movement in the coming months.On the Flipside
-The decline in “buy-the-dip” chatter could also indicate a waning of investor interest, rather than just resilience from remaining holders.
-
-
-
-While historical trends offer some insight, technical indicators like the “lower high” haven’t proven to be foolproof predictors of future price movements.
-Why This MattersThe decline in “buy-the-dip” chatter could signal a shift in investor sentiment, with fear giving way to strategic accumulation by long-term holders. This, combined with strong technical indicators and upcoming events like ETF approval and the halving, suggests a potential bottoming out and future price surge for Bitcoin.Bitcoin has seen a lot of innovation lately. If you’re interested in the latest advancements, then this article on ARC-20 tokens is a must-read:ARC-20: What Are Bitcoin Atomicals?Bitcoin’s price is always fluctuating, and it can be hard to know what’s going on. This article explores the mixed signals surrounding Bitcoin’s price:DailyCoin Bitcoin Regular: BTC Faces Mixed Signals as Weekly Close Looms    
-              
-    
-
-----------------
-
-Shiba Inu Adoption Grows: Buy Nike Gear and PS5 with SHIB
-
-
-CoinGate, a fintech company based in Lithuania, has boosted the utility of Shiba Inu (SHIB) by integrating it with Polygon and Binance Smart Chain (BSC). 
-This strategic move allows SHIB holders to purchase products from major brands like Nike and book services like Airbnb.
-Shiba Inu Price Consolidates Despite Growing Adoption
-The payment gateway CoinGate acts as a link between crypto and traditional finance, facilitating digital asset transactions for goods and services. The inclusion of SHIB tokens on these platforms enhances accessibility and presents numerous opportunities for SHIB holders to participate in real-world transactions. 
-
-“Shibarmy, use your SHIB to book Airbnb, grab the latest games from Steam & PS5, refresh your wardrobe with Nike & Zalando and more,” CoinGate wrote.
-
-
-Read more: How To Buy Shiba Inu (SHIB) and Everything You Need To Know
-Moreover, Shiba Inu is not just expanding its transactional use. It is trying to evolve beyond its meme coin origins. The launch of Shibarium, an Ethereum layer-2 scaling solution, represents a significant step forward in improving blockchain efficiency. 
-This update includes a major hard fork completed earlier this month, which is expected to result in faster transactions and more stable gas fees, enhancing the overall user experience.
-
-In April, the Shiba Inu team also made headlines by raising $12 million to develop a new layer-3 blockchain. This fundraising attracted significant contributions from notable investors, including Polygon Ventures, Mechanism Capital, and Animoca Brands, highlighting the growing confidence in SHIB’s potential.
-Despite these advancements, the price of SHIB has been consolidating. Since May 7, it has fluctuated between $0.00002379 and $0.00002227. A breakout could propel the price to $0.00002558, marking an increase of over 13% from current market price. 
-Read more: Shiba Inu (SHIB) Price Prediction 2024/2025/2030
-Shiba Inu (SHIB) Price Performance. Source: TradingView
-Conversely, a breakdown could see the price drop to approximately $0.00002080, nearly 8% below the current level.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Crypto market's weekly winners and losers - TON, RNDR, BONK, CORE - AMBCrypto
-
-
-
-Toncoin, Render, and Akash Network had the biggest gain in the past week.
-Core, Bonk, and Pendle were the biggest losers in the past week.
-
-This week, Toncoin [TON] emerged as the top gainer, leading the charge among cryptocurrencies. Other notable gainers included AI and computing-related tokens, which also performed well in the market.
- However, the charts indicated that the trend of meme coins has subsided, at least for now. 
-Bonk [BONK] was highlighted as one of the biggest losers over the past week, signaling a downturn for meme coins in the current market conditions.
-Biggest winners
-Toncoin
-AMBCrypto’s analysis of Toncoin’s price movement revealed a steady climb throughout the week, starting at approximately $5.9 on the 5th of May and reaching around $6.8 by the 11th of May. 
-CoinMarketCap’s data indicated a 24.35% increase over the past seven days, positioning TON as the top gainer for the week. Toncoin surpassed $7 at one point before settling around $6.8 at week’s end. 
-As of this writing, TON was trading at around $6.9, boasting a market capitalization exceeding $24 billion.
- However, its trading volume has decreased by over 60% and was around $267.5 million at the time of this writing.
-Render
-AMBCrypto’s look at Render’s [RNDR] chart showed a strong performance over the past week. 
-According to AMBCrypto’s assessment of the daily timeframe chart, RNDR started the week with a strong 10.28% surge, elevating its price from approximately $8.9 to $9.8. 
-Subsequently, on the 9th of May, it experienced another significant increase of over 9%, driving its price to around $10.85. Despite some declines during the week, its overall uptrends compensated for any losses.
- Although it closed the week in the red, its price remained at around $10.9.
-Source: TradingView
-Also, CoinMarketCap data confirmed a notable 20.80% increase in the week for Render, making it the second-highest gainer. 
-Similar to TON, RNDR also witnessed a decline in trading volume over the past 24 hours, with a reduction of over 50%.
-As of this writing, its volume was around $210.5 million, with a market capitalization of around $4.2 billion. However, it was trading at around $10.8 as of this writing, with around a 0.6% decline. 
-Akash Network
-Akash Network [AKT] emerged as the third-largest gainer in the past week, boasting an impressive 18.33% increase, as reported by CoinMarketCap. 
-Analyzing AKT’s price trend revealed that it started the week trading at approximately $5. However, it experienced downturns on the 7th and the 8th of May, falling to as low as $4.2. 
-Nevertheless, the token rebounded on the 9th of May, concluding the week at around $5.7. 
-At press time, it traded within the $5.7 price range, with a market capitalization was around $1.3 billion, although it has declined by over 3% in the last 24 hours. 
-Additionally, its trading volume has decreased by over 50% during the same period, at around $122.3 million at press time.
-Biggest losers
-Core 
-Core [CORE] experienced a significant decline of 14.62% in the past week, placing it among the top losers, as indicated by data from CoinMarketCap. 
-CORE’s price trend revealed a challenging trajectory, with the token starting the week at approximately $1.9 and subsequently experiencing a steady decline. By the week’s end, its price had plummeted to around $1.5.
-However, there are signs of a potential uptrend as of the current writing, with the token attempting to recover and trading at around $1.7. 
-Additionally, its market capitalization was around $1.5 billion at the current time, showcasing an almost 5% increase in the last 24 hours.
-Despite this attempted recovery, Core’s trading volume has decreased by almost 5% in the last 24 hours, currently at around $66.7 million. 
-Bonk
-Bonk, once considered a high-flying memecoin, has faced negative performance in the past week.
- AMBCrypto’s examination of its daily timeframe price trend revealed a negative pattern resembling a declining staircase, indicative of a notable decline. 
-Source: TradingView
-The week began with a stark decline of over 4%, with BONK trading at around $0.000026.
- Subsequently, it witnessed three consecutive days of declines until experiencing a slight uptick on the 9th of May, where it saw an over 5% increase.
- However, by the end of the week, its price had dropped to around $0.000022, marking it as the second-largest loser of the week with a decline of 14.44%, according to CoinMarketCap data.
-As of press time, Bonk’s market capitalization was around $1.45 billion, representing a decrease of over 2%.
- Additionally, its trading volume has decreased by over 50% to approximately $103.5 million, indicating reduced market activity. 
-Pendle
-Pendle [PENDLE] experienced a downturn this week, emerging as the third-biggest loser according to CoinMarketCap data, with a 13.55% loss in value over the past week. 
-The price trend analysis revealed that the week started at around $5.0, with a brief surge to over $5.3 on the 6th of May. 
-However, from the 7th of May onward, the price began to decline steadily, ultimately settling around $4.3 by the week’s end.
-At the time of writing, Pendle’s market capitalization had decreased by over 3% in the last 24 hours, standing at approximately $1 billion. 
-Furthermore, trading volume witnessed a nearly 50% decline within the same period, reaching around $25.7 million.
-Conclusion 
-Here’s the weekly recap of the biggest gainers and losers. It’s crucial to bear in mind the volatile nature of the market, where prices can shift rapidly.
-Thus, doing your own research (DYOR) before making any investment decisions is best.
-
-
-
-
-
-
-----------------
-
-$81,000 Drained From Wells Fargo Account, Sent To Citibank - Victim Says She Received No Alerts, No Care, No Compensation - The Daily Hodl
-
-
-								A woman who discovered tens of thousands of dollars missing from her Wells Fargo account says the financial giant is failing to protect its customers.
-The victim, who wants to remain anonymous to protect her identity, says thieves looted more than $81,000 from her account via electronic transfers, reports FOX News Memphis.
-
-
-
-
-
-
-
-
-
-
-The woman says she had only withdrawn money from her account three times after opening it five years ago.
-She says the incident happened in November, but she noticed the theft months later because she did not receive any suspicious activity alert or notification from Wells Fargo.
-“I couldn’t believe that this was happening to me. I wasn’t expecting anything to go out of that account. I called the bank immediately…
-I would want them to refund or reimburse my money back.”  
-The victim says Wells Fargo told her the funds were transferred to a Citibank account under her name and social security number. But she says she never opened a Citi account and was not alerted by the banking giant that someone was using her personally identifying information to open one.
-She says she’s worried that she may not see a single cent of her money after both Wells Fargo and Citi told her that they would not reimburse the looted funds. She also says Wells Fargo is blaming her for not taking immediate action.
-“[They’re] saying, ‘If you would have told us within two hours, we would have stopped that transaction from happening,’ when they did not even send an alert.”
-The victim says she doesn’t know how her details got exposed because she only shared her name, social security number and bank account with two potential lenders in September when she was buying a house and to the town she’s living in for bills purposes.
-Without recourse, the woman now says she’s taking all her money out of her Wells Fargo account.
-“I am changing banks. I am not ever going to trust a bank that does not care for its customers.”
-VIDEO
- 
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Canada’s Financial Regulator Fines Binance Holdings $4,300,000 Over Alleged Anti-Money Laundering Failures: Report - The Daily Hodl
-
-
-								Regulators in Canada have reportedly fined Binance millions of dollars after the crypto exchange allegedly failed to comply with anti-money laundering and terrorist financing laws.
-According to a new report by Reuters, The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) is penalizing the world’s largest crypto exchange platform by volume after it failed to register as a foreign money services business.
-
-
-
-
-
-
-
-
-
-
-FINTRAC says it fined Binance $4.38 million after it failed to report receiving crypto assets worth C$10,000 ($7,310) or more on 5,902 separate instances between June 1st, 2021 and July 19th, 2023.
-Binance decided to leave Canada in May of last year after it said it had issues with the country’s regulations on investor limits and stablecoins.
-At the time, Binance said Canada’s new regulations rendered its market “no longer tenable.”
- “Unfortunately, new guidance related to stablecoins and investor limits provided to crypto exchanges makes the Canada market no longer tenable for Binance at this time. 
-We put off this decision as long as we could to explore other reasonable avenues to protect our Canadian users, but it has become apparent that there are none.”
-However, Binance said that it would consider returning to Canada  the country establishes proper regulations. Also last year, Changpeng Zhao, the Canadian chief executive of Binance, pleaded guilty in a US court to violating anti-money laundering laws.
-Zhao was sentenced to four months in prison and Binance was slapped with a massive $4.3 billion penalty.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Bitcoin Nears $60,000 Amid Post-Halving Volatility and Market Speculation
-
-
-
-                    
-
-Bitcoin‘s price recently approached the $60,000 support level as it faced the post-halving “danger zone,” causing concern among investors. 
-
-
-
-On May 10, data from Cointelegraph Markets Pro and TradingView highlighted Bitcoin’s intraday lows reaching $60,190 on Bitstamp. 
-
-
-
-
-The cryptocurrency experienced a sharp decline from around $63,000, sparking varied speculations about the cause of this drop.
-
-
-
-Trader Skew, discussing the market dynamics on X (formerly Twitter), pointed out, “Monthly open has been swept again as well monthly buyers taken out. 
-
-
-
-If bulls want higher & want to break this downtrend its here imo,” indicating a critical juncture for Bitcoin bulls around the $60.8K to $61K range, which he identifies as a key area for potential bullish action.
-
-
-
-
-Material Indicators, a trading resource, suggested that large-volume institutional players might be influencing the market, speculating, “that some institutional entity may not want to see Bitcoin breakout over the weekend while the BTC ETF market is closed,” reflecting concerns over market manipulation during off-hours.
-
-
-
-An analysis of the order book on Binance showed a new sell block around $62,500, which was predicted to possibly adjust post-weekly close. 
-
-
-
-READ MORE: U.S. Regulators Increase Scrutiny on Crypto Firms Amid Rising Market Manipulation Concerns
-
-
-
-Material Indicators further speculated, “I won’t be the least bit surprised if this sell wall moves lower to push price down. 
-
-
-
-
-“I also won’t be surprised if we see a roof pull after the W candle closes on Sunday,” suggesting potential strategic moves in the market.
-
-
-
-Rekt Capital, a popular trader and analyst, updated his views on Bitcoin’s behavior post-halving. 
-
-
-
-He noted that the typical price drop following a halving event was nearing its end, marking a close to the “danger zone.” 
-
-
-
-He recalled his prediction from the end of April about a significant downturn, which materialized as Bitcoin fell to two-month lows at $56,500. 
-
-
-
-Reflecting on the market’s response, he concluded, “Bitcoin indeed downside wicked below the Re-Accumulation Range Low just like in 2016. 
-
-
-
-Thus price-wise, the Post-Halving ‘Danger Zone’ purple has been satisfied,” yet he also noted, “Time-wise however, the ‘Danger Zone’ officially ends in 2 days.”
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Viral Pepe (PEPEVIR) Will Explode 14,000% Ahead of MEXC Listing, as Shiba Inu, Bonk and Dogecoin Lag
-
-
-
-                    
-
-Early investors in memecoins like Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) made astronomical returns, and Viral Pepe (PEPEVIR) presents a similar opportunity for a limited time.
-
-
-
-Viral Pepe (PEPEVIR), a newly launched Solana memecoin, is poised to explode over 14,000% in a matter of days, as former Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) investors pour funds into this new token.
-
-
-
-
-PEPEVIR will be listed on MEXC, one of the largest centralized exchanges in the world, within a few days – and this is a massively bullish development for the token, as millions of new investors will easily be able to buy Viral Pepe.
-
-
-
-Currently, Viral Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-To buy PEPEVIR on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Viral Pepe by entering its contract address – AKN68pzqJzSDNfiv7nDFk27ny5TkgKFjmKEozcwYszVq – in the receiving field.
-
-
-
-
-PEPEVIR currently has a market cap of just under $15,000, meaning it has huge upside potential.
-
-
-
-Early investors could make returns similar to those who invested in Shiba Inu (SHIB), Dogecoin (DOGE) and Bonk (BONK) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-                
-
-                
-
-----------------
-
-BofA Announced: "June Will Be a Month to Remember", Here's Why - Bitcoin Sistemi
-
-
-Bank of America (BofA) analysts predicted that June will be an “unforgettable” month with important decisions expected from many central banks.
-This week has been a week full of surprises from central banks, with the Bank of Sweden (Riksbank) cutting interest rates and the Bank of England (BoE) expressing more confidence than previously expected that inflation will move in the desired direction.
-
-
-“We got a glimpse of what June will look like for markets, when many central banks will make important decisions,” BofA analysts said. Analysts continued: “All together, we may be entering one of the most important months for markets in a long time, where key decisions will be made for many central banks. This could be a June to remember.”
-
-Despite the BoE's 'structural' dovish trend, BofA analysts still believe wage increases will be more stubborn. BofA said, “Our call for the first rate cut in August continues.”
-
-
-
-
-
-Looking ahead, BofA said its focus in Europe will be on March UK labor market data due next week. They also expect the German ZEW indicator to continue improving in May and the first quarter GDP for the Eurozone to provide further insight into the evolution of growth across the region.
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
 FLOKI, BONK's volatile week: Will the bear runs continue? - AMBCrypto
 
 
@@ -9963,3 +9321,343 @@ Start your day with top crypto insights from David Canellis and Katherine Ross. 
 Bitcoin Mining Firm Bitfarms Fires CEO Amid $27 Million Damages Lawsuit - Bitfarms (NASDAQ:BITF) - Benzinga
 
 Toronto-based Bitcoin BTC/USD mining firm Bitfarms BITF fired CEO Geoffrey Morphy on Monday, effective immediately, after he filed a lawsuit against the company claiming $27 million in damages for breach of contract. Previously President and COO, Morphy was promoted to CEO in December 2022. However, in March this year, Bitfarms announced Morphy would be departing the company upon completing its executive search, though he would continue to lead the mining firm in the interim to ensure a "smooth transition."Read the full story at The Block.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+Why Bitcoin holders may need to wait a bit longer for $70K - AMBCrypto
+
+
+
+Buying momentum on Coinbase decreased, suggesting a further decline for Bitcoin.
+The negative Sharpe Ratio indicated that BTC might not produce good gains in the short term.
+
+Bitcoin [BTC] might experience another downturn, according to signals from the Coinbase Premium Index.
+This index shows the level of buying pressure among investors in the U.S.— especially as the nation has a high number of Bitcoin holders.
+High premium values indicate an increase in buying pressure. On the other hand, a low reading of the Coinbase Premium Index suggests a surge in sell-offs.
+The big players are letting go
+According to AMBCrypto’s analysis using CryptoQuant, the index was -0.050 at press time. This was a sign that many U.S. Bitcoin holders were selling instead of accumulating.
+Source: CryptoQuant
+Signal Quant, a wallet profiler and author on CryptoQuant commented on the trend.
+According to the handle, the state of this leading indicator means that Bitcoin’s price might experience another correction before a significant bounce.
+“The current Coinbase Premium trend is currently positive, close to zero. So if the historical pattern repeats itself, we may have a better chance of success if we wait a bit longer and invest in the rebound after the trend turns negative.”
+At press time, the price of BTC was $62,785 — a 2.94% increase in the last 24 hours. Coming from the analysis above, this price increase might not last long.
+But if users in the U.S. start to buy in large numbers, this bearish outlook might be invalidated. However, AMBCrypto considered other metrics to confirm it a rise beyond Bitcoin’s current peak could take more time.
+Risky season is here
+To do this, we looked at the Sharpe Ratio. In simple terms, this metric tells you whether to take a risk with an investment or not.
+If the Sharpe Ratio is positive, it means that the potential Return On Investment (ROI) might be great compared to the risk involved.
+Furthermore, a negative Sharpe Ratio indicates that the possible reward might not be worth the risk. This was the case with Bitcoin, as blockchain analytics tool Messari showed that the reading was -2.22.
+Source: Messari
+However, returns for BTC might start to rise once the metric rises to the zero midpoint. In the meantime, Bitcoin’s total supply in profits was 87.03%.
+For a significant bounce to occur, the percentage might need to decrease. And a reasonable point for it to drop to could be 78.20%. This was the same profit supply Bitcoin had before it rallied back in March.
+If the supply declines to a similar level, BTC might begin a run that could take it above $75,000.
+Source: Santiment
+
+Is your portfolio green? Check the Bitcoin Profit Calculator
+
+In addition, the one-day circulation was down to 17,600, indicating that the number of coins engaged in transactions has decreased.
+Should the circulation increase, Bitcoin might begin another trip down the charts.
+
+
+
+
+
+
+----------------
+
+Hyperinflation Warning: US Bizman, Author Tells Businesses To Stack Bitcoin
+
+
+								Robert Kiyosaki, the author of the bestselling personal finance book “Rich Dad, Poor Dad,” has fired another financial warning shot, this time targeting the US dollar and a potential challenger – a gold-backed stablecoin from the BRICS nations (Brazil, Russia, India, China, and South Africa).
+
+Kiyosaki, a longtime advocate for “real money” like gold, silver, and Bitcoin, fears the BRICScoin could trigger hyperinflation in the US, causing the dollar to lose its global dominance and ultimately collapse.
+Hyperinflation Or Hyperbole?
+While Kiyosaki paints a stark picture of a dollar deluge flooding the US economy, experts remain divided on the BRICScoin’s true impact. The very existence of the stablecoin is still under discussion within the BRICS alliance.
+If it does materialize, its primary purpose would likely be to facilitate internal trade between member countries, potentially reducing their dependence on the US dollar for international transactions.
+
+
+This shift could undoubtedly chip away at the dollar’s global hegemony, but financial experts are more cautious than Kiyosaki when it comes to predicting hyperinflation. The US economy, despite its challenges, still holds significant weight. A complete dollar collapse seems unlikely in the immediate future.
+On Hyperinflation And Stablecoins
+So, what exactly is a BRICScoin, and why does Kiyosaki fear it so much? Stablecoins are cryptocurrencies pegged to a real-world asset, like gold, to prevent the wild price fluctuations often associated with traditional cryptocurrencies.
+
+Bitcoin is currently trading at $62.584. Chart: TradingView
+A gold-backed BRICScoin would theoretically offer stability and potentially challenge the dominance of the US dollar in international trade, particularly for commodities like oil currently priced in dollars.
+Kiyosaki: A Prophet Or Provocateur?
+Kiyosaki is no stranger to bold financial predictions. While his “Rich Dad, Poor Dad” series has sold millions of copies, some of his past forecasts haven’t materialized.
+His dire warnings about the US dollar and hyperinflation should be taken with a grain of salt, especially considering his vested interest in promoting alternative assets like gold and Bitcoin.
+Beyond The Hype: Building A Resilient Portfolio
+
+The BRICS stablecoin, if it materializes, is unlikely to be an overnight revolution. But it could signal a shift in the global financial landscape. The US, facing a potential erosion of its dollar dominance, might have to focus on strengthening its own economic fundamentals.
+Featured image from Getty Images, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Uniswap CEO warns US President to reverse course on crypto policies
+
+Hayden Adams, the founder and CEO of decentralized exchange Uniswap, called on United States President Joe Biden to consider how voters think about crypto when they enter ballot boxes in November.In a May 12 X post, Adams claimed there was “not much time” for President Biden to change the perception many crypto-focused voters had of his administration’s policies on digital assets. According to the Uniswap CEO, the U.S. President was making a “miscalculation” of assuming crypto would be irrelevant in the 2024 elections and allowing Senator Elizabeth Warren and the U.S. Securities and Exchange Commission (SEC) to “wage total war” on the technology.“Republicans smell blood in the water and are turning hard towards crypto,” said Adams. “Not much time for Biden to save it. Anyone close to him or [Democratic] leadership should be expressing how serious this is and pushing for immediate reversal on his approach to crypto (public support/plan and reigning in sec + warren).”Source: Hayden AdamsIn November, U.S. voters will choose whether to elect President Biden to a second term. Since taking office in 2021, he signed one of the first executive orders to establish a regulatory framework for digital assets and nominated Gary Gensler as the SEC Chair. Under Gensler, the SEC has ramped up enforcement actions against crypto firms offering services or products to U.S. residents, resulting in many criticizing the commission for a seemingly inconsistent approach to digital assets. The regulator has civil cases pending against Kraken, Coinbase, Ripple and Binance. Related: Neither Joe Biden nor Donald Trump are crypto championsOn May 8, a majority of members of the U.S. House of Representatives voted in favor of a resolution that would overturn an SEC rule placing restrictions on banks holding customers’ crypto. Before the vote, President Biden said he intended to veto the resolution, letting the SEC’s Special Accounting Bulletin 121 stay in place.With fewer than six months until U.S. Election Day, many in and out of the crypto space have called out the Biden administration for its policies on digital assets — some as a warning like Adams, others as a criticism. Members of Congress are also moving forward with legislation to clarify the roles the SEC and Commodity Futures Trading Commission (CFTC) would play in regulating crypto.Magazine: Opinion: GOP crypto maxis almost as bad as Dems’ ‘anti-crypto army’
+
+----------------
+
+Bitcoin price shows strength as investors anticipate return of money printing
+
+Bitcoin (BTC) rose by 2% in the last 24-hours, recovering after two days of difficulty in surpassing the $61,500 resistance. By sustaining price levels above $62,500, the current upside movement demonstrates that Bitcoin can still experience positive price fluctuations regardless of the U.S. spot Bitcoin exchange-traded fund (ETF) flows, which saw $100 million in net outflows over four days.U.S. spot Bitcoin ETF daily flows, USD million. Source: Farside InvestorsSeveral factors have improved sentiment toward cryptocurrencies, beginning with China's announcement of issuing $138 million in long-term bonds to boost the economy. Although this was expected since the announcement in March, it reaffirmed that governments are acknowledging increased risks of recession. This was in response to data indicating that China's aggregate credit decreased in April for the first time in seven years.Zou Wang, an investment director at Shanghai Anfang Private Fund Management, told Reuters that the market now anticipates further liquidity injections from China's central bank, possibly including cuts to interest rates. Such actions would exacerbate issues stemming from recent expansive measures by the U.S. Federal Reserve (Fed), which led to an increase in the U.S. monetary supply in March for the first time in two years.U.S. M1 monetary base, USD. Source: Fed Saint LouisAt first glance, injecting more money into the economy seems beneficial, but it can lead to higher inflation over time, especially as companies and individuals might delay spending and investment. As fixed-income investors begin to recognize that their returns are barely keeping pace with rising inflation, scarce assets like Bitcoin could become more attractive.Ultimately, investors are likely preparing for a continuous trend where governments will need to keep providing liquidity to forestall economic crises. While some might argue that the stock market would primarily benefit from this added liquidity, high interest rates adversely affect companies by raising their capital costs. Any debt issued in the past 16 years will encounter significantly higher rates upon refinancing.Last week, Fed officials hinted that interest rates might stay elevated for an extended period, according to Yahoo Finance. Minneapolis Fed Chair Neel Kashkari notably stated, "I think it’s much more likely we would just sit here for longer than we expect,” and Chicago Fed Chair Austan Goolsbee remarked, "I think now we wait." This strategy, while seemingly contradicting the push for increased liquidity, is carefully designed to delay inflationary pressures.In essence, the U.S. central bank's actions are intended to encourage more borrowing by companies and individuals to support employment and consumer markets. However, what the Fed cannot foresee is how much of this borrowed money will be spent on scarce assets to hedge against inflation, rather than stimulating the economy. It appears too early to fully evaluate such risks, but Bitcoin investors are skeptical about the Fed’s chances of achieving a soft landing.Related: Japanese listed firm adds Bitcoin as reserve asset with 117 BTCAdditionally, Bitcoin's value was influenced on May 13 by an unexpected factor: the return of social media influencer "Roaring Kitty," a former marketer who played a pivotal role in the GameStop (GME) stock rally in 2021. Having been inactive on the X social network for nearly three years, the Bitcoin community appears hopeful for some form of remarkable influence from this personality.Cryptocurrency investors anticipate a positive shift in sentiment toward digital assets, fueled by a growing distrust in banks and traditional finance, especially in light of recent government bailouts, including the rescue of Philadelphia-based Republic First Bank. These investors believe that these developments may drive more participants toward cryptocurrencies.This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+
+----------------
+
+HarryPotterObamaSonic10Inu unveils new memechain technology - Crypto Briefing
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+----------------
+
+Crypto ETPs See First Institutional Inflows in Five Weeks, With $130,000,000 Hitting Markets: CoinShares - The Daily Hodl
+
+
+								Digital assets manager CoinShares says institutions resumed investing in crypto products last week after a five-week break.
+In its latest Digital Asset Fund Flows report, CoinShares finds that digital asset investment products brought in $130 million in inflows last week after four weeks of outflows.
+
+
+
+
+
+
+
+
+
+
+“Digital asset investment products saw inflows for the first time in five weeks totaling $130 million. ETP (exchange-traded product) volumes continue to subside, though, with $8 billion for the week compared to $17 billion average in April. These volumes highlight ETP investors are participating less in the crypto ecosystem at present, representing 22% of total volumes on global trusted exchanges relative to 31% last month.”
+Source: CoinShares
+Regionally, the US led inflows with $135 million. While Switzerland and Hong Kong also saw crypto ETP inflows of $14 million and $19 million, Canada and Germany saw outflows of $20 million and $15 million.
+“Hong Kong, after a prior week of record inflows, saw just US $19 million inflows, suggesting the majority of the first-week post-Bitcoin ETF launches were seed capital.”
+Bitcoin (BTC) ETPs, per usual, led crypto products with $144 million in inflows. Solana (SOL), Polkadot (DOT), XRP and Litecoin (LTC) also enjoyed inflows of $5.9 million, $1.2 million, $0.6 million and $0.1 million, respectively, Ethereum (ETH) products suffered $14.4 million in outflows.
+“Low interaction by the US regulators with ETF (exchange-traded fund) issuer applications for a spot Ethereum ETF have increased speculation that the ETF approval is not imminent, this has been reflected in outflows which totaled $14 million last week.”
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Featured Image: Shutterstock/swatchandsoda/Sensvector/David Sandron/WindAwake
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Tether CEO Dismisses SEC Probe Rumors as Malicious FUD - DailyCoin
+
+
+        
+Brad Garlinghouse warned of impending enforcement action against Tether.
+
+
+
+Tether’s CEO wrote off the claim as fear-mongering.
+
+
+
+Ripple is planning to launch a competing stablecoin product.
+Tether has carved out a dominant position as the world’s leading stablecoin provider, with USDT boasting the highest trading volume and largest market capitalization. However, the company has faced persistent doubts over the years, particularly on the matter of its reserves being sufficient to cover all of the tokens it has issued.Playing on these doubts, Ripple CEO Brad Garlinghouse recently warned that Tether is currently under investigation by US authorities. However, Tether CEO Paolo Ardoino has since pushed back, dismissing Garlinghouse’s claim as intentional fear-mongering and malicious misinformation from a rival.Tether is Number 1 For a Reason: ArdoinoArdoino fired back at Garlinghouse by deriding his comments as baseless fear-mongering from an “uninformed CEO,” whose own company is currently engaged in a high-profile legal battle with the Securities Exchange Commission (SEC).
+Doubling down, the Tether chief asserted that USDT has rightly earned its status as the leading stablecoin thanks to its proven track record, solid backing from top-tier custodians, and robust compliance measures, which included respecting OFAC sanctions lists, training investigators monitoring blockchain activity, and working hand-in-hand with law enforcement agencies globally to stamp out criminality.Ardoino also emphasized USDT’s vital role in underbanked emerging markets, where millions rely on the stablecoin for spending and saving. Turning the tables, the Tether boss alleged that Garlinghouse’s alarming statements were likely motivated by Ripple launching a competing stablecoin product, with the comments being an attempt to undermine Tether’s reputation. Industry-Wide RiskGarlinghouse’s alarming statements about Tether came from a recent interview in which he expressed concerns about the impact of a US authorities’ Tether probe. The Ripple boss stated that the crypto industry has demonstrated a high degree of resilience following the imprisonment of Sam Bankman-Fried and Changpeng Zhao.
+However, Garlinghouse warned that another “black swan” type event is inevitable, with US investigations into Tether’s operations a foreseeable event that worries him the most."The US govt is going after Tether. That is clear to me," claimed Garlinghouse. Given that Tether is deeply rooted across the crypto ecosystem, Garlinghouse expressed apprehension about the potential industry-wide impact of any major regulatory actions against the stablecoin.On the Flipside
+Garlinghouse did not provide a source for his claim that the US government is coming for Tether.
+
+
+
+The SEC has objected to Ripple‘s plans to launch a stablecoin.
+
+
+
+Tether offers near real-time data on its circulating tokens and quarterly audited reports on its reserves.
+Why This MattersTether’s persistent challenges have highlighted the stablecoin industry’s struggles to establish credibility and build public trust amid increased scrutiny. Although an SEC probe into Tether remains unconfirmed, such an investigation may be disastrous given USDT’s roots across the market.Tether set to launch smartphone to rival Google’s Android dominance.Tether’s “Pear Phone” to Battle Google as Tech Giant StrugglesEl Salvador takes government transparency to another level with new Bitcoin tracker.El Salvador Bitcoin Tracker Spearheads Govt Transparency    
+              
+    
+
+----------------
+
+Tether CEO Claps Back At 'Uninformed' Ripple CEO's Criticism - Benzinga
+
+Tether CEO Paolo Ardoino on Monday targeted Ripple XRP/USD CEO Brad Garlinghouse, labeling him “an uninformed CEO” and criticizing his commentary on its stablecoin, USDT/USD, during ongoing SEC investigations and Ripple’s own stablecoin launch.What Happened: Ardoino’s tweet vehemently defended USDT’s credibility and emphasized its crucial role in global finance, especially in developing regions where traditional banking services often fail to reach the unbanked population.Ardoino used the platform to underline the stability and reliability of USDT, describing it as key for communities in unbanked regions.He pointed out that USDT serves as both a transactional and a savings medium, providing essential financial services where conventional banks have not.“USDT has consistently demonstrated strong price stability, ample liquid reserves, and adherence to high compliance standards with premier custodians,” Ardoino tweeted, countering the negative portrayal of stablecoins and cryptocurrencies often seen in mainstream media. He argued that such biased reports protect traditional financial interests while overshadowing the substantial benefits that cryptocurrencies like USDT offer to global finance.Further delving into Tether’s operational practices, Ardoino highlighted the company's rigorous compliance measures, including adherence to OFAC/SDN lists and a robust internal investigation framework that utilizes advanced tools for monitoring market activities.Also Read: Arthur Hayes: ‘Major Economies To Print Even More Money’ In The Next 24 MonthsTether's proactive approach is evidenced by its collaboration with 124 law enforcement agencies globally and the use of sophisticated software from partnerships with companies like Chainalysis, he said.Ardoino noted Tether’s aggressive stance against illegal activities, having blocked over $1.3 billion related to scams and hacks, and approximately $1.6 million linked to terrorist financing. “Tether has responded to 198 law enforcement requests in the past year alone, significantly collaborating with U.S. law enforcement to block harmful transactions totaling over $639 million,” Ardoino shared, emphasizing Tether's commitment to safety and regulatory compliance.The CEO also highlighted Tether’s international cooperation, citing strong relationships with entities like Israel's NBCTF and Ukraine law enforcement. Unlike other stablecoins that often require judicial orders to act, Tether's policy allows for immediate responsive measures to threats and illegal activities.What’s Next: As discussions about cryptocurrency’s role in global finance continue to evolve, these themes will likely be explored further at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.The event will delve into the impact of regulatory actions, the role of stablecoins, and the technological advancements shaping the financial landscape, providing a platform for critical dialogue on these pressing issues.Read Next: ‘Republicans Smell Blood In The Water:’ Uniswap CEO Warns Democrats Of ‘Swing States Level Miscalculation’ On CryptoImage: Shutterstock
+
+----------------
+
+Gamestop and Memecoins Rally as RoaringKitty Returns - The Defiant
+
+GameStop stock is up 69% on the day as related memecoins soar.RoaringKitty, an investor, analyst, and influencer, has returned to social media after a 3-year hiatus. They are best known for orchestrating the GameStop ($GME) short squeeze in 2021, which pushed the price of GME from $5 to $81 in less than a monthThe GME pump popularized the concept of “meme stocks,” where company shares increase in price due to social virality, and are often associated with short squeezes, which occur when traders who bet against an asset are forced to close their positions or risk liquidation, resulting in tremendous upward pressure on the asset's price.Following RoaringKitty’s tweet, GameStop stock surged from $20 to $29, briefly reaching $38.GME Stock PriceMemecoins have also rallied as traders speculate that RoaringKitty’s return might bode well for the sector. Since the tweet, PEPE is up 20%, and the GME memecoin is up roughly 1500%.GME Memecoin Price
+
+----------------
+
+OpenAI Shows Off Voice Chatbot, Touts New GPT-4o AI Model - Decrypt
+
+ChatGPT developer OpenAI today announced its latest AI model, GPT-4o—the “O” stands for “omnimodel”—during a spring product update live stream, along with a slew of product updates, including a voice chatbot.OpenAI updated its mobile apps immediately following its announcements and also launched a desktop app for ChatGPT. The company emphasized improvements to its user experience, which it says allows people to better focus on the conversations they have with ChatGPT.“For the past couple of years, we’ve been very focused on improving the intelligence of these models, and they’ve gotten pretty good,” OpenAI chief technology officer Mira Murati said. “But this is the first time that we are really making a huge step forward when it comes to ease of use.”The livestream emphasized a simplified and more holistic approach to generative AI. An “omnimodel”—or natively multimodal—system does everything within its core application instead of coordinating among GPT for text, GPT Vision for images, and so on.“We think it's very, very important that people have an intuitive feel for what the technology can do, so we really want to pair it with this broader understanding,” Murati said.She noted that GPT-4o will be available to both paid and free ChatGPT users, as well as users of ChatGPT’s API. Paid ChatGPT subscribers, Murati added, will continue to have access to up to five times the system capacity of free users. Everyone, she said, should be able to access OpenAI tools.”We're always finding ways to reduce that friction, and recently, we made ChatGPT available without the signup flow,” she noted. In April, OpenAI allowed users to access ChatGPT 3.5 without signing up for an account. OpenAI then showcased ChatGPT’s ability to hold a real-time casual conversation with users, demonstrating a variety of tones and emotions. The demo included ChatGPT singing, laughing, and joking with the OpenAI engineers. The company also claimed that ChatGPT can now determine a user’s emotional state using the mobile phone’s front-facing camera.A new blog post outlined the major developments announced today, leading with “much more natural human-computer interaction.”“It accepts as input any combination of text, audio, and image and generates any combination of text, audio, and image outputs,” the company wrote. “It can respond to audio inputs in as little as 232 milliseconds, with an average of 320 milliseconds, which is similar to human response time in a conversation.”Even before today's announcements, AI and tech enthusiasts suggested a voice chatbot powered by a next-generation AI model would make the personal companions depicted in the sci-fi movie “Her” a reality—including OpenAI CEO Sam Altman, in a cryptic, one-word Twitter post.Using the ChatGPT desktop application, the OpenAI engineers showed that software code could be copied into ChatGPT, allowing the engineer to chat with ChatGPT about it. In the demo, OpenAI also showcased ChatGPT’s ability to perform real-time language translations. ChatGPT was additionally shown explaining a math problem after a photo of the equation was submitted to the app.OpenAI and the broader generative AI industry have publicly committed to fight the use of their technology in the creation of AI-generated deepfakes. OpenAI acknowledged today that GPT-4o presents new safety challenges given its real-time audio and vision capabilities.“Our team has been hard at work figuring out how to build mitigations against misuse,” Murati said. “We continue to work with different stakeholders out there—from government, media, entertainment, red teamers, and civil society—to figure out how to best bring these technologies into the world.”Rumors had been circulating since the beginning of the month about OpenAI’s big announcement, ranging from the release of GPT-5, ChatGPT powering Apple’s new version of Siri, and AI-powered search ahead of Google’s anticipated announcement on May 14. On Friday, Bloomberg reported that OpenAI and Apple closed a deal that would bring OpenAI’s technology to the iPhone.OpenAI CEO Sam Altman took to Twitter to calm the waters on Friday, tweeting, “Not GPT-5, not a search engine, but we’ve been hard at work on some new stuff we think people will love! Feels like magic to me.”Launched in 2015 by Sam Altman, Elon Musk, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston, John Schulman, Pamela Vagata, and Wojciech Zaremba, OpenAI and its wildly popular ChatGPT released in November 2022 have dominated the conversation surrounding generative AI. With close ties and investments from Microsoft, OpenAI’s ChatGPT and Dall-E 3 have been integrated into Microsoft's suite of Office 365 tools and the new Copilot AI assistant.In March, Musk sued OpenAI and Altman, claiming that the AI developer had prioritized Microsoft’s commercial interests over the public good.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Andrew Tate seems confused as he dumps bitcoin to buy GameStop
+
+
+Andrew Tate claims he’s cashed in a portion of his bitcoin holdings and invested the funds into GameStop following a new wave of hype around the controversial stock. However, he can’t seem to decide on a figure. 
+Tate initially said he made a $50,000 investment into GameStop before changing this to half a million. He then upped the ante even more, claiming that he’d actually allotted $6 million worth of his crypto to destroy hedge funds.
+The hype around GameStop was fuelled by the return of investment-focused social media personality Roaring Kitty, who helped inspire the initial GameStop rally in 2021.
+
+When Kitty posted on X (formerly Twitter) for the first time in three years today, GameStop’s price reportedly doubled. In response, Nasdaq has halted the trading of the stock 18 times today, likely due to the sudden price swings. 
+However, these swings apparently haven’t deterred Tate, who claims he’ll hold onto the stock regardless as “PERMA DONATIONS TO THE CAUSE AGAINST THE SYSTEM.” 
+The controversial influencer then described the investment as a ‘spiritual battle’ and claimed that it’s about “pissing off some dork somewhere on wall street with a fucking vaccine and a tiny Johnson.”
+
+Read more: Andrew Tate brags he made millions on PancakeSwap, disses meme coins
+Tate still faces legal troubles in a number of court cases, including four women in the UK suing him over alleged rape and assault and the continuation of his human trafficking case in Romania. 
+Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Bluesky, and Google News, or subscribe to our YouTube channel.
+ 
+
+----------------
+
+Keith Gill's 'Roaring Kitty' Comeback Sparks 1400% Surge Of Kitty-Themed Meme Coin - GameStop (NYSE:GME) - Benzinga
+
+The return of a social media legend has sparked a frenzy in the cryptocurrency world, with memecoins referencing him surging in value.What Happened: Keith Gill, better known online as “Roaring Kitty,” was a key figure in the 2021 meme stock rally, targeting companies like GameStop GME with his online activity.After a long hiatus, Gill’s return to social media sent shockwaves through the financial world, with a new cryptocurrency named after Roaring Kitty (ROAR) seeing a staggering 1400% increase according to CoinGecko data.This particular coin, despite having no affiliation with the company, capitalized on the hype surrounding Gill’s return.Gill’s return wasn’t just felt in the world of traditional finance. The meme coin market, known for its volatility and ties to social media trends, responded with a surge in memecoins referencing both Gill and GameStop.These meme coins, easily created and traded, can experience massive price fluctuations due to their small size and limited availability.One such memecoin, simply called GME/USD is currently valued at $0.010.Also Read: Arthur Hayes: ‘Major Economies To Print Even More Money’ In The Next 24 MonthsWhy It Matters: The demand for meme coins has been steadily rising since late February, as investors flush with cash from established cryptocurrencies like Bitcoin and Ether look for new opportunities.This trend mirrors the events of early 2021, when meme coins like Dogecoin DOGE/USD skyrocketed in value after endorsements from celebrities like Elon Musk.The enthusiasm over Roaring Kitty was palpable on social media, with Twitter user Mike Schmidt commenting, “Imagine fading a Roaring Kitty coin on the biggest shitter chain during a cat szn with the GME legend back as the main character. Man this is fuckin hilarious.” Similarly, the official wallstreetbets Twitter account shared, “My life savings is in the hands of a man that calls himself Roaring Kitty and I could not be more comfortable .”Crypto enthusiasts and traders are keenly observing these developments. According to Gaut, Roaring Kitty gained nearly 200,000 followers shortly after his post, suggesting a strong market reaction.This sentiment was echoed by Size Chad, who linked the event to increased trading volumes on Robinhood, noting their partnership with Arbitrum.Furthermore, Crypto Tea highlighted the broader implications of such movements, tweeting, “Roaring kitty posts a meme and $1 billion gets liquidated. Future of finance.” These events demonstrate the growing intersection between cryptocurrency and traditional financial markets, driven largely by community engagement and speculation.What’s Next: As the community gears up for the Benzinga's Future of Digital Assets event on Nov. 19, these developments will likely be a hot topic.The event will delve into how digital assets are reshaping finance, influenced by social media and community-driven investment trends. Discussions will also cover the regulatory landscape that is struggling to keep pace with these rapid changes, ensuring a comprehensive dialogue on the future of finance in the era of meme stocks and cryptocurrencies.Read Next: Why Grayscale Could Be The Spark ETH Needs: 10x ResearchImage: Shutterstock
+
+----------------
+
+Report Reveals Chinese Workers Converting Earned CBDC To Cash
+
+
+                        
+                            Report Reveals Chinese Workers Converting Earned CBDC To Cash                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 13, 2024 14:12 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Chinese workers are showing a lack of enthusiasm towards the country’s central bank digital currency (CBDC). A report on May 13 revealed that some workers who received their salaries in digital yuan (e-CNY) converted the asset into fiat currency immediately after they were paid, indicating a clear preference for physical cash over the digital alternative.Despite the Chinese government’s efforts to promote the adoption of the digital yuan, a report from the local media outlet South China Morning Post indicates that many workers are hesitant to use it in their daily transactions.Chinese Workers CBDC Concerns Leans on Lack of UtilityThe report surveyed responses from local workers and detailed the reason behind China’s slow uptake of the digital yuan.Ye Dongyan, a researcher at the Cheung Kong Graduate School of Business in Beijing, highlighted the need to balance privacy and security, which has slowed the progress of promoting the digital yuan.“Paper currency is used anonymously, but the digital yuan is different,” he said. “The boundaries between information tracking and information security protection need more deliberation.”Workers in the Chinese civil service also expressed their thoughts on the use of the CBDC.Andrew Wang, a civil servant, said he wasn’t too worried by the idea of digital cash as it was only a small part of his salary being paid in digital yuan. His wife, who receives her full salary in digital yuan, however, withdraws the full amount as regular cash the moment she’s paid due to a lack of utility with the digital currency.He explained that she couldn’t deposit the funds or buy financial products with the e-CNY wallet, which limits the use cases and makes cash a better alternative.It could be recalled that China started trials of the digital yuan in selected cities in 2019, looking for a nationwide rollout amidst fierce global competition to establish a state-backed digital currency. While no specific timeline has been announced for the national launch, the country has actively promoted the currency since the trials began.China’s Digital Yuan Recorded $250B in Processed Transactions
+Yi Gang, the former governor of the People’s Bank of China, told the South China Morning Post that over $250 billion in transactions were processed using the digital yuan as of mid-2023.He highlighted that privacy was still a major issue despite the substantial volumes, however.Unlike traditional cash, which allows for anonymous transactions, digital yuan is traceable, giving the government a high level of visibility into individuals’ financial activities. The lack of privacy raises concerns about surveillance and the potential abuse of personal financial data.While Gang’s concern borders on privacy, a top Chinese law firm analyzed the anti-money laundering (AML) challenges posed by the digital yuan. It highlighted the cross-border nature of digital currency transactions, which can complicate traditional AML monitoring methods.Regardless, the Industrial and Commercial Bank of China, the world’s largest bank by total assets, revealed in its annual report that over 15 million e-CNY wallets were newly created by individuals in 2023, with an additional creation of 1.3 million wallets by business entities, while over 2.7 million businesses joined the list of those accepting the digital currency.Crypto News reported in February that over 29.16 million digital yuan wallets have been opened in Suzhou, China, as individuals and firms transacted over $416,811,390,000 worth of CBDC in 2023.The digital yuan is now utilized in various public services, including tax and social security payments, which are in addition to personal expenditures.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Bitfarms Sees Stock Dip Following CEO Termination
+
+
+Bitfarms announced the termination of Geoffrey Morphy as its interim President and CEO. 
+This decision came shortly after Morphy filed a lawsuit against the company, seeking $27 million in damages for claims including breach of contract and wrongful dismissal. 
+Bitfarms Shares Fall Over 6%
+The company has dismissed Morphy’s claims as baseless and has vowed to defend itself vigorously in the Superior Court of Ontario.
+Morphy’s termination marks a tumultuous period for Bitfarms, which is currently navigating various challenges in the crypto-mining sector. The industry suffers from rising energy costs and intense competition, compounded by the recent Bitcoin halving that has significantly cut revenue from mining operations. 
+
+As Bitfarms continues its search for a CEO, Nicolas Bonta, co-founder and chairman, has stepped in as the interim leader. The company expressed confidence that the executive search is nearing completion, with an appointment expected in the coming weeks.
+
+“The CEO executive search is nearing completion and that the Company will be appointing a new CEO in the next several weeks,” the company wrote.
+
+
+Read more: Is Crypto Mining Profitable in 2024?
+Bitfarms Stock Price. Source: MarketWatch
+The market reacted negatively to Morphy’s firing, with Bitfarms’ shares falling over 6% on the announcement day. Such price action reflects concerns over the company’s stability and future direction, according to Javier Bastardo, Bitcoin Ambassador at Bitfinex.
+
+“Companies in this sector must have a solid structure and know how to navigate different market conditions. However, disputes like this reduce their competitiveness, so beyond the negligible influence I believe this news will have on the industry, it raises questions about the company’s business and leadership,” Bastardo told BeInCrypto. 
+
+Last year, Bitfarms CEO Emiliano Grodzki resigned and was replaced by Geoffrey Morphy, who was fired this year. This comes amid a disastrous year for Bitcoin miners, which caused some large companies to declare bankruptcy.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Stand With Crypto PAC launches as industry interest in campaign funding ramps up - Blockworks
+
+
+There’s a new crypto Political Action Committee (PAC) on the scene. 
+Coinbase-initiated nonprofit Stand With Crypto announced it is launching a new PAC Friday. 
+The associated PAC, which means only individual Stand With Crypto members can contribute up to $5,000 each, plans to back “candidates who support the crypto community,” the nonprofit said on X Friday. 
+Stand With Crypto, a 501(c)(4) nonprofit organization, launched last summer as an effort to give crypto fans more access to information about policy makers and candidates, leaders said. 
+“This is a grassroots, organic bottom-up effort,” Kara Calvert, Coinbase’s head of US policy, said in August 2023 when announcing the new initiative. 
+“It can provide a lot of tools to people, they can learn about the members of Congress, they can access a scorecard, they can access a legislative action portal…it will really give them the tools that they need to engage with their members of Congress,” Calvert added. 
+Read more from our opinion section: Only a fool would vote on crypto alone
+While federal law makes contributions to the PAC tricky, companies and individuals are free to make donations to the nonprofit itself. Crypto payments operation Moonpay on Monday announced a $1 million pledge, an effort the company said was inspired by upcoming elections. 
+“Today, two things are abundantly clear: This year’s election will define the future of our industry in the United States, and it is our responsibility to step up and stand alongside those organizations that want to positively advance crypto innovation for everyone,” Ivan Soto-Wright, Moonpay CEO, said in a statement Monday. 
+Stand With Crypto’s PAC comes on the scene as crypto-focused Super PAC trio Defend American Jobs, Fairshake and Protect Progress continue to dish out cash. The three groups have collectively deployed $31,752,033.81 so far this calendar year, according to Federal Election Commission filings. 
+Read more: Crypto PAC-backed candidates sweep in US election primaries 
+The PACs made a big financial push during the March Congressional primary cycle, doling out more than $10.1 million to fund advertisements against Rep. Katie Porter, the incumbent Democrat from California who ultimately lost her bid for the late Sen. Dianne Feinstein’s seat. 
+The trio is also backing Alabama Democrat Shomari Figures, who is vying for a US House seat in November. Protect Progress donated close to $2 million during his primary campaign in March and April, filings show. 
+Stand With Crypto has not yet filed contribution and disbursement forms with the FEC, but has revealed its first five endorsements: Figures; Jim Banks, a Republican running for Senate in Indiana; Jim Justice, a Republican running for Senate in West Virginia; Eddy Morales, a Democrat running to represent Oregon’s Third District; and Troy Downing, a Republican running to represent Montana’s Second District.
+
+Start your day with top crypto insights from David Canellis and Katherine Ross. Subscribe to the Empire newsletter.
+
+
+----------------
+
+Bitcoin Will Change The World - THAT'S WHY THEY HATE IT #bitcoin #bitcoinnews #shorts - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Bitcoin, Ethereum, Dogecoin, Pumped And Retraced After The Last Inflation Data Release - What To Expect This Month? - Benzinga
+
+With key inflation data scheduled for release this week, Benzinga takes a look at what cryptocurrency traders predict its impact to be.What Happened: CrypNuevo predicts an aggressive market move in response to impending inflation data. He states, "I have the feeling that we’ll just push towards one direction in an aggressive way," acknowledging the possibility of being wrong in his assessment.Considering Bitcoin‘s BTC/USD recent price action, he notes the fact that range lows are acting as support after a deviation, which he considers a good sign.Another, crypto trader Kevin shares his thoughts on the current market sentiment, the impact of macroeconomic factors and potential scenarios for Bitcoin and altcoins. He sees the current Bitcoin price action as "okay" but "not great and not bad." Kevin attributes this ambiguity to the influence of macroeconomic policy and data, which could potentially sway the market in either direction. "It’s a toss-up on which way it breaks due to Macro policy and data," he notes.While the altcoins chart looks "hideous" on the daily timeframe, the weekly and higher timeframes for Total 2-3-Others still lean more bullish than bearish.He cautions, "If CPI comes in bad this week, I think Altcoins are in for a very bad time and I believe BTC will break down and we could see 50K. If it comes in better than expected I see the opposite occurring."Also Read: Bitcoin Up 3%: What Will Inflation Data And Powell Speech Bring This Week?Why It Matters: The crypto traders’ comments highlight the significant influence that macroeconomic factors, such as PPI, and CPI data, can have on the cryptocurrency market.As investors eagerly await the CPI and PPI data, the market remains in a state of uncertainty, with the potential for a sharp move in either direction. While the last three consecutive releases of inflation rates surpassed expectations, traders are awaiting the CPI report on May 15, which is forecasted (3.4%) to come in below the prior month (3.5%). The CPI index is predicted to decelerate from 0.4% to a 0.3% monthly pace.Goldman Sachs economists Manuel Abecasis and Spencer Hill predict a 1.6% rise in car insurance prices, while health insurance costs are expected to stabilize. Rent inflation has slowed to 0.37% while owner's Equivalent Rent (OER) inflation is expected to remain strong at 0.45%  Following the last inflation data (CPI) in mid-April, which saw a marginal increase in CPI data while PPI data saw a significant increase, Bitcoin traded 2.4% higher one day after the meeting, while Ethereum ETH/USD and Dogecoin DOGE/USD gained 0.71% and 0.91%, respectively. However, after the PPI data on the next day, there was a drop across the crypto board.At the time of writing, Bitcoin is trading at around $62,800, up 1.9% on the day. Ethereum and Dogecoin are up 0.1% and 6%, respectively.What’s Next: The influence of Bitcoin as an institutional asset class are topics expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: Bitcoin, Dogecoin, Shiba Inu Pumped After The Last FOMC Meeting—Will History Repeat On Wednesday?Image: Shutterstock
