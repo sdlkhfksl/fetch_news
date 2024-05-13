@@ -1,442 +1,3 @@
-Dogecoin’s ‘golden cross’ could spark a 100% price rally for DOGE
-
-
-Dogecoin (DOGE), the leading meme cryptocurrency by market capitalization, is signaling a possible bullish trend with the emergence of a “golden cross” pattern in its technical charts.
-This pattern previously foreshadowed a significant price rally in early 2021. Currently priced at $0.1438, DOGE has declined by 4.70% over the past day but has shown robust year-to-date (YTD) growth of 60.32%, significantly outpacing Bitcoin (BTC), which has seen a YTD increase of 43.565%.
-The 50-week simple moving average (SMA) of Dogecoin’s spot price is trending upwards and is projected to surpass the 200-week SMA soon, potentially forming a “golden cross”.
-
-
-This bullish technical pattern, which hasn’t occurred since early 2021, previously preceded a significant price rally where Dogecoin soared to its all-time high of over $0.73, following a nearly 8,000% increase.
-A golden cross suggests that new buyers are gaining ground more quickly than long-term holders, marking a potential shift from a bearish to a bullish market phase.
-Dogecoin SMA 50 and SMA 200. Source: TradingView
-The path to this upcoming golden cross began when Dogecoin broke above its 200-week SMA in March with a dramatic 70% price increase in just one week, revitalizing the long-term moving average. This forthcoming golden cross would be the first in over three years.
-However, the last golden cross in 2021 led to significant volatility, resulting in a massive surge followed by a 90% decline, with prices eventually stabilizing between $0.05 and $0.10 from May 2022 to February 2024. 
-This highlights the volatile nature of cryptocurrency investments, especially in meme tokens like DOGE, which are highly susceptible to market sentiment and speculative trading.
-Current market conditions and analyst perspectives 
-Unlike the favorable macroeconomic conditions of 2021, today’s financial environment presents higher interest rates and increased geopolitical tensions, which might affect speculative investments differently.
-Dogecoin descending trendline. Source:  World Of Charts/X
-Renowned crypto analyst, World Of Charts, suggests that despite these challenges, Dogecoin is approaching a critical descending trendline, with a potential breakout that could trigger a 100% surge in its price, aiming for a target of approximately $0.29.
-This optimistic forecast aligns with momentum traders who regard moving average crossovers as pivotal indicators. As Dogecoin’s 50-week SMA continues to rise, it signals potential opportunities for those seeking short-term gains.
-While the impending golden cross offers a hopeful outlook for Dogecoin, the volatile history following such events advises caution. 
-Investors are advised not to rely solely on technical indicators but to also consider the broader economic conditions and personal risk tolerance. A balanced investment strategy is crucial, acknowledging both the potential upsides and downsides. 
-Dogecoin’s journey toward another golden cross could indeed ‘kick-off’ another 100% rally, as suggested by World Of Charts. 
-However, given the speculative nature of the market, participants should approach with caution, keeping in mind that past performance is not indicative of future results.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-Introducing DAO Staking Pool v2: Enhanced Features and Migration Guide 🚀 - zkSwap Finance
-
-
-                
-
-
-
-
-We’re thrilled to announce the launch of DAO Staking Pool v2, an upgrade that brings significant improvements and added flexibility to our staking platform. Here’s a closer look at what’s new and how you can seamlessly migrate to this enhanced version.
-
-
-
-Round 1 Datetime: Monday, May 13th, 2024, 14:00 UTC – Thursday, May 16th, 2024, 14:00 UTC.Who: Current yZF HoldersWhere: https://zkswap.finance/earn/staking
-
-
-
-✨ Notes:
-
-
-
-1. There will be 5 migration rounds, each lasting 3 days. There will be a one-day interval between rounds to prepare for the next round.
-
-
-
-2. After Round 1, the ZF rewards for the current DAO Staking Pool (v1) will cease, and the new DAO Staking Pool (v2) will receive these rewards (5% max supply of ZF over 3 years). DAO Staking Pool (v2) still maintain a 1% unstaking fee distributed to other stakers in the new pool.
-
-
-
-3. Users who stake yZF (v1) into the migration pool will receive the new yZF auto airdropped to their wallet within a maximum of 6 hours after the migration pool ends.
-
-
-
-4. During the migration period, your Boost will remain the same as if you still hold your yZF, thanks to the temporary myZFi1 token. However, you won’t be able to swap with zero fee using Paymaster until you receive the new yZF.
-
-
-
-✨ What’s New in DAO Staking Pool v2:
-
-
-
-1. Flexible Unstake Fee Allocation: One of the key enhancements in DAO Staking Pool v2 is the introduction of a more flexible policy regarding the unstake fee. While DAO v1 implemented a fixed 1% unstake fee distributed to other stakers, v2 allows for this fee to be allocated to various destinations such as other stakers, a burn address, or the treasury.
-
-
-
-2. Burning Mechanisms: The flexibility in the unstake fee allocation opens up possibilities for implementing burning mechanisms for our native $ZF token, enhancing its utility and value.
-
-
-
-3. Precise Unstake Fee Setting: Unlike its predecessor, DAO Staking Pool v2 enables the setting of unstake fees with greater precision, allowing for percentages with more digits. For example, users can now set an unstake fee of 0.12345%, providing finer control over fee structures.
-
-
-
-4. Enhanced User Experience: With DAO Staking Pool v2, users gain visibility into both their original staking amount of ZF tokens and their earnings. This transparency improves the staking experience, empowering users with a clearer understanding of their investment performance.
-
-
-
-5. Heightened Security: While DAO Staking Pool v1 was already secure, v2 raises the bar even further, ensuring that your assets are safeguarded with the highest standards of security protocols.
-
-
-
-✨ How to Migrate to DAO Staking Pool v2:
-
-
-
-We’ve made the migration process as smooth as possible, offering two options for users:
-
-
-
-Option 1: Users can migrate to DAO Staking Pool v2 without paying the 1% unstake fee.
-
-
-
-1. Stake current yZF (v1) into the Migration Pool.2. Wait a maximum of 6 hours after the pool ends.3. New yZF (v2) will be auto airdropped to your wallet.
-
-
-
-The following outlines the reality of what will happen, encompassing both team and user activities:1. Stake your current yZF (v1) tokens into the migration pool and receive an equivalent amount of myZFi1 tokens (1:1 ratio), which serve as temporary placeholders during the migration period.2. At the end of the migration period (typically 3 days), our team will withdraw the yZF tokens staked by users from the Migration Pool.3. We’ll swiftly set the penalty fee for the DAO Staking Pool v1 to 0.4. Exchange yZF for ZF tokens (unstake) from the DAO Staking Pool v1.5. Deposit ZF tokens into the new DAO Staking Pool v2 and receive the equivalent new YZF (v2) tokens.6. Airdrop the new yZF (v2) tokens back to users based on the amount of myZFi1 tokens they possess.
-
-
-
-Option 2: Alternatively, users can1. Unstake from DAO Staking Pool v1 themselves, paying the 1% unstake fee.2. Stake into DAO Staking Pool v2.
-
-
-
-Don’t miss out on the enhanced features and benefits of DAO Staking Pool v2. We recommend choosing Option 1 and joining us in this exciting new phase of the DAO Staking Pool. Happy staking!🌟
-            
-
-                    
-
-----------------
-
-Introducing DAO Staking Pool v2: Enhanced Features and Migration Guide 🚀 | by zkSwap Finance | May, 2024 | Medium
-
-Introducing DAO Staking Pool v2: Enhanced Features and Migration Guide 🚀We’re thrilled to announce the launch of DAO Staking Pool v2, an upgrade that brings significant improvements and added flexibility to our staking platform. Here’s a closer look at what’s new and how you can seamlessly migrate to this enhanced version.Round 1 Datetime: Monday, May 13th, 2024, 14:00 UTC — Thursday, May 16th, 2024, 14:00 UTC.Who: Current yZF HoldersWhere: https://zkswap.finance/earn/staking✨ Notes:1. There will be 5 migration rounds, each lasting 3 days. There will be a one-day interval between rounds to prepare for the next round.2. After Round 1, the ZF rewards for the current DAO Staking Pool (v1) will cease, and the new DAO Staking Pool (v2) will receive these rewards (5% max supply of ZF over 3 years). DAO Staking Pool (v2) still maintain a 1% unstaking fee distributed to other stakers in the new pool.3. Users who stake yZF (v1) into the migration pool will receive the new yZF auto airdropped to their wallet within a maximum of 6 hours after the migration pool ends.4. During the migration period, your Boost will remain the same as if you still hold your yZF, thanks to the temporary myZFi1 token. However, you won’t be able to swap with zero fee using Paymaster until you receive the new yZF.✨ What’s New in DAO Staking Pool v2:1. Flexible Unstake Fee Allocation: One of the key enhancements in DAO Staking Pool v2 is the introduction of a more flexible policy regarding the unstake fee. While DAO v1 implemented a fixed 1% unstake fee distributed to other stakers, v2 allows for this fee to be allocated to various destinations such as other stakers, a burn address, or the treasury.2. Burning Mechanisms: The flexibility in the unstake fee allocation opens up possibilities for implementing burning mechanisms for our native $ZF token, enhancing its utility and value.3. Precise Unstake Fee Setting: Unlike its predecessor, DAO Staking Pool v2 enables the setting of unstake fees with greater precision, allowing for percentages with more digits. For example, users can now set an unstake fee of 0.12345%, providing finer control over fee structures.4. Enhanced User Experience: With DAO Staking Pool v2, users gain visibility into both their original staking amount of ZF tokens and their earnings. This transparency improves the staking experience, empowering users with a clearer understanding of their investment performance.5. Heightened Security: While DAO Staking Pool v1 was already secure, v2 raises the bar even further, ensuring that your assets are safeguarded with the highest standards of security protocols.✨ How to Migrate to DAO Staking Pool v2:We’ve made the migration process as smooth as possible, offering two options for users:Option 1: Users can migrate to DAO Staking Pool v2 without paying the 1% unstake fee.1. Stake current yZF (v1) into the Migration Pool.2. Wait a maximum of 6 hours after the pool ends.3. New yZF (v2) will be auto airdropped to your wallet.The following outlines the reality of what will happen, encompassing both team and user activities:1. Stake your current yZF (v1) tokens into the migration pool and receive an equivalent amount of myZFi1 tokens (1:1 ratio), which serve as temporary placeholders during the migration period.2. At the end of the migration period (typically 3 days), our team will withdraw the yZF tokens staked by users from the Migration Pool.3. We’ll swiftly set the penalty fee for the DAO Staking Pool v1 to 0.4. Exchange yZF for ZF tokens (unstake) from the DAO Staking Pool v1.5. Deposit ZF tokens into the new DAO Staking Pool v2 and receive the equivalent new YZF (v2) tokens.6. Airdrop the new yZF (v2) tokens back to users based on the amount of myZFi1 tokens they possess.Option 2: Alternatively, users can1. Unstake from DAO Staking Pool v1 themselves, paying the 1% unstake fee.2. Stake into DAO Staking Pool v2.Don’t miss out on the enhanced features and benefits of DAO Staking Pool v2. We recommend choosing Option 1 and joining us in this exciting new phase of the DAO Staking Pool. Happy staking!🌟
-
-----------------
-
-Justin Sun Received Millions of Dollars in Airdrops from This Altcoin - Here's the Hard-to-Believe Number - Bitcoin Sistemi
-
-
-An interesting development took place in one of the wallets of Tron founder Justin Sun, one of the most controversial figures in the cryptocurrency world.
-2.08 million EIGEN tokens were airdropped to the “Justin Sun 4” wallet, one of the wallets tagged as belonging to Justin Sun, minutes ago today.
-
-
-According to the data, Justin Sun was the second wallet that staked the most Ethereum on EigenLayer. Sun staked 104,000 ETH directly to EigenLayer and 58,000 ETH through Puffer before March.
-
-However, in the current situation, although the EIGEN tokens in question have been airdropped, their transferability feature has not been opened yet. However, on some pre-launch markets, EIGEN tokens are trading at $7.84 at the time of writing. This shows that Justin Sun was paid approximately $16 million thanks to his stakes. Sun had staked a total of $470 million of ETH to EigenLayer.
-
-
-
-
-
-Officials said that these tokens will become transferable at a date to be determined later. The Eigen Foundation said in a Telegram message that they are targeting September 30.
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Win 100 $SAND From The Sandbox Featured Experiences of the Week | Cryptopolitan
-
-The Sandbox is offering players a chance to win 100 $SAND everyday by participating in one of its four featured experiences of the week: Shadowscape, Octodefense, RapidRumble, and Cyclades.The Sandbox Experiences of the WeekIn case you’re not aware, The Sandbox Game Maker lets creators develop and share unique experiences with other players without the need to write any code. Let’s take a look at what each of these experiences offer.1. Shadowscape Shadowscape in The Sandbox (Source: Shadowscape Experience)The concept of this 2-10 players experience is simple. You have to stay in the light in order to stay alive. You can use lanterns to carry the light, and build campfires with it. Also, you can also help your friends by sharing the torchlights, and build paths using plans. However, what adds excitement to it is that the torches burn out fast. Hence, you need to be fast and creative to survive.2. OctoDefenseOctoDefense in The Sandbox (Source: OctoDefense Experience)OctoDefense is reminiscent of classic tower defense games, where you shoot down enemies to prevent them from reaching the tower. The concept here is somewhat similar. You’re defending zombies from reaching the center, from 8 different directions – hence the term “OctoDefense”.You can shoot projectiles to stop them from reaching the center using the number keys from 1 to 8. However, if the zombies reach the center, you’ll lose 1 life and 2 points. And once you’re out of lives, you lose the game.3. Rapid RumbleRapid Rumble in The Sandbox (Source: Rabid Rumble Experience)Rapid Rumble in The Sandbox simply requires you to be among the fastest and most agile people in the Metaverse. It pits you against other players in a competitive racing environment with 1 – 10 players. All you need to do is run, jump, and clear the obstacles as fast as you can.4. Cyclades In Cyclades, you set about a fast-paced scavenger hunt and gather gems featuring pop culture icons like deadmau5, Paris Hilton, Rabbids, and of course, Snoop Dogg, while facing exciting challenges and twists along the way. The goal is to collect these gems as fast as possible, as you’re racing against the time and other fellow collectors.
-
-
-----------------
-
-Bitcoin at Financial Institutions | Bitcoin for Corporations - YouTube
-
-AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
-
-----------------
-
-Pepe Doge Will Rally 7,600% After Solana Launch, Looks to Challenge Shiba Inu and Dogecoin
-
-
-
-                    
-
-Pepe Doge (PEPEDOGE) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Pepe Doge (PEPEDOGE), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Pepe Doge presents a similar opportunity.
-
-
-
-Pepe Doge has market cap below $15,000 at the moment, meaning that when it just reaches a modest market cap of $200,000-$500,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
-
-
-
-The exciting memecoin is poised to rally 7,600% in the coming two days, and Pepe Doge could potentially reach a multi-million dollar market cap within a few weeks.
-
-
-
-
-Currently, Pepe Doge can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-To buy Pepe Doge on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Pepe Doge by entering its contract address – 7s7VZhFWTez5ykSr214AxnqRTMdcKu5rd77YFAx2DGG1 – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like PEPEDOGE.
-
-
-                
-
-                
-
-----------------
-
-Dogecoin price prediction: Is DOGE at risk of falling below $0.128? - AMBCrypto
-
-
-
-Dogecoin was down by more than 7% in the last seven days. 
-Technical indicators and metrics looked pretty bearish. 
-
-Dogecoin [DOGE] bears stepped up their game as the world’s largest meme coin’s daily chart turned red.
- Concerns for the meme coin were far from over, as a bearish pattern emerged on its price chart, which could cause trouble in the near future. 
-Dogecoin’s bearish move
-According to CoinMarketCap, DOGE’s price had dropped by more than 7% in the last week. In fact, in the last 24 hours alone, the meme coin’s price declined by 5.5%. 
-At the time of writing, the meme coin was trading at $0.1433 with a market capitalization of over $20.6 billion. While the price dropped, it continued to move in a bearish pattern.
- AMBCrypto’s look at DOGE’s chart revealed a bearish descending triangle pattern.
-Source: TradingView
-DOGE’s price entered this pattern in April and had tried to break above the upper trendline a couple of times.
- Unfortunately, it got rejected, which increased the chances of a southward bearish breakout if its price drops below $0.128. A few of the metrics also supported this outcome. 
-For instance, DOGE’s velocity had dropped, meaning that the meme coin was used less often in transactions within a set timeframe. Its MVRV ratio was also in the negative zone. 
-Additionally, DOGE did not witness an influx of new investors of late as its total amount of holders’ chart remained flat. 
-Source: Santiment
-DOGE’s Social Dominance plummeted last week, suggesting a drop in its popularity. Moreover, bearish sentiment remained dominant in the market, which was evident from its low Weighted Sentiment. 
-Source: Santiment
-Dogecoin price prediction 
-To see whether a bearish breakout is inevitable, AMBCrypto analyzed DOGE’s market indicators. We found that DOGE’s price remained under its 20-day Simple Moving Average (SMA), as per the Bollinger Bands.
- Its Relative Strength Index (RSI) was resting under the neutral mark at press time. The meme coin’s Chaikin Money Flow (CMF) also registered a downtick, further hinting at a continued price decline. 
-Source: TradingView
-AMBCrypto then checked Hyblock Capital’s data to find out whether there were any other support levels before $0.128 from which DOGE could rebound. 
-Our analysis found that DOGE had strong supports near $0.143 and $0.139 marks. 
-
-Read Dogecoin’s [DOGE] Price Prediction 2024-2025 
-
-Going further south, DOGE also has support near $0.13. If the coin manages to change the trend after hitting any of these levels, then its value might touch $0.146 soon.
- However, if a bearish breakout takes place under $0.128, then Dogecoin might shed the majority of its March gains.
-Source: Hyblock Capital
-
-
-
-
-
-
-----------------
-
-How is the US Inflation Situation Doing, Which is Critical for Cryptocurrencies? - Bitcoin Sistemi
-
-Consumer confidence in the United States has taken a hit as inflation expectations rise despite strong economic indicators, according to a survey released Friday.
-The University of Michigan Consumer Survey revealed that the sentiment index for May recorded a significant decline, falling from 77.2 in April to 67.4. This figure falls short of the Dow Jones consensus estimate of 76, indicating a 12.7% monthly decline. But it still represents a 14.2% year-over-year increase.
-
-
-In addition to the pessimistic sentiment measure, inflation expectations rose for both one- and five-year periods. The one-year outlook rose 0.3 points from a month ago to 3.5%, reaching its highest level since November. Similarly, the five-year outlook rose slightly by 0.1 points to 3.1%, reversing the downward trend in recent months and reaching the highest level in November.
-Survey director Joanne Hsu noted that consumers now acknowledge negative trends on several fronts. “They expressed concerns that inflation, unemployment and interest rates may move in a negative direction next year,” Hsu said.
-
-
-
-
-
-Other indexes in the survey also reported significant declines: The current conditions index fell more than 10 points to 68.8, while the expectations measure fell 9.5 points to 66.5. Although both indexes were higher than a year ago, they were down more than 12% on a monthly basis.
-This report comes amid a strong stock market rally and fuel prices falling slightly, though still at high levels. Although jobless claims last week reached their highest level since late August, most labor market indicators remain strong.
-
-
-Paul Ashworth, Chief North American Economist at Capital Economics, expressed concern about the significant decline in confidence. “The magnitude of the decline in confidence is significant and cannot be satisfactorily explained by geopolitical factors or the stock market sell-off in mid-April,” Ashworth wrote.
-
-Inflation data pose a significant challenge for policymakers as the Fed considers the near-term path of monetary policy. Jeffrey Roach, Chief Economist at LPL Financial, warned: “Uncertainty about inflation could weigh on consumer spending in the coming months. The Fed is on a difficult path to balance both its price stability and growth mandates.”
-
-
-
-
-
-FED officials said at their meeting last week that they needed “more confidence” that inflation was “sustainably” returning to their 2% target before cutting interest rates. Policymakers see expectations as key to containing inflation, and the outlook from the Michigan survey has risen in consecutive months after falling significantly between November and March of this year.
-Market pricing points to a strong expectation that the Fed will begin reducing the key borrowing rate in September, which it has held at its highest level in more than 20 years since July 2023. However, the outlook varies, although FED Chairman Jerome Powell stated in the post-meeting press conference that the central bank's next move will not be an interest rate increase.
-The next important data point for inflation will come on Wednesday when the U.S. Labor Department releases its April consumer price index report. Most Wall Street economists expect the report to show a slight moderation in price pressures, but the widely followed CPI index was running at 3.5% annually in March, well above the Fed's target.
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Ethereum Competitor NEAR Protocol Looks ‘Extremely Bullish,’ Says Analyst Jamie Coutts - Here Are His Targets - The Daily Hodl
-
-
-								Real Vision crypto analyst Jamie Coutts says that key indicators for one Ethereum (ETH) competitor are flashing bullish.
-The former Bloomberg analyst tells his 14,100 followers on the social media platform X that NEAR Protocol (NEAR) could soar more than 47% from its current value.
-
-
-
-
-
-
-
-
-
-
-“Absolute price momentum: has been consolidating since March. The technical pattern looks extremely bullish if it breaks this resistance around $7.60 which is where a cluster of volume has traded these past months. This is a high conviction set up if it breaks the pattern neckline, producing a target above $10.50 (+30%).”
-Source: Jamie Coutts/X
-Looking at his chart, the analyst suggests NEAR is printing an inverse head and shoulders pattern (I-HNS). An I-HNS is a bullish technical formation with the right shoulder suggesting bulls are willing to accumulate the asset without waiting for the price to drop to its previous low.
-The analyst also predicts that NEAR’s bullish trend against Bitcoin (NEAR/BTC) and Solana (NEAR/SOL) will continue.
-“Relative price momentum: NEAR versus SOL and BTC are positive and ready to break higher.”
-Source: Jamie Coutts/X
-According to the analyst, NEAR is also experiencing huge daily active user (DAU) growth on the network compared to other smart contract platforms, which is another bullish signal.
-“Absolute active user momentum: NEAR’s Daily active users have grown from 50,000 to 1.76 million in the past year. Ex-NEAR that number has grown from 5.4 million to 8.75 million.”
-Source: Jamie Coutts/X
-He says the user growth rate far exceeds the combined growth rate of the other layer-1 and layer-2 projects.
-“Relative active user momentum: that’s growth of 33x vs 0.6x for the rest of the L1/L2 ecosystem.”
-Source: Jamie Coutts/X
-NEAR is trading for $7.14 at time of writing, down 3.6% in the last 24 hours.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-DOGE Price Prediction for May 11
-
-
-
-
-Cover image via U.Today
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Buyers could not hold the initiative, and the weekend has started with a drop of most coins, according to CoinMarketCap.Top coins by CoinMarketCapDOGE/USDThe price of DOGE has declined by 4.89% over the last 24 hours.Image by TradingViewOn the hourly chart, the rate of DOGE might have found a local support level at $0.1433. At the moment, one should pay attention to the daily bar closure. If it happens far from this mark, there is a chance of a test of $0.1455.Image by TradingViewOn the bigger time frame, the technical picture is bearish as the rate is returning to the nearest support level of $0.1420. If a breakout happens, the decline may continue to the $0.1350-$0.14 zone soon.Image by TradingViewFrom the midterm point of view, the price of DOGE has once again bounced off the resistance level of $0.1690, which means that buyers are not ready to seize the initiative yet. If the weekly candle closes around the current levels, traders may witness a test of the $0.13 area shortly.DOGE is trading at $0.1434 at press time.
-
-
-
-----------------
-
-Dashboard | Bankless
-
-
-
-Dear Bankless Nation, The most technologically-savvy analytical tools in traditional industries has its limits.Why? For the simple reason that data is proprietary.Whether it’s a dataset from a Wall Street quarterly report, or data you extracted from Facebook — it’s data the company wants to reveal.That puts a ceiling on how in-depth the analysis can get.But in web3, virtually all of the data is publicly viewable.On-chain sleuthing is an actual thing anyone can do.Evidence?Every time there’s industry drama, dozens of anonymous analysts on Crypto Twitter leaping ahead of each other to offer their post-mortem.And you can too.Today, William shows us 5 must-have web3 analytical tools you can use to upgrade your game today.- Bankless teamEthereum and other top smart contract blockchains are teeming with data.If you can parse that data well in real-time, there’s plenty of alpha — and even job opportunities — to unlock.Accordingly, this Bankless tactic will walk you through the best resources you can use to level up your crypto analytics skills.Goal: Learn about top crypto analytics toolsSkill: BeginnerEffort: 1 hour to get startedROI: Knowing the best ways to “read” blockchainsA “blockchain data flow” output I created with Stable DiffusionWhy crypto analytics?I first discovered crypto in the spring of 2017.I studied as much about the space as I could that summer, and then that fall I landed my first gig in the field.It was a crypto news writing job at a small-time outlet, CryptoAnalyst.The catch? I still didn’t know much about crypto, and the blockchain analytics sector was very primitive and sparse at the time.I’ve stuck around the ecosystem ever since, and over the past few years one thing has particularly stuck out to me, which is how crypto analytics plays have surged, both in quantity and quality, in recent times.That’s good news for all of us, because knowledge is power.Or rather in crypto, knowledge is power and money.That maxim was as true in 2017 during the ICO ERC20 token boom as it is today in 2022 amid the Cambrian explosion of DeFi and NFTs.But again, one of the biggest differences between then and now has been the surge in quality contemporary crypto analytics tools that have made it exponentially easier to come by actionable web3 knowledge.Interested in making the most of these advancements and leveling up your crypto research game like never before? Then it’s time to double down on the best analytics tools around.Let’s explore 5 platforms you can use to step up your crypto research today. ⬇️⬇️⬇️⬇️⬇️Via CoinGeckoA few years back, it seemed like everyone used CoinMarketCap to check crypto prices, market caps, volume, etc.Then Binance acquired CoinMarketCap in April 2022, which many felt the platform had been “captured.”The community started looking for alternatives. The platform that saw the most success in recent years has been CoinGecko, who quietly out-built its competitor during the bear market, and is now currently the world’s largest independent crypto data aggregator.What I like most about CoinGecko besides its independence is that it feels like the platform is always ahead of the curve.Whenever I want to check the price action or trade volume of some new obscure coin, CoinGecko seems to always have the basic data on that token ahead of everyone else.Part of the reason for this impressive responsiveness?CoinGecko’s reach is downright massive — the platform currently tracks key stats for over 13,000 different crypto assets across over 600 crypto exchanges!Via GeckoTerminalSo if you’re looking to track crypto trends in real-time for the biggest projects and for categories like New Coins and Big Gainers & Losers, CoinGecko is as solid as solid gets.But that’s not all — the project’s also recently launched GeckoTerminal.GeckoTerminal is a DEX aggregator.Remember how I said CoinGecko’s reach is massive?The same is true for GeckoTerminal — if there’s a token you want to trade, whether it’s on an Ethereum Virtual Machine (EVM) chain or a non-EVM chain, GeckoTerminal likely has the charts and the pools you’re looking to directly analyze!Via DeFiLlamaAs a DeFi power user, DeFiLlama is a treat to use.Why?Because DeFiLlama accurately and quickly tracks total value locked (TVL) data and volume data across +150 chains and tons of different protocols, meaning the platform is a fantastic way to “see the cryptoeconomy from above” at any given time, so to speak.However, DeFiLlama is so much more than a plain DeFi stats hub.The project also provides real-time yield metrics, stablecoin charts, liquidation activities, airdrop opportunities, hack info, and beyond.In other words once you go ‘Llama, you never go back’. 🦙
-
-Over the past couple of weeks, Reddit NFTs have popped off.Yet a few weeks ago I didn’t know anything about them at all!When I saw activity around these digital collectibles starting to surge, I knew I needed to write a Metaversal post to explain the basics of what was going on, so I did.Where’d did I go to catch myself up before teaching others?The answer is Dune Analytics.Dune Analytics is a platform that lets anyone create crypto analytics dashboards anyone else can review using SQL.For example, I researched my Reddit NFTs post mentioned above using an analytics dashboard created by Dune user petertherock, and it covered everything I needed, like number of NFT holders, sales volume, and more.The cool thing about Dune is that it covers these sorts of stats for DeFi and NFT projects alike across a variety of chains, like Ethereum, Arbitrum, Optimism, Polygon, and beyond.I recommend Dune as an important part of any on-chain analysts info diet accordingly.
-
-If someone gave me a challenge to make $1 million in the cryptoeconomy in one year’s time with the stipulation that I only use one tool, that tool would be Nansen.That $1M mark is an arbitrary number in a hypothetical example, but the results Nansen can help you achieve are very real.I noted as much in one of my June 2022 Metaversal posts, Free-to-Mint NFTs, where I detailed a personal anecdote of how I used Nansen’s Mint Master tracker to mint WAGDIE NFTs before their floor prices initially exploded.At the time, I said:“I found WAGDIE via Mint Master by noticing on Friday that nearly 40 ‘Smart Minters’ had participated in the project’s mint. I was then able to accumulate a few before the project exploded, and now the floor price at the time of this post’s writing is 1.5 ETH each, so my subscription’s been covered multiple times over at this point.Of course, it’s not that every mint will be a win, but Nansen makes it simpler to surface signals in real time.”Via NansenThat’s still true today.It won’t lead you to constant wins, but it will help you surface notable “1 in 100” or “1 in 1,000” plays in real-time in ways that other projects can’t.For instance, Nansen provides the following awesome services:Wallet Profiler — metrics on any wallet addressHot Contracts — a dashboard for tracking trending smart contractsDeFi Paradise — a complete overview of the DeFi economyNFT Paradise — a complete marketview of the NFT economy, including trending collections and new mintsSmart Money — a dashboard for tracking the activities of prolific crypto and NFT tradersToken God Mode — a one-stop search engine for all the main info around a token, e.g. volume, transactions activity, etc.Via Token TerminalToken Terminal is one of my favorite crypto analytics platforms because it arguably has the best fee and revenue stats around for both blockchains and protocols.Want to know just how profitable a given crypto project is at any given time?Token Terminal has you covered, whether you’re researching projects across a certain vertical — e.g. lending markets — or across entire chains.Becoming A Better Crypto AnalystIf you learn how to navigate the 5 crypto analytics projects listed above, you will become a better crypto analyst than most everyone else right now.The good news is that these platforms make navigating key blockchain data simple, so it doesn’t take a particularly specialized knowledge base to get adept at them.Explore and use the projects, and who knows?You might just start pulling out on-chain victories that you didn’t know were previously possible!Action steps🔭 Check out the best crypto analytics tools:  CoinGecko + GeckoTerminal  DeFiLlama  Dune Analytics  Nansen  Token Terminal
-                    
-
-                    
-
-                    
-
-----------------
-
-Crypto's Red Relapse | Bankless
-
-
-Trending down. Crypto assets shook the downturn and managed to eke out a green candle last week, but are at risk of relapsing into the all too familiar red pattern that has afflicted price since April. What happened this week in markets, and where is the outsized upside? With BTC yet again pressed against the bottom of its local range and funding rates remaining at relatively healthy levels, bulls can get comfortable entries here if markets are to maintain their uptrend, but should remain cognizant that a break of $60k support will extend the downside.Source: TradingViewWhile gains made by the total crypto market lagged behind those of BTC last week, Bitcoin dominance fell slightly this week, which can clearly be observed through strength from a smattering alts amid the broader down week.Two of the leading projects enabling decentralized compute sharing, Akash and Render Network, managed to decouple themselves from Nvidia’s performance this week, ranking among the best performing coins despite relatively flat performance from the AI heavyweight.Additionally, The Open Network (TON), a blockchain originally created by popular messaging application Telegram, was a top performer, rallying over 22% off crypto fund Pantera’s May 8 announcement that it had made the token its largest investment ever.
-Unfortunately for Ethereans, their chosen asset sat out on the altcoin rally this week, with the token not only plunging over 10% from its weekly high in dollar terms but also losing relative strength in the ETH/BTC ratio.News that ARK Invest had removed staking from its pending spot ETH ETF application – a feature not considered in the approval process for spot BTC ETFs and one whose inclusion could derail an application’s approval – caused the odds of approval to surge to 18% on Polymarket.Although some traders interpreted the move as an indication that approval for non-staking applications may be imminent, it seems participants in more liquid markets continue to brace for denial, considering the relatively unchanged nature of the ETH/BTC ratio following the news and the continued slide of the pair ahead of the SEC’s first final decision deadline on May 23.
- 
-
-
-
-----------------
-
-Even if this weekend's solar storm destroyed civilization, Bitcoin would survive
-
-The sun can produce massive flares of particles and radiation that can have a significant impact on Earth. Scientists have studied these flares for 150 years, focusing on what’s considered the largest such event of all time: the Carrington Event of 1859, named after British astronomer Richard Carrington.The sun erupted and pumped enough energy into our planet’s magnetic field to ignite a massive geomagnetic storm and auroral display. Telegraph lines burst into flames, and the event was reported globally. Back then, electronic systems were not the center of daily life. Today, a Carrington-sized event could completely alter the complexion of daily life.Mississippi State University professor David Wallace wrote on Astronomy.com the potential ramifications could be disastrous:“It is only a matter of time before Earth is hit by another geomagnetic storm. A Carrington Event-size storm would be extremely damaging to the electrical and communication systems worldwide with outages lasting into the weeks. If the storm is the size of the Miyake Event, the results would be catastrophic for the world with potential outages lasting months if not longer.”That time could be this weekend. A huge solar storm is barrelling into Earth, bringing the threat of possible disruptions to satellites and power grids. As the world faces a “severe” geomagnetic storm, according to NOAA’s Space Weather Prediction Center, infrastructure operators are on edge due to the possible fallout of the solar event, which has significant implications for the crypto industry.As the first of six solar waves hit, the Earth was already experiencing a G4 electromagnetic storm–the highest in 19 years. The present storm affecting electronics, etc. would not be entirely unprecedented, as geomagnetic storms rated as “extreme” led to blackouts in Sweden and damaged power transformers in South Africa in October 2003.Scientists warn that these events happen at higher frequencies than believed and could be catastrophic. For instance, tree rings studied by scientists revealed two solar solid proton events that happened in 7176 and 5259 BCE, which were not previously known.Solar storms of increasing frequency have implications for the electronics on which crypto depends. Geomagnetic storms can disrupt satellite communications and power grids. Solar flares and coronal mass ejections (CMEs) could damage computer hardware. These sudden bursts of energy can release radiation across the electromagnetic spectrum, including X-rays and ultraviolet light.The high-energy particles induce electric currents in the components of a computer, possibly causing damage or data corruption. The Central processing unit (CPU), random access memory (RAM), and hard disk drives are most at risk due to their electromagnetic interference, possibly causing them to malfunction or fail altogether. Electromagnetic radiation can disrupt the communication between hardware components, leading to system crashes or errors.At the very least, disturbances can cause crypto exchanges and wallet downtime. Even a little bit of downtime could lead to significant financial losses for market participants. Multi-signature wallets and strict authentication protocols can also protect companies against disruptions caused by space weather.With that said, sufficiently decentralized blockchains–like the Bitcoin blockchain–would persist.Bitcoin has been broadcast over radio and MESH networks, though the use of its blockchain would be very slow. Even Lightning payments have been sent over the radio.CMEs would, in the worst-case scenario, take out electronics on the side of the planet facing the sun at the time of the explosion. That part of the planet, however, would face some serious setbacks. Power lines, consumer electronics, and medical devices would all be rendered useless.Solar storms with the potential to disrupt life on Earth make a great case for a decentralized financial system. A blockchain would carry on with blocks being produced and transactions validated by all the nodes that happened to be on the dark side of the earth when the solar storm hit.Crypto’s decentralized nature would prove superior to the mainstream banking system’s centralized structure. The internet was designed in a distributed fashion with enough redundancy so as to survive a nuclear attack. Bitcoin, for instance, has thousands of Bitcoin nodes, which means it’s actually more likely to survive a catastrophic event than a financial system based on centralized data servers. If even one node survives, the entire system can be reconstituted from that seed.
-
-----------------
-
 [no-title]
 
 Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
@@ -10509,3 +10070,470 @@ See full terms and conditions.
 Whale Loses More Than $70M To Phishing Scam, Here's How They Got Their Money Back - Benzinga
 
 In a dramatic turn of events, an attacker returned the entirety of funds stolen from a cryptocurrency whale in just a week.What Happened: According to on-chain tracking platform, Lookonchain, the whale lost more than $70 million in Wrapped BItcoin WBTC/USD to a phisher who tricked them into sending their funds to an address that resembled their own.The whale was trying to send their WBTC tokens purchased after the market dip on May 2. For this purpose, they created a new address. The phisher, who was scrutinizing the victim's on-chain activities, started spamming them with transactions using an address with the same starting and ending letters. The tactic, known in the crypto space as an address poisoning attack, works by tricking the victim into sending funds to a similar-looking address, which is exactly what happened.  Upon realizing that theft, the whale contacted the attacker, and tried to strike a deal to get the funds back. They offered the phisher 10% of the stolen funds, with the rest to be returned. However, there was no communication from the other side. However, unexpectedly, the attacker replied to the whale on May 10, saying, "Please leave your Telegram and I will contact you." After this, the attacker returned all the funds. Why It Matters:  Cybersecurity agency Match Systems claimed that it helped the victim in quick recovery of the stolen cryptocurrencies.The company underlined that the sooner victims seek assistance from experts in such circumstances, the better their prospects of receiving their funds in full. As far as prevention was concerned, Lookonchain advised users to save trusted addresses in an address book and avoid copying addresses from transaction history. It also urged users to add a filter for small transactions as a safeguard against phishing efforts.  Photo by Igor Faun on ShutterstockRead Next: Peter Schiff Says He Gets A ‘Kick’ Out Of Fanatics Accusing Him Of Secretly Owning Bitcoin: They Are ‘Drunk On The Kool-Aid’
+
+----------------
+
+Shiba Inu (SHIB) Price Soars by 7% in an Hour: Details
+
+
+																TL;DR
+
+Shiba Inu experienced a 7% price increase, aligning with a broader market uptick of the cryptocurrency market.
+The rise in SHIB’s value could be linked to a significant increase in its token burn rate and upgrades to its Shibarium layer-2 solution.
+
+
+SHIB Flashes Green
+After several days of underperforming, the popular meme coin finally started rallying again. Its price spiked by almost 7% in the past hour while its market capitalization neared the $14 billion mark.
+
+SHIB Price, Source: CoinGecko
+The resurgence coincides with a sudden green wave that pervaded much of the cryptocurrency market. Bitcoin (BTC) jumped to almost $63,000, Ethereum (ETH) is close to surpassing the $3,000 mark, while Solana (SOL) crossed $145. 
+The revival in the meme coin sector is also evident. Shiba Inu’s biggest rival – Dogecoin (DOGE) – is up 3% in the past hour. Dogwifhat (WIF), Pepe (PEPE), Bonk Inu (BONK), and many more have also witnessed impressive gains, albeit not as substantial as SHIB. 
+The Potential Reasons
+Besides the overall market revival, SHIB’s valuation might have been positively impacted by the Shiba Inu burn rate, which skyrocketed by over 300% in the past week. This resulted in more than 200 million tokens destroyed.
+
+
+
+
+The mechanism’s ultimate goal is to reduce the tremendous circulating supply of the asset, making it scarcer and potentially more valuable in time.
+Shibarium’s advancement is also worth mentioning. Shiba Inu’s layer-2 scaling solution (which aims to foster the development of the meme coin by reducing transaction fees and improving speed) recently underwent two essential upgrades. The goal was to enhance user experience and allow compatibility with popular wallets, including MetaMask, Coinbase Wallet, and Trust Wallet. 
+ 
+ 
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Pudgy Penguins Plushie Craze: Over 1 Million Sold in Under a Year!
+
+
+							
+
+Pudgy Penguins sells over 1 million plushies in record time 
+
+
+
+Retail partnerships with Target, Hot Topic fuel sales success 
+
+
+
+Plushie sales demonstrate strong brand building for Pudgy Penguins 
+
+
+
+
+Pudgy Penguins, a top-ranking NFT collection, is making a splash in the physical world. In a recent video Luca Netz the project’s CEO has announced a remarkable achievement of over one million Pudgy Penguin plush toys having been sold in less than a year. 
+
+
+
+This record breaking sales figure signifies a major success story for Pudgy Penguins in its ability to bridge the gap between the digital and physical realms of collectibles.
+
+
+
+The video showed how strategic retail partnerships are a key driver of this sales boom. Netz revealed collaborations with major retailers like Target and Hot Topic, along with specialty stores across the globe. These partnerships have played a crucial role in making Pudgy Penguin plushies accessible to a wider audience and fueling their popularity.
+
+
+
+Beyond the impressive sales numbers Netz spoke about the importance of Pudgy Penguins’ success compared to other NFT projects. While some projects struggle to translate digital hype into real-world engagement, Pudgy Penguins has established a strong brand presence with tangible products and a loyal following. This also speaks about the project’s future long-term sustainability.
+
+
+
+
+
+
+
+
+
+The enthusiasm surrounding the Pudgy Penguin plush line extends beyond physical sales. The project also boasts a developing metaverse, which briefly propelled it above the popular Bored Ape Yacht Club in terms of floor price earlier this year. Looking ahead, Pudgy Penguins plans to launch its Pudgy World alpha on the zkSync Era blockchain further solidifying its presence in the ever-evolving Web3 landscape.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Can BNB Outshine Bitcoin (BTC) This May?
+
+
+BNB, the native crypto of the Binance exchange, maintains a strong position at the $600 level, indicating potential bullish momentum. 
+Whether BNB will reach a new all-time high soon depends on market sentiment and broader cryptocurrency trends. Positive technical indicators and a favorable market could propel BNB to new heights, but the cryptocurrency market is known for its volatility.
+BNB Strong Recovery: A Look at This Month’s Surge
+The BNB price has notably recovered this month, following a previous decline of approximately 20%. This month’s increase is around 13%, indicating a resurgence in bullish sentiment.
+The Moving Average Convergence/Divergence Indicator (MACD) histogram has demonstrated a consistent upward trend over several months, accompanied by the bullish crossover of the MACD lines. Additionally, the Relative Strength Index (RSI) is approaching overbought levels, suggesting heightened buying pressure.
+Currently, BNB faces resistance at the Golden Ratio level around $590. A successful bullish breakout could propel BNB towards the recent high near $645 and potentially even surpass its all-time high at approximately $692.
+Read More: BNB: A Comprehensive Guide to What It Is and How It Works
+BNB Price Analysis. Source: Tradingview
+Crucial support levels lie at the Fibonacci levels, around $477 and $370. If BNB remains above the golden ratio support at $370, the bullish momentum will likely persist in the medium term.
+
+Analyzing BNB: Bearish MACD on the Weekly Chart Points to Risks
+The MACD histogram has shown a downward trend in the weekly chart for several weeks. This suggests that the MACD lines may imminently cross in a bearish manner. Nonetheless, the RSI does not indicate either bullish or bearish signals.
+BNB Price Analysis. Source: Tradingview
+Should BNB not surpass the golden ratio resistance near $590, it will find additional support at the 50-week EMA, approximately $380. Before this, substantial Fibonacci support was positioned at around $477.
+BNB Price Analysis: Stuck in a Sideways Trend for 2 Months
+The Binance Coin price forms an ascending triangle as it consistently reaches higher lows and repeatedly encounters resistance at the same price level. This pattern is generally considered bullish and may soon lead to a bullish breakout.
+The 50-day EMA, situated at approximately $566, is also significant support. Over the past two months, the 50-day EMA has successfully acted as support on multiple occasions, as evidenced by the BNB price rebounding from this level.
+Furthermore, the indicators present predominantly bullish signals. The EMAs continue to display a golden crossover, affirming a bullish trend in the short to medium term.
+
+BNB Price Analysis. Source: Tradingview
+The RSI remains neutral, and the MACD lines are poised to cross bullishly, supported by the MACD histogram, which has shown bullish momentum since yesterday.
+Bullish Indicators Emerge in 4H Analysis
+A golden crossover in the 4-hour chart also corroborates the short-term bullish trend. Although the MACD lines have crossed bearishly, the MACD histogram is currently ticking upward bullishly.
+BNB Price Analysis. Source: Tradingview
+Meanwhile, the RSI remains in neutral territory. Should BNB experience a short-term correction, significant Fibonacci support levels are expected at approximately $579 and $563.
+
+BNB vs. BTC: Analyzing Three Months of Uptrend
+The BNB price has been trending upwards against Bitcoin for the past three months, having already breached the 50-month EMA resistance at approximately 0.007984 BTC.
+The next notable Fibonacci resistance levels are set at around 0.01077 BTC and around 0.00145 BTC. The overall indicators appear bullish.
+
+Read More: BNB Price Prediction 2024/2025/2030
+BNB/BTC Price Analysis. Source: Tradingview
+The histogram of the MACD is trending upward, suggesting that the MACD lines may soon intersect in a bullish configuration. The RSI remains neutral, providing neither bullish nor bearish signals.
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Unexpected Outage in Popular Blockchain Network! Statement from Developers is Awaited! Here are the Details - Bitcoin Sistemi
+
+
+L3 blockchain project Degen Chain experienced a significant outage, halting block production for over 11 hours.
+Degen Chain's Block Production Stopped for More than 11 Hours, Reason Unknown
+Degen Chain's use of Arbitrum Orbit technology, previously developed by Syndicate, a startup backed by a16z, raised questions about the unexpected halt of block production activities.
+
+
+
+Degen Chain, known for its innovative approach to decentralized finance (DeFi) solutions, experienced an outage without any apparent explanation, sparking concerns among both users and investors.
+Operating on Syndicate's cutting-edge infrastructure, the platform uses unique features and the Gas token DEGEN, which is a key component in the broader Farcaster ecosystem.
+
+
+
+
+
+Touted as one of the largest coins in the Farcaster network, Gas token DEGEN plays an important role in facilitating transactions and strengthening various functions in the Degen Chain ecosystem.
+However, the halt in block production has undoubtedly affected DEGEN's functionality and liquidity, prompting stakeholders to clarify the underlying issues causing the outage. No statement has been made by the developers yet on the subject.
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+CPI meets $60K BTC price battle - 5 things to know in Bitcoin this week
+
+Bitcoin (BTC) starts a new week carefully preserving $60,000 support as sentiment walks the line between bullish and bearish.BTC price action is sticking tightly to a narrow trading range — what could cause a dramatic change of pace?This week is as good a time as any for crypto market volatility. United States macro data will combine with commentary from Jerome Powell, Chair of the Federal Reserve, in what could prove to be an explosive mix for risk assets.There is much at stake for Bitcoin bulls, even in this established range — the market has already teased a deeper correction, and traders are already marking levels that could come next.These focus mainly on bid liquidity below $50,000 — an attractive zone for a longer-term market bottom. On shorter timeframes, however, BTC/USD seems more interested in clearing liquidity to the upside as the week begins.Cointelegraph takes a look at the current state of play when it comes to BTC/USD performance.BTC price: It's all about $60,000A weekly close which went almost unnoticed means that Bitcoin is still firmly in familiar territory as the week’s TradFi sessions get underway.BTC/USD 1-hour chart. Source: TradingViewData from Cointelegraph Markets Pro and TradingView shows a lack of volatility on BTC/USD into the end of the week.Crucially, $60,000 has held since being reclaimed on May 3, and for some, this level marks the line in the sand for bulls.Commenting on a chart uploaded to X (formerly Twitter), popular analyst Mark Cullen flagged a “bullish order block” of bidder interest just below $60,000.“Bitcoin still holding above 60k and the down trend break,” he wrote. “That blue OB is going to be the key in the short term, lose it & we revisit the lows & likely much lower. Hold and another leg to take liquidity above the highs at 64-67k is likely.”BTC/USD charts. Source: Mark Cullen/XCullen added that this week’s macroeconomic data releases, specifically the Consumer Price Index (CPI) on May 14, should be pivotal for BTC price action.As Cointelegraph reported, the $60,000 zone represents more than simply bids — key moving averages and other bull market support trendlines have converged there.Popular trader Daan Crypto Trades noted the so-called “bull market support band” still buoying price.“Bounced exactly from the Bull market Support Band last week,” he told X followers over the weekend. “So far during this and previous bull cycles, it has offered good support. Let's see how we do from here.”BTC/USD chart with bull market support band. Source: Daan Crypto Trades/XThe support band is formed of two exponential moving averages, or EMAs. The latest data from monitoring resource CoinGlass meanwhile shows that overnight into May 13, a new $65 million block of bids was placed at around $60,250. A cloud of ask liquidity which was waiting in the wings above $62,000, meanwhile, is now getting cleared in what could be the next spot price battleground.BTC liquidation heatmap (screenshot). Source: CoinGlassThe day prior, fellow trader Skew said that he suspected “passive spot buying” being responsible for support nearer to $60,000 not seeing a test.“Overall good spot bid depth $60K - $58K,” part of X comments added.CPI hits as Fed's Powell due to speakAll eyes are on macroeconomic developments in the U.S. this week as data prints come thick and fast.CPI forms the highlight when it comes to the inflation debate and risk-asset hopes for interest rate cuts.Prior to that, however, May 14 will see the Producer Price Index (PPI) print for April, along with a public speaking appearance from Fed Chair Powell.Powell will discuss the economy during a moderated discussion with Klaas Knot, president of the Netherlands’ central bank, De Nederlandse Bank, at the annual general meeting of the Foreign Bankers’ Association in Amsterdam.Markets have shown themselves to be highly sensitive to Powell’s tone when it comes to hints as to future policy moves.The latest data from CME Group’s FedWatch Tool underscores sentiment — traders see barely any chance of a rate cut at the Fed’s next meeting in June, with the likelihood only increasing substantially in September.Fed target rate probabilities as of May 13 (screenshot). Source: CME Group“If CPI inflation rises again this week, it will mark the third STRAIGHT monthly increase,” trading resource The Kobeissi Letter commented alongside its weekly macro diary dates post on X, describing the upcoming few days as “very busy.”Long-term holders halt 2024 BTC distributionSeasoned Bitcoin hodlers are channeling the 2021 bull market, as seen through some on-chain data.In a positive development, long-term holders (LTHs) are in the midst of boosting their BTC exposure after distributing to the market throughout 2024.This is the conclusion of J. A. Maartunn, a contributor to on-chain analytics platform CryptoQuant.Uploading some of his latest findings to X, he argued that just like in mid-2021, LTH entities are attempting to capture more of the BTC supply.“They see the low price of bitcoin as an opportunity to accumulate coins cheaply, to then reintroduce them to the market during hype phases,” Maartunn explains in an accompanying analysis on CryptoQuant. “Interestingly, a trend line can be drawn between the data points from 2018, 2021, and 2024. There's a cyclical trend occurring, as previously described, where long-term holders buy in bear markets and sell in bull markets. However, a broader and more enduring trend is also at play: despite this cyclical trend, an increasing share of bitcoin is steadily being held by long-term holders.”Bitcoin LTH supply ownership. Source: Maartunn/XAs Cointelegraph reported, both Bitcoin and Ether (ETH) speculators, known as short-term holders or STHs, form another nearby support level, which has broadly endured throughout the current bull market.Funding rates reset endures across cryptoBitcoin and altcoin market observers may not need to wait much longer to see more varied conditions return.The current picture across derivatives markets shows the extent of neutrality, which now characterizes crypto.In particular, funding rates remain neutral regardless of near-term price moves — something which makes Bitcoin’s trip to all-time highs in March look like a blip on the radar.“Crypto Funding Rates now down at neutral levels for longer than they were overheated back in February/March,” Daan Crypto Trades noted about the phenomenon. CoinGlass data shows a broad funding reset coming at the end of March.“That's basically how it goes: Slow market, breakout, overheating, reset. Rinse & Repeat,” Daan Crypto Trades added.Crypto funding rate heatmap. Source: Daan Crypto Trades/X"Fear and indecision"While prices act within an established corridor, volatility is already apparent elsewhere in crypto.Related: Bitcoin trades sideways while TON, RNDR, PEPE and AR flash bullish signsThe Crypto Fear & Greed Index, the classic market sentiment gauge, is flip-flopping between various states this month.The lagging indicator uses a basket of factors to determine impulsive tendencies among crypto traders, with extreme readings suggestive that the market could see a knee-jerk reversal.Fear & Greed is at 57/100 as of May 13 — a fairly neutral reading and a strong contrast to the 71/100 seen on May 6 — inches from the “extreme greed” zone.Crypto Fear & Greed Index (screenshot). Source: Alternative.meIn new analysis last week, research firm Santiment likewise attributed a drop in Bitcoin on-chain activity to “fear and indecision” on the part of traders.An accompanying chart revealed that an aggregate bag of on-chain actions had dropped to levels last seen in 2019.“Bitcoin's onchain activity is approaching historic lows as traders have dramatically slowed transactions in the 2 months since its alltimehigh,” Santiment wrote. “This isn't necessarily a sign of more $BTC dips, but rather a signal of crowd fear and indecision.”Bitcoin on-chain activity chart. Source: Santiment/XThis article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+----------------
+
+Legendary trader Roaring Kitty posts comeback meme, Solana memecoin $GME soars 500% - Crypto Briefing
+
+
+
+
+Keith Gill, also known online as Roaring Kitty (also known by other pseudonyms such as DeepF*ckingValue), has posted a cryptic meme on X.Notably, this was Gill’s first post in roughly three years since the events surrounding the GameStop case and the shutdown of the WallStreetBets subreddit.The meme depicts a man leaning forward from a sitting position while holding what appears to be a smartphone. Notably, the meme has a red chair and a red arrow going right, indicating some sort of movement or directional change.Gill is largely credited for spiking the GameStop stock surge in late 2020. Gill worked as a financial analyst, became convinced that GameStop stock was undervalued and shared this belief on Twitter (now X) and YouTube using the handle RoaringKitty.In 2019, Gill purchased $53,000 worth of GameStop stock. As he continued posting about the stock on social media, more retail traders (everyday people who trade stocks) began buying GameStop, leading to a rapid rise in the stock price. When GameStop’s stock price peaked at $483 per share in January 2021, Gill’s investment was valued at nearly $48 million.Gill’s identity was revealed shortly after the GameStop stock surge by Reuters who identified him using public records. In February 2021, Gill testified to Congress about his role in the GameStop stock saga, stating that he thought the stock was “dramatically undervalued.”In September 2022 and 2023, Netflix and Sony Pictures released a docuseries and a movie titled “Eat the Rich: The GameStop Saga” and “Dumb Money,” respectively, which spotlighted Gill’s journey.A Solana memecoin ($GME) made to commemorate the events surrounding the GameStop controversy suddenly surged $510.9% just over eight hours since Gill’s X post.“The $GME memecoin pays homage to the GameStop saga anniversary, showing we can stand up to the big guys together,” states the token’s official website.According to data from CoinGecko, the token’s price has been largely inactive since its creation in late January. It remains unclear whether Gill has any connection with the token.Disclaimer: The author does not hold any crypto above $100 in value and only purchases crypto for utility and experimentation, not investment.
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+CNBC's Ran Neuner Revealed 3 Cryptocurrencies He's 'Buying': XRP, TON and Something Else
+
+
+
+
+Cover image via youtu.be
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+CNBC's Ran Neuner has recently unveiled his latest crypto picks, which, as he wrote in his post, he is "buying."Neuner's picks explainedNeuner has most likely chosen Solana for its great potential in the DeFi sector and its massive meme scene, which adds cultural leverage to its technical progress. Solana is recognized for its fast and cost-effective operations, making it a good pick for building scalable applications — especially when the network does not go offline. Arweave: Arweave stands out as a decentralized storage network that aims to provide perpetual data storage. Billing itself as a "collectively owned hard drive that never forgets," Arweave supports the permaweb — a permanent web that facilitates the creation of decentralized applications. This technology not only ensures that data remains accessible irrespective of the original host’s status but also supports data integrity over time, a critical feature in today's digital age.TON: Neuner’s interest in TON is likely spurred by its integration with Telegram, one of the largest messaging platforms globally. TON is deeply integrated into the fabric of Telegram through various features such as a native wallet, trading bots and other integrated services, making it a surprisingly strong pick with one of the biggest ecosystems behind it."Anti-picks"While Neuner leans toward SOL, AR and TON, he notes contrasting preferences among Crypto Twitter users, such as HBAR, ADA and XRP. We can point to the lackluster performance of XRP, which can be viewed negatively due to its -12% growth rate in what should be a bullish market. Despite ADA’s strong fundamentals and positive performance in 2024, it remains less favored in his portfolio. He has not disclosed the reason for it, which his critique of ADA obviously attracted ADA defenders in the comments quickly.
+
+
+
+----------------
+
+Kaspersky's report reveals new tactics used by North Korean crypto hackers - CoinJournal
+
+
+
+                    
+
+                    
+North Korean hackers deploying “Durian” malware targeting South Korean crypto firms.
+The resurgence of dormant hackers like Careto underscores the evolving cybersecurity landscape.
+Hacktivist groups like SiegedSec escalate offensive operations amidst global socio-political events.
+
+The first quarter of 2024 has proven particularly eventful, with notable findings and trends emerging from the frontline of cyber security. From the deployment of sophisticated malware variants to the resurgence of long-dormant threat actors, the landscape of cyber threats continues to shape-shift, presenting new challenges for security experts worldwide.
+A recent report by the Global Research and Analysis Team (GReAT) at Kaspersky made a striking revelation shedding light on the activities of various advanced persistent threat (APT) groups.
+The Durian malware targeting South Korean crypto firms
+Among the findings made by GReAT is the emergence of the “Durian” malware, attributed to the North Korean hacking group Kimsuky. It has been used to target South Korean cryptocurrency firms and it has a high level of sophistication, boasting comprehensive backdoor functionality.
+The Durian malware’s deployment marks a notable escalation in the cyber capabilities of Kimsuky, showcasing their ability to exploit vulnerabilities within the supply chain of targeted organizations.
+By infiltrating legitimate security software exclusive to South Korean crypto firms, Kimsuky demonstrates a calculated approach to circumventing traditional security mechanisms. This modus operandi highlights the need for enhanced vigilance and proactive security strategies within the cryptocurrency sector, where the stakes are exceptionally high.
+The connection between Kimsuky and the Lazarus Group
+The Kaspersky report further unveils a nuanced connection between Kimsuky and another North Korean hacking consortium, the Lazarus Group. While historically distinct entities, the utilization of similar tools such as LazyLoad suggests a potential collaboration or tactical alignment between these crypto-threat actors.
+This discovery underscores the interconnected nature of cyber threats, where alliances and partnerships can amplify the impact of malicious activities.
+Resurgence of dormant crypto hacking groups
+In parallel, the APT trends report reveals a resurgence of long-dormant threat actors, such as the Careto group, whose activities were last observed in 2013.
+Despite years of dormancy, Careto resurfaced in 2024 with a series of targeted campaigns, employing custom techniques and sophisticated implants to infiltrate high-profile organizations. This resurgence serves as a stark reminder that cyber threats never truly disappear; they merely adapt and evolve.
+Other crypto hacking groups terrorising the world
+The Kaspersky report also highlights the emergence of new malware campaigns targeting government entities in the Middle East, such as “DuneQuixote”. Characterized by sophisticated evasion techniques and practical evasion methods, these campaigns underscore the evolving tactics of threat actors in the region.
+There is also the emergence of the “SKYCOOK” implant utilised by the Oilrig APT to target internet service providers in the Middle East.
+Meanwhile, in Southeast Asia and the Korean Peninsula, the activities of threat actors like DroppingElephant continue to pose significant challenges. Leveraging malicious RAT tools and exploiting platforms like Discord for distribution, these actors demonstrate a multifaceted approach to cyber espionage. The use of legitimate software as initial infection vectors further complicates detection and mitigation efforts, highlighting the need for enhanced threat intelligence and collaboration among stakeholders.
+On the hacktivism front, groups like SiegedSec have ramped up their offensive operations, targeting companies and government infrastructure in pursuit of social justice-related goals. With a focus on hack-and-leak operations, these groups leverage current socio-political events to amplify their message and impact.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+Peter Brandt Claims XRP’s Value Against Bitcoin Could Hit Zero | Cryptoglobe
+
+
+                                
+Peter Brandt, a seasoned proprietary trader with half a century of trading experience, recently made headlines with his stark forecast for XRP, particularly its performance against Bitcoin. 
+
+
+
+Peter Brandt is a seasoned trader with extensive experience in the commodities trading sector. He first gained recognition in the financial world through his work with commodities, but over the years, he has also become well-known as a forex and cryptocurrency trader. Brandt’s expertise is often showcased in his ability to analyze market patterns and trends, which he frequently shares through social media and various trading publications.
+
+
+
+He is perhaps best known for his application of classical charting principles to trading, a methodology he has refined over decades in the markets. Brandt has authored a book that delves into these principles, providing insights into his strategies and thought processes. His forecasts and analyses, particularly regarding significant market movements in cryptocurrencies like Bitcoin, have earned him a considerable following among traders who value his seasoned perspective on market dynamics. Beyond trading, Brandt also contributes to the trading community by offering mentorship and educational resources, aiming to help others navigate the complexities of various financial markets.
+
+
+
+Brandt’s analysis, shared on social media platform X, indicates a potential plummet for XRP to zero when compared to Bitcoin. This prediction hinges on a detailed examination of the XRP/BTC price chart over an extended period.
+
+
+
+In his post, Brandt showcased a candlestick chart on a 1-week timeframe, which is a type of financial chart used to describe the price movements of an asset. Each “candlestick” typically represents one week of price data in this context, including the opening, closing, high, and low prices. The chart displayed a long-term downtrend for XRP when valued against Bitcoin, with recent months showing a steep decline in value.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+The XRP/BTC ratio currently stands at 0.00000803, a dramatic fall of 81.44% from its January level of 0.00001457. This underperformance is notable, especially given that Bitcoin has surged by 49.47% vs. USD year-to-date, whereas XRP has dropped (vs. USD) 18.74% in the same period.
+
+
+
+
+
+
+
+Brandt’s bleak outlook has not gone without critique from XRP supporters.
+
+
+
+
+
+
+
+In 2017, Brandt referred to XRP derogatorily while pointing out its poor performance, only to see it surge by an astonishing 1,418% shortly after his comments, reaching an all-time high of $3.84.
+
+
+
+
+
+
+
+Despite this historical rally, Brandt remains skeptical of XRP’s prospects, particularly its performance relative to Bitcoin. He emphasized that his prediction of XRP approaching zero is specific to its Bitcoin comparative, not its value in USD. Brandt questioned the continued optimism among XRP supporters, noting the asset’s struggle to maintain significant value gains over the past years. According to his observations, XRP has rarely sustained levels above its current market position, finishing higher in just 6 out of the past 126 months.
+
+
+
+
+
+
+
+
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+Philippines begins Peso-backed stablecoin sandbox testing
+
+The Philippines central bank will begin controlled trials of a national stablecoin pegged 1:1 to the local peso.Bangko Sentral ng Pilipinas (BSP) approved a pilot for PHPC, a Philippine peso-backed stablecoin, in partnership with crypto wallet provider Coins.ph. The grant was approved under BSP’s Regulatory Sandbox Framework. As part of the deal, Coins.ph will maintain cash reserves in pesos equivalent to the circulating supply of the PHPC stablecoin within the sandbox environment. The pegging of local currency aims to ease the transition of PHPC back to its physical fiat twin, the announcement said.Source: CoinsphThe sandbox testing is geared toward testing the real-world performance of the PHPC stablecoin and its impact on the local fiat ecosystem. “PHPC’s potential uses include domestic and cross-border payments, trading with other virtual assets, hedging against market volatility, and providing collateral and liquidity in DeFi applications.”The results will determine PHPC’s leap from a sandbox environment to real-world usage. However, a formal public deployment will be subject to final evaluations and approvals by the central bank. Local regulations suggest that the testing duration can range from three to 12 months from the pilot go-live date, depending on the project’s complexity. It is important to note that no official deadline was revealed when announcing the stablecoin experiment.Check out Cointelegraph’s guide to learn more about using stablecoins for everyday transactions.Related: It’s ‘clear’ the US government is going after Tether — Ripple CEOStablecoins backed by the Philippine peso first debuted in July 2019, led by Unionbank, a local commercial bank. UnionBank launched a payments-focused stablecoin pegged to the Philippine peso, PHX, to drive greater financial inclusion. The initiative was launched to support BSP’s drive to advocate digital financial inclusion for people and communities in the country.A related report from PhilStar Global revealed that PHX was being implemented on UnionBank’s i2i platform. The term i2i is an acronym for island-to-island, institution-to-institution and individual-to-individual.Like PHPC, PHX is also frictionlessly redeemable for pesos, which are then credited back to the users’ UnionBank accounts.Magazine: ‘Sic AIs on each other’ to prevent AI apocalypse: David Brin, sci-fi author
+
+----------------
+
+DOGE Price Prediction - Can Dogecoin Bulls Overcome This Hurdle?
+
+
+																Dogecoin extended losses and traded below the $0.1420 support zone against the US Dollar. DOGE is now recovering but facing key hurdles at $0.1450.
+
+DOGE price tested the $0.1360 support and started a recovery wave.
+The price is trading below the $0.1450 level and the 100 simple moving average (4 hours).
+There is a key bearish trend line forming with resistance at $0.1430 on the 4-hour chart of the DOGE/USD pair (data source from Kraken).
+The price must settle above $0.1450 to move into a positive zone and start a fresh surge.
+
+Dogecoin Price Extends Losses
+After a close below $0.150, Dogecoin price extended losses and moved into a short-term bearish zone, like Bitcoin and Ethereum. There was a drop below the $0.1450 support zone.
+A low was formed at $0.1358 and DOGE is attempting a recovery wave. There was a minor increase above the $0.1420 resistance level. The price climbed above the 23.6% Fib retracement level of the downward move from the $0.1538 swing high to the $0.1358 low.
+Dogecoin is still below the $0.1450 level and the 100 simple moving average (4 hours). On the upside, the price is facing resistance near the $0.1430 level. There is also a key bearish trend line forming with resistance at $0.1430 on the 4-hour chart of the DOGE/USD pair.
+The next major resistance is near the $0.1450 level and the 100 simple moving average (4 hours). It coincides with the 50% Fib retracement level of the downward move from the $0.1538 swing high to the $0.1358 low.
+
+Source: DOGEUSD on TradingView.com
+A close above the $0.1450 resistance might send the price toward the $0.1535 resistance. Any more gains might send the price toward the $0.1620 level.
+Another Decline In DOGE?
+If DOGE’s price fails to gain pace above the $0.1450 level, it could start another decline. Initial support on the downside is near the $0.140 level.
+The next major support is near the $0.1360 level. If there is a downside break below the $0.1360 support, the price could decline further. In the stated case, the price might decline toward the $0.1200 level.
+Technical Indicators
+4 Hours MACD – The MACD for DOGE/USD is now losing momentum in the bearish zone.
+4 Hours RSI (Relative Strength Index) – The RSI for DOGE/USD is now above the 50 level.
+Major Support Levels – $0.1400, $0.1360 and $0.1200.
+Major Resistance Levels – $0.1430, $0.1450, and $0.1535.
+																								
+															
+
+
+						
+
+----------------
+
+Bitcoin and Ethereum Lead in $130M Crypto Liquidation in Single Day | Coinspeaker
+
+
+
+Amidst the recent market downturn, which resulted in over $130 million being liquidated, the crypto market’s current market capitalization is approximately $2.26 trillion.
+
+The crypto market experienced a significant downturn over the weekend, with Bitcoin (BTC) and Ethereum (ETH) leading the way despite recovering slightly from last week’s lows of $ 57,000 and $2,700, respectively. The decline resulted in the liquidation of  $131 million from 71,245 traders across several centralized crypto exchanges (CEXs), including Binance, OKX, Bybit, and Huobi Global, now known as HTX.  According to CoinGlass data, Bitcoin saw $24.3 million liquidated, while Ethereum traders lost $19.09 million within just 24 hours.
+Binance Takes Massive Hit
+With Bitcoin and Ethereum taking the lead, traders who bet on other digital assets like Solana (SOL), Dogecoin (DOGE), Ripple’s XRP, and Worldcoin (WLD) suffered a combined loss of approximately $34.90 million.
+
+
+
+
+Long traders anticipating the price of cryptocurrencies to increase within the last 24 hours lost more than  $100 million, while short traders anticipating more market decline recorded only $34 million.
+The largest single liquidation order took place on Binance, with $5.71 million liquidated from the exchange.
+In the last hour alone, a whopping $7.26 million has been liquidated across exchanges, with OKX taking the lead. The exchange witnessed approximately $3.2 million in liquidation, closely followed by Binance, where over $2 million was drained from the platform within just 60 minutes.
+During this same period, Bitcoin liquidations amounted to around $3 million, while Ethereum saw approximately $1.29 million being drained from the protocol.
+Bitcoin Slightly Recovers after Weekend Lows
+Amidst the recent market downturn, which resulted in over $130 million being liquidated, the crypto market’s current market capitalization is approximately $2.26 trillion.
+Over the weekend, Bitcoin’s price hovered around $60,000. However, the crypto asset has shown a slight recovery at the time of writing, trading around $61,563 with a 1.10% increase in the past 24 hours.
+According to CoinMarketCap data, Bitcoin’s market cap now stands at $1.21 trillion, while its 24-hour trading volume currently sits at $18.1 billion. The figure marks a significant 41.22% increase compared to previous values recorded on Sunday.
+Ethereum, the second-largest player in the crypto industry after BTC, has also shown signs of recovery. On Monday morning, the digital asset reached $2,928, indicating a slight improvement.
+Other altcoins, such as Binance Coin (BNB), Toncoin (TON), and Cardano (ADA), are also on the path to recovery, following the upward trend in the market.
+next
+
+Altcoin News, Bitcoin News, Cryptocurrency News, News 
+
+
+
+
+
+
+
+
+
+
+Thank you!
+You have successfully joined our subscriber list.
+
+
+
+
+
+
+----------------
+
+Shiba BONE Official Rebuilds ShibaSwap, Shibarium Telegram Group | Cryptopolitan
+
+The Shiba Army has a new gathering place on Telegram. The new group launched with anti-bot features, while the old discussions will remain frozen. The SHIBA BONE OFFICIAL Telegram group is dedicated to ShibaSwap trading and the Shibarium ecosystem. The Telegram group requires verification to prevent bots, and has more than 5,000 members since its launch. The news arrives as Shiba Inu (SHIB) is on the verge of becoming a top 10 token again. SHIB benefitted from several trends in meme tokens and is seen as a close alternative to Dogecoin. The Shiba Inu project provides additional benefits with its Shibarium blockchain and various tokens for liquidity and decentralized trading. SHIB market prices also benefit from regular token burns, which have helped the token “eat” more zeroes in the past. Currently, SHIB is a more mature asset, and a 10X is harder to pull off, but additional assets and rewards aim to compensate. Token burns of SHIB come from fees, as well as from community projects, including NFT collections or gamified burns. The goal is to limit the SHIB supply and potentially drive scarcity. SHIB Benefits from Shibarium Hard ForkAlmost two weeks passed since a Shibarium upgrade, with improved speed and low fees. The use of Shibarium also affects BONE, one of the main staking tokens in the Shiba Inu ecosystem. BONE owners can move the asset from Ethereum to the Shibarium blockchain for improved speed and lower fees. BONE currently trades at a much higher valuation of $0.55, and has nearly 100K holders on Ethereum. The token also exists as Shibarium Wrapped BONE, with just above 2,000 wallets with it. BONE is currently close to its lower range but has rallied close to $2 every few months in the past years. BONE’s performance adds to the ShibaInu exposure and helps retain the community of investors. Shiba Inu Aims for Growth by Holding and Token BurnsThe Shiba Inu community has shown a readiness to wait out bear markets and avoid selling to improve the performance of all tokens in the ecosystem. Shiba Inu relies on holding various ratios of SHIB, BONE, LEASH, and TREAT. The meme ecosystem also ties up with NFT collections and aims to draw in play-to-earn games as well. In late April, Shiba Inu drew attention with its TREAT token, which will have a greater role in the coming months. TREAT is currently trading at $0.0008 and is building up liquidity on UniSwap and ShibaSwap. ShibaSwap Aims to Revive InflowsWhile SHIB remains a highly active token, the native ShibaSwap is trying to grow TVL and lock more liquidity. The exchange currently carries around $23.2M, but suffers from stagnant inflows. BONE liquidity is around 3.48M, generating $1.18M in daily activity. The ShibaSwap exchange still manages to draw in $1.4M in annual fees, but has yet to achieve organic growth. Shiba Inu is also proactive in removing bots, hence the low organic activity on ShibaSwap. In 2024, the newly launched Telegram group is also trying to boost engagement and bring back trading.BONE tokens are key for reviving decentralized trading and making ShibaSwap more important among DeFi projects. BONE is also key to network security, as it can be locked for block production.Shiba Inu Among the Safest ProjectsThe Shiba Inu code is nearly three years old, and is among the safest decentralized projects. Regarding meme tokens, not all are made equal, and some hold significant risk. Shiba Inu is one of the few meme projects regularly audited by Certik, with the latest checkup being in February. According to Certik, the Shiba Inu platform has a 92.36% security score, which verifies technical issues as well as the community and operations. SHIB remains a good alternative to being exposed to meme-based trading while avoiding rug pulls or unverified tokens. Certik has focused on the ShibaSwap smart contracts, ensuring safety for liquidity providers. The given score puts Shiba Inu and ShibaSwap among the top 10% of safest and most transparent blockchain startups.
+
+
+----------------
+
+Why Chinese Workers Are Rushing To Convert Digital Yuan CBDC Payments Into Cash - Benzinga
+
+Despite the Chinese government’s push for the adoption of the digital yuan, many workers are still hesitant to use it for their daily transactions.What Happened: Sammy Lin, an account manager at a state-owned bank in Suzhou, receives her monthly salary in digital yuan. However, she, like many others, prefers to convert it into regular cash due to the lack of interest and limited usability, reported South China Morning Post.“I prefer not to keep the money in the e-CNY app, because there's no interest if I leave it there,” Lin said. Changshu, a city in Suzhou, began paying its public sector workers in digital yuan a year ago, followed by other employers. However, the employees are not using the digital currency directly due to concerns about privacy and its limited functionality.Ye Dongyan, a researcher at the Cheung Kong Graduate School of Business in Beijing, highlighted the need to balance privacy and security, which has slowed the progress of promoting the digital yuan."Paper currency is used anonymously, but the digital yuan is different," Dongyan said. "The boundaries between information tracking and information security protection need more deliberation."See Also: Kevin O’Leary Responds To Cathie Wood’s Bitcoin Prediction: ‘The U.S. Economy Would Have To Collapse’Albert Wang, a government employee in Suzhou, noted that while the digital yuan could help reduce corruption by limiting cash bribery, its limited usability makes it uncompetitive with widely used payment tools like Alipay and WeChat Pay.Why It Matters: The Chinese government has been actively promoting the digital yuan, with Suzhou being one of the first cities to pay public sector workers in the new currency. Despite this, the slow adoption rate among workers raises questions about the currency’s future.Moreover, in the same month, Standard Chartered Bank (China) became the first foreign bank to join China’s CBDC pilot testing, offering digital yuan exchange services to its customers. This move signaled the increasing internationalization of the digital yuan.Furthermore, in March, SWIFT announced plans to launch a new platform connecting central bank digital currencies with the existing financial system. This development is expected to be a game-changer for the evolving CBDC ecosystem, given SWIFT’s crucial role in global banking.Read Next: Trump’s Next Vice President? Doug Burgum Could Go From 1% Republican Voter Support To White HouseImage Via Shutterstock Engineered by Benzinga Neuro, Edited by Kaustubh BagalkoteThe GPT-4-based Benzinga Neuro content generation system exploits the extensive Benzinga Ecosystem, including native data, APIs, and more to create comprehensive and timely stories for you. Learn more.
+
+----------------
+
+R. Kiyosaki warns US dollar to crash as ‘BRICS gold crypto’ emerges
+
+
+Amid warnings of a major financial crash, famous investor and author of the best-selling personal finance book ‘Rich Dad Poor Dad,’ Robert Kiyosaki, has shared his views on why the United States dollar, in particular, might suffer as a new currency threatens its global domination.
+Specifically, Kiyosaki was visiting South Africa, “watching and listening to rumors of what will happen when BRICS nations, Brazil, Russia, India, China, South Africa produce BRICS crypto, possibly backed by gold,” as he told his followers in an X post published on May 12.
+Hyperinflation on horizon
+Indeed, according to the renowned finance educator, if the rumors are true, this would mean a loss of value to the US dollar and a hyperinflation in the US, and he recommended investing money in alternative assets instead, including gold, silver, and Bitcoin (BTC) to protect oneself against this crash:
+
+
+
+“If BRICS gold crypto happens, trillions in fake money, fiat US dollars will come rushing back to home to America causing hyperinflation in America, ultimately destroying US dollar. Best buy real gold, silver, and Bitcoin now, and protect yourself from the crash of US dollar.”
+
+As a reminder, Kiyosaki has lately intensified his doomsday warnings, stressing the crash has already started, signaling the end of the US dollar, and that the dire situation is only worsening “because our debt keeps going up,” with the dollar’s demise the primary reason to accumulate the above assets.
+More recently, he said that most people were living in “Disneyland” instead of preparing for the crisis using a strategy he considers the best – starting their own business, using debt as money to buy cash-flowing assets like rental properties, and saving gold, silver, and the maiden cryptocurrency.
+Robert Kiyosaki and Bitcoin
+Interestingly, the ‘Rich Dad Poor Dad’ author has also admitted to being a latecomer to the crypto industry and not knowing much about the flagship decentralized finance (DeFi) asset, but he has been a fan nonetheless, including Bitcoin in most of his recommendations.
+On top of that, he has agreed with the founder and CEO of ARK Invest, Cathie Wood, and her extremely bullish prediction that Bitcoin price in USD could hit $2.3 million. For now, Bitcoin is trading at $61,639, gaining 1.55% on the day, but declining 4.57% in the past week, and losing 8.58% on its monthly chart.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
