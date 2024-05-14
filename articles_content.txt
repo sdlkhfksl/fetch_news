@@ -1,510 +1,3 @@
-Kaspersky's report reveals new tactics used by North Korean crypto hackers - CoinJournal
-
-
-
-                    
-
-                    
-North Korean hackers deploying “Durian” malware targeting South Korean crypto firms.
-The resurgence of dormant hackers like Careto underscores the evolving cybersecurity landscape.
-Hacktivist groups like SiegedSec escalate offensive operations amidst global socio-political events.
-
-The first quarter of 2024 has proven particularly eventful, with notable findings and trends emerging from the frontline of cyber security. From the deployment of sophisticated malware variants to the resurgence of long-dormant threat actors, the landscape of cyber threats continues to shape-shift, presenting new challenges for security experts worldwide.
-A recent report by the Global Research and Analysis Team (GReAT) at Kaspersky made a striking revelation shedding light on the activities of various advanced persistent threat (APT) groups.
-The Durian malware targeting South Korean crypto firms
-Among the findings made by GReAT is the emergence of the “Durian” malware, attributed to the North Korean hacking group Kimsuky. It has been used to target South Korean cryptocurrency firms and it has a high level of sophistication, boasting comprehensive backdoor functionality.
-The Durian malware’s deployment marks a notable escalation in the cyber capabilities of Kimsuky, showcasing their ability to exploit vulnerabilities within the supply chain of targeted organizations.
-By infiltrating legitimate security software exclusive to South Korean crypto firms, Kimsuky demonstrates a calculated approach to circumventing traditional security mechanisms. This modus operandi highlights the need for enhanced vigilance and proactive security strategies within the cryptocurrency sector, where the stakes are exceptionally high.
-The connection between Kimsuky and the Lazarus Group
-The Kaspersky report further unveils a nuanced connection between Kimsuky and another North Korean hacking consortium, the Lazarus Group. While historically distinct entities, the utilization of similar tools such as LazyLoad suggests a potential collaboration or tactical alignment between these crypto-threat actors.
-This discovery underscores the interconnected nature of cyber threats, where alliances and partnerships can amplify the impact of malicious activities.
-Resurgence of dormant crypto hacking groups
-In parallel, the APT trends report reveals a resurgence of long-dormant threat actors, such as the Careto group, whose activities were last observed in 2013.
-Despite years of dormancy, Careto resurfaced in 2024 with a series of targeted campaigns, employing custom techniques and sophisticated implants to infiltrate high-profile organizations. This resurgence serves as a stark reminder that cyber threats never truly disappear; they merely adapt and evolve.
-Other crypto hacking groups terrorising the world
-The Kaspersky report also highlights the emergence of new malware campaigns targeting government entities in the Middle East, such as “DuneQuixote”. Characterized by sophisticated evasion techniques and practical evasion methods, these campaigns underscore the evolving tactics of threat actors in the region.
-There is also the emergence of the “SKYCOOK” implant utilised by the Oilrig APT to target internet service providers in the Middle East.
-Meanwhile, in Southeast Asia and the Korean Peninsula, the activities of threat actors like DroppingElephant continue to pose significant challenges. Leveraging malicious RAT tools and exploiting platforms like Discord for distribution, these actors demonstrate a multifaceted approach to cyber espionage. The use of legitimate software as initial infection vectors further complicates detection and mitigation efforts, highlighting the need for enhanced threat intelligence and collaboration among stakeholders.
-On the hacktivism front, groups like SiegedSec have ramped up their offensive operations, targeting companies and government infrastructure in pursuit of social justice-related goals. With a focus on hack-and-leak operations, these groups leverage current socio-political events to amplify their message and impact.
-
-
-                    
-
-                        Share this articleCategoriesTags
-                    
-                
-
-                
-
-----------------
-
-Peter Brandt Claims XRP’s Value Against Bitcoin Could Hit Zero | Cryptoglobe
-
-
-                                
-Peter Brandt, a seasoned proprietary trader with half a century of trading experience, recently made headlines with his stark forecast for XRP, particularly its performance against Bitcoin. 
-
-
-
-Peter Brandt is a seasoned trader with extensive experience in the commodities trading sector. He first gained recognition in the financial world through his work with commodities, but over the years, he has also become well-known as a forex and cryptocurrency trader. Brandt’s expertise is often showcased in his ability to analyze market patterns and trends, which he frequently shares through social media and various trading publications.
-
-
-
-He is perhaps best known for his application of classical charting principles to trading, a methodology he has refined over decades in the markets. Brandt has authored a book that delves into these principles, providing insights into his strategies and thought processes. His forecasts and analyses, particularly regarding significant market movements in cryptocurrencies like Bitcoin, have earned him a considerable following among traders who value his seasoned perspective on market dynamics. Beyond trading, Brandt also contributes to the trading community by offering mentorship and educational resources, aiming to help others navigate the complexities of various financial markets.
-
-
-
-Brandt’s analysis, shared on social media platform X, indicates a potential plummet for XRP to zero when compared to Bitcoin. This prediction hinges on a detailed examination of the XRP/BTC price chart over an extended period.
-
-
-
-In his post, Brandt showcased a candlestick chart on a 1-week timeframe, which is a type of financial chart used to describe the price movements of an asset. Each “candlestick” typically represents one week of price data in this context, including the opening, closing, high, and low prices. The chart displayed a long-term downtrend for XRP when valued against Bitcoin, with recent months showing a steep decline in value.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-The XRP/BTC ratio currently stands at 0.00000803, a dramatic fall of 81.44% from its January level of 0.00001457. This underperformance is notable, especially given that Bitcoin has surged by 49.47% vs. USD year-to-date, whereas XRP has dropped (vs. USD) 18.74% in the same period.
-
-
-
-
-
-
-
-Brandt’s bleak outlook has not gone without critique from XRP supporters.
-
-
-
-
-
-
-
-In 2017, Brandt referred to XRP derogatorily while pointing out its poor performance, only to see it surge by an astonishing 1,418% shortly after his comments, reaching an all-time high of $3.84.
-
-
-
-
-
-
-
-Despite this historical rally, Brandt remains skeptical of XRP’s prospects, particularly its performance relative to Bitcoin. He emphasized that his prediction of XRP approaching zero is specific to its Bitcoin comparative, not its value in USD. Brandt questioned the continued optimism among XRP supporters, noting the asset’s struggle to maintain significant value gains over the past years. According to his observations, XRP has rarely sustained levels above its current market position, finishing higher in just 6 out of the past 126 months.
-
-
-
-
-
-
-
-
-
-
-
-Featured Image via Pixabay
-
-                            
-                        
-
-----------------
-
-Philippines begins Peso-backed stablecoin sandbox testing
-
-The Philippines central bank will begin controlled trials of a national stablecoin pegged 1:1 to the local peso.Bangko Sentral ng Pilipinas (BSP) approved a pilot for PHPC, a Philippine peso-backed stablecoin, in partnership with crypto wallet provider Coins.ph. The grant was approved under BSP’s Regulatory Sandbox Framework. As part of the deal, Coins.ph will maintain cash reserves in pesos equivalent to the circulating supply of the PHPC stablecoin within the sandbox environment. The pegging of local currency aims to ease the transition of PHPC back to its physical fiat twin, the announcement said.Source: CoinsphThe sandbox testing is geared toward testing the real-world performance of the PHPC stablecoin and its impact on the local fiat ecosystem. “PHPC’s potential uses include domestic and cross-border payments, trading with other virtual assets, hedging against market volatility, and providing collateral and liquidity in DeFi applications.”The results will determine PHPC’s leap from a sandbox environment to real-world usage. However, a formal public deployment will be subject to final evaluations and approvals by the central bank. Local regulations suggest that the testing duration can range from three to 12 months from the pilot go-live date, depending on the project’s complexity. It is important to note that no official deadline was revealed when announcing the stablecoin experiment.Check out Cointelegraph’s guide to learn more about using stablecoins for everyday transactions.Related: It’s ‘clear’ the US government is going after Tether — Ripple CEOStablecoins backed by the Philippine peso first debuted in July 2019, led by Unionbank, a local commercial bank. UnionBank launched a payments-focused stablecoin pegged to the Philippine peso, PHX, to drive greater financial inclusion. The initiative was launched to support BSP’s drive to advocate digital financial inclusion for people and communities in the country.A related report from PhilStar Global revealed that PHX was being implemented on UnionBank’s i2i platform. The term i2i is an acronym for island-to-island, institution-to-institution and individual-to-individual.Like PHPC, PHX is also frictionlessly redeemable for pesos, which are then credited back to the users’ UnionBank accounts.Magazine: ‘Sic AIs on each other’ to prevent AI apocalypse: David Brin, sci-fi author
-
-----------------
-
-DOGE Price Prediction - Can Dogecoin Bulls Overcome This Hurdle?
-
-
-																Dogecoin extended losses and traded below the $0.1420 support zone against the US Dollar. DOGE is now recovering but facing key hurdles at $0.1450.
-
-DOGE price tested the $0.1360 support and started a recovery wave.
-The price is trading below the $0.1450 level and the 100 simple moving average (4 hours).
-There is a key bearish trend line forming with resistance at $0.1430 on the 4-hour chart of the DOGE/USD pair (data source from Kraken).
-The price must settle above $0.1450 to move into a positive zone and start a fresh surge.
-
-Dogecoin Price Extends Losses
-After a close below $0.150, Dogecoin price extended losses and moved into a short-term bearish zone, like Bitcoin and Ethereum. There was a drop below the $0.1450 support zone.
-A low was formed at $0.1358 and DOGE is attempting a recovery wave. There was a minor increase above the $0.1420 resistance level. The price climbed above the 23.6% Fib retracement level of the downward move from the $0.1538 swing high to the $0.1358 low.
-Dogecoin is still below the $0.1450 level and the 100 simple moving average (4 hours). On the upside, the price is facing resistance near the $0.1430 level. There is also a key bearish trend line forming with resistance at $0.1430 on the 4-hour chart of the DOGE/USD pair.
-The next major resistance is near the $0.1450 level and the 100 simple moving average (4 hours). It coincides with the 50% Fib retracement level of the downward move from the $0.1538 swing high to the $0.1358 low.
-
-Source: DOGEUSD on TradingView.com
-A close above the $0.1450 resistance might send the price toward the $0.1535 resistance. Any more gains might send the price toward the $0.1620 level.
-Another Decline In DOGE?
-If DOGE’s price fails to gain pace above the $0.1450 level, it could start another decline. Initial support on the downside is near the $0.140 level.
-The next major support is near the $0.1360 level. If there is a downside break below the $0.1360 support, the price could decline further. In the stated case, the price might decline toward the $0.1200 level.
-Technical Indicators
-4 Hours MACD – The MACD for DOGE/USD is now losing momentum in the bearish zone.
-4 Hours RSI (Relative Strength Index) – The RSI for DOGE/USD is now above the 50 level.
-Major Support Levels – $0.1400, $0.1360 and $0.1200.
-Major Resistance Levels – $0.1430, $0.1450, and $0.1535.
-																								
-															
-
-
-						
-
-----------------
-
-Bitcoin and Ethereum Lead in $130M Crypto Liquidation in Single Day | Coinspeaker
-
-
-
-Amidst the recent market downturn, which resulted in over $130 million being liquidated, the crypto market’s current market capitalization is approximately $2.26 trillion.
-
-The crypto market experienced a significant downturn over the weekend, with Bitcoin (BTC) and Ethereum (ETH) leading the way despite recovering slightly from last week’s lows of $ 57,000 and $2,700, respectively. The decline resulted in the liquidation of  $131 million from 71,245 traders across several centralized crypto exchanges (CEXs), including Binance, OKX, Bybit, and Huobi Global, now known as HTX.  According to CoinGlass data, Bitcoin saw $24.3 million liquidated, while Ethereum traders lost $19.09 million within just 24 hours.
-Binance Takes Massive Hit
-With Bitcoin and Ethereum taking the lead, traders who bet on other digital assets like Solana (SOL), Dogecoin (DOGE), Ripple’s XRP, and Worldcoin (WLD) suffered a combined loss of approximately $34.90 million.
-
-
-
-
-Long traders anticipating the price of cryptocurrencies to increase within the last 24 hours lost more than  $100 million, while short traders anticipating more market decline recorded only $34 million.
-The largest single liquidation order took place on Binance, with $5.71 million liquidated from the exchange.
-In the last hour alone, a whopping $7.26 million has been liquidated across exchanges, with OKX taking the lead. The exchange witnessed approximately $3.2 million in liquidation, closely followed by Binance, where over $2 million was drained from the platform within just 60 minutes.
-During this same period, Bitcoin liquidations amounted to around $3 million, while Ethereum saw approximately $1.29 million being drained from the protocol.
-Bitcoin Slightly Recovers after Weekend Lows
-Amidst the recent market downturn, which resulted in over $130 million being liquidated, the crypto market’s current market capitalization is approximately $2.26 trillion.
-Over the weekend, Bitcoin’s price hovered around $60,000. However, the crypto asset has shown a slight recovery at the time of writing, trading around $61,563 with a 1.10% increase in the past 24 hours.
-According to CoinMarketCap data, Bitcoin’s market cap now stands at $1.21 trillion, while its 24-hour trading volume currently sits at $18.1 billion. The figure marks a significant 41.22% increase compared to previous values recorded on Sunday.
-Ethereum, the second-largest player in the crypto industry after BTC, has also shown signs of recovery. On Monday morning, the digital asset reached $2,928, indicating a slight improvement.
-Other altcoins, such as Binance Coin (BNB), Toncoin (TON), and Cardano (ADA), are also on the path to recovery, following the upward trend in the market.
-next
-
-Altcoin News, Bitcoin News, Cryptocurrency News, News 
-
-
-
-
-
-
-
-
-
-
-Thank you!
-You have successfully joined our subscriber list.
-
-
-
-
-
-
-----------------
-
-Shiba BONE Official Rebuilds ShibaSwap, Shibarium Telegram Group | Cryptopolitan
-
-The Shiba Army has a new gathering place on Telegram. The new group launched with anti-bot features, while the old discussions will remain frozen. The SHIBA BONE OFFICIAL Telegram group is dedicated to ShibaSwap trading and the Shibarium ecosystem. The Telegram group requires verification to prevent bots, and has more than 5,000 members since its launch. The news arrives as Shiba Inu (SHIB) is on the verge of becoming a top 10 token again. SHIB benefitted from several trends in meme tokens and is seen as a close alternative to Dogecoin. The Shiba Inu project provides additional benefits with its Shibarium blockchain and various tokens for liquidity and decentralized trading. SHIB market prices also benefit from regular token burns, which have helped the token “eat” more zeroes in the past. Currently, SHIB is a more mature asset, and a 10X is harder to pull off, but additional assets and rewards aim to compensate. Token burns of SHIB come from fees, as well as from community projects, including NFT collections or gamified burns. The goal is to limit the SHIB supply and potentially drive scarcity. SHIB Benefits from Shibarium Hard ForkAlmost two weeks passed since a Shibarium upgrade, with improved speed and low fees. The use of Shibarium also affects BONE, one of the main staking tokens in the Shiba Inu ecosystem. BONE owners can move the asset from Ethereum to the Shibarium blockchain for improved speed and lower fees. BONE currently trades at a much higher valuation of $0.55, and has nearly 100K holders on Ethereum. The token also exists as Shibarium Wrapped BONE, with just above 2,000 wallets with it. BONE is currently close to its lower range but has rallied close to $2 every few months in the past years. BONE’s performance adds to the ShibaInu exposure and helps retain the community of investors. Shiba Inu Aims for Growth by Holding and Token BurnsThe Shiba Inu community has shown a readiness to wait out bear markets and avoid selling to improve the performance of all tokens in the ecosystem. Shiba Inu relies on holding various ratios of SHIB, BONE, LEASH, and TREAT. The meme ecosystem also ties up with NFT collections and aims to draw in play-to-earn games as well. In late April, Shiba Inu drew attention with its TREAT token, which will have a greater role in the coming months. TREAT is currently trading at $0.0008 and is building up liquidity on UniSwap and ShibaSwap. ShibaSwap Aims to Revive InflowsWhile SHIB remains a highly active token, the native ShibaSwap is trying to grow TVL and lock more liquidity. The exchange currently carries around $23.2M, but suffers from stagnant inflows. BONE liquidity is around 3.48M, generating $1.18M in daily activity. The ShibaSwap exchange still manages to draw in $1.4M in annual fees, but has yet to achieve organic growth. Shiba Inu is also proactive in removing bots, hence the low organic activity on ShibaSwap. In 2024, the newly launched Telegram group is also trying to boost engagement and bring back trading.BONE tokens are key for reviving decentralized trading and making ShibaSwap more important among DeFi projects. BONE is also key to network security, as it can be locked for block production.Shiba Inu Among the Safest ProjectsThe Shiba Inu code is nearly three years old, and is among the safest decentralized projects. Regarding meme tokens, not all are made equal, and some hold significant risk. Shiba Inu is one of the few meme projects regularly audited by Certik, with the latest checkup being in February. According to Certik, the Shiba Inu platform has a 92.36% security score, which verifies technical issues as well as the community and operations. SHIB remains a good alternative to being exposed to meme-based trading while avoiding rug pulls or unverified tokens. Certik has focused on the ShibaSwap smart contracts, ensuring safety for liquidity providers. The given score puts Shiba Inu and ShibaSwap among the top 10% of safest and most transparent blockchain startups.
-
-
-----------------
-
-Why Chinese Workers Are Rushing To Convert Digital Yuan CBDC Payments Into Cash - Benzinga
-
-Despite the Chinese government’s push for the adoption of the digital yuan, many workers are still hesitant to use it for their daily transactions.What Happened: Sammy Lin, an account manager at a state-owned bank in Suzhou, receives her monthly salary in digital yuan. However, she, like many others, prefers to convert it into regular cash due to the lack of interest and limited usability, reported South China Morning Post.“I prefer not to keep the money in the e-CNY app, because there's no interest if I leave it there,” Lin said. Changshu, a city in Suzhou, began paying its public sector workers in digital yuan a year ago, followed by other employers. However, the employees are not using the digital currency directly due to concerns about privacy and its limited functionality.Ye Dongyan, a researcher at the Cheung Kong Graduate School of Business in Beijing, highlighted the need to balance privacy and security, which has slowed the progress of promoting the digital yuan."Paper currency is used anonymously, but the digital yuan is different," Dongyan said. "The boundaries between information tracking and information security protection need more deliberation."See Also: Kevin O’Leary Responds To Cathie Wood’s Bitcoin Prediction: ‘The U.S. Economy Would Have To Collapse’Albert Wang, a government employee in Suzhou, noted that while the digital yuan could help reduce corruption by limiting cash bribery, its limited usability makes it uncompetitive with widely used payment tools like Alipay and WeChat Pay.Why It Matters: The Chinese government has been actively promoting the digital yuan, with Suzhou being one of the first cities to pay public sector workers in the new currency. Despite this, the slow adoption rate among workers raises questions about the currency’s future.Moreover, in the same month, Standard Chartered Bank (China) became the first foreign bank to join China’s CBDC pilot testing, offering digital yuan exchange services to its customers. This move signaled the increasing internationalization of the digital yuan.Furthermore, in March, SWIFT announced plans to launch a new platform connecting central bank digital currencies with the existing financial system. This development is expected to be a game-changer for the evolving CBDC ecosystem, given SWIFT’s crucial role in global banking.Read Next: Trump’s Next Vice President? Doug Burgum Could Go From 1% Republican Voter Support To White HouseImage Via Shutterstock Engineered by Benzinga Neuro, Edited by Kaustubh BagalkoteThe GPT-4-based Benzinga Neuro content generation system exploits the extensive Benzinga Ecosystem, including native data, APIs, and more to create comprehensive and timely stories for you. Learn more.
-
-----------------
-
-R. Kiyosaki warns US dollar to crash as ‘BRICS gold crypto’ emerges
-
-
-Amid warnings of a major financial crash, famous investor and author of the best-selling personal finance book ‘Rich Dad Poor Dad,’ Robert Kiyosaki, has shared his views on why the United States dollar, in particular, might suffer as a new currency threatens its global domination.
-Specifically, Kiyosaki was visiting South Africa, “watching and listening to rumors of what will happen when BRICS nations, Brazil, Russia, India, China, South Africa produce BRICS crypto, possibly backed by gold,” as he told his followers in an X post published on May 12.
-Hyperinflation on horizon
-Indeed, according to the renowned finance educator, if the rumors are true, this would mean a loss of value to the US dollar and a hyperinflation in the US, and he recommended investing money in alternative assets instead, including gold, silver, and Bitcoin (BTC) to protect oneself against this crash:
-
-
-
-“If BRICS gold crypto happens, trillions in fake money, fiat US dollars will come rushing back to home to America causing hyperinflation in America, ultimately destroying US dollar. Best buy real gold, silver, and Bitcoin now, and protect yourself from the crash of US dollar.”
-
-As a reminder, Kiyosaki has lately intensified his doomsday warnings, stressing the crash has already started, signaling the end of the US dollar, and that the dire situation is only worsening “because our debt keeps going up,” with the dollar’s demise the primary reason to accumulate the above assets.
-More recently, he said that most people were living in “Disneyland” instead of preparing for the crisis using a strategy he considers the best – starting their own business, using debt as money to buy cash-flowing assets like rental properties, and saving gold, silver, and the maiden cryptocurrency.
-Robert Kiyosaki and Bitcoin
-Interestingly, the ‘Rich Dad Poor Dad’ author has also admitted to being a latecomer to the crypto industry and not knowing much about the flagship decentralized finance (DeFi) asset, but he has been a fan nonetheless, including Bitcoin in most of his recommendations.
-On top of that, he has agreed with the founder and CEO of ARK Invest, Cathie Wood, and her extremely bullish prediction that Bitcoin price in USD could hit $2.3 million. For now, Bitcoin is trading at $61,639, gaining 1.55% on the day, but declining 4.57% in the past week, and losing 8.58% on its monthly chart.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-Tokyo-listed Metaplanet outlines Bitcoin plan amid rising economic pressure in Japan
-
-Tokyo stock exchange-listed Metaplanet declared Bitcoin as its strategic reserve asset due to the current economic uncertainty pervading the Japanese economy, according to a May 13 statement.The firm said:“Metaplanet has adopted Bitcoin as its strategic treasury reserve asset. This move is a direct response to sustained economic pressures in Japan, notably high government debt levels, prolonged periods of negative real interest rates, and the consequently weak yen.”Metaplanet justified this shift by highlighting Bitcoin’s advantages over the Japanese Yen, including protection against currency devaluation, opportunities for speculative arbitrage in capital markets, and leveraging Bitcoin’s tax benefits.Meanwhile, the firm’s latest move has continued with several pro-BTC decisions in recent months. In April, the firm committed to Bitcoin as a core treasury asset, allocating ¥1 billion, around $6.56 million, to the flagship digital asset in a significant shift in its financial strategy.Since then, the Japan-based firm has accumulated approximately 117.72 BTC, valued at 1.2 billion JPY or $7.7 million. It has also appointed Dylan LeClair, a staunch Bitcoin advocate, as its Director of Bitcoin Strategy.Bitcoin-first approachMetaplanet said it would prioritize a “Bitcoin-first [and] Bitcoin-only approach” for its operations.According to the firm, this decision is rooted in its belief that the flagship digital asset is “fundamentally superior to any other forms of political currency, traditional stores of value and investment, and all other crypto-assets/securities.”It continued that BTC’s blockchain reliance on the proof-of-work (PoW) consensus mechanism is advantageous as it “is intricately linked to real-world energy inputs, mirroring the cost conditions seen in traditional commodities.”Metaplanet furthered:“Bitcoin’s monetary policy is rigidly set in stone through 2140, setting it apart from both monetary metals and competing crypto projects operated at the whims of centralized developer teams. There will only ever be 21,000,000 BTC.”Consequently, the Japanese public company stated that it would initiate several financial options, including periodic share issuance and long-dated yen liabilities, to accumulate BTC instead of retaining the “ever-weaker yen.”Mentioned in this article
-
-----------------
-
-SBI’s XRPL Validator Launch Hints at XRP’s Wider Adoption
-
-
-							
-
-SBI VC Trade launches validator node on XRP Ledger (XRPL), revealing the firm’s support for XRP.
-
-
-
-JackTheRippler reveals Japan’s use of XRP, highlighting the acceptance of XRP outside of the US.
-
-
-
-Despite the major development, XRP is trading at a downward trend, marking a 2%+ dip over the last day.
-
-
-
-
-Ripple’s native token, XRP, has secured a historic achievement with the SBI VC Trade’s validator node launch on XRP Ledger (XRPL). JackTheRippler, a prominent figure in the crypto sector, recently shared an X post, revealing Japan’s use of XRP as a bridge currency.
-
-
-
-
-
-
-
-On May 10, SBI VC Trade, a subsidiary of SBI Holdings, one of the leading financial institutions in Japan, announced the platform’s decision to become a validator on XRPL. The financial giant’s move demonstrates the industry’s unwavering support of XRP, hinting at the potential adoption of the token on a larger scale.
-
-
-
-Despite the major development in the XRP ecosystem, the token, currently at $0.4925, is trading in a downward trend. Over the last 24 hours, XRP has seen a marginal decline of 2.99%. Meanwhile, the token has shown significant declines of 7.9% and 9.6% over the last week and month, respectively.
-
-
-
-
-
-
-
-
-
-Notably, validators are crucial in verifying transactions and securing the network. Reinforcing the trust on XRP, SBI VC Trade is set to become a default Unique Node List (dUNL) validator on the Ledger. Reflecting on the XRP ecosystem’s new development, JackTheRippler wrote, “Ripple already conquered the financial system outside the United States of America!”
-
-
-
-In a recent X post, JackTheRippler forecasted a potential uptick in XRP’s value, driven by the ecosystem’s major events, including financial institution integrations. He asserted that a new all-time high (ATH) for XRP is just a matter of time. Other major events spotlighted by JackTheRippler were the SEC-Ripple lawsuit’s final judgment, Ripple IPO, and potential XRP ETFs.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Viral Pepe (PEPEVIR) to Skyrocket 14,000% Ahead of MEXC Listing, While Shiba Inu, Bonk and Dogecoin Lag
-
-
-
-                    
-
-Early investors in memecoins like Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) made astronomical returns, and Viral Pepe (PEPEVIR) presents a similar opportunity for a limited time.
-
-
-
-Viral Pepe (PEPEVIR), a newly launched Solana memecoin, is poised to explode over 14,000% in a matter of days, as former Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) investors pour funds into this new token.
-
-
-
-
-PEPEVIR will be listed on MEXC, one of the largest centralized exchanges in the world, within a few days – and this is a massively bullish development for the token, as millions of new investors will easily be able to buy Viral Pepe.
-
-
-
-Currently, Viral Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-To buy PEPEVIR on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Viral Pepe by entering its contract address – AKN68pzqJzSDNfiv7nDFk27ny5TkgKFjmKEozcwYszVq – in the receiving field.
-
-
-
-PEPEVIR currently has a market cap of just under $15,000, meaning it has huge upside potential.
-
-
-
-Early investors could make returns similar to those who invested in Shiba Inu (SHIB), Dogecoin (DOGE) and Bonk (BONK) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-                
-
-                
-
-----------------
-
-Tether discredits Ripple CEO comments over US scrutiny
-
-Tether CEO Paolo Ardoino has hit back at Ripple CEO Brad Garlinghouse over his recent comments that the United States government is “going after” the world’s largest stablecoin issuer, Tether.Ardoino took to social media platform X to clear the air around potential U.S. agency action against the firm and called out Garlinghouse for spreading “fear about USDT.” Ardoino suggested that Garlinghouse’s comments were hypocritical, given that Ripple is being investigated by the U.S. Securities and Exchange Commission and is trying to launch a competing stablecoin to Tether’s (USDT).Source: Paolo Ardoino Ripple plans to enter the stablecoin market in 2024 amid its ongoing lawsuit against the SEC.The Tether CEO said that USDT is the largest stablecoin by market share, with millions of users across the world, and it has helped bank users in developing economies. He added:“USDT proved over time to have strong price stability, highly liquid reserves, top tier custodians and profound compliance.”Ardonio also listed several factors that make USDT compliant and one of the most widely used stablecoins. He said Tether has collaborated with 124 law enforcement agencies across 40+ countries and has blocked over $1.3 billion worth of assets linked to scams, hacks and money laundering since it launched. Of the $1.3 billion in blocked assets, Tether blocked more than $639 million by working with U.S. law enforcement.Related: Tether slams Deutsche Bank over suggestion its stablecoin could failArdonio also revealed that in the last 12 months, Tether has voluntarily complied with 198 requests from law enforcement to block wallets, 90 of which came from U.S. law enforcement agencies. It has complied with 339 requests in the last three years, of which 158 were from U.S. law enforcement.Ardonio concluded his tweet with a quip on competing stablecoin issuers. He said Tether cooperates directly with law enforcement agencies while other issuers only comply with judicial orders:“While other stablecoins, although they claim to be ‘more compliant,’ they require a judge order, allowing hackers, scammers and criminals a long time to move funds around.”The Tether CEO’s response came after Garlinghouse claimed a “100%” chance of another crypto-related black swan event during a podcast interview. The Ripple CEO said the U.S. government is going after Tether without elaborating on the reasons behind his assessment. However, Garlinghouse also acknowledged Tether's role in the crypto market.Many in the crypto community saw Ripple CEO’s comments as an ominous hint of the upcoming U.S. regulatory action. Others claimed it was just a competitive tactic as Ripple will launch a stablecoin soon.Cointelegraph reached out to Tether for comments but has yet to receive a response.Magazine: Unstablecoins: Depegging, bank runs and other risks loom
-
-----------------
-
-Singapore-Based Custody Provider Liminal Wins Approval in Abu Dhabi as It Extends Expansion in Asia
-
-In the past few weeks, Liminal has seen a series of regulatory positives in the Asian Pacific (APAC) and Middle East and North Africa (MENA). Late last month, its Dubai entity, First Answer Custody FZE, secured initial approval from the emirate's Virtual Asset Regulatory Authority (VARA). Liminal's Indian subsidy, First Answer India Technologies, is also registered as a reporting entity.
-
-----------------
-
-Machine learning algorithm predicts Bitcoin price on May 31, 2024
-
-
-After generating seemingly endless enthusiasm following its skyrocketing to a new all-time high near $73,000 in March and around the highly-anticipated halving event in April, Bitcoin (BTC) has fallen off somewhat.
-The world’s premier cryptocurrency has, in more recent weeks, been struggling with lackluster performance and a string of violent corrections that saw it, at times, plummet as low as $57,000.
-Though the most recent trading trends have been positive, as BTC is 3.18% in the green on the 24-hour chart and Bitcoin price today stands at $62,907, but a shadow casts large given its weekly and monthly shakiness. 
-
-
-BTC 7-day price chart. Source: Finbold
-Hoping to provide a modicum of clarity on whether Bitcoin is now set to surge toward previously predicted highs or if more bearish experts are correct and the current cycle has already topped, Finbold decided to consult the AI-driven machine learning algorithms of a platform specializing in forecasting asset prices – PricePredictions.
-Machine learning algorithms forecast a gradual uptrend
-As it turns out, the algorithms of PricePredictions estimate that the cryptocurrency market – at least when it comes to Bitcoin – is at the end of its highly volatile phase. 
-Indeed, the platform forecasts that BTC is set to enter a gradual uptrend that will see the coin hit $63,991.20 on May 31 – a slight rise of 1.725% over the course of two and a half weeks.
-BTC machine learning algorithm prediction for May 31. Source: PricePredictions
-Though the algorithms see some deviations from the generally steady climb, it would appear they also estimate these will have little bearing on Bitcoin’s performance through the rest of May.
-Experts agree on volatility ahead
-While algorithms consider a rather uncharacteristic steady rise lies ahead, several crypto experts foresee significant swings – trouble even – on the horizon.
-In an analysis posted on X on May 12, Ali Martinez identified $64,290 as a price crucial for BTC to attain. According to the expert, should Bitcoin achieve this goal, it is likely it will experience a massive rally toward a new all-time high (ATH) of $76,610.
-On the flip side, should it fail to achieve the climb to $64,290, it is likely that the world’s premier cryptocurrency will quickly lose its footing and find it again only at approximately $51,970.
-BTC extreme deviation pricing bands chart. Source: @ali_charts
-Another prominent crypto expert, Michaël van de Poppe, advised caution as he believes that should Bitcoin again slip below $60,000, it would continue collapsing until it finds itself in the support zone between $52,000 and $55,000.
-BTC price chart with critical support zones. Source: CryptoMichNL
-It is, however, possibly worth noting that on April 30, van de Poppe estimated that Bitcoin would find its bottom within a week indicating that the then-discovered levels just under $57,000 constitute the lowest BTC will go for the time being.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-CEO: Trump Campaign Eyes Crypto-Friendly Policies
-
-
-																The intersection of cryptocurrency and politics has taken center stage as the potential return to power of former President Donald Trump emerges with a crypto-friendly agenda. The revelation comes from none other than David Bailey, CEO of Bitcoin Magazine, who disclosed his involvement in advising Trump’s campaign to adopt policies favorable to the crypto industry.
-
-	Related Reading
-
-
-
-Bailey’s Bombshell: Advising Trump For A Pro-Crypto Future
-Bailey, a prominent figure in the cryptocurrency community, shocked many when he unveiled his team’s role in guiding Trump’s campaign towards embracing Bitcoin and other digital assets. Bailey revealed that they had proposed a crypto-focused executive order to be signed on Trump’s first day back in office, signaling a significant departure from Trump’s previous skepticism towards cryptocurrencies.
-
-Trump’s Crypto Evolution: From Skepticism To Embrace
-Trump’s shifting stance on cryptocurrencies has been nothing short of remarkable. Once vocal about his disdain for digital assets, Trump now appears open to embracing them, contrasting sharply with President Biden’s purported lack of understanding of the crypto space. This evolution has ignited discussions about the potential impact of a Trump presidency on the crypto industry.
-
-The Divide: Pro-Bitcoin Or Anti-Biden?
-Bailey’s announcement has sparked debates within the crypto community, with some viewing it as a strategic move to ensure a more favorable regulatory environment for Bitcoin and cryptocurrencies.
-However, others question the motives behind supporting Trump, citing concerns about his controversial tenure as president. Bailey himself clarified that their actions are aimed at defending Bitcoin rather than endorsing Trump personally.
-
-Bitcoin is now trading at $63.100. Chart: TradingView
-Election Dynamics: Bitcoin As A Deciding Factor?
-With the upcoming presidential elections looming, the role of Bitcoin in shaping political landscapes has never been more apparent. Bailey’s call to mobilize and ensure a pro-Bitcoin president raises questions about the growing influence of cryptocurrency in electoral politics.
-Will Bitcoin enthusiasts unite to sway the outcome of the elections in favor of a crypto-friendly candidate?
-
-	Related Reading
-
-
-
-Trump: Second Term And Regulatory Outlook
-Geoff Kendrick, head of FX Research and Digital Assets Research at Standard Chartered Bank, weighed in on the potential implications of a Trump second term for the cryptocurrency industry.
-Kendrick believes that a Trump presidency would likely result in a more supportive regulatory environment, offering hope to crypto advocates amidst ongoing regulatory uncertainties.
-
-																								
-															
-
-
-						
-
-----------------
-
-Token2049 Exclusive: Cryptonews Chats with John Lilic, Executive Director, Telos Foundation
-
-
-                        
-                            Token2049 Exclusive: Cryptonews Chats with John Lilic, Executive Director, Telos Foundation                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 13, 2024 05:43 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Token2049 remains a pivotal event in the blockchain and cryptocurrency sector, attracting leading thinkers and innovators from around the world. This year, one of the highlights was an exclusive interview with John Lilic, Executive Director of the Telos Foundation, conducted by Cryptonews reporter Matt Zahab. The conversation offers deep insights into Telos’ latest developments and strategic direction.VIDEOTelos Foundation on Hardware Design of ZK
-The Telos Foundation is an organization dedicated to supporting and promoting the Telos Blockchain Network. It plays a crucial role in the growth and development of the Telos ecosystem by fostering community engagement, funding projects, and driving innovation on the Telos blockchain.In April, the Telos Foundation today announced that it will work with Ponos Technology, the leading Zero Knowledge Proof (ZKP) research and development firm, to begin to develop an end-to-end optimized, hardware-accelerated Ethereum Layer 2 network featuring SNARKtor, the Telos-developed decentralized recursive proof aggregator. The teams will take a hardware-software co-design approach that will help unlock new possibilities in terms of massive scalability, greater data protection and trustless interoperability for Ethereum users globally.Full TOKEN2049 Recap
-Token2049 continues to be a crucial event for professionals and enthusiasts in the cryptocurrency world, providing a platform for critical discussions and networking among the industry’s most innovative minds. During the event, big names in the industry, like John Lilic, share their thoughts and views on the current and future state of crypto globally.Discover more insights and in-depth analysis in our comprehensive recap of Day 1 of the TOKEN2049 event below.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Tether CEO Paolo Ardoino's Response to Ripple CEO's Claims About Tether (USDT) Was Not Delayed! Here are the Details - Bitcoin Sistemi
-
-
-Tether CEO Paolo Ardoino made a statement to respond to Ripple CEO's fear mongering about Tether's stablecoin USDT.
-Tether CEO Paolo Ardoino Opposed Ripple CEO's Claims
-Ardoino's statements shed light on Tether's commitment to regulatory compliance and its proactive measures against illegal activities in the cryptocurrency ecosystem.
-
-
-Controversy surrounding the Ripple CEO's allegations sparked controversy within the cryptocurrency community, with Ardoino countering such claims by emphasizing Tether's commitment to regulatory standards and proactive stance against fraudulent activities.
-
-
-
-
-
-
-
-In particular, Ardoino underlined the company's commitment to legal and regulatory compliance, emphasizing that Tether stablecoins are fully compliant with the Office of Foreign Assets Control (OFAC) and Specially Designated Nationals (SDN) lists.
-Additionally, Ardoino provided information about Tether's cooperation with US law enforcement, explaining that the company has blocked over $639 million in suspicious transactions since its founding.
-
-
-
-This collaboration serves as a testament to Tether's proactive efforts to combat fraudulent activity and protect the integrity of the stablecoin ecosystem.
-In response to reports of fear, uncertainty and doubt (FUD) spread by a rival company currently under SEC investigation, Ardoino reiterated the security measures implemented in the Tether ecosystem.
-
-
-
-
-
-He highlighted Tether's internal investigation team, which is equipped with a variety of tools to monitor primary and secondary markets, and explained that Tether has frozen more than $1.3 billion since its founding, primarily in response to fraud, hacking and other illegal activity.
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
 XREX Singapore Secures MPI Licence from MAS for Cross-Border Solutions | Coinspeaker
 
 
@@ -9039,3 +8532,389 @@ In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiase
 Crypto exchange OKX launches local regulated entity in Australia
 
 Crypto exchange OKX is moving its Australian-focused services under a locally regulated entity as part of its expansion efforts through the Asia-Pacific region.Oscar Piastri of McLaren Racing — one of OKX's main sponsors —officially announced the news at a media event in Sydney on May 14.“Australian crypto users deserve a platform that is secure, easy-to-use and response to their needs, which include seamless access to banking rails as well as AUD pairs for the most popular cryptocurrencies,” OKX Australia general manager Jamie Kennedy said in a statement shared with Cointelegraph.170 crypto trading pairs will be available to Australian users, OKX noted.Options trading would also be available in addition to spot trading, Kennedy noted.Source: OKXOKX president Hong Fang says Australia offers a “dynamic customer base” for the firm, including both sophisticated traders and others that are interested in crypto but haven't taken the first step yet.OKX told Cointelegraph it was opening an Australian office in March last year, explaining there was a “huge appetite” for crypto and it saw the country as “a key growth market.”The exchange’s Australian-focused services since March 20 moved from a Seychelles-based firm to the on-shore entities OKX Australia Pty Ltd which handles the crypto exchange and fiat services side, and OKX Australia Financial Pty Ltd which handles its derivatives and margin products.However, Australian laws dictate that local users must pass a suitability assessment and meet the definition of a wholesale client — a legal requirement under the Corporations Act 2001.Despite the regulatory hurdles, Fang praised Australian regulators for engaging with them in an open and transparent manner.Related: Australia’s top exchange may approve spot Bitcoin ETFs this year: ReportOKX has also had to stop offering its copy trading, yield-bearing products and trading of some tokens to comply with local laws. Unsupported tokens have been withdrawal-only since March 20.The exchange is the third-largest in the world by volume behind Bybit, seeing $2.8 billion in volume over the past day, according to CoinGecko.Magazine: Crypto City guide to Sydney — More than just a ‘token’ bridge
+
+----------------
+
+New Filing Reveals What Ripple Wants To Hide From The Public
+
+
+								In a court filing on May 13, 2024, Ripple Labs has formally requested the United States District Court for the Southern District of New York to seal various documents that were submitted in connection with the SEC’s Motion for Judgment and Remedies. These documents, collectively referred to as the “Remedies Materials,” contain sensitive financial data, including audited financial statements, revenue, expenses, and other confidential business information.
+Breaking Down Ripple’s Request To Seal
+Ripple’s legal counsel, Andrew J. Ceresney of Debevoise & Plimpton LLP, articulated in the letter to Judge Analisa Torres the rationale behind the request. Ceresney’s argument focuses on the potential damage to the company’s competitive position, noting, “Public disclosure of this information would be highly detrimental because it would reveal detailed information about Ripple’s financial condition, long-term business plans, revenue streams, and expense structures to the marketplace, including competitors, customers, and future business partners and customers.”
+A core objective of Ripple is to seal the discounts offered to institutional buyers of XRP. The motion lays out three main reasons to justify their request for sealing.
+Protection of Highly Confidential Financial Information: Ripple emphasizes the critical nature of the documents it seeks to seal, particularly its audited financial statements and related materials.
+
+According to Ceresney, “The documents and information are non-public and their disclosure would cause significant harm to Ripple’s business interests and competitive standing.” He argues that these documents contain sensitive financial metrics that are vital to maintaining the company’s proprietary strategies and competitive position in the marketplace.
+Preservation of Negotiating Power: Another significant aspect of the request is to protect the details of its financial terms negotiated with third-party business partners. The company asserts that revealing the XRP sale terms could compromise its competitive position and adversely affect its negotiating capabilities in future deals.
+The motion details the potential repercussions, noting, “Revelation of the financial terms of its contracts with counterparties and customers […] could result in serious damage to Ripple’s negotiating position with future counterparties, and would cause competitors to adjust their sales plans and pricing policies to compete with Ripple in the marketplace.”
+
+This section underscores the concern that such disclosures could not only harm its individual bargaining power but also provide competitors with unjust insights into the company’s strategic operations.
+Ensuring Privacy of Non-Parties: Ripple also seeks to redact the identities of non-party entities like XRP investors, customers, and business partners, asserting that their privacy should be protected as their identities and contact information are irrelevant to the legal issues at hand and could be misused if disclosed.
+The motion articulates, “The identities of these non-parties have no bearing at all on the Court’s resolution of the Remedies Motion and therefore their privacy interests outweigh the presumption of public access.” Ripple stresses that such disclosure poses unnecessary risks to the individuals and entities involved and does not contribute to the resolution of the case.
+Ripple’s legal team also points out that the SEC has not opposed several of the sealing requests, which might play in favor of their motion. Citing previous cases where the court granted similar requests for sealing and redaction, the motion suggests that there is a strong precedent supporting their request.
+Pro-XRP lawyer Bill Morgan commented, “a company has every right to seek to protect commercially sensitive information. In this situation, the need for Ripple to even apply to seal information on discounts arises from the SEC putting this in evidence and its weak argument that pecuniary harm is suffered by a sophisticated institutional investor […].”
+At press time, XRP traded at $0.507.
+XRP price, 1-week chart | Source: XRPUSD on TradingView.com
+Featured image from Fox Business, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Coinbase Faces Widespread Outage
+
+
+                        
+                            Coinbase Faces Widespread Outage, Leaving Users Unable to Access Crypto Exchange                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 02:07 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Coinbase, one of the leading cryptocurrency exchanges in the United States, is grappling with a “system-wide outage” that has rendered its services inaccessible to users on both desktop and mobile platforms.The exchange officially announced the outage on its status page, alerting users to a “major outage” that began at 4:15 am UTC on May 14.As a result, attempting to visit the Coinbase website currently displays a “503 Service Temporarily Unavailable” error message.“Coinbase experiencing a system wide outage. We are investigating this issue. Your funds are safe,” the message on its status page reads.Coinbase Might be Experiencing an Overload
+According to a developer guide from Mozilla, this error message commonly indicates that the servers are either undergoing maintenance or experiencing overload.Coinbase Support took to social media to acknowledge the issue and assure users that they were actively investigating and working towards a solution.They reiterated that users’ funds remained safe despite the disruption.This is not the first time Coinbase has faced temporary outages.On February 28, along with several other exchanges, Coinbase experienced service disruptions due to a surge in crypto trading activity.While such outages are undoubtedly frustrating for users, some individuals in the cryptocurrency community leverage these incidents to fuel a bullish narrative, suggesting that the heightened activity causing the downtime ultimately benefits the market price.Although the outage duration and the underlying cause have not been specified by Coinbase, the company is expected to provide updates as they work to resolve the issue and restore full functionality to its platform.KBW Increases Coinbase Price Target to $230
+Last month, investment banking firm KBW hailed Coinbase for offering investors a unique opportunity to tap into the long-term growth potential of the crypto economy and increased its price target for COIN to $230.In a research analysis, KBW raised its Coinbase price target from $160 to $230 while maintaining its market performance rating. Meanwhile, Coinbase has also faced its fair share of regulatory trouble.Last month, Judge Katherine Polk Failla of the US District Court of the Southern District of New York ruled that the SEC’s lawsuit against Coinbase can proceed.The Judge’s decision came after Coinbase filed a motion to dismiss the SEC case, which borders on allegations the exchange operates as an unregistered securities exchange, broker, and clearing agency.In her ruling, Judge Failla declared that the SEC’s lawsuit against Coinbase held “plausible” ground. “The Court finds the SEC has sufficiently pleaded that Coinbase operates as an exchange, as a broker, and as a clearing agency under the federal securities laws, and through its Staking Program engages in the unregistered offer and sale of securities,” the court document read.As reported, Kathryn Haun, a former Assistant U.S. Attorney and partner at Andreesen-Horowitz, has stepped down from Coinbase’s board.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Crypto Exchange OKX Officially Debuts in Australia
+
+
+                        
+                            Crypto Exchange OKX Officially Debuts in Australia                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 02:01 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        OKX, a world-leading digital asset exchange, has officially launched its operations in Australia, a year after it established an office in Sydney in May 2023.Announced Tuesday, the launch would enable spot trading for all users and derivatives trading for verified wholesale clients in Australia.The move arrives months after the exchange’s subsidiary received in-principle approval for a payments license to operate in Singapore. The exchange also launched its operations in Turkey, this February.Adding on to its expansion spree, OKX’s Australian launch aims to provide trusted, compliant, and transparent gateway to crypto trading and decentralized finance (DeFi).“As part of our long-term commitment to the Australian market, we look forward to continuing to improve our offering to better serve the local crypto community,” the exchange wrote on X.With the launch, OKX claims to be the largest global crypto exchange offering direct AUD deposits and withdrawals to Australians.As of now, spot trading users have access to 170 crypto spot pairs and a total of 85 tokens including Bitcoin, Ethereum, Solana and Tether, the release added. The OKX’s Australian arm plans to add more tokens in the coming months.“Australian crypto users deserve a platform that is secure, easy-to-use and responsive to their needs, which include seamless access to banking rails as well as AUD pairs for the most popular cryptocurrencies,” Jamie Kennedy, general manager at OKX Australia, noted.Australia’s Growing Crypto-Hungry Population
+One of the key reasons for crypto exchanges to choose this smallest continent is due to its crypto-hungry population. According to a survey from Koinly reported that as many as 31.6% of Australians held or had held crypto as of July 2023.Additionally, crypto ownership in Australia has consistently increased since 2019, in a way that 1 in 4 adults own some type of cryptocurrency.On the other hand, Australia had intensified scrutiny on crypto exchanges lately, demanding data from 1.2 million accounts. A move to crackdown on users failing to pay their taxes amid a rising interest in crypto tokens.Further, ASX, the country’s market operator, is eying to approve the first-ever Spot Bitcoin exchange-traded funds (ETFs) by the end of 2024. As a result, this would trigger a surge in Bitcoin investment options among Australian users.                                                     
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Crypto News Today: Market Surges Ahead of Key U.S. Data
+
+
+                                Crypto market cap reaches $2.41T, climbing 2.30% in value                                			Upcoming US CPI and PPI data, along with Fed remarks, will guide crypto market amidst ongoing volatility.								Persistent inflation worries FOMC, with Vice Chairman Phillip Jefferson and Loretta Mester expressing mixed views on rate cuts.			Major Events To WatchCrypto Fear and Greed Index:		The Fear and Greed Index rose by 9 points to reach 66 out of 100, suggesting a slight increase in cryptocurrency buying.Cryptocurrency prices increased over the last 24 hoursTOP 5 Gainers Coins						Indices						LTP						Change (%)												Pepe						$0.00001018						21.71%										FLOKI						$0.0001939						21.44%										Near Protocol						$7.25						10.22%										Dogecoin						$0.1498						9.76%										Bonk						$0.0002361						8.79%						Latest Market Update: 			#Bitcoin ($BTC) price saw a rebound on Monday in anticipation of upcoming US inflation data for April.							Major altcoins including #Toncoin ($TON), #XRP ($XRP), #Jupiter ($JUP), and #Solana ($SOL) registered gains.							Notably, #Pepe ($PEPE) surged impressively by over 21.20% within a 24-hour period.							Conversely, #Lido DAO ($LDO) suffered the most significant decline, plummeting by 5.80% during the same timeframe.							The past 24 hours saw a $70.13B total crypto market volume, marking a nearly 60% increase.							DeFi volume stands at $6.27B, representing 8.94% of the total crypto market 24-hour volume.							Stablecoins contribute $64.24B, constituting 91.61% of the total crypto market 24-hour volume.							Bitcoin's dominance is 53.84%, up by 0.05% compared to the previous day.			Major Worldwide News Update:			Crypto market trades higher as investors pause cautiously before key inflation data and earnings reports this week. Investor sentiment on risk assets remains wary, eyeing upcoming producer and consumer price index releases on Tuesday and Wednesday, which could influence the Federal Reserve's monetary policy stance.							Hong Kong's Bitcoin and Ethereum exchange-traded funds saw their largest-ever outflow on May 13, erasing gains since launch. Bitcoin ETFs, managed by Bosera, ChinaAMC, and Harvest Global, lost $32.7 million, led by ChinaAMC's $15.5 million withdrawal. Ether ETFs faced $6.6 million in outflows, signaling waning confidence amid market volatility.							GameStop Corp (NYSE: GME) sparks a frenzy on Wall Street, with its stock soaring 75% to $30.45 and meme coin surging 2300% in 24 hours. The memecoin market sees a 34% surge in trading volumes, adding $5 billion to investors' wealth. GameStop's rally inflicts nearly $1 billion in losses on short sellers.							The Group of Central Bank Governors and Heads of Supervision (GHOS) postponed the deadline for implementing Basel Committee's prudential standard on banks' crypto-asset exposures to January 1, 2026, allowing jurisdictions more time to develop unified regulatory frameworks. This strategic move aims to enhance market stability amid varied regulatory speeds globally.							OpenAI unveils GPT-4o, available to all ChatGPT users regardless of plan. CEO Sam Altman declares it the best model yet, boasting enhanced text, vision, and audio capabilities. Features include real-time user emotion recognition and a desktop app for seamless interaction. Improved multilingual performance and API efficiency anticipate widespread adoption.							Bank of Montreal reveals exposure to Bitcoin ETFs in SEC filing. Holding positions with Fidelity, Franklin Templeton, BlackRock, and Grayscale, the move signals traditional finance's growing interest in crypto. Wells Fargo and JP Morgan Chase also disclose ETF holdings, sparking bullish sentiment across social media.							Former SEC executive John Reed Stark criticizes Coinbase's lawsuit, stating the company can no longer claim regulatory uncertainty. Coinbase plans to appeal Judge Failla's ruling, as SEC alleges it offered securities. Stark cites precedents from cases like Ripple's as clarity. Industry debates continue on crypto regulation's unpredictability and legal implications.			COIN GABBAR Views: Is Bitcoin heading towards $70,000 or $56,000 this week? Is the bull run reigniting as Bitcoin surges towards $63,000? Has Bitcoin found its bottom? To get latest news Stay tuned us at coingabbar	Disclaimer: Coingabbar's guidance and chart analysis on cryptocurrencies, NFTs, or any other decentralized investments is for informational purposes only. None of it is financial advice. Users are strongly advised to conduct their research, exercise judgment, and be aware of the inherent risks associated with any financial instruments. Coingabbar is not liable for any financial losses. Cryptocurrency and NFT markets could be highly volatile; users should consult financial professionals and assess their risk tolerance before investing.Also Read: North Korean Hackers Storm Play Havoc With Crypto Firms
+                            
+                        
+
+----------------
+
+VanEck's Bitcoin ETF Gains $109 Million Net Asset in Q1
+
+
+                        
+                            VanEck’s Bitcoin ETF Gains $109 Million Net Asset, Holds $619 Million Bitcoin in Q1                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 01:58 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        VanEck’s spot Bitcoin exchange-traded fund (ETF) experienced significant growth in the first quarter of 2024.According to VanEck Bitcoin Trust’s recent filing with the Securities and Exchange Commission (SEC), the HODL Bitcoin ETF saw an increase of $109 million in net asset for the first fiscal quarter of 2024, which concluded on March 31.Bitcoin ETF’s Gains and Ethereum ETF’s Anticipated Rejection
+The filing also indicated that HODL held 8,711 BTC, costing $515 million and valued at $619 million. The ETF also reported liabilities of $20 million and a net realized gain of $6 million. Additionally, the fund had 8.2 million shares outstanding as of April 30, 2024.The SEC approved VanEck and 10 other Bitcoin ETFs on Jan. 10, 2024, marking a historical milestone for the cryptocurrency industry.VanEck CEO Jan van Eck expressed skepticism about the SEC’s approval of spot Ethereum ETFs during a CNBC interview on April 9. He indicated that he expected his firm’s application to likely be rejected.VanEck and Cathie Wood’s ARK Invest were early to file for Ethereum ETFs in the United States. They are both awaiting a final decision, due on May 23 and May 24 respectively.Advisor Expresses Concerns and Criticism
+Previously on March 27, VanEck advisor Gabor Gurbacs criticized current crypto regulations for stifling innovation.Gurbacs’s concerns were sparked by the instability in the crypto industry, which he attributed to inadequate regulatory frameworks, especially following the SEC’s delay in potentially approving the Ethereum ETF applications.“I am personally unhappy with how regulators in developed markets managed the first decade of digital asset regulation,” said Gurbacs. “They manage to simultaneously enable scammers, hamper actual innovation and protect incumbents on the expense of those building better systems.”“It’s not excusable or tolerable to prioritize personal/political interests and senseless bureaucracy over national interests and capital formation. Not ever but particularly not in the economic condition where the world is now,” stated Gurbacs.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+'Roaring Kitty' Comeback Makes Cat-Themed Coins Explode: ROAR Shoots Up Over 500% - Benzinga
+
+The "Roaring Kitty" mania rippled across the meme coin market, causing coins themed on kitty avatars to soar to unprecedented heights. What Happened: Coins, which had nothing to do with either Roaring Kitty — the social media nickname of retail trader Keith Gill — or Gamestop, the company at the center of the well-known short squeeze in January 2021, began climbing solely due to the buzz surrounding the word “Kitty.”CryptocurrencyGains +/-Price (Recorded at 12:30 a.m. EST)Roaring Kitty ROAR/USD+545%$0.001459Kitty Coin Solana KITTY/USD+126%$$0.0009446Kitty AI DOGE/USD+10.6%$0.0002691Ethereum-based Raoaring Kitty was the largest gainer in the memecoin space, exploding 545% over the last 24 hours, according to data from CoinGecko. Similarly, Solana-based Kitty Coin Solana was up 126% in the said timeframe, ranking as the third-best-performing coin in the space.Amid these astronomical gains, on-chain tracking site Lookonchain revealed how a trader purchased a large amount of KITTY moments before the tweet from Roaring Kitty–the event that sparked the euphoria. The "lucky" trader then sold a significant portion of his stash when prices pumped, leading to a massive 32x jump in profits.Why It Matters:  The phenomenon reaffirmed the volatile and speculative nature of meme coins, requiring just a social media post to swing wildly.While they appear enticing to a lay investor during periods of hype, questions remain regarding the sustainability of the surge. It would be interesting to observe how long these new kitty-themed tokens can keep their upward trend.Image Courtesy: PixabayIt was observed that the more established meme coins seem to show greater resilience during weak markets.Read Next: GameStop Stock Pumps, But What About The GameStop Meme Coin?Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+OKX Offers Crypto Trading Services to Australian Users: Report
+
+
+							
+
+OKX announces the launch of its spots and derivatives crypto trading platform in Australia.
+
+
+
+The platform offers access to 170 crypto spot pairs and 85 tokens, including BTC, ETH, SOL, and USDT.
+
+
+
+With the launch, OXK became Australia’s largest crypto exchange offering direct AUD deposits and withdrawals.
+
+
+
+
+OKX, the second largest crypto exchange by trading volume, has announced the launch of its spots and derivatives crypto trading platform in Australia. With its efforts to expand its services to Australia, OKX has reportedly become the largest crypto exchange offering direct AUD deposits and withdrawals nationwide.
+
+
+
+Jamie Kennedy, OKX Australia’s General Manager, shared his enthusiasm for the new initiative. Kennedy acknowledged the need for a “secure, easy-to-use and responsive” crypto exchange for Australian users, which became the major factor that drove OKX to launch its platform in the country. He added,
+
+
+
+
+“It’s my job to make sure that while we offer the best product, we also invest in compliance and security to give peace of mind to our users. I’m proud to say we have assembled a great local team that will ensure OKX contributes to Australia’s crypto industry for years to come.”
+
+
+
+
+In May 2023, OKX opened an office in Sydney, setting an initial phase for its entry into Australia. In an official post at the time, the Chief Marketing Officer, Haider Rafique, hinted at OKX’s vision “to become the leading crypto platform in the world.” His words proved Australia “an indispensable part of this strategy and a key growth market,” hinting at the company’s potential expansion into the region.
+
+
+
+
+
+
+
+
+
+The platform enables its Australian customers to deposit and withdraw AUD via Australian banks. In addition, OKX Australia facilitates the purchase of cryptocurrencies with fiat through third-party platforms like Simplex, MoonPay, and Banxa. The platform provided access to 170 crypto spot pairs and 85 tokens, including Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and Tether (USDT).
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Daily Bitcoin Rune Etchings Plummet by 99% Since April Peak
+
+
+                        
+                            Daily Bitcoin Rune Etchings Plummet by 99% Since April Peak                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 01:41 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The number of new Runes etched on Bitcoin daily has experienced a drastic decline, falling below 250 for the past six days.The drop is particularly notable, with only 157 Runes etched on Monday, marking a staggering 99% decrease from the peak witnessed in late April, according to a Dune Analytics dashboard created by RUNES.IS.The decline follows a highly successful period that occurred a week after the launch, during which an average of 14,700 new Runes were etched each day between April 26 and 30.This impressive streak included a record-setting 23,061 Runes etched on April 26.Rune Etchings Decline After Halving Peak
+Runes, a new token standard, was introduced at the fourth Bitcoin halving block on April 20.The protocol enables memecoin and non-fungible token enthusiasts to inscribe and etch their favorite artwork, images, audio, and videos onto the Bitcoin network.Initially, it provided a much-needed revenue boost for Bitcoin miners seeking to offset the impact of the recent halving.The block subsidy was halved to 3.125 Bitcoin (BTC), equivalent to $196,800 at current prices.However, the decline in Rune etchings is evident, with the 157 Runes etched on May 13 contributing a mere $3,835 in transaction fees to Bitcoin miners.This is a significant drop compared to the hundreds of thousands of dollars miners were receiving daily in late April.Since its launch on April 20, a total of $4.5 million in transaction fees have been paid to Bitcoin miners, averaging approximately $189,000 per day.The current count stands at over 91,200 Runes etched on Bitcoin.Despite the decrease in Rune etchings, Runes transactions continue to dominate the majority of transactions in May.These transactions primarily take place on popular marketplaces such as Magic Eden, OKX, Ordinals Wallet, and UniSat.Runes, introduced by Ordinals inventor Casey Rodarmor, aims to utilize blockspace more efficiently than its main competitor, BRC-20s, as outlined by Binance Research.Unlike BRC-20s, Runes are compatible with Bitcoin’s unspent transaction output (UTXO) model, allowing UTXOs to hold balances of arbitrary fungible tokens like Runes.Developers Hit Back at Runes
+Last month, Bitcoin core developer Luke Dashjr criticized the Runes protocol, suggesting it exploits a fundamental design flaw within the Bitcoin blockchain network.In his post, Dashjr highlighted the contrasting nature of Ordinal Inscriptions and the Runes protocol in their interactions with the network.He explained that while Ordinals exploit vulnerabilities within Bitcoin Core, the Runes protocol operates within the existing framework of the network’s design flaws.In response to his opposition to Runes, Dashjr suggested methods for filtering out transactions related to the protocol.He recommended adjusting the “datacarriersize” setting in the bitcoin.conf file to zero, which would effectively block Runes’ spam.However, early indications suggest that miners are not following this advice.The popularity of the Runes protocol led to Bitcoin transaction fees reaching an all-time high average of $128 on April 20, coinciding with the fourth Bitcoin halving.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Crypto OTC Platform Paradigm Unveils 'Block Trading' Facility for MATIC, SOL, XRP Options
+
+Block trades are privately negotiated futures, options, or combination trades exceeding certain volume thresholds. Participants typically use communication technologies like Paradigm to request quotes bilaterally and agree on the price, following which the trade is submitted to an exchange, in this case, Deribit, for execution and clearing.
+
+----------------
+
+Coinbase Reports System-Wide Outage
+
+Currently, the exchange's website shows a "503 Service Temporarily Unavailable" message.
+
+----------------
+
+Pepe Becomes Hot Commodity on 'Roaring Kitty' Phenomenon: Analyst Says The Coin Should Be On Your Radar - Benzinga
+
+The return of famous retail trader "Roaring Kitty" on social media galvanized the memecoin market, with frog-themed token Pepe PEPE/USD becoming one of the biggest beneficiaries.What Happened: PEPE soared 15.40% in the last 24 hours, according to data from Benzinga Pro, breaking out of the rangebound price action that persisted over the week. The rally saw the meme token surpass Uniswap UNI/USD and stablecoin First Digital USD FDUSD/USD in market capitalization, breaking into the top 25 coins by market cap list. The coin was also the seventh-most traded coin in the last 24 hours, with volumes hitting nearly $2 billion.The rally triggered profit-taking opportunities for many traders. An early investor transferred a massive stash of 250 billion PEPE tokens, worth $2.4 million at prevailing prices, into cryptocurrency exchange Binance on Monday, according to Lookonchain. His PEPE portfolio returned nearly $3.6 million in profit.Why It Matters:  The frenzy was fueled by the social media comeback of Keith Gill, popularly known as "Roaring Kitty," a retail trader famous for his role in the GameStop short squeeze of 2021. PEPE' social volume rose significantly in the last 24 hours, according to on-chain analytics firm Santiment. The platform identified PEPE as one of several coins to keep an eye on, with substantial volatility likely in the coming days. Large PEPE transactions worth more than 100,000 jumped more than 5x in the last 24 hours, while the daily active addresses more than doubled, according to IntoTheBlock.Price Action: At the time of writing, PEPE was exchanging hands at $0.000009989, following a 15% bump in the last 24 hours, according to data from Benzinga Pro.Read Next: Bitcoin, Ethereum, Dogecoin Edge Higher On Spot ETF Holdings Disclosure And ‘Roaring Kitty’ Frenzy: Analyst Says $66,250 Next Hurdle For Bitcoin Before A New All-Time High
+
+----------------
+
+CertiK Detects $5M Security Flaw in Cross-Chain Bridge Wormhole
+
+
+                        
+                            Security Firm CertiK Detects $5M Security Flaw in Cross-Chain Bridge Wormhole                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 01:20 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Security firm CertiK said it has detected and prevented a flaw in the cross-chain bridge Wormhole which could have resulted in $5 million worth of losses.In a social media post, CertiK said its research team found a critical bug in Wormhole — an incorrect application of the public and entry modifiers exposing the blockchain to potential multimillion-dollar exploits.In a short video explainer, CertiK runs through how it detected the flaw in the network.  CertiK said this case study not only underscores the critical role of proactive security practices but also celebrates the power of open-source software in raising security and transparency standards across the Web3 world.Wormhole supports the transfer of tokens and data across different blockchain networks. The crypto project was spun off by Jump Trading Group and is one of the most popular bridges linking the Ethereum and Solana blockchains.Wormhole Experienced the Largest DeFi Attack in 2022
+In 2022, Wormhole lost about $321 million in an exploit. Hackers compromised Wormhole Bridge leading to 120,000 wETH loss from the platform, equivalent to $321 million. It was the largest DeFi attack of 2022 and the hacker swapped wETH tokens with Ethereum, SOL, USDC, APE, SX, etc.An investigation conducted by pseudonymous researcher Pland, detailed in an X post on April 4th, revealed that the Wormhole team overlooked excluding several wallet addresses associated with the exploit that drained $321 million in crypto from the cross-chain bridge.Chainalysis said to understand why the 2022 attack was more serious than the average hack, it is important to know how cross-chain bridges work.“Users interact with cross-chain bridges by sending funds in one asset to the bridge protocol, where those funds are then locked into the contract. The user is then issued equivalent funds of a parallel asset on the chain the protocol bridges to. In the case of Wormhole, users typically send Ether (ETH) to the protocol, where it is held as collateral, and are issued WeETH on Solana, backed by that collateral locked in the Wormhole contract on Ethereum,” — Chainalysis: Lessons from the Wormhole Exploit.April Sees Lowest Crypto Hacks Since 2021
+April 2024 saw the lowest combined losses from crypto-related hacks and scams, with CertiK reporting approximately $25.7 million lost to exploits, hacks, and scams. This latest figure marks the lowest recorded hacks since CertiK began tracking such incidents in 2021, as flash loan attacks and private critical hacks decreased.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Can Ethereum Price Repeat Pattern and Start Fresh Surge To $3,200?
+
+
+																Ethereum price is attempting a recovery wave from the $2,865 support. ETH might start a fresh surge if it clears the $2,960 resistance zone.
+
+Ethereum remained stable and attempted a recovery wave above $2,900.
+The price is trading below $2,950 and the 100-hourly Simple Moving Average.
+There was a break above a major bearish trend line with resistance at $2,930 on the hourly chart of ETH/USD (data feed via Kraken).
+The pair could start a major increase if there is a close above the $2,990 and $3,000 resistance levels.
+
+Ethereum Price Holds Support
+Ethereum price traded as low as $2,864 and recently started an upside correction, like Bitcoin. ETH was able to rise above the $2,900 and $2,920 resistance levels. Besides, there was a break above a major bearish trend line with resistance at $2,930 on the hourly chart of ETH/USD.
+The price even spiked above $2,980 and tested $3,000. A high was formed at $2,992 and the price is now correcting gains. There was a minor move below the $2,960 level. The price dipped below the 23.6% Fib retracement level of the recent increase from the $2,864 swing low to the $2,992 high.
+Ethereum is now trading below $2,950 and the 100-hourly Simple Moving Average. Immediate resistance is near the $2,950 level and another connecting bearish trend line on the same chart. If the bulls push the price and repeat the recent breakout, the price might start another increase.
+The first major resistance is near the $3,000 level. The next key resistance sits at $3,050, above which the price might gain traction and rise toward the $3,120 level.
+
+Source: ETHUSD on TradingView.com
+If there is a clear move above the $3,150 level, the price might rise and test the $3,220 resistance. Any more gains could send Ether toward the $3,250 resistance zone.
+Another Failure In ETH?
+If Ethereum fails to clear the $2,950 resistance, it could start another decline. Initial support on the downside is near the $2,2930 level and the 50% Fib retracement level of the recent increase from the $2,864 swing low to the $2,992 high.
+The first major support is near the $2,900 zone. The next support is near the $2,865 level. A clear move below the $2,865 support might push the price toward $2,740. Any more losses might send the price toward the $2,650 level in the near term.
+Technical Indicators
+Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone.
+Hourly RSI – The RSI for ETH/USD is now below the 50 level.
+Major Support Level – $2,865
+Major Resistance Level – $2,950
+																								
+															
+
+
+						
+
+----------------
+
+Bracebridge Bets Big in Bitcoin ETFs, Now Largest ARKB Holder
+
+
+A recent SEC filing revealed that Bracebridge Capital has invested $363 million in spot Bitcoin exchange-traded funds (ETFs). This Boston-based hedge fund has hefty stakes in the Ark 21Shares Bitcoin ETF (ARKB), Grayscale Bitcoin Trust ETF (GBTC), and BlackRock’s iShares Bitcoin Trust (IBIT).
+This move highlights the growing institutional interest in cryptocurrency.
+Institutional Investments in Bitcoin ETFs Surge Amid Heavy Outflows
+Bloomberg Intelligence data reveals Bracebridge Capital holds $262 million in ARKB, $81 million in IBIT, and $20 million in GBTC. The data further shows that Bracebridge Capital is the biggest holder of ARKB.
+This is particularly noteworthy given that Bracebridge manages funds for endowments for Yale University and Princeton University. Eric Balchunas, a senior ETF analyst at Bloomberg Intelligence, commented on Bracebridge Capital’s significant investment.
+
+
+“The new high water mark (authorized participants/market maker) for Bitcoin ETF holdings has arrived. […] They went wild. If you manage money for the Ivys, you are as pro as it gets,” Balchunas wrote.
+
+Read more: Crypto ETN vs. Crypto ETF: What Is the Difference?
+List of Top 10 ARKB Holders. Source: X/EricBalchunas
+A few days before this revelation from Bracebridge, another SEC filing unveiled that traditional banks are also jumping on the spot Bitcoin ETFs bandwagon. The Switzerland-based investment bank, UBS Group AG, invested $145,692 in IBIT (3,600 shares) through its subsidiaries and institutional investment managers. Edmond de Rothschild (Suisse) S.A., the family-owned banking giant, also owns $4.2 million in IBIT shares and $82,121 in GBTC shares.
+Bracebridge Capital, UBS, and Rothschild’s moves align with a trend among institutional investors. BeInCrypto recently reported that the Susquehanna International Group had invested over $1.1 billion in various Bitcoin ETFs.
+
+New York-based asset manager Hightower has also ramped up investments in Bitcoin ETFs. Hightower’s investments totaled $68.35 million across spot Bitcoin ETFs.
+However, James Seyffart, another ETF analyst at Bloomberg Intelligence, cautioned the crypto community to be careful about identifying recent Bitcoin ETF ownership trends.
+
+“Just FYI, everyone. JPM, Susquehanna (which also owns these ETFs and was all over this site last week), and others are just market makers and/or [authorized participants] APs. Their ownership isn’t necessarily indicative of anything other than this is how many shares they had on March 31, 2024,” Seyffart explained.
+
+
+Despite the interest from institutional investors, US-traded spot Bitcoin ETFs’ performance could have been more impressive in May. According to SoSo Value data, these ETFs recorded only three positive flows throughout May.
+On May 3, the daily total net inflow was $378.24 million. Meanwhile, on May 6 and May 8, it was $217.06 million and $11.54 million, respectively. The ETFs saw outflows for the rest of May, with the biggest outflow of $563.77 million on May 1.
+Read more: How To Trade a Bitcoin ETF: A Step-by-Step Approach
+Total US Spot Bitcoin ETFs Net Inflow in May 2024. Source: SoSo Value
+Nonetheless, the significant investments by institutions like Bracebridge Capital highlight the growing integration of cryptocurrency into mainstream financial portfolios. While the performance of spot Bitcoin ETFs fluctuates, the increased institutional backing signals long-term confidence in the potential of digital assets.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+
+
+
+
+----------------
+
+Biden orders removal of Chinese-owned crypto miner near missile base
+
+United States President Joe Biden has signed an order preventing a China-linked crypto mining firm from continuing to use land near a Wyoming nuclear missile base.The order, released by the White House on May 13, forces MineOne Cloud Computing Investment and its partners to divest property operated as a crypto mining facility near the Francis E. Warren Air Force Base in Cheyenne, Wyoming.Biden cited national security concerns for the order to rescind the firm’s property rights. “There is credible evidence that leads me to believe that MineOne Partners Limited, a British Virgin Islands company ultimately majority owned by Chinese nationals [...] might take action that threatens to impair the national security of the United States.”MineOne acquired the property in June 2022 and then made improvements to use it for crypto mining close to the Air Force base. The military installation is a strategic missile base and home to intercontinental ballistic missiles, the order read. The firm and its affiliates are also required to remove all equipment on the site installed after the improvements. The order also prohibits Chinese-linked entities from any further access to the site, which is less than a mile away from the base.The company has 120 days from the date of the order to sell the property and is not permitted to transfer it to third parties. Map showing proximity of MinerOne site, Francis E. Warren AFB, and Microsoft data center. Source: Google MapsRed flags regarding this particular site have been raised in the past by tech giant Microsoft which has a data center nearby. The location could allow the Chinese to “pursue full-spectrum intelligence collection operations,” the Microsoft team wrote in an August 2022 report to the Committee on Foreign Investment in the U.S. (CFIUS), according to a 2023 New York Times investigation. Treasury Secretary Janet Yellen, who also serves as the chairperson of the committee, said the order to force MineOne to sell the land “highlights the critical gatekeeper role that CFIUS serves to ensure that foreign investment does not undermine our national security.” MineOne raised more than $20 million for its first fund within a month in 2021. Since it launched the fund in October 2021, it was n "actively subscribed" by U.S. institutional investors and high-net worth individuals, according to the announcement at the time.Cointelegraph reached out to MineOne for comments but did not receive an immediate response. Related: China has a Trojan Horse in US Bitcoin mining infrastructureThe Biden Administration has previously ordered a crackdown on the U.S. Bitcoin mining industry citing China as an example to follow as part of its ongoing war on crypto.Crypto mining was heavily curtailed by the ruling regime in China in 2021, initiating an exodus of mining operations, many of which ended up across the pond in the U.S. The latest White House order comes just a day before the Biden administration is set to sharply increase tariffs on several Chinese imports, including electric vehicles.Magazine: What do crypto market makers actually do? Liquidity, or manipulation
+
+----------------
+
+Indian Crypto Exchange CoinDCX’s DeFi Arm Okto to Launch Points Program and Blockchain
+
+“Self-custody wallet experience was completely broken and required users to go through several hurdles of the Web3 space like blockchain, self-custody, security and trust, signing transactions or gas fees," said Khandelwal. “Okto is the first such system which provides a Web 2-like single click mobile experience in the Web3."
+
+----------------
+
+Bitcoin and Ethereum ETFs saw sharp outflows in Hong Kong market - Crypto Briefing
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
