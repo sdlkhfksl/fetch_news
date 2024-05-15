@@ -1,429 +1,3 @@
-AI-powered social engineering not technical exploits now dominating 90% of cyber attacks
-
-A newly published cyber threat report from Avast has revealed substantial dominance of social engineering in cyber threats during the first quarter of 2024. Per the report, nearly 90% of cyberattacks on mobile and 87% on desktop devices involved scams, phishing, and malvertising, exploiting human vulnerabilities more than technical weaknesses.A significant rise in scams using sophisticated technologies like deepfake videos and AI-manipulated audio was noted. These scams often utilize hijacked YouTube channels and other social media platforms to spread fraudulent content. The report highlighted that such deceptive practices are becoming more complex, with cybercriminals leveraging high-profile events and figures to enhance the credibility of their scams.YouTube, in particular, has emerged as a critical vector for these threats. Avast’s telemetry indicated that in the previous year, four million unique users were protected against YouTube-based threats, with around 500,000 users shielded in the first quarter alone. Cybercriminals are increasingly exploiting YouTube’s automated advertising and user-generated content features to sidestep traditional security measures, deploying a variety of attack vectors from phishing campaigns to malware distribution.The report outlined several prevalent scam tactics on YouTube:Phishing campaigns specifically target creators with fraudulent collaboration offers, leading to malware dissemination and account compromises.Attackers post videos with descriptions containing malicious links, disguising them as legitimate downloads for popular software.Channel hijacking, where attackers gain control of YouTube accounts to push various scams, including crypto schemes that often start with fake giveaways.Attackers exploit reputable software brands and create domains that mimic legitimate companies to distribute malware disguised as genuine software.Beyond individual platforms, the broader trend of Malware-as-a-Service (MaaS) was identified as a growing sector within cybercrime. Criminals rent out malware, facilitating a commission-based partnership where even less experienced hackers can launch attacks. This model simplifies the process of executing cyberattacks, making advanced tools accessible to a broader range of criminals.Malware types such as DarkGate and Lumma Stealer were specifically mentioned for their propagation methods, including spreading via platforms like Microsoft Teams and YouTube. These methods underscore the continual evolution of cybercriminal strategies, emphasizing the role of social engineering.Jakub Kroustek, Malware Research Director at Gen, remarked on the severity of the situation,“In the first quarter of 2024, we reported the highest ever cyber risk ratio – meaning the highest probability of any individual being the target of a cyberattack.”He added that human vulnerabilities are a significant focus for cybercriminals, who exploit emotional responses and curiosity to gain access to personal information and financial assets.As technically focused exploits and hacks in crypto have fallen over the past year, Avast’s report showcases how non-technical attacks have risen. Human vulnerabilities are often the hardest aspects of op-sec and AI appears to already have made sufficient progress to offer a considerable challenge for security experts.Latest Alpha Market Report
-
-----------------
-
-President Biden blocks Chinese-backed crypto miner near Wyoming nuclear site
-
-
-After a Chinese-backed cryptocurrency mining firm tried to buy land near a nuclear missile base in Wyoming, United States, President Joe Biden issued an order preventing this purchase, citing “national security risk” due to the vicinity of the nuclear site.
-Specifically, the order prohibits the purchase and demands the divestment of the real estate belonging to a company largely owned by Chinese nationals and located within one mile of Francis E. Warren Air Force Base (F.E. Warren AFB), according to the US Treasury Department’s press release on May 13.
-Also, it seeks “the removal of certain improvements and equipment at the property by MineOne Partners Limited, (…) majority owned by nationals of the People’s Republic of China; MineOne Cloud Computing Investment I L.P.; MineOne Data Center LLC; and MineOne Wyoming Data Center LLC (collectively MineOne), as well as their affiliates.”
-
-
-Reasoning behind Biden’s order
-Furthermore, listing the reasons for this decision, the press release stated that F.E. Warren AFB is a “strategic missile base and home to Minuteman III intercontinental ballistic missiles” and that the Committee on Foreign Investment in the US (CFIUS) had investigated this transaction.
-Commenting on the President’s decision, the US Treasury Secretary Janet L. Yellen explained that:
-
-“Today’s divestment order (…) highlights the critical gatekeeper role that CFIUS serves to ensure that foreign investment does not undermine our national security, particularly as it relates to transactions that present risk to sensitive US military installations as well as those involving specialized equipment and technologies.”
-
-Crypto issue in Trump – Biden race
-As a reminder, the incumbent US President has received scathing criticism from the crypto community due to his perceived hostility toward crypto assets, heightened after his recent announcement that he would veto legislation enabling highly regulated financial firms to act as custodians for crypto assets.
-In response, his main opponent in the presidential race, former US President Donald Trump, expressed support for the crypto sector, arguing that Biden didn’t understand crypto but that he himself was “fine with it,” suggesting that other crypto supporters should vote for him, as Finbold reported on May 9. 
-
-
-----------------
-
-All Eyes on Bitcoin Turned to Powell's Statements: What Time Will He Speak? Will There Be a Powell Pump in Prices? What are the expectations? - Bitcoin Sistemi
-
-Although the high inflation that the FED has been struggling with for a long time has receded slightly, it is still above the FED's 2% inflation target.
-At this point, while the possibility of the FED reducing interest rates is decreasing day by day, and the uncertainties regarding the FED's next term interest policy continue to make pricing difficult, all eyes in the markets are today on FED Chairman Jerome Powell's statements and PPI data.
-
-
-While the signals to be received from the inflation data that will be announced in the US economy starting today are expected to increase volatility in the markets, the results of the New York FED's Consumer Expectations Survey for April, which was recently announced, increased concerns.
-According to the survey results, while consumers' short-term inflation expectations increased, analysts stated that both the increase in inflation expectations and the cautious stance of FED officials negatively affected the risk appetite in the markets.
-
-
-
-
-
-At this point, while analysts think that today's PPI and Powell's statements may affect investor decisions, he said that CPI data will be followed tomorrow.
-Analysts also added that the question marks regarding the FED's next term road map may decrease after the PPI and CPI data.
-
-
-Will Powell Pump Come to Bitcoin?
-PPI and CPI data, which are among the important data followed by the FED for inflation, and FED President Jerome Powell's statements regarding interest rates have a great impact on Bitcoin and cryptocurrencies.
-The analyst, who thinks that this week's CPI, Core CPI, PPI and FED president's speech will affect the direction of the Bitcoin price, expects volatility to increase in BTC after Powell's statements and data.
-
-
-
-
-
-At this point, some analysts state that Powell's speech will have a positive impact on the BTC price and there will be an increase, while others think that we will see inflation data slow down for the first time, if not this month, then soon.
-FED President Jerome Powell will speak at the Dutch Foreign Bankers Association panel. His speech will start at 17.00 Türkiye time.
-*This is not investment advice.
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Uniswap Marks $4B Mobile Swaps, Brings L3 Projects Soon | Cryptopolitan
-
-Uniswap has reached a milestone of $4B swaps through its mobile app. Decentralized trading is still comparatively small against big exchange volumes, but has helped grow the crypto and DeFi infrastructure, while offering highly accessible swaps. The potential for swaps means some of the trades are borderless and permissionless. Uniswap has added an optional feature for Know Your Customer (KYC) screenings, but some pairs may be accessible without the process. The Uniswap web app also offers limit orders, to simulate centralized trading and automate decisions. Uniswap is also available on more than seven leading L1 blockchains in addition to Ethereum, hosting their newly minted tokens. The most active chains include Arbitrum, Avalanche, Binance Smart Chain, XDAI, Optimism, and Polygon.The Uniswap team also claims that its high liquidity and leading position allow the DEX to offer better swaps compared to price aggregators. For wallet holders using the web app, Uniswap also offers easier swapping by switching between different wallets and networks. The Uniswap team is also highly active in adding new features, with 53 weekly commits to the codebase. Uniswap Hints at L3 AssetsUniswap sent out a cryptic message, which may be taken as a suggestion the exchange will carry L3 assets of some form. Layer 3, or L3, emerged as a new moniker for restaking tokens, or other assets based on locking collaterals of ETH. There is no clear list of what makes an L3 asset, as most restaking protocols started as tokenless projects. However, some of those projects rewarded points or other placeholder balances. Restaking protocols are thus setting expectations of launching a new wave of tokens and a new level of decentralized complexity. The next months may bring the L3 trend on Ethereum to fruition. Uniswap is also facing the challenge of absorbing Bitcoin-based DeFi and tokens. Which Layer 3 Will Go to Uniswap?Uniswap has not clearly stated it would list a specific Layer 3 project, or simply allow liquidity building for a series of new tokens. Making the best guess, the protocol in question may be Layer3XYZ, which is preparing to launch its native asset this summer. Layer3XYZ already aggregates L3 and restaking protocols, making the process easier. In L3, earning points and keeping track of all gains may be difficult, especially after the launch of multiple restaking pools and hubs. Layer3XYZ aims to reflect the entire L3 ecosystem in a single native token, coming up soon. L3 grew after the boom of EigenLayer, which became a leader in restaked ETH tokens and in issuing point-based rewards. So far, there is no clear list of the reward platforms on EigenLayer, and it is uncertain which ones would be ready to launch tokens. Uniswap Still Leads DEX RosterUniswap is still contributing to the usage of Ethereum’s blockchain, and remains among the most used DEX. The gas fees paid in a month indicate Uniswap usage. The exchange hosts both user-generated transactions, and MEV bots to optimize swaps. Uniswap is the leader in terms of both daily trades and total value locked. The current DeFi season is slower compared to 2021, but Uniswap still caries $5.36B in value locked. This is more than double compared to the closest competitor, PancakeSwap. The DEX carries around $1.32B in daily volumes for all versions and liquidity pools. Close to 50% of that activity is through the Ethereum-based Uniswap V3. Activity statistics also show Uniswap communicates with 156K unique wallets daily, even though some of those addresses are linked to trading bots. Uniswap has recovered more than 50% of its peak value locked. One of the reasons for the lower value is the native token, UNI. During peak times, UNI traded close to $40, but now Uniswap has to deal with a native asset at $6.90. For 2024, UNI peaked at around $15 before the April correction.The leading DEX continues to carry major assets, including highly active meme tokens. Additionally, Uniswap almost constantly lists new tokens with no barrier to entry except for liquidity. Those new tokens are held by a few dozen users at best, and are often risky and volatile. Their liquidity pools are often under 10 wETH.
-
-
-----------------
-
-Coinbase CLO Rallies Binance, Ripple, Uniswap to Resist SEC's 'Gaslighting'
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Paul Grewal, Chief Legal Officer (CLO) of Coinbase Global Inc., has called on other crypto platforms on the U.S. SEC’s radar to reject the commission’s crack-down approach.Coinbase CLO points out SEC’s gaslightingAccording to Paul Grewal, the Securities and Exchange Commission refuses to provide clarity on its crackdown tactics. It is worth noting that Coinbase has a major legal brawl with the market regulator over the alleged support for securities tokens.To drive home his point, Grewal tagged other firms the regulator has sued or issued a Wells Notice to. He called on Binance, Ripple, Uniswap, Robinhood and Kraken to ask whether or not they got full clarity on the key reasons behind the Wells Notice or charges levied against them.To Grewal, that the SEC brings up charges without a "thorough explanation" is straight-up gaslighting before Judge Shelby and the United States District Court. He believes this is wrong and should not stand. There are different claims against the SEC’s stance that some of the top altcoins on the market are securities. The ruling from Judge Analisa Torres that XRP in itself is not a security forms the most defined clarity over the past year.Grasping at strawsDespite the clarity the XRP ruling provided, the regulator is still grasping at straws and is vehemently pursuing remedies from Ripple. This remedy stems from the part of the ruling that faults the company for selling XRP to institutional investors.Some of the SEC’s targets, including Robinhood, have revealed several attempts to connect with the SEC to discuss its process. In all, the SEC’s inconsistent feedback has left a major gray area that it is hanging on to sue crypto players.There is a major trend now, however, and it hinges on the readiness of these affected firms to fight their case in court.
-
-
-
-----------------
-
-Coinbase Reports Full Recovery, But 'Degraded Performance' After System Outage - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsU.S crypto exchange Coinbase has recovered from an hours-long "system wide outage" early Tuesday morning that began at 4:15 a.m. coordinated universal time.The San Francisco-based exchange's support account on Twitter assured users that the company was "investigating this issue and woking on a solution," adding an assurance that users' funds were safe.Not long after that, the exchange gave the all clear on Twitter. "Coinbase is now fully recovered," it wrote. "We appreciate your patience and apologize for the inconvenience."It's worth noting that the Coinbase Status website still shows a yellow alert for "degraded transactions"—specifically for the exchange's mobile application and website. But the rest of Coinbase's services, including its API, wallet, and payments, are now fully operational.The page still notes that Coinbase is investigating what might have caused the early morning outage.Earlier this morning, during the outage, some users uploaded screenshots of the Coinbase app showing that the outage was being referred to as "planned maintenance." But all the messaging from the company itself suggests this was not a planned.Others complained that the outage left them unable to sell any of their assets.Even though traders couldn't sell assets held in their Coinbase wallets, investors were selling the publicly traded company's shares. Around 12 p.m. Central European Time, the stock was changing hands for  $195.56 in pre-market trading—down 3% from its Monday afternoon closing price.The last time Coinbase had a widespread outage was in February, when users saw zeroed out account balances amid a particularly volatile period for Bitcoin.Coinbase CEO Brian Armstrong tweeted at the time that the exchange was facing an influx of traffic amid Bitcoin's latest bull run, which saw the price of the leading cryptocurrency approach $64,000 before plunging to nearly $60,000 in a matter of minutes.Stay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-Roaring Kitty's Return Sparks Rally: Future of Meme Coins?
-
-
-In the financial world, few stories are captivated, like that of Keith Gill, also known as Roaring Kitty. This former financial analyst turned stock influencer sparked the 2021 GameStop (GME) short squeeze. 
-His actions shook Wall Street, capturing the global attention. After a significant hiatus, Gill has recently returned to social media, sparking renewed interest in both traditional and crypto markets.
-Who is Roaring Kitty?
-Known under the alias “DeepFuckingValue,” Gill became a hero on platforms like Reddit and YouTube. He was a vocal advocate for GameStop, a company that was largely considered faltering at the time. Many institutional investors and hedge funds had shorted GME, expecting its value to decline further.
-However, the narrative took a sharp turn when GME shares, initially valued at around $5.16, surged to exceed $490 in 2021. This price inflation was primarily driven by users from the r/WallStreetBets subreddit. 
-Gill’s posts there had inspired a collective action to trigger a short squeeze. This market maneuver occurs when rising stock prices compel short sellers to purchase shares at increasing rates, thereby escalating the stock price even further.
-From an initial investment of $53,000, Gill’s stakes in GME soared to an impressive $48 million at the peak of the market upheaval. His significant role in this market anomaly brought him before Congress for testimony and was later depicted in the film “Dumb Money.”
-
-Read more: GameStop NFT Marketplace: The Basics Explained
-GameStop (GME) Price Performance in 2021. Source: TradingView
-Will Cat-Theme Meme Coins Pump?
-Upon his return to the public eye with an X (Twitter) post in mid-2021, Gill once again stirred the investment world. The post featured an image of a man intently using a video game controller. It quickly sparked discussions in stock investment circles and in the crypto domain. 
-Influencers like Andrew Tate announced shifts in their investment strategies, from Bitcoin to GameStop stocks and various meme coins. Tate said he would sell $500,000 in Bitcoin to invest in the latest GameStop short squeeze. Moreover, he put the ticker symbol of GME on his X bio.
-
-
-The resurgence of interest following Gill’s tweet extended to meme coins, a sector known for its high volatility and speculative nature. These digital assets, often inspired by internet memes, experienced a noticeable boost. 
-For instance, the Roaring Kitty (KITTY) meme coin saw remarkable trading activity, with one trader turning a $3,000 investment into $94,000 almost overnight due to a sudden price surge.
-Now, investors and spectators alike are pondering the future of meme coins in this revived market environment. Several of Gill’s videos hint at a potential preference for cat-themed meme coins, possibly heralding the next big rally in this quirky asset class.
-On-chain analysis firm – Lookonchain indicates that smart investors are already positioning themselves in cat-related meme coins like POPCAT, MANEKI, and KITTY.
-
-
-“Maybe the next Dogecoin (DOGE) will be among the cat-themed meme coins,” Lookonchain said.
-
-
-As the market adapts, the influence of internet personalities like Roaring Kitty is undeniable. His ability to mobilize public opinion and challenge traditional investment strategies reshapes financial landscapes. 
-Read more: 7 Hot Meme Coins and Altcoins that are Trending in 2024
-It also highlights the growing intersection between social media and financial markets. 
-
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Bitcoin (BTC) Price Dips Below $62K Ahead of U.S. Inflation Figures
-
-Bitcoin fell below $62,000 during the European morning on Tuesday, losing about 1.63% over 24 hours. The CoinDesk 20 Index (CD20), a broad measurement of the digital asset market as a whole, fell almost 1.1%. Ether declined more than 2% to just above $2,900, while solana was largely unchanged at $145. In the next 24 hours, attention will turn to inflation reports out of the U.S. The latest Producer Price Index (PPI) is set for release at 08:30 ET today and the Consumer Price Index (CPI) is due tomorrow. Stubbornly high inflation has previously put paid to hopes of rate cuts in the U.S., which can have the effect of a handbrake on risk assets such as crypto.
-
-----------------
-
-Digital Euro Use Won't Push Out Swedish Krona: Central Bank
-
-
-                        
-                            Digital Euro Use Won’t Push Out Swedish Krona: Central Bank                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 14, 2024 07:59 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Adopting a potential digital euro won’t displace the Swedish krona, Sweden’s central bank said.In a staff memo published Tuesday, the Sveriges Riksbank indicated it sees potential benefits for Sweden in the digital euro. It highlighted the possibility of a more robust and competitive payment system.The bank added that there may be a small shift away from traditional bank deposits. However, the Riksbank believes any impact will be limited due to the proposed cap on individual holdings of digital euros.Using the digital euro might extend beyond the eurozone. While it’s designed for eurozone countries, a proposal allows non-eurozone members to potentially join the system through agreements with the European Central Bank (ECB). This could give residents and businesses in those countries access to the digital euro on equal footing with those in the eurozone.Sweden’s central bank downplayed the impact of a potential agreement, arguing that institutional factors won’t “crowd out” the krona. Firstly, payments involving the government are conducted in Swedish kronor, solidifying its position as the primary currency, it said.“For instance, given we pay our taxes in Swedish kronor, we also prefer to receive our salary in Swedish kronor,” the Riksbank said. “And when businesses pay salaries, their main expenditures, in Swedish kronor, they prefer to charge customers in Swedish kronor.”Also, Swedes can use digital euros even if they haven’t visited or lived in the eurozone before. Meanwhile, businesses in Sweden can accept digital euro payments, but they must transfer them directly to a bank account, just like businesses in the eurozone.EU Moves Forward with Digital Euro Exploration
-The European Central Bank (ECB) launched a two-year planning stage for the digital euro project late last year. Its goals for this period include finalizing the rules, choosing private sector partners, and running tests and experiments.According to the EU’s draft proposal, which might be revised before release, advantages with a digital euro are significant. Meanwhile, the potential downsides tied to not having one could be substantial.The draft rules give the ECB the authority to restrict how much money individuals can hold in digital form. A possible limit of between 3,000 to 4,000 euros is being discussed.Swedish e-Krona Hinges on Digital Euro
-A potential downside of the digital euro is that it could threaten the Swedish krona’s stability. High inflation can lead to price swings. If this becomes a problem in Sweden, businesses might switch to pricing things in euros. People might also choose to hold more of their money in euros (seen as a more stable currency) instead of krona. This “flight to quality” could weaken the krona.Further, the decision to launch a digital Swedish krona, or e-krona, hinges on the development of the digital euro. An e-krona would bolster the Swedish krona’s position within Sweden if the digital euro becomes widely used, according to the bank.Additionally, leveraging the technology and regulations built for the digital euro could significantly reduce the cost and complexity of launching an e-krona. Finally, the coexistence of both digital currencies could lead to smoother cross-border payments, it said.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Dutch court finds Tornado Cash dev Alexey Pertsev guilty of laundering $1.2B - Crypto Briefing
-
-
-
-
-A Dutch court at ‘s-Hertogenbosch has convicted Alexey Pertsev, a 31-year-old Russian national and developer of the crypto mixing platform Tornado Cash, of laundering $1.2 billion in illicit assets.The three-judge panel is expected to sentence Pertsev on Tuesday, and his lawyers will have 14 days to appeal the decision.The verdict is set to have a significant impact on the future of privacy in decentralized finance, as experts believe it will create a “chilling effect” on the development of open-source software that provides users with financial privacy tools.During the trial in March, prosecutors argued that Pertsev did not do enough to prevent criminals from using Tornado Cash, while the defense countered that the open-source and automated nature of the smart contracts at the heart of the platform meant Pertsev could not be held accountable for the actions of anonymous and independent users.Tornado Cash is a decentralized protocol designed to obfuscate transaction histories on the Ethereum blockchain, providing a solution to the inherent privacy issues of publicly visible and immutable records.Despite this definition, however, prosecutors rejected the idea that the technological concepts outweighed legal obligations to prevent platforms from aiding criminals and sanctioned entities, such as North Korean cybercrime groups, in concealing the origins of stolen assets.Public prosecutor Martine Boerlage argued that Tornado Cash was run like a company, despite claims that it operated without leadership.The platform has been used to launder crypto from hacks and heists worth over $7 billion, according to the US Office of Foreign Assets Control, with the North Korean cybercrime organization Lazarus Group being a key abuser of the protocol.The crypto industry has shown support for Pertsev through advocacy efforts, petitions, and attempts to cover his legal fees. Fellow Tornado Cash developer Roman Storm is facing similar charges in the US, with his trial scheduled for September 23. Experts speculate that Pertsev’s guilty verdict may foreshadow Storm’s fate.Note: This story is developing and will be updated with statements from involved parties.
-
-
-
-
-
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-
- 
-
-
-
-----------------
-
-AI Could Send Smart Contract Platforms to Massive $25,000,000,000,000 Valuation, Says Analyst Jamie Coutts - The Daily Hodl
-
-
-								Real Vision analyst Jamie Coutts says that the layer-1 crypto sector could see a staggering rise in valuation driven by artificial intelligence (AI) technology.
-Coutts says on the social media platform X that the total market value of all smart contract platforms could reach a 14-figure price tag in the next six years.
-
-
-
-
-
-
-
-
-
-
-“By 2030, the combined market value of smart contract platforms, driven by the expanding use by AI agents could reach between $15 trillion and $25 trillion.”
-Source: Jamie Coutts/X
-The analyst shares an excerpt from his firm’s Pro-Crypto November 2023 report that suggests AI will increase the demand for on-chain verification and authentication services. The report also says that human-directed or autonomous AI agents could make use of smart contract platforms to exchange value, significantly increasing the growth rate.
-“By incorporating an ‘AI growth factor’ starting in 2026, which adds 10% to the annual growth rate, we can begin to gauge this impact. Initially, the effect is modest, but by 2030, AI agents could comprise over 40% of total daily active users (DAU). This obviously creates some rather astronomical valuations for the blockchain assets, which will benefit from the transaction fees generated by an increasing number of AI agents.”
-Source: Jamie Coutts/X
-Coutts further says that even if the report’s prediction is partially correct, the combined market capitalization of smart contract platforms would still witness tremendous growth.
-“Projections based on historical regressions will not hold indefinitely. The key point is that, directionally, network value increases exponentially as the network expands. Even if I am 25% correct on where this all goes, then it’s still a 4x to 5x from the current market cap levels.”
-Source: Jamie Coutts/X
-At time of writing, the total market cap of top layer-1 crypto projects is sitting at $1.88 trillion, according to CoinGecko.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Pepe Jumps 19% to All-Time High Following Roaring Kitty Return - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsPEPE has hit a new all time high after climbing 19% in the past 24 hours. This comes after Roaring Kitty’s return has seen GameStop and other memes continue to soar.Financial analyst Roaring Kitty was a central figure to the 2021 GameStop short squeeze which saw the r/WallStreetBets subreddit community attempting to take down hedge funds by purchasing meme stocks. Yesterday, the figure returned to social media after a three year hiatus which saw GameStop double in value and a new meme frenzy begin.The third largest coin in the meme category, according to CoinGecko, started seeing steady gains due to the meme influencer returning. One of his tweets featured a reimagining of a scene from Gangs of New York with the characters’ skin turned green—just like Pepe the frog. It appears this was bullish for the Pepe community with the token jumping 5.5% in a matter of minutes.Roaring Kitty (also known as Keith Gill) returning also sparked a slew of Solana meme coins to launch, with a Pump.fun record being set. Other meme coins such as Dogecoin, Shiba, and Dogwifhat have also seen significant gains.After Gill’s Gangs of New York tweet, Pepe traded mostly sideways until Coinbase experienced a “system wide outage” early this morning. This saw Pepe’s price periodically fall before unconfirmed rumors began to circulate that the centralized exchange was preparing to list the meme coin and crashed as a result.Coinbase did not immediately respond to a request for comment from Decrypt.“Looks like Coinbase is down for maintenance again! Maybe they are getting everything ready before they list PEPE,” one Twitter user said. “The volume is gonna [be] 10x and they need to prepare.”It’s worth repeating: There are currently no confirmed reports that Coinbase is going to list PEPE. But the mere suggestion has been enough to cause the meme coin to jump 9% to an all-time high of $0.00001096.Edited by Stacy Elliott.Stay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-Coins.ph to Trial Stablecoin in Philippines' Remittance Market, Here's Why
-
-
-							
-
-Approval of Coins.ph’s stablecoin trial signals the Philippines’ openness to blockchain innovation.
-
-
-
-PHPC could enhance remittance efficiency, benefiting both senders and recipients.
-
-
-
-Amidst regulatory changes, digital payment firms vie for a stake in the Philippines’ remittance market.
-
-
-
-
-The financial realm of the Philippines stands on the brink of change as the central bank gives the green light to Coins.ph to experiment with a groundbreaking stablecoin in the nation’s crucial remittance market. This decision represents a noteworthy progression in the quest to update the remittance sector, which ranks among the largest globally, aiming to boost its effectiveness and accessibility.
-
-
-
-Coins.ph, known for its digital currency exchange services, is preparing to introduce PHPC, a stablecoin linked to the Philippine Peso. This comes after receiving approval from the Bangko Sentral ng Pilipinas (BSP). Under the BSP’s Regulatory Sandbox Framework, the stablecoin will be backed by Coins.ph’s reserves held in Philippine bank accounts, ensuring stability and reliability.
-
-
-
-Led by Wei Zhou, formerly Binance’s Chief Financial Officer, Coins.ph aims to introduce PHPC to its platform by early June, following a successful pilot phase. The pilot will gauge the stablecoin’s viability in real-world scenarios and its impact on the existing financial ecosystem. If specific benchmarks are met, full approval is anticipated, allowing Coins.ph to transition out of the sandbox environment.
-
-
-
-
-
-
-
-
-
-This development comes amidst the Philippines’ decision to restrict Binance’s operations within its borders and its commitment to launch a wholesale central bank digital currency (CBDC) within the next two years, steering clear of a retail CBDC. Concurrently, digital payments firm Strike has expanded its global money transfer services to the Philippines, further diversifying the remittance landscape.
-
-
-
-Expanding its reach, digital payments company Strike has now extended its global money transfer service to the Philippines. This strategic move allows Strike to access the country’s lucrative $12 billion remittance market. It underscores the increasing need within the nation for streamlined and economical options for cross-border transactions.
-
-
-
-Coins.ph envisions integrating PHPC into remittance platforms across countries with substantial remittance flows to the Philippines, promising greater efficiency and lower transaction costs for overseas Filipino workers and their families. This move is poised to revolutionize cross-border payments, streamlining processes and fostering financial inclusion.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Pepe Coin Price Prediction as PEPE Hits New All-Time High - Can PEPE 100x From Here?
-
-
-                        
-                            Pepe Coin Price Prediction as PEPE Hits New All-Time High – Can PEPE 100x From Here?                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 14, 2024 07:41 EDT                            
-                                                             | 3 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        PEPE has hit a new all-time high in the past couple of hours, with the Pepe Coin price currently sitting at $0.00001039 and enjoying a 19% gain today.The meme token’s current price also represents a 23% gain in a week and a hefty 92% increase in a month, with its price benefitting from the return of legendary meme-stock trader Roaring Kitty to X.And with PEPE also up by 440% in a year, it has strong enough momentum to continue rising for the foreseeable future.It could potentially continue breaking its current ATH over the next few days, particularly if Roaring Kitty’s return does instigate a big bull run for meme tokens.Pepe Coin Price Prediction as PEPE Hits New All-Time High – Can PEPE 100x From Here?
-PEPE’s indicators are definitely looking bullish right now, with its 30-day average (orange) racing ahead of its 200-day (blue).Its relative strength index (purple) also shot above 80 yesterday evening, and while it has declined a little, its position remains high.Source: TradingViewIn other words, the momentum is still there, with PEPE’s rising resistance (red) and support (green) levels also pointing towards further gains in the near term.What’s particularly bullish is that whales have been buying the meme coin in the past day, indicating an expectation that PEPE will continue to build on its gains.As the tweet below shows, PEPE has seen big purchases during its current run, which is encouraging insofar as you’d expect the whales concerned to hold onto the token for a little while longer at least.Also positive is the aforementioned return of Keith Gill, who under the alias Roaring Kitty led the infamous 2021 GameStop rally and helped spearhead the whole meme-stocks movement.His return may indicate a renewed impetus for that movement, something that could help meme tokens such as PEPE continue to climb to new heights.However, retail investors should be cautious that Gill’s return doesn’t necessarily mean we’re going to have a new GameStops phenomenon in the coming months.Also, with PEPE reaching a new all-time high today, traders should also be wary that it may correct a little before it rises again.As such, they may prefer to hold off from buying PEPE today and wait for a dip, since the coin has actually declined by 3% in the past hour.Yet once this minor correction has ended, the Pepe Coin price could reach $0.000011 or $0.000012 in the next week or so.New Meme Tokens May Also Be Big Gainers
-While PEPE is probably the strongest major meme token in the market at the moment, there are numerous newer meme coins that could outperform it in the coming weeks.This includes various presale tokens that have been attracting investors as they prepare to launch, with Sealana (SEAL) – a Solana-based meme token – being one of the most promising.It has raised more than $750,000 in its token offering and is on course to hit $1 million soon, such is the growing investor interest in the token.It’s clear that the market’s appetite for meme coins – particularly Solana-based coins – remains very strong and that SEAL is benefitting from this.It has chosen a distinct meme for itself, adopting a bumbling seal as its mascot, who represents the widespread desire among retail traders to make a quick buck via crypto.One other bullish feature of SEAL is that it has recently announced an Ethereum version of its token, making it a multi-chain meme coin.This should help boost demand for the coin, with investors able to join its sale by visiting the official Sealana website.They can buy SEAL by sending SOL to the following address: DJ15ZYXqUNMYJ3hL7z4ciSaSFAw5cbos3YjGpdvwmF6c.The token is available at an exchange rate of 1 SOL for 6,900 SEAL, which converts to $0.021.VIDEOGiven that meme tokens look ready to continue outperforming the market for the foreseeable future, SEAL is likely to eclipse such a price once it lists.Buy SEAL Today                                                    
-                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Tornado Cash Developer Alexey Pertsev Will Face 64 Months in Prison in Money Laundering Case
-
-In the U.S., however, Storm is not accused of being responsible for the laundering of $1.2 billion due to differences in how U.S. and Dutch laws address personal responsibility in this type of alleged crime.
-
-----------------
-
-Vitalik Buterin proposes Ethereum gas model overhaul
-
-Ethereum co-founder Vitalik Buterin has proposed a new Ethereum Improvement Protocol (EIP) 7706 focused on a new gas model for the transaction call data.Ethereum-based transactions currently have two types of gas fees: one for transaction execution, which covers the computational effort required to perform a transaction, and one for storage, which is the cost of storing data in “blobs.”Buterin’s (EIP) 7706 proposes a third form of gas exclusively for call data, the portion of an Ethereum transaction containing key data transmitted to smart contracts. This means the Ethereum blockchain will allocate a unique charge to data transferred during transactions, separate from the costs of executing contract code or storing data. The new gas model will add a transaction type that provides max_basefee and priority_fee as a vector, providing values for execution gas, blob gas and call data gas.At present, the base fee adjustment uses separate mechanisms for the transaction execution cost and the data storage in the form of blobs. However, Buterin suggested that with the introduction of a third type of gas fee, the Ethereum network should adopt a common approach for all three types of gas fees.Related: ZK-proofs introduce security challenges for developersThe move aims to reduce the transaction costs associated with transactions that are data-heavy but not necessarily computationally intensive. If the proposal is accepted, the Ethereum network will be responsible for setting the call data costs independently of other costs. Buterin recommended managing all three forms of gas via a dynamic model that modifies fees simultaneously.Buterin suggested that by implementing a separate gas fee for call data, The “theoretical max call data size of a block would be greatly reduced, while basic economic analysis suggests that on average, call data would become considerably cheaper.”The Ethereum network has struggled with gas fee issues for years now and the main motivation to move from the proof-of-work mining consensus to a proof-of-stake (PoS) was to become more scalable and less costly. However, such critical changes haven’t improved the network’s scalability as promised. Thus, these EIPs come in as a timely aid for the network.Magazine: Big Questions: What did Satoshi Nakamoto think about ZK-proofs?
-
-----------------
-
-Roaring Kitty Resurfaces on Social Media, Returns with Cryptic Messages
-
-
-
-After almost three years of silence on social media, Gill has resurfaced on Twitter, sending the investing community into a frenzy.
-
-Keith Gill, more popularly known as “Roaring Kitty” or “DeepFuckingValue”, made an unexpected return to Twitter on Sunday. The widely celebrated return follows a hiatus that lasted nearly three years, leaving his followers beaming with anticipation and speculation about his whereabouts or what his next crypto moves would be.
-Who Is Roaring Kitty?
-Gill rose to prominence in 2021 as one of the key figures behind the GameStop stock buzz. His bold investment calls, which he shared on Reddit’s WallStreetBets forum, led thousands of retail investors to rally behind GameStop, causing its stock price to skyrocket massively.
-
-
-
-
-The price surge, which he predicted, was so shocking that the profits he made from his investment earned him a hearing as he was called to testify before the US Congress House Committee on Financial Services at the time.
-On February 18, 2021, during the hearing, Gill cleared any notions that he may be an institutional investor or a hedge fund. Part of his statement at the time reads:
-“I’m just an individual whose investment in GameStop, and posts on social media are based upon my own research and analysis.”
-Now, after months of relative silence on social media, Gill has resurfaced on Twitter, sending the investing community into a frenzy. His return, however, has been met with a mix of excitement and curiosity. Some of his followers can’t wait to hear his thoughts on the current state of the market and his latest investment strategies. That is, if he has any. Others, however, wonder why he is making an appearance at this particular moment in time.
-Investment Community Anticipates
-Interestingly, Gill has taken off from where he left after tweeting in his typical cryptic manner. His return tweet was an image post of a man sitting up in his seat and holding a video game controller. Although he did not mention anything related to GameStop, the price of GME immediately doubled before a 1,900% surge in a Solana-based tribute coin, also named GME.
-The image appears to suggest a statement along the line of “let’s do this”, leaving his followers speculating that he may be gearing up for another big play. In all of this, though, one thing is clear. Gill’s influence on the market remains significant. At least, that is what the engagement on his post suggests. His ability to influence retail investors has also not gone unnoticed by Wall Street. Therefore, his return to social media is sure to attract attention from participants in the financial markets.
-next
-
-Altcoin News, Cryptocurrency News, News 
-
-
-
-
-
-
-
-
-
-
-Thank you!
-You have successfully joined our subscriber list.
-
-
-
-
-
-
-----------------
-
 Pro-XRP Lawyer Deaton Lands Spot On Massachusetts GOP Ballot
 
 
@@ -9412,3 +8986,607 @@ Exclusive Early Access to 99BitcoinsThis presale presents a rare chance for earl
                     
 
                     
+
+----------------
+
+DAI Supply Skyrockets: Possible Explanations
+
+
+							
+
+DAI supply surged 24% in two months, from 4.42 billion to 5.48 billion on May 12.
+
+
+
+The surge is primarily fueled by the popularity of the Dai Savings Rate (DSR).
+
+
+
+MakerDAO had raised the DSR multiple times to attract more users.
+
+
+
+
+The supply of leading stablecoin DAI has seen a remarkable growth spree since early March, with a 24% increase in just over two months, rising from 4.42 billion to 5.48 billion on May 12, 2024.
+
+
+
+For a while, the circulating supply of DAI was on a downward trend, but the surge since March has been primarily fueled by the popularity of the Dai Savings Rate (DSR). The DSR allows users to earn interest on their DAI deposits, resulting in increased demand for DAI.
+
+
+
+As per The Block Data, the circulating supply of DAI has been declining as users burn DAI to deposit into the DSR, resulting in the creation of SavingsDAI (sDAI), which effectively reduces the circulating supply of DAI while increasing the supply of sDAI.
+
+
+
+MakerDAO, the protocol behind DAI, has raised the DSR multiple times to attract more users. Initially set at 1%, the rate was increased to 3.3% and then to 8% to remain competitive. The 8% hike in August 2023 significantly boosted DAI’s supply, indicating the effectiveness of higher interest rates in attracting deposits.
+
+
+
+
+
+
+
+
+
+However, the 8% rate was not sustainable, and a large portion of DAI was deposited into the DSR, triggering a drop to 5.8%. MakerDAO further reduced the rate to 5% to maintain a higher rate for a longer period.
+
+
+
+Despite the attractive DSR, pressure emerged from alternative yield opportunities, such as USDe, offering a 15.9% yield on its staked offering, leading to some outflow from DAI.
+
+
+
+In response to the decline, MakerDAO adjusted its fee mechanism and raised the DSR to 15% on March 9, 2024. This change appears to have stimulated the recent surge in DAI’s supply, as users rushed to capitalize on the high yield.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+We asked ChatGPT-4o what will be XRP price at the end of 2024; Here’s what it said
+
+
+Though XRP has not been a particularly active participant in the crypto market rally of the first quarter of 2024, things have been far from quiet for the cryptocurrency.
+Indeed, much activity has emerged from Ripple Labs – XRP’s issuer – and has included significant monthly token unlocks, a reported entry into the stablecoin game, and perhaps most consequentially, the continuation of the long-standing legal battle with the Securities and Exchange Commission.
+The courtroom fight is also, after many years, seemingly entering its final chapter, with Ripple recently filing a motion to seal certain sensitive business data. The outcome of the case is bound to be consequential and could help XRP, in particular, surge toward its previous all-time highs (ATH) near $3.
+
+
+With the promise of pending regulatory clarity and the still-persistent uncertainty in mind, Finbold decided to consult the most advanced version of OpenAI’s flagship artificial intelligence (AI) platform – ChatGPT-4o – on where XPR might stand at the very end of 2024.
+ChatGPT sets XRP price for late December 2024
+Upon analyzing the recent crypto market trends and XRP-related happenings, ChatGPT concluded that the token is likely to see a significant rise in value through the rest of 2024.
+According to the AI, the facts that a victory for Ripple is in the cards and that the company has actively been working on developing its ecosystem and partnerships are likely to help drive positive market action. 
+ChatGPT, however, also reflected on mixed results of technical analysis (TA) assessing XRP’s recent performance and thus concluded that, between the likely positive developments and the current struggles, the token is likely to rise to $0.80 by the end of the year.
+ChatGPT summarizes its assessment of XRP. Source: Finbold and ChatGPT
+When challenged that its analysis appears low given that the AI assumed a legal victory for Ripple, ChatGPT pushed back, stating that the current market conditions – while allowing for a greater long-term surge – would still limit how much XRP can rise before 2024 is out and described its target of $0.80 as a ‘conservative but realistic estimate.’
+ChatGPT defends its original estimate. Source: Finbold and ChatGPT
+ChatGPT presents a bullish scenario
+ChatGPT was also willing to indulge in a more bullish sequence of events. In this scenario, a legal victory against the SEC would have a ripple effect that would cause wider user and institutional adoption across the globe, facilitate an unprecedented pace of innovation, and turn the market highly bullish.
+Should such regulatory clarity be achieved, and should the stars align – a scenario the AI considers plausible, if not the most likely – XRP could soar to $3 per token by the end of 2024.
+ChatGPT outlines its bullish case for XRP. Source: Finbold and ChatGPT
+ChatGPT presents a bearish scenario
+ChatGPT, however, also estimates a bearish scenario in which Ripple suffers a major legal defeat against the SEC is plausible.
+Under these circumstances, the AI assesses, regulators across the world would feel emboldened to besiege the crypto industry and investors could, spooked by the developments, turn sour on cryptocurrencies.
+ChatGPT outlines its bearish case for XRP. Source: Finbold and ChatGPT
+These factors would, combined, also stifle further technological developments and ultimately lead to a crash to $0.15 for XRP by the end of 2024.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Shibarium Sees Transaction Fees Surge by 267% Amid Rising Interest in Shiba Inu Tokens
+
+
+
+                    
+
+Shibarium, the Layer-2 blockchain designed for the Shiba Inu community, has seen a dramatic increase in transaction fees, with a recorded 267% rise in the last 24 hours. 
+
+
+
+According to Shibariumscan, the gas fees, paid using BONE—the native token of the Shiba Inu ecosystem—escalated from 11.57 to 30.98 BONE. 
+
+
+
+
+This increase is primarily due to a surge in network activity, likely driven by a growing interest in Shiba Inu tokens following recent market shifts.
+
+
+
+The Shiba Inu ecosystem, which uses BONE for transaction fees, is experiencing heightened transaction volumes. 
+
+
+
+As a result, the cost for users has significantly increased. 
+
+
+
+
+BONE not only facilitates transaction payments on Shibarium but also plays a key role in the ecosystem’s tokenomics. 
+
+
+
+READ MORE: SEC Denies Coinbase’s Appeal in Ongoing Securities Lawsuit, Citing Manipulation of Legal Queries
+
+
+
+Each transaction using BONE helps in burning SHIB tokens, as a portion of the BONE fee is converted into SHIB and sent to a dead wallet. 
+
+
+
+This process reduces the total SHIB supply, potentially enhancing its scarcity and value.
+
+
+
+
+This notable increase in fees raises several questions about the future of the Shiba Inu network and its tokens. 
+
+
+
+Stakeholders are now contemplating whether the spike is indicative of a long-term trend of increased activity or if it’s a temporary surge. 
+
+
+
+The sustainability of such high fees is also in question, as is Shibarium’s strategy to manage demand while maintaining network efficiency and scalability.
+
+
+
+Additionally, the broader context includes recent integrations that have enabled Shiba Inu (SHIB) payments with major brands like Airbnb and Nike, expanding the token’s utility and exposure. 
+
+
+
+However, the overall market sentiment remains bearish, creating an uncertain environment for SHIB and BONE investors. 
+
+
+
+These developments suggest critical times ahead for Shibarium, as it must navigate through market fluctuations and user expectations to sustain growth and retain user engagement.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+MicroStrategy Joins MSCI: Crypto Goes Mainstream
+
+
+							
+
+MicroStrategy joins MSCI World Stock Index, highlighting crypto’s role 
+
+
+
+MSTR stock outperforms Bitcoin rally, seen as a Bitcoin proxy 
+
+
+
+Analyst sentiment positive on MSTR despite recent pullback 
+
+
+
+
+MicroStrategy, the company famous for its massive Bitcoin holdings has been added to the MSCI World Stock Index. This move reflects the increasing acceptance of cryptocurrency in the traditional investment portfolios. 
+
+
+
+MicroStrategy’s strong Bitcoin advocacy is well-known. The company grabbed headlines during the pandemic by using a large portion of its cash reserves to buy Bitcoin. They currently hold 214,400 BTC at an average purchase price of $35,180 per bitcoin.
+
+
+
+This inclusion comes amidst a stellar year for MicroStrategy stock (MSTR). Its price has quadrupled compared to last year, even outperforming the impressive Bitcoin rally by a significant margin. Earlier this year, when Bitcoin reached its peak, MSTR stock also surged to new highs. However, a recent market correction caused a pullback, leading to a price decrease of over 30% for MSTR.
+
+
+
+Many investors viewed MicroStrategy stock as an indirect way to hold Bitcoin especially before the launch of spot Bitcoin ETFs this year. These new investment vehicles might challenge MicroStrategy’s dominance in offering Bitcoin exposure through the stock market. Additionally, some analysts believe that the stock is currently overvalued and have taken short positions against it.
+
+
+
+
+
+
+
+
+
+Despite these concerns, analyst sentiment remains largely positive. The average 12-month price target for MSTR sits nearly 30% higher than its current price suggesting continued growth potential. The company’s inclusion to the MSCI index further strengthens its position in both the stock and crypto market as traditional and digital assets increasingly converge.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Robinhood launches Solana (SOL) staking in Europe - CoinJournal
+
+
+
+                    
+
+                    
+Robinhood Crypto has announced launch of Solana (SOL) staking for its customers in Europe.
+New customers will also enjoy a 10% bonus on net buys.
+
+Robinhood is expanding its services and products for users in Europe.
+On Wednesday, the trading platform announced it was launching new features that include Solana (SOL) staking, localized apps and crypto rewards among others. The new features will target new customers, Robinhood Crypto said in an update.
+Robinhood launches SOL staking in Europe
+As part of its growth efforts, Robinhood Crypto now offers its “first-ever crypto staking product”. 
+The platform said Solana (SOL) staking is now available directly via its app, which means users can earn rewards from their staked SOL tokens.
+The product will offer the flexibility of users being able to unstake at any time.
+“Robinhood Crypto is already one of the lowest cost places to trade on average with an easy-to-use interface that prioritizes education. Today’s news is a significant step forward in our mission to offer customers a more tailored in-app experience that meets their specific needs and helps them on their financial journey,” Johann Kerbrat, VP and GM of Robinhood Crypto said in a statement.
+Staking rewards, bonuses
+Other than the staking rewards, new customers have a chance to unlock a 10% bonus on net buys accrued over the user’s first 30 days of trading. Payouts for the bonuses will be in USDC.
+New customers will also benefit from the Learn & Earn modules the platform has launched, with initial focus on Bitcoin (BTC), Avalanche (AVAX) and the USDC stablecoin. The products are tailor-made to bolster customers’ knowledge and understanding of different cryptocurrencies.
+The new features also include localized apps, with local language versions of the app launched in Italy, Poland and Lithuania. Robinhood Crypto will be unveiling these localized app versions in coming weeks, the company announced.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+Solana-based Cypher developer confesses to gambling away $300K of user funds
+
+Pseudonymous Cypher Protocol developer Hoak has confessed to stealing nearly $300,000 worth of user funds and gambling them away.The core developer of the Solana-based cross-margin decentralized exchange (DEX) admitted his wrongdoing in a public statement shared in a May 14 X post:“To address the elephant in the room, the allegations are true, I took the funds and gambled them away. I didn’t run away with it, nor did anyone else.”Hoak’s confession follows a revelation by the pseudonymous core contributor Barrett_io the day prior regarding the absence of funds in a post on May 13th.The post went unnoticed until an unknown Discord group member shed light on experiencing fund withdrawal issues. According to Barrett:“Hoak has stolen funds from the cypher redemption contract. This happened over months via 36 withdraws… Deployer wallet (ETR8…) withdraws funds from Cypher’s redemption contract. Then conducts swaps and sends SOL, USDC, and USDT to an intermediary wallet (7sKM…). This intermediary wallet then sends funds to Binance.”A total of $317,000 worth of Solana (SOL), Tether USD (USDT) and USDC (USDC) were sent by the address associated with Hoak to Binance exchange, according to on-chain data compiled by Barrett.Summary of stolen funds. Source: Barrett_ioAt its peak, Hoak’s wallet held a total of $68,365 worth of digital assets on Dec. 7 before the funds were sent to Binance. The wallet held over $56,000 worth of digital assets on April 22 before over 99% of the assets were transferred in the next two days, CoinStats data shows.Wallet ''7sKM'"related to Hoak. Source: CoinStatsThe insider’s actions landed another significant blow to Cypher Protocol, which has been trying to stage a comeback. In August 2023, the DEX was hacked of over $1 million worth of digital assets.Related: Regulators are cracking down on financial privacy, but ZK-proofs can helpIs gambling addiction a growing issue in the crypto space?While Hoak said that he expects no understanding for his actions, he blamed his rampant gambling addiction for the thefts:“I am also in no way, shape, or form attempting to victimise myself, but this is the culmination of what snowballed into a crippling gambling addiction and probably multiple other psychological factors that went by unchecked for too long.”Cryptocurrency skeptics have often criticized the industry for being driven by casino-like behavior. U.S. Securities and Exchange Commission (SEC) Chairman Gary Gensler has famously compared the crypto ecosystem to “casinos in the Wild West,” with stablecoins functioning as the “poker chips.”According to a 2023 YouGov survey of over 4,200 adults in the United Kingdom, people gambling at “harmful levels” were nearly five times more likely to own cryptocurrencies than the general population, making them more likely to be negatively impacted by crypto trading.Crypto Survey 2023. Source: GamCare/YouGovRelated: GameStop tops Bitcoin's yearly gains in one day — Will GME spark an altcoin rally?
+
+----------------
+
+Sonne Finance Loses $20M to “Known Donation Attack” - DailyCoin
+
+
+        
+
+Sonne Finance has been exploited.
+
+
+
+Assets worth millions of dollars were stolen following the attack.
+
+
+
+The protocol has initiated the recovery process.
+
+
+
+
+Sonne Finance has lost millions of dollars to a “known donation attack” on its Compound v2 forks on Arbitrum, the protocol announced on Wednesday.
+
+
+
+Launched in September 2022, Sonne Finance brands itself as a decentralized, non-custodial liquidity market protocol on Optimism Mainnet and Base. The protocol allows users to deposit their assets as collateral for borrowing various assets against them, including WBTC, WETH, USDT, USDC, and DAI.
+
+
+
+Sonne Finance Suffers an Attack
+
+
+
+On May 15, blockchain security firm Cyvers alerted the X (Twitter) crypto community to an attack on Sonne Finance, estimating that $3 million had been stolen from the protocol’s USDC and WETH contracts.
+
+
+
+
+Without directly addressing the issue, the Sonne Finance team informed its users two hours later that “all markets on Optimism have been paused,” urging them to stay tuned for more updates.
+
+
+
+
+
+
+
+Hours after its first update, Sonne Finance issued a detailed post-mortem of the incident, noting that the attacker had exploited four of the multiple transactions scheduled by the protocol on May 12 as part of its plan to integrate VELO markets.
+
+
+
+“After the execution of the markets without us noticing, the attacker was able to exploit the protocol for ~$20M with the known donation attack,” the Sonne Finance team wrote.
+
+
+
+Noting that it became aware of the incident 25 minutes later, Sonne Finance said it had assembled a “war room” to investigate the exploiter’s identity to recover the stolen funds.
+
+
+
+
+“We are ready to give bounty to exploiter as well as not to commit pursuing the issue further, in case of returning the funds.” The protocol said.
+
+
+
+Per the post-mortem report, besides doing everything in its “power,” Sonne Finance is in “contact with anyone that can help with recovering the funds.”
+
+
+
+Stay updated on North Korea’s malware targeting crypto exchanges:How North Korea’s Durian Malware Targets Crypto ExchangesRead how Parity Wallet hacker began laundering stolen loot after seven years of inactivity:Parity Wallet Hacker Launders $9M After Seven Years Hiatus
+
+    
+              
+    
+
+----------------
+
+BTC Settles at $62K Ahead of US CPI Numbers, FLOKI Skyrockets 14% (Market Watch)
+
+
+																Bitcoin’s price faced enhanced volatility yesterday morning and later on during the day, but the asset has calmed at around $62,000 ahead of the April US CPI numbers.
+Most altcoins are in the red now, though, with ETH declining to $2,900 and BNB losing more than 3% of value.
+BTC Calms at $62K
+The primary cryptocurrency had a controversial end to the previous week as it had soared to almost $64,000 on Friday when a rapid and violent correction brought it south by more than three grand. As a result, the asset fell to $60,150 at the end of the day.
+The bulls managed to intercept the move and didn’t allow a price drop to under $60,000. Just the opposite, BTC reclaimed some ground during the weekend and stood primarily around $61,000. Monday saw a more impressive price increase that pushed bitcoin to just over $63,400.
+However, the cryptocurrency failed to maintain its run and dropped back down to $61,200 amid some Coinbase issues. More volatility ensued during the day, but BTC has climbed slightly to just over $62,000 now. More fluctuations are expected later today as the US CPI numbers for April will be announced in a few hours.
+
+
+Thanks for subscribing, you will get your first report in the next hours!
+
+
+As of now, bitcoin’s market cap stands at just over $1.220 trillion, while its dominance over the alts has increased to 51.4%.
+Bitcoin/Price/Chart 15.05.2024. Source: TradingView
+FLOKI Keeps Pumping
+Several meme coins charted impressive gains yesterday, and the landscape for a few of them has only gotten better. FLOKI is today’s top performer from the largest 100 crypto assets, having soared by about 14%. As a result, the meme coin now trades at $0.00022.
+Pepe (5%) and AR (6%) follow suit, while WLD (-8%), ENA (-8%), TIA (-7%), WIF (-5%), and STX (-5%) have lost the most value within the same timeframe.
+BNB, DOGE, ADA, SOL, and AVAX have declined the most from the larger-cap alts, while ETH is close to breaking below $2,900 after another minor correction.
+The total crypto market cap has remained at almost the same spot as yesterday, at just under $2.4 trillion.
+Cryptocurrency Market Overview. Source: QuantifyCrypto
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
+Disclaimer: Information found on CryptoPotato is those of writers quoted. It does not represent the opinions of CryptoPotato on whether to buy, sell, or hold any investments. You are advised to conduct your own research before making any investment decisions. Use provided information at your own risk. See Disclaimer for more information.
+
+Cryptocurrency charts by TradingView.
+
+
+						
+																		
+										
+					
+					
+
+
+----------------
+
+Solana (SOL) Beats Ethereum for First Time in History, But There's a Catch
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+On May 12, Solana generated more Total Economic Value (TEV) than Ethereum in a single day. This marks the first time Solana has outpaced Ethereum in its history, but there is always a catch.Breaking down the dataAccording to Blockworks Research, Solana generated $2,248,681 in TEV on May 12, surpassing Ethereum's $1,977,416. TEV combines transaction fees and miner/extractor value (MEV). TEV is often used to analyze the utility and adoption of a blockchain network. Chris Burniske, the former Ark Invest analyst, commented on the whole thing, stating that we should keep an eye on L1s that are keeping up their annual expansion in the form of TEV.  Higher TEV can indicate greater usage and demand, which can, in turn, provide more flexibility in the economic policies of the network.There's a problemHowever, the achievement has sparked some debate between Solana and Ethereum users. Critics argue that comparing Solana's TEV with Ethereum's without considering layer-2 (L2) solutions is misleading. L2 solutions are built on top of Ethereum to enhance scalability and reduce fees, effectively offloading some of the activity from the main Ethereum blockchain (L1), while remaining a crucial part of it. As one commentator pointed out, "Since some ETH activity has moved to L2s, wouldn't we include that? Come on Chris, this is just disingenuous if you don’t take L2s into account."Despite the criticism, comparing TEV across blockchains remains valuable. As Burniske explained, each L2 operates in its own blockspace environment, and TEV comparisons are typically made on an L1-to-L1 basis. However, some may disagree with such an approach and consider L2s an inseparable part of larger ecosystems like Ethereum, which has struggled due to high fees in the past. For now, Ethereum fees sometimes drop even below Tron's.
+
+
+
+----------------
+
+PEPE's Market Cap Eyes $5 Billion After the Price Hit Another ATH
+
+
+																TL;DR
+
+Pepe (PEPE) has recently soared to an all-time high, achieving a market capitalization of nearly $5 billion.
+Despite its inherent risks due to volatility, PEPE has garnered significant support from key figures in the cryptocurrency world and major exchanges, leading to substantial profits for its investors.
+
+
+PEPE Solidifies the Status of a Top Meme Coin
+The frog-themed meme coin – Pepe (PEPE) – has been crypto’s rock start in the past few days, with its price soaring by approximately 100% on a monthly scale. It hit a fresh all-time high today (May 15), whereas its market capitalization pumped to almost $5 billion. The progress is quite significant considering the fact that the figure stood at around $500 million at the start of the year.
+
+PEPE Market Cap, Source: CoinGecko
+The latest ascent solidified PEPE as the third-largest cryptocurrency in the meme coin realm. Shiba Inu (SHIB) is second with a market cap of $14 billion, while Dogecoin (DOGE) leads the pack with over $21 billion.
+Somewhat expectedly, PEPE’s resurgence has benefited investors. According to IntoTheBlock, 100% of the coin’s holders stood at paper profits several hours ago. Currently, the percentage is just as impressive, pointing at 98%.
+PEPE’s Success in the Past Year
+The meme coin, built on the Ethereum blockchain, saw the light of day in April 2023, catching the eye of industry participants almost immediately. 
+
+
+
+
+It received support from prominent figures in the crypto community while leading exchanges enabled trading services with it. Binance, Coinbase, OKX, Bybit, and Bitget are some notable examples that embraced PEPE. 
+The asset also allowed savvy traders to make multi-million profits. However, people should also keep in mind that tokens of that type can also be quite risky due to their volatile nature, potentially leading to devastating losses. If you are about to enter the ecosystem, please check our dedicated video to secure yourself from some common mistakes:
+VIDEO
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Crypto expert PlanB reveals when Bitcoin will ‘go vertical’
+
+
+With the majority of assets in the cryptocurrency sector slowing down their gains, including the market’s representative, Bitcoin (BTC), the situation may soon change, particularly as Bitcoin miner revenue recovers, according to the observations of a renowned crypto trading expert.
+Specifically, the historical trends show that Bitcoin miner revenue tends to recover in two to five months after the halving, and after that, the price of Bitcoin “goes vertical” as the crypto analyst and creator of the stock-to-flow (S2F) model in predicting Bitcoin’s price, PlanB pointed out in an X post on May 14.
+Bitcoin miner revenue over time. Source: PlanB
+Indeed, monthly Bitcoin miner revenue has consistently grown over time and has recorded peaks in the months following the halving event, coinciding with a high relative strength index (RSI), which has tended to increase alongside revenue and then drop to below 70 as it consolidates – generally a bullish sign.
+
+
+BTC price prediction
+Earlier, PlanB offered his views regarding the price of the maiden crypto asset for the next several years, refreshing the S2F model with new data that places an average price of Bitcoin for the 2024-2028 halving cycle at $500,000, with the following cycle, 2028-2032, looking at a whopping $4 million.
+In terms of Bitcoin’s price this year, the analyst has expressed confidence in the flagship decentralized finance (DeFi) asset hitting $100,000 in the second half of 2024, driven by the tendency of mining revenue to recover following the halving event, with the market peak expected in 2025.
+Bitcoin price analysis
+For now, Bitcoin is changing hands at the price of $62,120, recording a modest gain of 0.43% in the last 24 hours while still writing down a loss of 0.33% across the previous seven days and an accumulated decline of 6.31% on its monthly chart, as per the latest data on May 15.
+Bitcoin price 7-day chart. Source: Finbold
+All things considered, experts’ opinions and historical trends are all working in Bitcoin’s favor, and its price might, indeed, follow this set path. However, the situation in the crypto industry can sometimes take a surprising turn, so doing one’s own research is critical when investing.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Circle Shifts Headquarters to US Before Upcoming IPO
+
+
+Circle Internet Financial Ltd., the issuer of the USDC stablecoin, is making a strategic move to re-domicile its legal base. The company plans to move its legal headquarters from the Republic of Ireland to the United States (US).
+This decision comes ahead of its highly anticipated initial public offering (IPO). Many see this move as a significant shift for the company as it navigates the regulatory environment and seeks to bolster market confidence.
+Moving to the US Might Pose Challenges for Circle
+A Bloomberg report recently shared a confirmation from a Circle spokesperson. They confirmed the filing of necessary court paperwork for the move on Tuesday. However, they did not share the reasons for the decision.
+BeInCrypto previously reported that Circle had already filed for the IPO to the US Securities and Exchange Commission (SEC) in January. Yet, the company did not disclose the number of shares it plans to dilute or the price range of its shares.
+
+On the other hand, moving to the US may pose challenges for Circle, including stricter taxes and a complex regulatory scene. Indeed, the regulation of cryptocurrencies and stablecoins in the US has been uncertain.
+Read more: Top 5 Crypto Companies That Might Go Public (IPO) in 2024
+Notably, Ripple Labs, the company behind the XRP cryptocurrency, has faced significant legal challenges with the SEC. This challenge caused Ripple to halt its IPO plans in the US and consider alternatives abroad.
+Therefore, Circle’s move suggests a strategic bet on regulatory clarity in the US. Depending on upcoming regulatory decisions, this could either boost or hinder its growth.
+Despite potential obstacles, Circle’s CEO, Jeremy Allaire, remains optimistic about the future of stablecoins and their regulatory environment. At the Milken Institute Global Conference 2024, Allaire emphasized the importance of regulatory clarity, scalable technology, and user-friendly applications to widen USDC adoption and integration.
+
+
+“I’ve always said you need regulatory clarity. You need the technology to become much more scalable and useable. And then, you need the people, the mainstream applications that people are going to be interacting with this, whether you are a business accepting a payment or an end user, you need those to connect up to that. All those three have been happening. We’re getting regulatory clarity on payment stablecoins all around the world and almost every jurisdiction we have a payment stablecoin act that’s at the proverbial one yard line here in the US,” Allaire said.
+
+
+VIDEO
+
+Allaire’s confidence is further evidenced by Circle’s collaborations with traditional finance giants such as BlackRock. Last month, Circle announced a new exchange feature for BlackRock’s USD Institutional Digital Liquidity Fund (BUIDL) investors. They can now exchange their tokenized real-world assets for USDC.
+According to CoinGecko data, USDC is the second-largest stablecoin in terms of market capitalization. As of May 15, USDC has a market capitalization of $32.86 billion. 
+
+This represents nearly 21% of the stablecoin market share. It trails behind Tether’s USDT, which has a market capitalization of $110.86 billion and a 70.75% market share.
+Read more: A Guide to the Best Stablecoins in 2024
+Stablecoins Market Shares. Source: CoinGecko
+In 2022, USDC and USDT were in close competition. In July 2022, USDC held over 40% of the market share, compared to USDT’s roughly 50%.
+However, 2023 brought challenges for Circle, particularly due to banking issues in the US. Part of USDC’s reserves were held with Silicon Valley Bank, which faced financial troubles. This caused USDC to temporarily lose its peg, raising concerns among users and investors.
+As Circle prepares for its IPO and re-domiciles to the US, its actions reflect a strategic pivot to align with US financial regulations and market dynamics. With its strong industry partnerships and commitment to regulatory clarity, this move also positions Circle to strengthen its place in the stablecoin market.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Ripple Bolsters Position As A Digital Asset Custody Provider
+
+
+								Ripple is transitioning into a full-service digital asset custody provider, following its acquisition of Metaco, a Swiss-based leader in the sector, for $250 million in May 2023. This development represents a significant expansion of the fintech’s capabilities into the institutional crypto custody market—a segment that is expected to experience substantial growth over the next decade.
+Integration Of Metaco’s Solutions On Ripple’s Platform
+The integration of Metaco’s offerings into Ripple’s services was formally announced via X. In a statement shared on the platform, Metaco declared, “All Metaco updates and news for institutional-grade custody solutions can now be found on Ripple. This move allows us to better connect with our community and provide even more valuable insights.” This move underscores a strategic alignment and integration of technologies and services between the two companies.
+
+
+A prominent figure within the XRP community, WrathofKahneman, highlighted the implications of this integration by stating, “And there we are. The web frontend for Metaco is now Ripple’s ‘Institutional Digital Asset Custody Platform’ page. Gets interesting from here!”
+
+The integration raised several questions within the community regarding its impact on different investor classes and the overall strategy. Addressing these concerns, WrathofKahneman speculated, “At face value, it doesn’t add too much new information; we knew Ripple acquired Metaco. It suggests to me the key role licensed custody plays in Ripple’s plans moving forward, so much so that despite initial claims, they seem to increasingly integrate (absorb) Metaco.”
+Chad Steingraber, another prominent community member, further emphasized the significance of this shift, remarking, “Ripple is now a complete Digital Asset Custody Service.” This reflects a general consensus that the company has evolved from its origins as a payment protocol to a more diverse financial technology platform offering institutional-grade digital asset services.
+The new subpage offers a comprehensive outline of the service capabilities: “Access the entire digital asset ecosystem today. Scale bespoke business models in new markets with the digital asset economy. Custody is critical to unlocking value, addressing growing demand for new asset classes, and building novel use cases across asset tokenization, stablecoin issuance, trading, staking and beyond.”
+
+It further details the benefits of their institutional-grade custody platform, focusing on security and compliance, agility and flexibility, and connectivity and networks. These features are designed to provide “the ultimate level of private key protection, scalable governance across all operations, and sole control over data and processes,” thereby positioning Ripple as a key player in the rapidly evolving digital asset market.
+The acquisition of Metaco not only expands Ripple’s technological base but also aligns with its strategic objectives to dominate the growing market of crypto services for enterprises. Metaco’s flagship product, Harmonize, is a benchmark in digital asset custody and tokenization, widely utilized by leading custodians, banks, and financial institutions globally.
+Despite the acquisition, Ripple announced last year that Metaco will continue to operate as an independent brand and business unit under the leadership of its founder and CEO, Adrien Treccani. However, the latest announcement seems to be a slight shift from this strategy.
+At press time, XRP traded at $0.49824.
+XRP price, 1-week chart | Source: XRPUSD on TradingView.com
+Featured image from Shutterstock, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Solana DEX Developer Admits To Stealing And Gambling Away $300M Meant For Hack Victims: 'I F***ed Up Way Too Hard' - Benzinga
+
+A core developer working for Solana-based SOL/USD decentralized exchange, Cypher, admitted to misappropriating funds worth more than $300 million meant to compensate victims of a sensational hack on the platform last year.What Happened: In a public statement shared on X, the developer, under the alias “Hoak,” said, "To address the elephant in the room, the allegations are true, I took the funds and gambled them away." "I would like to deeply apologize to all affected parties, I know at this point nothing is going to take back my actions and I have to face the consequences," the regretful developer added.“TLDR: I fucked up way too hard, way too many times. I don't expect anyone to forgive me or let this go unpunished,” he said on X.The public acknowledgment of their crimes comes a day after another core contributor at the now-collapsed protocol accused Hoak of stealing redemption funds."This is incredibly saddening to me. I never thought this would be a possibility,  having a core contributor who stayed on after the exploit to try and rebuild the project be the one who rugged funds from the redemption contract," the developer with the pseudonym "Cobra" claimed. Cobra revealed that the crime had been happening for months, and said they would pursue legal action against Hoak.Why It Matters: Cypher, a trading platform on the Solana blockchain, was robbed of more than $1 million in cryptocurrencies last August after a hacker exploited a bug in the protocol, according to DeFiLlama. The hacking incident and subsequent defrauding by its own members raised concerns over the lack of integrity of those working in the ecosystem. However, timely tracking by on-chain sleuths raised hopes that such foul play would eventually be uncovered.Price Action: At the time of writing, SOL was exchanging hands at $143.64, following a 1.88% decline in the last 24 hours, according to data from Benzinga Pro.Read Next: GameStop Might Have Outperformed Bitcoin’s Yearly Returns In A Single Day But Here’s Why King Crypto Evokes More Optimism
+
+----------------
+
+Robinhood Crypto launches Solana staking with 5% APY for EU users - Crypto Briefing
+
+
+
+
+Robinhood’s European crypto branch has introduced Solana staking for its customers, offering an annual percentage yield (APY) of approximately 5% at launch.According to Johann Kerbrat, general manager of Robinhood Crypto, the actual yield may vary as staking rewards change over time. The 5% APY offered by Robinhood Crypto is slightly lower than Coinbase’s estimated reward of 5.42% for Solana stakers.Notably, one of the highest annual yields for staking Solana can be accessed through Phantom wallet, a self-custodial Web3 wallet that offers up to 7.58% APY. According to Robinhood, the decision to launch Solana for its first staking product is largely influenced by the popularity of the SOL token among its EU users.Robinhood noted that the staking process in Solana is simpler compared to Ethereum, while also having a shorter bonding period for newly-staked assets to earn yield. For context, Solana has a bonding period that completes within two days, in contrast to Ethereum’s variable period which ranges from days to a few weeks.Asked about its plans to add staking for other assets, Kerbrat said that Robinhood is considering the offerings.Robinhood Crypto, which launched in December as a crypto trading app in the European Union, is registered and regulated in Lithuania. The company’s crypto arm noted that its app is highly downloaded by users in Poland, Italy, and Lithuania. Robinhood Crypto lists 33 tokens, compared to the US trading app, which only offers 15 crypto assets, with even fewer available in New York and Texas.The EU platform also offers SOL and Solana memecoins like BONK and DogWifHat, which are not available in the US. Robinhood’s US arm delisted Solana and other cryptocurrencies alleged by the US Securities and Exchange Commission (SEC) to be unregistered securities in June of last year, following the agency’s lawsuits against Coinbase and Binance.Despite Robinhood receiving a Wells Notice from the US SEC last week regarding its crypto listings, Kerbrat maintains that Robinhood and Robinhood’s EU crypto branch operate separately and have different business models.
+
+
+
+
+
+
+
+The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+See full terms and conditions.
+
+
+
+
+ 
+
+
+
+----------------
+
+Delist Announcement from Bitcoin Exchange Binance! Three Altcoin Trading Pairs Delisted from Spot Transactions! - Bitcoin Sistemi
+
+
+In order to protect its users and maintain a high-quality trading market, Binance, the world's leading cryptocurrency exchange, announced the removal of selected spot trading pairs due to factors such as low liquidity and trading volume.
+Binance Announces Removal of Select Spot Trading Pairs
+Following its final review, Binance has decided to remove and suspend trading on the following spot trading pairs, effective at 06:00 on May 17, 2024:
+
+
+
+CFX/TUSD, CHESS/BTC and ORDI/TUSD.
+
+Despite the delisting of these spot trading pairs, Binance reassures its users that this will not affect the availability of tokens on Binance Spot.
+Users can continue to buy and sell the basis of the spot trading pair and bid assets in other trading pairs available on Binance.
+
+
+
+
+
+
+In addition, Binance will discontinue Spot Trading Bots services for the above-mentioned spot trading pairs at 06:00 on May 17, 2024.
+Users are strongly advised to update and/or cancel Spot Trading Bots before the discontinuation of Spot Trading Bots services to avoid possible losses.
+
+
+This decision is part of Binance's commitment to providing a robust and safe trading environment for its users.
+The exchange continues to conduct periodic reviews on all listed spot trading pairs to ensure the highest standards are met.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Bitcoiner who called pre-halving all-time high predicts $95K BTC price
+
+Bitcoin (BTC) will hit $95,000 “in just one move” — only the timing is uncertain, says a new bullish BTC price outlook.In his latest post on X on May 15, popular commentator BitQuant doubled down on his optimism on BTC/USD.BitQuant: “Quite obvious” BTC price will shoot to $95,000Bitcoin is preparing to continue upward, and it should reach a record $95,000 and set new all-time highs.According to BitQuant, such dizzying BTC price levels are a matter of time — it just remains to be seen how much is required.“$95K will be achieved in just one move, and that is quite obvious,” he wrote. “Will that move start today, tomorrow, or the day after tomorrow? I don’t think anyone knows.”BTC/USD chart with “cup and handle” formation. Source: Mikybull CryptoBitQuant was responding to analysis from fellow commentator Mikybull Crypto, who spied a so-called “cup and handle” formation playing out on weekly timeframes.The structure consists of a consolidatory phase following a strong run-up, a reversal and a subsequent breakout higher.Mikybull Crypto agrees that the result will be a return to BTC price discovery.“The breakout will be explosive and will send it to a cycle top,” he wrote in part of X commentary on May 14.Bitcoin trader considers “explosive move”BitQuant is known for his BTC price forecasts. In 2023, he successfully predicted a new all-time high for BTC/USD before April’s block subsidy halving.Related: CPI meets $60K BTC price battle — 5 things to know in Bitcoin this weekHe and Mikybull Crypto are also not alone in their convictions. As Cointelegraph reported, not everyone is negative about where Bitcoin might head next despite being trapped in a narrow range for more than a month and threatening a breakdown toward $50,000.“Usually when the price action gets worse, the chop is nearing the end,” popular trader Daan Crypto Trades argued in part of his own recent X content. “Shows a lack of participation, lower liquidity and more compression. This is often followed by an explosive move.”BitQuant meanwhile predicts testing times for Bitcoin hodlers as a new trend makes itself known.“If you can’t relax now and wait for Bitcoin to perform as expected, then it’s better to leave the market to avoid the torture,” he concluded. “Because in the coming months, there will be a lot of pain for those with weak nerves.”BTC/USD 1-day chart. Source: TradingViewBTC/USD traded at around $62,000 on the day, per data from Cointelegraph Markets Pro and TradingView, still down by around 13% in Q2 so far.This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
