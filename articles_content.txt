@@ -1,304 +1,3 @@
-Coinbase Reports System-Wide Outage
-
-Currently, the exchange's website shows a "503 Service Temporarily Unavailable" message.
-
-----------------
-
-Pepe Becomes Hot Commodity on 'Roaring Kitty' Phenomenon: Analyst Says The Coin Should Be On Your Radar - Benzinga
-
-The return of famous retail trader "Roaring Kitty" on social media galvanized the memecoin market, with frog-themed token Pepe PEPE/USD becoming one of the biggest beneficiaries.What Happened: PEPE soared 15.40% in the last 24 hours, according to data from Benzinga Pro, breaking out of the rangebound price action that persisted over the week. The rally saw the meme token surpass Uniswap UNI/USD and stablecoin First Digital USD FDUSD/USD in market capitalization, breaking into the top 25 coins by market cap list. The coin was also the seventh-most traded coin in the last 24 hours, with volumes hitting nearly $2 billion.The rally triggered profit-taking opportunities for many traders. An early investor transferred a massive stash of 250 billion PEPE tokens, worth $2.4 million at prevailing prices, into cryptocurrency exchange Binance on Monday, according to Lookonchain. His PEPE portfolio returned nearly $3.6 million in profit.Why It Matters:  The frenzy was fueled by the social media comeback of Keith Gill, popularly known as "Roaring Kitty," a retail trader famous for his role in the GameStop short squeeze of 2021. PEPE' social volume rose significantly in the last 24 hours, according to on-chain analytics firm Santiment. The platform identified PEPE as one of several coins to keep an eye on, with substantial volatility likely in the coming days. Large PEPE transactions worth more than 100,000 jumped more than 5x in the last 24 hours, while the daily active addresses more than doubled, according to IntoTheBlock.Price Action: At the time of writing, PEPE was exchanging hands at $0.000009989, following a 15% bump in the last 24 hours, according to data from Benzinga Pro.Read Next: Bitcoin, Ethereum, Dogecoin Edge Higher On Spot ETF Holdings Disclosure And ‘Roaring Kitty’ Frenzy: Analyst Says $66,250 Next Hurdle For Bitcoin Before A New All-Time High
-
-----------------
-
-CertiK Detects $5M Security Flaw in Cross-Chain Bridge Wormhole
-
-
-                        
-                            Security Firm CertiK Detects $5M Security Flaw in Cross-Chain Bridge Wormhole                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 14, 2024 01:20 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Security firm CertiK said it has detected and prevented a flaw in the cross-chain bridge Wormhole which could have resulted in $5 million worth of losses.In a social media post, CertiK said its research team found a critical bug in Wormhole — an incorrect application of the public and entry modifiers exposing the blockchain to potential multimillion-dollar exploits.In a short video explainer, CertiK runs through how it detected the flaw in the network.  CertiK said this case study not only underscores the critical role of proactive security practices but also celebrates the power of open-source software in raising security and transparency standards across the Web3 world.Wormhole supports the transfer of tokens and data across different blockchain networks. The crypto project was spun off by Jump Trading Group and is one of the most popular bridges linking the Ethereum and Solana blockchains.Wormhole Experienced the Largest DeFi Attack in 2022
-In 2022, Wormhole lost about $321 million in an exploit. Hackers compromised Wormhole Bridge leading to 120,000 wETH loss from the platform, equivalent to $321 million. It was the largest DeFi attack of 2022 and the hacker swapped wETH tokens with Ethereum, SOL, USDC, APE, SX, etc.An investigation conducted by pseudonymous researcher Pland, detailed in an X post on April 4th, revealed that the Wormhole team overlooked excluding several wallet addresses associated with the exploit that drained $321 million in crypto from the cross-chain bridge.Chainalysis said to understand why the 2022 attack was more serious than the average hack, it is important to know how cross-chain bridges work.“Users interact with cross-chain bridges by sending funds in one asset to the bridge protocol, where those funds are then locked into the contract. The user is then issued equivalent funds of a parallel asset on the chain the protocol bridges to. In the case of Wormhole, users typically send Ether (ETH) to the protocol, where it is held as collateral, and are issued WeETH on Solana, backed by that collateral locked in the Wormhole contract on Ethereum,” — Chainalysis: Lessons from the Wormhole Exploit.April Sees Lowest Crypto Hacks Since 2021
-April 2024 saw the lowest combined losses from crypto-related hacks and scams, with CertiK reporting approximately $25.7 million lost to exploits, hacks, and scams. This latest figure marks the lowest recorded hacks since CertiK began tracking such incidents in 2021, as flash loan attacks and private critical hacks decreased.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Can Ethereum Price Repeat Pattern and Start Fresh Surge To $3,200?
-
-
-																Ethereum price is attempting a recovery wave from the $2,865 support. ETH might start a fresh surge if it clears the $2,960 resistance zone.
-
-Ethereum remained stable and attempted a recovery wave above $2,900.
-The price is trading below $2,950 and the 100-hourly Simple Moving Average.
-There was a break above a major bearish trend line with resistance at $2,930 on the hourly chart of ETH/USD (data feed via Kraken).
-The pair could start a major increase if there is a close above the $2,990 and $3,000 resistance levels.
-
-Ethereum Price Holds Support
-Ethereum price traded as low as $2,864 and recently started an upside correction, like Bitcoin. ETH was able to rise above the $2,900 and $2,920 resistance levels. Besides, there was a break above a major bearish trend line with resistance at $2,930 on the hourly chart of ETH/USD.
-The price even spiked above $2,980 and tested $3,000. A high was formed at $2,992 and the price is now correcting gains. There was a minor move below the $2,960 level. The price dipped below the 23.6% Fib retracement level of the recent increase from the $2,864 swing low to the $2,992 high.
-Ethereum is now trading below $2,950 and the 100-hourly Simple Moving Average. Immediate resistance is near the $2,950 level and another connecting bearish trend line on the same chart. If the bulls push the price and repeat the recent breakout, the price might start another increase.
-The first major resistance is near the $3,000 level. The next key resistance sits at $3,050, above which the price might gain traction and rise toward the $3,120 level.
-
-Source: ETHUSD on TradingView.com
-If there is a clear move above the $3,150 level, the price might rise and test the $3,220 resistance. Any more gains could send Ether toward the $3,250 resistance zone.
-Another Failure In ETH?
-If Ethereum fails to clear the $2,950 resistance, it could start another decline. Initial support on the downside is near the $2,2930 level and the 50% Fib retracement level of the recent increase from the $2,864 swing low to the $2,992 high.
-The first major support is near the $2,900 zone. The next support is near the $2,865 level. A clear move below the $2,865 support might push the price toward $2,740. Any more losses might send the price toward the $2,650 level in the near term.
-Technical Indicators
-Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone.
-Hourly RSI – The RSI for ETH/USD is now below the 50 level.
-Major Support Level – $2,865
-Major Resistance Level – $2,950
-																								
-															
-
-
-						
-
-----------------
-
-Bracebridge Bets Big in Bitcoin ETFs, Now Largest ARKB Holder
-
-
-A recent SEC filing revealed that Bracebridge Capital has invested $363 million in spot Bitcoin exchange-traded funds (ETFs). This Boston-based hedge fund has hefty stakes in the Ark 21Shares Bitcoin ETF (ARKB), Grayscale Bitcoin Trust ETF (GBTC), and BlackRock’s iShares Bitcoin Trust (IBIT).
-This move highlights the growing institutional interest in cryptocurrency.
-Institutional Investments in Bitcoin ETFs Surge Amid Heavy Outflows
-Bloomberg Intelligence data reveals Bracebridge Capital holds $262 million in ARKB, $81 million in IBIT, and $20 million in GBTC. The data further shows that Bracebridge Capital is the biggest holder of ARKB.
-This is particularly noteworthy given that Bracebridge manages funds for endowments for Yale University and Princeton University. Eric Balchunas, a senior ETF analyst at Bloomberg Intelligence, commented on Bracebridge Capital’s significant investment.
-
-
-“The new high water mark (authorized participants/market maker) for Bitcoin ETF holdings has arrived. […] They went wild. If you manage money for the Ivys, you are as pro as it gets,” Balchunas wrote.
-
-Read more: Crypto ETN vs. Crypto ETF: What Is the Difference?
-List of Top 10 ARKB Holders. Source: X/EricBalchunas
-A few days before this revelation from Bracebridge, another SEC filing unveiled that traditional banks are also jumping on the spot Bitcoin ETFs bandwagon. The Switzerland-based investment bank, UBS Group AG, invested $145,692 in IBIT (3,600 shares) through its subsidiaries and institutional investment managers. Edmond de Rothschild (Suisse) S.A., the family-owned banking giant, also owns $4.2 million in IBIT shares and $82,121 in GBTC shares.
-Bracebridge Capital, UBS, and Rothschild’s moves align with a trend among institutional investors. BeInCrypto recently reported that the Susquehanna International Group had invested over $1.1 billion in various Bitcoin ETFs.
-
-New York-based asset manager Hightower has also ramped up investments in Bitcoin ETFs. Hightower’s investments totaled $68.35 million across spot Bitcoin ETFs.
-However, James Seyffart, another ETF analyst at Bloomberg Intelligence, cautioned the crypto community to be careful about identifying recent Bitcoin ETF ownership trends.
-
-“Just FYI, everyone. JPM, Susquehanna (which also owns these ETFs and was all over this site last week), and others are just market makers and/or [authorized participants] APs. Their ownership isn’t necessarily indicative of anything other than this is how many shares they had on March 31, 2024,” Seyffart explained.
-
-
-Despite the interest from institutional investors, US-traded spot Bitcoin ETFs’ performance could have been more impressive in May. According to SoSo Value data, these ETFs recorded only three positive flows throughout May.
-On May 3, the daily total net inflow was $378.24 million. Meanwhile, on May 6 and May 8, it was $217.06 million and $11.54 million, respectively. The ETFs saw outflows for the rest of May, with the biggest outflow of $563.77 million on May 1.
-Read more: How To Trade a Bitcoin ETF: A Step-by-Step Approach
-Total US Spot Bitcoin ETFs Net Inflow in May 2024. Source: SoSo Value
-Nonetheless, the significant investments by institutions like Bracebridge Capital highlight the growing integration of cryptocurrency into mainstream financial portfolios. While the performance of spot Bitcoin ETFs fluctuates, the increased institutional backing signals long-term confidence in the potential of digital assets.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
-
-
-
-
-----------------
-
-Biden orders removal of Chinese-owned crypto miner near missile base
-
-United States President Joe Biden has signed an order preventing a China-linked crypto mining firm from continuing to use land near a Wyoming nuclear missile base.The order, released by the White House on May 13, forces MineOne Cloud Computing Investment and its partners to divest property operated as a crypto mining facility near the Francis E. Warren Air Force Base in Cheyenne, Wyoming.Biden cited national security concerns for the order to rescind the firm’s property rights. “There is credible evidence that leads me to believe that MineOne Partners Limited, a British Virgin Islands company ultimately majority owned by Chinese nationals [...] might take action that threatens to impair the national security of the United States.”MineOne acquired the property in June 2022 and then made improvements to use it for crypto mining close to the Air Force base. The military installation is a strategic missile base and home to intercontinental ballistic missiles, the order read. The firm and its affiliates are also required to remove all equipment on the site installed after the improvements. The order also prohibits Chinese-linked entities from any further access to the site, which is less than a mile away from the base.The company has 120 days from the date of the order to sell the property and is not permitted to transfer it to third parties. Map showing proximity of MinerOne site, Francis E. Warren AFB, and Microsoft data center. Source: Google MapsRed flags regarding this particular site have been raised in the past by tech giant Microsoft which has a data center nearby. The location could allow the Chinese to “pursue full-spectrum intelligence collection operations,” the Microsoft team wrote in an August 2022 report to the Committee on Foreign Investment in the U.S. (CFIUS), according to a 2023 New York Times investigation. Treasury Secretary Janet Yellen, who also serves as the chairperson of the committee, said the order to force MineOne to sell the land “highlights the critical gatekeeper role that CFIUS serves to ensure that foreign investment does not undermine our national security.” MineOne raised more than $20 million for its first fund within a month in 2021. Since it launched the fund in October 2021, it was n "actively subscribed" by U.S. institutional investors and high-net worth individuals, according to the announcement at the time.Cointelegraph reached out to MineOne for comments but did not receive an immediate response. Related: China has a Trojan Horse in US Bitcoin mining infrastructureThe Biden Administration has previously ordered a crackdown on the U.S. Bitcoin mining industry citing China as an example to follow as part of its ongoing war on crypto.Crypto mining was heavily curtailed by the ruling regime in China in 2021, initiating an exodus of mining operations, many of which ended up across the pond in the U.S. The latest White House order comes just a day before the Biden administration is set to sharply increase tariffs on several Chinese imports, including electric vehicles.Magazine: What do crypto market makers actually do? Liquidity, or manipulation
-
-----------------
-
-Indian Crypto Exchange CoinDCX’s DeFi Arm Okto to Launch Points Program and Blockchain
-
-“Self-custody wallet experience was completely broken and required users to go through several hurdles of the Web3 space like blockchain, self-custody, security and trust, signing transactions or gas fees," said Khandelwal. “Okto is the first such system which provides a Web 2-like single click mobile experience in the Web3."
-
-----------------
-
-Bitcoin and Ethereum ETFs saw sharp outflows in Hong Kong market - Crypto Briefing
-
-
-The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-See full terms and conditions.
-
-
-
-----------------
-
-Economist Henrik Zeberg Says Extreme Rally Ahead for Crypto and Stocks - But There’s a Big Catch - The Daily Hodl
-
-
-								Closely followed economist Henrik Zeberg is revealing his outlook for stocks and crypto for the coming months.
-The macro strategist tells his 139,600 followers on the social media platform X that he believes stocks and crypto are gearing up for big rallies that may endure until the end of the year.
-
-
-
-
-
-
-
-
-
-
-Zeberg points to two narratives that he says bulls will latch on to justify the ascent.
-“1. Blow off top is not over and done – yet! Extreme rally ahead in certain indices and crypto.
-2. Sentiment will become extremely BULLISH.
-3. I will be called ‘Perma Bear’ as I call US market top. Market top very close in outside US.
-4. Bulls will point to AI (artificial intelligence) and Fed liquidity to explain why markets can only go UP.”
-But while Zeberg believes that more rallies are in sight for risk-on assets, he predicts that both stocks and crypto will implode once the top is in.
-“Top in US markets will be in Q3/Q4 2024. 
-Recession sets in Q4 2024. 
-Fast decline in markets will begin.”
-The economist also says market participants will be exuberant as the S&P 500 ascends to greater heights.
-“People will become overly BULLISH – right as we approach the top. This bullish sentiment will grow bigger as the S&P 500 heads towards 6,150 [points]. And talk of AI and liquidity – as the reasons why markets only can go UP – will dominate…”
-At time of writing, the S&P 500 is trading at 5,221 points.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-There is a System-Wide Outage at Bitcoin Exchange Coinbase! Stock Exchange Made a Statement on 'X'! - Bitcoin Sistemi
-
-
-Cryptocurrency exchange Coinbase experienced a comprehensive outage in the system, and while users reported difficulties accessing the platform, an investigation was launched into the issue.
-Coinbase Experiences System-Wide Outage, Ensures Security of User Funds
-In an announcement posted on X, Coinbase acknowledged the ongoing system-wide outage and reassured users that their funds remained safe despite technical difficulties.
-
-
-
-
-The exchange confirmed that its team is actively working to address the issue and restore normal operations.
-
-
-
-
-
-As a result of the outage, visitors attempting to access Coinbase's website are greeted with a “503 Service Temporarily Unavailable” warning, indicating disruptions in the platform's services.
-This isn't the first time Coinbase has encountered technical difficulties. In March, the exchange experienced a temporary disruption that affected the trading platform during periods of high trading activity.
-
-
-
-Users reported encountering issues such as incorrect account balance display, with some having their balance incorrectly listed as $0.
-Despite the current outage, Coinbase emphasizes its commitment to protecting user assets and ensuring the integrity of its platform.
-
-
-
-
-
-The exchange's rapid response and ongoing efforts to resolve the issue underscore its commitment to maintaining trust and credibility within the cryptocurrency community.
-While Coinbase continues to investigate the root cause of the system-wide outage, it advised users to be patient and monitor official updates from the exchange regarding the status of their services.
-*This is not investment advice.
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Is Cardano a 'must-buy' right now? Key points about ADA's 2024 fortunes - AMBCrypto
-
-
-
-Social media engagement and user activity have been falling in the past six weeks.
-The NVT and mean coin age metrics posed a dilemma to investors.
-
-Cardano [ADA] was unable to shake off its bearish bias. Technical analysis revealed that further losses remained likely for the token.
-A lack of demand was a major reason, and bullish sentiment has also been negligible.
-Bitcoin [BTC] was unable to break out of the $60.8k-$63.3k region, and Cardano was also stuck within the $0.43-$0.47 area. Do on-chain metrics hint at a bullish breakout, or reinforce the bearish expectations?
-Development activity was high but the good news stops there
-
-A high development activity shows that the project is continually fixing issues or otherwise preparing to ship new features.
-Overall, it is a good sign for long-term investors, and Cardano did not slouch in this department.
-Yet, the other metrics like daily active addresses and social volume have been in a decline since mid-March.
-It indicated fewer users were utilizing the network for transactions and that social media engagements had fallen off. Moreover, the Weighted Sentiment has been negative for a good chunk of the past six weeks.
-The online engagement has been negative or bearish, which does not bode well for the short-term price prospects. However, these factors alone do not indicate a drop is inbound.
-The contradicting signs — is ADA undervalued or not?
-
-The 30-day MVRV ratio has been negative since mid-March, showing an extremely undervalued asset in the short-term.
-However, despite this development, the price trend has been bearish. During this time, the mean coin age has trended rapidly higher, showing accumulation in place.
-It presented a good opportunity for swing traders to buy, as ADA was also at the range low. Yet, the NVT revealed something else.
-The Network Value to Transactions (NVT) ratio calculated using the daily circulation has also trended higher since mid-March.
-This indicated that the network was likely overvalued, or expensive, compared to its low ability to transact tokens. This has bearish implication for the network usage, and in turn, the future demand.
-
-Read Cardano’s [ADA] Price Prediction 2024-25
-
-Therefore, putting these clues together with the technical analysis, it appeared that Cardano is likely headed for more losses.
-A Bitcoin breakout might halt or reverse the downtrend, but the evidence at hand was not bullish.
-
-
-
-
-
-
-----------------
-
-Industry Stakeholders Believe a UK Election Won't Derail Crypto Plans
-
-"I think there's a long time between now and an election and so I wouldn't expect them to further the details out at this point," said Varun Paul, senior director and business lead for CBDC and financial market infrastructure at Fireblocks. "I'm pleased – I don't think that digital assets are proving to be a political hot potato at the moment, I think we're lucky in the U.K. that it's not become a political battleground like it has been in the U.S."
-
-----------------
-
 Chainlink's (LINK) Outlook Grows Bleak: Signals of Bearish Continuation Surface
 
 
@@ -9307,6 +9006,558 @@ Bitwise CIO "Incredibly Bullish" On Bitcoin ETFs After Latest SEC Disclosures - 
                         A recent influx of investor disclosures has Bitwise, one of the United States’ leading Bitcoin ETF providers, “incredibly bullish” on BTC.The Top Institutional Bitcoin ETF Owners
 In a recent memo, Bitwise CIO Matt Hougan reviewed some of the newly uncovered Bitcoin ETF buyers, who have revealed their allocations as part of mandatory 13F filings with regulators in recent weeks.A 13F filing is a form required by the Securities and Exchange Commission (SEC) of all investors with $100 million in assets under management, disclosing their entire ownership of publicly traded securities. Thousands of investors have now filed their Q1 2024 reports – the first reporting period during which Bitcoin spot ETFs have been live.“A lot of professional investors own bitcoin ETFs.” Hougan wrote, taking note of iconic asset managers like Hightower Advisors, which owns $68 million in the new funds. Another includes Bracebridge Capital, a Boston-based hedge fund holding a much larger $434 million in Bitcoin.Based on all filings submitted by May 9, a total of 563 professional investment firms were identified as having bought the ETFs, with allocations worth $3.5 billion in total. That doesn’t include those filing between then and May 15, such as the State of Wisconsin Investment Board (SWIB), which reported a $162 million allocation to Bitcoin on Tuesday.Why Bitwise Is Bullish On Bitcoin ETFs
 According to Hougan, it’s very uncommon for ETFs to attract so many 13F filers in their first few months live. “From a breadth of ownership perspective, the bitcoin ETFs are a historic success,” he wrote.But that doesn’t mean Bitcoin ETF buyers have dried up already. Based on the data, it seems the vast majority of buyers until now have been retail-based, with professional investors only starting to dip their toes in.“Most professional investors take 6-12 months to evaluate crypto,” Hougan said, noting that allocations to crypto after one client meeting are “extremely rare.”Next, those investors usually make personal allocations to test the water, before making isolated allocations on behalf of their more pro-crypto clients later on.Finally, after about 6 months, those firms will start making “platform-wide allocations” with their whole client book, comprising 1% to 5% of their entire portfolio. For context, current allocations made by investors like HighTower comprise just 0.05% of their portfolios.“A 1% allocation of their portfolio to bitcoin would equate to $1.2 billion—all from a single firm,” Hougan wrote. “Multiply that by the growing number of professional investors participating in the space, and you can begin to see what’s behind my enthusiasm.”                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Shiba Inu Investors Target New Bitcoin ICO - Here's Why
+
+
+                        
+                            Shiba Inu Investors Target New Bitcoin ICO, Aiming for 100x Returns                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 20:38 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+Shiba Inu Investors Target New Bitcoin ICO, Aiming for 100x Returns / Source: Cryptonews
+                        As Shiba Inu (SHIB) consolidates within the confines of a multi-month pennant structure and risks a downside breakout, investors are instead targeting an exciting new Bitcoin ICO called 99Bitcoins (99BTC), as they aim for potential 100x returns.Legendary GameStop retail investor Roaring Kitty’s return to social media may have ignited sentiment amongst meme stock names but has failed to result in a lasting uptick in sentiment amongst the major meme coins like Shiba Inu.Last just under $0.000023, SHIB continues to hold above its 100DMA. However, the price continues to be squeezed by the 50DMA.Indeed, Shiba Inu has formed a pennant structure in recent months and a breakout appears imminent.Pennant structures can break out in either direction. Should Shiba Inu break to the upside, an imminent move back above $0.000030 could be expected.Conversely, should Shiba Inu break to the downside, a swift drop back to $0.000018 support is likely.With Shiba Inu eyeing a near-term breakout, traders are checking out this new Bitcoin ICO. Source: TradingViewMacro catalysts will be in on Wednesday, with US CPI and Retail Sales data out.Depending on how this data impacts Fed rate cut expectations, it could be either bullish or bearish for the market.This could be the catalyst for Shiba Inu to break its current pennant pattern.As SHIB threatens a downside break, it’s no surprise that investors are targeting alternative investments that could offer better returns.One crypto that is getting the team at Cryptonews very excited is new Bitcoin ICO 99Bitcoins (99BTC).Here’s Why Shiba Inu Investors Are Targeting This New Bitcoin ICO
+99Bitcoins is a well-established crypto education platform that has been around now for nearly a decade.99Bitcoins’ YouTube channel has over 700,000 subscribers and its platform has over 100,000 students enrolled.Already a household name in the crypto education space, 99Bitcoins is taking the natural next step –learn-to-earn (L2E).99Bitcoins is launching a new L2E token (99BTC) that is designed to reward individuals for learning about cryptocurrency.And the new Bitcoin ICO plans to integrate its token with BRC-20 to pioneer L2E directly on the Bitcoin blockchain.99BTC is currently available in presale, and fundraising efforts have so far been a resounding success.The new Bitcoin ICO has already been able to raise over $1.25 million.Tokens are currently priced at $0.00105. But potential investors need to move quickly as when the presale hits $2 million, that price will jump.Learn More Here99Bitcoins’ Whopping $99,999 Airdrop is Not to Be Missed
+99Bitcoins is currently running a whopping $99,999 BTC airdrop. 99 of the project’s early supporters will be picked at random. To enter, users need to follow the instructions on the website.Not only might investors benefit from the project’s exciting airdrop, but 99BTC is also a passive income gem.14% of the token supply is being reserved for staking rewards. Presale investors are already raking in APYs in excess of 1,350%, as per the staking dashboard.27.5% is being reserved for project funds, 23% for marketing, 8% for liquidity and 17% for community rewards.99Bitcoins’ new token has all the makings of a crypto that could do very very well.99Bitcoins is already a leader in crypto education and will likely quickly be a leader in L2E.The exciting airdrop and staking APY will also attract a lot of attention. 99BTC could well be a 100x gem.Readers can learn more about $99BTC by checking out the whitepaper.Buy 99BTC Here                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+MAGA Shiba Inu (MAGASHIB) to Skyrocket 13,000% Before MEXC Listing, While Shiba Inu and Dogecoin Struggle
+
+
+
+                    
+
+MAGA Shiba Inu (MAGASHIB) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+MAGA Shiba Inu (MAGASHIB), a new Solana memecoin that was launched today, is poised to explode over 13,000% in price in the coming days.
+
+
+
+
+This is because MAGASHIB has announced its first centralized exchange listing, which will be on MEXC – one of the largest exchanges in the world.
+
+
+
+This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
+
+
+
+Currently, MAGA Shiba Inu can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and MAGA Shiba Inu could become the next viral memecoin.
+
+
+
+MAGA Shiba Inu launched with over $7,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
+
+
+
+To buy MAGA Shiba Inu on Raydium or Jupiter ahead of the MEXC listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for MAGA Shiba Inu by entering its contract address – 73mqxPkM9P59GeudJ2DT8i2v94QfLkfVVbfQnU2DTP5r – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like MAGASHIB.
+
+
+                
+
+                
+
+----------------
+
+Ripple Sells $75 Million Worth of XRP Amid Market Downturn, Data Shows | Cryptoglobe
+
+
+                                
+Ripple, the company holding the largest reserves of XRP, has sold 150 million tokens on May 13 in a $75 million sale that represents around 0.25% of XRP’s total market capitalization, currently around $28 billion.
+
+
+
+The sale comes after Ripple released 1 billion XRP in the beginning of the month, with these tokens originally being locked in monthly escrows until 2027. Ripple allocated 200 million to its treasury account and placed the remaining 800 million in new escrows.
+
+
+
+The sale was executed through Ripple’s treasury account, labeled “Ripple (1),” on the XRP Ledger explorer XRPScan, as first reported by Finbold, which transferred tokens to an unlabeled account, “rP4X2…sKxv3.”
+
+
+
+This process effectively introduced new XRP into circulation, potentially adding inflationary pressure and adding to XRP’s annual inflation rate above the 4% mark. After Ripple’s release the destination account kept 50 million XRP and sent 100 million tokens to an address associated with its sales on the market.
+
+
+
+If this pattern holds true, the additional 150 million XRP could create downward pressure on the price of XRP in the spot market. XRP is at the time of writing trading at $0.5 per token after dropping around 5% over the past week amid a wider cryptocurrency market correction.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+As CryptoGlobe reported  a cryptocurrency analyst has recently suggested the cryptocurrency’s price could be set for a significant upswing, pointing to  a symmetrical triangle on the cryptocurrency’s weekly chart, from which XRP could soon break out of.
+
+
+
+The price of XRP has been trapped within this triangle for several years, reflecting a potential tug-of-war between buyers and sellers. A successful breakout, Carter said, would see XRP move upward significantly.
+
+
+
+Should a breakout from the symmetrical triangle materialize, Carter projects an initial surge towards $0.93, a level XRP briefly touched in July 2023 following a positive development in the ongoing legal battle with the Securities and Exchange Commission (SEC).
+
+
+
+However, Carter believes XRP will surpass this resistance level and reach a more ambitious mid-term target of $1.68, representing a staggering increase of over 200% from its current price level.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+UK closes ‘trust me bro’ crypto firm that gave horrible advice to clients
+
+United Kingdom authorities have officially shut down a crypto academy, claiming the founder used it to “recklessly persuade” people to partake in loss-making investment schemes, including an alleged $1.7 billion crypto “Ponzi.”According to the United Kingdom government agency The Insolvency Service, Amey Finance Academy offered advice to people looking to invest in various cryptocurrency schemes. However, some customers lost their entire investments based on misleading promises made by the firm’s sole director and shareholder.In WhatsApp messages seen by investigators, Amey allegedly told one customer that their investments were a “100 certy” and to “trust me bro.”Amey allegedly told another customer that their investment wouldn’t fall below 90% — but they ended up losing everything.“Desmond Amey used Amey Finance Academy to recklessly persuade individuals to invest in cryptocurrency schemes and mislead them about the risks of doing so,” said Mark George, chief investigator at the Insolvency Service. Source: Insolvency ServiceIt comes two weeks after the Insolvency Service secured a winding-up order against Amey’s firm in the U.K. High Court on April 30.One of the cryptocurrency schemes promoted by the firm was HyperFund — later known as HyperVerse — an alleged Ponzi scheme that went unchecked by Australian authorities for nearly two years.Two of the lead operators behind HyperVerse have since been charged by the United States securities regulator, which claims the firm ran a $1.7 billion fraud scheme.Related: OneCoin’s legal boss gets 4 years jail for massive $4B crypto scamHowever, Amey’s failure to provide up-to-date accounting records meant the Insolvency Service couldn’t establish the true relationship between Amey Finance Academy and HyperVerse. This lack of transparency left the Insolvency Service with no option but to seek a wind-up order, George explained.“The public deserve protection from companies trading in an opaque and objectionable manner which is why we applied to have Amey Finance Academy shut down.”About $6.3 million (5 million Great Britain pounds) passed through Amey Finance Academy’s bank account between October 2019 and March 2022, but the firm’s assets and liabilities weren’t able to be ascertained.Amey’s firm launched in December 2018, claiming to be “an established and successful independent consultancy providing a plethora of financial services.”Cointelegraph reached out to Desmond Amey for comment.Magazine: Ethereum’s ERC-20 design flaws are a crypto scammer’s best friend
+
+
+
+
+----------------
+
+Why Conviction of Tornado Cash Dev Has Sparked Outrage - DailyCoin
+
+
+        
+
+A Dutch court has found Tornado Cash developer Alexey Pertsev guilty of money laundering.
+
+
+
+Outrage has trailed the court decision.
+
+
+
+The outrage comes as many worry about the precedent the ruling sets for crypto and technological development in general.
+
+
+
+
+After nearly two years, the trial of Tornado Cash developer Alexey Pertsev has come to a head.
+
+
+
+The developer was charged with money laundering in the Netherlands in November 2022, as authorities sought to hold him responsible for criminal elements, including North Korean hackers, using the privacy protocol to launder stolen cryptocurrency worth billions of dollars. 
+
+
+
+
+On Tuesday, May 14, a ruling was finally issued in the case, setting what many have described as a horrible precedent for the industry.
+
+
+
+Pertsev Conviction Sparks Outrage 
+
+
+
+On Tuesday, May 14, a Dutch court found Pertsev guilty of laundering $1.2 billion on Tornado Cash and sentenced the developer to 64 months or five years and four months in prison.
+
+
+
+According to a translated summary of the ruling, the court found that the developer’s failure to implement controls to prevent abuse of the protocol, even after discovering that criminal elements were using it, made him responsible for the abuse. The ruling, however, has sparked outrage within the crypto community.
+
+
+
+Former KPMG France Blockchain and Crypto Director Alexandre Stachtchenko asserted:
+
+
+
+
+"This has gone too far. It is time to end this KYC and surveillance mess before it eats democracy itself."
+
+
+
+Independent crypto journalist Lola L33tz described the ruling as “insane,” adding that it practically outlawed building any privacy service.
+
+
+
+
+
+
+
+ConsenSys lawyer Bill Hughes described the ruling as “among the most chilling lines” crypto industry participants will ever read.
+
+
+
+These views go beyond privacy concerns; many worry about the precedent it sets for crypto and technological development in general.
+
+
+
+An Affront on The Freedom of Expression?
+
+
+
+For many, the Tornado Cash case raises the question of whether developers should be held responsible for how their code is used.
+
+
+
+“We don’t hold Microsoft responsible when drug gangs use Excel to keep track of their profits. 
+
+
+
+We don’t arrest Apple executives when criminals plot crimes using FaceTime.  We don’t prosecute the NYSE because people can use it for insider trading,” Morrison Cohen Partner Jason Gottlieb stressed while explaining that code should not be illegal even though the abuse of it may be.
+
+
+
+Gottlieb argued that code, like speech, was a form of expression protected by the First Amendment.
+
+
+
+"We should not abuse fundamental rights to pursue even terrible criminals," he wrote.
+
+
+
+Beyond the Pertsev case in the Netherlands, two other Tornado Cash developers, Roman Storm, and Roman Semenov, face similar money laundering charges in the U.S. The trial is set to begin on September 23.
+
+
+
+While some experts have argued that the Netherlands case is not indicative of what could happen in the U.S., in 2023, a U.S. court rejected a Coinbase-backed effort to overturn the U.S. Treasury’s Office of Foreign Asset Control (OFAC) sanction on Tornado Cash. The judge found that the protocol and its DAO operated as a corporation as opposed to claims that it was just a piece of code.
+
+
+
+On the Flipside 
+
+
+
+
+Pertsev has 14 days to appeal his conviction.
+
+
+
+Semenov remains at large.
+
+
+
+Ethereum founder Vitalik Buterin has recently endorsed Railgun, a Tornado Cash alternative that implements “privacy pools” to make it difficult for bad actors to use the tool.
+
+
+
+
+Why This Matters 
+
+
+
+The conviction of Tornado Cash’s Alexey Pertsev sets a powerful precedent for crypto and technology development, raising questions about the extent to which developers can be blamed for how their software is used.
+
+
+
+Read this for more Tornado Cash debacle:DOJ Rejects Tornado Cash Founder’s ‘Just a Developer’ Claim
+
+
+
+See why a statement from the U.S. SEC is drawing fire from Coinbase’s Paul Grewal:Why SEC’s “Remarkable Admission” Has Coinbase CLO Up in Arms
+
+    
+              
+    
+
+----------------
+
+Here’s why US debt is out of control - and Japanese debt isn’t
+
+On the face of it, the United States' debt to GDP ratio doesn’t seem that bad on a global scale. In 2023, it was lower than the average for G7 nations — at 123% — and roughly half of the most indebted country in the world, Japan, where debt stood at a whopping 255% of GDP in 2023.Looking at the numbers alone, it would be easy to brush this off as a non-issue. After all, Japan has managed to navigate its growing debt pile relatively well over the years. Its economy remains stable, while the Nikkei 225 index is up around 31% over the last year (as of May 10), outperforming the S&P 500. In reality, though, the economic situations in the two countries couldn’t be more different, which means that what works for Japan is unlikely to work for the U.S.The glaring difference between the two is the composition of their debt ownership. In Japan, nearly 90% of debt is owned domestically by its citizens and institutions. By contrast, roughly a quarter of U.S. debt is held by international debt buyers. And so needs to ensure that its debt remains attractive to them by paying a high enough yield versus its global competitors — especially as this debt rises to higher and higher percentages of GDP, meaning that it becomes riskier to lend to the government.Related: Jerome Powell’s pivot heralds a boring summer for BitcoinIndeed, last year Fitch Ratings already downgraded U.S. government debt from AAA to AA+. At the time, this news was brushed off by U.S. officials as “arbitrary and based on outdated data.” Later in the year, Moody’s downgraded its U.S. debt outlook to negative, which was also largely ignored by markets. But investors should be paying more attention because the U.S. won’t be able to sit back and let its debt soar to the levels seen in Japan. For one thing, Japan’s net debt is much lower than its gross debt-to-GDP ratio, meaning it holds more foreign assets than it owes to other countries — the exact opposite of the US. This makes it easier for Japan to manage its growing debt pile. Map of debt-to-GDP ratios around the world as of 2022. (Dark green signifies a higher ratio, while orange signifies a ratio of less than 25%.) Source: International Monetary FundJapan also hasn’t struggled with inflation nearly to the same extent as the United States. Its inflation rate sits at 2.7% after peaking at just 4.3% in January 2023. That's a far cry from the 9.1% the U.S. reached in June 2022. The Federal Reserve is still struggling to bring sticky inflation under control, which makes the soaring debt levels particularly dangerous as this can add fuel to the fire.The answer to inflation, as we all know, is restrictive monetary policy. But higher interest rates mean higher debt repayments, unhappy consumers, and — eventually — a slowing economy. Indeed, the Fed is already facing all of these problems. Consumer confidence is beginning to falter, debt repayments topped $1 trillion last year and first-quarter growth this year came in much lower than anyone anticipated. So much so that we’re now hearing whispers of stagflation — a particularly undesirable economic situation, where inflation continues to rise while economic growth stagnates. Here, higher debt also creates a problem, since it limits the government’s ability to use its fiscal powers to mitigate a slowing economy. So the Federal Reserve finds itself in a bit of a catch-22 situation, especially considering that it has all but promised a rate cut next.Related: The next ICO boom is coming — and it will be better than 2018In an election year, keeping interest rates high for too long could also spell an unhappy electorate. However, so far, both Democrat and Republican candidates appear to be entirely ignoring the elephant in the room that is the growing U.S. debt pile. Neither side has proposed any meaningful policies to address this issue. But, with the debt-to-GDP ratio now at well over 100% and projected to keep rising quickly over the coming decades, the government will have to face the music sooner or later. So what does this mean for crypto? Paradoxically, all this may be a net benefit for assets like Bitcoin, which could become a safe haven as worries over soaring U.S. debt intensify. Typically, rising debt levels also lead to currency devaluation. And while, like Japan, the U.S. may be able to avoid some of this due to the global reliance on the U.S. dollar, the high proportion of foreign debt ownership also makes the greenback particularly vulnerable. Coupled with the expectations of interest rate cuts later this year, there is little chance that the dollar will maintain its current strength for too long. This, of course, will be a boon for Bitcoin (BTC), which is widely seen as a hedge against dollar weakness. So this predicament the U.S. finds itself in isn’t necessarily bad news for cryptocurrency markets, depending on quite how badly out of hand things get. If the U.S. were to default on its debt, for example — which, of course, it won’t. This would be disastrous for all markets, including digital assets. A weaker dollar and some loss of confidence in the U.S., however, could be just what the doctor ordered for the next leg of the crypto rally. Lucas Kiely is a guest columnist for Cointelegraph and the chief investment officer for Yield App, where he oversees investment portfolio allocations and leads the expansion of a diversified investment product range. He was previously the chief investment officer at Diginex Asset Management, and a senior trader and managing director at Credit Suisse in Hong Kong, where he managed QIS and Structured Derivatives trading. He was also the head of exotic derivatives at UBS in Australia.This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
+
+
+
+
+----------------
+
+Trader Predicts 1,660% Rally for Under-the-Radar Altcoin, Updates Outlook on Shiba Inu and Chainlink - The Daily Hodl
+
+
+								A closely followed crypto strategist believes that astronomical gains are on the horizon for an altcoin initially built on the Ethereum (ETH) blockchain.
+Analyst Ali Martinez tells his 62,100 followers on the social media platform X that the native asset of a supply-chain management project VeChain (VET) appears to be mirroring its previous cycle’s market structure.
+
+
+
+
+
+
+
+
+
+
+If VET continues to follow the script, Martinez predicts that the altcoin will print staggering gains of more than 1,660% before the year expires.
+“Fractals indicate that VeChain (VET) is set for a rebound this summer, with a potentially explosive growth in the fall.” 
+Source: Ali Martinez/X
+Looking at the trader’s chart, he seems to predict that VET will rally to as high as $0.60 toward the end of 2024. At time of writing, VET is worth $0.0339.
+Next up, Martinez says that memecoin Shiba Inu (SHIB) looks poised for a breakout rally.
+“If Shiba Inu breaks the upper boundary of this descending parallel channel at $0.00002444, SHIB could witness a 20% upswing to $0.00002954!” 
+Source: Ali Martinez/X
+A descending parallel channel is typically a bearish structure indicating that an asset is in a downtrend. At time of writing, SHIB is worth $0.0000233.
+The last altcoin on Martinez’s radar is the decentralized oracle network Chainlink (LINK). According to the trader, the Tom DeMark (TD) Sequential Indicator has flipped bullish for LINK.
+Traders use the TD Sequential Indicator to predict potential trend reversals for tokens based on the closing prices of their 13 previous bars or candles.
+Says Martinez,
+“The TD Sequential presents a buy signal on the Chainlink weekly chart, indicating that LINK could experience an upswing lasting one to four weeks.”
+Source: Ali Martinez/X
+At time of writing, LINK is trading at $13.43.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+More Pain For Ethereum? Analyst Predicts "Washout" To $2,700 Amid Regulatory Pressure
+
+
+								Ethereum remains under immense selling pressure, shaving over 30% from March 2024 highs. With prices recently dropping below $3,000 and sellers doubling down, there could be no reprieve for optimistic buyers in the sessions to come. 
+Analyst Expects One More “Washout” To $2,700
+Taking to X, one analyst notes that the coin is still bearish and moving inside a falling wedge. The trader predicts that ETH will continue dropping below immediate support levels. 
+ETH remains bearish | Source: Analyst on X
+In a post, the trader predicts a potential “washout” for ETH that would likely see the coin fall below $2,700. The analyst added that despite the prevailing fear, the overall structure of Ethereum price action remains unchanged. 
+
+The Ethereum candlestick arrangement in the daily chart shows that Ethereum prices are within a bearish breakout formation. Following the sharp losses in mid-April, buyers have yet to unwind losses. 
+Ethereum price trending downward | Source: ETHUSDT on Binance, TradingView
+Accordingly, unless there is no strong push above $3,300 and the descending wedge, the odds of sellers further pressing on remain high. In the current formation, Ethereum has strong support at $2,800. If there is a “washout,” as the analyst says, ETH may fall below $2,700 towards $2,600 and $2,200, two of the immediate support levels.
+Prospects Of Spot Ethereum ETFs Dimming
+ 
+Adding fuel to the bearish fire are growing odds that the United States Securities and Exchange Commission (SEC) might reject the approval of spot Ethereum exchange-traded funds (ETFs) this month. This speculation stems from analysts pointing to the commission potentially classifying Ethereum as a security, derailing ETF approval.
+A finance lawyer on X confirmed that the United States SEC is considering classifying ETH as a security in their upcoming spot ETF decisions. Unlike Bitcoin, whose spot and futures ETFs were approved without such scrutiny, ETH faces this additional hurdle. 
+
+Should the Gary Gensler-led commission deem ETH security, dire consequences would exist. While all spot ETF applications could be denied, there would be more. As part of Grayscale’s Ethereum trusts, ETHE, terms and conditions, if the United States SEC classifies ETH as a security, all ETHE will be liquidated, and the trust closed. 
+In late April, Consensys, led by Ethereum’s co-founder Joseph Lubin, said they are suing the United States SEC to protect the broader crypto ecosystem. By threatening to classify ETH as a security, ConsenSys said the regulator “would jeopardize the United States’ ability to use Ethereum and similar blockchain technology.”
+Feature image from Canva, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+CoinShares brought in $55 million in Q1 2024 in 'strongest quarter ever'
+
+CoinShares reported $55.2 million in revenue, gains, and other income for the first quarter.The EU crypto investment firm’s May 14 earnings report described the total as a 216% year-over-year increase.CoinShares also reported a comprehensive income of $42.9 million for the first quarter, an elevenfold year-over-year increase. It reported earnings before interest, taxes, depreciation, and amortization (EBITDA) of $43.0 million and adjusted earnings per share (EPS) of $0.63.The company held $4.0 billion of crypto, including $2.3 billion of Bitcoin (BTC), $1.6 billion of Ethereum (ETH), and $35 million of other cryptos.CoinShares called the first quarter its “strongest quarter ever” and said it outperformed all quarters since 2021 “in nearly every aspect.”ETFs and the US marketCoinShares CEO Jean-Marie Mognetti described favorable conditions this quarter, including the launch of spot Bitcoin ETFs in the US, which he called a “validation of CoinShares’ initial investment thesis and vision,” and the broader crypto bull market.Mognetti noted the challenge of competing with US spot Bitcoin ETF issuers, including financial giants like BlackRock and Fidelity. He said that the company aims to break even on its spot Bitcoin ETF while profits come from other products.CoinShares commented on its acquisition of Valkyrie Investment’s US-based ETF business. Valkyrie’s spot Bitcoin ETF (BRRR) generated $452.5 million in net inflows, while the Valkyrie Bitcoin Futures Leveraged Strategy ETF (BTFX) produced $44.6 million in net inflows.European activitiesThe company also discussed its European products and operationsCoinShares Digital Securities, which issues the CoinShares Physical suite of ETPs, saw $51 million in outflows from CoinShares Physical Bitcoin (BITC) during the first quarter. The firm attributed the outflows to hedge funds “exiting a popular long European ETP short CME trade.”The firm also reduced BITC fees due to increased competition from US ETFs.CoinShares Digital Securities saw $35 million in inflows into all other crypto products, with half of the relevant inflows from Ethereum, Solana, and Polkadot.XBT Provider, CoinShares’ Nordic-focused crypto ETP, ended the quarter with $3.6 billion. It saw only $240 million in losses in the year’s first quarter compared to $400 million in losses in the first quarter of 2021. The firm expects further losses if the crypto market’s bull run continues.CoinShares’s BLOCK Index, which offers exposure to listed blockchain companies, returned 12.4% and reached $877.3 million in assets under management.Mentioned in this articleLatest Alpha Market Report
+
+----------------
+
+Solana Dev Confesses to Stealing, Gambling Away Cypher User Funds - Decrypt
+
+Cypher protocol contributor “Hoak” confessed to stealing nearly half a million dollars in community funds to feed a growing gambling habit in a public statement on Twitter on Tuesday.“I know likely nothing I say or do will make things better—perhaps other than rotting in jail,” the pseudonymous developer wrote. “To address the elephant in the room, the allegations are true, I took the funds and gambled them away. I didn’t run away with it, nor did anyone else.”According to figures shared by Cypher Protocol core contributor “Barrett,” the stolen funds included $314,674 in USDT, USDC, and Solana (SOL) that were sent to Binance by a wallet associated with Hoak. In addition, the same wallet amassed over $184,077 in ETH, RLB, ORCA, RAY, USDT, USDC,  BONK, JitoSOL, mSOL, and WSOL.Hoak’s public confession appears to have been triggered by a simmering investigation that began on the Cypher Protocol Discord server. Cypher Protocol is a cross-margin decentralized exchange on the Solana blockchain.“First and foremost I would like to deeply apologize to all affected parties, I know at this point nothing is going to take back my actions, and I have to face the consequences, [and] I am also in no way, shape, or form attempting to victimize myself,” Hoak wrote. “But this is the culmination of what snowballed into a crippling gambling addiction and probably multiple other psychological factors that went by unchecked for too long.”In the confession, Hoak said the situation that led to the Cypher Protocol theft dates back to an unexplained event at the first Solana Breakpoint conference in November 2021.“The victims were my brother and Max from Mango DAO,” Hoak wrote. “Coincidentally, what someone else did to me and my brother was the same thing I ended up doing to Max.”The October 2022 Mango Markets hack allowed thieves to make off with $100 million in funds.According to Hoak, after an unnamed previous project failed to get off the ground, he began working with Cypher Protocol, which offers access to margined spot and derivatives markets and borrowing and lending services.“I’d found my footing with Cypher,” he recalled. “These guys became family to me, I loved them and the mission we had, I worked and worked, I tried to innovate within the DEX design space, I failed, I worked some more, and I broke.”Cypher Protocol core contributor Barrett subsequently posted details of the theft on Twitter, including Hoak’s wallet address, alleging that the theft happened via 36 withdrawal transactions over months.“This is incredibly saddening to me,” Barrett wrote. “I never thought this would be a possibility, having a core contributor who stayed on after the [Mango] exploit to try and rebuild the project be the one who rugged funds from the redemption contract.”As Barrett explained, the theft was first detected when a member of the Cypher Protocol Discord server reported that they were unable to withdraw funds, which Hoak said he would resolve. However, the user reported they could not withdraw after the deadline Hoak provided.“I have reached out to law enforcement with the information in the below document,” Barrett said, posting a link to a Google Docs document containing extensive details about the theft.Taking to Twitter, Internet Sleuth ZachXBT said he knew Hoak, adding that he helped the Cypher Protocol team with an exploit in 2023. As a result of that collaboration, ZachXBT said he had Hoak’s personal information.When Decrypt inquired about whether ZachXBT intended to share that information with law enforcement, he replied, “As needed yes.”“I currently have no energy left whatsoever and considering no one is going to want anything to do with me after all this, I believe there’s no way forward, and it’s actually over for me,” Hoak wrote. “Whatever comes next is in God’s hands.”“I’m sorry I fucked up,” his Twitter thread concluded.Hoak and Barrett did not immediately respond to a request for comment from Decrypt.Edited by Ryan Ozawa.Stay on top of crypto news, get daily updates in your inbox.
+
+----------------
+
+Bitcoin Echoes 2016 Trends, Predictions Suggest Surge to $350,000 in Current Cycle
+
+
+
+                    
+
+Bitcoin‘s trajectory is mirroring its post-2016 halving event, with current analyses suggesting a potential local bottom and future peaks reaching up to $350,000 in this cycle, as observed by cryptocurrency traders.
+
+
+
+Rekt Capital, a pseudonymous crypto trader, noted in a May 11 post on X (formerly Twitter) that Bitcoin’s pattern closely follows its 2016 behavior. 
+
+
+
+
+“Bitcoin has repeated 2016 history perfectly, offering a downside wick below the bottom of its current re-accumulation range within a three-week window after the Halving,” Rekt Capital stated. 
+
+
+
+At this stage in the cycle, the reaccumulation range is defined as any price under $61,081. Presently, Bitcoin’s trading price slightly lags this benchmark at $60,901, based on CoinMarketCap data.
+
+
+
+Rekt also pointed out that Bitcoin is in the last “pre-halving retrace” phase, which in 2016 led to a significant 48% price increase six months later, reaching $973 by December 30.
+
+
+
+
+Despite the current prices, Timothy Peterson, founder and investment manager at Cane Island Alternative Advisors, sees a promising outlook based on the price drawdown from the all-time high (ATH) chart. 
+
+
+
+This chart tracks the decline from Bitcoin’s highest price point to its lowest within a certain period. 
+
+
+
+Peterson stated, “Based on adoption and prior drawdowns, we can guesstimate that the peak value of this cycle would be between $175,000 – $350,000 in the next 9 months.” 
+
+
+
+He anticipates the bull market concluding by January 2025.
+
+
+
+
+READ MORE: Binance Receives Approval to Operate in India, Joins KuCoin as Second Offshore Crypto Exchange Cleared by FIU
+
+
+
+Additionally, another indicator, the daily 100 moving average, is being closely watched by analysts. 
+
+
+
+This average, which forecasts long-term Bitcoin price trends, is calculated by summing up the last 100 days’ prices and dividing by 100. 
+
+
+
+According to Daan Crypto traders, this indicates that Bitcoin might be near its local bottom. 
+
+
+
+In their May 11 post, they drew comparisons to a similar trend observed following the approval of 11 spot Bitcoin exchange-traded funds in January. 
+
+
+
+A subsequent 32% price rise to $51,730 by February 25 supported their analysis.
+
+
+
+Daan Crypto traders concluded with a cautious optimism: “Support until it isn’t, but bulls need to put in some work.” 
+
+
+
+This sentiment underscores the dynamic and speculative nature of Bitcoin’s market movements, hinging on both historical patterns and evolving market conditions.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Brazil Upholds Crypto Donations Ban for Political Parties
+
+
+                        
+                            Brazil Upholds Crypto Donations Ban for Political Parties and Candidates                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 14, 2024 19:30 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Brazilian authorities have upheld a ban on the use of crypto donations to fund political parties and candidates’ electoral campaigns in the country.In a ruling published on its website, the nation’s electoral court (Tribunal Superior Eleitoral, or TSE for short) wrote that it would “maintain” an existing “ban on the use of donations made in cryptocurrency.”The TSE’s ruling covers the period up until the 2024 municipal elections. Polls are slated for October 6 this year. A run-off vote is scheduled for October 27.Blow to Community as Brazil Upholds Crypto Donations Ban
+Brazilians go to the polls in October to vote for mayors, deputy mayors, and local councilors in over 5,500 regions.The new ruling effectively updates the existing regulations surrounding the funding of political campaigns. The TSE wrote:“The payment of electoral expenses with virtual currencies and pre-paid cards managed by third parties is prohibited.”The headquarters of the Brazilian electoral court. (Source: Senado Federal [CC BY 2.0])The TSE explained its reasons for upholding the ban, claiming its rules “aim to ensure transparency and the proper tracking of donations made to political campaigns.”It said the ruling was made “in accordance” with its “legal and accountability requirements.”The electoral regulator said that its updated rules would reinforce its “commitment to supervise the fairness of the electoral process.”It added that it would continue to “protect elections against irregular or illicit practices.”Banks Must Handle Political Donations, Says Regulator
+The rules stipulate that donations to the value of just over $200 “must only be made by bank transfer,” and would be subject to cross-checking.“All” crypto donations, even contributions worth less than $200, remain banned. The TSE first explicitly banned crypto as a donations tool in December 2019.It has subsequently updated its guidelines on several occasions. In each case, it has explicitly banned crypto donations.Crypto community members had been hoping for a change, considering the phenomenal rate of adoption in Brazil and the wider LATAM region.Regulator Orders Candidates to Abide by Rules
+The TSE also instructed all candidates to detail their expenses and donated income in mandatory financial statements.The body warned that those who fail to adhere to its rules could face censure from the Public Prosecutor’s Office and its own court system.Last month, Nubank, the country’s biggest neobank and the third-largest company in Brazil by market cap, announced it would begin allowing its customers to make Bitcoin and Ethereum withdrawals from its banking app.                                                    
                         	                                            
                         
                         
