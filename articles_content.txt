@@ -1,233 +1,3 @@
-Sonne Finance Loses $20M to “Known Donation Attack” - DailyCoin
-
-
-        
-
-Sonne Finance has been exploited.
-
-
-
-Assets worth millions of dollars were stolen following the attack.
-
-
-
-The protocol has initiated the recovery process.
-
-
-
-
-Sonne Finance has lost millions of dollars to a “known donation attack” on its Compound v2 forks on Arbitrum, the protocol announced on Wednesday.
-
-
-
-Launched in September 2022, Sonne Finance brands itself as a decentralized, non-custodial liquidity market protocol on Optimism Mainnet and Base. The protocol allows users to deposit their assets as collateral for borrowing various assets against them, including WBTC, WETH, USDT, USDC, and DAI.
-
-
-
-Sonne Finance Suffers an Attack
-
-
-
-On May 15, blockchain security firm Cyvers alerted the X (Twitter) crypto community to an attack on Sonne Finance, estimating that $3 million had been stolen from the protocol’s USDC and WETH contracts.
-
-
-
-
-Without directly addressing the issue, the Sonne Finance team informed its users two hours later that “all markets on Optimism have been paused,” urging them to stay tuned for more updates.
-
-
-
-
-
-
-
-Hours after its first update, Sonne Finance issued a detailed post-mortem of the incident, noting that the attacker had exploited four of the multiple transactions scheduled by the protocol on May 12 as part of its plan to integrate VELO markets.
-
-
-
-“After the execution of the markets without us noticing, the attacker was able to exploit the protocol for ~$20M with the known donation attack,” the Sonne Finance team wrote.
-
-
-
-Noting that it became aware of the incident 25 minutes later, Sonne Finance said it had assembled a “war room” to investigate the exploiter’s identity to recover the stolen funds.
-
-
-
-
-“We are ready to give bounty to exploiter as well as not to commit pursuing the issue further, in case of returning the funds.” The protocol said.
-
-
-
-Per the post-mortem report, besides doing everything in its “power,” Sonne Finance is in “contact with anyone that can help with recovering the funds.”
-
-
-
-Stay updated on North Korea’s malware targeting crypto exchanges:How North Korea’s Durian Malware Targets Crypto ExchangesRead how Parity Wallet hacker began laundering stolen loot after seven years of inactivity:Parity Wallet Hacker Launders $9M After Seven Years Hiatus
-
-    
-              
-    
-
-----------------
-
-BTC Settles at $62K Ahead of US CPI Numbers, FLOKI Skyrockets 14% (Market Watch)
-
-
-																Bitcoin’s price faced enhanced volatility yesterday morning and later on during the day, but the asset has calmed at around $62,000 ahead of the April US CPI numbers.
-Most altcoins are in the red now, though, with ETH declining to $2,900 and BNB losing more than 3% of value.
-BTC Calms at $62K
-The primary cryptocurrency had a controversial end to the previous week as it had soared to almost $64,000 on Friday when a rapid and violent correction brought it south by more than three grand. As a result, the asset fell to $60,150 at the end of the day.
-The bulls managed to intercept the move and didn’t allow a price drop to under $60,000. Just the opposite, BTC reclaimed some ground during the weekend and stood primarily around $61,000. Monday saw a more impressive price increase that pushed bitcoin to just over $63,400.
-However, the cryptocurrency failed to maintain its run and dropped back down to $61,200 amid some Coinbase issues. More volatility ensued during the day, but BTC has climbed slightly to just over $62,000 now. More fluctuations are expected later today as the US CPI numbers for April will be announced in a few hours.
-
-
-Thanks for subscribing, you will get your first report in the next hours!
-
-
-As of now, bitcoin’s market cap stands at just over $1.220 trillion, while its dominance over the alts has increased to 51.4%.
-Bitcoin/Price/Chart 15.05.2024. Source: TradingView
-FLOKI Keeps Pumping
-Several meme coins charted impressive gains yesterday, and the landscape for a few of them has only gotten better. FLOKI is today’s top performer from the largest 100 crypto assets, having soared by about 14%. As a result, the meme coin now trades at $0.00022.
-Pepe (5%) and AR (6%) follow suit, while WLD (-8%), ENA (-8%), TIA (-7%), WIF (-5%), and STX (-5%) have lost the most value within the same timeframe.
-BNB, DOGE, ADA, SOL, and AVAX have declined the most from the larger-cap alts, while ETH is close to breaking below $2,900 after another minor correction.
-The total crypto market cap has remained at almost the same spot as yesterday, at just under $2.4 trillion.
-Cryptocurrency Market Overview. Source: QuantifyCrypto
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
-Disclaimer: Information found on CryptoPotato is those of writers quoted. It does not represent the opinions of CryptoPotato on whether to buy, sell, or hold any investments. You are advised to conduct your own research before making any investment decisions. Use provided information at your own risk. See Disclaimer for more information.
-
-Cryptocurrency charts by TradingView.
-
-
-						
-																		
-										
-					
-					
-
-
-----------------
-
-Solana (SOL) Beats Ethereum for First Time in History, But There's a Catch
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-On May 12, Solana generated more Total Economic Value (TEV) than Ethereum in a single day. This marks the first time Solana has outpaced Ethereum in its history, but there is always a catch.Breaking down the dataAccording to Blockworks Research, Solana generated $2,248,681 in TEV on May 12, surpassing Ethereum's $1,977,416. TEV combines transaction fees and miner/extractor value (MEV). TEV is often used to analyze the utility and adoption of a blockchain network. Chris Burniske, the former Ark Invest analyst, commented on the whole thing, stating that we should keep an eye on L1s that are keeping up their annual expansion in the form of TEV.  Higher TEV can indicate greater usage and demand, which can, in turn, provide more flexibility in the economic policies of the network.There's a problemHowever, the achievement has sparked some debate between Solana and Ethereum users. Critics argue that comparing Solana's TEV with Ethereum's without considering layer-2 (L2) solutions is misleading. L2 solutions are built on top of Ethereum to enhance scalability and reduce fees, effectively offloading some of the activity from the main Ethereum blockchain (L1), while remaining a crucial part of it. As one commentator pointed out, "Since some ETH activity has moved to L2s, wouldn't we include that? Come on Chris, this is just disingenuous if you don’t take L2s into account."Despite the criticism, comparing TEV across blockchains remains valuable. As Burniske explained, each L2 operates in its own blockspace environment, and TEV comparisons are typically made on an L1-to-L1 basis. However, some may disagree with such an approach and consider L2s an inseparable part of larger ecosystems like Ethereum, which has struggled due to high fees in the past. For now, Ethereum fees sometimes drop even below Tron's.
-
-
-
-----------------
-
-PEPE's Market Cap Eyes $5 Billion After the Price Hit Another ATH
-
-
-																TL;DR
-
-Pepe (PEPE) has recently soared to an all-time high, achieving a market capitalization of nearly $5 billion.
-Despite its inherent risks due to volatility, PEPE has garnered significant support from key figures in the cryptocurrency world and major exchanges, leading to substantial profits for its investors.
-
-
-PEPE Solidifies the Status of a Top Meme Coin
-The frog-themed meme coin – Pepe (PEPE) – has been crypto’s rock start in the past few days, with its price soaring by approximately 100% on a monthly scale. It hit a fresh all-time high today (May 15), whereas its market capitalization pumped to almost $5 billion. The progress is quite significant considering the fact that the figure stood at around $500 million at the start of the year.
-
-PEPE Market Cap, Source: CoinGecko
-The latest ascent solidified PEPE as the third-largest cryptocurrency in the meme coin realm. Shiba Inu (SHIB) is second with a market cap of $14 billion, while Dogecoin (DOGE) leads the pack with over $21 billion.
-Somewhat expectedly, PEPE’s resurgence has benefited investors. According to IntoTheBlock, 100% of the coin’s holders stood at paper profits several hours ago. Currently, the percentage is just as impressive, pointing at 98%.
-PEPE’s Success in the Past Year
-The meme coin, built on the Ethereum blockchain, saw the light of day in April 2023, catching the eye of industry participants almost immediately. 
-
-
-
-
-It received support from prominent figures in the crypto community while leading exchanges enabled trading services with it. Binance, Coinbase, OKX, Bybit, and Bitget are some notable examples that embraced PEPE. 
-The asset also allowed savvy traders to make multi-million profits. However, people should also keep in mind that tokens of that type can also be quite risky due to their volatile nature, potentially leading to devastating losses. If you are about to enter the ecosystem, please check our dedicated video to secure yourself from some common mistakes:
-VIDEO
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 for CryptoPotato readers at Bybit: Use this link to register and open a $500 BTC-USDT position on Bybit Exchange for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-Crypto expert PlanB reveals when Bitcoin will ‘go vertical’
-
-
-With the majority of assets in the cryptocurrency sector slowing down their gains, including the market’s representative, Bitcoin (BTC), the situation may soon change, particularly as Bitcoin miner revenue recovers, according to the observations of a renowned crypto trading expert.
-Specifically, the historical trends show that Bitcoin miner revenue tends to recover in two to five months after the halving, and after that, the price of Bitcoin “goes vertical” as the crypto analyst and creator of the stock-to-flow (S2F) model in predicting Bitcoin’s price, PlanB pointed out in an X post on May 14.
-Bitcoin miner revenue over time. Source: PlanB
-Indeed, monthly Bitcoin miner revenue has consistently grown over time and has recorded peaks in the months following the halving event, coinciding with a high relative strength index (RSI), which has tended to increase alongside revenue and then drop to below 70 as it consolidates – generally a bullish sign.
-
-
-BTC price prediction
-Earlier, PlanB offered his views regarding the price of the maiden crypto asset for the next several years, refreshing the S2F model with new data that places an average price of Bitcoin for the 2024-2028 halving cycle at $500,000, with the following cycle, 2028-2032, looking at a whopping $4 million.
-In terms of Bitcoin’s price this year, the analyst has expressed confidence in the flagship decentralized finance (DeFi) asset hitting $100,000 in the second half of 2024, driven by the tendency of mining revenue to recover following the halving event, with the market peak expected in 2025.
-Bitcoin price analysis
-For now, Bitcoin is changing hands at the price of $62,120, recording a modest gain of 0.43% in the last 24 hours while still writing down a loss of 0.33% across the previous seven days and an accumulated decline of 6.31% on its monthly chart, as per the latest data on May 15.
-Bitcoin price 7-day chart. Source: Finbold
-All things considered, experts’ opinions and historical trends are all working in Bitcoin’s favor, and its price might, indeed, follow this set path. However, the situation in the crypto industry can sometimes take a surprising turn, so doing one’s own research is critical when investing.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
-
-
-----------------
-
-Circle Shifts Headquarters to US Before Upcoming IPO
-
-
-Circle Internet Financial Ltd., the issuer of the USDC stablecoin, is making a strategic move to re-domicile its legal base. The company plans to move its legal headquarters from the Republic of Ireland to the United States (US).
-This decision comes ahead of its highly anticipated initial public offering (IPO). Many see this move as a significant shift for the company as it navigates the regulatory environment and seeks to bolster market confidence.
-Moving to the US Might Pose Challenges for Circle
-A Bloomberg report recently shared a confirmation from a Circle spokesperson. They confirmed the filing of necessary court paperwork for the move on Tuesday. However, they did not share the reasons for the decision.
-BeInCrypto previously reported that Circle had already filed for the IPO to the US Securities and Exchange Commission (SEC) in January. Yet, the company did not disclose the number of shares it plans to dilute or the price range of its shares.
-
-On the other hand, moving to the US may pose challenges for Circle, including stricter taxes and a complex regulatory scene. Indeed, the regulation of cryptocurrencies and stablecoins in the US has been uncertain.
-Read more: Top 5 Crypto Companies That Might Go Public (IPO) in 2024
-Notably, Ripple Labs, the company behind the XRP cryptocurrency, has faced significant legal challenges with the SEC. This challenge caused Ripple to halt its IPO plans in the US and consider alternatives abroad.
-Therefore, Circle’s move suggests a strategic bet on regulatory clarity in the US. Depending on upcoming regulatory decisions, this could either boost or hinder its growth.
-Despite potential obstacles, Circle’s CEO, Jeremy Allaire, remains optimistic about the future of stablecoins and their regulatory environment. At the Milken Institute Global Conference 2024, Allaire emphasized the importance of regulatory clarity, scalable technology, and user-friendly applications to widen USDC adoption and integration.
-
-
-“I’ve always said you need regulatory clarity. You need the technology to become much more scalable and useable. And then, you need the people, the mainstream applications that people are going to be interacting with this, whether you are a business accepting a payment or an end user, you need those to connect up to that. All those three have been happening. We’re getting regulatory clarity on payment stablecoins all around the world and almost every jurisdiction we have a payment stablecoin act that’s at the proverbial one yard line here in the US,” Allaire said.
-
-
-VIDEO
-
-Allaire’s confidence is further evidenced by Circle’s collaborations with traditional finance giants such as BlackRock. Last month, Circle announced a new exchange feature for BlackRock’s USD Institutional Digital Liquidity Fund (BUIDL) investors. They can now exchange their tokenized real-world assets for USDC.
-According to CoinGecko data, USDC is the second-largest stablecoin in terms of market capitalization. As of May 15, USDC has a market capitalization of $32.86 billion. 
-
-This represents nearly 21% of the stablecoin market share. It trails behind Tether’s USDT, which has a market capitalization of $110.86 billion and a 70.75% market share.
-Read more: A Guide to the Best Stablecoins in 2024
-Stablecoins Market Shares. Source: CoinGecko
-In 2022, USDC and USDT were in close competition. In July 2022, USDC held over 40% of the market share, compared to USDT’s roughly 50%.
-However, 2023 brought challenges for Circle, particularly due to banking issues in the US. Part of USDC’s reserves were held with Silicon Valley Bank, which faced financial troubles. This caused USDC to temporarily lose its peg, raising concerns among users and investors.
-As Circle prepares for its IPO and re-domiciles to the US, its actions reflect a strategic pivot to align with US financial regulations and market dynamics. With its strong industry partnerships and commitment to regulatory clarity, this move also positions Circle to strengthen its place in the stablecoin market.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
 Ripple Bolsters Position As A Digital Asset Custody Provider
 
 
@@ -9194,3 +8964,283 @@ Floki FLOKI/USD extended its winning streak Wednesday, notching up impressive ga
 Bitcoin crosses $66K as traders eye 2 key indicators for $70K target
 
 Bitcoin (BTC) jumped 7.54% in the past 24 hours and pushed past $65,000 amid positive United States inflation data with traders now keeping an eye on two key indicators for a potential rise to $70,000.Pseudonymous crypto trader Blockchain Mane told Cointelegraph they are closely observing the Gann Fans model — a key indicator which analyzes the geometric and cyclical movement of the crypto market — to see if Bitcoin can “remain bullish.”“Gann Fans are interesting, almost like a time and price momentum indicator,” they said, explaining it helps to better visualize the market cycles and price action.The Gann square consists of a 5x5 grid, column 1 is the start of the cycle. Source: Blockchain Mane“In terms of Gan timing, we are at a pivot in the market cycle, directly in the center of the current square. if we pivot to the upside, then we can see a markup phase until the end of May,” they explained.However, they warned, “if we lose this break then we will probably see the sideways, downtrend continuation until the end of May.”The pattern has stood out to the Blockchain Mane on the same day that core inflation fell to its lowest levels since 2021, at just 3.6% — potentially strengthening the case for interest rate cuts.Blockchain Mane is now looking for Bitcoin to flip its “previous resistance” price level of $63,000 to become its new support level, claiming this will be a “bullish indicator.”Bitcoin is currently trading at $66,085. Source: CoinMarketCapThey would rather see “sideway price action” here while more narratives build up, otherwise, they claim it may hinder the potential for altcoins to gain.“If BTC pumps here and gets rejected, Alts will probably get hammered as Bitcoin’s dominance continues to rise, Alts are becoming more and more glued to BTC price action.”Bitcoin’s dominance — the ratio of Bitcoin’s market cap compared to the total market cap of all other cryptocurrencies — has risen 2.23% to 55.99% over the past seven days, according to TradingView data.Related: Bitcoin selling pressure to ease? M2 money supply flips positiveMeanwhile, the inverse head-and-shoulders pattern — a bullish indicator signaling the downtrend is easing and buyers are gaining market dominance — is one of the indicators showing that Bitcoin is due “for a bounce,” pseudonymous crypto trader Milkybull Crypto told his X followers on May 15.Source: Milkybull CryptoThe inverse head-and-shoulders pattern forms as a reversal setup and includes an “inverted” head and shoulders, with the left and right shoulders upside down below the neckline. If the pattern continues, Bitcoin’s price could reach its next key price level of $70,000 before potentially breaking its current all-time high price of $74,580, according to Milkybull Crypto.This represents an approximate 12% jump from its current price of $66,085, according to CoinMarketCap data.Magazine: UK cannabis millionaire’s legal ‘deals on wheels’ via cryptoThis article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+----------------
+
+Bitcoin ETF 13F filings 'just a down payment' on BTC: Exec - AMBCrypto
+
+
+
+So far, professional investment firms own about $3 billion of BTC ETFs.
+Bitwise exec term $3B as a ‘down payment’ as allocation will increase in 6 months. 
+
+Despite the discouraging market choppiness, Bitcoin’s [BTC] future seems bright and full of unimaginable potential. 
+According to Bitwise CIO Matt Hougan, flows to BTC ETFs could surge as large firms increase their allocation in the next six months. 
+Hougan maintained an uber-bullish stance on BTC’s future after many confirmed professional firms held BTC ETFs after recent 13F filings. 
+“I find the 13F filings for Bitcoin ETFs extraordinarily bullish for the long-term future of Bitcoin.” 
+It has been challenging to know the buyers or sellers of spot BTC ETFs that debuted in January. However, the 13F filings have solved the problem. 
+The 13F filings, filed every quarter, are one of the SEC’s requirements for investors holding more than $100 million in AUM (assets under management) to report their holdings publicly. 
+For instance, the Boston-based Bracebridge Capital reportedly bought $262 million of Fidelity’s BTC ETF (ARKB) based on the filings. 
+Why the 13F filings are a bullish case for Bitcoin
+Since their January debut, the spot BTC ETFs have seen $11.8 billion in cumulative net flow and over $50 billion in net assets, per SoSo Value data. 
+Based on recent 13F filings as of last Thursday, professional investment firms owned $3.5 billion of spot BTC ETFs, per Bitwise exec. 
+Part of Bitwise CIO statement on the filing read, 
+“All told, 563 professional investment firms reported owning $3.5 billion worth of bitcoin ETFs as of last Thursday. By the time the May 15 filing deadline arrives, I suspect we may end up with 700+ professional firms and total AUM approaching $5 billion.” 
+Bloomberg ETF analyst called the above huge number of BTC large-scale investors ‘bonkers.’
+“What is also notable IMO is the sheer number of holders that each has so far.. $IBIT is up to 250. That’s bonkers for the first quarter on mkt.”
+According to Huogan, the large-scale professional investment firms holding BTC ETFs were comparable to none, except the gold ETFs in late 2004. 
+However, retail investors owned more BTC ETFs than large-scale firms. Hougan noted that the investment firms owned about $3-$5 billion of BTC ETFs, about 7-10% of the ETF’s  $50 billion in total assets. 
+But Hougan argued that professional investors could soon eclipse retail investors. Hougan noted that professional investors are testing out things before exposing their clients. 
+According to the Bitwise exec, the next step will involve professional investors allocating for a ‘few clients’ before going to a platform-wide allocation ranging from ‘1-5% of the portfolio’ in the next six months. 
+It meant the amount declared in the 13F filings could increase in the next six months, making the current declarations a ‘down payment.’
+‘This tells me that the allocations we see in recent 13F filings are just a down payment.’
+If Hougan’s outline comes true for professional investment firms, we could see an increase in flows from large firms in the second half of 2024. This could potentially bolster BTC prices over the same period. 
+
+
+
+
+
+
+----------------
+
+Vanguard’s new boss says Bitcoin ETF not on the table: Report
+
+The new chief executive of United States investment giant Vanguard has said he won’t reverse the company’s decision to not launch a spot Bitcoin (BTC) exchange-traded fund.Vanguard’s new CEO, Salim Ramji — the former head of BlackRock’s global ETF business — told Barron’s in an interview published May 15 that Vanguard stands for consistency and crypto-related investment products do not align with its “investment philosophy.” “I think it’s important for firms to have consistency in terms of what they stand for and the products and services they offer,” said Ramji. “I have heard [chief investment officer] Greg Davis’ explanation and I think it is entirely consistent with Vanguard’s investment philosophy. It is a logical and consistent point of view.”Ramji oversaw the launch of BlackRock’s spot Bitcoin ETF in January, the iShares Bitcoin Trust (IBIT), which has amassed $18 billion in assets under management.He has openly expressed his interest in crypto and his move to Vanguard had industry watchers speculating on what changes he would make at the firm.Salim Ramji. Source: VanguardAlongside BlackRock’s ETF launch, its rivals including Fidelity and nine other investment managers also launched spot Bitcoin funds which have together seen over $12 billion in net inflows.Vanguard, with its $8.6 trillion in AUM, opted for a different approach and didn’t launch a Bitcoin ETF — viewing crypto as a speculative investment and an immature asset class.Bloomberg ETF analyst James Seyffart said in a May 15 X post he doesn’t believe Ramji would usher in a Vanguard spot Bitcoin ETF.Seyffart said, however, that Ramji might reverse the firm’s position to not allow its clients to buy other spot Bitcoin ETFs on its brokerage platform.Vanguard’s outgoing CEO, Tim Buckley, said in March that he didn’t believe a Bitcoin ETF belongs in a long-term portfolio of someone saving for their retirement as it’s a speculative asset.His comments followed pressure from customers after the launch of the Bitcoin ETFs from rival firms.Related: JPMorgan reports holding shares of several spot Bitcoin ETFsIn January, a number of Vanguard clients threatened to close their accounts over the firm blocking access to spot Bitcoin ETFs. Meanwhile, Vanguard was indirectly exposed to Bitcoin through its stake in MicroStrategy — where it is the second-largest institutional shareholder.Rival investment firms are reveling again as flows turn positive in the wake of Bitcoin’s 7% move to reclaim $66,000 on May 16. Net inflows for May 15 across all U.S spot Bitcoin ETFs were over $300 million — excluding BlackRock’s IBIT whose results had yet to be reported, according to preliminary Farside Investors data.Magazine: Meme coins: Betrayal of crypto’s ideals… or its true purpose?
+
+
+----------------
+
+Ethereum Price Recovery Trails Behind Bitcoin's Surge in Crypto Rebound
+
+
+																Ethereum price recovered above the $2,920 resistance. ETH is trailing Bitcoin and might struggle to continue higher above the $3,050 resistance.
+
+Ethereum started a recovery wave and even climbed above $3,000.
+The price is trading above $2,950 and the 100-hourly Simple Moving Average.
+There was a break above a key bearish trend line with resistance at $2,900 on the hourly chart of ETH/USD (data feed via Kraken).
+The pair could now struggle to clear the $3,040 and $3,050 resistance levels.
+
+Ethereum Price Recovers Nearly 5%
+Ethereum price remained stable above the $2,860 support zone and started a fresh increase. ETH gained nearly 5% but less than Bitcoin. There was a break above a key bearish trend line with resistance at $2,900 on the hourly chart of ETH/USD.
+The bulls pumped the price above the $2,950 and $3,000 levels. A new weekly high was formed at $3,039 and the price is now consolidating gains. It tested the 23.6% Fib retracement level of the recent wave from the $2,860 swing low to the $3,039 high.
+Ethereum is still well above $2,950 and the 100-hourly Simple Moving Average. Immediate resistance is near the $3,040 level. The first major resistance is near the $3,050 level.
+Source: ETHUSD on TradingView.com
+An upside break above the $3,050 resistance might send the price higher. The next key resistance sits at $3,150, above which the price might gain traction and rise toward the $3,220 level. If there is a clear move above the $3,220 level, the price might rise and test the $3,350 resistance. Any more gains could send Ether toward the $3,500 resistance zone.
+Are Dips Supported In ETH?
+If Ethereum fails to clear the $3,050 resistance, it could start a downside correction. Initial support on the downside is near the $3,000 level. The first major support is near the $2,950 zone or the 50% Fib retracement level of the recent wave from the $2,860 swing low to the $3,039 high.
+The next support is near the $2,930 level. A clear move below the $2,930 support might push the price toward $2,900. Any more losses might send the price toward the $2,860 level in the near term.
+Technical Indicators
+Hourly MACD – The MACD for ETH/USD is losing momentum in the bullish zone.
+Hourly RSI – The RSI for ETH/USD is now above the 50 level.
+Major Support Level – $2,950
+Major Resistance Level – $3,050
+																								
+															
+
+
+						
+
+----------------
+
+Baby Doge on Sol (DOGESOL) to Skyrocket 13,000% as BitMart Listing Announced, While Shiba Inu and Dogecoin Struggle
+
+
+
+                    
+
+Baby Doge on Sol (DOGESOL) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Baby Doge on Sol (DOGESOL), a new Solana memecoin that was launched today, is poised to explode over 14,000% in price in the coming days.
+
+
+
+
+This is because DOGESOL has announced its first centralized exchange listing, which will be on BitMart.
+
+
+
+This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
+
+
+
+Currently, Baby Doge on Sol can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Baby Doge on Sol could become the next viral memecoin.
+
+
+
+Baby Doge on Sol launched with over $6,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
+
+
+
+To buy Baby Doge on Sol on Raydium or Jupiter ahead of the BitMart listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Baby Doge on Sol by entering its contract address – G5GEMyeea1HqS2KnpazPiMuTy3sqS1UdQegsbNLGpF7U – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like DOGESOL.
+
+
+                
+
+                
+
+----------------
+
+Boothbay Bitcoin ETF Investment Now Accounts For The Largest Proportion Of IBIT With $150M - Coincu
+
+
+
+	
+
+Key Points:
+
+
+
+
+Boothbay Fund Management disclosed $5.2 billion in Bitcoin ETF holdings, becoming the largest shareholder in BlackRock’s Bitcoin ETF.
+
+
+
+Boothbay Bitcoin ETF investments include $149.8 million in BlackRock’s Bitcoin ETF, $105.5 million in Fidelity’s Bitcoin ETF, and $69.5 million in Grayscale Bitcoin Trust.
+
+
+
+Boothbay’s significant cryptocurrency investments highlight growing institutional adoption and positive market sentiment.
+
+
+
+
+In a recent SEC filing, Boothbay Fund Management, one of the largest US-based fund companies, disclosed substantial investments in several Bitcoin ETFs, emphasizing the growing institutional interest in cryptocurrency assets.
+
+
+
+
+
+Boothbay Bitcoin ETF Investment Overweights BlackRock, Fidelity, and Grayscale Bitcoin ETFs
+
+
+
+The 13F form, a quarterly requirement for large investment firms to ensure transparency in financial markets, revealed Boothbay’s significant positions in BlackRock, Fidelity, Grayscale, and Bitwise Bitcoin ETFs.
+
+
+
+Boothbay Bitcoin ETF investment amounts to a staggering $5.2 billion. The firm holds 3,701,600 shares of BlackRock’s iShares Bitcoin ETF, valued at approximately $149.8 million, making it the largest shareholder in this ETF. Additionally, Boothbay owns 1.7 million shares of Fidelity’s Wise Origin Bitcoin ETF, worth about $105.5 million, also positioning it as the top holder.
+
+
+
+The firm’s other notable holdings include $69.5 million in Grayscale Bitcoin Trust (GBTC) and over $52 million in Bitwise Bitcoin ETF, further solidifying Boothbay’s dominant presence in the Bitcoin ETF market.  Beyond Boothbay Bitcoin ETF investment, the company’s portfolio encompasses diverse ETFs, such as the SPDR S&P 500 ETF Trust and the iShares Russell 2000 ETF. 
+
+
+
+
+Institutional Adoption Drives Positive Market Sentiment
+
+
+
+The disclosed positions reflect only a portion of Boothbay’s total Assets Under Management (AUM), indicating that the firm’s actual investments are even more extensive. The detailed SEC filings also revealed Boothbay’s trading activity in shares of companies like Coinbase, MicroStrategy, and Robinhood Markets, illustrating a broader engagement with the cryptocurrency sector.
+
+
+
+This substantial investment in Bitcoin ETFs by Boothbay and other major hedge funds underscores a growing trend of institutional adoption of digital assets, contributing to positive market sentiment. The influx of capital into these ETFs is expected to continue driving market momentum in the coming weeks. As Coincu reported, the Wisconsin Investment Council, Bank of Montreal and JPMorgan also recently revealed their Bitcoin ETF investments.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 10 times, 10 visit(s) today
+
+	
+	
+
+
+
+	
+
+----------------
+
+Millennium Management Bitcoin ETF Accounts For 3% Of Its Portfolio - Coincu
+
+
+
+	
+
+Key Points:
+
+
+
+
+Millennium Management Bitcoin ETF investment currently reaches nearly $2 billion, signaling strong institutional interest.
+
+
+
+Major institutions like the State of Wisconsin Investment Board and JPMorgan Chase have disclosed significant Bitcoin ETF holdings.
+
+
+
+Numerous 13F filings reveal increasing investments in Bitcoin ETFs, highlighting their growing acceptance in traditional finance since January 2024.
+
+
+
+
+Millennium Management, a global investment management firm, has revealed a substantial allocation into spot Bitcoin exchange-traded funds (ETFs), according to a recent SEC filing. 
+
+
+
+
+
+Millennium Management Bitcoin ETF Investment Reaches Nearly $2 Billion
+
+
+
+The move underscores the growing interest in Bitcoin ETFs among major institutional players. The firm disclosed holdings amounting to 3% of its $64 billion fund, translating to nearly $2 billion in spot Bitcoin ETFs.
+
+
+
+The SEC 13F-HR institutional investment manager holdings report, filed recently, detailed Millennium’s diversified Bitcoin ETF portfolio. Millennium Management Bitcoin ETF investment includes $844.2 million in BlackRock’s IBIT, $806.7 million in Fidelity’s FBTC, $202 million in Grayscale’s GBTC, $45 million in Ark’s ARKB, and $44.7 million in Bitwise’s BITB.
+
+
+
+Millennium Management Bitcoin ETF investment comes amid a broader trend of institutional adoption of Bitcoin ETFs. Just a day earlier, the State of Wisconsin Investment Board (SWIB) disclosed its own Bitcoin ETF investments, comprising nearly $100 million in BlackRock’s IBIT and $62 million in Grayscale’s GBTC.
+
+
+
+
+Surge in Bitcoin ETF Filings Reflects Growing Financial Sector Interest
+
+
+
+The latest surge in 13F filings has revealed that numerous financial giants are integrating Bitcoin ETFs into their portfolios. JPMorgan Chase, the largest bank in the U.S., has also announced holdings in spot Bitcoin ETFs, reflecting its role as a market maker for these assets. Other notable firms, such as Morgan Stanley, Aristeia Capital, Boothbay Fund Management, and Bank of Montreal, have similarly disclosed significant investments in these funds.
+
+
+
+Throughout 2024, Bitcoin ETFs have increasingly become a focal point within the financial sector, following their initial approvals in January. This wave of institutional interest highlights the growing acceptance and integration of Bitcoin as a key asset in traditional investment strategies. This trend indicates a robust and sustained institutional confidence in the future of Bitcoin as part of mainstream financial portfolios.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 19 times, 19 visit(s) today
+
+	
+	
+
+
+
+	
