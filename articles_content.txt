@@ -1,328 +1,3 @@
-Worldcoin beefs up security by open-sourcing biometric data system
-
-As organizations increasingly rely on biometric data for various applications, from access to physical spaces to financial services, the frequency and impact of data breaches continue to escalate. On May 15, the Worldcoin Foundation, the organization behind the Worldcoin iris biometric cryptocurrency project, announced that it open-sourced its secure multi-party computation (SMPC) system. The new SMPC system, which is responsible for encrypting iris codes into secret shares held by multiple parties, enables the Worldcoin Foundation to permanently delete iris codes generated through its previous uniqueness-checking system.Remco Bloemen, the head of protocol at Worldcoin Foundation, told Cointelegraph that this development, open-sourcing the SMPC system, offers a potential solution for “enhanced biometric data security.”"With the development and open sourcing of a new secure multi-party computation (SMPC) system, Worldcoin Foundation aims to continue to increase the robustness of the Worldcoin protocol while also setting a new standard for security. "The Worldcoin Foundation said that its SMPC approach is even effective against quantum computing. A report by Fortune Business Insights released on April 29 predicted that the global biometric system market will grow from $30.77 billion in 2022 to $76.70 billion by 2029. Meanwhile, research from MIT’s Stuart Madnick revealed that there has been a significant rise (20%) in data breaches between 2022 and 2023, with the number of affected individuals doubling.Related: Worldcoin: Should you let Sam Altman scan your eyeballs for WLD?Worldcoin Foundation data protection officer Jannick Preiwisch, said the Worldcoin community is committed to developing and deploying advanced privacy-focused technologies to improve trust online and increase access to the global economy. “The development of this new system demonstrates an unparalleled commitment to further compliance with the EU General Data Protection Regulation and other data protection regimes across the world.”He said it also “complements” the company’s intention to provide its users more of a choice — and control — as to where their data is going, including personal custody and the ability to un-verify their World IDs.Worldcoin has previously found itself in hot water with regulators around the world — and in Europe in particular with its GDPR measures — over its practices with user data. However, it has since taken measures to signal its willingness to comply. In March 2024, it made the software of its iris-scanning Orb open-source and implemented a new “personal custody” privacy feature for user data.A month later, in April, it said it would be tightening privacy checks and allowing users to un-verify their World ID. At the beginning of this year, Worldcoin saw new milestones for its active daily user count, which soared past one million for its wallet app. It also saw its token WLD surge by 141%. Magazine: ‘Sic AIs on each other’ to prevent AI apocalypse: David Brin, sci-fi author
-
-----------------
-
-Ethereum ETF Dreams Dashed? Analyst Says SEC Approval 'Slim to None'
-
-
-								For investors hoping for a simple way to gain exposure to Ethereum, the road seems paved with regulatory hurdles. The US Securities and Exchange Commission (SEC) has thrown a wrench into plans for spot Ethereum Exchange Traded Funds (ETFs), leaving the future of these investment vehicles shrouded in uncertainty.
-
-Security Or Commodity? The Ethereum Classification Conundrum
-The crux of the issue lies in the SEC’s classification of Ethereum (ETH) itself. Bloomberg analysts, including Eric Balchunas, believe the SEC views ETH as a security, not a commodity – and that the chances of its ETF getting the regulator’s nod is “slim to none.”
-This distinction is crucial because commodity ETFs are generally easier to get approved than security ETFs. The SEC’s recent inquiries regarding whether ETF proposals qualify under commodity regulations seem to support this view.
-
-
-Additionally, according to Bloomberg analyst James Seyffart, the SEC is more likely to drop Ethereum ETFs now that it has termed ETH a security once more.
-The back-and-forth with extended review periods for ETF applications from Invesco Galaxy (decision by July 5th) and Franklin Templeton (decision by June 11th) paints a picture of a cautious regulator.
-
-
-Potential Impact: A Tale Of Two Futures
-The SEC’s eventual decision will have a ripple effect on the Ethereum ecosystem. If classified as a security, stricter regulations could follow, potentially hindering Ethereum’s growth and innovation. Conversely, a commodity classification could pave the way for easier ETF approvals, potentially attracting new investors and boosting mainstream adoption.
-Ethereum is now trading at $2900. Chart: TradingView
-Price Poised For Takeoff… Or Turbulence?
-The uncertainty surrounding the SEC’s decision is already impacting the Ethereum price. The possibility of a rejection and stricter regulations could deter investors, leading to a drop in market confidence. On the other hand, a commodity classification could lead to a surge in investor interest through easier ETF access, potentially driving the price upwards.
-
-More Than Just An Investment Vehicle: A Battle For Crypto’s Future
-The SEC’s stance on Ethereum ETFs goes beyond just a single investment product. It represents a broader battleground for the future of cryptocurrency regulation in the US.
-A clear and transparent regulatory framework is essential for fostering innovation and protecting investors in this rapidly evolving space.
-Featured image from Direct Stoves, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Bitcoin Up 3.5% as US Data Shows Consumer Prices Slowed Their Climb in April - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsBitcoin’s price has climbed after U.S. data showed that inflation was stickier than expected in April. Consumer prices were 3.4% higher in April than they were this time last year. That's a marked slow down in rising prices compared to March's 3.7%, according to the U.S. Bureau of Labor Statistics.Immediately after BLS released its new Consumer Price Index data, the Bitcoin price now stands at $63,142, CoinGecko data shows. That’s a 3% gain in the past 24-hour period and 1.4% higher than it was an hour ago.And the price of Ethereum, the second-biggest digital asset by market cap, is now $2,944.94—which is a 1.8% increase compared to this time yesterday and 2% hours than it was an hours ago.The CPI report measures price changes in a basket of common consumer goods and services and is used to estimate changes in the economy’s inflation rate. In today's report, which contains data for consumer prices in April, the BLS reported that housing and gas prices were the two biggest factors in rising prices."Combined, these two indexes contributed over seventy percent of the monthly increase in the index for all items," the BLS wrote in its summary.Economists initially expected the Fed to lower interest rates early this year but now many think a cut will come by September, a Reuters survey showed this week.U.S. equities—particularly tech stocks—rose, with the NASDAQ-100 Technology Sector Index (NDXT)
-gaining 72 points to trade 0.72% higher than it was this time yesterday. Meanwhile, the S&P 500 has gained 0.48% ahead of markets in the U.S. opening.Bitcoin in March touched a new high of nearly $74,000 per coin. Its surge was off the back of the January approved spot Bitcoin exchange-traded funds (ETFs), which have led to a flood of capital into the market.But data showing inflation is not going away and therefore the Fed is in no hurry to lower historically high interest rates have stalled the asset’s run. When interest rates are high, investors tend to “de-risk” and avoid assets like Bitcoin.As a result, the virtual coin has this month and last been trading well below its 2021 record of $69,044.Experts previously told Decrypt that the price of Bitcoin would continue running if interest rates drop.Edited by Stacy Elliott.Stay on top of crypto news, get daily updates in your inbox.
-
-----------------
-
-Here's Why Bitcoin (BTC) Suddenly Surged to $64,000
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-The price of Bitcoin (BTC), the leading cryptocurrency, topped the $64,000 level earlier this Wednesday.  This came after the most recent consumer price index (CPI), which was released by the United States Department of Labor earlier today, dipped to 3.4% on a year-over-year basis. This is in line with analysts' expectations, which explains why the price of the largest cryptocurrency experienced a substantial price increase. That said, a lower CPI reading would have probably triggered a more powerful price spike.Traders in index swaps are now leaning toward a faster pace of rate cuts after the most recent CPI data. The Federal Reserve is expected to decrease borrowing costs in September and December.  A looser monetary policy will, of course, positively affect risk assets like Bitcoin. U.S. stock futures have also jumped following the inflation data,  with the S&P 500 futures adding 26 points. 
-
-
-
-----------------
-
-FTX Extends Deadline for Creditor Claims amidst Refund Promise and Distribution Concerns | Coinspeaker
-
-
-
-In a bid to offer creditors enough time to file their claims, FTX Digital Markets has decided to extend the deadline for submitting proof of debt.
-
-FTX, the bankrupt cryptocurrency exchange, has earlier promised to refund its creditors and customers in cash within 60 days of court approval. While this initiative has received positive reviews from some members of the crypto community, others have raised some concerns as they remain skeptical about the distribution process.
-Extended Deadline for Proof of Debt Submissions
-In a bid to allow creditors enough time to file their claims, FTX Digital Markets has decided to extend the deadline for submitting proof of debt. In a post shared on X by Sunil, an FTX creditor activist, it was revealed that the initial date for submission of the Proof of Debt was May 15, 2024. However, it has now been extended by 10 to 12 weeks, allowing customers to submit a claim in the Bahamas process. The report stated that the new bar date, which is yet to be fixed, will align with the creditors’ voting deadline, allowing them to approve a Chapter 11 reorganization plan in the US process.
-
-
-
-
-
-
-Customers of the default FTX are only permitted to participate in either the Bahamas or US process. These two processes refer to two separate legal proceedings related to the bankruptcy of FTX, designed to address the financial obligations of the collapsed crypto exchange. The terms for participating in either of the processes will be filled out to customers by next month, and they have 6 to 8 weeks from the date that disclosures are issued to decide which of the processes they would like to follow. Although there may be a few differences between the two methods, customers should still worry less as distribution will be equivalent and will occur at the same time.
-Addressing Complexities: Lessons from the Cryptopia Case
-It could be recalled that recently, FTX Estate, an asset and liability of the default crypto exchange, stated that it expects to have between $14.5 and 16.3 billion in cash available for distribution to customers by the time the Delaware bankruptcy court approves a reorganization plan. Despite FTX promising a refund and rolling out a payment approach, customers are already getting frustrated about the delay and ongoing complexities surrounding the FTX bankruptcy.
-A crypto analyst, Thomas Braziel, with over 16 thousand followers, took to his X page to express skepticism surrounding FTX payments. He said that should the terms of service be upheld, it’s evident that the customer’s balance does not tally with the asset listed in the debtor’s petition at the time of the FTX bankruptcy filing, resulting in insufficient funds to pay everyone. Thomas then suggested a possible solution to this complexity by citing the Cryptopia case under New Zealand and UK law, where each type of asset was treated as a separate asset. He said:
-“Each silo must be filled first, and any excess is shared with other silos. Deficiencies in a silo result in an “excess loss claim” that is dollarized, and these claims share ‘pari passu’ in any un-siloed and excess property from a particular silo.”
-Creditors and customers of the collapsed exchange will be watching and anticipating the disclosure document with keen interest. However, the whole process will likely take more time before it materializes.
-next
-
-Altcoin News, Cryptocurrency News, News 
-
-
-
-
-
-
-
-
-
-
-Thank you!
-You have successfully joined our subscriber list.
-
-
-
-
-
-
-----------------
-
-Rare sats and Runes failed to solve Bitcoin’s security budget
-
-
-The Bitcoin halving was supposed to be a day of celebration and the end to Bitcoin’s woes of the prior four years. On that late Friday night (and in technical, computer geek UTC time, a party-perfect date of 4/20), Bitcoin turned the page to its fifth epoch.
-Fans cheered the end of its 28-month-long bear market and waved goodbye to the fourth epoch’s 6.25 BTC block reward, welcoming a halved inflation rate of just 3.125 BTC per block. They hoped that the disinflationary shock might boost the price, and usher in a suite of upgrades to Bitcoin’s functionality that would fund a wellspring for its security budget.
-Unfortunately, reality has failed to live up to their expectations. The price of bitcoin hasn’t rallied since the halving, nor has the halving increased Bitcoin’s security budget.
-A cornucopia of new activity was supposed to arise from a suite of Bitcoin-branded protocols at the halving. This was to be based on Ordinals, a software program that pretends to track satoshis, the smallest denomination of 1 BTC.
-Ordinals were supposed to empower active secondary markets for numismatics (collectible markets for unique satoshis or ‘rare sats’) and enable permanent data storage and on-chain software with inscriptions. Most importantly, they were designed to underpin Runes, a brand new fungible token protocol for trading ERC20-like tokens and meme coins on Bitcoin.
-Buy the rumor, sell the news
-All of those fantastic debuts have lifted Bitcoin’s USD-denominated miner’s revenue — the definitive measure of the blockchain’s security budget against real-world adversaries — exactly nowhere.
-
-At block 840,000, Casey Rodarmor’s highly anticipated Runes protocol launched to fanfare and prompted the largest-ever amount of money paid for a single block in Bitcoin’s history: 74 BTC ($4.7 million). A single satoshi, the so-called ‘epic sat’ number 1,968,750,000,000,000, resold at auction for $2.1 million.
-It was a promising start. Just imagine, fans of Rodarmor thought: a single satoshi (commonly valued at 1/100 millionth of bitcoin’s current price, $62,000) reselling for millions of dollars. 
-However, there’s no free lunch. Only a small amount of speculative new money actually entered the secondary markets for these collectible satoshis. As a result, Ordinals, Inscriptions, Rare Sats, and Runes traders could no longer afford to continually overpay miners for on-chain transaction fees.
-Runes failed to help Bitcoin’s security budget
-Fees from this nascent community — heralded as the leading source of revenue for Bitcoin’s security budget post-halving — have evaporated. Runes, like so many Bitcoin-branded projects for creating altcoins before it, failed to sustain its hype for even two days after the halving. 
-In all, bitcoin miners’ revenue is down 75% since the halving. Worse, Bitcoin’s security budget (approximately $30 million daily) is now lower than miners’ median revenue this year (approximately $50 million daily).
-Read more: Prices of Bitcoin Runes dip two days after launch
-The chart of Bitcoin’s security budget says it all. In the run-up to the halving, excitement swelled about a supposed new era for Bitcoin. Fans cheered the rising transaction fees, which spiked on the day of the halving. Traders spent millions to buy satoshis commonly valued at 1/100 millionth of 1 BTC and gladly overpaid miners with obscene transaction fees. 
-Less than one month later, all of their bids have made no difference to Bitcoin’s ongoing security budget. Runes failed its fans. As of today, neither Ordinals, Inscriptions, Numismatics, or any other protocol for trading satoshis have lifted Bitcoin’s security budget above its prior average.
-Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
- 
-
-----------------
-
-Bitcoin Price (BTC) Gains More Than 1% After Soft Inflation Data
-
-The consistent slide in inflation in 2023 had most, including the U.S. Federal Reserve, coming into 2024 expecting appreciably easier monetary policy throughout the year. Instead, inflation has actual risen a bit thus far this year. Along with an economy that continues to grow, it's put the kibosh on the thought of any imminent central bank rate cuts. Coming into Wednesday's CPI report, the odds of a summer rate cut by the Fed were low and traders had priced in just a 50% chance of move in September, according to the CME FedWatch Tool.
-
-----------------
-
-US CPI inflation data meets expectations, Bitcoin hits $64,000 in response | CryptoSlate
-
-Mining for the future: Bitcoin industry trends in the aftermath of the halving  Andjela Radmilac · 2 days ago CryptoSlate's latest market report dives deep into the Hashrate Index Q1 report to determine the current state and future trajectory of Bitcoin mining. 
-
-----------------
-
-Founder Institute partners with Polkadot for Startup Acceleration | Cryptopolitan
-
-Founder Institute has announced its partnership with the Polkadot ecosystem. The strategic collaboration between the two companies will launch the first Web 3.0 Cohort in the Founder Institute’s Core Program. The partnership aims to improve Web 3.0 technology education and provide Web 3.0 startup founders with startup acceleration programs. The partnership between the two companies is aimed at elevating Web 3.0 startup founders by empowering them on how to run a startup and provide access to funding opportunities. The two organizations plan to encourage the growth of Web 3.0 startups through proper mentorship using Polkadot resources to provide acceleration programs aimed at promoting growth and development within the Polkadot ecosystem.Also Read: Polkadot’s Pivotal Transformation under Web 3 Foundation LeadershipFounder Institute will admit its first set of startup founders in a bid to revolutionize the landscape and provide startup acceleration support.Founder Institute Launches First CohortThe first cohort will feature Web 3.0 startup founders with a primary focus on Polkadot technology. The program will enhance Polkadot’s adoption and encourage developer teams to take advantage of the vibrant Polkadot ecosystem.According to the partnership agreement, the very first cohort will start on May 28th, 2024. The pioneer team will gain direct access to industry experts from the Polkadot community to facilitate an easier move into the Web3 industry.Also Read: Polkadot Native Acala Expands to Multichain HorizonsThe program is ideal for Web 3.0 builders, developers, and founders. Through this program, Founder Institute and Polkadot project that a new generation of successful Web 3.0 startups will emerge and continue to spearhead transformation in the industry.Polkadot Signs Pilot MOU with Founder InstitutePolkadot has reportedly been working on a Memorandum of Understanding (MOU) for the organization to onboard mentors and develop a joint co-marketing initiative.According to the MOU, the Founder Institute will ensure it provides online and onsite branding and provides all admitted founders in the program to Partner. Provide up to two mentor slots for partners as mentors in the program.Polkadot will also assume certain responsibilities according to the agreement. The organization will recommend a mentor from the ecosystem and provide any marketing collateral as necessary, among other optional responsibilities.Unfortunately, at the time of this publication, the Founder’s program is not open to creators worldwide. To confirm eligibility, please visit the Institute for a comprehensive list of accepted cities.Cryptopolitan reporting by Collins J. Okoth
-
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Circle, Behind USDC, Eyes US Listing with Headquarters Move
-
-
-							
-
-Circle’s relocation to the US hints at regulatory alignment pre-IPO, potentially enhancing investor confidence.
-
-
-
-Tax implications highlight shifting dynamics in global tax policies impacting multinational corporations.
-
-
-
-USDC’s resilience amidst challenges underscores the stability and utility of stablecoins in crypto markets.
-
-
-
-
-Circle Internet Financial Ltd., the issuer of the widely-used stablecoin USDC, announced its intention to relocate its legal base from the Republic of Ireland to the United States. This move comes as the company prepares for an IPO for which it submitted plans to the US Securities and Exchange Commission (SEC) back in January.
-
-
-
-Circle confirmed the upcoming relocation through a company spokesperson, citing recently filed court documents as evidence of the transition. While the company did not explicitly disclose its motivations, the move is likely intended to facilitate regulatory compliance and adherence, to enhance transparency, especially in anticipation of its purported public listing.
-
-
-
-Tax Implications and Shifting Landscape
-
-
-
-One key implication of the relocation is the potential impact on Circle’s tax obligations. By establishing its legal headquarters in the US, the company may face a higher tax burden compared to its previous operations in Ireland. 
-
-
-
-Ireland’s historically low corporate tax rates were attractive to multinational corporations. However, recent international tax reforms implemented by the Organization for Economic Cooperation and Development (OECD) have established a minimum 15% tax on the earnings of the big multinational corporations. This development has eroded some of the traditional tax advantages associated with Ireland.
-
-
-
-Founded in 2013, Circle has secured significant backing from both traditional financial institutions and prominent figures within the cryptocurrency domain. Notable investors include Goldman Sachs Group Inc., BlackRock, and Coinbase Global Inc., among others. This broad-based support underscores the increasing convergence of traditional finance with the digital assets realm.
-
-
-
-
-
-
-
-
-
-The stablecoin market has seen significant growth in recent years, with USDC emerging as a major platform for transactions and a major liquidity provider in the cryptocurrency ecosystem. Despite facing challenges such as regulatory ambiguity and banking difficulties, USDC’s circulation has rebounded following recent declines, reaching a market capitalization of $33 billion.
-
-
-
-In the first quarter of this year, Tether Holdings Ltd., which manages the most sizable stablecoin in terms of market capitalization, reported record profits exceeding $4.5 billion. This highlights the potential profitability of stablecoin operations within the current market environment.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Shiba Inu (SHIB) Witnesses Epic 1,510% Growth of Key Metric, But There's a Catch
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-In an eye-catching turn of events, the popular meme-inspired cryptocurrency Shiba Inu (SHIB) has experienced an epic surge in a crucial on-chain metric within the span of just 24 hours. According to data sourced by IntoTheBlock, the Large Holders Outflow metric skyrocketed from 60.44 billion SHIB to a jaw-dropping 967.33 billion SHIB, marking an extraordinary 1,510% surge.The Large Holders Outflow metric is instrumental in tracking the movement of funds exiting addresses held by whales or investors, each owning over 0.1% of the cryptocurrency's circulating supply. Such monumental increases in outflows typically raise red flags, hinting at potential panic-induced selling. Source: IntoTheBlockOn the other hand, however, it can mean significant withdrawals from exchanges, which is traditionally a bullish signal.What does it mean for Shiba Inu (SHIB) price?This surge in outflows can be interpreted in multiple ways. On one hand, it may indicate large holders offloading assets amid heightened market volatility to manage positions and dodge liquidations. SHIB to USD by CoinMarketCapConversely, the exodus of funds from exchanges, which often hold substantial amounts of cryptocurrency, suggests a different narrative, possibly indicating a shift in trading strategies or investor sentiment.Despite this monumental surge in the outflow metric, Shiba Inu's price experienced a marginal setback over the same period, witnessing a modest 1.63% decline. However, this dip seems inconsequential, particularly in light of the cryptocurrency's resilience as it swiftly rebounded, surging by an impressive 3% within a day.
-
-
-
-----------------
-
-KuCoin Halts Naira-Based Peer-to-Peer Trading, Citing Compliance
-
-
-                        
-                            KuCoin Halts Naira-Based Peer-to-Peer Trading, Citing Compliance                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 15, 2024 08:33 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        KuCoin has made the decision to suspend all naira-based peer-to-peer (P2P) trading in response to increased scrutiny from Nigeria’s regulatory authorities.The move comes three weeks after the country’s Securities and Exchange Commission (SEC) met with industry players and urged them to cease P2P trading activities.In a Wednesday blog post, KuCoin notified its users of the temporary suspension of P2P naira services and Fast Buy service via Naira card, stating that it is part of their ongoing efforts to enhance their services.The exchange’s decision to halt P2P trading is likely an attempt to avoid running afoul of the Nigerian government, following the recent federal charges faced by another major exchange, Binance.Nigeria Intensifies Scrutiny of P2P Crypto Trading
-The Nigerian government, particularly the office of the Security Adviser, has intensified its scrutiny of P2P cryptocurrency trading.Fintechs and banks have been instructed to close bank accounts associated with trading and report such accounts to the authorities.The Economic and Financial Crimes Commission (EFCC) has also taken action by blocking thousands of accounts involved in crypto trading.Emomotimi Agama, the Director-General of the SEC, blamed crypto P2P traders for the depreciation of the naira during a meeting on May 7, according to a report from TechCabal. He expressed concerns about the impact of P2P crypto trading on the exchange rate of the naira.However, despite these stringent measures, the naira continues to face challenges.On Monday, the naira fell to N1,520 per Dollar at the Foreign Exchange (FOREX) parallel market, a 3.4% decline from the N1,470 per Dollar traded on Friday.Binance Nigeria Conflict Resumes
-In a recent blog post, Binance CEO Richard Teng accused a Nigerian government official of pressuring crypto representatives to accept a secret agreement to settle Nigeria’s claims against the exchange.The “settlement” was actually a $150 million bribe from “someone in the Nigerian government.”“Counsel reported back that he had been presented with a demand for a significant payment in cryptocurrency to be paid in secret within 48 hours to make these issues go away and that our decision was expected by the morning,” Teng wrote.“Our team grew increasingly concerned about their safety in Nigeria and immediately departed.”However, Nigeria fired back at Binance‘s bribe accusation, claiming it’s a distraction to shift focus away from the exchange’s actions.Binance recently had to discontinue all services involving Nigerian local fiat currency, the Nigerian naira (NGN), after regulatory scrutiny. Earlier, the Nigerian government imposed a staggering $10 billion fine on Binance as part of a crackdown on the platform in an effort to stabilize the nation’s local currency. Binance has faced increasing regulatory scrutiny worldwide.Last year, the Commodity Futures Trading Commission (CFTC) filed charges against Binance for allegedly operating an illegal digital asset derivatives exchange and evading federal laws.Similarly, the US Securities and Exchange Commission charged Binance Holdings LTD and CZ for allegedly operating unregistered exchanges, broker exchanges, clearing houses, and the unregistered offer and sale of securities.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Copy Trading Gets Decentralized: What are the Best Tools to Follow Top Traders | Cryptopolitan
-
-Copy trading spreads across decentralized exchanges (DEX), trying to make the best of a highly dynamic market. The speed of trades also makes it necessary to use trading bots, so strategies can be automated. Following the best traders was one of the main perks of platforms like eToro during previous crypto bull markets. Top traders specifically described their strategies and had great influence. In crypto, copy trading is more informal and has been automated by third parties. How Copy Trading is Made Easier on the BlockchainAdditionally, since crypto wallets are transparent, addresses are on a watch list to track trading decisions. Traders can easily tap into public wallets or trading personalities, especially those with Ethereum DNS handles, to gather strategies for both existing pairs or newly launched tokens. Additionally, users can view or aggregate the notable activities of existing exchange bots through a blockchain explorer. The blockchain activities with lots of data also enable DEX and other services to offer easy-to-use copy trading products. Which are the Best Decentralized Copy Trading Bots?Decentralized bots must pick the optimal amount of data while connecting multiple exchanges and wallets. One tool took more than a year to go public. The GoodCrypto bot aggregates most major markets and offers copy-trading, along with signal-based trading. The Good Crypto has been renewed during the current bull market cycle, offering a new app-based approach. Tracking Whales and Finding Gem Coins Becomes Go-to DEX StrategyThe mix of public whale wallets and a growing list of new assets means users can build their own copy-trading portfolio. This approach is only partially automated, and will still require personal research. The Dexscreener tool will give a long list of tokens, where those with good volumes and high locked liquidity are the best candidates. Once a token is discovered, DeBank is the tool to analyze the whale holders of that token. If the whale wallet shows a good track record, its strategies can be copied through the Prodigy Sniping Bot. The best approach is to only use high-profile bots, and avoid connecting a main wallet if there are doubts about the bot’s origin. DEX Trading Draws In 100X SeekersDEX copy-trading has a riskier profile, mostly because its main target is potential 100X tokens. This allows projects to build their products entirely on-chain while automatically singling out the gems. The on-chain approach is even more powerful compared to signal-based trading apps. Logearn is one of the tools for 100X tokens, along with alerts when a good match is found. The Logearn service also works to single out active trader wallets with a good track record. Those addresses can be used with other sniping bots. Smart Money Vs Mass Sniping Walletscopy-trading tools can have different strategies. For traders on the Solana blockchain, the trend of meme tokens meant some traders did not even bother with pre-selection. Instead, they used automation to snipe all newly minted tokens with small purchases. Mass sniping is the opposite of doing some preliminary research, or of following the “smart money”. A whale wallet with thousands of tokens may make one good trade to offset the losses, but copying mass sniping holds additional risk. Solana DEX also offer more possibilities for sniping, due to lower fees and more agile asset creation. AI Assistance Boosts Copy TradesAnalyzing data for thousands of tokens is a task best left to AI. For Solana DEX traders, AI tools also simplify the search for the best-performing whales. TradeWiz is among the preferred tools for Solana-based sniping. The smart money feature means traders can concentrate on copying some of the best wallets for a given period. Crypto DEX trading is extremely dynamic, and even for the most successful wallets, past performance does not guarantee future earnings. On-chain tools for copy trading don’t rely on social media influencers and their token preferences. While some traders make accurate calls on social media, there is also overwhelming hype. Using data, copy trading tools, and sniping bots helps avoid over-investing in unpredictable tokens. 
-
-
-----------------
-
-BREAKING! US Inflation Data Announced! Bitcoin is $64,000! - Bitcoin Sistemi
-
-
-While Bitcoin, the leading cryptocurrency, followed a fluctuating course yesterday, it experienced declines and rises along with the events.
-BTC, which rose before the PPI data, started to decline during FED President Jerome Powell's speech. It then rose again with news that the US state of Wisconsin had invested in a Bitcoin ETF.
-
-
-
-While BTC continues its volatile movements, critical inflation data expected from the USA has been announced.
-Here is the announced data:
-
-
-
-
-
-Consumer Price Index Monthly: Announced 0.3% – Expected 0.4% – Previous 0.4%
-Consumer Price Index Annual: Announced 3.4% – Expected 3.4% – Previous 3.5%
-
-
-Core Consumer Price Index Monthly: Announced 0.3% – Expected 0.3% – Previous 0.4%
-Core Consumer Price Index Annual: Announced 3.6% – Expected 3.6% – Previous 3.8%
-
-
-
-
-
-The consumer price index is an important variable used to measure changes in consumer purchasing trends and US inflation.
-A higher than expected value means a positive/bull market for the USD, and a lower than expected value means a negative/bear market for the USD.
-First Reaction of Bitcoin and Dollar After CPI Data!
-The first reaction of Bitcoin and Dollar (DXY) after the announced data was as follows.
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
 ARK 21Shares Amends Spot ETH ETF Filing: Cathie Wood On Ethereum ETF Approvals - Benzinga
 
 In January, ARK Invest teamed up with 21Shares to offer a spot bitcoin ETF, which trades as ARKB. The ETF has been hugely successful, attracting several billion dollars in investment. However, the duo is not content with just a spot in a bitcoin ETF. They have also applied for a spot in ethereum ETF, which is currently under review by the SEC.Don't Miss:Though they did not make a formal comment, ARK and 21Shares updated their filing for the spot ethereum ETF application. The update removed a small clause related to staking. Originally, the firms were looking to stake ETH that was held by the firms, which would have been labeled as income from the fund. "Sponsor may, from time to time, stake a portion of the Trust's assets through one or more trusted Staking Providers," the clause noted.However, the update excluded this clause. While they did keep all of the other clauses specific to ethereum, the change caused some to raise eyebrows. Eric Balchunas is an ETF analyst for Bloomberg and in a post on X, he said, "While it may seem like this is them getting their docs in shape based on SEC comments (which would be good news) there hasn't been any comments. So it’s prob either a Hail Mary or maybe trying to give SEC one less thing to use in their rejection. Not sure (yet)." According to Balchunas, the SEC did not prompt ARK and 21Shares to make the change. So, in his opinion, it is some sort of preemptive action to give their application a higher probability of acceptance. Trending: 1 in 4 Americans own a share of Bitcoin according to NASDAQ, how much would $10 get you today?The issue of staking has been seen by some as a hang-up for potential approval of spot ethereum ETFs. The novelty of the system could cause further delays in the already lengthy decision-making process by the SEC. So, by leaving it out of the application, ARK could improve its chances of approval. However, this does come at the cost of having a less attractive ETF, as the staking rewards would not be earned.The SEC has already made delays to decisions on multiple applications. As it stands, the final date for a decision on the VanEck ETH ETF application is May 23, followed by ARK 21Shares' on May 24th. "Our odds of approval remain the same: slim to none," Balchunas said in a post on X. Cathie Wood is the CEO of ARK Invest and is known to be extremely bullish on cryptocurrency. However, even she acknowledged that the crypto ETF market may not see much more growth. "We'd be surprised to see anything but bitcoin and ether being approved by the [U.S. Securities and Exchange Commission]," she said in an interview. The case for a spot ethereum ETF is getting weaker, and the SEC has not spoken often on the topic. While there is certainly a possibility that the ETFs could receive approval in late 2024 or 2025, it seems unlikely that they will occur anytime soon.Read Next:
@@ -9250,3 +8925,507 @@ SHIB, the native token of the Shiba Inu ecosystem, is poised to benefit consider
 						
 						
 						
+
+----------------
+
+Binance develops ‘antidote’ to address poisoning scams after $68M exploit
+
+Binance’s security experts developed an “antidote” against the growing instances of address poisoning scams, that trick investors into willingly sending funds to a fraudulent address.The security team of the world’s largest cryptocurrency exchange developed an algorithm that detected millions of poisoned crypto addresses, according to a report shared with Cointelegraph:“We have developed a unique method of identifying poisoned addresses, which helps us to alert users before they send money to criminals and was instrumental in identifying and flagging more than 13.4 million spoofed addresses on BNB Smart Chain and 1.68 million on Ethereum.”Address poisoning, or address spoofing, is a deception trick where scammers send a small amount of digital assets to a wallet that closely resembles the potential victim’s address, to make it part of the wallet’s transaction history — hoping that the victim will accidentally copy and send funds to their address.Binance’s algorithm detects spoofed addresses by first identifying suspicious transfers, such as those with near zero value or unknown tokens, pairing them with potential victim addresses, and timestamping malicious transactions to find the potential point of poisoning.The spoofed addresses are registered in the database of Web3 security firm HashDit, Binance’s security partner, which will help protect the wider crypto industry from poisoning scams, according to Binance’s report.“Many cryptocurrency service providers use HashDit’s API to boost their defenses against a variety of scams. One of them, for example, is Trust Wallet, which uses the database of poisoned addresses to alert users when they are about to transfer funds to a spoofed recipient.”The algorithm will also help flag spoofed addresses on HashDit’s user-facing products, web browser extensions, and MetaMask Snaps.Related: Post-FTX crypto industry needs education before regulation — Former Biden adviserAddress poisoning is a growing concern following $68 million scamThe necessity for a preventive algorithm became apparent two weeks ago, after an unknown trader lost $68 million to an address-poisoning scam. They accidentally sent $68 million worth of Wrapped Bitcoin (wBTC) in a single transaction to a spoofed address on May 3.In a fortunate but mysterious turn of events, the thief returned the $68 million on May 13, after numerous on-chain investigators started shedding light on his potential Hong Kong-based IP addresses. This suggests that the scammer wasn’t a white hat hacker, but a thief that became scared of the public attention following the scam.Address poisoning scams may seem easily avoidable, but most traders only verify the first and last digits of the wallet’s 42 alphanumeric characters, as most protocols only display the first and last digits.Making matters more difficult, scammers rely on vanity address generators to customize their addresses to seem less random or more similar to a given address, according to Binance.“An authentic Ethereum address like 0x19x30f…62657 could be spoofed using a similar-looking 0x19x30t…72657, which can be totally different in the middle while maintaining the first and last few characters.”VIDEOScammers, WATCH OUT! Beware of the crypto vigilante! | Crypto stories Ep. 4. Source: CointelegraphRelated: Ether turns inflationary for the first time since the Merge
+
+
+
+----------------
+
+Market expert sets Bitcoin price for August 2024
+
+
+Bitcoin (BTC) is once again flirting with the possibility of reclaiming a new record after successfully breaching the $65,000 resistance mark.
+As the maiden cryptocurrency seemingly benefits from the euphoria around the latest United States inflation data, technical indicators suggest that a new record high for Bitcoin is on the horizon.
+Particularly, in a TradingView post on May 16, crypto trading expert TradingShot suggested that Bitcoin might be in line to clinch the $150,000 target by August 2024. 
+
+
+The analyst pointed out that Bitcoin has shown signs of resurgence, buoyed by a recent 25% correction which the expert deemed as normal within bull cycles. 
+TradingShot also observed that Bitcoin had closed above the one-day moving average 50 (MA50) after two consecutive rejections, indicating that Bitcoin’s upward trajectory seems promising.
+Bitcoin price analysis chart. Source: TradingView
+The trading expert also reviewed Bitcoin’s long-term chart, particularly the one-week timeframe, where the crypto appears to be at a cyclical stage. Historically, during similar cycles, Bitcoin has embarked on its most aggressive rallies. 
+Technical levels to watch out for 
+Therefore, TradingShot stated that Bitcoin’s recent bounce on the exponential moving average (EMA) ribbon, coupled with its recovery of the mayer multiple SD1, indicates positive momentum.  
+Drawing from these indicators, the analysts suggested that Bitcoin’s next target could be $150,000 by August. 
+
+“As you can see, BTC rebounded on the EMA Ribbon, after making a new All Time High (ATH) while also recovering the Mayer Multiple SD1 from above. When those parameters got met in the past, Bitcoin always touched at least the MMB SD2 from above. Based on that, the next Target on this run is $150,000,” the expert said. 
+
+Bitcoin’s breakout inevitable 
+On the other hand, another crypto expert, Michaël van de Poppe, suggested in a May 16 post on X (formerly Twitter) that an upwards trajectory for Bitcoin was inevitable based on its recent recovery.
+He noted that Bitcoin’s steady rise would instill renewed confidence in the cryptocurrency markets. As Bitcoin continues its ascent, Poppe suggested that attention is shifting to altcoins, which are expected to benefit significantly from this positive market sentiment.
+Bitcoin price analysis chart. Source: TradingView
+It’s worth noting that renewed interest in BTC comes after the latest inflation figures were released. According to the data, the core inflation rate fell to 3.8% year-on-year, its lowest level in three years.
+These figures have ignited speculation that the Federal Reserve might finally enact an interest rate cut, with some market participants projecting that the cut might come as early as July.
+In the meantime, the flagship digital asset continues to be buoyed by several bullish elements likely to sustain its momentum. For instance, CME Group, the world’s largest futures exchange, is reportedly planning to unveil Bitcoin trading to capitalize on the growing interest in the asset by Wall Street.
+Bitcoin price analysis
+By press time, Bitcoin price today is trading at $66,270 with daily gains of almost 6%. On the weekly timeframe, BTC is up 8%.
+Bitcoin price chart. Source: Finbold
+Having breached the $65,000 resistance, Bitcoin is well-positioned to reach the $70,000 mark en route to a new all-time high. This trajectory will be aided if the historical post-halving rally kicks in.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Ether (ETH)-Bitcoin (BTC) Ratio Slides to Lowest Since April 2021
+
+ETH/BTC slipped to 0.04563 on crypto exchange Binance soon before press time, reaching the lowest since April 2021, according to charting platform TradingView. This year, the ratio has declined nearly 16%, indicating a bias for bitcoin or the leading cryptocurrency by market value.
+
+----------------
+
+Swiss Federal Council seeks public input on global crypto tax standards
+
+The Swiss Federal Council has recently urged a public consultation to bring into effect international reporting conduct for crypto tax and ensure equal treatment of crypto assets, which is generally at par with traditional financial assets. The Federal Council’s proposal implies the introduction of a Crypto-Asset Reporting Framework (CARF) to ensure tax transparency in Switzerland.Swiss Federal Council pushes for crypto tax rulesThe Federal Government Council, or the Swiss government, which has 7 members, released a consultation paper on May 15 to discover the private will that Switzerland can actively take part in the Automatic Exchange of Information (AEOI). AEOI is adopted by member countries as a measure of collaboration among tax administrations to curb tax evasion. Instead of Switzerland’s entry into AEOI planned for January, 1st, 2026 is the country’s extension up to the date. This step is subsequent to the fact that Switzerland accessed the OECD’s standard CRS(Common Reporting Standard) in 2014, which excluded CARF at the initial stage.The introduction of CARF will enhance Swiss comprehensive crypto sympathetic market regulation and contribute to maintaining country’s financial establishment dignity. Nevertheless, the Parliament will have to be involved, and the CARF adoption must include more than just the answers to the suggested criteria in the consultation paper. This development is just one of the many different things Switzerland is doing in order to improve tax transparency and make sure all the financial assets are treated in the same fairway.CARF guidelines to shape Swiss regulationThe OECD launched the AEOI and other initiatives, which were later completed for the G20 countries, who now joined other countries in it. In 2027, 49 countries are estimated to have fully implemented the CARF rules to put a pre-emptive measure in place for fraud and increase fiscal transparency. The fact that this collaboration requires the use of the same reporting standards for crypto assets and the traditional types of financial assets is proof that there is a need for standardization.The Swiss federal authority tries to level financial institutions and overcome the transparency gaps related to both traditional assets and financial professionals. This consultation period extends till September 6 and aims to get the opinions of all the major stakeholders, including the financial institutions, the crypto asset service platforms, and everybody else. The result of this conversation will be a guideline for the crypto asset regulation in Switzerland as well as its adherence to international standards.Canada and Switzerland to adopt CARFThe introduction of CARF will introduce new reporting requirements that will be obligatory to the service providers of crypto assets. Those service providers will be for example crypto-exchange platforms, brokerage firms or automated teller machine operators. Due to the necessity of reporting the activity on crypto assets along with fiat currency, they will account for any transactions between different cryptos. In turn, these increased level of reporting aims to introduce transparency to the sector and to steer tax evasion and money laundering away.In April 2024, the budget for the Canadian Year asking the country to create CarF for taxing by 2026. This goes onto show that the increased adoption of this reporting framework is actually a footprint in the pathway to standardisation of reporting for crypto assets among the nations. Countries like Canada and Switzerland are aiming for the implementation of CARF, thus, bringing about a globalized platform of deployment regulatory issue comparisons and a more transparent cryptocurrency asset regulation.
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Bitcoin Price Prediction as Millennium Management Holds $2B in ETFs - Bullish Signal for BTC?
+
+
+                        
+                            Bitcoin Price Prediction as Millennium Management Holds $2B in ETFs – Bullish Signal for BTC?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 16, 2024 06:38 EDT                            
+                                                             | 4 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Bitcoin Price PredictionBitcoin rebounded strongly, surpassing $65,930 and reaching a peak of $66,591 on Thursday. Softer-than-anticipated U.S. inflation data fueled this rally by increasing the likelihood of interest rate cuts and boosting investor confidence across the crypto market.As Bitcoin climbed, it catalyzed gains across other major cryptocurrencies like Ethereum, Dogecoin, and Ripple, pushing the global cryptocurrency market cap to $2.39 trillion, a 24-hour surge of more than 5%.Adding to the positive market dynamics, Millennium Management, a prominent hedge fund, has significantly invested in Bitcoin ETFs, holding nearly $2 billion in assets, underscoring strong institutional support for Bitcoin.Millennium Management Leads in Bitcoin ETF Investments with Nearly $2 Billion Holdings
+Millennium Management, an international hedge fund, has made a substantial investment in spot Bitcoin ETFs, holding nearly $2 billion as of the first quarter of 2024. According to their latest 13F filing with the SEC, Millennium’s investment spread across five prominent ETFs totaled approximately $1.94 billion by March 31.These investments were diversified among several key products, including the ARK 21Shares Bitcoin ETF, Bitwise Bitcoin ETF, Grayscale Bitcoin Trust, iShares Bitcoin Trust, and Fidelity Wise Origin Bitcoin ETF.
+Largest Holdings: BlackRock’s Bitcoin fund, with over $844 million, and Fidelity’s fund, closely following at just over $806 million.
+Market Impact: Bloomberg’s Eric Balchunas highlighted Millennium as having 200 times the exposure of typical new ETF investors.
+The significant engagement of professional investors like Millennium suggests a robust institutional interest in Bitcoin, reinforcing a positive outlook for its future. Matt Hougan of Bitwise has expressed optimism, noting that the scale of professional investment might lead to a combined AUM nearing $5 billion. This trend underscores the growing acceptance of Bitcoin among seasoned investors, enhancing its profile in the investment community.BTC Rises Above $66,000 Amid Expectations of Potential Rate Cuts on Softer US Inflation Data
+Bitcoin surged above $66,000 yesterday, achieving its highest single-day gain in nearly two months. The most recent US Consumer Price Index (CPI) data, which showed a slower inflation rate of 0.3% month-over-month for April, below the anticipated 0.4%, was the driving force behind this significant uptrend. This unexpected slowdown heightened investor expectations for potential rate cuts. Meanwhile, Retail Sales for the same period remained stagnant, further underscoring economic softness and bolstering the case for monetary easing.
+Core PPI rose by 0.5% month-over-month, surpassing expectations.
+Softer CPI and stalled retail sales have increased optimism for potential rate cuts.
+This amalgam of economic indicators has sparked a bullish outlook for Bitcoin, as softer inflation could prompt the Federal Reserve to ease monetary policy sooner.Bitcoin ETFs See Record Inflows, Driving BTC Price Surge to $66,000
+On May 15, Bitcoin ETFs in the United States experienced a significant boost in inflows, totaling $303 million, the largest since early March. This influx was led by Fidelity’s FBTC fund, which attracted $131 million, and Bitwise’s BITB fund, receiving $86 million. Notably, Millennium Management is the largest institutional holder in this space with an investment totaling $2 billion across various Bitcoin ETFs.
+Top Fund Inflows: Fidelity’s FBTC ($131 million) and Bitwise’s BITB ($86 million).
+Key Driver: Bitcoin’s 7% price increase to $66,000, spurred by US inflation data suggesting potential rate cuts.
+This remarkable inflow into Bitcoin ETFs, combined with favorable economic indicators, has significantly bolstered Bitcoin’s market value, pushing its price to $66,000. This trend underscores the growing investor confidence in cryptocurrencies as a viable investment amid shifting economic conditions.
+Bitcoin Price Prediction
+
+With a bearish Bitcoin price prediction, BTC is experiencing a slight downturn, trading at $65,930, marking a 0.44% decrease. The cryptocurrency is hovering just below its pivotal point of $66,260, a critical juncture that could determine the next directional move. 
+The Relative Strength Index (RSI) is elevated at 74, indicating that BTC is possibly overbought, which might precede a pullback if bullish momentum does not sustain.
+Bitcoin Price Prediction – Source: Tradingview
+Immediate support and resistance levels are crucial to watch. The first significant resistance lies at $67,820, with subsequent barriers at $69,084 and $70,643. A push above these levels could signal a strong bullish continuation. Conversely, support levels are set at $64,732, followed by $63,438 and $61,438. A breach below these could confirm a bearish trend, especially if the price falls beneath the pivot point.
+The 50-Day Exponential Moving Average (EMA) stands at $62,687, further supporting the idea that the mid-term trend has been bullish, but caution is warranted given the current RSI levels.
+Current Trend: Cautiously bearish unless BTC decisively clears the $66,260 pivot point.
+
+Secure Early Advantages with the 99Bitcoins Presale
+
+
+99Bitcoins, a leader in digital education, is transforming the way users learn about cryptocurrency through its ‘learn-to-earn’ platform. Participants can enhance their knowledge while earning $99BTC tokens, effectively growing both their expertise and their investment portfolios.
+The current presale of $99BTC tokens is catching the attention of savvy investors, offering an enticing entry price for early participants.
+
+Exclusive Early Access to 99Bitcoins
+This presale presents a rare chance for early investors to secure $99BTC tokens at a competitive price of $0.00103 each. These tokens are not just a reward mechanism but also provide access to premium content and additional perks within the community.
+Act Fast—Limited Time Offer
+To date, the presale has amassed $1,284,373, progressing towards a goal of $2,036,443. With just over three days left until the next pricing stage, this is a pivotal moment to invest in $99BTC and start benefiting from immediate staking opportunities.
+
+
+                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+South Korea-based Bithumb Exchange Announced That It Listed These Altcoins in Spot Transactions! - Bitcoin Sistemi
+
+
+Bithumb, one of South Korea's leading cryptocurrency exchanges, announced plans to list Bonk (BONK) and Zeta Chain (ZETA) on the Korean won market starting May 16, 2024.
+Bithumb to List Bonk (BONK) and Zeta Chain (ZETA) on Korean Won Market
+As part of the listing process, Bonk (BONK) trading will begin at 20:00, followed by Zeta Chain (ZETA) trading at 21:00.
+
+
+This move demonstrates Bithumb's commitment to expanding its trading offerings and providing its users with access to a variety of digital assets.
+Bonk (BONK) and Zeta Chain (ZETA) will join Bithumb's platform, offering users the opportunity to exchange these tokens against Korean won.
+
+
+
+
+
+
+The addition of these tokens to the Korean won market reflects Bithumb's efforts to meet the preferences and trading needs of its user base.
+With the listing of Bonk (BONK) and Zeta Chain (ZETA), Bithumb aims to increase liquidity and trading opportunities for its users and further solidify its position as one of South Korea's leading cryptocurrency exchanges.
+
+
+Traders and investors on Bithumb are encouraged to leverage the new listing of Bonk (BONK) and Zeta Chain (ZETA) to explore potential trading opportunities and diversify their portfolios.
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Deere & Co. Q2 Earnings Top Forecasts, But Shares Dip on Lowered Outlook - Tokenist
+
+
+					
+Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
+
+
+
+Deere & Co. (NYSE: DE), a leading agricultural equipment manufacturer, reported strong second-quarter earnings on Thursday, May 16, 2024. The company’s earnings per share (EPS) and revenue surpassed analyst expectations. However, it lowered its full-year net income forecast due to declining crop prices and reduced demand for its products.
+
+
+
+Deere & Co. Tops EPS and Revenue Forecasts in Q1, Lowers 2024 Outlook
+
+
+
+Deere & Co. reported Q2 EPS of $8.53, beating the analyst estimate of $7.87 by $0.66. The company’s revenue for the quarter reached $15.24 billion, exceeding the consensus estimate of $13.3 billion. Despite the strong quarterly performance, Deere revised its full-year net income forecast downward to approximately $7.0 billion, from the previous forecast of $7.5 to $7.75 billion.
+
+
+
+The company attributed the revised outlook to declining crop prices and reduced demand for tractors and combine harvesters. The U.S. Department of Agriculture projected a 25.5% decline in net farm income to $116.1 billion for the year, driven by a drop in corn and soybean prices to over three-year lows. Higher interest rates have also pressured farmers, leading to increased inventories of agricultural equipment and forcing Deere and other manufacturers to cut production. As a result, Deere expects sales of large agricultural equipment to decline between 20% and 25% this year, an adjustment from the earlier expectation of a roughly 20% fall.
+
+
+
+
+
+Deere & Co. Shares Drop on Lowered 2024 Outlook
+
+
+
+Deere & Co. closed at $414.02 on May 15, 2024, reflecting a slight increase of 0.30%. However, in pre-market trading today, the stock was down 6.50%, trading at $387.10 at the time of writing.The 52-week range for Deere’s stock was $321.85 to $446.76, and the company’s market cap stood at $115.25 billion as of the latest close.
+
+
+
+The company’s trailing P/E ratio is 12.07, with a forward P/E ratio of 15.53. Key profitability metrics include a profit margin of 16.39%, return on assets (ROA) of 9.90%, and return on equity (ROE) of 45.61%. Deere’s total revenue (ttm) was $60.76 billion, with net income attributable to common shareholders at $9.96 billion, and diluted EPS (ttm) at $34.32.
+
+
+
+Deere’s total cash (mrq) was $3.83 billion, and the company’s total debt/equity ratio was 289.24%. Analyst price targets for Deere’s stock range from a low of $365.00 to a high of $495.00.
+
+
+
+
+
+
+
+Disclaimer: The author does not hold or have a position in any securities discussed in the article.
+
+
+
+
+
+				
+
+				
+
+		
+			About the author
+		
+
+		
+		
+
+					
+				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
+			
+		
+	
+
+									
+				
+			
+
+----------------
+
+FTX Bankruptcy Update: Major Claim Transferred to Single Creditor, Simplifying Case but Risking Smaller Parties
+
+
+
+                    
+
+In the latest twist in the FTX bankruptcy saga, a significant claim previously held against FTX EU—renamed from K-DNA Financial Services—has been assigned to a single creditor, named FTXcreditor, according to court documents from the U.S. Bankruptcy Court for the District of Delaware dated May 15. 
+
+
+
+This move forms part of the ongoing Chapter 11 bankruptcy proceedings involving FTX and could potentially streamline the process, albeit introducing new risks for smaller creditors involved.
+
+
+
+
+The transfer adheres to the Federal Rules of Bankruptcy Procedure, specifically Rule 3001(e)(2). 
+
+
+
+This rule pertains to the transfer of claims, and in this context, the documents state: “Seller hereby waives any notice or hearing requirements imposed by Rule 3001 of the Federal Rules of Bankruptcy Procedure, and stipulates that an order may be entered recognizing this Evidence of Transfer of Claim as an unconditional assignment and Buyer as the valid owner of the claim.” 
+
+
+
+This statement underscores the legal basis for the transfer and the elimination of typical procedural requirements to expedite the process.
+
+
+
+
+This strategic consolidation aims to reduce the administrative burden of managing multiple claims by channeling them through a single creditor. 
+
+
+
+While this could speed up the resolution of the case, it also poses significant concerns for smaller creditors.
+
+
+
+READ MORE: Bitcoin’s Volatility Drops Below Major Tech Stocks, Signaling Maturity and Stability as an Asset Class
+
+
+
+With all claims funneled through one entity, there is a risk that these smaller parties may be marginalized, potentially receiving lesser or less favorable settlements compared to larger creditors.
+
+
+
+
+The identity of the transferring party remains undisclosed, adding a layer of opacity to the proceedings. 
+
+
+
+The official statement regarding this anonymity notes, “To protect the identity of the Transferor, Transferee has not disclosed the Transferor’s name or address, and has not attached the signed Evidence of Transfer to this Notice of Transfer of Claim.” 
+
+
+
+This lack of transparency could lead to speculation and concerns about the fairness and integrity of the bankruptcy process, especially in terms of potential for manipulation.
+
+
+
+The backdrop to these developments is the dramatic downfall of FTX, which filed for bankruptcy in November 2022 after a sudden financial collapse. 
+
+
+
+The fallout continues to affect numerous creditors and has prompted tighter regulatory scrutiny over the cryptocurrency industry in the United States, aiming to enhance investor protection.
+
+
+
+Adding to the ongoing drama, FTX co-founder Sam Bankman-Fried recently reiterated his innocence following a 25-year prison sentence. 
+
+
+
+In a May 9 interview, he shared insights into his prison life, focusing on his basic diet and mentioning that rice had become “one of the currencies of the realm inside,” illustrating the stark change in his circumstances.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Shiba Inu: ShibaSwap Debuts On Shibarium, Features Revealed
+
+
+								ShibaSwap, the native decentralized exchange (DEX) of the Shiba Inu ecosystem, has officially launched on Shibarium, Shiba Inu’s layer-2 scaling solution. This strategic move was announced via X, signifying a major step forward in leveraging the scalability and cost-efficiency of Shibarium while maintaining the security features of the Ethereum blockchain.
+The SHIB army received this news with the following statement from the Shiba Inu team via X: “ShibArmy the wait is finally over — ShibaSwap is coming home to Shibarium! ShibaSwap is more than just an exchange; it’s where our community’s spirit meets innovation, where your community tokens not only exist but thrive.”
+Shiba Inu’s DeFi Ecosystem Makes A Giant Leap Forward
+The integration of ShibaSwap onto Shibarium is not just a mere transition; it is a transformative shift that establishes ShibaSwap as a multi-chain DEX now operating on both Ethereum and Shibarium, according to the latest issue of SHIB Magazine. This dual-chain approach optimizes user benefits by combining the robust security of Ethereum with the enhanced scalability and reduced transaction costs offered by Shibarium.
+
+A central feature of this integration is the enhanced ability for users to directly influence the exchange’s ecosystem by creating new liquidity pools for their preferred tokens. This move significantly enhances the decentralized nature of the platform, allowing for greater community participation and influence in shaping the ecosystem’s growth.
+“Adding liquidity to ShibaSwap’s pools empowers you to participate in decentralized trading while earning fees with ease. While setting up a liquidity pool on Ethereum can cost around $100 or more, doing so on Shibarium typically costs less than $1, making it an attractive option for users seeking to participate in DeFi without breaking the bank,” the SHIB team explained.
+In addition to technical upgrades, ShibaSwap has introduced substantial improvements to its user interface and overall user experience. The redesigned dashboard and simplified user interface are aimed at enhancing the trading and yield farming experience for all users, regardless of their level of expertise in the DeFi space. This redesign makes navigation and operation within ShibaSwap more intuitive, facilitating smoother interactions with the platform’s various features.
+
+The platform now includes advanced features such as trend analysis charts, which allow users to spot trending tokens by volume and trading activities. The newly integrated analytics display provides users with real-time data on ShibaSwap’s total value locked (TVL) and trading volume, enhancing their ability to make informed trading decisions.
+The increased transaction volume on Shibarium not only promises more fees for liquidity providers and stakers but also supports a higher burn rate of the SHIB token through the burning of base gas fees. This dynamic serves a dual purpose: rewarding users for their participation and investment in the ecosystem and simultaneously reducing the overall supply of SHIB, potentially increasing its scarcity and value.
+Commenting on the future of ShibSwap in the SHIB Magazine, the dev team revealed that the DEX “is poised for even greater advancements with the upcoming V2 and V3 releases,” which will introduce a range of new features designed to further enhance user experience. These include extended user interfaces, more concentrated liquidity management tools, and customizable price ranges.
+All enhancements aim to improve rewards for liquidity providers, enhance portfolio management, and optimize overall liquidity performance.
+At press time, SHIB traded at $0.00002550.
+Shiba Inu price rises above the 0.236 Fib, 1-day chart | Source: SHIBUSD on TradingView.com
+Featured image from X @LucieSHIB, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Fraud and Money Laundering: Canadian Crypto King and Associate Charged
+
+
+							
+
+Aiden Pleterski and aide Colin Murphy charged with money laundering
+
+
+
+The charges followed a joint investigation by Canada’s DRPS and OSC.
+
+
+
+OSC advises the public to scrutinize individuals offering investment advice
+
+
+
+
+Canadian authorities have charged Aiden Pleterski, a self-proclaimed “Crypto King” residing in Whitby, Ontario, and his associate, Colin Murphy of Oshawa, Ontario, with fraud and money laundering offenses. The charges stem from a joint investigation – Project Swan – conducted by the Durham Regional Police Service (DRPS) and the Ontario Securities Commission (OSC).
+
+
+
+Pleterski faces the most serious allegations, including violating a court order (pursuant to subsection 517(1) of the Criminal Code) issued on May 14, 2024. He is also charged with one count of fraud exceeding $5,000 (Section 380(1)(a) of the Criminal Code) and one count of laundering proceeds of crime (Section 462.31(1)(a) of the Criminal Code). Pleterski remains in custody pending a bail hearing.
+
+
+
+
+
+
+
+
+
+Murphy, the second suspect, is charged with a single count of fraud exceeding $5,000. Unlike Pleterski, he was released after signing an undertaking, a legal promise to appear in court.  The OSC issued a public advisory urging investors solicited by the suspects to contact the commission. The regulator expressed gratitude to those who have already provided information to aid the ongoing investigation.The OSC’s Enforcement Branch and the DRPS Financial Crimes Unit led the investigation, with assistance from the Toronto Police Service, York Regional Police, and FINTRAC. Both the OSC and DRPS emphasized investor protection. They advise the public to exercise caution when approached with investment opportunities or financial advice. The authorities recommend using the  “Check Before You Invest” and “Registered crypto asset trading platforms” pages of their websites to verify the registration status of investment vendors.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+South Korean Crypto Market Soars to $32.4B as Bitcoin Recovers to $66,000 | Coinspeaker
+
+
+
+In addition to the increased daily trading activities in South Korea, local crypto exchanges also experienced growth in user base well ahead of the global crypto surge that pushed prices to unprecedented levels in early 2024.
+
+The South Korean crypto market has experienced significant growth over the past year, reaching a new  height of  $32.4 billion. The surge was driven by increased interest in the digital asset industry, particularly Bitcoin (BTC), which reached $73,000 in March following a two-year rebound.
+Despite the crypto asset dipping below $57,000 in April and now climbing back to $66,000, it did not deter investors from engaging with the emerging economy.
+
+
+
+
+South Korean Crypto Market Hits New Milestone
+According to reports citing an annual survey detailing the state of the virtual asset market during the latter half of 2023, the market capitalization of South Korean virtual assets sector surged by an astonishing 43.6 trillion won ($32.4 billion).
+However, this figure was only generated from licenced exchanges in the country such as Upbit, Bithumb, Coinone, Korbit and Gopax. In the last six months of 2023 alone, these companies recorded a 53% increase in market capitalization equivalent to $11.2 billion, compared to the first half of the year.
+The survey findings was released on May 16 by the South Korean Financial Intelligence Unit (KoFIU), a division of the Financial Services Commission. The data were collected from 22 local exchanges and 7 wallet and custodial service providers in the country.
+The study found that between July and December last year, the country’s crypto sector gained massive traction from traders looking to explore the market. The surveyed exchanges saw increased in trading volumes, daily activities and other areas of their business operations.
+“Trading volume, market capitalization, operating income of exchanges, deposits in Korean won all increased compared to the first half due to the rise in crypto prices and recovery of investor sentiment. The number of crypto trading users rebounded from the first half of 2023,” said KoFIU.
+Daily Trading Volume
+The daily trading volume of domestic virtual assets during the latter part of 2023 reached 3.6 trillion won ( $2.6 billion). The figure represents a 24% surge compared to the first half.
+In the KRW market, the average daily trading volume saw a 24% increase to $2.6 billion. Despite this increase, the coin market experienced a decline of 44% to $30,000.
+The coin market refers to crypto-to-crypto transactions where traders exchange their digital asset holdings for other types of cryptocurrencies without involving national currencies like dollars or Korean won.
+Individual Investors Lead Surge in Registered Users
+In addition to the increased daily trading activities in South Korea, local crypto exchanges also experienced growth in user base well ahead of the global crypto surge that pushed prices to unprecedented levels in early 2024. According to the survey, active users of registered exchanges in the country soared by 390,000 to reach 6.45 million by the close of 2023.
+This surge in users, accounting for over 10% of the nation’s total population, was predominantly driven by individual investors trading Bitcoin (BTC), Ethereum (Ether), and other altcoins.
+This group of investors made up 99% of the total number of active registered users, with nearly 60% of them falling within the age range of 30s and 40s.
+next
+
+Altcoin News, Blockchain News, Cryptocurrency News, News 
+
+
+
+
+
+
+
+
+
+
+Thank you!
+You have successfully joined our subscriber list.
+
+
+
+
+
+
+----------------
+
+Why Is the Crypto Market Up Today?
+
+
+The total crypto market cap (TOTAL) shot up above $2.3 trillion as the US Consumer Price Index (CPI) reading came in cooler than expectations. The headline CPI April came in at 3.4% year on year against the expectations of 3.6% from March’s 3.8%.
+Along with this Bitcoin price too surged and so did the altcoins with Fantom leading the pack with a 24% rise.
+In the news today:-
+
+Ripple joins hands with Cosmos’ Ethereum Virtual Machine (EVM) based protocol Evmos to build an XRP Ledger sidechain. This chain will be designed to be EVM-compatible.
+IOTA launched its “Testnet 2.0” which will enable the migration of the chain from Proof of Work (PoW) to Proof of Stake (PoS). The aim is to improve the scalability and efficiency of the network.
+
+
+TOTAL Breaks Out
+The total market cap broke out of the symmetrical triangle it was in for the past month on the back of softening inflation. This brought the total value of all crypto assets to $2.32 trillion, adding nearly $140 billion in the span of a single day.
+If the support at $2.3 is secured, the crypto market cap could continue rising gradually.
+Read More: Why do Hong Kong Spot Crypto ETFs Matter?
+Total Market Cap Analysis. Source: TradingView
+However, losing the same support could result in a fall back towards $2.25 trillion or lower.
+
+Bitcoin Price Breaches $65,000
+Bitcoin’s price too rallied along with the rest of the altcoins as the biggest crypto asset in the world crossed the $65,000 mark. BTC can be seen trading at $65,800 at the time of writing, after closing above $66,000 yesterday.
+The flag pattern suggests a 45% uptick is on the cards but the practical outlook would be a breach of $68,500 in the coming days.
+Read More: Bitcoin Halving History: Everything You Need To Know
+Bitcoin Price Analysis. Source: TradingView
+On the other hand, this rise might also trigger corrections at the hands of investors should they move to book profits.
+
+Fantom Surprises the Market
+Among all the top altcoins, Fantom’s price rise placed it at the top of the best-performing asset list. The altcoin increased by more than 24% to breach the $8 barrier at the moment. FTM has entered the resistance box between $0.80 and $0.88.
+This range has been tested as support and resistance, making it a crucial area to breach above. Flipping it into support could trigger a major rally for the cryptocurrency.
+
+Read More: Fantom (FTM) Price Prediction 2024/2025/2030
+Fantom Price Analysis. Source: TradingView
+However, the altcoin has failed a breach in the past. If the same occurs this time as well, Fantom’s price could drop back down to $7. Further drawdown will bring it to $6.3 support floor. 
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Mika Breaks Down Solana Congestion - Decrypt
+
+Mika Breaks Down Solana CongestionRug Radio Creator and crypto influencer Mika explains what happened during Solana's Q1 2024 network congestion through Kraken's Learn Center.
+
+----------------
+
+Aleph Zero Review | The Next Major L1 Protocol In 2024? - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
