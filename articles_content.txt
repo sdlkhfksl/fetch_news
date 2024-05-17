@@ -1,405 +1,3 @@
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Crypto Trader turned $1,470 into $202,000 in 5min! #shorts - YouTube
-
-AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
-
-----------------
-
-Why First Ethereum MEV Case Is Seen as a Double Standard - DailyCoin
-
-
-        
-The U.S. DOJ has charged two brothers for fraud in an MEV-related exploit.
-
-
-
-The Ethereum MEV case is the first of its kind.
-
-
-
-The case has sparked heated debates on potential double standards.
-MEV operators can front-run you, but front-running them is a crime?That’s the debate that has followed the U.S. Department of Justice’s (DOJ) decision to sue two brothers for fraud for orchestrating an attack on Ethereum trading bots called MEV (maximum extractable value) bots, programs designed to scour the blockchain for profitable front-running opportunities, that earned them $25 million in April 2023.A First of its Kind CaseOn Wednesday, May 15, the DOJ unsealed an indictment charging 24-year-old Anton Peraire-Bueno and 28-year-old James Pepaire-Bueno for conspiracy to commit wire fraud, wire fraud, and conspiracy to commit money laundering for a “novel scheme” targeting MEV bots that saw them make off with $25 million.
-“This alleged scheme was novel and has never before been charged,” U.S. Attorney Damian Williams for the Southern District of New York noted in a statement, highlighting that the case was the first of its kind.As alleged in the DOJ filing, the exploit was a months-long plot that saw the duo create 16 validators and exploit the MEV boost relay, software that would have typically prevented them from viewing and front-running MEV transactions. In simple terms, the duo baited MEV bots they targeted to place buy orders, pumping the price of illiquid tokens they held only to dump on the bots, leaving them holding the bag while making off with a $25 million loot. The entire exploit took only 12 seconds.While the DOJ argues that the brothers’ actions amount to fraud, several crypto community members have been left wondering how MEV can be tolerated while the brothers’ actions are dubbed fraud.How MEV WorksMEV refers to the profit market participants can make from reordering transactions on the Ethereum network before they are processed. Essentially, these network participants, typically autonomous software called searchers, leverage the transparency of the mempool (a waiting room for transactions on the blockchain) to identify high-value transactions and front-run them for profit. 
-They execute a similar transaction to the target transaction before it is processed, pumping the price so they can then quickly sell for a profit. The catch: this profit is usually at the expense of users who are forced to complete orders at a higher price than planned.“Thieves Stealing From the Thieves?”For many in the Ethereum community, the actions of MEV operators can be likened to theft, as their business is essentially making a profit at the expense of users."If you steal from regular users, then you're just a sandwich attacker. If you steal from the sandwich attackers, you get criminally charged by the DOJ. Huh?" asserted "Fishy Catfish."Chiming in, Ethereum developer Lefteris Karapetsas quipped: “Please make it somehow make sense.”DeFi Analyst Chris Blec added, “thieves stealing from the thieves.. gotta love it.”Brookwood P.C. Managing Partner Collins Belton noted that the key differentiator between MEV operators and the indicted brothers was the latter’s use of false signatures to exploit the MEV relay boost to see the typically private MEV transactions. His statements suggested that this exploit may be what the DOJ’s case may hinge on.At the same time, per the DOJ’s filing, the indicted brothers appeared to know they were breaking the law. Their web search history allegedly included “how to wash crypto,” “cefi exchanges with no kyc,” “top crypto lawyers,” and “wire fraud statute/wire fraud statute of limitations.”On the Flipside 
-The MEV boost relay vulnerability that made the exploit possible has since been patched.
-
-
-
-The DOJ filing suggests that prosecutors have a good grasp of how the Ethereum network functions.
-Why This Matters The DOJ’s Ethereum MEV case is the first of its kind. It will likely have significant impacts on how the network is viewed.Read this for on Ethereum:Vitalik Wants an Ethereum Gas Overhaul: Here’s the CatchLearn more about KuCoin’s decision to pull p2p support in Nigeria:KuCoin Latest To Pull Naira P2P in Nigerian War on Exchanges    
-              
-    
-
-----------------
-
-Why Did DeGods Leave Solana for Ethereum? 'I Was Just Being a Pussy', Says Founder - Decrypt
-
-In a candid tweet Thursday, DeGods and y00ts NFT project founder Rohun Vora (aka Frank DeGods) took a critical look at his previous decisions, especially those made during tumultuous times for the well-known collections. His reflection sheds light on the pressures of community expectations and being a founder.“I used to try to move mountains to appease the community in times of chaos," he began. "Every single time it's backfired."Throughout the years as the leader of DeGods, he has made many decisions to try and please his holders and keep the buzz going. For example, the team went through many art changes, including a planned upgrade and self-proclaimed art “downgrade.” On Thursday, the team said that it would make no further art changes to DeGods.But the biggest and most controversial move was bridging DeGods NFTs from Solana to Ethereum last year, along with y00ts from Solana to Ethereum sidechain network Polygon—though they then moved y00ts to the Ethereum mainnet and returned a $3 million grant from Polygon Labs.Making the decision to bridge the projects off of the Solana blockchain happened as the community was in a state of panic following the collapse of crypto exchange FTX in November 2022, which preceded Solana’s price collapsing to a low of about $8—roughly 97% from its 2021 peak.Frank, feeling the pressure, made the call to move the projects to the Ethereum ecosystem, which houses the most valuable NFT projects. He framed the move at the time as one designed to elevate DeGods into the big leagues of NFT culture."Like the bridge off SOL,” Frank wrote. “Everyone in the community was panicking (myself included) during FTX. I tried to fix their anxiety. In reality, I was just being a pussy."Frank contrasted his past actions with his current mindset, emphasizing the importance of standing by your convictions."The truth is, on the internet you either stand by your convictions or you're a pussy," he tweeted. Frank stressed that succumbing to short-term pressures and seeking immediate approval often backfires. It’s a lesson he learned by leading one of the most prominent NFT projects, and one that has faced considerable challenges—many self-inflicted, as he admitted.Frank recently announced the launch of an optional bridge back to Solana for both DeGods and y00ts. This move allows the community to decide whether to stay on Ethereum or return to Solana, reflecting his desire to provide flexibility and choice. There are no strong-armed incentives this time around. It's just an option."I said I want to allow our community to come back home and I meant it. I still do,” he wrote, though they launched the latest bridge with decidedly less fanfare than the original.Decrypt reached out to Frank for additional comment, but did not receive an immediate response.Frank’s tweet offers a raw and honest look at the challenges of leading an NFT project amid the constant demands of holders, particularly amid a diminished market for such assets. The bridge back to Solana and increasing openness about the past appear to be moves to atone for lingering regrets, all while the projects attempt to move forward.Looking forward, Frank expressed his belief in building a robust and resilient community, rather than one that constantly seeks validation through reactive measures."I believe that antifragility is the answer,” he wrote. “That's my conviction. Not just building the best community, but the strongest one."Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Institutional Bitcoin Adoption Is Just Getting Started, Says Anthony Scaramucci
-
-
-                        
-                            Institutional Bitcoin Adoption Is Just Getting Started, Says Anthony Scaramucci                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 16, 2024 19:06 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Skybridge Capital co-founder Anthony Scarmucci believes new entrants to Bitcoin are still early, with institutional adoption of the asset only just ramping up.Anthony Scaramucci On Institutional Bitcoin Investment
-During an interview with CNBC on Thursday, the investor said that institutional adoption is “happening now,” and that he expects more pension funds to reveal soon that they have allocations to BTC.“Bitcoin now has the regulatory approval – that was the rate-limiting step for a lot of these large-scale institutions,” Scaramucci explained. “Just remember, if you’re not long Bitcoin, then you’re possibly short Bitcoin.”Leading up to May 15, nearly 1000 large investors with over $100 million in assets disclosed owning at least one of the U.S. Bitcoin spot ETFs in their securities portfolios. One of those investors included the State of Wisconsin Investment Board (SWIB), which disclosed a $162 million allocation to the ETFs this week.According to Scaramucci, institutions are dipping their toes into BTC before it becomes part of a “total tactical asset allocation index.”Bitwise CIO Matt Hougan backed this view on Tuesday, predicting that institutions could begin to devote between 1% and 5% of their portfolios to BTC as they tentatively expose client funds to the asset.How High Can Bitcoin Go?
-When asked why Bitcoin would attract such widespread adoption, Scaramucci said he was in the “digital gold category” – a subset of investors who see the asset’s primary use case as a store of value rather than a medium of exchange. MicroStrategy executive chairman Michael Saylor falls into this camp, having previously called Bitcoin’s use case as currency “a distraction.”“Sometimes when you’re early you get a lot of bumps and scrapes, but I think it pays to be early in Bitcoin, and I think we’re still early in Bitcoin,” he concluded.Earlier this year, Scaramucci predicted that Bitcoin could reach $170,000 per coin by the end of 2025.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Analyst Says Dogecoin Is Set To Breakout: How This Could Trigger Another Meme Coin Mania | Bitcoinist.com
-
-
-								Dogecoin is once again seeing an upside following the Bitcoin recovery above $66,000, which, in turn, triggered a broader crypto market recovery. Crypto analyst Crypto Scient expects this bullishness to continue going forward and eventually lead to the start of another meme coin mania.
-Dogecoin Set To Kickstart Meme Coin Mania
-Presently, the Dogecoin price is not as bullish as expected since it continues to struggle to break out of $0.15. However, it has not eroded expectations for the meme coin as crypto analysts continue to predict that its price still has room to rally.
-
-Crypto Scient is the latest in the long line of analysts who believe this, expecting the meme coin to flip bullish at some point. As he explains, once the Dogecoin price flips bullish, it’ll trigger the start of another meme coin mania as other meme coins start to move with it, similar to what was seen in February 2024.
-The crypto analyst points to a break above $0.15 that could trigger another rally toward $0.2. Then, after this, he expects the meme coin to break and flip once again, but this time around, it is the $0.175 level. At this point, Crypto Scient expects a continuation signal for further upward rallies.
-As for price targets, the top of the analyst’s target sits at $0.34. From the current level of around $0.155, it would mean an over 100% increase from here. However, even achieving this price point would still put it around 50% below its all-time high price of $0.7.
-DOGE Metrics Flipping Bullish
-Despite its price not performing as well as investors hoped, the steady rise in bullishness in Dogecoin metrics suggests that the meme coin could end up seeing a delayed rally. One of these metrics is the open interest.
-Over the last 24 hours alone, the Dogecoin open interest has risen by over 10% to $869.54 million, according to data from Coinglass. This suggests a steady rise in interest in the altcoin among traders who are not open more positions on the meme coin. Historically, whenever open interest started rising, the DOGE price has followed as well.
-
-Another metric that has seen a bullish reversal is the Dogecoin daily trading volume. CoinMarketCap’s data shows that DOGE’s daily trading volume has also seen an 11% increase during the last day, rising above $1.8 billion.
-If these metrics hold and Dogecoin eventually flips bullish as Crypto Scient predicts, then a rally similar to what was seen in February could easily push it toward $0.4. However, for now, the meme coin continues to struggle at $0.154, indicating a small 3.24% increase in the last day.
-Bulls reclaim control of DOGE price | Source: DOGEUSDT on Tradingview.com
-Chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-End Of The Road For BNB After 200% Surge? Mounting Resistance Threatens Rally
-
-
-																BNB, the native cryptocurrency of the BSC network, has undoubtedly been one of the winning altcoins scene the bull market began. The price has been able to go from around $200 to over $600 in the space of a year, notching over 200% gains in the process. However, it seems that this outperformance by the altcoin is coming to an end, as an analyst predicts that it is about to hit massive resistance that could stop its growth dead in its path.
-BNB Headed For Mounting Resistance
-In an analysis that was shared on the TradingView website, crypto analyst Trade City Pro revealed that the BNB token might have to fighting massive resistance soon. The analyst points out that this is a culmination of the bullish rally that the altcoin has seen in the last year, and now bears are maki g their stand.
-
-	Related Reading
-
-
-
-The analyst points to Bitcoin’s performance during this time as something that could help to pinpoint where the BNB price is headed next. As they explain, BNB risks falling into correction and consolidation after that, making its current level a perilous one for investors.
-Mainly, the crypto analyst credits the altcoin’s performance from here on what Bitcoin does next. BNB, which is currently the 4th-largest cryptocurrency by market cap, mirrors Bitcoin’s movements to a larger extent compared to smaller altcoins. So, Trade City Pro’s analysis with respect to Bitcoin is not far off.
-For confirmation of whether the BNB token continues to be something to sell or hold, the analyst places the ultimate decision around the $48,000 level for Bitcoin. They explain that a dump below $48,000 would be a sell signal. However, if the Bitcoin price were to maintain strength above $48,000, then they would continue to hold the altcoin.
-What Happens In The Event Of A Price Crash?
-Should the BNB price crash from here, the crypto analyst has prepared an action plan that could help investors take advantage of it. For example, a Bitcoin crash below $48,000 could send the BNB price below $400, and at this level, the analyst believes buying would be a good move. This is what the analyst refers to as the “Potential Re-Entry” point.
-Then, for “Entering After Resistance,” the analyst advises investors to buy the altcoin if the price is able to reclaim $616 and stay above it. This level is important because the $616-$660 range is identified in the analysis as a significant resistance zone, and so beating it is important for the BNB price to continue its rally.
-Related Reading: How High Can The XRP Price Go? Crypto Analyst Unveils 6-Month Prediction
-Additionally, Trade City Pro adds that the Fibonacci Retracement Levels might offer a level for re-entry into the altcoin. “In case of a correction, the key Fibonacci levels from the last upward wave at 0.5 and 0.618 (between $394 to $430) might offer good entry points. Wait for a reaction or momentum change at these levels before entering,” they stated.
-Lastly, the analyst points out that BNB has not really followed the broader market in recent times, which could mean something is coming. “It’s intriguing that BNB seems relatively unaffected by broader market conditions, suggesting Binance might be positioning for something unique,” Trade City Pro said in closing.
-BNB bulls holding above $550 support | Source: BNBUSDT on Tradingview.com
-Chart from Tradingview.com
-																								
-															
-
-
-						
-
-----------------
-
-Next-Gen Blockchain Breakthroughs: L2 Projects to Watch in 2024
-
-
-
-                    
-
-The landscape of blockchain technology is constantly evolving, with fresh solutions emerging to tackle the challenges of today’s networks. As we step into 2024, a bull run is energizing the market, pushing investors and enthusiasts to look closely at the next batch of innovative projects. Layer 2 developments are at the forefront, enhancing performance and broadening the scope of what these platforms can do. This article delves into the most promising Layer 2 initiatives that are poised to make significant strides this year. Stay tuned to discover which ones could potentially reshape the future of blockchain efficiency and application.
-
-
-
-Over $6 Million Raised: BlastUP Presale Continues, Offering Up To 1000% Potential ROI
-
-
-
-BlastUP has been getting a lot of attention lately thanks to its high potential to become a major force in the crypto industry. This pioneering launchpad on Blast has already attracted over 15,000 active users. 
-
-
-
-
-The ongoing presale of BlastUP is a huge success, more than $6 million raised so far. The BlastUP token is considered by crypto experts as a hidden crypto gem that can skyrocket 1000% by the end of this year. 
-
-
-
->> Buy BlastUP Tokens Now for Maximum Returns! <<
-
-
-
-BlastUP helps crypto startups grow faster and earn more. As BlastUP forges ahead, it remains committed to creating a global hub for the Blast community. BlastUP is rapidly gaining traction for the benefit of all participants in this ecosystem.
-
-
-
-
-BlastUP’s roadmap extends into 2026, promising the introduction of AI-driven tools and the Community Marketplace, further enriching the ecosystem’s capabilities.
-
-
-
- The BlastUP token, a cornerstone of the platform, unlocks access to tiered IDO launches, staking rewards, and exclusive loyalty benefits.
-
-
-
->> Join BlastUP Now or This Rocket Will Take Off Without You! <<
-
-
-
-Optimism Price Analysis: Bullish Momentum Ahead?
-
-
-
-Optimism (OP) prices are on the rise, currently trading between $2.33 and $2.86. In the last week, OP dropped by 6.49%, but the monthly view shows a 7.25% increase. Over six months, the coin has grown by 38.20%. The RSI at 62.04 suggests that OP is not overbought, while a high Stochastic of 93.63 could mean prices might take a pause. The MACD at 0.01 points to a neutral momentum. The coin is showing bullish signs as it hovers above its 10-day and 100-day moving averages of $2.45 and $2.49, respectively. With the nearest resistance at $3.19 and support at $2.14, optimism might be gearing up for an impulsive move towards higher prices.
-
-
-
-
-Understanding Polygon (MATIC) Market Movements
-
-
-
-The current price of Polygon (MATIC) is moving within a range of $0.63 to $0.74. Over the past week, it has dropped by 1.01%. It also decreased by 3.24% in the last month, and looking back six months, it fell by 18.70%. This suggests that the price movement is in a corrective phase. The RSI at 72.70 indicates the coin may be overbought. With prices below the first resistance of $0.82 and above the nearest support of $0.59, MATIC’s immediate future will likely depend on whether it can maintain its position above this support level.
-
-
-
-Conclusion
-
-
-
-In the surge of 2024’s bull run, several Layer 2 projects stand out, but short-term potentials for OP and MATIC seem modest compared to a more compelling option. BlastUP is at the forefront for investors focused on substantial growth. This project is gaining traction due to its innovative approach and the advantages offered by its integration with the Blast ecosystem. With its solid concept and ecosystem support, BlastUP is poised to outshine its peers in terms of potential.
-
-
-
-Site: https://blastup.io/
-
-
-
-Twitter: https://twitter.com/Blastup_io
-
-
-
-Discord: https://discord.gg/5Kc3nDhqVW
-
-
-
-Telegram: https://t.me/blastup_io
-
-
-                
-
-                
-
-----------------
-
-Gamestop Moon (GMEMOON) to Skyrocket 9,000% as Huobi Listing Announced, While Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-Gamestop Moon (GMEMOON) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Gamestop Moon (GMEMOON), a new Solana memecoin that was launched today, is poised to explode over 9,000% in price in the coming days.
-
-
-
-
-This is because GMEMOON has announced its first centralized exchange listing, which will be on Huobi.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, Gamestop Moon can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Gamestop Moon could become the next viral memecoin.
-
-
-
-Gamestop Moon launched with over $7,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
-
-
-
-To buy Gamestop Moon on Raydium or Jupiter ahead of the Huobi listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Gamestop Moon by entering its contract address – Bpb4YRRLgpeQByou2kcffQFFx3FGhnqaHfba8wM315wH – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like GMEMOON.
-
-
-                
-
-                
-
-----------------
-
-Ethereum Price Prediction as Trading Volume Surpass $13.5 Billion
-
-
-                        
-                            Ethereum Price Prediction as Daily Trading Volume Surpasses $13.5 Billion – Are Whales Accumulating ETH?                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 16, 2024 18:23 EDT                            
-                                                             | 3 min read                                                    
-                    
-                
-            
-
-    
-
-Ethereum Price Prediction as Daily Trading Volume Surpasses $10 Billion – Are Whales Accumulating ETH? / Source: Cryptonews
-                        The Ethereum (ETH) price is under pressure on Thursday, having now fallen 3.3% on the back from above $3,040 to current levels around $2,930, amid high daily trading volumes of $13.5 billion, as per Yahoo Finance data.Ether has now all but erased Wednesday’s post US CPI gains, weighed as bearish sentiments creep back into the market.Following a recent death cross in the ETH/BTC pair, the Ether price is just hit new three-year lows.In a Wednesday note, Coinbase research analyst David Han gave a few reasons for ETH’s underperformance.“The approval of spot bitcoin ETFs in the US has reinforced bitcoin’s store-of-value narrative and its status as a macro asset”.“On the other hand, open questions about ETH’s fundamental positioning within the crypto sector remain,” he continued.The SEC is expected to reject applications for multiple spot Ethereum ETFs in the US later this month.Many think this is because the SEC is still considering whether Ethereum might be considered a security.Moreover, “competing layer-1s like Solana detract from Ethereum’s positioning as the ‘go-to’ network for decentralized app (dApp) deployment,” Han said.Ethereum’s Dencun upgrade earlier this year has also lowered the crypto’s burn rate via a substantial drop in fees.That’s probably going to be a long-term positive for Ethereum’s adoption, as high fees discourage network use.But some have framed the lower burn rate as bearish for ETH.It’s no surprise then that Citron Research founder Andrew Left just told Benzinga that he shorted Ether.Ether will be labeled as a security and won’t get the same stamp of approval as Bitcoin, he posited.ETH/BTC remains locked within a multi-year downtrend. Whales may be reluctant to accumulate when the much safer, more accepted Bitcoin is looking so strong.ETH/BTC remains locked within a multi-year downtrend. Source: TradingViewEthereum Price Prediction – Where Next for the ETH Price?
-The Ethereum price’s latest drop suggests that the bears remain very much in control of this market in the short term.Firstly, ETH continues to find strong resistance at its major short-term moving averages. The 21DMA was the major hurdle it was unable to surpass this week.The Ethereum price continues to find strong resistance at its major short-term moving averages. Source: TradingViewEtherSecondly, the Ethereum price remains locked in a medium-term downwards trend channel from the earlier yearly highs.the Ethereum price remains locked in a medium-term downwards trend channel from the earlier yearly highs. Source: TradingViewThirdly, Ether appears to be forming a descending triangle structure, with the price floor currently around $2,850.Ether appears to be forming a descending triangle structure, with the price floor currently around $2,850. Source: TradingViewl frDescending triangles typically form ahead of bearish breakouts.Traders also need to keep an eye on the uptrend that has been in play since October.The Ethereum price appears pointed towards a drop below recent low. The first downside target would be the early 2024 highs near $2,700.The next major support zone would be around $2,150. Whales would likely jump back into the market to accumulate if ETH retested this zone.Yes, things aren’t looking good for ETH relative to BTC. But we are still in the midst of a crypto bull market.And at $2,150, Ether would be at a near 50% discount from its earlier yearly high price.Ethereum Alternative to Consider
-Ethereum’s decline comes at a time when meme coin season might be about to pick up once again.Without question, meme stock season has returned since GameStop icon Roaring Kitty returned to social media earlier this week.Investors looking for better upside prospects than those offered by ETH might want to position themselves in the meme coin market.Established meme coins like Dogecoin and Shiba Inu are relatively “safe” bets that could yield 5x returns.For investors looking for 50-100x gains, they need to find newer meme coins.One new meme coin project that analysts at Cryptonews like a lot is Wiener AI (WAI).The fun new sausage dog-themed coin offers a suite of AI-powered trading tools.Investors have already ploughed nearly $2 million into the WAI presale.Interested investors better move quickly. When the presale hits $2.15 million, the WAI price will rise.Presale investors are also currently earnings huge staking yields of 499%, though this will fall as the presale progresses.Buy WAI Here                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Solana Trader Turns $1,470 into $200,000 in Five-Minute Crypto Windfall | Cryptoglobe
-
-
-                                
-A cryptocurrency trader managed to, in the span of just 5 minutes, turn just 9 Solana ($SOL) tokens worth around $1,470 into 1,238 SOL worth over $200,000, to secure a gain of 137x in little time.
-
-
-
-According to data shared by on-chain analysis service Lookonchain, the trader spent the 9 SOL tokens to buy 28.58 million TOBI tokens, and after their purchase the price of the cryptocurrency started skyrocketing, a move that they used to dump their holdings back for SOL.
-
-
-
-Their profit was of over $200,000 in just 5 minutes.
-
-
-
-
-
-
-
-The trader’s gains come at a time in which cryptocurrency investment products focusing on Solana itself have been attracting institutional interest, with data from CoinShares showing that products offering exposure to SOL saw $5.9 million of inflows in a week, bringing their total year-to-date flows to $17 million. Polkadot (DOT), XRP and Litecoin (LTC) investment products followed suit, with $1.2 million, $600,000 and $100,000 inflows respectively.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-The trader’s gains aren’t new to the Solana ecosystem, which has been seeing a memecoin mania where both insiders and opportunistic trader have been taking advantage of the growth of newly launched tokens to enrich themselves.
-
-
-
-As reported, a patient’ cryptocurrency trader has recently managed to turn around $8,600 into over $1.26 million after investing in a little-known cryptocurrency and holding onto it for two months to secure their gain of 144x.
-
-
-
-The trader’s gains come after another cryptocurrency trader managed to turn 500 SOL tokens worth around $67.000 into 5,789 SOL worth over $780,000 in just 15 minutes after managing to “snipe” a large portion of a newly launched cryptocurrency’s supply.
-
-
-
-There have also been significant losses, with a Solana trader losing $37,000 while speculating on a memecoin over their emotional trading pattern.
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
-Pepe (PEPE) Enormous 200% Rally Continues, Shiba Inu (SHIB) About to Break Fundamental Resistance, Solana (SOL) Made It
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-As TradingView's data suggests, PEPE has secured a massive 21% growth in the last few days. The asset has reached the $0.00001 threshold and is now aiming towards breaking the all-time high once more. Key factors to watch will be: moving averages support, ascending trendline, and momentum indicators like RSI.PEPE’s recent surge is supported by a strong upward trendline, showing consistent upward movement. This trendline has been a solid support level, helping PEPE stay on its bullish path. The 50, 100, and 200 EMAs are also moving up, providing extra support and reinforcing the positive trend.PEPE/USDT Chart by TradingViewAnother important indicator is the RSI. Right now, the RSI is close to the overbought zone, which means PEPE might see some short-term pauses before moving up again. As long as the RSI stays above the middle line, the bullish trend should continue.Volume is also crucial. The recent increase in volume shows strong buying interest, which is essential for keeping the bull run going. Higher volumes usually mean more traders are active and confident. For PEPE to break its all-time high, it needs to keep these high trading volumes.Shiba Inu's revitalizedShiba Inu has faced a fundamental resistance level reflected in the 50 EMA formation. The asset is in active battle mode against it and the most recent price action suggests that buyers want to leave it behind. With some room for growth, SHIB needs one more push.SHIB's volume surge is a positive factor for the asset's price, but it's not a guarantee of an upcoming price rally. The surge in trading volume may indicate a surge of buying interest among investors, but the general market recovery remains a key factor for the beloved memecoin.If SHIB successfully breaks through, it could signal the start of a more extended upward movement.  It's an important moment for Shiba Inu: fighting to break through the 50 EMA resistance. The path ahead holds potential for growth, but it requires more buying power and higher trading volumes to confirm a bullish trend. In case of a breakthrough, it could signal the start of a longer upward movement. Solana breaks throughSolana has finally broken through a key resistance level, gaining a foothold above the 50 EMA. As TradingView's data suggests, Solana has reached the $160 price threshold and even moved past it. For now, the price needs some bullish conviction to stay afloat and push forward.Solana faces first resistance around $175, a level that has previously acted as a strong resistance. If Solana can break through this, the next target could be $190, another historical resistance level. On the downside, support is likely around $145, which has previously acted as a price reversal level. If it holds, it could provide a solid foundation for further upward movement.Volume is another important factor. The recent increase in trading volume indicates strong buying interest, which is necessary to sustain the current uptrend. Higher volumes generally mean more market participation and confidence among traders. For Solana to continue its upward movement, it needs to maintain or even increase this volume.Additionally, the Relative Strength Index is hovering around the midline, suggesting there is still room for growth before hitting overbought territory. This is a positive sign for further upward momentum.Solana’s recent break above the 50 EMA and the $160 mark is a strong signal of potential growth. With increased trading volume and positive RSI indicators, the outlook appears bullish.$175 and $190 resistance levels are ones to be watched. The volume is also crucial, we need it to ensure the uptrend continuation. If Solana can maintain this momentum, it could be on its way to even higher price levels.
-
-
-
-----------------
-
 Bitcoin Price Prediction: BTC Above $65K Amid $100M Andrew Tate Investment and Supply Lows
 
 
@@ -9751,3 +9349,397 @@ The ETH/BTC ratio may have just set a new multi-year low amid depressed sentimen
 Telegram Founder Pavel Durov Says He’ll Hold $7 Million Notcoin Gift Until 100x - Decrypt
 
 Notcoin users were feeling generous ahead of Thursday’s NOT token launch, as over half a million players of the viral Telegram-based clicker game donated a share of their in-game coins to Telegram founder Pavel Durov. Now that haul is worth millions of dollars—and Durov says he’s holding for a potential 100x gain.More than 552,000 players of Notcoin donated a share of their in-game coins to Durov back in February, part of an effort by the Notcoin team—called Open Builders—to thank the Telegram founder for the messaging app that houses the crypto game.Ultimately, Durov ended up with over 1.03 billion NOT tokens, or just over 1% of the total Notcoin supply on The Open Network (TON). That’s worth about $7.3 million as of this writing, but was a bit lower at $6.8 million when Durov posted earlier Friday.Durov, who’s estimated to have a $15.5 billion fortune by Forbes, hardly needs the cash. And he’s not selling. But should the NOT token surge in value, he says he’d sell them to ultimately better support Telegram.“Half a million Notcoin users gifted me $6.8 million worth of Notcoin! Thank you,” Durov wrote on Telegram. “I will hold these coins until they turn to $680 million, at which point I will use them to buy more servers for Telegram.”Notcoin is this year’s biggest gaming token launch so far, debuting at a market cap of nearly $1.5 billion early Thursday. New cryptocurrencies are often volatile, and indeed, NOT has plunged in value since the debut—dropping by 50% to a current price just above $0.007, according to CoinMarketCap.Even so, NOT is the 101st most valuable cryptocurrency by market cap at $746 million, and racked up more than $1 billion worth of trading volume in its first 24 hours after launch.Notcoin paused its coin-tapping gameplay in April to prepare for the token rollout, but it set to relaunch its crypto-earning game—and ultimately serve as a platform for additional games in an effort to become the “Netflix of social, viral games,” co-creator Sasha Plotvinov told Decrypt’s GG in April.GG NewsletterGet the latest web3 gaming news, hear directly from gaming studios and influencers covering the space, and receive power-ups from our partners.
+
+----------------
+
+Ethereum price rallies above $3.1K after unexpected regulatory victory
+
+Ether (ETH) price rose by 5.5% on May 17, nearing $3,100 for the first time in 10 days. Analysts attributed this rally to a decrease in demand for fixed-income instruments following stagnant United States retail sales data in April. This data increased the market’s expectation of a potential interest rate cut by the U.S. Federal Reserve to boost the economy.Expansionary measures by the central bank are typically seen as bullish for risk-on markets, whether due to an increased monetary supply or reduced credit costs for businesses and individuals. Investors sought exposure to scarce assets, including cryptocurrencies, leading to gold reaching $2,410, just 0.8% below its all-time high.A court ruling gave Ether investors a confidence boostEther’s surge was also driven by a U.S. Department of Justice indictment unsealed on May 15. The indictment accused two individuals of wire fraud and money laundering by manipulating the Ethereum blockchain. The document stated that “Ethereum is a decentralized blockchain […] without the need for a trusted intermediary” and added, “No central actor runs the Ethereum Network.”Additionally, the court noted that Ethereum smart contracts enable transactions without a trusted intermediary. These statements boosted Ether investors’ confidence, especially after the U.S. Securities and Exchange Commission issued a Wells notice to the trading platform Robinhood on May 4 over alleged securities violations related to crypto listings and custodian operations.According to Orlando Cosme, founder and CEO of Lexproof, such a verdict contradicts regulators’ classification of ETH as a security, “as there would be no management or entrepreneurial efforts of others.” While this analysis does not change the approval odds of U.S. spot Ether exchange-traded funds (ETFs), it certainly lifted investors’ spirits.The U.S. SEC is expected to provide its final ruling on VanEck’s spot Ether ETF request on March 23 and rule on the conversion of Grayscale’s ETHE fund by June 18. Although analysts predict approval odds below 35%, the regulators’ case for classifying Ether as a security instrument has weakened, which might have contributed to the rally above $3,050 on May 17.Solana co-founder Anatoly Yakovenko praised Ethereum’s network security, highlighting how coordinating “an invalid state transition or double spend attack” would be nearly impossible. In a May 17 post, Yakovenko added that layer-2 scaling reduced costs without compromising security due to the network’s large number of validators and operators.In short, investors realized that whatever setbacks Ethereum faced, including high transaction fees and its lackluster efforts to increase scalability, were, in fact, decisions that prioritized security and decentralization. Meanwhile, competitors Solana and BNB Chain opted for solutions that allowed a higher processing capacity, regardless of the merits of increasing dependency on fewer entities.Ethereum network’s dominance remains undisputedEthereum’s strength becomes evident when analyzing its dominance in decentralized application (DApp) activity. The growth of layer-2 solutions such as Base, which quickly gained traction due to its low fees and integration with the U.S.’s largest crypto exchange, Coinbase, further reinforces Ethereum’s ability to become a global settlement layer.Top blockchains ranked by 30-day Dapps volumes, USD. Source: DappRadarEthereum’s $181.5 billion in DApp volume over 30 days is more than seven times larger than its direct competitor, BNB Chain. More importantly, this volume declined merely 3% compared to the previous month, while BNB Chain and Solana experienced 52% and 41% decreases in volume, respectively.Related: U.S. Senate passes resolution overturning SEC crypto rule on banksAnalyzing unique active addresses engaging with DApps yields similar results, with Ethereum gaining 3% in 30 days while BNB Chain and Solana faced steep declines. Highlights from the Ethereum network include Balancer, which saw a 34% volume increase in 30 days, Morpho Optimizers, which gained 80%, and DODO, with a 61% volume boost.In essence, even if the U.S. spot Ether ETF approval odds remain low, investors are realizing that the network’s dominance in the DApp ecosystem remains unaffected. This realization contributed to the ETH price gains on May 17. This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+----------------
+
+Is Tether Minting $1 Billion USDT a Sign of Upcoming Surge? - DailyCoin
+
+
+        
+
+Bitcoin’s price has surged past $66,000 coinciding with positive news on inflation.
+
+
+
+Tether has minted billions of tokens, fueling speculation about its impact on Bitcoin’s price.
+
+
+
+Stablecoin holdings on exchanges have surged, raising liquidity and potentially increasing market volatility.
+
+
+
+
+The cryptocurrency market is showing signs of renewed life as Bitcoin surges past $66,000, coinciding with positive news on the US inflation front. This rally comes alongside a significant rise in stablecoin holdings on crypto exchanges, potentially setting the stage for a broader market upswing.
+
+
+
+Stablecoin Supply on the Rise
+
+
+
+Data from Lookonchain reveals that Tether, a major stablecoin issuer, minted an additional $1 billion worth of USDT tokens just 13 hours ago. This follows a trend of increased minting throughout the past month, with Tether’s market cap rising from $108 billion to over $111 billion. 
+
+
+
+
+
+
+
+In total, Tether has minted a staggering 31 billion USDT tokens over the past year, potentially fueling the rise in Bitcoin’s price from $27,000 to $73,000. 
+
+
+
+
+This trend extends beyond Tether. According to Woominkyu on CryptoQuant, a market analysis firm, there has been a recent surge in overall stablecoin inflows, suggesting a significant influx of fresh capital entering the cryptocurrency market. 
+
+
+
+This increased liquidity has the potential to significantly impact Bitcoin’s price dynamics, with the possibility of heightened volatility as supply and demand forces adjust.
+
+
+
+Bitcoin in a Consolidation Phase
+
+
+
+While the influx of stablecoins suggests a potential market rally, cryptocurrency analyst Willy Woo believes Bitcoin is currently in a “warm-up phase” within its liquidity cycle. Woo points out that Bitcoin is consolidating below its all-time highs, indicating a period of relatively low long-term risk for investors. 
+
+
+
+
+
+
+
+He highlights that significant market activity tends to correlate with increased risk, suggesting the current phase offers a degree of stability. The combined factors of a rising Bitcoin price, increased stablecoin holdings, and a cautious yet optimistic market outlook paint a picture of a crypto market preparing for potential growth. 
+
+
+
+
+While future volatility is a possibility, the current trends suggest a market primed for further movement. Overall, the rise in stablecoin activity injects optimism into the cryptocurrency market. However, analysts like Woo caution that Bitcoin’s price may experience volatility as the market absorbs this influx of liquidity.
+
+
+
+On the Flipside
+
+
+
+
+While a rise in stablecoins can signal new investment, it can also indicate investors seeking to hedge their bets or move capital out of riskier assets.
+
+
+
+A downturn in traditional markets could still impact the crypto market, even with an influx of stablecoins.
+
+
+
+The rise in stablecoin supply might not directly cause a sustained Bitcoin price increase.
+
+
+
+
+Why This Matters
+
+
+
+The surge in stablecoin holdings, particularly Tether’s minting of new tokens, coincides with Bitcoin’s price rise and suggests a potential influx of fresh capital. This increased liquidity could fuel a broader market upswing but also heighten volatility as supply and demand forces adjust within the cryptocurrency ecosystem.
+
+
+
+If you’re interested in cryptocurrency regulation, you’ll probably want to read this article about the U.S. government’s investigation into Tether:U.S. Scrutiny of Tether Raises Concerns for Stablecoin IndustryCurious about the rumors of a US probe into Tether, a stablecoin? This article explores the situation in more detail:Tether CEO Dismisses SEC Probe Rumors as Malicious FUD
+
+    
+              
+    
+
+----------------
+
+All Bitcoin Sold: Analyst Reveals Why He Swapped To Altcoins
+
+
+								A prominent figure in the crypto space revealed he has sold all his Bitcoin (BTC) holdings in favor of Altcoins. In an X post, the market expert claimed to still have faith in the flagship cryptocurrency and explained what he did and the reasons why.
+
+Expert Takes A Risk To Get More Bitcoin
+On Thursday, renowned crypto analyst Michaël van de Poppe announced to his X followers that he had sold all his Bitcoin holdings. He prefaced his explanation by stating that he had not lost his faith in BTC.
+The expert explained he is not expecting the largest cryptocurrency by market capitalization to be “topped out for this cycle.” Additionally, he clarified that he has not become a “complete believer in gold.”
+ 
+
+Van de Poppe’s annoucement. Source: Michael van de Poppe on X
+Van de Poppe’s goal is to buy back more Bitcoin later in the year since “It’s a bull cycle; we can’t deny that.” However, he explains that the simplicity of the four-year cycle and the impact of “Halving” events will reduce over time as Bitcoin becomes a mature asset worldwide and institutions prioritize “risk appetite in their portfolios.”
+According to the analyst, “It’s all about risk,” and institutions will de-risk when liquidity dries up. As a result, this cycle may be the final “easy” cycle to make big profits through altcoins.
+He asserted that he must take a risk as a 31-year-old entrepreneur who has been surviving several bull and bear markets since 2017. To obtain more Bitcoin, van de Poppe decided to trade Altcoins within the Web 3.0 ecosystem, which he considers the riskiest path:
+“I know the tides, and I know that to get a large return, you’ll need to get more knowledge and dare to take the risk against all odds and sentiment. That’s where I fancy it the most and where I’ve had periods when things went south. Can’t deny that.”
+Altcoins Poised For Big Returns
+Further explaining why he chose this path to earn back his Bitcoin, the analyst stated that “altcoins have been crushed unreasonably hard” during this cycle. Due to this, van de Poppe is considering several events that could make or break his bet on altcoins.
+First, he listed the slim chances of an Ethereum (ETH) spot Exchange-Traded Fund (ETH) being approved alongside the Securities and Exchange Commission (SEC)’s crackdown on ETH. The clarification on the status of the second-largest cryptocurrency could “make a significant U-turn.”
+Second, the results of the US House of Representatives vote regarding the FIT21 bill could provide a clearer regulatory framework for the crypto industry in the US. Lastly, the outcome of the XRP lawsuit, which he believes will result in the asset not being classified as a security, could also positively affect the market.
+Van de Poppe stated that the upside of his bet cannot be denied. Nonetheless, he recognizes that the downside is relatively huge. The expert explained he’s currently 20% down on the overall investment in two weeks, claiming that he’ll be fine with the possibility of losing 50-80% of his investment.
+For the analyst, the chances of making a 300-900% return in the coming 6 to 12 months outweigh the risks. With the possibility of earning between 900% and 4500% in the next one to two years, van de Poppe is “happily allocating entirely towards altcoins.”  He closed his post optimistically stating, “The bull cycle will be glorious.”
+
+
+Bitcoin is trading at $66,340 in the monthly chart. Source: BTCUSDT on TradingView
+Featured Image from Unsplash.com, Chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Ghana, Singapore conduct trade in semi-fungible token pilot project
+
+The Bank of Ghana (BOG) and Monetary Authority of Singapore (MAS) have completed a proof-of-concept for the Digital Economy Semi-Fungible Token (DESFT) Project, according to various local press reports. The project is intended to encourage trade between micro, small and medium enterprises (MSMEs) in the two countries.Within the project, live transactions have been carried out between the sides. To do so, they leveraged the Universal Trusted Credentials semi-fungible token protocol developed by the United Nations Development Program, according to Singapore-based Ample FinTech, which identified itself as the developer of the DESFT. The token contained verified licenses, certificates and trade records.A stablecoin pegged to the Singapore dollar (XSGD) and the BOG’s e-cedi central bank digital currency (CBDC) were used for exchange within a Purpose Bound Money protocol on a distributed ledger.Source: Fintech Association of Kenya The MAS developed the Purpose Bound Money protocol in conjunction with the International Monetary Fund and the central banks of Italy and South Korea. It incorporates both programmable money and programmable payment technology and has been tested by Amazon and other international retailers.Related: Bank of Ghana to foster financial inclusion through CBDC projectBank of Ghana director of fintech and innovation Kwame Oppong described the project at the 3i Africa Summit in Accra. He said:“After nearly a year and two phases of development, we have crafted a reliable information exchange solution founded on UTC standards and Semi-fungible Token technology […] and conducted real trade experiments which fully align with our predetermined objectives.” Oppong continued that the project's future development would focus on supply chain finance and payments across multiple digital currencies. Details were scarce in the press about the semi-fungible token technology. Ample FinTech said it operates on the ERC-3525 standard on top of the Ethereum blockchain.According to an announcement of a panel discussion scheduled for the Singapore Fintech Festival in November, the Digital Economy Semi-Fungible Token “combines NFTs and traditional blockchain information” that enables the tokenization of self-ownership through the DESFT. The e-cedi is in its pilot phase. No launch date for the CBDC has been announced. Magazine: Bitcoin in Senegal: Why is this African country using BTC?
+
+
+
+
+
+----------------
+
+How a Crypto Trader Made Over $100K With Two Tweets - Decrypt
+
+Ethereum layer-2 solution Blast continues to be a lucrative place to earn money. On Thursday, Twitter user Punk9059—a notable pseudonymous crypto personality—said he had made well over $100,000 worth of crypto primarily from posting two tweets related to the Pacmoon meme coin.“I got paid over $100k for two tweets,” Punk9059 tweeted. “What's crazy is I had no idea it would happen.”Pacmoon is a meme coin on the Blast network, which launched its mainnet in late February. The Blast network has attracted considerable attention, amassing over $1.4 billion in total value locked ahead of its upcoming BLAST token airdrop in late June.Meme coins are tokens based on internet memes, celebrities, or brands. Pacmoon uses Pac-Man-inspired visuals, and rewards social media interaction and community engagement by giving supporters tokens for sharing relevant content.Showing the tweets, Punk9059—who works for Memeland, and previously was at Proof—said that the first tweet was of news of a free airdrop of Pacmoon (PAC) tokens to Blast stakeholders, along with his referral code, on February 28. It was a popular tweet, sure, but the benefits were even bigger than expected thanks to a mistake.“This tweet went viral,” Punk9059 said. “People copy/pasted the wording. And my friend [Frank DeGods] mistakenly tweeted my code instead of his own.”Frank DeGods, aka Rohun Vora, is the founder of the DeGods and y00ts NFT projects and commands a sizable following on Twitter. His mistaken referral code share ultimately paid off big for Punk9059—though at the time, the PAC token wasn’t worth very much.Punk9059 said he gave Frank $50 as a thank you after he mistakenly tweeted out the wrong referral code. And that tweet, including the photo of Frank holding a $50 bill while being embraced by Punk9059, also went viral—so more rewards gained.He received 354,179 PAC for referrals, followed by another 698,137 PAC tokens for tweet views, ultimately totaling 1,052,316 tokens—which equaled $168,370 as of Thursday. As of this writing, that tally is worth about $218,000 with PAC up 7% over the past 24 hours.“There were a couple more tweets in the mix, but these two did the lion's share of the work,” Punk9059 said. “The best part? My followers got a W too if they saw the tweet & registered.”“We’ll take it,” he added.Punk9059 did not immediately respond to Decrypt’s request for comment.Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+CAGA Crypto Launches Testnet with Unique Gas Fee Integration and NFT Minting
+
+
+
+                    
+
+New York, USA, May 17, 2024 – CAGA Crypto, a leading decentralized finance platform, is proud to announce the launch of its brand-new testnet. This event brings forth innovative features, including the ability for users to utilize CAGA tokens as gas fees for transactions across various networks, along with the introduction of NFT minting capabilities. Additionally, CAGA is hosting multiple ongoing airdrop campaigns, offering participants the opportunity to engage with the platform and earn rewards.
+
+
+
+Within just one week of its launch, the CAGA Testnet has already gained over 200,000 transactions and more than 10,000 active wallets. This impressive achievement demonstrates the platform’s growing popularity and showcases the community’s enthusiasm for exploring its capabilities.
+
+
+
+
+The launch of CAGA’s testnet is a significant step forward in the platform’s evolution. Users will soon have the capability to utilize CAGA tokens as gas fees for transactions conducted across different networks, providing a seamless and cost-effective solution for decentralized finance activities. This integration will further enhance the utility of CAGA tokens and expand their use cases beyond traditional staking and governance functions.
+
+
+
+In addition to the gas fee integration, CAGA introduces NFT minting capabilities on its platform. Users will be able to create, buy, sell, and trade NFTs directly within the CAGA ecosystem, tapping into the flourishing market of digital collectibles and unique digital assets. The NFT minting feature will add a new dimension to the CAGA platform, offering users opportunities for creativity, self-expression, and potential financial gain.
+
+
+
+Furthermore, CAGA is conducting multiple ongoing airdrop campaigns to engage its community and reward participants for their support. These campaigns offer participants various opportunities to earn rewards through activities such as staking, purchasing, and social engagement. The airdrop campaigns aim to foster community participation and incentivize users to actively contribute to the growth and development of the CAGA ecosystem.
+
+
+
+
+Commenting on the launch of the testnet and the introduction of new features, Rino, the founder of CAGA Crypto, stated, “We are thrilled to unveil the launch of our testnet, which is a significant event on our way towards creating a reliable and user-centric decentralized finance platform. With the integration of gas fee functionality and NFT minting capabilities, we aim to provide our users with enhanced utility and opportunities for engagement within the CAGA ecosystem. We look forward to seeing the positive impact these innovations will have on our community and the broader decentralized finance establishment.”
+
+
+
+About CAGA Crypto
+
+
+
+CAGA Network is a decentralized blockchain that utilizes state-of-the-art technology to provide rapid, secure, and scalable solutions. CAGA mission is to cultivate a trusted environment where everyone can confidently develop their blockchain-based products and execute transactions with ease and efficacy. 
+
+
+
+Airdrop Campaign
+
+
+
+
+Join the CAGA Airdrop Campaign and unlock your share of 1 billion CAGA tokens! Engage in our newly launched testnet through diverse activities from NFT minting to daily swaps on our DEX. Register on Galxe or QuestN, complete tasks, and accumulate points to secure your portion of the rewards by June 12, 2024. Act now to explore the innovative features of CAGA’s decentralized finance platform and help shape the future of blockchain technology. Start your journey today at Galxe & QuestN and claim your stake in the future of DeFi!
+
+
+
+***
+
+
+
+For more information about CAGA Crypto and its ongoing initiatives, please visit the official website or follow CAGA on social media platforms.
+
+
+
+Website
+
+
+
+
+https://www.cagacrypto.com
+
+
+
+
+Telegram 
+
+
+
+
+https://t.me/cagacrypto
+
+
+
+
+Telegram Community
+
+
+
+
+https://t.me/cagacryptogroup
+
+
+
+
+Twitter
+
+
+
+
+
+
+                
+
+                
+
+----------------
+
+Move-based blockchains growth relies on EVM compatibility: Movement Labs co-founder - Crypto Briefing
+
+
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+
+----------------
+
+Two Giant Whales Became Active: They Made Big Trades in These Altcoins - Bitcoin Sistemi
+
+
+It seems like a lot of whales have been active in the cryptocurrency market in recent hours.
+According to onchain data provided by Lookonchain, the whale with short address 0x8036, which we will talk about first, first purchased $ 5.7 million worth of Ethereum on the cryptocurrency exchange Gemini. This wallet was created from scratch approximately 1 day ago.
+
+
+
+Then, the whale in question used all of the ETH he withdrawn to buy Ondo (ONDO). Whale purchased 6 million ONDO tokens at an average price of $0.95. At the time of writing this article, ONDO price is trading at $0.93.
+Another whale that has been active in recent hours seems to have experienced a very unfortunate situation. Roosh, a well-known whale in the cryptocurrency market, sold a large amount of Chainlink (LINK) worth $ 2.78 million. Unfortunately, after the whale sold, there was an 18% increase in the LINK price. According to the data, if the whale wallet had waited a little longer, it could have made an additional profit of $497. At the time of writing this article, LINK is trading at $16.20.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Bitcoin ETFs Record $300 Million in Net Inflows as Bitcoin Nears $67,000 ⋆ ZyCrypto
+
+
+            
+            
+Advertisement
+
+&nbsp
+
+&nbsp
+Net inflows into the 9 spot Bitcoin Exchange Traded Funds (ETFs) reached $300 million yesterday as the market experienced a healthy bullish phase. The largest cryptocurrency by market capitalization had been languishing below $63k for the better part of the last three weeks, so this price rally was a breath of fresh air for the bullish cause.
+
+
+
+Daily ETF Flow
+
+
+
+According to Bitcoin ETF Flow data, the net inflow for the ETFs was $303 million on May 15, 2024. Here is the entire breakdown:
+
+
+
+Image Source: Farside
+
+
+
+According to the spreadsheet, Fidelity’s FBTC fund was the biggest gainer, with a net inflow of $131 million, dwarfing the rest of the pack considerably. BitWise’s BITB and ARK Invest’s ARKB ETFs stood second and third, with $86.3 million and $38.6 million, respectively. The remaining five spot ETFs, including Grayscale, were in single digits.
+
+
+
+Bitcoin ETFs Hit the Ground Running
+
+
+
+Bitcoin ETFs hit the ground running after being approved at the end of January this year. They have become the best-performing ETFs ever launched in the history of exchange funds. Four top spot ETFs, including BlackRock’s IBIT, FBTC, ARKB, and BitWise, have seen a massive $28 billion worth of buying in just three and a half months.
+
+
+
+After the success in America, several other financial destinations have launched their spot crypto ETFs. Hong Kong, in particular, not only launched three Bitcoin funds but also allowed the same three companies to file for Ethereum ETFs, which were also approved. However, the Hong Kong-based funds couldn’t perform as well as their counterparts across the Pacific Ocean. The US has taken the lead here even though it wasn’t the first to cross the line.
+Advertisement
+
+&nbsp
+
+
+
+However, the performance in the last few weeks has slowed as the crypto market has suffered overall. The end of April witnessed considerable net outflows, with all the top ETFs bleeding value.
+
+
+
+The Future
+
+
+
+While the total $28 billion invested in US-based Bitcoin ETFs is peanuts compared to the multi-trillion valuation of the entire crypto market, it is important to note that this is a long-term play. 
+
+
+
+These ETFs are being eyed by top investment banks worldwide, with big names like BlackRock, Morgan Stanley, and JPMorgan already dipping into the market. The US state of Wisconsin has also bought $100 million worth of shares in the ARKB ETF, and that is just one state. It is predicted that sovereign wealth funds, pension funds, and national treasuries will invest in Bitcoin in the near future.
+        
+
+        
+
+----------------
+
+Alleged crypto scammers arrested in 'pig butchering' scheme
+
+The Justice Department said on Friday that it arrested two alleged scammers for laundering “at least” $73 million through shell companies connected to “pig butchering” cryptocurrency investment schemes. Nvidia stock has all-time closing high in its crosshairsIn a pig butchering scam, scammers contact victims online and gain their trust before manipulating them into investing in a fake cryptocurrency. Daren Li, a 41-year-old dual citizen of China and St. Kitts and Nevis — and resides in China, Cambodia, and the United Arab Emirates, was arrested on April 12 at Hartsfield-Jackson Atlanta International Airport. According to a Justice Department statement, he was subsequently transported to the Central District of California. Yicheng Zhang, 38, a Chinese national and resident of Temple City, California, was arrested on Thursday in Los Angeles, California, the statement said.The DOJ accused the individuals of having lured victims into depositing money into U.S. accounts. From there, the two allegedly utilized co-conspirators to launder the money through U.S. financial institutions to Bahamas bank accounts, before converting the funds into the stablecoin Tether, also known as USDT.“Cryptocurrency investment scams exploit the borderless nature of virtual currency and online communications to defraud victims,” said U.S. Deputy Attorney General Lisa Monaco. “While fraud in the crypto markets takes on many forms and hides in many far-off places, its perpetrators aren’t beyond the law’s reach,” the Li and Zhang face charges of conspiracy to commit money laundering and six counts of international money laundering. According to the Justice Department, if found guilty, they could be sentenced to a maximum of 20 years in prison for each count.Two days before announcing the arrests, the Justice Department said it arrested two brothers for allegedly stealing roughly “$25 million worth of cryptocurrency within approximately 12 seconds.” And earlier this month, the department charged ‘Bitcoin Jesus’, a.k.a. Roger Ver, with evading nearly $50 million in taxes.
+
+----------------
+
+Alex Labs freezes $3.9M of exploited funds sent to CEXs after hack
+
+Bitcoin layer-2 developer Alex Labs has successfully frozen more than $3.9 million worth of crypto that was exploited from its BNB Smart Chain bridge, according to the team’s May 16 social media post. According to the post, the attacker sent the funds to several different centralized exchanges (CEXs), which allowed them to be frozen with the cooperation of the exchanges.Source: Alex LabsThe team said it recovered the complete balances for 17 different tokens, including “all aBTC, sUSDT, xBTC, xUSD, ALEX, atALEX, LiSTX, LUNR, SKO, CHAX, $B20, ORDG, ORMM, ORNJ, TRIO, TX20 and STXS.” $13.7 million worth of Stacks (STX) tokens were also exploited. Of these, the attacker made the mistake of sending “about 3 million” to centralized exchanges. The post links to a spreadsheet showing the STX balances at each exchange the hacker used to transfer funds. It shows that a total of $3.7 million is held at exchanges, whereas $9.6 million are held in wallets under the direct control of the attacker.List of CEXs holding exploited funds. Source: Alex LabsThe attacker withdrew the funds by taking control of a private key that provided access to one of the bridge’s “vaults.” However, “The smart contract code and infrastructure underlying ALEX were not compromised,” the team claimed.Related: Alex bridge on BNB Smart Chain drained of $4.3M after suspicious upgradeAlex Labs has offered a 10% bounty to the attacker and a promise not to prosecute if they return the other 90% of the stolen funds. They are also preparing a police report, which will be filed if the attacker does not agree to negotiate.Because there is a possibility that not all funds will be recovered, the team is “evaluating deployment of $ALEX reserves held by ALEX Lab Foundation.” These reserves may be used for a “treasury grant program” to compensate users who lost funds in the attack. A disproportionate amount of the exploited funds consists of STX tokens, so the team may also propose a Stacks network upgrade that will freeze the remaining funds and mint new tokens to be sent to victims.Upgrading a network to freeze an attacker’s coins is not completely unprecedented. It was done during the 2016 Ethereum DAO hack and after the PopcornSwap rug pull on the BNB Smart Chain. However, these upgrades are rarely approved. In the case of the PopcornSwap rug pull, the upgrade froze funds but did not reimburse investors.In its post, Alex Labs claimed that it continues to monitor the attacker’s addresses and has “multiple alarms” in an effort to prevent the funds from being cashed out.Alex is not the only Bitcoin layer-2 bridge that has been attacked recently. On May 17, the XLink bridge was also attacked, and $10 million was lost. In that case, a white-hat hacker managed to recover $4.3 million of the stolen funds. The XLink attack was almost identical to the one against Alex, as the attacker in both cases used a phishing technique to obtain the team’s private key, which was then used to make unauthorized withdrawals.
+
+
+
+
+
+
+
+
+----------------
+
+Crypto Biz: Galaxy, CoinShares Q1 results, ETFs on the blockchain, and more
+
+Spot Bitcoin exchange-traded fund (ETF) managers have released their first financial results since the crypto funds began trading. Galaxy Digital’s net income rose 40% in the first quarter, with management and performance fees reaching $17.8 million — a 113% increase from the previous quarter. CoinShares, which recently completed the acquisition of Valkyrie’s spot Bitcoin (BTC) ETF, posted a 216% revenue gain in Q1 to 19.5 million British pounds ($24.5 million). On the tokenization front, executives from Ripple and Stellar recently discussed the blending of payments and investments enabled by asset tokenization. Franklin Templeton’s CEO Jenny Johnson also forecasted that all ETFs and mutual funds could soon be on blockchains. This week’s Crypto Biz also looks at Polymarket’s $70 million funding raise and Antonio Juliano’s decision to step down as CEO of dYdX. CoinShares posts record revenue in Q1, backed by markets, Bitcoin ETFsEuropean asset manager CoinShares reported a significant performance boost in the first quarter of 2024, largely attributed to a recovering market in the period. The firm saw its revenue surge to 19.5 million pounds ($24.5 million), a 216% increase from the same period in 2023. Earnings before interest, taxes, depreciation, and amortization (EBITDA) also saw a substantial rise, reaching 34.2 million pounds ($43 million), up from 7 million pounds ($8.8 million) in the previous year, marking a fourfold increase and an EBITDA margin of 78%. Additionally, CoinShares completed the strategic acquisition of Valkyrie Funds on March 12, expanding its offerings with the rights to Valkyrie’s spot Bitcoin ETF and other crypto funds.Franklin Templeton CEO says all ETFs and mutual funds will be on blockchainFranklin Templeton CEO Jenny Johnson reiterated her support for blockchain in a recent Bloomberg interview. During a discussion over tokenization, Johnson said to believe that “ETF and mutual funds are all going to be on blockchain,” adding that the technology had demonstrated significant cost reductions compared to traditional accounting methods. She attributed this prediction to the “huge costs” associated with verifying data between disparate systems — a problem that blockchain was intentionally designed to solve. Polymarket raises $70 million from Vitalik Buterin, Founders FundPeter Thiel’s venture capital firm, Founders Fund, and Ethereum co-founder Vitalik Buterin have led a $70 million fundraising effort for Polymarket, a platform enabling betting on political events. According to Bloomberg, Polymarket successfully raised $70 million across two funding rounds as betting on the 2024 United States presidential elections gains momentum. The latest Series B Polymarket funding round was spearheaded by Founders Fund, raising $45 million. Polymarket has witnessed a surge in electoral betting, resulting in over $170 million in wagers placed on the upcoming U.S. elections, according to the platform’s website. Galaxy Digital’s revenue soars with mining, fees at record levelsGalaxy Digital experienced a robust first quarter in 2024, with its net income soaring to $422 million, marking a 40% growth from the previous quarter. The increase was bolstered by record-breaking revenues in both its mining operations and management fees. The company’s mining revenue hit a new high of $31.5 million, up 69% from the previous quarter, largely due to an expanded mining capacity that achieved a hash rate of 5.7 exahashes per second. The company mined 373 Bitcoin at an average cost of less than $19,500 each. On the asset management front, Galaxy also reported a significant rise in income, with management and performance fees reaching $17.8 million, a 113% increase from the previous quarter.Before you go: Antonio Juliano, the founder of the decentralized exchange dYdX, announced his decision to step down as CEO after leading the platform for seven years. Ivo Crnkovic-Rubsamen, who previously served as dYdX’s chief strategy officer, will now lead the company.Crypto Biz is your weekly pulse on the business behind blockchain and crypto, delivered directly to your inbox every Thursday.
+
+
+
+
+
+
