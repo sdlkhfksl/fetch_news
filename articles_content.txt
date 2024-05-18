@@ -1,335 +1,3 @@
-Bitcoin, Ethereum, Dogecoin Witness Pullback After Strong Rally: Analyst Says Stablecoin Growth Key To Bitcoin Hitting New All-Time Highs - Benzinga
-
-Leading cryptocurrencies witnessed a correction Thursday, even as the Senate followed the House in passing a pro-crypto legislation. CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Bitcoin BTC/USD-1.31%$65,411.27Ethereum ETH/USD-2.80%$2,945.89Dogecoin DOGE/USD-4.15%$0.1498What Happened: Bitcoin gave some of its gains clocked during the relief rally the previous day as it sank below %66,000. The second-largest cryptocurrency, Ethereum, also fell below the $3,000 zone.The pullback caused $119 million worth of futures positions to be wiped out in the last 24 hours, with long liquidations accounting for $83 million. Bitcoin led the pack with more than $31 million in liquidations.The drop also led to an increase in traders betting on Bitcoin's price decline vis à vis those bullish on the crypto, as evidenced by a drop in Longs/Shorts Ratio.On an otherwise good day for the industry, the U.S. Senate passed legislation overturning SEC's controversial rule preventing highly regulated financial firms from custodying Bitcoin, a week after the House of Representatives voted in favor. The market may be reacting to the potential of President Joe Biden vetoing the resolution, as he previously threatened. Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Chainlink (FLOKI)+12.58%$15.60Core (CORE)+10.89%$1.89Ondo (ONDO)+4.56%$0.8793The global cryptocurrency market cap fell 1.57% to $2.36 trillion over the past 24 hours.Stocks closed lower Thursday, even though some blue-chip indices briefly rose to their all-time highs . The Dow Jones Industrial Average fell 38.62 points, or 0.10%, to close at 39,869.38, after crossing 40,000 for the first time earlier in the day. The S&P 500 ended at 5,297.10, following losses of 0.21%. The tech-heavy Nasdaq Composite dropped by 44.07 points, or 0.26%, to finish at 16,698.32.Earlier in the day, Richmond Federal Reserve Tom Barkin told CNBC that though the inflation data has been encouraging, it"ll take a bit more time to align with the central bank's goal of 2% inflation.See More: Best Cryptocurrency ScannersAnalyst Notes: On-chain analytics firm Santiment remarked that the rise in stablecoin market caps could validate the possibility of a sustained uptrend in the market."Pay attention to which direction these marketcaps go from here, as they will likely help foreshadow whether Bitcoin pushes toward a new AllTimeHigh or takes another lap below $60K," Santiment informedWell-followed analyst, Kevin, noted that with Bitcoin's rise, altcoin holders have started to rotate capital into the King Crypto."This is very very bullish overall as it provides evidence to us that we're entering into stage 3 of the bull market. Still need more data but looking really good right now," the analyst stated.Photo by Avi Rozen on ShutterstockRead Next: Senate Votes To Overturn Controversial SEC Crypto Rule, But Will Biden Veto It?
-
-----------------
-
-DTCC, Chainlink complete fund data tokenization pilot with U.S. banks
-
-The world’s largest settlement system, the Depository Trust and Clearing Corporation (DTCC), and blockchain oracle Chainlink have wrapped up a pilot program with several major banking firms in the United States aimed at increasing traditional finance fund tokenization.The Smart NAV Pilot program was conducted to standardize a method of providing net asset value (NAV) data of funds across blockchains, using Chainlink’s Cross-Chain Interoperability Protocol (CCIP), according to a May 16 DTCC report.“The pilot found that by delivering structured data on-chain and creating standard roles and processes, foundational data could be embedded into a multitude of on-chain use cases, such as tokenized funds and ‘bulk consumer’ smart contracts, which are contracts that hold data for multiple funds,” it wrote.These capabilities could support future industry exploration as well as powering “numerous downstream use cases” like brokerage applications, more automated data dissemination, and easier access to historical data for funds, it said.The pilot helped establish better-automated data management, limited impact on existing market practices for traditional financial institutions, enabled clients to retrieve historical data without manual record keeping, and provided broader API solutions for price data, the DTCC’s report noted.Key NAV pilot takeaways. Source: DTCCThe U.S. banking firms that participated in the pilot include American Century Investments, BNY Mellon, Edward Jones, Franklin Templeton, Invesco, JPMorgan, MFS Investment Management, Mid Atlantic Trust, State Street, and U.S. Bank.Related: Deutsche Bank joins Singapore’s asset tokenization projectChainlink’s native token Chainlink (LINK) rose 12.5% following the DTCC’s report, according to CoinGecko.The price of LINK spiked 12.5% following the DTCC report. Source: CoinGeckoLINK has gained over 130% in the last 12 months amid a broader uptick in the crypto market. The DTCC report comes as wider enthusiasm for real-world asset tokenization from major traditional financial institutions.On March 19, BlackRock launched a tokenized money market fund (MMF) dubbed BUIDL on the Ethereum network offering native U.S. dollar yields.The fund allows investors to purchase tokens representing shares in the fund, which invests in assets like U.S. Treasury bills. The fund is referred to as the “digital liquidity fund” because it is digitized on the Ethereum blockchain and operates as an ERC-20 token called BUIDL.Magazine: UK cannabis millionaire’s legal ‘deals on wheels’ via crypto
-
-
-
-
-
-----------------
-
-Memecoin launcher pump.fun claims ex-employee behind $1.9M exploit
-
-Solana memecoin creation tool pump.fun has claimed a former employee exploited the firm for nearly $2 million through a “bonding curve” attack.The ex-employee used their “privileged position” to access a “withdraw authority” and compromise the protocol’s internal systems, pump.fun alleged in a May 16 X post.About $1.9 million was stolen from the total $45 million held in pump.fun’s bonding curve contracts.The platform temporarily paused trading but it is now back up and running.The pump.fun smart contracts “are safe” and users impacted by the incident will receive “100% of the liquidity” that it previously had within the next 24 hours, pump.fun said.Source: pump.funPrior to pump.fun’s post, Igor Igamberdiev, the head of research at cryptocurrency market maker Wintermute, claimed the hack came about from an internal private key leak, which he suspected to be X user “STACCoverflow.”In a series of cryptic X posts, STACCoverflow claimed they were “about to change the course of history. n [sic] then rot in jail.” They added in a separate post they “do not care, I am already fully doxxed.”Related: Solana memecoin hits a whopping $328T market cap — for all the wrong reasonsIn an earlier X post, pump.fun said it has been collaborating with law enforcement. It did not name the former employee and did not immediately respond to a request for comment.How the hack unfoldedThe alleged exploiter used flash loans on a Solana lending protocol Raydium to borrow Solana (SOL), which was then used to “buy as many coins” as possible, pump.fun said.Once the coins hit 100% on their respective bonding curves, the exploiter could then access the bonding curve liquidity and repay the flash loans.Approximately 12,300 SOL, worth $1.9 million was stolen in the attack, which pump.fun sai occurred between 3:21 pm and 5:00 pm UTC on May 16.The Solana memecoin launchpad said users impacted between these hours would recover 100% or more of the liquidity held prior to the attack.Magazine: 1 in 6 new Base meme coins are scams, 91% have vulnerabilities
-
-
-
-
-
-----------------
-
-Bitcoin Mining Crisis: The Bullish Signal You Can't Ignore
-
-
-								On-chain data suggests the Bitcoin “Miner Price” metric has fallen under the BTC Electrical Cost. Here’s what happened next the last few times.
-Bitcoin Miner Price Has Declined Below Electrical Cost For Fifth Time Ever
-In a new post on X, Capriole Investments founder Charles Edwards has pointed out a development that has recently occurred in the situation of the Bitcoin miners.
-There are two relevant indicators here: Electrical Cost and Miner Price. The first measures the total daily cost that miners have to incur in electricity bills to mine 1 BTC.
-
-The second one, the Miner Price, keeps track of the revenue that 1 BTC provides to the miners. This cohort earns their mining revenue through two modes: the block rewards and the transaction fees.
-The former is paid out in BTC at a more or less constant rate, so its value is only dependent on the cryptocurrency’s price. As such, a single token from the block rewards would contribute a value equal to the current spot price to the miners’ total revenue.
-The transaction fees don’t work so simply, as their value reflects the amount of traffic the network receives. The fees tend to stay low in times of little activity, as users don’t have much incentive to attach high amounts.
-During periods of congestion, though, the network prioritizes only the high-fees transactions, as there is only a limited capacity to handle transfers. Thus, senders don’t have a choice of paying a low fee if they want their moves through in a reasonable amount of time.
-Since the Miner Price considers the total revenue contributed by just 1 BTC, the transaction fees associated with 1 token would be required. Edwards’ metric has divided the total transaction fees by the total amount of BTC being mined.
-This is because the transaction fees are only given out by the Bitcoin network alongside the block rewards when the miners add the next block to the chain (with this fee naturally being the amount the transactions contained within the block had paid out to the network).
-Thus, this fee revenue could be assumed to be associated with the BTC amount given out in the block rewards alongside them (at present, this is 3.125 BTC). As such, the revenue associated with just one 1 BTC would be the ratio of the fees to this number.
-Now, here is a chart that shows the trend in the Bitcoin Electrical Cost and Miner Price over the last decade:
-
-The two metrics appear to have crossed in recent days | Source: @caprioleio on X
-The graph shows that the Bitcoin Miner Price has recently declined under the Electrical Cost, meaning miners aren’t making enough revenue from 1 BTC to pay the electricity costs needed to mine it.
-The analyst has highlighted the previous instances of this rare trend in the chart. The cryptocurrency’s price appears to have observed some sharp bullish momentum whenever the miners have been under such distress.
-
-It now remains to be seen how Bitcoin will behave in the future, given that the asset has once again witnessed this trend.
-BTC Price
-Bitcoin had surged above the $66,000 level earlier, but the asset appears to have retraced some of this recovery as its price is now trading around $64,800.
-
-Looks like the price of the coin has seen overall bullish momentum over the past day | Source: BTCUSD on TradingView
-Featured image from Kanchanara on Unsplash.com, Capriole.com, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Diamond Paws (DIAPAWS) Explodes 700% Before Consolidating, While Shiba Inu and Dogecoin Lag
-
-
-
-                    
-
-Diamond Paws (DIAPAWS) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Diamond Paws (DIAPAWS), a Solana memecoin that was launched yesterday, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Diamond Paws presents a similar opportunity.
-
-
-
-DIAPAWS rallied over 700% in the first few hours after its launch, before consolidating as some early buyers cashed out their profits.
-
-
-
-However, most investors are still holding their tokens, as they are waiting for DIAPAWS to be listed on MEXC later this week, as this listing will cause the coin’s price to skyrocket.
-
-
-
-Its current price presents a great opportunity for new investors to buy the dip before the next rally.
-
-
-
-DIAPAWS has a market cap below $9,,000 at the moment, meaning that when it just reaches a modest market cap of around $200,000-$500,000, early investors would generate returns of 2,000%-3,000% in a matter of days or hours.
-
-
-
-The exciting memecoin is poised to rally another 12,000% in the coming two days, and Diamond Paws (DIAPAWS) could potentially reach a multi-million dollar market cap within a few weeks.
-
-
-
-Currently, DIAPAWS can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-To buy Diamond Paws (DIAPAWS) on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for DIAPAWS by entering its contract address – HCEn3J1sKqMqPxrQDE33rGhJvyXh4r3YgyzD2wiAm3ga – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like DIAPAWS.
-
-
-                
-
-                
-
-----------------
-
-$10,000 Ethereum (ETH) by Year-End? Analyst Makes Bold Price Prediction | Cryptoglobe
-
-
-                                
-Prominent cryptocurrency analysts have recently expressed bullish sentiment on Ethereum ($ETH), the second-largest cryptocurrency by market capitalization, with one suggesting it will surge to over $10,000 by the end of the year.
-
-
-
-Michaël van de Poppe, a cryptocurrency analyst with over 700,000 followers on the microblogging platform X (formerly known as Twitter), expressed optimism, suggesting ETH is on track to reach a higher support level and added that the “good times are there in a few weeks time” after noting ETH is “at end stage of the correction.”
-
-
-
-
-
-
-
-Ethereum is at the time of writing trading at $2,975 after losing around 2% of its value over the last 24-hour period and being flat over the past month, and while it significantly underperforms when compared to the flagship cryptocurrency Bitcoin ($BTC), which dropped 0.3% over the past 24 hours after moving up 8% over the last 30-day period. 
-
-
-
-Nevertheless, another cryptocurrency analyst, CryptoYoddha, took an even bolder stance and suggested Ethereum is set to surge past the $10,000 before the end of the year.
-
-
-
-
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-As reported, another popular analyst, Ali Martinez, has recently noted that the TD Sequential is presenting a “buy signal” on Ethereum’s daily chart and suggested the cryptocurrency could “see a rebound of one to four candlesticks” on its daily chart.
-
-
-
-The TD Sequential indicator is a popular tool among traders and analysts for identifying potential buy or sell signals in the market. Developed by Tom DeMark, the indicator is designed to forecast the timing of price points where a trend could exhaust itself and reverse.
-
-
-
-It does this through a series of numbers (sequentials) plotted on price charts, which are based on specific criteria related to the closing price of an asset over a set number of periods. When the indicator signals a “buy,” it implies that the asset’s price is likely to increase, making it an opportune time for investors to consider entering the market.
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
-Alameda's Sam Trabucco Emerges To Defend FTX's Ryan Salame - DailyCoin
-
-
-        
-
-Alameda’s Sam Trabucco has resurfaced after nearly two years of radio silence.
-
-
-
-The former Alameda chief has come out to defend an associate and former FTX executive.
-
-
-
-The move has left crypto community members amused.
-
-
-
-
-In November 2022, the house of cards that was Sam Bankman-Fried‘s crypto empire, comprising the crypto exchange FTX and its sister trading firm Alameda Research, came crashing down. In the months that followed, restructuring officers and prosecutors were left to unpack one of the most daring financial frauds in history, orchestrated by Bankman-Fried and his close circle of executives.
-
-
-
-However, one key name has been missing from the indictments and court hearings that have followed the FTX and Alameda collapse: Sam Trabucco, who served as Alameda Research’s co-CEO until his curious departure from the firm and public life in August 2022.
-
-
-
-
-After months of users asking, “Where is Sam Trabucco?” the now-reclusive former Alameda chief has made a shock cameo to vouch for Ryan Salame, a former associate who served as FTX Digital Markets co-CEO. In September 2023, Salame pled guilty to conspiracy to make unlawful political donations and conspiracy to operate an unlicensed money transmitter business.
-
-
-
-A Friendly Plea
-
-
-
-With Salame set to be sentenced on May 28, friends and family have come to his defense in letters to the judge. Among the letters was one from Alameda’s Trabucco.
-
-
-
-In the three-page letter dated May 6, 2024, the former Alameda chief described Salame in many words as hardworking, open, easy to work with, benevolent, a family man, a father, and ultimately his “best friend.”
-
-
-
-Extolling these qualities, the now-reclusive Trabucco pleaded with the judge to look beyond the former FTX executive’s crimes and grant him a “fair” punishment.
-
-
-
-
-"Ryan is my best friend. He has also committed crimes. He's acknowledged that and is prepared to accept the consequences. I want those consequences to be fair—not too light, not too excessive, but fair. Because, like anyone, Ryan doesn't deserve to be defined by his worst actions. He's a complex person who made mistakes, not some one-dimensional villain, and I know his punishment will reflect that," Trabucco's letter read.
-
-
-
-While Trabucco had nothing but kind words for Salame, the crypto community was not as forgiving toward Trabucco.
-
-
-
-“A Criminal Defending Another Criminal?”
-
-
-
-Responding to the Trabucco letter, prominent crypto X account “Autism Capital” described it as “hilarious,” adding that it was  “a criminal defending another criminal.”
-
-
-
-
-
-
-
-Another user asked, “WEN SAM TRABUCCO JAIL?”
-
-
-
-These views come as many within the crypto community find it hard to believe that the executive who quit months before the FTX collapse was unaware of the years-long fraud perpetrated by Bankman-Fried and other executives, which largely involved the movement of FTX customer funds to Alameda. 
-
-
-
-At the same time, Trabucco is also believed to have received a total of $25 million from working for Alameda, including a $2.5 million payment for a yacht named “Soak My Deck,” which could have been funded with FTX customer funds.
-
-
-
-Despite being close to the FTX fraud and potentially benefiting from it, Trabucco has not been named in any of the lawsuits related to the FTX collapse, leading some to speculate that he was a confidential DOJ informant.
-
-
-
-“No charges, no mention, and now writing references. People credit CZ with the FTX takedown, but Trab left well before that, and clearly went straight to the Feds,” Cinneamhain Ventures Partner Adam Cochran wrote.
-
-
-
-On the Flipside 
-
-
-
-
-Ryan Salame’s lawyers have requested a jail term of no more than 18 months.
-
-
-
-Salame’s lawyers argue that he was kept in the dark about the fraud at the center of the FTX case.
-
-
-
-
-Why This Matters 
-
-
-
-Many in the crypto community believe that Sam Trabucco played a role in the FTX/Alameda collapse. However, the former Alameda chief has gone silent since resigning from the firm in August 2022. The recent letter in support of Salame represents the closest thing to a public statement from the executive following the FTX collapse.
-
-
-
-Read this for more on the search for Sam Trabucco:FTX Community Ponders Sam Trabucco’s Disappearance
-
-
-
-Learn more about the DOJ’s first Ethereum MEV lawsuit:Why First Ethereum MEV Case Is Seen as a Double Standard
-
-    
-              
-    
-
-----------------
-
-Altcoins a ‘relatively huge’ risk as days of big returns are gone, say analysts
-
-The high-risk, high-reward theory of altcoins might be tilting toward the former as big gains are now less likely due to weak narratives driving the crypto market, say crypto analysts.“While tactical opportunities exist, the era of 100x returns may well be behind us,” 10xResearch head of research Markus Thielen told Cointelegraph.He cautioned that despite the market anticipating an altcoin bull market this year, “retail participation remains subdued, and few new projects have emerged that captivate non-crypto-native traders.”Thielen said past altcoin bull markets had “distinct characteristics” that drew in more money, but this cycle has seen “tighter capital, evidenced by low total value locked and a dearth of venture capital investments.”“Last cycle, the narrative that crypto could supplant traditional financial systems was widely embraced, but this cycle’s narratives are shorter-lived and lack substantial backing,” Thielen added.Earlier this week, the Solana-based memecoin GameStop (GME) — no affiliation to the video game selling company — rose 2,727% alongside GameStop’s stock price spiking after trader Keith Gill posted a meme from his “Roaring Kitty” X account for the first time in nearly three years. GameStop briefly spiked 2,727% amid GameStop stock’s price rise. Source: CoinMarketCapMN trading consultancy founder Michael van de Poppe claimed in a May 16 X post that a portfolio mainly holding altcoins poses a “relatively huge” risk.“What’s the downside of this bet? It’s relatively huge. At the moment of posting, I’m down around 20% already in a matter of 1-2 weeks on the overall investment.”Despite the risk involved, van de Poppe explained he recently sold all his Bitcoin (BTC) to shift to altcoins, claiming he “can lose 50-80%.”However, crypto investor Fabio Andreatta is skeptical that there will even “be an altseason.”Related: Altcoins will bottom in early summer before bull run — Analyst“All you did is increase your risk,” Andreatta said responding to van de Poppe’s X post. “You are very unlikely to outperform Bitcoin. Most altcoins will never reach their ATHs ever again.” Bitcoin’s dominance — its market share relative to the rest of the crypto market — show the broader market has shifted capital away from altcoinsBitcoin dominance is nearing a year-to-date all-time high, currently at 56.05%, up 2.12% over the past 7 days, according to TradingView data.Magazine: Buy altcoins now, but sell before ‘mid-2025’: Charles Edwards, X Hall of FlameThis article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-
-
-
-
-
-
-
-
-
-
-
-
-----------------
-
 Absent Since FTX 2022 Downfall, Sam Trabucco Breaks Silence With Letter Of Endorsement | Bitcoinist.com
 
 
@@ -9861,3 +9529,437 @@ Elections are now crucial to the future of cryptocurrency. As major jurisdiction
 Redfall's Unexpected Last Hurrah Final Update Brings Offline Mode and More | Cryptopolitan
 
 It is a shock for gamers that Redfall, Red Bethesda’s doomed game, will receive one last update before the developer halts further development.Lessons have been learned, and EA has taken the feedback of its players to heart. The announcement came through a Twitter post from the team, where it was said that the team will make the final update, Game Update 4, which will feature improved Neighborhood systems and Nests, and the capacity to pause the game in Solo mode and Offline Mode. There is already a launch date for the update, with more details coming soon.Contradicting previous statementsThis revelation directly contradicts earlier statements from Matt Booty, the head of Xbox Game Studios. Booty had previously declared that with the closure of Arkane Austin, the studio responsible for Redfall, active development on the game would cease. In an email to staff, Booty had categorically stated, “Redfall’s previous update will be its last as we end all development on the game.”Also Read: Xbox Game Pass Expands With Day OneAfter the studio closed, the sources disclosed that the independent co-creators, in collaboration with other teams, were working on several new features that preceded the closure. As noted by IGN, the developers had a to-do list encompassing the offline mode, whose popularity peaked after the game launch as it lacked this mode.The media strongly criticized Redfall’s painful first month upon its release in May 2023 due to the absence of action, bad NPC AI, poor performance, and a dull multiplayer experience. Having those post-launch fixes, such as 60 frames-per-second (fps) mode on consoles in its feel, doesn’t have even a little influence on the players’ opinion of it.New hope to make things amend?Above all, after the shocking end of John, Redfall may finally be able to turn all players who have passed harsh judgment on it. Besides an offline regime, a mode not yet built in the initial launch, customers could regard that as a way to resolve their fears regarding the game’s playability once it is removed from online services.The overhaul of the Neighborhood and Nest systems might be one of the main changes that would help improve the game’s open-world feature and try to address at least some of the weaknesses that have made it so harshly criticized. The game pause function proved much like out-of-the-game in single-player mode, another aspect worth mentioning.It is not yet clear whether this future patch will immediately restore the game’s reputation; however, it is a commendable effort by the developers to correct the game’s weaknesses and give players a much more polished experience.A bittersweet farewellThe launch of “Game Update 4” manifests the culmination of an epic project that is now surrendering to a bittersweet hue for both the Redfall people and their dedicated development team. Along with Alpha Dog Studios and Tango Gameworks, the developers of Hi-Fi Rush, the reduction of–AK events at Microsoft resulted in the folding of Roundhouse Games into ZeniMax Online Studios and the closure of Arkane Austin.Also Read: Microsoft’s Studio Shutdowns Spark Outrage as Hi-Fi Rush ShinesBooty added that those shutdowns were to accelerate the transition to focused resources on the high-potential games and bankroll the most-awaited games from the Bethesda franchise that fans have been awaiting for many years.Cryptopolitan reporting by James Kinoti. 
+
+
+----------------
+
+Kraken Mulls Delisting Tether’s USDT From EU Market - DailyCoin
+
+
+        
+
+Tether recently confirmed that the company has no plans to comply with MiCA.
+
+
+
+Kraken is preparing for the worst and is actively reviewing Tether’s legal status. 
+
+
+
+The exchange shared that it plans to stay compliant with the new regulations. 
+
+
+
+
+Leading crypto exchange Kraken is contemplating whether to end support for Tether’s stablecoin in the European Union as it prepares for the upcoming MiCA regulations set to take effect in July. 
+
+
+
+While the new regulations have yet to be finalized, they could challenge USDT’s legitimacy, as regulators emphasize that many stablecoins currently in circulation in Europe have yet to be authorized and regulated. The ambiguity and uncertainty have prompted Kraken to prepare for the worst. 
+
+
+
+Kraken Prepares For the Worst
+
+
+
+“We’re absolutely planning for all eventualities, including situations where it’s just not tenable to list specific tokens such as USDT,” Marcus Hughes, Kraken’s global head of regulatory strategy, told Bloomberg in an interview, sharing that the exchange was bracing for the impact of the upcoming MiCA regulations.
+
+
+
+
+Hughes added that Kraken is “actively reviewing” Tether’s legal status and will decide once the regulatory “position becomes clearer.”
+
+
+
+When asked for comment, Tether assured another publication that it had no plans to delist USDT or alter its trading pairs. However, the stablecoin issuer confirmed it is continually evaluating its global strategies and operations to ensure compliance.
+
+
+
+Although the European Banking Authority has yet to finalize the new rules, the current mandate requiring stablecoin issuers to meet increased regulatory requirements could pose significant challenges for the crypto market in the EU, especially given Tether’s stance.
+
+
+
+Tether’s Roadblock
+
+
+
+Tether’s CEO Paolo Ardoino recently confirmed that the company has no plans to comply with MiCA regulations in the medium term, expressing concerns about the potential risks and impacts of the new rules.
+
+
+
+
+The stablecoin issuer’s reluctance to comply with the upcoming regulations would render USDT illegal in the EU, which is why exchanges in the bloc are preparing to delist the token. 
+
+
+
+Ardoino revealed that Tether was still discussing its concerns with regulators. The CEO is concerned about MiCa enforcing EMIs and credit institutions to legally issue fiat stablecoins in the European Economic Area trading bloc. This means Tether would need to either become an EMI or partner with one to continue offering USDT legally in the European Economic Area.
+
+
+
+“That would pose severe risks to stablecoins regulated in the EU,” Ardoino shared on social media, urging regulators to learn from incidents like the collapse of Silicon Valley Bank and its impact on a major US stablecoin. “If a bank goes bankrupt, uninsured cash goes into bankruptcy,” he added.
+
+
+
+Ardoino asserted that stablecoins should be allowed to keep 100% of their reserves in treasury bills, avoiding exposure to potential banking failures and ensuring greater market stability.
+
+
+
+However, until MiCA amends its current regulations or Tether announces compliance, USDT’s legal status in the EU is expected to become illegal following July. Therefore, preparing to delist the stablecoin is likely the best course for continuing to operate in the bloc.
+
+
+
+On the Flipside
+
+
+
+
+Due to USDT’s lack of interest in complying with the new MiCA rules, OKX has already removed support for the stablecoin in the EU.
+
+
+
+MiCA is still being finalized and is expected to be fully implemented by 2025.
+
+
+
+USDT issuer Circle is also relocating its operations from the EU to the US.
+
+
+
+
+Why This Matters
+
+
+
+Tether’s reluctance to comply with the new MiCA regulations could pose a significant barrier for exchanges and platforms in the EU bloc. As the world’s largest stablecoin with a market cap exceeding $111 billion, delisting it from major exchanges could have far-reaching implications, shaking up the market and potentially disrupting trading activities. This move could force EU users to seek alternative stablecoins that comply with regulations, potentially leading to a shift in liquidity and trading patterns within the crypto market.Find out what happened to China’s massive underground USDT banking operation:China Digs Up $2B Underground USDT Banking OperationHas the NFT market hit a recession?NFT Recession: 95% of Assets Drop to Zero Market Value, Report
+
+    
+              
+    
+
+----------------
+
+Crypto Influencer 'T.J. Stone' Pleads Guilty To $1M Wire Fraud Scheme | Bitcoinist.com
+
+
+								In a Brooklyn federal court on Thursday, crypto personality Thomas John Sfraga, also known as “TJ Stone”, pleaded guilty to wire fraud charges for defrauding over a dozen victims out of more than $1.3 million.
+Fictitious Scheme Exposed
+According to the US Department of Justice, from 2019 to 2022, Sfraga “falsely” presented himself as the owner and principal of several businesses, including Vandelay Contracting Corp. and Build Strong Homes LLC. He also claimed to be a “serial entrepreneur” with experience in real estate development, media relations, podcasting, and cryptocurrencies.
+
+In this capacity, Sfraga allegedly convinced victims, many of them located in Brooklyn, Staten Island, and Long Island, to loan him money or invest in what turned out to be fraudulent schemes. 
+This included promising high returns of up to 60% within three months for investments in a fictitious cryptocurrency “virtual wallet.”  US Attorney Breon Peace stated:
+For years, Sfraga brazenly lied to friends, neighbors, and investors to swindle over $1.3 million of their hard-earned life savings. This Office will continue to hold fraudsters accountable and achieve justice for victims throughout the Eastern District of New York and the United States.
+Crypto Schemer Faces 20 Years In Prison
+On one occasion, Sfraga reportedly convinced a victim to lend him $100,000 in cash as start-up costs for a “non-existent” major construction project. In reality, the US DOJ alleges that Sfraga simply converted the funds for his expenses to pay off earlier victims and business associates.
+Sfraga pleaded guilty to the wire fraud charges before Chief United States Magistrate Judge Lois Bloom. When sentenced, he faces a maximum prison term of 20 years and must pay his victims over $1.33 million in restitution.
+
+The guilty plea was announced by US Attorney Breon Peace and James Smith, Assistant Director-in-Charge of the FBI’s New York Field Office. 
+The 1-D chart shows the total crypto market cap’s valuation at $2.3 trillion. Source: TOTAL on TradingView.com
+As of the latest market update, cryptocurrency has seen a notable uptick, with surging prices across the largest digital assets. 
+Bitcoin (BTC), the flagship cryptocurrency, has regained the $67,000 mark for the first time since late April, rising nearly 10% over the past week. Ethereum (ETH), on the other hand, has been one of the biggest winners over the past 24 hours, rising 5.5% to a current trading price of $3,111.
+Furthermore, the total cryptocurrency market capitalization has risen by 3% in the past 24 hours, currently at a $2.37 trillion, showcasing a renewed sense of bullish sentiment reverberating throughout the overall digital asset ecosystem.
+Featured image from Shutterstock, chart from TradingView.com 
+								
+								
+																	
+															
+						
+
+----------------
+
+Bet Solana-based Memecoin GME Goes Wrong: Trader Capitulates After $122,000 Loss in SOL | Cryptoglobe
+
+
+                                
+A cryptocurrency trader has sold their $GME, a memecoin that saw its price explode on the Solana blockchain after a meme stock frenzy surrounding GameStop resurfaced earlier this month, for a loss of over $122,000 after capitulating.
+
+
+
+According to data shared by on-chain analysis service Lookonchain, the cryptocurrency trader sold their memecoin that use the same ticker symbol as GameStop – GME – after purchasing them with 1,668 SOL they withdrew from popular cryptocurrency exchange KuCoin.
+
+
+
+The trader ended up capitulating after just one day, elling their GME tokens for 465.7 SOL worth around $75,000, to realize a loss of 1,202 SOL after the price of the tokens started plummeting.
+
+
+
+
+
+
+
+The recent meme stock trading frenzy started after a trader central to the 2021 movement, Keith Gill, known on X as RoaringKitty and DFV on Reddit, after he returned to social media from a three-year hiatus that ended after his testimony in Congress.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+The trader’s return saw the price of GameStop (NYSE: GME) surge as a wave of retail traders drove up the price of the video game retailer in a move that led to widespread media coverage. The firm’s stock price rally two years ago had a similar effect and even led to a Netflix series, a movie, and considerable financial scrutiny.
+
+
+
+The price of GameStop’s shares jumped from little under $17.5 before the rally started to a high of over $55, before enduring a correction that saw them plunged to $27.6 at the time of writing.
+
+
+
+AMC Entertainment (NYSE; AMC), a movie theater chain, experienced a similar uplift, as did various lesser-known cryptocurrencies associated with Roaring Kitty and GameStop.
+
+
+
+The sharp increase in GameStop’s stock price has resulted in significant losses for short sellers, who had previously bet on a decline. Ihor Dusaniwsky, managing director of S3 Partners, told the New York Times that GameStop shorts, which had accumulated $392 million in profits earlier this year, faced losses amounting to $852 million by the end of Monday.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+Exploited Funds Worth $3.9 Million Frozen by Alex Labs
+
+The Alex Labs fund has over $3.9 million frozen in assets in various centralized exchanges after getting targeted in a phishing exploit. Currently, the Alex Labs team is in the process of recovering the assets.Alex Labs recently got targeted with a phishing attack, and the attacker managed to transfer all the stolen funds to numerous centralized exchanges (CEXs). However, under the joint efforts of the exchanges, the accounts associated with the attacker got completely frozen.Also read: Crypto Hacks Drop in AprilHack Details and Alex Labs ResponseAs cybersecurity expert Jane Doe pointed out, Alex Labs’ swift response, along with the cooperation of the CEXs, played a critical role in identifying the attack early and thus reducing its harm.The attack was carried out using private keys, which the attacker obtained via a phishing attack. Right after the breach, the ALEX pool’s administrator formed a vault and gained ownership of assets worth roughly 13.7 million STX tokens. Alex Labs was quick to terminate the attack, and all the CEX accounts of the known attacker were frozen.Also read: How to Protect Your Crypto AssetsCollaboration To Strengthen Fund Recovery The Alex Labs team is closely observing all the exploiter’s wallets. Alex Labs’ spokesperson, Mary Johnson, said Alex Labs will reinforce its action with a police report to involve authorities in the search process. That said, the team is continuing the recovery process.Alex Labs has passed on forensic data to all relevant CEXS and mobilized multiple monitoring alarms for ongoing fund tracking. Therefore, instead of recovering the funds after they have been transferred, the appropriate procedure would be to block the transfer of any further funds, thus creating a greater chance of their recovery.
+
+
+----------------
+
+Exit Liquidity? 80% of Binance's New Tokens Lost Value Despite Market Rally | Cryptoglobe
+
+
+                                
+Investors purchasing the latest cryptocurrency listings on the leading cryptocurrency exchange Binance over the last six months would be down by over 18% in the last six months, despite a wide cryptocurrency market rally over that period, as over 80% of these tokens saw their values drop after listing.
+
+
+
+According to analysis conducted by cryptocurrency researcher Flow, out of 31 tokens listed on the leading cryptocurrency exchange Binance only five – including a memecoin dubbed MEME, the Ordi token (ORDI), Solana-based Jupiter (JUP), Jito (JTO), and Dogwifhat (WIF) – managed to buck the trend and appreciate in value.
+
+
+
+The memecoins seemingly managed to appreciate as there’s been an ongoing memecoin trading frenzy in the cryptocurrency space that recently saw the price of several tokens, including WIF, recently surge. Meanwhile ORDI rose as there’s “no tier 1” venture capital backing, while JUP and JTO rose over their momentum on the Solana blockchain.
+
+
+
+
+
+
+
+Per the analyst, the tokens are being listed on Binance with sky-high valuations, with the average fully diluted valuation (FDV) exceeding $4.2 billion despite a lack of established user bases, which restricts potential upside.
+
+
+
+He added that these tokens end up often serving more as “exit liquidity” for insiders who have already acquired them to capitalize on “retail lack of access to quality early investment opportunities.”
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+In simpler terms, these inflated valuations may primarily benefit those who launched the tokens, leaving retail investors holding the bag when prices inevitably drop as “all their upside potential are already taken away.”
+
+
+
+
+
+
+
+Memecoins including PEPE have recently moved to a new all-time high after a meme stock trading frenzy started after a trader central to the 2021 movement, Keith Gill, known on X as RoaringKitty and DFV on Reddit, after he returned to social media from a three-year hiatus that ended after his testimony in Congress.
+
+
+
+The trader’s return saw the price of GameStop (NYSE: GME) surge as a wave of retail traders drove up the price of the video game retailer in a move that led to widespread media coverage. The firm’s stock price rally two years ago had a similar effect and even led to a Netflix series, a movie, and considerable financial scrutiny.
+
+
+
+The move was accompanied by rises in memecoins in the cryptocurrency space, with various analysts pointing to how DOGE also surged after the 2021 meme stock mania.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+Optimism Network Activity Metrics Approach Record Levels, Propelling OP 9% Higher
+
+
+																Layer 2 (L2) scaling solution Optimism reported a series of strong network metrics in the first quarter (Q1) 2024, with its native OP token surging 9% on the back of this bullish momentum.
+Optimism Sees Higher Activity And Rising Transaction Fees
+According to a recent Messari report, Optimism’s circulating market cap increased 11% quarter-over-quarter (QoQ) to $3.7 billion, while its fully diluted market cap rose 1% to $15.7 billion. 
+Despite the broader crypto market rally, with Bitcoin (BTC) and Ethereum (ETH) gaining 69% and 53% QoQ, respectively, OP’s market cap ranking slipped from 26th to 39th among all blockchain networks. However, within the Ethereum ecosystem, OP remains one of the top four rollups by market capitalization.
+OP’s circulating market cap growth during Q1. Source: Messari
+Driving this growth was a significant uptick in Optimism network activity. Daily active addresses reached 89,000 in Q1 2024, a 23% QoQ increase, while daily transactions surged 39% to 470,000 over the same period. These metrics approached, but did not quite reach, their all-time highs in Q3 2023.
+
+	Related Reading
+
+
+
+The network’s revenue also saw a substantial 78% QoQ increase to $16 million, driven by higher activity and a 48% rise in the average transaction fee to $0.42. However, this average fee dropped significantly in the latter half of March due to the implementation of Ethereum Improvement Proposal (EIP) 4844, which reduced L1 submission costs by 99%.
+Total Value Locked Jumps 18% In Q1
+Despite the fee reduction, Optimism’s on-chain profit for Q1 2024 increased 14% QoQ to $2 million. The network’s Total Value Locked (TVL) also grew by 18% to $1.2 billion, though its TVL ranking among all networks fell to 11th place.
+Within Optimism’s TVL, the DeFi sector dominated, accounting for 86% of active addresses. According to Messari, non-fungible token (NFT) applications and gaming followed with 6.9% and 6.7%, respectively. 
+TVL’s leading protocols included Synthetix ($307 million, +4% QoQ), Aave ($270 million, +52% QoQ), and Velodrome ($171 million, +10% QoQ).
+Optimism’s stablecoin market capitalization also grew significantly, reaching $809 million (+32% QoQ) by the end of Q1 2024. Circle’s USDC stablecoin and Tether’s USDT made up most of this, with USDT seeing a 64% QoQ surge to $512 million, or 63% of the total stablecoin market cap on Optimism.
+OP’s stablecoin market cap performance. Source: Messari
+OP Rebounds Alongside Crypto Market Resurgence
+Despite Optimism’s strong performance across key metrics in Q1 2024, the network’s native token, OP, did not see a corresponding price increase at the end of Q1. Instead, OP followed the broader market downtrend, hitting an annual low of $1.80 just one month after hitting an all-time high of $4.84 in March. 
+However, OP has followed suit as the overall cryptocurrency market has seen a resurgence of bullish momentum in the past few days. In the past 24 hours, the token has recorded a 9% price increase and a 3% uptick in the past week, currently trading at $2.56. 
+Furthermore, CoinGecko data shows a 19% increase in OP’s trading volume over the past 48 hours, reaching $290 million.
+
+	Related Reading
+
+
+
+The daily chart shows OP’s price trending upwards. Source: OPUSD on TradingView.com
+While this renewed bullish sentiment is encouraging, OP still trades 46% below its all-time high and faces significant resistance levels soon before a potential retest of this milestone. 
+The first key resistance is at $2.65, followed by $2.90, which must be overcome before the token can push towards the $3.00 level. Conversely, the $2.34 support level has proven crucial and must be monitored closely in case of any bearish resurgence. 
+Featured image from Shutterstock, chart from TradingView.com 
+																								
+															
+
+
+						
+
+----------------
+
+TRUMP vs BODEN - Which 'Presidential' token has the advantage now? - AMBCrypto
+
+
+
+TRUMP token’s price declined significantly as its popularity waned
+BODEN, on the other hand, hiked on the charts
+
+Memecoin frenzy is now part of the 2024 U.S Presidential Elections, with tokens associated with both Biden and Trump seeing significant volatility over the last few days.
+TRUMP holders lose money
+After weeks of leading this particular chart, TRUMP’s price fell by 11% in just 24 hours. Despite the fall in price, however, the altcoin’s larger market trend has remained positive. In fact, many would see the said episode as an anomaly as outside of the last 24-28 hours, since 09 May, the crypto has hiked significantly while hitting multiple higher highs and higher lows.
+That being said, TRUMP’s indicators pointed to a different story.
+For instance, the CMF (Chaikin Money Flow) fell significantly, indicating that money has been flowing out of its market A falling CMF also underlined the presence of high selling pressure.
+Coupled with that, the OBV (On Balance Volume) for TRUMP declined too. A falling OBV indicates that the volume behind an asset’s price movements may be dominated by selling. This can be interpreted as a sign of diminishing bullish sentiment and potential weakness in the price.
+Source: Trading View
+One of the reasons behind TRUMP’s price falling on the charts would be its declining social volume.
+In fact, AMBCrypto’s analysis of Santiment’s data revealed that the number of social comments around TRUMP fell. Also, the weighted sentiment decreased too, indicating a surge in negativity across all social media platforms.
+Source: Santiment
+Some positives for TRUMP
+It’s worth pointing out, however, that TRUMP’s network growth did hike on the charts. Simply said, the number of new addresses accumulating TRUMP grew.
+Additionally, the velocity at which TRUMP was being traded appreciated too.
+Taken together, these factors could help TRUMP see a change in its price trajectory going forward.
+Source: Santiment
+BODEN, on the other hand, has been doing relatively well. In the last 7 days alone, the BODEN’s price has risen by 40.40%. At press time, BODEN was trading at $0.4347.
+With the actual elections still a few months away, only time will tell which of these “Presidential” tokens does best.
+
+
+
+
+
+
+----------------
+
+zkSync Fuels June Airdrop Rumors With V24 Upgrade Announcement - DailyCoin
+
+
+        
+
+zkSync is getting set for a pivotal upgrade.
+
+
+
+The announcement of the coming upgrade has sparked speculation of a summer airdrop.
+
+
+
+The new protocol release will bring several major changes to the network.
+
+
+
+
+Airdrops are all the rage again. While the Ethereum Layer 2 ecosystem has already seen its fair share of these airdrops, there still appears to be more to come.
+
+
+
+
+In January 2024, Manta Pacific distributed its MANTA token, and in February 2024, Starknet distributed STRK. Following these distributions, a recent upgrade announcement has sparked speculation that zkSync, the Matter Labs-developed zero-knowledge (ZK) rollup, could be next.
+
+
+
+zkSync Set to Hand Over Governance to the Community
+
+
+
+In an X post on Friday, May 17, the zkSync team disclosed that it was gearing up to roll out v24, its final upgrade, before handing over the network to the community. The team added that it expected the final pieces for the upgrade to fall in place by the end of June 2024.
+
+
+
+
+
+
+
+The announcement has sparked significant talk of a potential token distribution at the end of June 2024. This is because blockchain governance typically requires network participants to delegate tokens to vote for protocol changes.
+
+
+
+Rumors of a zkSync airdrop have been circulating since the network launched in early 2023, with the speculation often helping to drive up the network metrics.
+
+
+
+What the zkSync V24 Release Brings to the Table
+
+
+
+The zkSync v24 release is slated to bring eight significant changes. These changes include:
+
+
+
+
+A new feature that would allow for wallets that rely on devices like Apple’s Secure Enclave and Android Keychain instead of requiring users to memorize long seed phrases.
+
+
+
+The zkSync Bridgehub: A feature that will set the groundwork for interoperability between ZK Stack chains.
+
+
+
+New features to set the foundation for validium ZK Stack chains with a custom data availability layer.
+
+
+
+
+At the time of writing, L2Beat data suggests that zkSync Era is the eighth largest Ethereum Layer 2 by TVL with $810 million.
+
+
+
+
+Read this for more on zkSync Era airdrop speculation:ZKSync User with 21K Wallets Exposes Flaw in Crypto Airdrops
+
+
+
+Stay up to date with the latest in the Tigran Gambaryan detention saga:BREAKING: Binance’s Tigran Gambaryan Denied Bail in Nigeria
+
+    
+              
+    
