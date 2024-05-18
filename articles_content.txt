@@ -1,196 +1,3 @@
-World's largest clearinghouse DTCC is experimenting with blockchain technology - Crypto Valley Journal
-
-The "Smart NAV" pilot project by the Depository Trust & Clearing Corporation (DTCC), in collaboration with Oracle's Chainlink project and leading U.S. banks, tested the representation of market data on the blockchain.DTCC operates the largest securities settlement system in the world. To support the tokenization of traditional assets, the clearing house launched the Smart NAV pilot. Using Chainlink's Cross-Chain Interoperability Protocol (CCIP), DTCC was able to provide net asset values (NAVs) of tokenized funds on multiple blockchains through a standardized process. Participants in the pilot include US financial giants BNY Mellon, Franklin Templeton, JP Morgan, State Street, Invesco and others.
-Key Infrastructure for TokenizationThe term tokenization refers to the representation of traditional assets also known as real-world assets (RWAs) on a blockchain network. For example, since March 2024, BlackRock is offering a money market fund on the Ethereum blockchain. Benefits include increased transparency for traditional financial products, broader accessibility and cross-border settlement.An accurate representation of the net asset value (NAV) is critical to such efforts. This ultimately underpins the market price for new subscriptions to a product. With Smart NAV, DTCC aims to distribute this data directly on the blockchain. Chainlink's CCIP enables the application to be used across different networks, allowing the data to be queried and processed more efficiently.Diagram of the Smart NAV Project/ Source: DTCCPotential expansion of the experimentAccording to DTCC, the pilot demonstrated how many different use cases could benefit from having key market data represented directly on the blockchain. Specifically, the clearing house mentioned tokenized funds, smart contracts for large banks, and brokerage portfolio applications. Other benefits include automated real-time data distribution and integrated access to historical data.Based on the blockchain experiment, DTCC sees an opportunity to expand the scope of applications. This would involve exploring how the technical capabilities used in the pilot could support a broader range of use cases and across a larger number of blockchains. Smart NAV could be expanded in the following areas:Using a similar distribution model with expanded data sets (e.g., key reference data)Automating workflows across blockchains triggered by the distributed dataset (e.g., portfolio rebalancing triggered by NAV)Extend the smart contract governance capabilities used in Smart NAV to enable data collection directly from participants (as opposed to a centralized submission point).
-
-----------------
-
-Former Goldman Sachs Executive Raoul Pal Answers Key Question: 'When Do I Sell My Crypto?' - Benzinga
-
-In his latest video podcast, Former Goldman Sachs executive Raoul Pal discusses when traders should sell their crypto. He suggests not nailing market tops and adopting a time-based approach.What Happened: While addressing the query "When do I sell my crypto?", Pal stresses the importance of understanding one’s goals and investment time horizon, noting that crypto is inherently cyclical. Pal states, "Crypto is very cyclical based on this ‘everything code’ thesis." This thesis ties these cycles to global financial patterns, Bitcoin halvings and U.S. presidential elections.Drawing on his own experiences, Pal shares his journey from buying Bitcoin at $200 in 2013 to navigating the extreme highs and lows over the years. "Every time I've seen anybody try to time the market, including myself, it's been suboptimal," he admits. "I would have made five times as much money by not doing anything," he reflects, highlighting the challenge of market timing.Pal advises against trying to precisely nail the market tops, suggesting instead a time-based approach. "Use time, not price," he recommends, proposing that investors take profits towards the end of the year when crypto typically performs well.Also Read: Why This Crypto Market Is ‘A Bear Trap’ And Which Coins This Trader Is BackingWhy It Matters: Pal underscores the importance of having cash ready to buy during market downturns. "Every time you buy those lows, you're going to 10, 20, 50x depending on what you're buying," he emphasizes, stressing the value of long-term compounding.He notes, "This time around, I didn’t do anything except buy when I thought we were close to the bottom." This strategy, he explains, allowed him to capitalize on significant market rebounds.Lastly, the Macro Guru touches on the emotional aspect of investing, recognizing the difficulty in reinvesting post-downturn due to fear of losses. "The hard thing is actually putting the same amount back in again," he says, acknowledging the psychological hurdles investors face. He underscores the importance of sticking with the secular trend and not being swayed by short-term volatility.Pal has previously predicted cryptocurrency markets to enter a “Banana zone,” with the total market cap rising to $10 trillion until the end of the decade. He has also predicted that Bitcoin BTC/USD will go as high as $1 million.What’s Next: The influence of Bitcoin as an institutional asset class is expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: Bitcoin’s Rally Splits Trader Opinions: ‘Daily Says We’re Going Higher’ But One Indicator Presents A ‘Sell Signal On The 4H Chart’This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.Image created using artificial intelligence with Midjourney.
-
-----------------
-
-Hong Kong pilots first-ever digital yuan payment system for cross-border transactions
-
-The People’s Bank of China (PBoC) and the Hong Kong Monetary Authority (HKMA) have taken significant steps to expand the Digital Yuan (e-CNY)’s reach beyond mainland China.On May 17, the HKMA announced a pilot scheme enabling the use of the Central Bank Digital Currency (CBDC) for cross-boundary payments.According to the authorities, this e-CNY scheme will provide safer, more convenient, and innovative cross-border retail payments between Hong Kong and Mainland residents.Cross-border transactionsThis initiative also allows Hong Kong residents to set up personal e-CNY wallets with their mobile numbers, but they cannot perform peer-to-peer transactions among themselves.Under this scheme, Hong Kong residents can fund their digital yuan wallets through 17 retail banks via the Faster Payment System (FPS). The statement added:“The interoperability between the FPS and the e-CNY system operated by the Digital Currency Institute (DCI) of the PBoC also marks the first linkage of a faster payment system with a central bank digital currency system in the world.”Eddie Yue, Chief Executive of the HKMA, stated that the e-CNY application and wallet would gradually gain more functionality as more retail merchants adopt the system. He said:“By expanding the e-CNY pilot in Hong Kong and leveraging the 24×7 operating hours and real-time transfer advantages of the FPS, users may now top up their e-CNY wallets anytime, anywhere without having to open a Mainland bank account, thereby facilitating merchant payments in the Mainland by Hong Kong residents.”Moreover, HKMA said it plans to upgrade the e-CNY wallets to higher tiers through real-name verification and will support corporate use cases for cross-border trade settlements in the future.This initiative continues China’s efforts to popularize its CBDC program. The country already uses the currency to pay some of its workers monthly salaries.Latest Alpha Market Report
-
-----------------
-
-Pump.fun Favorites Michi and Mini Recover After Exploit-But These Tokens Are Still Stuck - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsA purported former Pump.fun employee drained an estimated $2 million worth of Solana from the protocol yesterday. This resulted in wallet provider Phantom blocking the site, a number of tokens getting stuck in bonding curve contracts, and trading being paused.Less than 24 hours later, it appears Pump.fun’s largest tokens have quickly recovered while the tokens affected by the attack are still stuck in limbo.Pump.fun is a protocol that allows users to create a Solana meme coin in minutes for only 0.02 SOL ($3). This has resulted in the daily record for new Solana-based tokens minted being broken with a slew of meme coins being created.Fortunately for meme enthusiasts, the Pump.fun team addressed the issue within seven hours of the attack. “Solana shit coins are back, and greater than ever,” the team posted on Twitter.Not long after the protocol was hacked, its highest market cap tokens dipped. Michi, Pump.fun’s largest token, fell 6% while SelfieDogCoin, the third largest token on the platform, plummeted 23%, and Mini, the next largest, dropped 22%—all in a matter of hours.Now the protocol says it has resolved the exploit and trading has resumed, these tokens have recovered. Michi has climbed 28% since its mid-hack low, SelfieDogCoin has jumped 20%, and Mini has skyrocketed 55%. While in the short-term the hack negatively affected Pump.fun’s biggest tokens, it appears that now the protocol has recovered it’s just brought more attention to tokens on the platform.However, these tokens had already become tradable on the Solana decentralized exchange (DEX) Raydium. This is done by reaching a market cap above $69,000 and completes a bonding curve (which adjusts an asset's price relative to its supply). Once it reaches this milestone, the liquidity is moved to Solana trading platform Raydium—meaning that investors can begin trading it outside of Pump.fun.Some on-chain sleuths deduced that with the aid of a private key—one only an employee of Pump.fun would have access to—the Pump.fun attacker appeared to target accounts completing this process, diverting funds earmarked for Raydium into unrelated wallet addresses. This resulted in tokens that hit 100% during the time of the attack being stuck in limbo. Unfortunately, this has still not been resolved.Tokens like Sim Wit Dicc, an NSFW token about the Sims game, Pre Wif, another dog coin, and Rnld Sweginatur, an Arnold Schwarzenegger meme, are all currently stuck. But the tokens are so small, there isn’t much of a community behind them to be outraged about it. That said, there are victims and Pump.fun intends to make these users whole.“The Pump.fun team will seed the LPs for each affected coin with an equal or greater amount of SOL liquidity that the coin had at 15:21 UTC within the next 24 hours,” the official account wrote on Twitter. “Please bear with us as we aim to resume the trading of these coins in a safe and structured manner.In the wake of the exploit, there has been a peculiar outpouring of love for the attacker. That’s because some people have been vocal in saying that Pump.fun is bad for Solana and the wider crypto community. In typical degen fashion, tokens dedicated to the attacker have started to appear. And ironically, the two of the largest hacker tribute tokens that Decrypt found went to zero almost immediately.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Chinese Police Bust $1.9 Billion Underground Banking Racket Involving Tether
-
-
-
-                    
-
-Chinese police have uncovered a $1.9 billion underground banking racket involving the popular stablecoin Tether in Chengdu. 
-
-
-
-The operation utilized Tether to exchange foreign currencies and led to the arrest of 193 suspects across 26 provinces, according to a police report.
-
-
-
-
-The report highlighted that these underground USDT operations began in January 2021. 
-
-
-
-They were primarily used to smuggle medicine, cosmetics, and investment assets overseas. 
-
-
-
-The authorities dismantled two such operations in Fujian and Hunan, freezing 149 million yuan (approximately $20 million) linked to these activities.
-
-
-
-
-Despite China’s comprehensive prohibition on crypto-related activities, traders in the country continue to circumvent the ban, using crypto assets in alternative ways. 
-
-
-
-A report by Kyros Ventures indicates that Chinese traders are among the largest stablecoin holders globally. 
-
-
-
-According to the report, 33.3% of Chinese investors hold multiple stablecoins, placing them second only to Vietnam’s 58.6%.
-
-
-
-The Chinese government has banned cryptocurrency use, cryptocurrency exchanges, and Bitcoin mining operations. 
-
-
-
-
-However, the local population has consistently found ways to evade these restrictions over the years.
-
-
-
-READ MORE: Brothers Indicted for $25 Million Crypto Theft in Groundbreaking Ethereum Blockchain Exploit
-
-
-
-At the time of the Bitcoin mining ban, China was the largest contributor to the Bitcoin network hash rate. 
-
-
-
-Remarkably, within a year of the ban, China’s mining hash rate contribution rose to second place despite the prohibition. 
-
-
-
-Similarly, after the country banned centralized exchanges, Chinese traders shifted to decentralized exchanges.
-
-
-
-In response to the ban, the use of decentralized finance (DeFi) protocols by Chinese traders significantly increased. 
-
-
-
-Some traders also used virtual private networks (VPNs) to defy the restrictions and continue their crypto activities.
-
-
-
-The persistence of Chinese traders in using cryptocurrencies and stablecoins like Tether highlights the challenges faced by authorities in enforcing the ban. 
-
-
-
-Despite stringent measures, the adaptability and ingenuity of the local population have allowed them to continue participating in the global crypto market.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Turkey Tables Crypto Bill in Parliament, Aims to Bring Crypto Licensing to the Country
-
-Also in March, the ruling AK Party Deputy Chairman of Information and Communication Technologies Ömer İleri said, "We find it very important to carry out a legal study in the field of crypto assets. This legal regulation is primarily a study that will regulate the platforms, but beyond that, it will be a regulation that will protect our citizens and investors."
-
-----------------
-
-Gambling Cat (GAMBCAT) to Skyrocket 14,000% Ahead of KuCoin Listing, While Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-Gambling Cat (GAMBCAT) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Gambling Cat (GAMBCAT), a new Solana memecoin that was launched today, is poised to explode over 14,000% in price in the coming days.
-
-
-
-
-This is because GAMBCAT has announced its first centralized exchange listing, which will be on KuCoin.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, Gambling Cat can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Gambling Cat could become the next viral memecoin.
-
-
-
-Gambling Cat launched with over $6,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
-
-
-
-To buy Gambling Cat on Raydium or Jupiter ahead of the KuCoin listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Gambling Cat by entering its contract address – B4BQTfBJ6uQYkzaZyQjTmH7k3c9gzXQ3FrPMPDstpYAn – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like GAMBCAT.
-
-
-                
-
-                
-
-----------------
-
 Here's How Much Justin Bieber Has Lost On His ApeCoin Investment - Benzinga
 
 Known for his music, Justin Bieber has become one of the wealthiest people in the world. He has used this wealth in a variety of ways, ranging from philanthropic efforts to venture capital investments. However, a less-discussed way in which the singer has used his fortune is with cryptocurrency. Bieber began investing in cryptocurrency and NFTs in 2021, and the investments have lost quite a bit of value since they were acquired. Let's take a look:Bieber first began purchasing NFTs in 2021, towards the tail end of the NFT hype wave that stormed the crypto community. In early 2022, Bieber purchased Bored Ape #3001 for 500 ETH, or around $1.3 million at the time. Don't Miss:Additionally, around the same time, Bieber bought Mutant Ape #922. For this NFT, he paid 28.8 ETH, or just over $70,000. These NFTs allowed Bieber to access the ApeCoin airdrop. ApeCoin is a governance token that powers the ApeCoin DAO. However, most investors simply see it as a proxy for investing in the Bored Ape NFT projects without having to shell out tens of thousands. The airdrop occurred in March 2022, and gave out 15% of the total supply to holders of Bored Apes. Specifically, owners of a Bored Ape got 10,000 tokens and owners of a Mutant Ape got 2,000 tokens.At the time, the airdrop was extremely profitable and delivered huge amounts of value to holders of the NFTs. One month after the airdrop, the price of the token hit a high of $27.60. This means that Bored Ape holders would have received $276,000 from the airdrop, and Mutant Ape holders would have received $55,200.Trending: How much Bitcoin did Michael Saylor says you need to become a millionaire? The number may shock you.Bieber held both of the NFTs, so at one point, his position was worth over $331,000. While this is a long way from the nearly $1.4 million he shelled out to purchase the NFTs, it is a huge amount to essentially receive for free, as Bieber did not directly pay for any of the ApeCoins. However, Bieber likely regrets not selling the position when it was worth over $331,000. Since hitting those highs, the price of ApeCoin has continually fallen, likely from Bored Ape holders selling their tokens to realize their profits. ApeCoin has been trading between $1 and $2 for nearly a year, and Bieber's position is worth just $14,000.This marks an unrealized loss of nearly 96%, since the position was worth as much as $331,000, and is currently worth $14,000.Bieber has also seen huge losses on the NFTs themselves, which have resulted in a loss of nearly 97%. Read Next:
@@ -10093,3 +9900,225 @@ Disclaimer
 In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
 
  
+
+
+----------------
+
+Vitalik Buterin Shares Plans to Improve Ethereum's Decentralization | Cryptopolitan
+
+The highly-respected creator of Ethereum, Vitalik Buterin, has revealed a comprehensive plan to improve the decentralization and permissionlessness of the network. He detailed these strategies during an Ethereum developer interop in Kenya, explaining to us some significant upcoming improvements like PeerDAS, the Verkle tree transition, and decentralized historical data storage under EIP 4444.These developments promise to enhance the experience not just for node operators but also for L1 and L2 users.Ethereum Will Tackle MEV IssuesButerin’s discourse began with a focus on the broader technical capacities that have recently been enhanced within the Ethereum ecosystem.Related: Why Is Ethereum Still Performing Badly?He responded to concerns from Geth core developer Peter Szilagyi about the current direction of the Ethereum project, which Buterin believes are not as dire as suggested. Instead, he proposed realistic adjustments to the current roadmap to address these issues.Central to Buterin’s argument is the ongoing issue of Miner Extractable Value (MEV). Historically, Ethereum blocks were generated by miners using straightforward algorithms.However, as complex strategies exploiting transaction ordering within blocks emerged, the fairness of block production diminished.To address the rising concerns around MEV, Ethereum has considered both minimizing MEV through protocols like encrypted mempools and quarantining MEV by separating block proposers from transaction selectors via an auction protocol known as proposer/builder separation (PBS).Source: Vitalik ButerinButerin suggests further minimizing the power of builders in MEV scenarios by using inclusion lists. These lists ensure that certain transactions must be included in blocks, thus preventing the possibility of excluding transactions strategically.He advocates for a massive reduction of the builders’ influence, envisioning a scenario where builders are more restricted while maintaining their functionality.Ethereum will Enhance Liquid StakingThe next segment of Buterin’s plan addresses the challenges and future of Ethereum staking.Despite the growth in staking solutions provided by entities like Lido and RocketPool, the majority of Ethereum staking is still not solo due to the 32 ETH minimum and the technical challenges associated.Buterin’s goal is to foster a stronger solo staking ecosystem, which he believes is critical to maintaining Ethereum’s decentralization.Also Read: U.S. Indicts Brothers for Attack on Ethereum Trading BotsHe pointed out several initiatives aimed at reducing the technical and financial barriers to solo staking, including the implementation of Verkle trees and EIP-4444.There is a Need to Reduce Node RequirementsThese technologies could drastically reduce the data storage requirements for nodes, thereby simplifying the staking process and enhancing the viability of Ethereum light clients.Source: Vitalik ButerinButerin also touched on the importance of accessible node operation within the Ethereum network. The ultimate aim is to enable nodes to run on minimal hardware, potentially as low as a smartphone, through improvements like Type 1 ZK-EVMs that allow users to verify blockchain operations without performing the heavy lifting of EVM computation.This vision, often referred to as “The Verge,” aims to decentralize the responsibility of maintaining the state and providing proofs away from large, centralized actors.“I think it is actually true that 2021-era Ethereum thought became too comfortable with offloading responsibilities to a small number of large-scale actors, as long as some kind of market mechanism or zero knowledge proof system existed to force the centralized actors to behave honestly.“Vitalik ButerinDespite these advancements, Buterin remains cautious about the risks of centralization through dependency on a limited number of data providers.He advocates for the storage of historical blockchain data within a decentralized peer-to-peer network, significantly reducing the reliance on major actors like exchanges and block explorers.
+
+
+----------------
+
+Fantom Sonic: Will Ethereum integration help FTM's price? - AMBCrypto
+
+
+
+Fantom disclosed that Ethereum would enable the token migration.
+While FTM’s price increased, reaching $1 could be challenging in the short term.
+
+Layer-1 blockchain Fantom [FTM] has disclosed a new set of important details as it approaches the final stages before the Sonic upgrade launch.
+For those unfamiliar, Sonic upgrade is the next iteration of Fantom that the project claims would boost the number of Transactions Per Second (TPS) to 2000.
+However, besides improved performance, the recent upgrade mentioned Ethereum [ETH] as a major player in the development.
+Ethereum to aid the switch
+According to the memo directed at FTM holders, the project would launch a new layer-1 and layer-2 chain. For both chains, the project said that holders of the token would be able to bridge assets to Ethereum.
+It explained,
+“The Sonic chain will be a layer-1 platform that connects to Ethereum via a bespoke layer-2 bridge, allowing Sonic to tap into vast amounts of liquidity, users, and protocols. This allows the network to combine the low cost, scalability, and speed of a layer-1 with the security of a layer-2 bridge for access to native ETH and other assets on Ethereum.”
+Previously, Fantom had mentioned that it planned to launch a token for the launch with the ticker “S” for Sonic. As such, FTM holders can migrate their tokens to S at a 1:1 ratio using Ethereum.
+At press time, FTM’s price was $0.86— A 6.22% increase in the last 24 hours. The price increase could be linked to the rising optimism geared toward the upgrade and token introduction.
+Furthermore, AMBCrypto noticed that the 24-hour active addresses on the Fantom jumped on the 17th of May. The increase implied that the rate of successful transactions on the network jumped.
+Source: Santiment
+However, the metric, at press time, had decreased, implying that the increase lasted only for a short period. Likewise, on-chain data showed that the one-day circulation fell.
+Network activity struggles to hold up
+As of this writing, FTM circulation was 2.97 million, confirming the notion that tokens engaged in transactions had reduced.
+If these metrics continue to fall, it could be difficult for FTM’s price to approach $1.
+But that does not imply that the value would not increase. At the same, a significant plunge could be off the option. In addition, we looked at the Total Value Locked (TVL).
+According to DeFiLlama, Fantom’s TVL was  $133.38 million. This was a significant increase in the last 30 days. The increase indicated an improvement in the health of protocols operating under the chain.
+Source: DeFiLlama
+
+Realistic or not, here’s FTM’s market cap in ETH terms
+
+However, this value remains a low one compared to 2022 when the metric hit an incredible $7 billion. As it stands, it could be difficult for Fantom to experience that level of locked assets again.
+But when it launches the Sonic upgrade, trust might return to the chain, it could experience a notable influx of assets deposited.
+
+
+
+
+
+
+----------------
+
+Here's when Solana could hit $200
+
+
+Solana’s native cryptocurrency, SOL, has surged over 17% in the last week to reach around $171 at press time. The cryptocurrency‘s monthly returns stand at around 30%, outperforming most big-cap crypto rivals, including Bitcoin (BTC). 
+This strong performance has fueled optimism that SOL could soon target the $200 mark.
+The uptick in SOL’s value can be attributed to several factors, including bustling meme coin trading, strong stablecoin volumes, and decentralized finance (DeFi) activity. 
+
+
+Additionally, declining U.S. bond yields indicate a growing appetite for riskier assets like crypto.
+Moreover, Robinhood has broadened its crypto services to Europe, launching its first crypto-staking product. This new feature allows European customers to stake Solana through the app for a 5% yield.
+This move has boosted investor confidence in Solana, highlighting its potential and stability.
+Rising interest in Solana NFTs
+In a significant shift within the decentralized exchange (DEX) sector, Solana has recently outpaced Ethereum (ETH) in daily trading volumes, sparking discussions about its potential to challenge Ethereum’s long-established dominance in the cryptocurrency market.
+Solana has seen a notable increase in first-time wallets interacting with its NFTs over the past week, particularly within top collections. 
+Data from Tiexo shows a slight uptick in Solana NFT volumes, primarily driven by these collections. The number of unique wallets has risen by 159% over the last seven days, reaching about 180,000. 
+The most significant growth came from first-time wallets, which surged by over 39% to exceed 56,000. 
+This increase in activity indicates a growing interest and engagement in the Solana NFT ecosystem, underscoring the platform’s expanding appeal among new users.
+
+Choung pointed to forthcoming network enhancements, such as the highly anticipated Firedancer, a secondary chain client created by Jump Crypto designed to boost the network’s efficiency, as key factors driving this optimism.
+Solana price movements
+SOL 7 day price chart. Source: Finbold
+Currently, SOL is changing hands at $171. Analysts predict that a successful breakout could push its valuation close to $190, and an eventual move toward the $200 resistance level is within reach. 
+Should the bullish momentum continue, SOL might even hit $250 in the next upward run. Conversely, a market downturn could see SOL retract to the $155 support line.
+ If bearish trends prevail, the price may drop to $150, indicating a bearish shift. 
+Despite potential setbacks, the current recovery trends suggest that SOL is well-positioned for further gains, pointing to a promising outlook for the altcoin.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+XRP price prediction for May 31 as Ripple records Q1 impressive growth
+
+
+Despite ongoing legal troubles, blockchain firm Ripple recorded impressive growth in the first quarter of 2024, hitting several milestones.
+According to the results report released by Ripple on May 17, XRP spot volumes surged 40% from Q4 2023 to reach $865 million in Q1 2024. Daily average XRP derivatives open interest also increased, rising to $500 million from $460 million in Q4 2023.
+XRP spot traded volume for Q1 2024. Source: Ripple
+On-chain transactions grew by 108%, climbing to 251,397,881 from 121,031,713 recorded the previous quarter. Additionally, XRP burned for transaction fees rose by 101%, from 317,271 in Q4 2023 to 636,184 in the first quarter of 2024.
+
+
+These results potentially highlight the strength of Ripple’s underlying business despite the company’s legal battle with the Securities and Exchange Commission (SEC). These positive metrics are likely to influence XRP’s valuation, potentially impacting its price trajectory.
+Currently, XRP is holding the $0.50 support zone, largely remaining in a consolidation zone below $0.60. Investors are keenly watching for catalysts that could help the token rally to the coveted $1 mark.
+XRP price prediction
+In examining the XRP price prediction, Finbold consulted the CoinCodex tool, which uses AI-powered machine-learning algorithms for price projection. 
+According to data retrieved on May 18, the tool projected that XRP is likely to experience bullish momentum and trade at $0.66 by May 31, representing an upside of over 26% from XRP’s current price.
+XRP price prediction. Source: CoinCodex
+Meanwhile, crypto analyst Egrag Crypto noted in a May 18 X post that XRP is poised for sustained bullish momentum in the coming days. According to the analyst, XRP is facing the “final wake-up line,” which saw the token break out in July 2023 but failed to reach the anticipated heights.
+The trading expert highlighted a new development: a white triangle pattern incorporating highs from 2021, introducing the “genuine wake-up line.” Consequently, the expert predicted a breakout around $1.50, with a more ambitious target of $7.50.
+XRP price analysis chart. Source: TradingView/Egrag Crypto
+XRP Price Analysis
+In the short term, XRP is experiencing bearish sentiments, having corrected by almost 1% in the last 24 hours to trade at $0.52 at press time. However, on the weekly chart, XRP is up 3%.
+XRP seven-day price chart. Source: Finbold
+Overall, XRP can sustain the bullish projection if it holds above the $0.50 support zone.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+The Most Outrageous Ripple (XRP) Price Predictions This Year
+
+
+																TL;DR
+
+XRP trades around $0.52, with some analysts predicting potential rises to $5.85, $18.22, and even up to $100, although extreme targets are unlikely.
+The ongoing lawsuit between Ripple and the SEC significantly affects the asset’s price, with the company’s partial court wins boosting optimism for a potential bull run.
+
+
+The Odds of a Ridiculous XRP Rally
+Despite a brief price surge above $0.70 in mid-March, Ripple’s XRP has not positioned itself among the best-performing cryptocurrencies this year. It currently trades at around $0.52 (per CoinGecko’s data), which is a minor increase compared to the figure witnessed a month ago. 
+Numerous analysts believe the asset can break out of its current price position and head toward somewhat outrageous targets. One example is the X user Dark Defender, who thinks XRP can rise to $5.85 and later to a whopping $18.22:
+“As long as these are maintained, our 5 Elliott Wave structure targeting $5.85 & $18.22 remains the same. And any further moves between $0.3917 to $0.6649 are side moves and are normal.”
+Earlier this year, the analyst set an ever more ambitious target of $20, while EGRAG CRYPTO warned the XRP army to “stay steady” since a price “ignition” might be on the horizon.
+One of the most bullish price predictions this year was outlined by JackTheRippler, who forecasted an ascent to a whopping $100.
+
+
+
+
+Still, none of the aforementioned can be compared to CryptoBull’s analysis from 2023. Back then, the X user suggested that XRP may skyrocket to a staggering $470 sometime in the future.
+It is worth mentioning that this level would most likely remain a mirage since the asset’s market capitalization should explode above $200 trillion for this to happen. Currently, the entire market cap of the crypto industry stands at “just” $2.5 trillion. 
+The Impact of the Ripple v SEC Lawsuit
+Many consider the lawsuit between the two entities a major factor contributing to XRP’s price movements. The case, which started in December 2020, recently entered its trial phase, and some view the US SEC as the underdog due to Ripple’s three partial court wins secured throughout 2023. 
+The legal battle has undergone numerous developments recently, and according to the American lawyer Jeremy Hogan, both parties now expect the judge’s ruling.
+A decisive victory for Ripple may resonate into a bull run for XRP, while the opposite scenario could halt the asset’s upward movements as it did back in December 2020 when the agency initially went after the company. Those curious to learn more about the lawsuit and its specifics, please take a look at our dedicated video below:
+VIDEO
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+These Are The 28 Altcoins Binance Has Invested In But Hasn't Listed Yet - Bitcoin Sistemi
+
+
+Binance Labs, the investment arm of Binance, the world's largest cryptocurrency exchange, has been investing in many altcoin projects recently.
+However, Binance does not yet list many of the altcoins it invests in on its exchange platform. Although Binance's investment in a project does not guarantee listing on the exchange, data indicates that the company is more likely to list the altcoins it has invested in.
+
+
+So, which are the altcoins that Binance has invested in but has not yet listed on the stock market? Here is the list:
+
+GPT
+PBUX
+HIP
+ZK
+CHAMP
+PEEL
+LFT
+SQR
+OLE
+APX
+PSTAKE
+OOE
+FOG
+GMEE
+MAVIA
+NCG
+FAQ
+BBS
+D.F.D.
+BUNNY
+PUSH
+CQT
+MATH
+RWA
+HOPR
+NYM
+CERE
+MOB
+
+
+Particularly noteworthy tokens in this list include MAVIA, CQT and NYM. The reason why these tokens attract attention is that their total market value is over 100 million dollars. Predictably, Binance is more willing to list high-cap tokens.
+
+
+
+
+
+The world's largest cryptocurrency exchange has been making many listings via Launchpools lately. The last example of this was Notcoin (NOT). However, the NOT rewards were disappointing, paying out only $1.5 per approximately $1000 staked.
+*This is not investment advice.
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+‘Godfather of AI’ advises UK government to start UBI
+
+Geoffrey Hinton, a world-renowned artificial intelligence (AI) expert often referred to as the “Godfather of AI,” recently consulted with members of the United Kingdom’s government at Downing Street where he advised lawmakers to consider adopting a universal basic income (UBI) to deal with the impending threat of job loss.Until recently, Hinton worked for Google developing high-level AI features for neural networks — the underlying technology that powers most modern generative AI systems such as Google’s Gemini and OpenAI’s ChatGPT.According to Hinton, the AI revolution will mostly benefit the rich. Laypersons, blue collar workers, and those employed in jobs that can be automated stand to lose their means of income and “that’s going to be bad for society” he recently told the BBC in an interview.“I was consulted by people in Downing Street,” said Hinton, “and I advised them that universal basic income was a good idea.”Hinton isn’t the only major player in the field of AI who believes that we’ll need UBI to offset the impact automation will have on the human economy.Prior to becoming one of the most famous CEOs in the tech industry, OpenAI co-founder Sam Altman studied under Hinton and helped pioneer the neural network. These days, Altman is known for his tenure as OpenAI’s top brass as well as his full-throated support for UBI.Altman's other venture, Worldcoin, is focused on providing UBI through the adoption of a cryptocurrency token provided free of charge to anyone who signs up for the service and submits to a retinal scan to verify their identity.Aside from saving humanity from employment displacement through the advent of UBI, both Hinton and Altman have expressed their belief that AI could pose an existential threat to humanity.Hinton reportedly left his post at Google so that he could speak more freely about his concerns over the impact AI could have on the future of our species. And Altman, for his part, claims the entire reason he co-founded OpenAI with Elon Musk and others was to ensure that advanced AI systems were developed carefully and for the benefit of humanity.In his recent BBC interview, Hinton said we may only have a handful of years before the threat becomes imminent:“My guess is in between five and 20 years from now there’s a probability of half that we’ll have to confront the problem of AI trying to take over.”Related: AI safety researchers leave OpenAI over prioritization concerns
+
+
+
