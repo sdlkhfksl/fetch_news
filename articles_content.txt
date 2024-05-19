@@ -1,200 +1,3 @@
-Vitalik Addresses MEV and Decentralization Concerns | Bankless
-
-
-Today, Vitalik Buterin published a new blog post outlining strategies to enhance Ethereum’s “permissionlessness and decentralization.” The post was inspired by Geth core developer Péter Szilágyi’s concerns on maximal extractable value (MEV) and the specter of centralization. What's the context?In a May 16 Twitter thread, Szilágyi argued the Ethereum community has prioritized vested interests and quick fixes over the protocol’s integrity. He decried the acceptance of MEV, liquid staking, and increasing hardware requirements as leading to centralization and making Ethereum similar to traditional financial systems, leading to a wider debate with Ethereum researcher Dankrad Feist.tl;dr of Vitalik’s ResponseIn his new May 17 post, Buterin said these were “valid concerns” but asserted the situation wasn’t “anywhere near as hopeless as Peter’s tweets imply.” He emphasized that many of these issues were already being addressed through ongoing protocol improvements and roadmap tweaks, including:MEV minimization — Promoting MEV-free apps like CoW Swap and implementing encrypted mempools to prevent front-running attacksMEV quarantining — Using proposer/builder separation (PBS) and inclusion lists to limit the power to exclude transactionsVerkle trees and EIP-4444 — For reducing hardware requirements, expanding validator sets, and improving node operation efficiency and storage requirementsButerin concluded by acknowledging past over-reliance on “large-scale actors,” but added that Ethereum has shifted considerably toward true decentralization in recent years and that while there is plenty of work left to do, the ongoing progress is promising. Bankless take:It would be a travesty for Ethereum to turn into a captured TradFi-like behemoth, yet as Buterin pointed out in his new post, the network has moved considerably away from this specter through various ongoing development efforts, and with no signs of slowing down here.Of course, it will take years for Ethereum to complete the full arc of its decentralization journey, but the wait will be worth the end result: a remarkably robust base layer that can “hyper-scale” in all directions with Layer 2 (L2) networks. This vision is best realized by focusing on decentralization now, not later.  
-
-
-
-----------------
-
-Bitcoin, Ethereum, Dogecoin Rally Amid $1.3B In ETF Inflows In 2 Weeks: 'Fair To Assume That The Way To $80K Is Now Open?,' Trader Asks - Benzinga
-
-Cryptocurrency markets are trading higher, with spot Bitcoin ETF inflows picking up steam over the week.What Happened: Major cryptocurrencies are trading higher at the time of writing:Prices as of 4 p.m. Eastern Time:CryptocurrencyPriceGains +/-Bitcoin BTC/USD$67,062.85+2.8%Ethereum ETH/USD$3,083.59+4.7%Solana SOL/USD$168.78+6%Dogecoin DOGE/USD$0.154+2.8%Shiba Inu SHIB/USD$0.00002493+2%Notable Statistics:
-Morgan Stanley disclosed a $270 million investment in the Grayscale Bitcoin ETF.
-
-
-
-Spot Bitcoin ETFs posted $1.3 billion net inflows in two weeks, offsetting the entirety of the negative flows in April. This takes the inflows to a positive $12.3 billion net since launch.
-
-
-
-IntoTheBlock data highlights an increase of 9% in large transaction volumes to $56.7 billion, while exchanges’ net flows plunged 56%. A notable development was noticed in the Bitcoin holders making a profit at current levels. 93% of holders are currently in profit while 4% of holders are at a loss.
-
-
-
-Coinglass data notes $39.8 million worth of Bitcoin liquidations in the past 24 hours, with $29.8 million in short liquidations. Total crypto short liquidations tally at $80.6 million, compared to $35.8 million in long liquidations.
-Notable Developments:Top Gainers:CryptocurrencyPriceGains +/-Gnosis GNO/USD$306.56+13.6%Ordi ORDI/USD$41.35+12%Ondo ONDO/USD$0.9405+11.9%Also Read: Former Goldman Sachs Executive Raoul Pal Answers Key Question: ‘When Do I Sell My Crypto?’Analyst Notes: “Bitcoin OG” LLuciano aka Lucky noted something different in the Bitcoin chart: the last cycle top was at around $69,000 and struggled to stay in the $60,000 range for long, compared to holding $60,000 with ease this time. "This typical BTC behavior signals one thing: it’s gearing up for something big," he writes. He also predicts the largest altcoin runs are still on the horizon.Full-time trader and analyst Skew tweeted that Bitcoin is at the "Biggest inflection zone for price" and the next target for bulls is a strong close around $69,000.Crypto researcher and trader Alex Wacy tweeted, "Given this pattern, is it fair to assume that the way to $80k is now open?"What’s Next: The influence of Bitcoin as an institutional asset class is expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: Top Crypto Trader Dumps Entire Bitcoin Portfolio To Buy Altcoins, But Should You Be Taking This ‘Huge’ RiskImage: ShutterstockMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Market Overly Bearish on ETH ETF Odds: Coinbase Institutional | Bankless
-
-
-The ETH/BTC ratio may have just set a new multi-year low amid depressed sentiment on the odds of spot ETH ETF approval next Thursday, but Coinbase Institutional believes that Ether has the potential to surprise to the upside in the second half of 2024!What’s the scoop?Underpriced Approval Odds: While the Polymarket implied odds of ETF approval currently stand at just 10%, Coinbase Institutional sees a 30-40% chance of approval considering crypto has increasingly become an election topic. The Biden Administration’s SEC may be unwilling to expend political capital on a denial.Layer 2 Boon: Leading L2s now constitute 17% of aggregate DEX volumes, and are acting as massive ETH sinks, helping drive demand for ETH as a monetary asset, meanwhile Arbitrum and Base have seen explosive growth in stablecoin supply.Staker Support: ETH has been inflationary for over a month, but the growth in staked ETH has vastly outpaced the rate of issuance and stakers are not structurally forced to sell ETH to support operations, like BTC miners.Ethereum’s Edge: Ether’s usage across Ethereum-native DeFi, the ecosystem’s consistent drive to decentralize, a rapid pace of L2 innovation, the proliferation of the EVM, and L1 blockspace demand to tokenize real world assets are all long term strengths could allow Ethereum to retain dominance.  Bankless Take:Crypto has increasingly become an election issue, but only because the Biden Administration has taken a clear stance against the industry, making it unrealistic that the SEC of this hostile administration would approve spot ETH ETFs solely based on political concerns.The SEC’s October approval of ETH ETFs holding commodity futures suggests that the SEC viewed Ether as a non-security at that time, indicating spot instruments should receive approval on May 23 despite the overwhelming amount of evidence to the contrary. Although ETH sentiment is low, an unexpected approval likely reverses the tide; alternatively, a denial likely lays out the SEC’s case for why Ether is a security and could cause problems for alts.
-  
-
-
-
-----------------
-
-Telegram Founder Pavel Durov Says He’ll Hold $7 Million Notcoin Gift Until 100x - Decrypt
-
-Notcoin users were feeling generous ahead of Thursday’s NOT token launch, as over half a million players of the viral Telegram-based clicker game donated a share of their in-game coins to Telegram founder Pavel Durov. Now that haul is worth millions of dollars—and Durov says he’s holding for a potential 100x gain.More than 552,000 players of Notcoin donated a share of their in-game coins to Durov back in February, part of an effort by the Notcoin team—called Open Builders—to thank the Telegram founder for the messaging app that houses the crypto game.Ultimately, Durov ended up with over 1.03 billion NOT tokens, or just over 1% of the total Notcoin supply on The Open Network (TON). That’s worth about $7.3 million as of this writing, but was a bit lower at $6.8 million when Durov posted earlier Friday.Durov, who’s estimated to have a $15.5 billion fortune by Forbes, hardly needs the cash. And he’s not selling. But should the NOT token surge in value, he says he’d sell them to ultimately better support Telegram.“Half a million Notcoin users gifted me $6.8 million worth of Notcoin! Thank you,” Durov wrote on Telegram. “I will hold these coins until they turn to $680 million, at which point I will use them to buy more servers for Telegram.”Notcoin is this year’s biggest gaming token launch so far, debuting at a market cap of nearly $1.5 billion early Thursday. New cryptocurrencies are often volatile, and indeed, NOT has plunged in value since the debut—dropping by 50% to a current price just above $0.007, according to CoinMarketCap.Even so, NOT is the 101st most valuable cryptocurrency by market cap at $746 million, and racked up more than $1 billion worth of trading volume in its first 24 hours after launch.Notcoin paused its coin-tapping gameplay in April to prepare for the token rollout, but it set to relaunch its crypto-earning game—and ultimately serve as a platform for additional games in an effort to become the “Netflix of social, viral games,” co-creator Sasha Plotvinov told Decrypt’s GG in April.GG NewsletterGet the latest web3 gaming news, hear directly from gaming studios and influencers covering the space, and receive power-ups from our partners.
-
-----------------
-
-Ethereum price rallies above $3.1K after unexpected regulatory victory
-
-Ether (ETH) price rose by 5.5% on May 17, nearing $3,100 for the first time in 10 days. Analysts attributed this rally to a decrease in demand for fixed-income instruments following stagnant United States retail sales data in April. This data increased the market’s expectation of a potential interest rate cut by the U.S. Federal Reserve to boost the economy.Expansionary measures by the central bank are typically seen as bullish for risk-on markets, whether due to an increased monetary supply or reduced credit costs for businesses and individuals. Investors sought exposure to scarce assets, including cryptocurrencies, leading to gold reaching $2,410, just 0.8% below its all-time high.A court ruling gave Ether investors a confidence boostEther’s surge was also driven by a U.S. Department of Justice indictment unsealed on May 15. The indictment accused two individuals of wire fraud and money laundering by manipulating the Ethereum blockchain. The document stated that “Ethereum is a decentralized blockchain […] without the need for a trusted intermediary” and added, “No central actor runs the Ethereum Network.”Additionally, the court noted that Ethereum smart contracts enable transactions without a trusted intermediary. These statements boosted Ether investors’ confidence, especially after the U.S. Securities and Exchange Commission issued a Wells notice to the trading platform Robinhood on May 4 over alleged securities violations related to crypto listings and custodian operations.According to Orlando Cosme, founder and CEO of Lexproof, such a verdict contradicts regulators’ classification of ETH as a security, “as there would be no management or entrepreneurial efforts of others.” While this analysis does not change the approval odds of U.S. spot Ether exchange-traded funds (ETFs), it certainly lifted investors’ spirits.The U.S. SEC is expected to provide its final ruling on VanEck’s spot Ether ETF request on March 23 and rule on the conversion of Grayscale’s ETHE fund by June 18. Although analysts predict approval odds below 35%, the regulators’ case for classifying Ether as a security instrument has weakened, which might have contributed to the rally above $3,050 on May 17.Solana co-founder Anatoly Yakovenko praised Ethereum’s network security, highlighting how coordinating “an invalid state transition or double spend attack” would be nearly impossible. In a May 17 post, Yakovenko added that layer-2 scaling reduced costs without compromising security due to the network’s large number of validators and operators.In short, investors realized that whatever setbacks Ethereum faced, including high transaction fees and its lackluster efforts to increase scalability, were, in fact, decisions that prioritized security and decentralization. Meanwhile, competitors Solana and BNB Chain opted for solutions that allowed a higher processing capacity, regardless of the merits of increasing dependency on fewer entities.Ethereum network’s dominance remains undisputedEthereum’s strength becomes evident when analyzing its dominance in decentralized application (DApp) activity. The growth of layer-2 solutions such as Base, which quickly gained traction due to its low fees and integration with the U.S.’s largest crypto exchange, Coinbase, further reinforces Ethereum’s ability to become a global settlement layer.Top blockchains ranked by 30-day Dapps volumes, USD. Source: DappRadarEthereum’s $181.5 billion in DApp volume over 30 days is more than seven times larger than its direct competitor, BNB Chain. More importantly, this volume declined merely 3% compared to the previous month, while BNB Chain and Solana experienced 52% and 41% decreases in volume, respectively.Related: U.S. Senate passes resolution overturning SEC crypto rule on banksAnalyzing unique active addresses engaging with DApps yields similar results, with Ethereum gaining 3% in 30 days while BNB Chain and Solana faced steep declines. Highlights from the Ethereum network include Balancer, which saw a 34% volume increase in 30 days, Morpho Optimizers, which gained 80%, and DODO, with a 61% volume boost.In essence, even if the U.S. spot Ether ETF approval odds remain low, investors are realizing that the network’s dominance in the DApp ecosystem remains unaffected. This realization contributed to the ETH price gains on May 17. This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
-
-
-----------------
-
-Is Tether Minting $1 Billion USDT a Sign of Upcoming Surge? - DailyCoin
-
-
-        
-
-Bitcoin’s price has surged past $66,000 coinciding with positive news on inflation.
-
-
-
-Tether has minted billions of tokens, fueling speculation about its impact on Bitcoin’s price.
-
-
-
-Stablecoin holdings on exchanges have surged, raising liquidity and potentially increasing market volatility.
-
-
-
-
-The cryptocurrency market is showing signs of renewed life as Bitcoin surges past $66,000, coinciding with positive news on the US inflation front. This rally comes alongside a significant rise in stablecoin holdings on crypto exchanges, potentially setting the stage for a broader market upswing.
-
-
-
-Stablecoin Supply on the Rise
-
-
-
-Data from Lookonchain reveals that Tether, a major stablecoin issuer, minted an additional $1 billion worth of USDT tokens just 13 hours ago. This follows a trend of increased minting throughout the past month, with Tether’s market cap rising from $108 billion to over $111 billion. 
-
-
-
-
-
-
-
-In total, Tether has minted a staggering 31 billion USDT tokens over the past year, potentially fueling the rise in Bitcoin’s price from $27,000 to $73,000. 
-
-
-
-
-This trend extends beyond Tether. According to Woominkyu on CryptoQuant, a market analysis firm, there has been a recent surge in overall stablecoin inflows, suggesting a significant influx of fresh capital entering the cryptocurrency market. 
-
-
-
-This increased liquidity has the potential to significantly impact Bitcoin’s price dynamics, with the possibility of heightened volatility as supply and demand forces adjust.
-
-
-
-Bitcoin in a Consolidation Phase
-
-
-
-While the influx of stablecoins suggests a potential market rally, cryptocurrency analyst Willy Woo believes Bitcoin is currently in a “warm-up phase” within its liquidity cycle. Woo points out that Bitcoin is consolidating below its all-time highs, indicating a period of relatively low long-term risk for investors. 
-
-
-
-
-
-
-
-He highlights that significant market activity tends to correlate with increased risk, suggesting the current phase offers a degree of stability. The combined factors of a rising Bitcoin price, increased stablecoin holdings, and a cautious yet optimistic market outlook paint a picture of a crypto market preparing for potential growth. 
-
-
-
-
-While future volatility is a possibility, the current trends suggest a market primed for further movement. Overall, the rise in stablecoin activity injects optimism into the cryptocurrency market. However, analysts like Woo caution that Bitcoin’s price may experience volatility as the market absorbs this influx of liquidity.
-
-
-
-On the Flipside
-
-
-
-
-While a rise in stablecoins can signal new investment, it can also indicate investors seeking to hedge their bets or move capital out of riskier assets.
-
-
-
-A downturn in traditional markets could still impact the crypto market, even with an influx of stablecoins.
-
-
-
-The rise in stablecoin supply might not directly cause a sustained Bitcoin price increase.
-
-
-
-
-Why This Matters
-
-
-
-The surge in stablecoin holdings, particularly Tether’s minting of new tokens, coincides with Bitcoin’s price rise and suggests a potential influx of fresh capital. This increased liquidity could fuel a broader market upswing but also heighten volatility as supply and demand forces adjust within the cryptocurrency ecosystem.
-
-
-
-If you’re interested in cryptocurrency regulation, you’ll probably want to read this article about the U.S. government’s investigation into Tether:U.S. Scrutiny of Tether Raises Concerns for Stablecoin IndustryCurious about the rumors of a US probe into Tether, a stablecoin? This article explores the situation in more detail:Tether CEO Dismisses SEC Probe Rumors as Malicious FUD
-
-    
-              
-    
-
-----------------
-
-All Bitcoin Sold: Analyst Reveals Why He Swapped To Altcoins
-
-
-								A prominent figure in the crypto space revealed he has sold all his Bitcoin (BTC) holdings in favor of Altcoins. In an X post, the market expert claimed to still have faith in the flagship cryptocurrency and explained what he did and the reasons why.
-
-Expert Takes A Risk To Get More Bitcoin
-On Thursday, renowned crypto analyst Michaël van de Poppe announced to his X followers that he had sold all his Bitcoin holdings. He prefaced his explanation by stating that he had not lost his faith in BTC.
-The expert explained he is not expecting the largest cryptocurrency by market capitalization to be “topped out for this cycle.” Additionally, he clarified that he has not become a “complete believer in gold.”
- 
-
-Van de Poppe’s annoucement. Source: Michael van de Poppe on X
-Van de Poppe’s goal is to buy back more Bitcoin later in the year since “It’s a bull cycle; we can’t deny that.” However, he explains that the simplicity of the four-year cycle and the impact of “Halving” events will reduce over time as Bitcoin becomes a mature asset worldwide and institutions prioritize “risk appetite in their portfolios.”
-According to the analyst, “It’s all about risk,” and institutions will de-risk when liquidity dries up. As a result, this cycle may be the final “easy” cycle to make big profits through altcoins.
-He asserted that he must take a risk as a 31-year-old entrepreneur who has been surviving several bull and bear markets since 2017. To obtain more Bitcoin, van de Poppe decided to trade Altcoins within the Web 3.0 ecosystem, which he considers the riskiest path:
-“I know the tides, and I know that to get a large return, you’ll need to get more knowledge and dare to take the risk against all odds and sentiment. That’s where I fancy it the most and where I’ve had periods when things went south. Can’t deny that.”
-Altcoins Poised For Big Returns
-Further explaining why he chose this path to earn back his Bitcoin, the analyst stated that “altcoins have been crushed unreasonably hard” during this cycle. Due to this, van de Poppe is considering several events that could make or break his bet on altcoins.
-First, he listed the slim chances of an Ethereum (ETH) spot Exchange-Traded Fund (ETH) being approved alongside the Securities and Exchange Commission (SEC)’s crackdown on ETH. The clarification on the status of the second-largest cryptocurrency could “make a significant U-turn.”
-Second, the results of the US House of Representatives vote regarding the FIT21 bill could provide a clearer regulatory framework for the crypto industry in the US. Lastly, the outcome of the XRP lawsuit, which he believes will result in the asset not being classified as a security, could also positively affect the market.
-Van de Poppe stated that the upside of his bet cannot be denied. Nonetheless, he recognizes that the downside is relatively huge. The expert explained he’s currently 20% down on the overall investment in two weeks, claiming that he’ll be fine with the possibility of losing 50-80% of his investment.
-For the analyst, the chances of making a 300-900% return in the coming 6 to 12 months outweigh the risks. With the possibility of earning between 900% and 4500% in the next one to two years, van de Poppe is “happily allocating entirely towards altcoins.”  He closed his post optimistically stating, “The bull cycle will be glorious.”
-
-
-Bitcoin is trading at $66,340 in the monthly chart. Source: BTCUSDT on TradingView
-Featured Image from Unsplash.com, Chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Ghana, Singapore conduct trade in semi-fungible token pilot project
-
-The Bank of Ghana (BOG) and Monetary Authority of Singapore (MAS) have completed a proof-of-concept for the Digital Economy Semi-Fungible Token (DESFT) Project, according to various local press reports. The project is intended to encourage trade between micro, small and medium enterprises (MSMEs) in the two countries.Within the project, live transactions have been carried out between the sides. To do so, they leveraged the Universal Trusted Credentials semi-fungible token protocol developed by the United Nations Development Program, according to Singapore-based Ample FinTech, which identified itself as the developer of the DESFT. The token contained verified licenses, certificates and trade records.A stablecoin pegged to the Singapore dollar (XSGD) and the BOG’s e-cedi central bank digital currency (CBDC) were used for exchange within a Purpose Bound Money protocol on a distributed ledger.Source: Fintech Association of Kenya The MAS developed the Purpose Bound Money protocol in conjunction with the International Monetary Fund and the central banks of Italy and South Korea. It incorporates both programmable money and programmable payment technology and has been tested by Amazon and other international retailers.Related: Bank of Ghana to foster financial inclusion through CBDC projectBank of Ghana director of fintech and innovation Kwame Oppong described the project at the 3i Africa Summit in Accra. He said:“After nearly a year and two phases of development, we have crafted a reliable information exchange solution founded on UTC standards and Semi-fungible Token technology […] and conducted real trade experiments which fully align with our predetermined objectives.” Oppong continued that the project's future development would focus on supply chain finance and payments across multiple digital currencies. Details were scarce in the press about the semi-fungible token technology. Ample FinTech said it operates on the ERC-3525 standard on top of the Ethereum blockchain.According to an announcement of a panel discussion scheduled for the Singapore Fintech Festival in November, the Digital Economy Semi-Fungible Token “combines NFTs and traditional blockchain information” that enables the tokenization of self-ownership through the DESFT. The e-cedi is in its pilot phase. No launch date for the CBDC has been announced. Magazine: Bitcoin in Senegal: Why is this African country using BTC?
-
-
-
-
-
-----------------
-
 How a Crypto Trader Made Over $100K With Two Tweets - Decrypt
 
 Ethereum layer-2 solution Blast continues to be a lucrative place to earn money. On Thursday, Twitter user Punk9059—a notable pseudonymous crypto personality—said he had made well over $100,000 worth of crypto primarily from posting two tweets related to the Pacmoon meme coin.“I got paid over $100k for two tweets,” Punk9059 tweeted. “What's crazy is I had no idea it would happen.”Pacmoon is a meme coin on the Blast network, which launched its mainnet in late February. The Blast network has attracted considerable attention, amassing over $1.4 billion in total value locked ahead of its upcoming BLAST token airdrop in late June.Meme coins are tokens based on internet memes, celebrities, or brands. Pacmoon uses Pac-Man-inspired visuals, and rewards social media interaction and community engagement by giving supporters tokens for sharing relevant content.Showing the tweets, Punk9059—who works for Memeland, and previously was at Proof—said that the first tweet was of news of a free airdrop of Pacmoon (PAC) tokens to Blast stakeholders, along with his referral code, on February 28. It was a popular tweet, sure, but the benefits were even bigger than expected thanks to a mistake.“This tweet went viral,” Punk9059 said. “People copy/pasted the wording. And my friend [Frank DeGods] mistakenly tweeted my code instead of his own.”Frank DeGods, aka Rohun Vora, is the founder of the DeGods and y00ts NFT projects and commands a sizable following on Twitter. His mistaken referral code share ultimately paid off big for Punk9059—though at the time, the PAC token wasn’t worth very much.Punk9059 said he gave Frank $50 as a thank you after he mistakenly tweeted out the wrong referral code. And that tweet, including the photo of Frank holding a $50 bill while being embraced by Punk9059, also went viral—so more rewards gained.He received 354,179 PAC for referrals, followed by another 698,137 PAC tokens for tweet views, ultimately totaling 1,052,316 tokens—which equaled $168,370 as of Thursday. As of this writing, that tally is worth about $218,000 with PAC up 7% over the past 24 hours.“There were a couple more tweets in the mix, but these two did the lion's share of the work,” Punk9059 said. “The best part? My followers got a W too if they saw the tweet & registered.”“We’ll take it,” he added.Punk9059 did not immediately respond to Decrypt’s request for comment.Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
@@ -11336,3 +11139,310 @@ Featured image from Pexels, chart from TradingView
 																	
 															
 						
+
+----------------
+
+Roaring Kitty Goes MIA as GameStop Dumps on Retail Investors | Cryptopolitan
+
+GameStop, the video game retail giant, is hitting the market hard with plans to sell up to 45 million new shares. This decision came hot on the heels of a major stock price jump, catalyzed by the unexpected comeback of day trader Keith Gill (AKA Roaring Kitty).  GameStop is bracing for a drop in first-quarter net sales compared to the previous year. With shares closing 19.9% lower at $22.21 in New York, the potential revenue from these shares could hit around $1 billion if fully capitalized.GameStop Shares New Strategy for SharesOn Friday, GameStop revealed this strategy in a filing to the US securities regulator, alongside some sobering preliminary financial results.Last week was nothing short of a rollercoaster for GameStop’s stock, which saw an almost fourfold increase to a Tuesday peak of $64.83—the highest since mid-2021. By week’s end, GameStop reported a 27.2% rise in share price.However, the company acknowledged that these dramatic price fluctuations seem disconnected from its actual business performance or operational results.Source: TradingView GameStop’s anticipated net sales are set between $872 million and $892 million, marking a decline of at least 27% from last year and falling short of the $1.05 billion analysts had projected.Expected net losses could range from $27 million to $37 million, improving slightly from the previous year’s $50.5 million loss.AMC Joins GameStop in Market SurgeThe meme stock frenzy wasn’t limited to GameStop. AMC Entertainment, another key player from the 2021 stock surge, also capitalized on market trends.Related: Could Gamestop & Amc Pumps Spark a New Meme Coin Season?Last week, AMC entered an agreement to exchange nearly $164 million of subordinated debt due in 2026 for approximately 23.3 million newly issued shares, valued at about $7.33 each. Despite closing at $4.40, AMC’s stock experienced a 51.2% increase over the week.Investors Scramble as Shares FluctuateKeith Gill’s posts sparked a significant rally in GameStop shares. However, he has gone silent on Twitter for nearly 48 hours since then.This sudden disappearance has left investors and followers speculating about his next move, especially as the stock faces volatile swings.Also Read: Roaring Kitty Makes an Iconic Comeback – Gamestop Is on Fire!After the initial surge that brought GameStop shares to unprecedented heights, Roaring Kitty’s silence has raised concerns among investors about potential “pump and dump” schemes. Allegations have surfaced suggesting that Kitty may have artificially inflated the stock price only to profit from its peak, leaving many to hold depreciating assets.The rapid rise and fall of the stock highlight the risky nature of investing based on social media trends, where the line between influence and manipulation can often become blurred. Many investors who joined the frenzy, attracted by the potential for quick profits, now face significant losses.The lesson is simple. Jumping into highly volatile stocks on the back of internet hype—without solid fundamentals to back the investment—can be a precarious venture.
+
+----------------
+
+Peter Schiff Tired of Traders Accusing Him of Using Bitcoin to Chase Clout
+
+Peter Schiff, a gold enthusiast and trader, has never shied away from encouraging stock investors to choose gold over Bitcoin. However, his position has led to criticism from the crypto community.Today, Peter Schiff took to X (formerly Twitter) to clarify his position on using Bitcoin to grow his influence. He said:“I’m tired of people claiming I’m only against #Bitcoin to generate social media engagement. That’s ridiculous.”Peter Schiff Does Not Need Bitcoin to Grow InfluenceRenowned financial expert Peter Schiff has once again stirred the crypto market by refuting the notion that he uses BTC to chase clout. Schiff, known for his bearish views on crypto, based his latest remarks on BTC’s recent performance against silver and gold, drawing attention to the sharp difference. However, the crypto community will not buy that stand. One X user by the name @AndersonJoby  told Schiff: “Peter, if that’s true than never bring up $BTC again. But it’s not, so you will. By going anti Bitcoin that is what drives your engagement and you know this. Nobody believes anything you say lol. You have become the poster child for the $BTC community by being wrong over and over and over again about it.”Also Read: Is This the End of Bitcoin’s Bull Run? Peter Schiff Thinks SoSchiff says that silver has gone up 21% since April, while Bitcoin has only gone up 2%. He says that this poor performance is proof that Bitcoin is about to die. On the other hand, Bitcoin supporters say that Schiff only uses short-term data to back his story. Bitcoin has gone up by almost 60% so far this year, while silver has only increased by 14.46%. This contrast drives ongoing arguments between people who support traditional assets and people who support digital currencies.On today’s X post, Peter Schiff adds: “I think Bitcoin is a pyramid scheme, a literal blockchain letter […] If Bitcoin pumpers stop claiming Bitcoin is digital gold then I won’t need to post about it.”To that end, one X user added: “Oh come on, we both know Bitcoin’s been the star of the show. You get the whole debasement thing, right? And let’s be honest, you’re kicking yourself for not hopping on the Bitcoin train ten years ago.” The Crypto Market over the WeekendHistorically, the crypto weekend is known to come with negative sentiments. To that end, the market has had rather an opposite sentiment weekend. Currently, the value of Bitcoin stands at $66,979.31, reflecting a slight 0.3% increase over the past hour and a 0.1% increase since yesterday. Today, the global crypto market cap stands at $2.53 trillion, with a slight decrease of 0.43% in the last 24 hours and a significant increase of 115.88% compared to a year ago. Currently, BTC’s market cap stands at $1.32 trillion, indicating a Bitcoin dominance of 52.02%. Meanwhile, the stablecoin market cap stands at $162 billion, representing a 6.39% share of the overall crypto market cap.Also Read: Bitcoin Price Prediction 2024-2030: Will BTC Price Surpass $100K Post-Halving?Today, the value of Ethereum (ETH) stands at $3,078.71, reflecting a slight 0.4% increase compared to an hour ago. However, it has experienced a 1.2% decline since yesterday. The current value of ETH has increased by 4.9% in the past 7 days.Cryptopolitan Reporting by Florence Muchai
+
+
+----------------
+
+Cardano network activity on the rise, but will it be enough for ADA? - AMBCrypto
+
+
+
+Activity on the Cardano network surged significantly over the last few days.
+Interest in Cardano’s NFT sector waned.
+
+Cardano [ADA] has been one of the major networks that has been consistently growing in terms of development activity.
+Despite the high number of developments occurring on the Cardano network, it failed to attract a large number of addresses to Cardano.
+A rise in activity
+However, in the last few days, there was a resurgence in activity observed on the Cardano network. It was seen that the number of daily active addresses on the network has grown above the 30,000 mark.
+Coupled with the rise in active addresses, the number of transactions occurring on the network also grew. However, the surge in active addresses wasn’t as significant.
+On the 10th of March, the number of active addresses on the network had soared to more than 60,000, double what they were at the time of writing.
+A positive indicator of the Cardano ecosystem being healthy would be if the network sees the same amount of activity in the next few days.
+Source: Artemis
+Due to the rising activity on the Cardano network, the TVL (total value locked) on the protocol also surged, implying that interest in Cardano’s DeFi sector had grown.
+If Cardano can continue to attract users to its DeFi dApps, its ecosystem could have a shot at a revival.
+Source: Artemis
+Some challenges ahead
+However, the waning interest in the NFT sector may add some hindrance to Cardano’s recent growth.
+AMBCrypto’s analysis of TapTools’ data revealed that the floor price of popular Cardano NFT collections such as EarthNode, Book.io and The Ape Society witnessed a significant deduction.
+Moreover, the volume at which these NFTs were trading also plummeted materially.
+If Cardano’s growth is driven solely by its DeFi sector and other sectors such as NFTs get left behind, it may cause problems for its ecosystem in the long run.
+Source: TapTools
+
+Read Cardano (ADA) Price Prediction 2024-25
+
+Even though interest in Cardano NFTs was waning, the interest in ADA had remained high. Over the past week, the price of ADA grew by 8.11%.
+Additionally, the velocity at which ADA was trading had also grown significantly during this period.
+Source: Santiment
+
+
+
+
+
+
+----------------
+
+Bitcoin (BTC) Mirroring Pre-Parabolic Rally That Led to Over 1,200% Gains in 2017, According to Crypto Analyst - The Daily Hodl
+
+
+								Bitcoin’s (BTC) current market structure looks similar to 2017, just before its massive 1,200% rally to its previous record high of $20,000, according to widely followed crypto analyst TechDev.
+The pseudonymous analyst shares with his 450,000 followers on the social media platform X a chart that suggests the current market cycle has been strikingly reminiscent of the 2017 Bitcoin bull run.
+
+
+
+
+
+
+
+
+
+
+TechDev’s chart highlights that both bear markets bottomed out during the crash of two major crypto exchanges, followed by repeated rallies and consolidation phases.
+“The more things change, the more they stay the same.”
+Source: TechDev/X
+Looking at the trader’s chart, he seems to suggest that BTC is currently in a consolidation phase similar to 2017 when it was trading at around $1,500 before a parabolic run to a cycle high of $20,000.
+At time of writing, Bitcoin is worth $67,060.
+The analyst also looks at Bitcoin’s relative strength index (RSI), which aims to gauge the momentum of an asset. According to TechDev, Bitcoin has historically topped out when its RSI reaches the top of a long-term channel, which has not yet occurred.
+“You’re in the green zone. Don’t waste it.”
+Source: TechDev/X
+TechDev is also looking at the OTHERS chart, which tracks the market cap of all crypto excluding the top 10 digital assets and stablecoins. Specifically, he’s looking at the chart’s stochastic RSI, moving average convergence divergence (MACD) and logarithmic Bollinger Band indicator.
+The MACD is traditionally used to pinpoint reversals based on the convergence or divergence of moving averages, and the Bollinger Bands are meant to identify periods of impending sharp price movements based on volatility contraction.
+According to the analyst, OTHERS, which is often used to gauge the strength of altcoins, has reached a “max compression” zone, suggesting that a big move to the upside is on the horizon. He also notes that the setup coincides with the return of “Roaring Kitty,” the leader of the movement that pumped the price of Gamestop (GME) in 2021.
+“Roaring Kitty returns as this alt setup reappears.
+There are no coincidences.”
+Source: TechDev/X
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: DALLE3
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Brandt Mocks Schiff's Non-Stop Attacks on Bitcoin, Schiff Insists He Is Just Being 'Honest' | Cryptoglobe
+
+
+                                
+Peter Schiff, an American economist, financial broker, and author, is renowned for his bearish outlook on the U.S. economy and his accurate prediction of the 2008 financial crisis. Born on 23 March 1963 in New Haven, Connecticut, Schiff holds a degree in finance and accounting from the University of California, Berkeley. Starting his career as a stockbroker, he later co-founded Euro Pacific Capital, where he currently serves as CEO and Chief Global Strategist. An advocate of the Austrian School of economics, Schiff is a vocal critic of monetary stimulus policies and a well-known skeptic of Bitcoin, often comparing it to the tulip mania bubble. He prefers investments in gold and other hard assets and has authored several books, including “Crash Proof: How to Profit from the Coming Economic Collapse” and “The Real Crash: America’s Coming Bankruptcy.”
+
+
+
+On 2 April 2024, when Bitcoin was trading at around $65,469, Schiff took to the social media platform X to comment on the market. He noted that gold had risen over 1% to hit a new record high, while silver had surged nearly 4%. He emphasized that silver still had significant room to grow to reach a new record high and remarked that Bitcoin had fallen almost 6% that day. Schiff provocatively stated that silver is the new Bitcoin, dubbing it “Bitcoin 2.0.”
+
+
+
+Fast forward to 18 May 2024, with Bitcoin trading at around $67,613, Schiff revisited his earlier post. He highlighted that since 2 April, silver had increased by over 21%, while Bitcoin’s gains were less than 2%, asserting that silver offered more than ten times the return compared to Bitcoin. He declared, “Bitcoin is dead. Long live silver.”
+
+
+
+
+
+
+
+Then, Peter Brandt, a highly respected trader and author with over four decades of experience in the commodity and futures markets, entered the fray. Brandt began his career in 1976 with ContiCommodity Services and later founded Factor LLC, a proprietary trading firm. Known for his expertise in classical charting techniques and disciplined risk management, Brandt has authored several influential books, including “Diary of a Professional Commodity Trader,” which provides an insider’s perspective on trading. Brandt is recognized for his successful use of classical chart patterns and is frequently sought for his market insights. He also shares his extensive knowledge through Factor Trading, offering educational content on chart analysis and trading strategies.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+On 18 May 2024, Brandt responded to Schiff’s comments about Bitcoin and silver, advising people to ignore such posts. He suggested that Schiff makes these statements to attract attention and followers, adding that Schiff has been betting on “dead horses.” Brandt dismissed Schiff’s enthusiasm for silver as overblown, stating that just because silver had seen a recent uptick, it didn’t validate Schiff’s overall bearish stance on Bitcoin.
+
+
+
+Schiff quickly responded to Brandt, urging him to consider that his views on Bitcoin are genuine. Schiff argued that investing in Bitcoin is like betting on an imaginary horse and warned of the high risks involved, asserting that many would lose money by betting on Bitcoin. He reiterated that his criticism of Bitcoin is not merely for social media engagement but a sincere belief in its high risk and lack of intrinsic value.
+
+
+
+
+
+
+
+In a subsequent post, Schiff expressed frustration with accusations that he criticizes Bitcoin only to generate engagement. He argued that if his goal were to maximize engagement, he would endorse Bitcoin instead. Schiff maintained that he wouldn’t sacrifice his integrity for popularity and described Bitcoin as a pyramid scheme, a “literal blockchain letter.” He contended that Bitcoin promoters mislead people into choosing Bitcoin over gold and declared that if Bitcoin advocates stopped calling it “digital gold,” he would cease his critical posts about it.
+
+
+
+
+
+
+
+
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+Bitcoin Leads Crypto Market Rally as Bulls Regain Control - DailyCoin
+
+
+        
+
+Bitcoin has surged above key levels, potentially sparking a bullish week for cryptocurrencies.
+
+
+
+Eight out of the top 10 cryptocurrencies have seen gains, with Solana emerging as the top performer.
+
+
+
+Not all coins have benefited. BNB and Toncoin have bucked the trend with price drops.
+
+
+
+
+In a bullish week for cryptocurrency, Bitcoin surged above key moving averages on May 15. Bulls then successfully defended this level during a retest on May 16, solidifying the upward momentum. This positive movement in Bitcoin has a ripple effect throughout the market, with 8 out of the top 10 cryptocurrencies experiencing gains over the past week.
+
+
+
+Solana Emerges as Top Performer
+
+
+
+Solana emerged as a standout performer, climbing an impressive 18% over the last 7 days. Bitcoin followed closely behind with a 10% gain, further solidifying its dominance as the leading cryptocurrency. 
+
+
+
+
+Several other major players also saw significant growth, with Shiba Inu, Avalanche, and Cardano each registering gains exceeding 8%. Shiba Inu rose 8.9%, Avalanche gained 8.4%, and Cardano climbed 8.3%.
+
+
+
+Established players like Dogecoin and Ethereum also recorded positive movement, increasing 6.2% and 6% respectively. Rounding out the top gainers list, XRP managed a more modest but still positive 2.5% price increase over the past week.
+
+
+
+Not all cryptocurrencies shared the bullish sentiment. Two tokens, BNB and Toncoin, fell out of favor with investors, experiencing losses of 2% and 8% respectively over the same period. Overall, the week painted a positive picture for the cryptocurrency market, with Bitcoin leading the charge and many altcoins experiencing significant gains.
+
+
+
+Winners
+
+
+
+All but 2 of the top 10 cryptocurrencies experienced price increases over the past week. Here’s a look at them:
+
+
+
+DailyCoin’s Snapshot of the Crypto Markets’ Weekly Winners: Source DailyCoin
+
+
+Losers
+
+
+
+Only 2 of the top 10 cryptocurrencies experienced price losses over the past week. Here’s a look at them, ranked by their percentage decrease:
+
+
+
+DailyCoin’s Snapshot of the Crypto Markets’ Weekly Losers: Source DailyCoin
+
+
+This is just a snapshot of the current market conditions at the time of writing. Cryptocurrency prices are constantly fluctuating, so it’s important to do your own research before making any investment decisions.
+
+
+
+On the Flipside
+
+
+
+
+While the past week saw a surge, cryptocurrency markets are known for their volatility. This positive movement might not translate to sustained growth.
+
+
+
+Looking at a single week’s data offers a limited view. Analyzing longer timeframes provides a clearer picture of overall market health.
+
+
+
+
+Why This Matters
+
+
+
+Bitcoin’s surge above key moving averages and subsequent hold solidifies a bullish trend, potentially sparking a domino effect that lifts the entire crypto market. This positive week, with even established altcoins like Ethereum and Dogecoin experiencing gains, suggests a wave of investor confidence that could propel the industry forward.
+
+
+
+If you like this article, you might also be interested in this article about the history of Solana’s logo and name:Solana Logo and Name: What’s the Original Name of the Solana Blockchain?
+
+
+
+Memecoins are back in the spotlight! This article explores the recent surge in memecoin popularity:Memecoins Take the Spotlight as Crypto Market Recovers
+
+    
+              
+    
+
+----------------
+
+Breaking Politics With Bitcoin | Clint Russell Interview - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
