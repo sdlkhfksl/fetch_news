@@ -1,266 +1,3 @@
-Anthony Scaramucci Predicts More Pension Funds Will Invest in Bitcoin, Says ‘We Are Still Early’ in BTC Adoption - The Daily Hodl
-
-
-								SkyBridge Capital founder Anthony Scaramucci is predicting that more pension funds will add Bitcoin (BTC) to their investment portfolios.
-In a new interview on CNBC Squawk Box, the hedge fund veteran says other pension funds are likely to follow the State of Wisconsin’s decision to invest in Bitcoin to help pay for retirement benefits.
-
-
-
-
-
-
-
-
-
-
-New U.S. Securities and Exchange Commission (SEC) filings showed this week that The State of Wisconsin Investment Board, a state agency managing investments for public retirement and trust funds, has about $163 million invested in BlackRock’s iShares Bitcoin Trust (IBIT) and Grayscale’s Bitcoin Trust (GBTC).
-“I think the institutional adoption is happening now. The State of Wisconsin announced. We expect other pension funds to announce. And of course, Bitcoin now has the regulatory approval. And I think that was the rate limiting step for a lot of these large-scale institutions… 
-A lot of smart institutions are saying, ‘Let me get long this thing.'” 
-Scaramucci believes that Bitcoin remains in the early stages of adoption.
-“Sometimes when you’re early, you get a lot of bumps and scrapes. But I think it pays to be early in Bitcoin and I think we’re still early in Bitcoin.”
-Bitcoin is trading for $67,142 at time of writing, up 2.5% in the last 24 hours.
-VIDEO
- 
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Developer Ignites Firestorm, Claims Ethereum Layer-2s Operate As Unregistered MSBs
-
-
-								Ethereum is a legacy chain that has scaled over time to address the needs of the ever-demanding global user base. To relieve the mainnet of the deluge of transactions, more layer-2 platforms have sprouted. 
-They are cheaper to transact on and scalable, allowing users to deploy intensive decentralized applications that won’t be feasible on the base layer.
-Ethereum Layer-2s Are A Success, But There Is A Problem
-According to L2Beat, layer-2 platforms on Ethereum currently manage over $39 billion in total value locked (TVL). Even so, Nikita Zhavoronkov, a lead developer at Blockchair, is concerned and thinks layer-2s are a “huge legal liability waiting to happen.”
-Ethereum layer-2s TVL | Source: L2Beat
-Taking to X, Zhavoronkov argues that layer-2 protocols on Ethereum and Bitcoin are vulnerable to regulator crackdown. In the developer’s assessment, these platforms resemble money service businesses (MSBs), considering how they are designed to operate. Since they are not regulated, the developer said they might be operating illegally.
-
-Top of the list, Zhavoronkov argues that most existing layer-2 solutions are not truly decentralized. They point to using multi-signature contracts or “emergency councils” controlled by limited groups as evidence of centralized control. 
-Moreover, the developer highlighted the custodial nature of many layer-2s. Users do not directly control user funds based on how these scalable platforms operate. The analyst says this tinge of centralization presents a vulnerability if regulators target these entities.
-Zhavoronkov adds that though layer-2 platforms are enablers, working from a trustless base, they function as for-profit businesses, generating revenue from transaction fees. Because some of them, like Optimism and Arbitrum, issue tokens, revenue accrued can impact token prices. 
-The developer contends that this is why layer-2 platforms are no different from traditional companies than truly decentralized platforms.
-More Headwinds For ETH, United States SEC Reported Investigation
-Given their mode of operation and model, Zhavoronkov’s assertion that layer-2 solutions could be classified as MSBs under United States laws is a concern. Such a classification could subject these protocols to stringent regulations, compliance requirements, and potential sanctions. 
-This not only threatens to stifle innovation but also has the potential to hamper Ethereum’s scalability severely.
-Ethereum price trending upward on the daily chart | Source: ETHUSDT on Binance, TradingView
-While some have dismissed Zhavoronkov’s viewpoint as “distorted,” the fact that Ethereum is reportedly under investigation by the United States Securities and Exchange Commission (SEC) adds a layer of complexity to the situation. 
-
-Analysts say the SEC’s classification of ETH as a security rather than a commodity like BTC could further delay the approval of spot Ethereum exchange-traded funds (ETFs).
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Solana meme coins surge up to 210% despite Pump.fun incident - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            Meme coin marketplace Pump.fun was attacked by a former team member yesterday, resulting in halted trading, users unable to liquidate their tokens, and the platform losing $1.9 million, according to a May 16 post-mortem. Despite this episode, the meme coin sector on Solana stood firmly in the last 24 hours, with tokens making two-digit leaps.The best performance in the period was registered by DogeBoy (DOGB), with a nearly 210% upside, while Pepe Trump (PTRUMP) also saw significant positive movement of 67.5%. Maga VP (MVP), another Trump-themed token, is also among the biggest winners in the period, presenting almost a 31% price advance.On the cat-coins front, MANEKI has shown 34% growth in the past 24 hours at the time of writing, a movement that made its market cap surpass $91 million. UpSideDownCat (USDC) surged almost 54% in the same period, and the cat Chipi (CHIPI) showed a 72% upside.Solana meme coins with the best performances in the last 24 hours. Image: CoinGeckoThe Costco Hot Dog (COST), a meme coin that backpacked the meme of hot dogs sold at Costco markets never rising in value, has risen 38% at the time of writing. The meme coin FindMe shown in the image above was, in fact, a honey pot attack.Honey pots are smart contracts programmed to forbid tokens from being sold, while the contract deployer drains all the liquidity. Currently, the only FindMe pool available has $231 in liquidity, which highlights the risks of trading meme coins.Moreover, despite showing a 33% growth in the last 24 hours, the token Lola Cat (LOLA) is still relatively new to the meme coin market. Hence, the asset still doesn’t have a seven-day track record.Solordi (SOLO) represents the dog-themed coins on the meme coins with the most substantial growth in the last 24 hours after leaping 37.7%.Pump.fun explains the ‘exploit’As reported by Crypto Briefing, a user used flash loans to manipulate token prices on Pump.fun, borrowing SOL from the money market Drift. However, the exploiter was able to move liquidity from Pump.fun’s pools, which would be possible only by using an authorized wallet.Wintermute’s head of research Igor Igamberdiev identified that the wallet commonly used to move liquidity from Pump.fun to decentralized exchange Raydium was being controlled by the exploiter, suggesting a private key compromise or an inside job.In their post-mortem, the meme coin marketplace revealed that a former employee was responsible for the attack, and misappropriated nearly 12,300 SOL. Pump.fun tackled the issue by deploying their smart contracts again, launching pools with the whole they met in the bonding curve during the incident, and removing the platform fees for the next seven days.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-Proton Mail exposing activist's info showed the limits of encryption
-
-Proton AG — the Swiss company behind Proton Mail, the popular encrypted email service — came under fire in April for complying with a request from Spanish police for information about one of its users — a Catalan pro-independence activist. It’s obvious why that was a controversial move. It feels gross when the “good guys” get “sold out” by a company that promises privacy. But if you’re pissed off at Proton for complying with legal requests, you need to reassess your fantasies about privacy tech.We all love encryption and its attached ideals. But encryption isn’t a panacea, and the more we encrypt, the more metadata matters. When it comes to privacy, metadata is an exercise in minimization — but centralized services have natural limits on how mini they can make their metadata collection.Related: Big miners pose a growing existential threat to BitcoinProton has done an amazing job limiting access to user metadata. They should get a pat on the back for building a system where all they can provide is an optional recovery email. (In this case, the company provided their user's recovery email address, which led police to their Apple account.) Instead, they’ve been met with online anons brandishing “Cancel Subscription” buttons and ominous headlines that begin with “Is Proton…” and end with question marks.The Platonic ideal of privacy techThe fantasy goes like this: privacy company receives formal legal request from authorities, privacy company flips off authorities, privacy company delivers news of triumph to the frenzied cheers of their fans. This expectation has reared its head multiple times, including another ProtonMail case from just a couple of years ago. But the fantasy is delusional and self-destructive.If Proton took this route, they’d be met with crippling legal pressure which would set the sun on the entire company rather quickly — and then we’re down to just a couple of established encrypted email providers. That’s not a useful outcome for Proton, Proton users, or privacy at large. FreedomTech editor SethForPrivacy defended Proton Mail in a post on X, writing thatthe case had "proven" Proton's architecture "minimizes the amount of data they have on any user."Proton is well aware of this, so the reality is they complied with almost 6,000 legal requests in 2023 alone. Once the shock of the news wore off and steady hands like SethForPrivacy weighed in, more people accepted that outrage wasn’t really warranted nor was it helpful. Blaming opsec is a copoutAs the story cooled down, Proton defenders pointed out that deanonymization was only possible in this case because an opt-in recovery email was provided. They say it’s actually the activist’s fault for having leaky operational security (opsec) — but this is just another unproductive iteration of the blame game.We can’t just end this story with, ‘Oh well, you just have to have better opsec than that.’The core question is: Can we do better?Encryption is our baseline. We should use it, we should advocate for it, we should protect it. Proton has this and minimal metadata collection, so we’ve got a good foundation to work with here.On top of this, the sage advice is to access Proton with a VPN/Tor (importantly, not ProtonVPN) and pay for your subscription using crypto. This message spread far and wide over the last couple of weeks — but it’s not new advice, and we’re still seeing cases like our Catalan activist pop up. People will get left behind if services require manual user hardening, and sometimes they’ll be the same at-risk people we’re trying to protect.In the Catalan case, an email provided to sign up for an E2EE messaging app, a recovery email provided to a secure email service, and an iCloud email were the puzzle pieces required for deanonymization. These are small mistakes that anyone could make, but together they create a metadata breadcrumb trail that can be followed with relative ease.Potential for decentralization in limiting metadata collectionOur goal should be to create tooling which is hardened out of the box, and to make damn sure any options that might jeopardize privacy are clearly described in-situ.Perhaps decentralizing parts of the system could help us take things a step further than Proton. Decentralization is a meaningful way to reduce the amount of data that a centralized company actually needs to process in order to offer a service.For example, building applications on top of decentralized networks capable of storing or routing the data required for a service. For an email service, that would mean storing and forwarding the mail itself — including vulnerable metadata such as subject lines and mail timestamps. That decentralized network layer would employ more advanced privacy-preserving techniques like onion routing, too. This way, a user’s IP would be better protected even if they’re not using a VPN. There are already some networks like this — such as Tor — but we’ve got similar networks that are secured and incentivised by blockchain, like the Nym mixnet. Related: Welcome to the United Kingdom — Please hand over your cryptoNetworks like Nym are generalisable for data-routing needs, and they already provide software development kits (SDKs) for integrating into third-party applications. Mixnets are pretty slow, so this might not be a good solution for instant messenger or conferencing services, but for email — it might work. The storage side of things is more complicated, app-specific networks, like the Session Network (used by the messaging app I work on), offer ephemeral message storage in a decentralized way, but this won’t suit email — which is a de facto record-keeping utility for a lot of people.This limitation combined with spam filters and the email mafia might make a top-to-bottom decentralized email service impractical — although it won’t stop people from trying — but we can absolutely make this work for other communication tools, like messaging, video and voice conferencing, and team communication platforms (like Slack and Discord). In the end, legal requests are going to keep on coming — and companies are going to keep complying. It’s the way it has to be. But in cases where safety and security is critical, purposeful decentralization could offer an extra layer of protection that is vital for at-risk people.Proton — people have already designed and built solutions that could be useful for you and your users. We can help, all you have to do is call (or, I suppose, send an email). Alexander Linton is a director of the encrypted messaging app Session and its nonprofit foundation OPTF. He obtained an undergraduate degree in journalism from RMIT University before attending the University of Melbourne for graduate school.This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.
-
-
-----------------
-
-U.S. banking giants experiment tokenization with this cryptocurrency
-
-
-The Depository Trust and Clearing Corporation (DTCC), recognized as the world’s largest settlement system, has teamed up with blockchain oracle Chainlink (LINK) to conclude a pilot program with several major U.S. banking firms.
-The primary goal of this initiative was to advance the tokenization of traditional finance funds.
-Following the announcement of DTCC’s successful completion of the tokenization pilot, Chainlink’s token saw a notable surge of up to 20%. 
-
-
-This pilot, which included prominent Wall Street firms such as JP Morgan (NYSE: JPM) and BNY Mellon, leveraged Chainlink’s Cross-Chain Interoperability Protocol (CCIP) to merge traditional finance with blockchain technology.
-According to a report from DTCC, the firm recently completed the pilot program, dubbed Smart NAV, in conjunction with Chainlink. The program was designed to explore an extension of a DTCC service, Mutual Fund Profile Service I (MFPS I), the industry standard for transmitting ‘Price and Rate’ data, also referred to as ‘NAV data’.
-
-The pilot showed that by delivering structured data on-chain and creating standard roles and processes, foundational data could be utilized in various on-chain use cases. These included tokenized funds and bulk consumer smart contracts, which hold data for multiple funds.
-Prominent participants included American Century Investments, BNY Mellon, Edward Jones, Franklin Templeton, Invesco, JPMorgan, MFS Investment Management, Mid Atlantic Trust, State Street, and U.S. Bank
-Market response and price movements
-LINK 7 day price chart. Source: Finbold
-Following the release of DTCC’s report, Chainlink’s native token, LINK, experienced a 12.5% increase in value. At press time, LINK surged past $16, with its market cap increasing by 14% in the past 8 hours, triggering the liquidation of $1.96 million in short positions over the last 24 hours. 
-This spike in LINK’s price demonstrates the market’s positive reaction to the potential of integrating traditional finance with blockchain technology.
-
-This pilot program is part of a broader trend where major traditional financial institutions are showing a growing interest in real-world asset (RWA) tokenization.
-As reported by Finbold, tokenized real-world assets have soared to nearly $8 billion in value as demand surged. 
-For instance, on March 19, BlackRock  (NYSE: BLK)  introduced a tokenized money market fund called BUIDL on the Ethereum (ETH) network. This fund allows investors to acquire tokens representing shares in the fund, which primarily invests in U.S. Treasury bills.
-The future of tokenized funds
-Wall Street firms have long shown interest in blockchain technology but have often hesitated to operate on public blockchains.
-In 2023, several notable firms, including Microsoft (NASDAQ: MSFT) and Goldman Sachs (NYSE: GS), joined the Canton Network—a private pilot network aimed at allowing large institutions to explore decentralized infrastructure. 
-The new test with Chainlink is different because its goal is to obtain Wall Street data directly from the institutions and make it available for use by smart contracts and other Real World Asset protocols on public networks. 
-This marks a significant step towards integrating blockchain technology with mainstream finance, highlighting the potential for real-time, more automated data dissemination and built-in access to historical data.
- 
-
-
-----------------
-
-South Korean Government Publishes Cryptocurrency Report: "There is a Crazy Trend Among Koreans" - Bitcoin Sistemi
-
-
-South Korea's Financial Services Commission (FSC) has published a survey that reveals a significant increase in the number of cryptocurrency users in the country. The survey shows that the number of cryptocurrency users has reached 6.45 million, accounting for 12.9% of South Korea's total population. It is noteworthy that 4.55 million of these users are small investors with cryptocurrencies worth less than $ 734.
-The Korean Financial Intelligence Unit, under Gwang Park, conducted a survey of 29 reported businesses in the second half of 2023. The aim was to understand the current state of the local virtual asset market.
-
-
-As the market price of virtual assets rose, there was a noticeable increase in average daily transaction size (24%), market capitalization (53%) and deposits won (21%) compared to the first half of 2023 in South Korea. Additionally, the number of users making transactions increased by 6%.
-
-The survey also highlighted that the number of new altcoin listings in the Korean won market increased significantly by 70%. However, with a significant increase in the number of transaction suspensions in the coin market (42%), the total number of coins decreased slightly by 3.5%.
-
-
-
-
-
-The survey warned that despite growth, volatility in virtual asset prices remained high at 62% and called on investors to make careful investment decisions. Additionally, the number of virtual asset operators announcing the closure of their businesses continues to rise to four, urging users to be extra careful.
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Will the USDC outperform USDT in 2024?
-
-
-The stablecoin Circle USD (USDC) has been growing in market share and approaching the undisputed leader, Tether USD (USDT). Ongoing regulatory developments threaten Tether’s presence in key markets, which could affect the company’s flagship product.
-Notably, Circle launched the USDC in September 2018 in a stablecoin market highly dominated by USDT. Over the years, traders and investors welcomed the competition, considering growing concerns about Tether’s reserves and redeemability. 
-In over five years, the USDC has increased its market cap to $33.34 billion, becoming the sixth-most valuable cryptocurrency. Meanwhile, the USDT grew even more to $111.22 billion and kept third place among the most valuable cryptocurrencies.
-
-
-Tether’s stablecoin also dominates the trading volume on centralized exchanges, although Circle has a larger presence in DeFi.
-USDT vs. USDC – Market cap and volume. Source: Santiment / Finbold
-Kraken considers delisting USDT in Europe
-However, Circle has a strong political presence in the United States, which the company has used in its favor against the competitor, as reported by Finbold in February 2024. Further regulatory developments outside the U.S. threaten USDT’s hegemony, opening space for USDC to take over.
-In particular, Kraken is considering removing support from the USDT in Europe, according to a Bloomberg report on May 17. The possible delisting of Tether products surges amid concerns related to the European Union (EU) MiCa rules that regulate cryptocurrencies.
-Kraken is one of the world’s largest crypto exchanges and the second-largest provider in the United States. The company represents a key market previously mostly dominated by Tether, and others could follow its lead.
-According to crypto journalist Colin Wu, the OKX exchange recently announced the delisting of most USDT pairs. Therefore highlighting a possible trend favoring USDC over its stablecoin competitor.
-
-Interestingly, the finance giant BlackRock Inc. (NYSE: BLK) has previously disclosed “exposure to stablecoin risks” on its spot Bitcoin ETF filings with the Securities and Exchange Commission (SEC). At that time, BlackRock mentioned concerns over Tether’s reserves and Circle’s abilities to keep the $1-peg.  
-Now, the market awaits to see what will happen in the battle among the leading stablecoins. Losing key markets like Kraken and OKX could be a significant hit to USDT and a massive win to USDC, as capital is expected to migrate from the first to the second. As reported by Bloomberg, the new digital asset’s regime is set to take effect in July.
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk 
-
-
-----------------
-
-US arrests two Chinese nationals in $73 million crypto scam - CoinJournal
-
-
-
-                    
-
-                    
-US authorities arrested Daren Li and Yicheng Zhang in connection with a $73 million money laundering scheme.
-The defendants laundered the money via US and international bank accounts.
-Proceeds of the investment scam were converted to the USDT stablecoin.
-
-The US Department of Justice has charged two Chinese nationals alleged to have played a prominent role in a scheme that laundered $73 million in cryptocurrency investment schemes.
-According to an indictment unsealed on Thursday in the Central District of California, authorities arrested Daren Li, 41, on April 12 and Yicheng Zhang, 38, on May 16.
-Li is a dual citizen of China and St. Kitts and Nevis, while Zhang is a Temple City, California.
-Defendants ran an international crypto investment scam
-Li, Zhang and others are alleged to have been behind an international money laundering syndicate that scammed victims via pig butchering, among the common crypto scams.  
-In Court documents show that the suspects laundered proceeds of these crypto scams via bank accounts of multiple shell companies.
-DOJ’s Office of Public Affairs announced that more than $73 million was defrauded from victims and laundered through US and international bank accounts. The laundered money found its way to The Bahamas and was converted to Tether (USDT).
-“Cryptocurrency investment scams exploit the borderless nature of virtual currency and online communications to defraud victims,” Lisa Monaco, the United States Deputy Attorney General, said in the press release.
-“While fraud in the crypto markets takes on many forms and hides in many far-off places, its perpetrators aren’t beyond the law’s reach. Today, we announce the arrests of two foreign nationals charged for leading a scheme to launder funds to the tune of at least $73 million tied to an international crypto investment scam,” she added.
-According to the court documents, a crypto wallet linked to the scam received more than $341 million in cryptocurrencies.
-The DOJ has charged Li and Zhang with conspiracy to commit money laundering as well as six counts of international money laundering. Each of the counts carries a maximum prison sentence of 20 years.
-In November last year, the DOJ said it had seized $9 million in USDT linked to an international romance and pig butchering scheme.
-
-
-                    
-
-                        Share this articleCategoriesTags
-                    
-                
-
-                
-
-----------------
-
 Crypto Markets Surge on Positive ETF Inflows - The Defiant
 
 Bitcoin rallied above $67,000 for the first time in nearly a month, while ETH surged 5%.Crypto markets soared on Friday morning, driven by positive ETF inflows.Bitcoin (BTC) is trading at $67,000, up 3.5% in the last 24 hours. Ether (ETH) surged 5% to $3,100, while Solana (SOL) rose by nearly 2%, according to CoinGecko data.ETH PriceMichael Van de Poppe, CEO of MN Trading, said, "It's likely that the momentum continues from here, and the trend has switched." He added that, as a result, altcoins are "running up substantially as confidence comes back in."ETF flows for the week of May 13 increased sixfold to 726.8 BTC from 116.5 BTC the previous week.Data from Farside shows that Fidelity's Bitcoin ETF (FBTC) saw the largest inflow, increasing by 133.8 BTC during the week. ARK Invest's Bitcoin ETF (ARKB) also had substantial inflows, with 133.1 BTC entering in a single day on May 14.May 15 saw a significant inflow of 303.0 BTC, led by FBTC and Bitwise Bitcoin ETF (BITB).Since its launch, the 11 Bitcoin ETFs have accumulated $12.4 billion in assets. According to Santiment, seven major Bitcoin ETFs generated trading volumes of $5.65 billion this week, the highest since March 24.Meanwhile, in an SEC filing on May 15, multinational investment bank Morgan Stanley revealed that it had acquired $270 million worth of Grayscale's GBTC, establishing itself as one of the largest institutional holders.According to CoinGlass, in the past 24 hours, 44,484 traders were liquidated, with total liquidations amounting to $113.75 million. The largest single liquidation order occurred on BitMEX for Bitcoin, valued at $4.80 million.
@@ -11217,3 +10954,294 @@ The week was a rollercoaster ride in the world of cryptocurrency. From a top tra
       
       
     
+
+----------------
+
+Cardano whale activity up 10x; Will ADA break the $1 barrier?
+
+
+As the market started to get exciting with several cryptos registering green, Cardano  (ADA) also stood out, showcasing notable developments
+Cardano has seen a significant surge in whale activity recently, leading to speculation about its future price potential. 
+Market intelligence platform IntoTheBlock revealed in an X (formerly Twitter) post that Cardano whales—those holding between 100 million and 1 billion ADA—have added 11% more ADA to their holdings over the past month. 
+
+
+
+These large investors now control 6.71% of the total ADA supply, indicating a bullish sentiment
+The increase in whale holdings is often seen as a precursor to a price rally. Large-scale purchases by these investors can lead to significant price movements. 
+Retail investors are also showing strong interest in ADA. Data from IntoTheBlock reveals a bullish bid-ask volume imbalance and an uptick in the ‘InThe Money’ metric. This indicates that most investors are currently profiting from their ADA holdings.
+Growing optimism in the Cardano ecosystem
+Confidence in Cardano is growing. DeFiLlama reports an increase in Total Value Locked (TVL) on the Cardano network over the past week. Additionally, trading volume on the network has increased, suggesting that more users are actively trading ADA.
+However, despite the bullish outlook, there are concerns about declining user activity on the Cardano network.
+Data from Artemis shows a significant drop in daily transactions, now around 48,000 compared to 96,000 two months ago. 
+Daily active addresses have also decreased, recently dipping below 34,000. These trends raise questions about the network’s current usage and adoption despite the overall positive sentiment regarding ADA’s price potential.
+ADA price analysis
+At press time, Cardano is trading at $0.4791 with a market capitalization exceeding $17.09 billion, making it the 10th largest cryptocurrency. 
+However, a change might be on the horizon. World of Charts highlighted that ADA’s price recently broke above a bullish flag pattern on its 8-hour chart. This pattern suggests ADA is currently at nearly a 10% profit, with the potential to surge by 100%. 
+If this occurs, Cardano could reach $1 in the upcoming weeks.
+ADA MVRV Velocity and Volume . Source: Santiment
+Santiment’s data shows an improvement in ADA’s MVRV ratio, a bullish indicator. Trading volume has remained high, supporting the recent price surge. However, Cardano’s velocity dropped last week, indicating reduced transaction activity.
+ADA liquidation heat map. Source: Coinglass
+Furthermore, analysis from Coinglass suggests Cardano might see a significant liquidation near the $0.492 mark. This could lead to price corrections, but if ADA breaks above this level, it could reach $0.5 or $0.528 shortly.
+The recent surge in whale activity and growing optimism within the Cardano ecosystem suggest a promising outlook for ADA. While there are some concerns about declining user activity, the overall sentiment remains positive.
+Investors should watch key price levels and market indicators closely as ADA continues to navigate these dynamic market conditions.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Ethereum's transaction size falls 54%: Why it's not bad news for ETH - AMBCrypto
+
+
+
+ETH could be close to its bottom after the transaction size failed to spike.
+While the price might slip, traders are convinced of a quick recovery.
+
+On the 19th of May, AMBCrypto observed that Ethereum’s [ETH] average transaction size had fallen to $2,767. This was a 54.13% decline from the metric when the month began.
+At that time, the average transaction size was $5,893, according to data from IntoTheBlock.
+For the uninitiated, the average transaction size checks in dollar terms the mean transaction value for an asset on a particular day.
+Historically, spikes in this metric signal high user activity—Especially from large investors and institutions. But when it decreases, it implies an absence of institutional interaction.
+Institutions out, retail in
+As such, the recent state of Ethereum implies a presence of more retail users. Apart from that, this indicator identifies potential tops and bottoms.
+From the value mentioned, it was obvious that ETH seemed closer to its bottom than the top. At press time, ETH’s price was $3,106, indicating that it had swung around the same range in the last 24 hours.
+Source: IntoTheBlock
+Going by the analysis above, the price of the cryptocurrency could be set to hit a higher value in the short term. However, other metrics need to be considered.
+As a result of this, AMBCrypto looked at the Ethereum Exchange Net Position Change. According to data obtained from Glassnode, the Exchange Net Position Change has been in the negative region for most of the last 30 days.
+ETH gets set for a big move
+This metric tracks the 30-day change of the supply held in exchange wallets. A positive value indicates that more coins are in exchanges.
+On the other hand, a negative value indicates increased withdrawals from exchanges.
+One thing we noticed was that the metric suddenly became positive on the 18th of May. As of this writing, the ETH net position change was 81,715.
+This increase could be a sign that Ethereum participants are taking profits off the 6.50% increase within the last week.
+If this number continues to increase, then ETH’s price might decrease below $3,000 before the potential rally happens.
+Source: Santiment
+However, if exchange withdrawals intensify once more, the price might begin a slow increase toward $3,500. In a highly bullish situation, an increase to $4,000 could be an option.
+On Friday, the 17th of May, AMBCrypto reported how options traders were expecting ETH’s price to hit $3,600 between May and the end of June.
+At press time, Glassnode data showed that the sentiment had not changed. This is because of the signals from the Put/Call Ratio (PCR).
+
+Is your portfolio green? Check the Ethereum Profit Calculator
+
+If the PCR is over 0.70, it implies a bearish sentiment and there are more puts than calls.
+However, a reading below 0.50 implies otherwise. At press time, Ethereum’s Put/Call Ratio was 0.35, meaning that most traders expect the value of the cryptocurrency to increase in the coming weeks.
+
+
+
+
+
+
+----------------
+
+Coinbase Research Says ‘Surprise to the Upside’ Possible for Ethereum ETF Decision - Here’s Why - The Daily Hodl
+
+
+								Research from Coinbase suggests that decisions on a spot Ethereum (ETH) exchange-traded fund (ETF) could surprise investors.
+In a new note, Coinbase Institutional says that an ETH ETF is a question of when, not if, and that the U.S. Securities and Exchange Commission (SEC) is likely looking at the decision with the same rationale that it did when approving the Bitcoin (BTC) ETFs earlier this year.
+
+
+
+
+
+
+
+
+
+
+Coinbase notes that the SEC looked at the strong correlation between the price of spot BTC on the Chicago Mercantile Exchange (CME) – something that is also true for Ethereum.
+“While there is uncertainty around a timely approval given the SEC’s apparent silence with issuers, we think that the existence of a US spot ETH ETF remains a question of when, not if. In fact, the primary rationale used to approve the spot BTC ETFs applies equally to spot ETH ETFs. That is, the correlation between the CME futures product and the spot exchange rates is sufficiently high such that ‘CME’s surveillance can be reasonably expected to detect… misconduct [in the spot market]’. 
+The period of correlation study in the spot BTC approval notice began in March 2021, one month after CME ETH futures launched. We think this evaluation period was deliberately chosen so that a similar reasoning could be applied to ETH markets. Indeed, correlation analysis previously presented by Coinbase and Grayscale suggests that the spot and futures correlation for ETH markets is similar to that for BTC.”
+Coinbase says that despite the low odds of an Ethereum ETF being approved in May, markets could be in for an unexpected sign-off from the SEC.
+“We think there is room for surprise to the upside on this decision. Polymarket is pricing in odds of a May 31, 2024 approval at 16%, and the Grayscale Ethereum Trust (ETHE) is trading at a 24% discount to net asset value (NAV). We believe the odds of approval are closer to 30-40%.
+As crypto begins to take form as an election issue, it’s also less certain in our view that the SEC would be willing to front the political capital necessary to support a denial. Even if the first deadline on May 23, 2024 encounters a rejection, we think there is a high likelihood that litigation could reverse that decision. It is also worth noting that not all spot ETH ETF applications necessarily need to be approved at the same time. In fact, Commissioner Uyeda’s approval statement regarding the spot BTC ETF criticized the disguised “motivation for accelerating the approval of the applications, which is to prevent a first-mover advantage.”
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: DALLE-3
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Polkadot (DOT) Ecosystem Recap: The Most Recent Advancements
+
+
+																TL;DR
+
+
+Polkadot partnered with Founder Institute to launch a Web3 cohort and introduced Asynchronous Backing to enhance scalability.
+Some of its parachains, such as Acala Network and Moonbeam Network, have also made notable advancements in security, governance, and community engagement initiatives.
+
+
+Summary of the Latest Developments
+Polkadot’s ecosystem continues to advance due to frequent improvements in its operations and vital partnerships. Most recently, the blockchain protocol shook hands with Founder Institute (a leading business incubator that turns ideas into fundable startups). 
+The latter described the collaboration as “groundbreaking,” adding that it marks the start of “an exciting chapter” related to the launch of the first Web3 cohort in its Core Program. “Our cooperation is set to revolutionize the landscape of startup acceleration and Web3 technology education,” the team stated. 
+Founder Institute explained that the program’s launch is set for May 28, and it will be guided by top experts from the Polkadot community. 
+
+
+
+
+Earlier this month, the blockchain protocol enabled Asynchronous Backing on the network. It is a mechanism designed to improve the scalability and efficiency of the entire ecosystem. The Asynchronous Backing also represents “an optimized approach for how parachain blocks are validated” by the central chain – Relay Chain.
+Polkadot’s team revealed that blocks are produced twice as fast, whereas available blockspace was boosted by 6-10 times following that upgrade.
+“Async Backing boosts throughput by 8x, without sacrificing security, paving the way for supporting Web3 applications across verticals such as gaming and DeFi. It brings Web2 scale into the reach of Web3, which is crucial for large-scale platforms like Mythical Games,” they added.
+Another major development that took place as of late is the release of the Join-Accumulate Machine (JAM) Gray Paper. It is a technical upgrade that outlines an innovative approach for improving the performance and scalability of blockchain networks, particularly in the context of Polkadot’s ecosystem. It combines elements of Polkadot and Ethereum and “provides a global singleton permissionless object environment.“
+The blockchain protocol is also looking for external partnerships such as a potential deal with the American soccer club Inter Miami. Last month, Nico Zini – the team’s commercial manager and in charge of TV rights – revealed that both sides may join forces on an $8.8 million sponsorship partnership. 
+For the uninitiated, Inter Miami’s co-founder is David Beckham, while its biggest stars on the pitch include the Argentine legend Lionel Messi and the Uruguayan Luis Suarez.
+Zini previously served as FC Barcelona’s Business Development Manager in North America. The Catalan club was contemplating striking a deal with Polkadot in 2022 but eventually chose Spotify.
+How About the Parachains?
+Some of Polkadot’s parachains – individual blockchains that run in parallel with the Polkadot ecosystem – have also advanced lately. One of the most popular – Acala Network – completed the Sinai Upgrade at the beginning of May. 
+It aims to strengthen security measures, empower the community to participate in governance decisions, improve Acala’s capabilities to interact seamlessly across different blockchains, and simplify the user experience. 
+Moonbeam Network introduced “the Moonbeam Odyssey Program Trials,” which emphasizes community involvement with various events and educational initiatives.
+“Anyone can join! Test your skills, strengths, and abilities to emerge victorious from the Trials and become an Odyssey Trailblazer,” the team stated.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Research: The Last 31 Binance-Listed Coins Analyzed - All But These 5 Are in Loss - Bitcoin Sistemi
+
+A recent study by cryptocurrency researcher Flow analyzed the performance of 31 tokens listed on Binance over the past six months. The results are quite surprising and reveal that more than 80% of these tokens have lost value since their listing.
+Only five tokens showed price increases compared to when they were listed: ORDI with a staggering increase of 261.9, JTO and JUP continuing the Solana momentum with increases of 62% and 58% respectively, and WIF, a memecoin with an increase of 117%. The other remaining token is MEME, another memecoin.
+
+
+On the other hand, the biggest decreases were in NFP (-62%), PORTAL (-69%), AEVO (-68%), SAGA (-63%), DYM (-55%), AXL (-55%), BOME ( -55%) and W (-58%).
+When Binance listed these tokens, their average fully diluted market cap (FDV) was $4.2 billion, with some even reaching a staggering FDV of over $11 billion. Many of these new listings were tokens backed by top venture capitalists and launched at exorbitant valuations.
+
+
+
+
+
+
+However, it is worth noting that most of these projects often lack real users or a strong community behind them. If an investor had a portfolio where they invested an equal amount into each new Binance listing, they would have experienced a decline of over 18% in the last six months.
+This study highlights a worrying trend in the crypto market. Most of the time, tokens launched on Binance are no longer considered investment vehicles, having already been stripped of all their upside potential. Rather, they represent exit liquidity for insiders who take advantage of retail investors' lack of access to quality early investment opportunities.
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Big Solana Wallet Now Top Utility App on Apple Store Amid Bull Frenzy - Coin Edition
+
+
+							
+
+Solana wallet Phantom now ranks third among utility apps on the Apple Store in the U.S.
+The Phantom Wallet team recently celebrated attaining 7 million monthly active users. 
+Phantom’s top ranking coincides with the frenzy around Solana tokens WIF and BONK garnering billion-dollar valuations.
+
+
+
+
+Phantom, a non-custodial wallet based on the Solana blockchain, has recently made a significant mark. It now ranks among the leading utility mobile applications on the Apple App Store.
+
+
+
+
+
+
+
+
+
+This noteworthy achievement was recently brought to the forefront by Evan Luthra, a widely followed Bitcoin investor on the X platform. Indeed, Phantom has emerged as the third trendy utility app on the Apple App Store in the U.S., trailing only the Google app and Google Chrome browser. 
+
+
+
+With this significant achievement, Luthra emphasized the potential of tokens on the Solana network, suggesting that they now appear more promising than ever. “Seems like the SOL season is going to be BIG,” Luthra remarked.
+
+
+
+
+
+
+
+Notably, Phantom Wallet’s top ranking came just after the team celebrated reaching 7 million monthly active users. 
+
+
+
+Regarding its overall standing in the Apple App Store, Phantom Wallet holds the 32nd position across all categories. It comes in after X (formerly Twitter) and the AI chatbot ChatGPT. On the other hand, the mobile app of the prominent U.S. exchange Coinbase currently ranks 288th on the Apple App Store. 
+
+
+
+Notably, App Store rankings are determined by various factors, not just download counts. For instance, MetaMask, despite being 75th in the same category, reported 10 million monthly active users as of February 2024.
+
+
+
+
+
+Initially, Phantom Wallet was exclusive to the Solana blockchain but expanded its support to include Bitcoin, Ethereum, and Polygon networks. The self-custodial wallet allows users to maintain control over their keys, offering an alternative to storing assets on exchanges. 
+
+
+
+Notably, the prominence of the Solana wallet coincides with the ongoing frenzy surrounding Solana-based tokens. This includes the success of meme coins on the network, such as WIF and BONK, which boast several billion-dollar valuations.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Legendary Trader Peter Brandt Reveals What's Behind 'Bitcoin Is Dead' Claim of Peter Schiff
+
+
+The recent 9.3% rise in the price of Bitcoin, which pushed it over $67,000 per BTC by the end of the week, has sparked new discussions among financial experts. This is the first significant weekly increase since early March, following a period of decline after an all-time high of $74,000 per BTC was hit.BTC to USD by CoinMarketCapPeter Schiff, a prominent precious metals advocate and cryptocurrency critic, dismissed the significance of Bitcoin's recovery. He noted that silver has gained more than 21% since the beginning of April, compared to cryptocurrency's modest gain of less than 2% over the same period. Schiff argued that silver offers higher returns and declared Bitcoin a failed investment, saying that it is "dead."Veteran trader Peter Brandt responded to Schiff's comments by advising the public to ignore them. Brandt, who is known for his analysis of Bitcoin and Ethereum, suggested that Schiff's statements were aimed at attracting attention rather than truly understanding the situation.Who you are betting on?He suggested that despite his criticism, Schiff understands the value of cryptocurrencies, but prefers to promote silver due to his long-standing preferences. Brandt accused Schiff of exaggerating silver's recent performance in order to undermine BTC. In response, Schiff said that his views on cryptocurrency are sincere. He warned of the high risks associated with investing in Bitcoin, calling it a speculative asset with no intrinsic value. Schiff believes that many investors could suffer significant losses by betting on what he calls an "imaginary horse."This public disagreement between Schiff and Brandt underscores the ongoing debate in the financial community about the future of cryptocurrency. As Bitcoin continues to rally and show potential for significant gains, opinions remain sharply divided.Which side will win in the long run? Will Bitcoin prove its skeptics wrong, or will traditional assets like silver offer more reliable returns?
+
+
+
+----------------
+
+Megaphone
+
