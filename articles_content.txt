@@ -1,359 +1,3 @@
-Chainlink & DTCC Unite to Modernize TradFi Infrastructure - DailyCoin
-
-
-        
-
-Chainlink teams up with major US banks to pilot improvements to TradFi investing infrastructure.
-
-
-
-The program explored using blockchain technology to improve data dissemination. 
-
-
-
-This provided a proof of concept on innovative use cases for the investment sector.
-
-
-
-
-The Depository Trust and Clearing Corporation (DTCC) offers critical TradFi infrastructure in clearing and settlement services for US investment firms. The entity processes trillions of daily transactions, underpinning the TradFi investment market. As blockchain technologies continue gaining traction, DTCC has recognized its potential for enhancing its core services and operational efficiencies.
-
-
-
-One area the firm has been focused on is its Mutual Fund Profile Service I (MFPS I) system, which offers a standardized way for transmitting price and rate data, including net asset value (NAV) and dividend distribution data. Seeking to improve this process, DTCC recently launched the Smart NAV pilot, in conjunction with Chainlink, to explore enhanced data dissemination capabilities.
-
-
-
-Tapping Chainlink Technology 
-
-
-
-The Smart NAV pilot aimed to improve MFPS I’s data dissemination capabilities. Current processes for calculating and distributing NAV data are complex, manual, and riddled with inefficiencies. The need to bring MFPS I processes into the 21st century is all the more pressing considering the investment fund industry’s massive size and global assets under management’s expected reach of $145 trillion by 2025.
-
-
-
-
-To tackle these challenges, the Smart NAV pilot brought together DTCC, Chainlink, and ten major financial institutions, including BNY Mellon, JPMorgan, and Invesco, to name a few. The goal was to utilize Chainlink’s blockchain technology to assess the feasibility of enhancing efficiencies and bringing more streamlined operations to the existing MFPS I platform.
-
-
-
-How Smart NAV Worked
-
-
-
-The Smart NAV pilot improved the existing MFPS I platform’s data dissemination by using a modern JSON data structure, wrapping it into a blockchain transaction secured by DTCC’s private cryptographic keys, and relaying it via Chainlink’s cross-chain interoperability protocol (CCIP). 
-
-
-
-The CCIP transmitted data loads across multiple blockchains, including DTCC’s private Ethereum blockchain. On this network, a smart contract system verified DTCC as the authorized and permissioned publisher before securely storing the on-chain NAV data in a decentralized manner. With the data made available on-chain, clients could consume and leverage the information.
-
-
-
-
-Leveraging the information included using real-time APIs that pushed data updates to connected systems, smart contract models such as tokenized fund contracts directly inheriting the NAV data, and “bulk consumer” contracts representing baskets of multiple funds’ data. 
-
-
-
-This enabled streamlined, automated dissemination of investment data while demonstrating powerful new ways to leverage the on-chain data for investment applications.
-
-
-
-The Pilot’s Findings
-
-
-
-The Smart NAV pilot demonstrated how delivering structured investment data on blockchain and establishing clear roles and processes governed by smart contracts enabled a wide variety of innovative use cases for investment applications.
-
-
-
-By bringing pricing and distribution data on-chain in a standard, accessible format, Smart NAV opened the door for imaginative new applications and services leveraging the investment data flows. 
-
-
-
-The pilot showcased the capability for real-time, fully automated dissemination of NAV and rate updates, a massive improvement over the sluggish manual processes of the existing system. It also provided built-in access to complete historical records, a previously unavailable capability.
-
-
-
-The success of the Smart NAV pilot also laid the groundwork for DTCC and its partners to explore additional use cases, such as triggering automated workflow events and enabling asset managers to publish data directly to smart contracts without requiring a centralized hub.
-
-
-
-Chainlink ups its interoperability game with its new “Transporter” bridge:How Chainlink’s Transporter Differs from Other Bridging AppsHong Kong BTC ETFs decline in valuation, unlike booming US offerings:HK’s Bitcoin ETFs Fizzle, Casting Doubt on Crypto Hub Dreams
-
-    
-              
-    
-
-----------------
-
-Crypto Industry Relieved as Wallet Drainer Bites the Dust - DailyCoin
-
-
-        
-
-Notorious crypto wallet drainer Pink Drainer is shutting operations.
-
-
-
-Pink Drainer caused a significant portion of the losses suffered by investors last year.
-
-
-
-Wallet trainers are widely utilized by malicious actors, and several others still plague the industry.
-
-
-
-
-Phishing scams are among the most weaponized forms of fraud in the crypto industry, often perpetrated by crypto wallet drainers who target unsuspecting victims. Last year, nearly 350,000 individuals fell victim to these schemes, collectively incurring losses totaling up to $295 million.
-
-
-
-In a surprising turn of events, one of the most notorious drainers is stepping out of the ring.
-
-
-
-Pink Drainer Bids Bye to Crypto: Is It True?
-
-
-
-In a message flagged by on-chain sleuth ZachXBT on Friday, May 17, 2024, the group behind Pink Drainer, which stole funds to the tune of $85 million from thousands of crypto investors, announced the finalization of its operations, bidding farewell to the industry.
-
-
-
-
-The message, posted on a Telegram channel, stated that the group would completely wind down its operations following publication and destroy all stored information.
-
-
-
-
-
-Celebrating its growth, the Drainer expressed gratitude to its supporters, although ironic considering the extensive losses the group inflicted on the industry. Pink Drainer did not depart without offering some “words of wisdom” to its victims.
-
-
-
-“If you have enough money right now to financially support yourself, we advise you to hold onto it and take a step back from the grind and enjoy what this world has to offer. Life is too short to get caught in the perpetual cycle of needlessly spending, going broke, and trying to make it back,” the message stated.
-
-
-
-While the group asserted the finality of its decision by cautioning, “beware of impersonators; we are not planning on returning in the future,” the crypto industry remains vulnerable to similar threats from other drainers.
-
-
-
-Crypto Wallet Drainers Plague
-
-
-
-According to the January analysis by Web3 security platform Scam Sniffer, several wallet drainers are responsible for deploying crypto-related malware on phishing websites to grant threat actors unauthorized access to unsuspecting users’ accounts.
-
-
-
-
-In addition to Pink Drainer, which announced its exit, other notorious ones include Inferno Drainer, MS Drainer, Angel Drainer, Monkey Drainer, and Venom Drainer.
-
-
-
-
-
-Inferno Drainer and Monkey Drainer reportedly orchestrated some of the most notable heists of 2023 before their exposure, siphoning off over $81 million and $16 million over months, respectively. 
-
-
-
-Many of these malicious groups continue to lurk in the industry’s shadows, becoming adept at circumventing promotion guidelines on trusted social media platforms like Google and Twitter, which enables them to promote malicious URLs to a broader range of investors for selfish gain.
-
-
-
-Read more about the ruse of phishing scams this year:Phishing Ads Target Etherscan Users: Here’s How to Stay Safe
-
-
-
-US Senate conquers SEC’s authority overstep, will it hold? Read to find out:Senate’s Victory Over SEC Threatened by Potential Biden Veto
-
-    
-              
-    
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Tether's USDT Faces Potential Delisting From Kraken's Platform Within 2 Months: Details | Bitcoinist.com
-
-
-								In a move that could have significant implications for the global cryptocurrency market, the US-based crypto exchange Kraken is “actively reviewing” plans, including removing support for Tether’s USDT stablecoin within the European Union (EU).
-The potential delisting comes as the EU prepares to implement a new regulatory framework, Markets in Crypto-Assets (MiCA), set to take effect in July. According to a Bloomberg report, the upcoming EU rules are expected to impact USDT, the world’s most-traded cryptocurrency.
-Kraken Considers Tether’s USDT Delisting In Europe
-MiCA, which the European Banking Authority (EBA) is still finalizing, will restrict the sale of stablecoins to EU investors. 
-
-Traders widely use stablecoins like USDT to move digital assets between exchanges or to store wealth away from token price volatility. Marcus Hughes, Kraken’s global head of regulatory strategy, stated:
-We’re absolutely planning for all eventualities, including situations where it’s just not tenable to list specific tokens such as USDT. It’s something that we’re actively reviewing, and as the position becomes clearer, we can take firm decisions on that.
-Tether, the issuer of USDT, acknowledged Kraken’s remarks, stating that the firm expects exchanges to “rightfully focus on EUR liquidity for European customers while maintaining USDT as an on-ramp off-ramp solution.” 
-However, Tether’s CEO, Paolo Ardoino, has previously expressed concerns about certain aspects of MiCA’s requirements, and the company has no plans to be regulated under the new rules in the medium term. 
-The potential delisting of USDT on Kraken’s European platform follows a similar move by another major crypto exchange, OKX, which removed EU users’ ability to buy or sell other cryptocurrencies using USDT earlier this year. Hughes further claimed:
-It’s an evolving picture. What we’re clear on is that the scope of the type and number of stablecoins that are offered today in Europe are unlikely to be able to be offered going forward. At some point in the future, there’ll be a cut off at which that won’t be possible.
-Kraken Evaluates European HQ Options
-For further context, the upcoming MiCA regulations will require issuers of asset-referenced and e-money tokens, like USDT, to hold a license from a national financial authority in at least one EU member state by June 30. 
-Issuers will also be mandated to meet “higher standards” on corporate governance, conflicts of interest, and reserve management, such as holding at least a third of all funds at an independent credit institution.
-
-Per the report, as Kraken navigates the changing regulatory landscape, the exchange is also in the “advanced stages” of selecting its post-MiCA European headquarters, with France and Ireland emerging as popular destinations among its rivals, such as Coinbase, Binance, and Gemini.
-However, if Kraken moves forward with delisting Tether’s USDT stablecoin from its European platform, it could have significant implications for the exchange’s users and customers in the EU. 
-Kraken’s European customers would no longer be able to directly trade or transact using USDT, potentially leading to decreased liquidity, wider bid-ask spreads, increased price volatility, and lower trading volumes. 
-This could create inconvenience and disruption for customers accustomed to using Tether’s stablecoin, as they may need to explore alternative stablecoins like Circle’s USDC or fiat on-ramps, adding complexity to their cryptocurrency transactions. 
-The 1-D chart shows the total crypto market cap’s valuation at $2.3 trillion. Source: TOTAL on TradingView.com
-Featured image from Shutterstock, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-One Week to Go Until the Big Day: Analysts Update Expectations for Ethereum Spot ETF Decision - Bitcoin Sistemi
-
-Investment companies eager to introduce the first ETFs based on Ethereum face potential disappointment. The U.S. Securities and Exchange Commission (SEC) has not yet indicated it is ready to approve such products.
-After months of silence, the US regulator is expected to announce its decision next week on at least one application for an ETF that invests directly in Ethereum, the world's second-largest cryptocurrency. Some fund companies are expecting a rejection, citing less robust private dialogues with the SEC than before the approval of spot-Bitcoin ETFs in January.
-
-
-In the weeks leading up to the approval of Bitcoin ETFs, fund companies submitted multiple versions of revised paperwork to address the SEC's concerns, a process that significantly contributed to their final approval. However, spot ETH ETF filings have seen much less activity.
-“Most people generally expect a rejection,” said Katherine Dowling, general counsel at Bitwise, which filed for a spot ETH ETF in March. and added: “You're not seeing the kind of public activity that you would see if there were to be an approval.”
-
-
-
-
-
-
-The SEC, which postponed decisions on fund applications for several months, has until May 23 to approve or reject VanEck's application. ETH's value fell nearly 20% in April as approval hopes faded.
-“If the SEC doesn't approve ETH ETFs now, it may be because the line the SEC has drawn is that they won't approve any spot crypto product without an actual court order,” said Jeremy Senderowicz, an attorney specializing in investment services at law firm Vedder Price.
-
-
-Whatever the outcome, for the first time the SEC will provide significant public information about its position on spot Ether ETFs. Even among issuers who are pessimistic about the regulator approving the product, this is seen as a ray of hope as it will give a concrete idea about the regulator's thoughts on these products.
-*This is not investment advice.
-
-
-
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Here Are Your Top Crypto Gainers Today on DEXScreener
-
-
-                        
-                            Top Crypto Gainers Today on DEXScreener – SPURDO, BRETT, OMIKAMI                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 17, 2024 16:54 EDT                            
-                                                             | 3 min read                                                    
-                    
-                
-            
-
-    
-
-Top Crypto Gainers Today on DEXScreener – SPURDO, BRETT, OMIKAMI / Source: Cryptonews
-                        As blue-chip cryptocurrencies post a strong finish to the week, with Bitcoin (BTC), Ether (ETH) and Solana (SOL) up 2.5%-5.5% each over the past 24 hours, traders are turning to the on-chain meme coin markets as they hunt for top crypto gainers today.Bitcoin topped $67,000 on Friday, while Ether and Solana rallied to the upper $3,000s and $160s respectively.US CPI data earlier this week bolstered hopes for multiple Fed interest rate cuts later in the year.That helped launch major US equity indices back to record highs, whilst weighing on the US Dollar and US yields.Spot Bitcoin ETF inflows have also risen this week. As per The Block data, inflows are already above $750 million since Monday.Traders are hunting for top crypto gainers today as spot Bitcoin ETF inflows return. Source: The BlockMeanwhile, more than 500 asset managers revealing exposure to the new Bitcoin ETFs in their 13F filings.These include some major and some surprising names, such as Morgan Stanley and a US state pension fund.On net, in wake of all this bullish news flow, it’s no surprise that cryptos are trading with decent momentum.Let’s not forget that GameStop icon Roaring Kitty also returned on Monday, injecting huge excitement into meme stock/meme coin markets.With most major cryptos still some way below yearly highs, the outlook for a continued rally is good.However, for some impatient traders, the prospect of a 10-20% rally in a few weeks isn’t nearly enough.These traders prefer to turn to the highly illiquid and volatile on-chain markets.Traders frequently turn to tools like DEXScreener to hunt for newly issued cryptos that might quickly 100x.Here are some of the top crypto gainers today on Ethereum that they will be watching.Top Crypto Gainers Today on DEXScreenerSPURDO (SPURDO)A just-launched meme coin called SPURDO (SPURDO) is pumping on Friday, up 323% in 24 hours as per DEXScreener.https://twitter.com/SpurdosCoin/status/1791327544786231712Its market cap was last around $1.3 million, following a substantial pullback from earlier session highs.The token has $150,000 in locked liquidity, plus three concerning issues with its smart contract, as identified by Go+ Security.Traders should always do their due diligence before investing in new coins. Most are scams/pump-and-dumps.Brett (BRETT)An Ethereum copycat version of popular Solana meme coin Brett (BRETT) is pumping hard, up 200% on Friday.As per DEXScreener, its market cap was last around $4.6 million with $260,000 in locked liquidity.Go+ Security identifies two smart contract issues, a blacklist and a white list.Amaterasu Omikami (OMIKAMI)An old meme coin called Amaterasu Omikami (OMIKAMI), that was launched back in 2022, is coming back strong on Friday.After gaining over 60% in 24 hours and 250% in two days, OMIKAMI has reached a $10 million market cap.The token currently has $440,000 in locked liquidity, and is unlikely to be a scam given how old it is.Better Crypto Alternatives to Consider
-Trading new meme coins is fraught with risk. Sure, some of these coins might 100x or more.But traders are very unlikely to get in right at the bottom. And the vast majority of coins will fall flat, with investors unlikely to be able to find the liquidity to sell.Moreover, the meme coin market’s fast price action tends to trigger FOMO in traders. They often neglect to do the required due diligence.A potentially better alternative to investing in just-launched meme coins is to invest in presales.Here, traders have more time to research a project and see if it is a good fit for them.If investors are able to reliably identify projects that gain traction, they can make big gains.With so many presales out there vying for invest funds, it can be tough to know where to start.That’s why analysts at Cryptonews keep a close eye on the presale market. Here are some of their top presales for 2024.21 Best Crypto Presales to Invest In Now                                                    
-                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Oklahoma Enacts Bill Safeguarding Residents' Right to Self-Custody Digital Assets
-
-
-                        
-                            Oklahoma Enacts Bill Safeguarding Residents’ Right to Self-Custody Digital Assets                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 17, 2024 16:54 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Oklahoma passed a bill on May 13 to protect the rights of its residents to self-custody their digital assets.The legislation, known as OKHB3594, was signed into law by Governor Kevin Stitt and sponsored by four Republicans: State Senators Bill Coleman and Dana Prieto and State Representatives Brian Hill and Cody Maynard.The bill prohibits any restrictions or bans on using self-custody or hardware wallets to store digital assets, which ensures that individuals in Oklahoma have the freedom to control and safeguard their own digital assets without interference from third parties.The legislation also allows Oklahomans to engage in both home-based and industrial crypto mining as long as they comply with local noise ordinances.Self-Custody Bill to Go into Effect This November
-The digital asset self-custody bill will go into effect on November 1, 2024.One notable provision of the bill is the exemption of crypto miners from obtaining a money transmitter license.This means that individuals involved in home digital asset mining or running digital asset mining businesses, as well as those engaged in staking or staking as a service, are not required to acquire a license typically associated with financial transactions.Additionally, the bill outlaws discriminatory electricity rates for digital asset mining businesses, ensuring fair treatment in terms of energy costs.The legislation also addresses the use of digital assets as a payment method.Oklahoma residents can utilize cryptocurrencies to pay for goods and services without being subjected to additional taxes, withholdings, assessments, or charges imposed solely because of the use of digital assets in transactions.Dennis Porter, the CEO of Satoshi Act Fund, emphasized the bill’s importance in protecting fundamental Bitcoin rights.“Without the ability to manage our wealth, we lose control of our destiny and the chance to create better futures for our families,” he wrote in a post on X. “This law ensures that everyone can secure not only their [bitcoin] but all their assets.”Countries Consider Crypto Seizure for Tax Evasion
-Countries worldwide are increasingly considering confiscating crypto assets for debt collection from taxpayers.South Korean tax officials in the city of Pohang revealed plans to seize crypto from 5,208 residents who failed to pay local taxes.Per local reports, the individuals have all evaded local tax bills worth $370 or above.The drive saw tax officials seize almost $29 million in coins and fiat in 2023.Likewise, the Spanish Ministry of Finance wants to enable the seizure of digital assets to settle tax debts.Under the leadership of María Jesús Montero, the ministry is currently working on legislative reforms to the General Tax Law.The proposed changes would grant the Spanish Tax Agency the authority to identify and control crypto assets owned by taxpayers with outstanding debts.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Alameda Research's Sam Trabucco Backs FTX Exec Ryan Salame
-
-
-                        
-                            Former Alameda Research CEO Sam Trabucco Defends FTX Exec Ryan Salame Ahead Of Sentencing                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 17, 2024 16:40 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Sam Trabucco, the co-CEO of Alameda Research, has spoken out in support of FTX executive Ryan Salame ahead of his sentencing on May 28, according to an updated May 14 court filing.In a character reference for the former FTX Digital Markets co-CEO, Trabucco described Salame as an “affable” and “complex” person who “doesn’t deserve to be defined by his worst actions.”Alameda Research’s Sam Trabucco Defends FTX Exec Ryan Salame
-“Simply put, Ryan is my best friend. He has also committed crimes,” Trabucco wrote. “He’s acknowledged that and is prepared to accept the consequences.”Trabucco further said that he had hoped Salame would receive a “fair” sentence in relation to the digital asset scandal, referring to him as a “sought-after employee in the crypto space.”Salame, who recently requested a sentencing length of eighteen months in prison, pled guilty to conspiracy to operate an unlicensed money transmitting license and conspiracy to make unlawful political contributions back in September 2023.Salame has largely distanced himself from the doomed crypto exchange, with lawyers for the FTX executive arguing that he had limited knowledge of the company’s $8 billion fraud scheme.“As was true for thousands of other FTX employees, customers, investors, and lenders, Ryan lost years of hard work and nearly his entire net worth almost instantaneously,” the court filing read. “Ryan, who was not part of Sam Bankman-Fried’s innermost circle, was unaware of the crimes at the center of this case.”Salame In Hot Water Over SBF Political Donations, Faces Prison Time
-Salame’s unlawful political contributions charge stems from over 300 secret donations totaling tens of millions of dollars made by Bankman-Fried, with the willing participation of the former FTX Digital Markets co-CEO and the company’s Head of Engineering, Nishad Singh.Prosecutors allege Bankman-Fried, who is currently serving 25 years in prison for orchestrating the fraud scheme, used the straw donor scheme to levy influence and power to pro-crypto politicians.Of course, these donations were largely funded by FTX customers’ money, which Bankman-Fried stole and used to fund venture investments, real estate purchases, and more while claiming investors’ funds were safe.“He built a pyramid of deceit on a foundation of lies and false promises,” U.S. prosecutors claimed during SBF’s trial. “And when it collapsed, it left a trail of destruction in its wake.”Salame’s sentencing will take place at Manhattan federal court on May 28 at 11 a.m. He is facing a maximum sentence of 10 years in prison.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
 FLOKI To Burn 15.2B Coins, Solidifying Bullish Pennant Setup - DailyCoin
 
 
@@ -11417,3 +11061,352 @@ Visited 6 times, 6 visit(s) today
 
 
 	
+
+----------------
+
+Crypto price prediction: Floki, BitBot, Arweave
+
+
+
+                    
+
+                    Cryptocurrency prices did moderately well last week as investors embraced a risk-on sentiment in the financial market. Bitcoin jumped to above $67,000 for the first time in over a month while BitBot continued its token sale, raising millions of dollars. This article focuses on BitBot, Floki, and Arweave.
+Arweave price forecast
+Arweave is one of the biggest players in the web 3 industry with a market cap of over $3 billion. It is disrupting the online storage industry by providing permanent storage solutions for developers. Developers can also launch smart contracts that handle transactions within seconds using its Warp technology.
+Arweave’s price has done well in the past few weeks as it defied the gravity that we have seen in the crypto industry. It jumped to a high of $50 last week, its highest level since January 2022. It has soared by over 1,150% from its lowest point in 2023. Most recently, it has jumped for four straight weeks.
+Turning to the weekly chart, we see that the AR token price has been in a strong bull run in the past few weeks. It has remained comfortably above the 50-week and 25-week Exponential Moving Averages (EMA).
+It is now hovering at $48, its previous highest point this year, meaning that it is forming a double-top pattern, a popular bearish sign. Arweave is also nearing the 50% Fibonacci Retracement level.
+Therefore, while Arweave’s token price outlook is bullish, buyers must now move above the crucial resistance level at $49.70. If this happens, the next point to watch will be the 61.8% retracement point at $60.
+
+Floki price prediction
+Like Arweave, the price of Floki has defied gravity in the past few weeks. It jumped to a high of $0.0002290 last week, its highest swing since April 2nd. At its highest point this month, the token was up by 105% from its lowest point on April 13th. 
+Floki Inu has now pulled back and moved below the 38.2% Fibonacci Retracement level. It has also remained above the 50-day and 25-day moving averages and the lower side of the Andrews Pitchfork tool. 
+Therefore, the outlook for Floki is neutral for now. A break below the pitchfork tool will point to more downside, with the next point to watch being at $0.00018. The alternative is where it rebounds and retests last week’s high of $0.00022.
+
+BitBot analysis
+The other notable cryptocurrency is BitBot, which has already raised over $3.5 million from global investors. BitBot is a company that seeks to change the trading industry by leveraging the concepts of technical analysis and artificial intelligence (AI).
+It will be a comprehensive trading bot that anyone can use to trade cryptocurrencies like Bitcoin, Ethereum, and Solana. The app will be distributed in Telegram, a leading social media platform with over 900 million users globally. 
+Unlike other trading bots, BitBot will have several important features. First, it will be a non-custodial bot, meaning that the developers will not have access to your funds. Second, holders of the $BITBOT token will have access to additional staking rewards. Third, these holders will take part in its governance. You can buy the BitBot token here.
+
+
+                    
+
+                        Share this articleCategories
+                    
+                
+
+                
+
+----------------
+
+PEPE: Profit-taking sparks price fall? Investors in profit reach 92% - AMBCrypto
+
+
+
+The meme coin was down by more than 6% in the last 24 hours. 
+Market indicators and metrics hinted at a further price decline. 
+
+Pepe [PEPE] had a major setback on the 18th of May as the meme coin price witnessed a steep decline. A check of its metrics pointed out a few possible reasons behind this bearish price action. 
+Let’s take a look at the entire picture. 
+Are PEPE investors taking profits?
+CoinMarketCap’s data revealed that PEPE’s price started to decline sharply in the last few hours. Because of that, the meme coin’s daily price dropped by more than 6%.
+ At the time of writing, it was trading at $0.000009426 with a market capitalization of over $3.9 billion, making it the 27th largest crypto. 
+AMBCrypto’s look at IntoTheBlock’s data revealed a possible reason behind this. We found that over 92% of PEPE investors were in profit. 
+This might have motivated investors to sell their holdings, in turn pushing the meme coin’s price down. 
+To see whether that was the case, AMBCrypto then analyzed Santiment’s data. As per our analysis, the meme coin’s exchange inflow spiked multiple times last week. 
+It was interesting to note that after a dip, the meme coin’s Supply on Exchanges started to increase. Meanwhile, its Supply outside of Exchanges started to decline on the 18th of May, signaling a sell-off. 
+Moreover, after a sharp rise on the 14th of May, the meme coin’s supply held by top addresses dropped slightly. 
+This suggested that a few whales also sold their holdings, possibly causing the meme coin’s price to plummet. 
+Source: Santiment
+PEPE’s troubles aren’t over 
+The dark days might continue for the meme coin, as few other metrics gave away a bearish notion. 
+For instance, PEPE’s Social Volume declined sharply over the last week, reflecting a dip in the meme coin’s popularity. On top of that, its Weighted Sentiment also sank over the last few days. 
+So, bearish sentiment around the meme coin was high, indicating that investors were expecting its price to go down further. 
+Source: Santiment
+Like metrics, several market indicators also supported the bears. The meme coin’s Relative Strength Index (RSI) registered a decline. At press time, the RSI had a value of 58.7.
+ Likewise, the Chaikin Money Flow (CMF) also went down, indicating that the chances of the bearish price trend continuing were high. 
+
+Realistic or not, here’s PEPE’s market cap in BTC’s terms   
+
+As per our analysis, PEPE’s price was still well above its 20-day Exponential Moving Average (EMA).
+ Therefore, if the price decline continues, the meme coin’s value might drop to its 20-day EMA, which might act as a support.
+Source: TradingView
+
+
+
+
+
+
+----------------
+
+Wells Fargo Accused of 'Aiding and Abetting' Alleged $300,000,000 Ponzi Scheme With More Than 1,000 Victims: Report - The Daily Hodl
+
+
+								A new lawsuit accuses Wells Fargo of monitoring “both sides” of an alleged $300 million Ponzi scheme and doing nothing to stop it.
+Plaintiffs for the lawsuit accuse the US bank of unjust enrichment, negligence, aiding and abetting fraud and breaching fiduciary duties, reports the Sun Sentinel.
+
+
+
+
+
+
+
+
+
+
+In July of 2021, the Florida Office of Financial Regulation (OFR) filed a complaint against insurance company Seeman Holtz for multiple violations of securities laws. The complaint alleges that Seeman Holtz engaged in the sale of unregistered securities after issuing $300 million in promissory notes that were supposedly backed by life settlement policies.
+But the OFR says Seeman Holtz used the funds from new investors to pay off older investors to create the illusion of profitability. At the time, Seeman Holtz set up accounts at Wells Fargo that held funds from new and old investors.
+According to the lawsuit, Wells Fargo allowed Seeman Holtz to redirect money from new investor accounts to accounts designed to hold old investor funds.
+Plaintiffs say that “Wells Fargo knew, or should have known, of the Ponzi scheme and extensive fraud” because the banking titan monitored “both sides of the scheme.”
+The lawsuit says the Ponzi scheme fleeced over 1,000 victims, including seniors and investors who lost their entire nest egg after being promised annual returns of as much as 18%.
+“Most of the investors in the notes have lost their entire investment which, in some instances, was their life’s savings. Many of the investors have no other income, subsist almost exclusively off Social Security benefits, and are now struggling desperately to find the means to sustain their livelihood.”
+The suit is asking Wells Fargo to return all income and fees received from the accounts involved in the scheme on top of interest and other costs.
+Wells Fargo has not yet responded to the lawsuit and says it has no comment.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Kraken to keep USDT in the E.U. despite regulatory challenges
+
+
+Despite regulatory challenges, Kraken, one of the world’s largest cryptocurrency exchanges, has no plan to delist Tether’s USD stablecoin (USDT).
+On May 19, Mark Greenberg, Global Head of Kraken’s Asset Growth & Management Business, communicated the company’s stance in a post on X amid rumors of a possible delisting. Greenberg recognized the demand for USDT from European customers, saying they would “look at all options” to keep it listed.
+
+However, the cryptocurrency executive warned that the company will follow all legal requirements, which have yet to be defined in Europe. Therefore, delisting USDT is still possible in the near future despite Kraken’s desire to keep it.
+
+
+Delisting speculations started on May 17, following a Bloomberg report stating Kraken was “actively reviewing” Tether’s status under MiCa rules.
+Kraken plans to relist delisted cryptocurrencies from Germany
+Recently, Kraken announced a new partnership with DLT Finance for its operations in Germany. As a result, the company removed dozens of cryptocurrencies not supported by its new partner, creating uncertainty for the region.
+On that note, Mark Greenberg commented in response to a user, stating they plan to “relist some of these assets soon.”
+
+OKX delisted Tether’s USDT in Europe due to upcoming regulation
+In March, crypto exchange OKX delisted Tether’s USDT stablecoin for users in the European Union and the European Economic Area (EEA), citing a focus on expanding euro-denominated liquidity in the region. OKX limited spot crypto trading to USDC and euro pairs, while USDT could only be traded against USDC and euro.
+Nevertheless, the exchange stated that the decision would only impact a small subset of its user base. Moreover, it had recently expanded its product offering in the EEA by introducing various euro fiat onramps and euro pairs. USDT remained available for EEA-based users to deposit, withdraw, and trade on over-the-counter (OTC) markets.
+The move by OKX could be a sign of upcoming regulatory challenges for USDT in the region as the European Union prepares to implement its comprehensive digital asset regulatory framework called MiCA later this year.
+In particular, the new rules will require stablecoin issuers to be regulated as electronic money institutions, potentially making many stablecoins currently offered in Europe illegal if they are not authorized and regulated as e-money transmitters. Circle, the issuer behind USDC and EURC, has already taken steps to comply with the upcoming regulations by applying for an electronic money institution license in the E.U. 
+
+
+----------------
+
+ChatGPT Compares: Which Meme Coin Will Perform Best This Year
+
+
+																TL;DR
+
+Dogecoin and Shiba Inu are top meme coin contenders for 2024, with DOGE benefiting from endorsements and a strong community, while SHIB has shown significant yearly gains.
+ChatGPT also outlined the chances of Pepe (PEPE), dogwifhat (WIF), and Bonk Inu (BONK) due to their recent price rallies and solid support base.
+
+
+DOGE and SHIB Are Among the Contenders
+The meme coin sector has captured the attention of industry participants in the past several months, with numerous assets experiencing substantial price surges. The niche witnessed the progress of some recently launched tokens and the success of others that have been part of the industry for years.
+Considering the huge interest in the topic, we decided to ask ChatGPT which meme coin will perform the best in 2024. The AI-powered chatbot started its estimation with the leaders in terms of market capitalization – Dogecoin and Shiba Inu.
+Despite being created as a joke in 2013, DOGE saw a remarkable rally in the past few years, reaching an all-time high of over $0.70 in 2021. Currently, it hovers around the $0.15 mark, which represents a substantial plunge from the peak but also a 100% increase compared to the figures observed in May 2023.
+DOGE Price, Source: CoinGecko
+The asset has a devoted community, while endorsements from high-profile figures like Tesla’s CEO Elon Musk are beneficial for its performance. Not long ago, the EV giant officially integrated DOGE as a payment option on its website.
+
+
+
+
+Shiba Inu (SHIB) – known as the Dogecoin killer – has also made great strides. Its price is up over 180% yearly, while a recent study estimated that it has the strongest supporter base in the meme coin realm.
+
+SHIB Price, Source: CoinGecko
+Its future success relies on multiple factors, such as the further development of its layer-2 blockchain solution – Shibarium, its burning mechanism, adoption levels, and overall investor interest. 
+It is worth noting that the L2 network recently underwent two major upgrades aimed at improving user experience and enabling compatibility with popular wallets, including MetaMask, Coinbase Wallet, and Trust Wallet. Those interested in learning more about Shibarium, feel free to take a look at our dedicated video below:
+VIDEO
+The Chances of the Rivals
+ChatGPT continued its prediction with Pepe (PEPE), noting its solid community and recent price rally. As CryptoPotato reported, the frog-themed meme coin hit a new all-time high on May 15, with its market cap nearing the $5 billion milestone.
+Subsequently, the chatbot claimed that dogwifhat (WIF) and Bonk Inu (BONK) also have chances to finish 2024 as the niche’s top performers. Both assets are built on the Solana blockchain and have become sensations in the past months. 
+WIF gained support from prominent industry participants such as Arthur Hayes, while fans of the token recently raised $650,000 to put its logo on the Sphere – a famous entertainment arena in Las Vegas, Nevada.
+“WIF has garnered a strong community following and significant attention on social media, which are crucial for the success of meme coins. Its current market cap and trading volume indicate a solid interest from investors,” ChatGPT stated. 
+At one point this year, WIF’s market cap spiked to almost $5 billion, becoming the third-biggest in the cohort. Currently, it is placed fourth, trailing behind PEPE.
+WIF Market Cap, Source: CoinGecko
+BONK’s success has been just as impressive. Launched in December 2022, it started making the headlines towards the end of 2023 after an exponential price rally. Its uptick was fueled by significant hype from investors and support from leading cryptocurrency exchanges. Binance, Bybit, and Coinbase are among the leaders allowing trading services with BONK. 
+According to ChatGPT, the meme coin may advance even more before the end of 2024 as long as it benefits from the potential growth of the Solana ecosystem. 
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Renowned crypto trader's last insights before a 'couple of weeks' break
+
+
+The cryptocurrency market led by Bitcoin (BTC) rose this week, but the resurgence stalled momentarily, with the maiden digital asset appearing to consolidate at around the $67,000 level. 
+Overall, the market remains on edge regarding the next movement, especially for Bitcoin and altcoins. In this line, crypto trading expert Credible Crypto (Credibull), in a YouTube video posted on May 19, shared insights and outlook for several digital assets before what he termed taking a break. Below are some of the cryptocurrencies highlighted by the expert. 
+Bitcoin (BTC)
+The analyst noted that if Bitcoin is to experience a significant downside move, it should happen from the main resistance area, currently around $71,000. He identified $62,300 to $63,300 as a potential bounce zone, with $59,000 being the ideal target if this area fails. 
+
+
+BTC price analysis chart. Source: TradingView/Credible Crypto
+He elaborated on the factors to watch for to determine Bitcoin’s next move. Two key indicators include an impulsive move off the lows and the behavior of open interest (OI). Credibull noted the absence of an impulsive move and a concerning ramp-up in OI, suggesting potential for a corrective move rather than a bullish breakout.
+The analyst warned that if Bitcoin fails to break through this resistance level convincingly and OI remains high, it could lead to a significant price correction, possibly back to the $59,000 level.
+
+“I’m cautious right now. I’m not super bullish as we push up into major resistance with a ramp-up in OI back to the levels that we were at before we broke down,” he said. 
+
+Dogecoin (DOGE)
+Transitioning to altcoins, Credibull expressed interest in shorting Dogecoin (DOGE). He highlighted that his primary area of interest for shorting Dogecoin lies around the $0.18 mark. He explained that this level offers an ideal risk-to-reward ratio for short positions.
+The analyst called for patience, stating that he would not initiate a short position until Dogecoin reached the $0.18 zone. He acknowledged the possibility of several scenarios playing out before this level is hit. 
+DOGE price analysis chart. Source: TradingView/Credible Crypto
+For instance, Dogecoin could experience a pullback, potentially moving down and bouncing back up to the short zone. Alternatively, Dogecoin might directly ascend to the short zone without a significant Bitcoin pullback.
+Regardless of the immediate movements, Credibull stressed that his strategy is not driven by emotions but by technical analysis and risk management. He pointed out that entering a short position below the $0.18 mark could expose traders to unnecessary risk, especially if the market experiences a bullish breakout.
+Solana (SOL)
+For Solana (SOL), the analyst identified vital resistance levels and potential shorting opportunities. He mentioned that Solana has room for a 5% to 10% upside. The expert pinpointed a move above the previous highs above $180 as the optimal short entry. 
+He expects a rejection at this level, followed by a significant move down to the range lows, around $115. This represents approximately a 35% move from the current levels to the downside.
+SOL price analysis chart. Source: TradingView/Credible Crypto
+Credibull also highlighted the confluence of resistance levels on the SOL/USD and SOL/BTC charts, reinforcing his bearish outlook. He pointed out that both pairs are hitting key resistance zones, making them prime candidates for short positions with a favorable risk-to-reward ratio.
+Chainlink (LINK)
+In his analysis for Chainlink (LINK), Credibull noted that the token has been on a prolonged upward trend for almost a year, with only two months of correction, which makes a deeper retracement likely.
+Credibull identified a point of breakdown and a subsequent range between $16 and $12 that LINK has established. Currently, LINK is pushing into an area of resistance around $18, making it an ideal spot for a short position. He emphasized the importance of either shorting directly into this resistance or waiting for a structural shift and falling back into the range to confirm the short.
+LINK price analysis chart. Source: TradingView/Credible Crypto
+One of Credibull’s critical indicators for the LINK short is the massive rise in open interest during the recent push to the upside. This increase suggests that many leveraged players have entered the market, creating a potential for significant downside if these positions start to unwind. 
+He identified a target move back down to around $11.96, which, from the current levels, represents a 27% to 30% move to the downside.
+Dogwifhat (WIF) 
+Credibull noted that while WIF has broken down from a lower level, there is still ample downside liquidity, suggesting the possibility of a fakeout after consolidation. He cautioned about initiating a short position on WIF until it recovers further and potentially reclaims higher levels.
+WIF price analysis chart. Source: TradingView/Credible Crypto
+One key reason Credibull is hesitant to short the meme coin at its current level is the risk-reward ratio. He emphasized the importance of waiting for rejection confirmation at resistance before considering a short position. 
+The expert also highlighted the significance of shorting at extreme areas, such as the range highs, to minimize risk and maximize potential returns.
+Overall, despite the technical indicators, the mentioned cryptocurrencies are highly susceptible to general market sentiment.
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk. 
+
+
+----------------
+
+Important Statements from Vitalik Buterin, Wrote About Ethereum's Problems and Solutions - "Traditional Finance Could Revive If It Fails" - Bitcoin Sistemi
+
+Ethereum co-founder Vitalik Buterin addressed criticism and concerns regarding Ethereum's centralization in a recent blog post.
+The article covers three key topics: MEV (miner or maximum extractable value), liquid staking, and hardware costs involved in running an independent node.
+
+
+Buterin acknowledged that these concerns are widely expressed and admitted that he has had them himself on many occasions. However, he also suggested that these problems may not be as insurmountable as some believe.
+MEV refers to the financial advantage advanced node operators can gain by reordering transactions within a block. Buterin highlighted two approaches to combating MEV: minimization and quarantine. Minimization involves reducing MEV through smart protocol design such as CowSwap, while quarantining attempts to reduce or eliminate MEV through in-protocol techniques.
+
+
+
+
+
+Buterin warned that MEV quarantine, while appealing, carries centralization risks. “If developers had the power to completely exclude transactions from a block, there are attacks that could occur quite easily,” he wrote. Despite this, Buterin expressed support for founders working on MEV quarantine through concepts such as transaction inclusion lists, which prevent developers from excluding transactions entirely.
+
+Buterin also touched on the issue of individual Ethereum staking. Given the complexity, hardware requirements, and need for at least 32 ETH to run a standalone Ethereum node, most stakers choose to stake with Coinbase or a decentralized intermediary like Lido or RocketPool.
+
+
+While Buterin acknowledged the progress made in reducing the cost and complexity of running an individual node, he suggested more could be done, such as reducing the time to withdraw staked ETH or lowering the 32 ETH minimum requirement for individual staking.
+Buterin concluded his words by warning that wrong solutions could lead Ethereum to the path of centralization and revive the traditional financial system.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Find Out 3 Major Token Unlocks of Next Week
+
+
+Token unlock involves releasing tokens that were previously blocked under fundraising terms. Projects carefully schedule these releases to avoid market pressure and prevent a drop in token prices.
+However, factors like lack of liquidity or early investor profit-taking can significantly impact an asset’s dynamics. Here are three major token unlocks to watch next week.
+Pyth Network (PYTH)
+
+Unlock date: May 20
+Number of tokens unlocked: 2.13 billion PYTH
+Current circulating supply: 1.5 billion PYTH
+
+
+Pyth Network is a decentralized oracle that supplies real-time financial market data to blockchain applications. It gathers high-quality pricing information from various sources, including trading firms and exchanges. The project aims to improve the accuracy and reliability of data used in smart contracts and decentralized finance (DeFi) platforms.
+The PYTH token has a maximum supply of 10 billion. On May 20, the project will unlock 2.13 billion tokens, which exceeds the current circulating supply. Approximately 800 million PYTH will go to private sale participants and publishers, with the remainder allocated for protocol development and ecosystem growth.
+Crypto community members have polarized opinions on how the unlock will affect PYTH price. Some believe the altcoin is headed for a significant collapse, while others are confident that tokenomics design will allow it to hold its ground.
+
+“Pyth unlock worth $910M is on 20th May. 141.67% of current supply is being unlocked. AEVO dumped 25% after the unlock. Most of PYTH holders have staked so they can’t sell their bags. Regardless i am looking for shorting setups,” one crypto trader noted.
+
+Read more: What Is a Blockchain Oracle? An Introductory Guide
+PYTH Token Unlock. Source: TokenUnlocks
+Avalanche (AVAX)
+
+
+Unlock date: May 22
+Number of tokens unlocked: 9.54 million AVAX
+Current circulating supply: 382.77 million AVAX
+
+Avalanche is a decentralized blockchain platform that delivers high performance and scalability, enabling developers to create and deploy decentralized applications (dApps) and custom blockchain networks. The native token of the Avalanche network is AVAX, used for paying transaction fees, staking, and participating in the platform’s governance.
+On May 22, over 9 million AVAX tokens will be unlocked and distributed among strategic partners, the Avalanche Foundation, the team, and airdrop participants.
+Read more: 11 Best Avalanche (AVAX) Wallets to Consider in 2024
+AVAX Token Unlock. Source: TokenUnlocks
+
+Space ID (ID)
+
+Unlock date: May 22
+Number of tokens unlocked: 18.49 million ID
+Current circulating supply: 430.5 million ID
+
+Space ID is a decentralized identity protocol that helps users securely manage their online identities across various blockchain platforms. It enables users to create a single digital identity for use in multiple decentralized applications (dApps). The ID is the utility token of the Space ID ecosystem, designed to incentivize user participation and support the security and growth of the network.
+On May 22, the project will add 18 million ID to the circulating supply. According to TokenUnlocks, most of these tokens will go to the Space ID Foundation, the ecosystem fund, and airdrop participants.
+
+Read more: Which Are the Best Altcoins To Invest in May 2024?
+ID Token Unlock. Source: TokenUnlocks
+Although token unlocks are often considered bearish, a well-planned schedule can enhance a project’s long-term viability. Aligned with milestones and development progress, unlocks will motivate team members, boost community engagement, and promote ecosystem growth.
+
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
