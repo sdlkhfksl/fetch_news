@@ -1,170 +1,3 @@
-Alex Labs freezes $3.9M of exploited funds sent to CEXs after hack
-
-Bitcoin layer-2 developer Alex Labs has successfully frozen more than $3.9 million worth of crypto that was exploited from its BNB Smart Chain bridge, according to the team’s May 16 social media post. According to the post, the attacker sent the funds to several different centralized exchanges (CEXs), which allowed them to be frozen with the cooperation of the exchanges.Source: Alex LabsThe team said it recovered the complete balances for 17 different tokens, including “all aBTC, sUSDT, xBTC, xUSD, ALEX, atALEX, LiSTX, LUNR, SKO, CHAX, $B20, ORDG, ORMM, ORNJ, TRIO, TX20 and STXS.” $13.7 million worth of Stacks (STX) tokens were also exploited. Of these, the attacker made the mistake of sending “about 3 million” to centralized exchanges. The post links to a spreadsheet showing the STX balances at each exchange the hacker used to transfer funds. It shows that a total of $3.7 million is held at exchanges, whereas $9.6 million are held in wallets under the direct control of the attacker.List of CEXs holding exploited funds. Source: Alex LabsThe attacker withdrew the funds by taking control of a private key that provided access to one of the bridge’s “vaults.” However, “The smart contract code and infrastructure underlying ALEX were not compromised,” the team claimed.Related: Alex bridge on BNB Smart Chain drained of $4.3M after suspicious upgradeAlex Labs has offered a 10% bounty to the attacker and a promise not to prosecute if they return the other 90% of the stolen funds. They are also preparing a police report, which will be filed if the attacker does not agree to negotiate.Because there is a possibility that not all funds will be recovered, the team is “evaluating deployment of $ALEX reserves held by ALEX Lab Foundation.” These reserves may be used for a “treasury grant program” to compensate users who lost funds in the attack. A disproportionate amount of the exploited funds consists of STX tokens, so the team may also propose a Stacks network upgrade that will freeze the remaining funds and mint new tokens to be sent to victims.Upgrading a network to freeze an attacker’s coins is not completely unprecedented. It was done during the 2016 Ethereum DAO hack and after the PopcornSwap rug pull on the BNB Smart Chain. However, these upgrades are rarely approved. In the case of the PopcornSwap rug pull, the upgrade froze funds but did not reimburse investors.In its post, Alex Labs claimed that it continues to monitor the attacker’s addresses and has “multiple alarms” in an effort to prevent the funds from being cashed out.Alex is not the only Bitcoin layer-2 bridge that has been attacked recently. On May 17, the XLink bridge was also attacked, and $10 million was lost. In that case, a white-hat hacker managed to recover $4.3 million of the stolen funds. The XLink attack was almost identical to the one against Alex, as the attacker in both cases used a phishing technique to obtain the team’s private key, which was then used to make unauthorized withdrawals.
-
-
-
-
-
-
-
-
-----------------
-
-Crypto Biz: Galaxy, CoinShares Q1 results, ETFs on the blockchain, and more
-
-Spot Bitcoin exchange-traded fund (ETF) managers have released their first financial results since the crypto funds began trading. Galaxy Digital’s net income rose 40% in the first quarter, with management and performance fees reaching $17.8 million — a 113% increase from the previous quarter. CoinShares, which recently completed the acquisition of Valkyrie’s spot Bitcoin (BTC) ETF, posted a 216% revenue gain in Q1 to 19.5 million British pounds ($24.5 million). On the tokenization front, executives from Ripple and Stellar recently discussed the blending of payments and investments enabled by asset tokenization. Franklin Templeton’s CEO Jenny Johnson also forecasted that all ETFs and mutual funds could soon be on blockchains. This week’s Crypto Biz also looks at Polymarket’s $70 million funding raise and Antonio Juliano’s decision to step down as CEO of dYdX. CoinShares posts record revenue in Q1, backed by markets, Bitcoin ETFsEuropean asset manager CoinShares reported a significant performance boost in the first quarter of 2024, largely attributed to a recovering market in the period. The firm saw its revenue surge to 19.5 million pounds ($24.5 million), a 216% increase from the same period in 2023. Earnings before interest, taxes, depreciation, and amortization (EBITDA) also saw a substantial rise, reaching 34.2 million pounds ($43 million), up from 7 million pounds ($8.8 million) in the previous year, marking a fourfold increase and an EBITDA margin of 78%. Additionally, CoinShares completed the strategic acquisition of Valkyrie Funds on March 12, expanding its offerings with the rights to Valkyrie’s spot Bitcoin ETF and other crypto funds.Franklin Templeton CEO says all ETFs and mutual funds will be on blockchainFranklin Templeton CEO Jenny Johnson reiterated her support for blockchain in a recent Bloomberg interview. During a discussion over tokenization, Johnson said to believe that “ETF and mutual funds are all going to be on blockchain,” adding that the technology had demonstrated significant cost reductions compared to traditional accounting methods. She attributed this prediction to the “huge costs” associated with verifying data between disparate systems — a problem that blockchain was intentionally designed to solve. Polymarket raises $70 million from Vitalik Buterin, Founders FundPeter Thiel’s venture capital firm, Founders Fund, and Ethereum co-founder Vitalik Buterin have led a $70 million fundraising effort for Polymarket, a platform enabling betting on political events. According to Bloomberg, Polymarket successfully raised $70 million across two funding rounds as betting on the 2024 United States presidential elections gains momentum. The latest Series B Polymarket funding round was spearheaded by Founders Fund, raising $45 million. Polymarket has witnessed a surge in electoral betting, resulting in over $170 million in wagers placed on the upcoming U.S. elections, according to the platform’s website. Galaxy Digital’s revenue soars with mining, fees at record levelsGalaxy Digital experienced a robust first quarter in 2024, with its net income soaring to $422 million, marking a 40% growth from the previous quarter. The increase was bolstered by record-breaking revenues in both its mining operations and management fees. The company’s mining revenue hit a new high of $31.5 million, up 69% from the previous quarter, largely due to an expanded mining capacity that achieved a hash rate of 5.7 exahashes per second. The company mined 373 Bitcoin at an average cost of less than $19,500 each. On the asset management front, Galaxy also reported a significant rise in income, with management and performance fees reaching $17.8 million, a 113% increase from the previous quarter.Before you go: Antonio Juliano, the founder of the decentralized exchange dYdX, announced his decision to step down as CEO after leading the platform for seven years. Ivo Crnkovic-Rubsamen, who previously served as dYdX’s chief strategy officer, will now lead the company.Crypto Biz is your weekly pulse on the business behind blockchain and crypto, delivered directly to your inbox every Thursday.
-
-
-
-
-
-
-
-
-----------------
-
-Changpeng Zhao teases writing project ahead of reporting to prison
-
-The former CEO of cryptocurrency exchange Binance, Changpeng “CZ” Zhao, has suggested he plans to “write something” during his upcoming four-month incarceration.At an April 30 hearing, Judge Richard Jones sentenced Zhao to four months in prison. The former Binance CEO pleaded guilty to one felony charge for failing to maintain an effective Anti-Money Laundering program at the exchange. Zhao is expected to report to either the Camp at the Federal Correctional Institution Sheridan in Oregon or the Federal Detention Center SeaTac in Washington at a date that had not been determined at the time of publication.Before and after the sentencing hearing, CZ remained active on social media, hinting at his plans on X. The former Binance CEO launched a youth-focused crypto and blockchain education program called Giggle Academy. He also reached out to his 8.9 million X followers, hinting at suggestions on how to pass the time in prison.Source: Changpeng ZhaoZhao suggested he had “nothing else to do” but read books and wait until his reporting date. He pleaded guilty to the felony charge in November 2023 and was allowed to remain out of jail and travel within areas of the United States on a $175 million bond. He will likely continue to be free until the Probation or Pretrial Services Office notifies his legal team where and when he will be required to report.With an estimated net worth of $33 billion, CZ would be one of the wealthiest individuals to ever go to prison. Before sentencing, Zhao’s lawyers submitted declarations from experts suggesting that his wealth and status could pose a risk of theft and extortion. Related: Changpeng Zhao gets 4 months, Sam Bankman-Fried gets 25 years — Why?These factors could have contributed to Judge Jones not immediately ordering CZ behind bars. The Federal Bureau of Prisons may be weighing which facility could present the least risk of physical harm to Zhao during his four-month imprisonment — both FDC SeaTac and FCI Sheridan house violent offenders. “After sentencing, [...] presentence reports are utilized by the Bureau of Prisons to designate the institutions appropriate for offenders to serve their sentences, to select prison programs to help the offenders, and to develop case plans for their custody and eventual release,” states the Probation or Pretrial Services Office of the Western District of Washington’s website.Zhao already paid a $50 million penalty as part of a deal between Binance and U.S. authorities in November. The crypto exchange agreed to pay $4.3 billion to settle “civil regulatory enforcement actions,” but the matter did not resolve a lawsuit filed by the U.S. Securities and Exchange Commission.Magazine: ‘Less flashy’ Mashinsky set for less jail time than SBF: Inner City Press, X Hall of Flame
-
-
-
-
-
-
-
-----------------
-
-Gambling Cat (GAMBCAT) Will Skyrocket 14,000% Ahead of KuCoin Listing, While Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-Gambling Cat (GAMBCAT) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Gambling Cat (GAMBCAT), a new Solana memecoin that was launched today, is poised to explode over 14,000% in price in the coming days.
-
-
-
-
-This is because GAMBCAT has announced its first centralized exchange listing, which will be on KuCoin.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, Gambling Cat can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Gambling Cat could become the next viral memecoin.
-
-
-
-Gambling Cat launched with over $6,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
-
-
-
-To buy Gambling Cat on Raydium or Jupiter ahead of the KuCoin listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Gambling Cat by entering its contract address – B4BQTfBJ6uQYkzaZyQjTmH7k3c9gzXQ3FrPMPDstpYAn – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like GAMBCAT.
-
-
-                
-
-                
-
-----------------
-
-Nigerian Court Denies Bail To Binance Executive Accused Of $35M Laundering Charges | Bitcoinist.com
-
-
-								The world’s largest cryptocurrency exchange, Binance, has been embroiled in a complex legal battle with Nigerian authorities over allegations of money laundering, tax evasion, and currency speculation.
-Two senior Binance executives are at the center of the dispute: Tigran Gambaryan, the head of financial crime compliance, and Nadeem Anjarwalla, the regional manager for Binance in Africa. The Nigerian government has charged both men with a litany of financial crimes.
-Binance Embroiled In High-Stakes Legal Battle
-The legal saga began earlier this year when Gambaryan traveled to Nigeria to participate in talks with the government about Binance’s operations in the country. However, upon arrival, he was promptly arrested and incarcerated. 
-A Nigerian court has dealt another blow to Binance, refusing to grant Gambaryan bail as his money laundering trial begins.
-
-According to local media reports, Justice Emeka Nwite of the Federal High Court in Abuja cited Gambaryan’s flight risk as the primary reason for denying bail. 
-The prosecution argued that Gambaryan, who holds both American and Armenian citizenship, could easily flee the country if released. They also noted his colleague Anjarwalla’s escape from custody in March, which they claimed was suspicious.
-Nigeria Ramps Up Crackdown
-Binance’s legal troubles in Nigeria stem from a broader crackdown by the government on the cryptocurrency platform. Authorities have accused the exchange of facilitating over $26 billion in illicit funds transfers without proper oversight. 
-The Central Bank of Nigeria (CBN) has alleged that Binance engaged in tax evasion, currency speculation, and money laundering, totaling $35.4 million.
-Anjarwalla, who served as Binance’s regional manager for Africa, was also charged alongside Gambaryan. However, in March, he escaped from the custody of Nigeria’s National Security Adviser, Nuhu Ribadu. The Nigerian government traced him to Kenya, where local authorities reportedly arrested him.
-
-The legal battle between Binance and Nigeria highlights the growing regulatory scrutiny facing cryptocurrency exchanges globally. As digital assets become more mainstream, governments are increasingly increasing efforts to monitor and control the flow of funds through these platforms.
-For Binance, the stakes in this case are high. Conviction of its executives could result in hefty fines and potential jail time and further damage the exchange’s reputation and ability to operate in one of Africa’s largest economies. 
-The daily chart shows BNB’s sideways price action. Source: BNBUSD on TradingView.com
-Over the past three days, Binance’s native token, BNB, has been trading within a range of $570 to $583. This price movement comes as the broader cryptocurrency market appears to have regained its bullish momentum, with the largest digital assets showing signs of strength.
-Featured image from Shutterstock, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-Solana Takes The Crown: CoinGecko Ranks It The Best, Leaving Ethereum Behind In Key Metric
-
-
-																The race to achieve the fastest blockchain transaction processing speeds is heating up, Solana (SOL) is in the spotlight as a new report from crypto data aggregator CoinGecko reveals some surprising findings. 
-The study analyzes the real-world transaction per second (TPS) performance of a range of large blockchain networks, both Ethereum-based and non-Ethereum (ETH) Virtual Machine (EVM) protocols.
-Solana Emerges As The Undisputed Speed Champion
-According to the findings, Solana has proven to be the fastest among large blockchains, with its actual daily average transactions per second (TPS) reaching a record high of 1,504 on April 6th, 202. Notably, this figure makes Solana 46 times faster than Ethereum, the second-largest cryptocurrency by market capitalization.
-Furthermore, Solana’s TPS is more than 5 times faster than Polygonm (MATIC), which currently holds the highest TPS among Ethereum scaling solutions.
-
-	Related Reading
-
-
-
-Top 10 blockchains recording the highest TPS. Source: CoinGecko
-According to CoinGecko, this demonstrates the superior processing power of the non-EVM blockchain and its ability to handle a large influx of transactions, especially during periods of heightened market activity, such as the recent Memecoin mania, specifically within the Solana network.
-However, it’s important to note that despite Solana’s performance, the blockchain has only achieved 1.6% of its “theoretical maximum speed” of 65,000 TPS. This suggests that there is still significant room for improvement, and the network’s upcoming upgrades will be closely watched to see how quickly it can record even higher real TPS.
-Ethereum Scaling Solutions Lag Behind Non-EVM Blockchains
-The second-fastest blockchain in the study is another non-EVM protocol, Sui (SUI), which recorded its highest real TPS of 854 in July 2023 as the on-chain game Sui 8192 gained popularity. Other fast blockchains among the non-EVMs include The Open Network (TON) at 175 TPS and Near Protocol (NEAR) at 118 TPS.
-In contrast, the non-EVM blockchains that have recorded relatively lower real processing speeds are Aptos (49 TPS), Starknet (12 TPS), Bitcoin (11 TPS), and Thorchain (2 TPS). 
-Collectively, the 8 non-EVM large blockchains have an average peak TPS of 284, which is 3.9 times faster than the 17 largest EVM and EVM-compatible blockchains, which have an average of just 74 TPS.
-
-	Related Reading
-
-
-
-The EVM-compatible blockchain that has achieved the fastest real TPS is BNB Smart Chain (BSC), which recorded 378 TPS on December 7th, 2023, amid the surge in on-chain activity driven by the inscriptions craze. This performance places BSC as the fastest Ethereum-based blockchain, though it still lags behind the top non-EVM protocols.
-Similarly, the surge driven by inscriptions allowed Polygon to record 190 TPS on November 16th, 2023, making it the fastest among the largest Ethereum scaling solutions and 8.4 times faster than Ethereum itself. However, the leading non-EVM blockchains still outpacing even Polygon’s impressive speed.
-The 1-D chart shows SOL’s price trending upwards. Source: SOLUSD on TradingView.com
-At press time, SOL was trading at $168, up nearly 7% in the last 24 hours and registering an impressive 720% gain year-to-date. 
-Featured image from DALL-E, chart from TradingView.com 
-																								
-															
-
-
-						
-
-----------------
-
 Base records 212% increase in perpetual trading volumes - Crypto Briefing
 
 
@@ -11457,3 +11290,241 @@ Mike Novogratz’s insights provide a nuanced perspective on Bitcoin’s potenti
         
 
         
+
+----------------
+
+Ripple records a strong Q1: What does the future hold for XRP? - AMBCrypto
+
+
+
+Ripple made massive progress in Q1 in many areas.
+Development activity on the network fell.
+
+Ripple [XRP] saw massive fluctuations in terms of price over the last week. However, the progress of Ripple in the first quarter of 2024 could lay the foundation for XRP’s growth in the long run.
+Looking at Q1
+According to Ripple’s Q1 2024 XRP Markets Report, the number of transactions on the XRP Ledger (XRPL) more than doubled from the fourth quarter of 2023 to the end of the first quarter of 2024, while the average transaction cost almost halved.
+Published on the 17th of May, the report reveals that XRPL on-chain transaction activity surged by 108% during Q1 of 2024, reaching approximately 251.39 million transactions, compared to 121.03 million in Q4 of 2023.
+Furthermore, the average cost per transaction dropped by 45% to approximately $0.000856.
+ 
+Throughout the first quarter, the distribution of XRP trading volume among cryptocurrency exchanges remained stable, with Binance, Bybit, and Upbit collectively accounting for over 70% of the total traded volume.
+Source: Ripple
+The report also notes a shift in trading dynamics, as the proportion of volume traded via fiat pairs decreased from 15% in Q4 to 11% in Q1, with most XRP trading now occurring against Tether.
+Legal battles
+Addressing the ongoing lawsuit with the United States Securities and Exchange Commission (SEC) filed in December 2020, Ripple responded to the SEC’s request for $2 billion in remedies on the 22nd of April.
+Ripple argued that the law doesn’t permit the SEC to demand disgorgement or interest on disgorgement unless they can prove someone was harmed.
+Ripple stated,
+“In terms of next steps, both parties will wait for the Judge to make a determination on the final remedies – likely in the coming months.”
+Development activity
+In terms of overall development, it was observed that the number of core developers on Ripple’s team had increased. However, the number of code commits being made by these developers had fallen significantly.
+This implied that the overall development activity on the network had fallen.
+
+Read Ripple’s [XRP] Price Prediction 2024-25
+
+A declining development activity could result in the slowing down of upgrades and updates on the network.
+Source: token terminal
+In terms of price, XRP was trading at $0.5149 reflecting a 1.66% decline in the last 24 hours.
+Source: Token Terminal
+
+
+
+
+
+
+----------------
+
+Is Ethereum Foundation Connected to EigenLabs? | Cryptopolitan
+
+Recent developments have revealed that three staff members from the Ethereum Foundation are formally connected to EigenLayer entities, sparking discussions within the community. The revelation was made by renowned Ethereum researcher Justin Drake as he disclosed his own involvement with EigenLabs.Justin Drake recently became an advisor to the EigenFoundation, a decision accompanied by a huge financial incentive involving EIGEN tokens potentially valued in the millions, vested over three years. This arrangement underscores the significant financial stakes involved, as Ðrake noted, “We’re talking millions of dollars of tokens vesting over three years.”Researcher Gives Back to EthereumDespite the lucrative deal, Ðrake pledged to channel all proceeds from his advisory role back into the Ethereum ecosystem, in the form of investments or donations. This decision aims to reinforce his commitment to the community, maintaining a balance between personal gain and collective benefit. In his words:I pledge to reinject all advisorship proceeds towards worthy projects within the Ethereum ecosystem, either as investments or donations.He also mentioned his readiness to step back if the direction of EigenLayer diverges from the interests of Ethereum, reflecting his cautious approach to maintaining ethical integrity.Exploring the Advisory ConditionsThe decision to accept the advisory role was not taken lightly; Ðrake mentioned he had turned down over a hundred similar offers before. His engagement began only after a year-long discussion, emphasizing the careful consideration he gave to this role.Also Read: Vitalik Buterin Shares Plans to Improve Ethereum’s DecentralizationThe researcher’s involvement is strictly regulated, focusing on mitigating risks associated with restaking technologies, which is a critical area for Ethereum’s future.Despite his new role at EigenFoundation, Ðrake said he intends to maintain a critical perspective on EigenLayer’s developments. He plans to steer the organization toward practices that safeguard the Ethereum network, particularly against risks that could undermine its decentralized nature, such as the erosion of solo validators.Researcher Pledges Integrity Amidst Formal TiesThe relationship between Ethereum Foundation staff and EigenLabs is not widespread, involving only three of the over 300 members, according to Drake. This limited involvement has, however, raised questions within the community about the potential for undue influence.Ðrake reassures, “EFers are some of the highest integrity people I know,” acknowledging the concerns but defending the ethical standards of his colleagues. His advisory role, while significant, is framed as an independent activity separate from his responsibilities at the Ethereum Foundation.Related: Why Is Ethereum Still Performing Badly?I do acknowledge that accepting the EigenFoundation advisorship inevitably comes with downside risk beyond my personal reputation. I hope the above shows that it is at least a considered move with calculated risks.
+Justin DrakeTurning his attention back to Ethereum staking, Drake said he sees restaking risks as either ‘chronic,’ like the erosion of solo validators, or ‘acute,’ such as catastrophic infrastructure failures. His strategies include decoupling execution proposing from validation, capping economic stakes to limit risk, and introducing intersubjective slashing with EIGEN tokens to absorb system shocks.Cryptopolitan reporting by Jai Hamid
+
+
+----------------
+
+Play the Sandbox Events and Win From a Reward Pool of 100,000 $SAND | Cryptopolitan
+
+The Sandbox is offering rewards from a pool of 100,000 $SAND tokens to players participating in its ongoing events, including Rabbids: Music vs Love, The Voice Coach Battle, Dystopian Universe, and Ragnarok.Also read: 300K $SAND Reward Pool Is Available in The Sandbox EventsThe Sandbox is offering new P2E events with a total reward pool of over 100,000 $SAND and additional items like in-game assets, NFTs, and more. Rewards will be distributed among players who manage to complete the event quests and reach a certain level of EP (event progress). Here’s the schedule for these events:Rabbids: Music vs Love – Ends on 3rd JuneThe Voice Coach Battle – Ends on 7th JuneDystopian Universe – Ends on 15th JuneRagnarok – Ends on 4th JuneRabbids: Music vs Love Has the Largest Reward Pool of 66376.50 $SANDRabbids: Music vs Love (Source: The Sandbox Events)The Rabbids will pit two teams against each other: Music and Love. Players can join either of the teams by purchasing a burnable NFT corresponding to a heart balloon (Love) or a mic (Music). After that, the players will transform their avatars to represent the chosen team and get others to join in.The team with the highest number of participants will win the event when the timer runs out on June 3rd. After that, the reward pool of up to 60,000 $SAND will be distributed among everyone. However, the total rewards directly correlate with the number of avatars transformed. The higher the transformations, the bigger the earnings!Other rewards that players can earn by participating in this event include:The winning team will get to decide the theme of the new Rabbids Avatar Collection.A chance to win Rabbids NFT rocket – Only for players belonging to the winning team.A chance to win Rabbids NFT Totem – Only for players belonging to the losing team.Rabbits NFT dragon – Only owners of Rabbids Lunar New Year avatar.Captain Lazerhawk NFT Screen – Only for owners of Captain Laserhawk avatar.The Voice Coach Battle Has Rewards of 15,000 $SAND With Live Show Tickets and MerchandiseThe Voice Coach Battle (Source: The Sandbox Events)To participate in this event, players need to watch The Voice season 25, currently airing on NBC, and pick their favorite contestant. After that, they’ll enter ‘The Voice Coach Battle’ experience in The Sandbox and cast their vote for their favorite performer.Also read: Win $SAND and NFTs in ‘The Voice’ Experience in The SandboxTo win in this experience, players need to get their votes right and predict the winners of the live show. Only a single right guess is needed to win one exclusive NFT from The Voice. They can vote each week for their next favorite performer to win more NFTs.Those who complete at least one quest will receive digital memorabilia. On the other hand, players who manage to finish all quests from the event will also be eligible to receive a split from a shared pool of 15,000 $SAND. With that, players from certain countries will also get a chance to earn tickets for the live show.However, to complete the event, a KYC-verified account and 18 EP (event progress) are needed until the event ends on June 7th.Dystopian Universe Is Offering Exclusive NFT Rewards With a Pool of 15,000 $SANDDystopian Universe (Source: The Sandbox Events)The Dystopian Universe gives players the option to turn their avatar into KENSHIRO or a Wasteland Bandit. This requires purchasing a burnable NFT, which allows the player to transform the avatar. After transformation, players will be required to participate in the ‘Fist of the North Star’ experiences and complete quests to earn at least 21 EP till 15th June.Participants who purchase the Death Star or North Star will get rewards from a reserved pool of 60,000 $SAND tokens. On the other hand, owners of the Dystopian Universe NFT Collection will receive gameplay rewards from a pool of 15,000 $SAND tokens.However, the individual reward per user is capped at 5% of the total pool, and the residents of Japan are not eligible for $SAND gameplay rewards. Other rewards include:Hidebu Death Mask – For ‘Fist of North Star’ avatar ownersBlue Metal Shoulders – For the owners of Fist of the North Star NFT or Dystopian Universe NFTScout goggles NFT – For the owners of Death Star or North Star.Ragnarok Offers Rewards From a Shared Pool of 15,000 $SAND for NFT OwnersRagnarok (Source: The Sandbox Events)Ragnarok puts players in the fictional city of Geffen, where they will engage with various experiences and complete quests to earn $SAND from a shared reward pool of 15,000 tokens.However, this requires the participants to own an NFT from the Ragnarok (Polygon) collection. The players will also be required to complete a valid KYC, with the NFT present in their associated wallet, until the event ends on 4th June.Cryptopolitan reporting by Shummas Humayun
+
+
+----------------
+
+Watch Out: 25 Altcoins Have Massive Token Unlocks in the New Week - Here's the Day-by-Day, Hour-by-Hour List - Bitcoin Sistemi
+
+The cryptocurrency market is about to close the week in solid territory with the positive economic data from the USA.
+In addition, we will witness large amounts of token unlocks in many altcoins in the new week.
+
+
+Here is the altcoin unlock calendar that we have prepared specifically for you as Bitcoinsistemi.com.
+(All times are stated in UTC+3 Türkiye time)
+
+
+
+
+
+Braintrust (BTRST)
+Market Value: $180.94 million
+Amount of Tokens Unlocked: $2.71 million (1.50% of market cap)
+
+
+Date: 20 May 2024, 03:00
+DexCheck (DCK)
+Market Value: $17.98 million
+
+
+
+
+
+Amount of Tokens Unlocked: $2.38 million (13.25% of market cap)
+Date: 20 May 2024, 03:00
+AltLayer (ALT)
+Market Value: $332.20 million
+
+Amount of Tokens Unlocked: $1.04 million (0.31% of market cap)
+Date: 20 May 2024, 09:00
+Aevo (AEVO)
+Market Value: $89.00 million
+
+
+
+
+
+Amount of Tokens Unlocked: $4.53 million (5.09% of market cap)
+Date: 20 May 2024, 09:00
+Sei (SEI)
+Market Value: $946.26 million
+Amount of Tokens Unlocked: $1.22 million (0.13% of market cap)
+
+
+
+
+
+Date: 20 May 2024, 18:00
+Pyth Network (PYTH)
+Market Value: $571.80 million
+Amount of Tokens Unlocked: $809.09 million (141.65% of market cap)
+Date: 20 May 2024, 18:00
+
+
+
+
+
+bitsCrunch (BCUT)
+Market Value: $10.64 million
+Amount of Tokens Unlocked: $2.13 million (19.97% of market cap)
+Date: 20 May 2024, 18:00
+
+
+
+
+
+Iron Fish (IRON)
+Market Value: $54.33 million
+Amount of Tokens Unlocked: $1.69 million (3.12% of market cap)
+Date: 20 May 2024, 22:00
+
+
+
+
+
+Guild of Guardians (GOG)
+Market Value: $116.40 million
+Amount of Tokens Unlocked: $1.41 million (1.21% of market cap)
+Date: 21 May 2024, 03:00
+
+
+
+
+
+XPLA (XPLA)
+Market Value: $81.93 million
+Amount of Tokens Unlocked: $2.69 million (3.28% of market cap)
+Date: 21 May 2024, 03:00
+Mintlayer (ML)
+Market Value: $22.26 million
+
+
+
+
+
+Amount of Tokens Unlocked: $5.89 million (26.19% of market cap)
+Date: 21 May 2024, 03:00
+Forgotten Playland (FP)
+Market Value: $8.51 million
+Amount of Tokens Unlocked: $3.84 million (45.08% of market cap)
+Date: 21 May 2024, 15:00
+
+Covalent (CQT)
+Market Value: $129.23 million
+Amount of Tokens Unlocked: $1.83 million (1.42% of market cap)
+Date: 22 May 2024, 08:00
+Algorand (ALGO)
+Market Value: $1.43 billion
+Amount of Tokens Unlocked: $5.86 million (0.41% of market cap)
+Date: 22 May 2024, 09:00
+Bonfida (FIDA)
+Market Value: $34.62 million
+Amount of Tokens Unlocked: $4.97 million (14.35% of market cap)
+Date: 23 May 2024, 03:00
+Moonwell (WELL)
+Market Value: $68.24 million
+Amount of Tokens Unlocked: $3.35 million (4.90% of market cap)
+Date: 23 May 2024, 09:00
+Coin98 (C98)
+Market Value: $181.85 million
+Amount of Tokens Unlocked: $4.68 million (2.58% of market cap)
+Date: 23 May 2024, 19:00
+Chainflip (FLIP)
+Market Value: $45.55 million
+Amount of Tokens Unlocked: $3.08 million (6.76% of market cap)
+Date: 23 May 2024, 21:00
+Space ID
+Market Value: $399.26 million
+Amount of Tokens Unlocked: $13.79 million (3.46% of market cap)
+Date: 23 May 2024, 23:00
+Ribbon Finance (RBN)
+Market Value: $435.58 million
+Amount of Tokens Unlocked: $17.39 million (3.99% of market cap)
+Date: 24 May 2024, 03:00
+Mask Network (MASK)
+Market Value: $310.83 million
+Amount of Tokens Unlocked: $2.07 million (0.67% of market cap)
+Date: 24 May 2024, 11:00
+H2O Dao (H2O)
+Market Value: $165.20 million
+Amount of Tokens Unlocked: $1.72 million (1.04% of market cap)
+Date: 25 May 2024, 03:00
+
+Pintu Token (PTU)
+Market Value: $7.26 million
+Amount of Tokens Unlocked: $1.55 million (21.27% of market cap)
+Date: 25 May 2024, 03:00
+GateToken (GT)
+Market Value: $731.83 million
+Amount of Tokens Unlocked: $52.28 million (7.15% of market cap)
+Date: 26 May 2024, 03:00
+Dogechain(DC)
+Market Value: $15.33 million
+Amount of Tokens Unlocked: $1.75 million (11.36% of market cap)
+Date: 26 May 2024, 03:00
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Micheal Saylor Says Stop The Bleeding #bitcoin #bitcoinnews #shorts - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
