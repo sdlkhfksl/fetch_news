@@ -1,188 +1,3 @@
-Don't Buy That Hot New Token | Bankless
-
-
-Don’t Ape That. Prolific pseudonymous crypto trader “Cobie” has been largely absent from industry discourse in recent months but returned yesterday, publishing a lengthy screed to his blog discussing the issues and misconceptions surrounding new token launches. Why does Cobie think new tokens are going down-only from here?Despite Cobie’s hopes that crypto market participants would have become more sophisticated when investing in low-float, high-FDV tokens (crypto assets that have only a small percentage of their total supply available for trading), retail capital continues to blindly flock to these tokens, with traders seemingly forsaking the lessons they should have learned from the damage wrought by unlocks during the 2021-2022 bear market.Crypto valuations have swelled from the industry’s nascent days alongside increasing demand for the technology and proven returns for blue chip assets like BTC and ETH, but a glaring divergence has formed between the returns available to public and private investors.Why This Cycle Is Cooked on BanklessThe ‘points’ meta isn’t sustainable.Ethereum ICO participant returns are only 1.5x better off than those who purchased at the lowest publicly traded price, but investors in Solana’s seed rounds have enjoyed 10x higher returns than those available on public markets…Optimism’s initial private investors bagged 30x higher returns than public market participants. Meanwhile, practically every public market purchaser of STARK is underwater as seed investors flaunt 138x paper gains!Source: Cobie's SubstackPurchasing Solana at a $5B FDV in December 2022 was arguably one of the best liquid token plays of the post-COVID era, but this depressed valuation was only achieved through the excoriation of FTX; increasingly, it appears that crypto alpha has come to be entirely captured by private market participants.Although the presence of a low float itself is not necessarily problematic, the reduced capital required to pin such tokens at high valuations leaves them liable to be easily manipulated and distorted by bad actors. As uninformed token buyers purchase low-float tokens on the public market with the expectation of future profit, they are blind to the fact that price discovery has already taken place in a private market that is either rigged, delusional, or both.Prior to the public market launch of tokens, valuations are not yet in price discovery mode, instead reaching the maximum price private market investors are willing to pay. Once tokens begin trading in public markets, dislocations can occur between the prices uneducated public market-restricted retail buyers are willing to pay and the alternative prices sophisticated investors can pay through private markets.Cobie claims that it's currently impossible to “be early” to contemporary token launches when all of the near-term upside has already been captured by private market participants and advises investors to simply opt out of playing the games insiders use to inflate their FDVs by simply not purchasing new tokens, even if they believe the project is good.While it was Cobie’s Substack article that turbocharged the debate on low float, high FDV tokens, Dragonfly Capital managing partner Haseeb Qureshi also addressed the topic via long-form Twitter post.
- In his analysis, Qureshi addresses three of the leading hypotheses for why these tokens are dumping: insiders dumping on retail, retail is rage quitting to buy memecoins, and there is too little supply to have meaningful price discovery.After providing evidence to reject each of these explanations, Qureshi comes to the conclusion that there is simply nothing to do, as the free market will eventually force valuations to come back into balance with fundamentals.Crypto’s alt markets went into risk-off mode in the middle of April, seemingly on fears of elevating Middle Eastern conflict, a fact clearly evidenced through the steep declines experienced by many of crypto’s newest tokens since this ominous turning point.FOMO is a powerful force that compels investors to ape the newest tokens with the shiniest narratives, but unfortunately, it appears that demand for these assets dried up last month and prices must further digest inevitable unlocks before alts can yet again outperform.Source: TradingView 
-
-
-
-----------------
-
-$ADA: The Centralization Debate Surrounding Cardano’s Genesis Keys | Cryptoglobe
-
-
-                                
-Recently, a heated debate has emerged within the Cardano community concerning the centralization implications of its “genesis keys.” Earlier today, Justin Bons, Founder and CIO of Cyber Capital, sparked the discussion with a series of posts on social media platform X, where he highlighted the centralized control these keys afford to Input Output Global (IOG), one of the three organizations responsible for Cardano’s research and development.
-
-
-
-Bons’ Critique of Cardano’s Centralization
-
-
-
-Bons’ thread began with a stark assertion that Cardano (ADA) possesses “genesis keys,” a multi-signature setup that controls all protocol rules. He argued that ADA’s claim of being the “most decentralized” chain is contradicted by this centralized feature, as IOG controls five out of seven keys, allowing them to unilaterally change the protocol. Bons emphasized the irony in ADA’s claims of decentralization.
-
-
-
-In his second post, Bons elaborated on the power these keys grant, allowing code changes without the need for a hard fork. He warned that IOG could potentially halt the chain, alter emission schedules, or censor transactions, which he described as an unprecedented level of centralized control for a Layer 1 blockchain.
-
-
-
-Bons traced the origin of these keys to the Shelley update in 2020. Initially, IOG did not have absolute control; however, one of the other key holders, the Cardano Foundation (CF), delegated their control to IOG, granting them full authority. Bons criticized this design, arguing that even requiring IOG to gain the support of only one of two other parties was insufficiently decentralized.
-
-
-
-While acknowledging Cardano’s efforts towards on-chain governance with the Voltaire upgrade, Bons noted that the genesis keys still render ADA centralized at present. He concluded by urging the community to “verify, not trust,” highlighting the importance of scrutinizing such centralized mechanisms.
-
-
-
-Cardano YODA’s Response
-
-
-
-Cardano influencer “Cardano YODA” responded to Bons with a detailed clarification, aiming to correct what he saw as misconceptions. He explained that fundamental protocol changes in Cardano must first be accepted by full node operators who install the new version of the client. Genesis keys, he noted, are merely a tool to trigger a hard fork, and cannot initiate changes without broad community support.
-
-
-
-YODA pointed out that the genesis keys are used to adjust protocol parameters such as staking rewards or block size, always with community approval. He cited an example where a vote preceded the lowering of the fixed reward minimum from 340 ADA to 170 ADA, emphasizing transparency in the process.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-He defended the genesis keys as a flexible and smart solution, arguing that they allow for necessary adjustments without the need for extensive new code development and testing. Furthermore, YODA asserted that genesis keys cannot censor transactions, steal user funds, or halt consensus, as these are protected by users’ private keys.
-
-
-
-YODA concluded by noting that Cardano’s governance will soon transition to the community, with genesis keys losing their functionality. Roles currently held by IOG, CF, and Emurgo will be replaced by decentralized representatives (DReps), enabling more distributed decision-making.
-
-
-
-Bons’ Rebuttal
-
-
-
-In his response, Bons expressed appreciation for YODA’s detailed explanation but maintained his stance on the centralization issue. He acknowledged that validators must install new versions of the client but pointed out that most blockchains set a fork to activate at a specific block height, unlike Cardano’s centralized multi-signature trigger.
-
-
-
-Bons reiterated that while he never claimed genesis keys could steal user funds, they do have the potential to set ADA’s capacity to zero, effectively censoring all usage. He welcomed the move towards decentralization and expressed eagerness to analyze ADA’s on-chain governance once fully implemented.
-
-
-
-The Broader Implications
-
-
-
-YODA replied by comparing Cardano’s hard fork process to Bitcoin’s, noting similarities in how changes are implemented and activated. He argued that the real measure of decentralization lies in the number of operators making decisions. While Bitcoin’s consensus can be influenced by a few dominant pools, Cardano involves hundreds of operators and stakers, which he believes is more indicative of decentralization.
-
-
-
-This debate underscores a critical issue in the blockchain community: the balance between flexibility and decentralization. While genesis keys offer a practical solution for protocol adjustments, their centralized nature raises concerns. Cardano’s commitment to transitioning towards a more decentralized governance model is a positive step, but the community will need to remain vigilant to ensure these changes promote true decentralization.
-
-
-
-
-
-
-
-
-
-
-
-Featured Image via Unsplash
-
-                            
-                        
-
-----------------
-
-Ethereum Soars As ETF Analysts Increase Odds for ETH ETF Approval To 75% - The Defiant
-
-Bloomberg analyst Eric Balchunas said he “heard chatter” the SEC could be reversing their stance.
-Two of the industry’s top ETF analysts have increased the likelihood of a spot Ethereum ETF approval to 75% from 25% as the Securities and Exchange Commission (SEC) approaches its May 23 deadline to respond to the first applications.Blackrock and Fidelity are the first to receive a response from the SEC.According to Bloomberg analysts Eric Balchunas and Jeff Seyffart, the increase is due to Balchunas “hearing chatter this afternoon that the SEC could do a 180.” He said ETF filings have become increasingly a political issue.Ethereum soared by more than 12% to $3,428 as speculation mounts. The token is approaching the $3,500 mark for the first time since early April. ETH Price - CoinGeckoMeanwhile, Grayscale’s Ethereum ETF fund has spiked even more, flying 23% now trading for $28.80. But ETH isn’t alone in its price action, and has sent the entire crypto market flying. Bitcoin jumped 5% as it approaches the $70,000 mark.After the spot Bitcoin ETFs took nearly ten years to get approved, analysts remained mostly bearish that the Ethereum ETF could take a more expedited route. But that appears to have changed, and has caught most off guard, including Balchunas and his colleague Seyffart.“Now everyone is scrambling (like us, everyone else assumed they’d be denied),” he posted on X, adding that they have capped the likelihood at 75% pending more information, and updates on filings.Several of the world’s largest asset managers have filed for a spot Ethereum ETF. The latest was $1.6 trillion fund Franklin Templeton, who joined $4.6 trillion Fidelity which had recently added ETH staking to its filing.
-
-----------------
-
-Bitcoin is rapidly heading towards $70k
-
-A month after its ‘halving’ and in the midst of Bitcoin Pizza Day this week, the leading cryptocurrency seems to be in the mood for celebration. Spirit Airlines drops change and cancellation feesBitcoin was trading around $68,000 on Monday, which was up 3.4% in the last 24 hours and over 9% in the past week. Bitcoin’s all-time high is $73,835, which it reached on March 14, 2024.Ether, the second-largest cryptocurrency by market cap, followed suit, hovering around $3,100, with a 3% gain. Solana, also known as ‘ethereum-killer,’ saw more than a 6% jump Monday, to $180, meaning it now has jumped over 21% in a week. Top memecoins Dogecoin and Shiba Inu saw modest jumps of over 2% each. Overall, the global cryptocurrency market was up nearly 3% on Monday, standing at $2.47 trillion, according to CoinMarketCap.The surge in the crypto market is primarily driven by macroeconomic factors, such as the ease in the inflation rate. Meanwhile, gold hit a record high on Monday, causing analysts to speculate about how it reached the new peak and whether Bitcoin will surpass its all-time high mark.Possibly, the answer lies in the mining of metals and cryptocurrencies, said Neil Roarty, an analyst at investment platform Stocklytics.“The cost of extracting gold from the ground has been rising steadily due to various factors, including disrupted supply chains and Russia’s invasion of Ukraine,” he said. “Meanwhile, Bitcoin’s recent halving event reduced the rewards Bitcoin miners receive by 50% in April. “With political uncertainty and the promise of falling interest rates likely to sustain demand for both categories, the rising cost of supply should give the bulls of both camps reason to be optimistic.”In addition, spot Bitcoin ETFs have been performing well the past few days. According to industry tracker Farside, investors have been putting money into the various spot Bitcoin ETFs since May 15. Even Grayscale’s GBTC, which was in the red for months, was also receiving funds from investors.Since May 1, BlackRock’s iShares Bitcoin Trust, or IBIT, has seen an inflow of $15 billion, followed by Fidelity’s FBTC with $8.4 billion, ARK 21Shares’s Bitcoin ETF ARK with $2.4 billion, and Bitwise’s BITB with $1.8 billion, per Farside.
-
-----------------
-
-Bitcoin Price Hits $70,000 as Crypto Liquidations Top $235 Million - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsBitcoin has passed the $70,000 mark for the first time in more than a month, since April 12. The price of the biggest digital asset is now at $70,225 per coin, data from CoinGecko shows, jumping 6% in 24 hours. And crypto liquidations are surging as a result, with short positions dominating the carnage.The asset's rise comes as investors again flood the newly approved spot Bitcoin exchange-traded funds (ETFs) with money following weeks of outflows. Data on Monday showed that nearly $1 billion hit the new funds, which give investors exposure to the biggest digital asset.The flood of investment comes after the U.S. Bureau of Labor Statistics last week showed that inflation wasn't as high as expected in April in a report.People invest in assets like Bitcoin if inflation is low, because it means the Federal Reserve will be more likely to cut interest rates—which stand at a 23-year high.The cryptocurrency's surge today means that most other coins and tokens are shooting up in price. Traders betting on the price of the digital assets going down are therefore having their positions liquidated: in the past 24 hours, over $235 million in positions have been closed, CoinGlass data shows.Some $63 million of that number is in Bitcoin short positions alone, part of $173 million in total crypto shorts liquidated over the past 24 hours.Bitcoin in March touched a new all-time high of $73,737. It is now just 5% below that level. The coin's run appears to be mostly due to the new Bitcoin ETFs, which trade on traditional stock exchanges and allow investors to buy shares which track the price of the asset.However, there may also be residual effects from the sudden price spike that Ethereum also just experienced on Monday afternoon, amid fresh speculation from analysts that an SEC approval of spot Ethereum ETFs is likely to happen this week.Edited by Andrew HaywardDisclaimerThe views and opinions expressed by the author are for informational purposes only and do not constitute financial, investment, or other advice.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Bitcoin Smashes $70K, Ethereum Pumps 12% On ETF Approval Bombshell: 'Odds Of Approval 75%,' Tweets ETF Analyst - Benzinga
-
-Cryptocurrency markets are surging on strong Spot Bitcoin ETF weekly inflows and a bombshell development that spot Ethereum ETFs may have a good chance of being approved after all on Thursday.What Happened: Major cryptocurrencies are trading higher at the time of writing.Prices as of 4 p.m. Eastern Time:CryptocurrencyPriceGains +/-Bitcoin BTC/USD$70,115.06+5.9%Ethereum ETH/USD$3,443.39 +11.9%Solana SOL/USD$187.19+10.2%Dogecoin DOGE/USD$0.1576+5.8%Shiba Inu SHIB/USD$0.00002508+5.4%Bloomberg senior ETF analysts Eric Balchunas and James Seyffart sent markets into a frenzy after updating their ETF approval odds from 25% to 75%. Balchunas attributes the pivot to “chatter” that the Securities and Exchange Commission “could be doing a 180,” for potentially political reasons.Notable Statistics:
-Coinglass data indicates Bitcoin open interest at $36.6 billion, an increase of 5.4% in a single day, the highest level in more than a month.
-
-
-
-IntoTheBlock data notes a 1.8% increase in large transaction volume and a 2.7% increase in daily active addresses. A 104.8% surge was seen in exchange net flows.
-
-
-
-A solid spot bid for Bitcoin is coming from Coinbase today, indicating the possibility of another day of inflows from the Spot Bitcoin ETFs.
-
-
-
-Bitcoin exchange reserves dropped to an all-time low of 1.7 million indicating an incoming supply shock.
-Notable Developments:Top Gainers:CryptocurrencyPriceGains +/-Pendle PENDLE/USD$5.92+25.6%Pyth Network PYTH/USD$0.4596+21.6%Beam BEAM/USD$0.02927+18.6%Also Read: Bitcoin Fear And Greed Index Turns Bullish: 10x Research Highlights Key Trade StrategyAnalyst Notes: Cryptocurrency traders and analysts are bullish following the new developments:Part-time researcher and crypto trader Bitcoin Ape notes the historic pattern that most market cycles follow and the current bull cycle "looks like it will be imitating a pattern from the last one."He writes that "the current consolidation is setting the stage for a run to another ATH before the market peaks." Additionally, as many altcoins have not yet made a new peak and so it is "unlikely that we have seen the market top yet."Bitcoin technical analyst CryptoCon predicts that Bitcoin is still on track for a layer 7 price target of $149,000 by the end of the year, while the more conservative layer 6 has a target of $108,000 by that time, which is the layer that marked the 2013 cycle top.What's Next: The influence of Bitcoin as an institutional asset class is expected to be thoroughly explored at Benzinga's upcoming Future of Digital Assets event on Nov. 19.Read Next: Bitcoin Is Working Its Way Towards This ‘Liquidation Zone’ But There Is One Danger, Trader WarnsImage: ShutterstockMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Crypto Experts Invest in This New Solana Meme Coin - Why?
-
-
-                        
-                            Crypto Experts Invest in New Solana Meme Coin as Crypto Markets Rally – Time to Buy?                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 20, 2024 17:53 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-Crypto Experts Invest in New Solana Meme Coin as Crypto Markets Rally – Time to Buy? / Source: Cryptonews
-                        Crypto experts are flocking to invest funds in an exciting new Solana meme coin Sealana (SEAL) as the crypto market rally accelerates on Monday in wake of rising hopes for the SEC to approve spot Ethereum ETFs this week.Ether (ETH) jumped 15% on Monday to the $3,500s as analysts at Bloomberg upped their expectations for ETF approval.Prior to today, almost no one expected spot Ethereum ETFs to gain approval this week.If approval does come, expect a surge in risk-taking activity across crypto markets.Major cryptos such as Bitcoin, Ether and Solana could retest yearly highs and meme coins could pop.But rather than jumping into already well-established meme coins, crypto experts are hunting for smaller, newer gems that might 100x.An exciting new Solana meme coin called Sealana (SEAL) has been making a splash, and could be a great bet.New Solana Meme Coin Sealana (SEAL) – Best Meme Coin Presale Right Now?
-South Park-themed Seal cartoon character Sealana has been making waves in meme coin trading circles since launching its presale.The fun new Solana meme coin features an overweight, Solana meme coin trading degen seal called Sealana.The lovable seal has already been able to attract more than $2.1 million in funds from avid investors.VIDEOThat’s no surprise when you look at the great engagement Sealana has been getting on socials.Sealana’s marketing team are great at keeping X users entertained with regular whitty and relevant posts.Sealana has already garnered close to 5,000 X followers, as well as close to 5,000 on Telegram.Sealana’s savvy marketing and presale success is reminiscent of the recently launched Solana meme coin Slothana (SLOTH).Slothana raised over $15 million in presale but has since pumped to a $80 million market cap, as per DEXTools.There are rumors that the teams behind Sealana and Slothana teams are in some way related.And early demand/hype suggests Sealana could be about to follow Slothana’s footsteps.VIDEOMeme coin traders bet get moving quick. The Sealana presale could sell out quick.And if it can Sealana can quickly 5x like Slothana, it could be the best meme coin presale right now.Investors can bag their SEAL by connecting their web3 wallet on Sealana’s official website with SOL, ETH, USDT or USDC.Non-web3/crypto-savvy investors can also get involved, with Sealana also available for purchase via card.Buy Sealana Here                                                    
-                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
-                        
-                        
-                    
-
-                    
-
-----------------
-
 Alleged Owner of Darknet Narcotics Bazaar ‘Incognito Market’ Arrested in New York
 
 Prosecutors say Rui-Siang Lin, 23, operated Incognito Market under the pseudonym “Pharoah” and oversaw all of its operations, including employees, vendors and customers, and had “ultimate decision-making authority over every aspect of the multimillion-dollar operation” from its formation in October 2020 to its shutdown in March this year.
@@ -9140,3 +8955,235 @@ For those of you who are coming to Consensus 2024 in Austin, Texas this May 28 �
 [no-title]
 
 Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Dogecoin Forms Bullish Triangle Pattern, Analyst Reveals The Next Target | Bitcoinist.com
+
+
+								Dogecoin is currently seeing reasonable upside following the Bitcoin recovery above $71,000. This has sent the whole crypto market into a state of euphoria, and the DOGE price has crossed the $0.16 resistance while at it. This bullish trend is expected to continue, as one analyst points out that Dogecoin has formed a bullish triangle pattern.
+Dogecoin Triangle Pattern Points To More Upside
+In a TradingView post, crypto analyst Lingrid pointed out an interesting formation on the Dogecoin chart. According to the analyst, the meme coin has successfully formed a triangle pattern, which has been historically bullish for the price.
+
+Explaining how this came to be, the crypto analyst explained that the market has been consolidating below the upper border of the triangle. Now, this triangle pattern often leads to a price squeeze, which is very bullish for its price.
+Lingrid identified a range zone for Dogecoin just above $0.15, which was important to the formation of the triangle. This is because the appearance of a range zone suggests that accumulation is going on and it is time for the price to begin to move. Sometimes, this can be either bearish or bullish, but as the crypto analyst points out, with the “consolidating just below the upper border of the triangle,” this time around, it is bullish for the price.
+Source: Tradingview.com
+Additionally, the meme coin has been creating higher lows, suggesting that this is a sustained bullish trend. “If the price breaks through the downward trendline, we can expect a bullish rally to follow. Furthermore, if the price breaks through the range zone and closes above it, it’s likely that the market will move higher. My target is resistance at 0.17500,” Lingrid states.
+DOGE Remains Bullish
+This week, the Dogecoin price has turned rather bullish as investor interest has turned toward the meme coin. One way that this is shining through is the trading volume of the digital asset which has jumped more than 130% in the last week. Currently, Coinmarketcap data shows a more than 132% increase in trading volume which has sent it to almost $2 billion at the time of writing.
+
+At the same time, there has been a significant increase in the Dogecoin open interest, suggesting that traders are now betting big on the DOGE price. Coinglass data shows that in the last 24 hours, there is an 18% increase to reach $921.4 million. This is the highest that the open interest has been in the past month and shows a turn in the tide from the bearish trend. Historically, an increase in open interest has usually correlated with an increase in price. So, in this case, it is expected that the price rally will continue.
+For now, DOGE bulls continue to dominate the market, pushing it over 8% in the last day. It is currently trading at $0.164, which is a 122% increase in the last year.
+DOGE price pushes against resistance | Source: DOGEUSDT On Tradingview.com
+Featured image from Dall.E, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Gala Games Recovers $23M Stolen By Hacker, Plans Token Buyback Program
+
+
+																In a recent security incident, Gala Games, a Web3 gaming company, fell victim to an exploit that led to the unauthorized minting of 5 billion tokens, equivalent to approximately $214 million. 
+The hacker behind the breach subsequently sold 592 million GALA tokens, amounting to $21.8 million in value, as blockchain analysis firm Lookonchain confirmed.
+CEO Of Gala Games Takes Responsibility For Breach
+Gala Games responded to the breach, assuring the community via social media platform X (formerly Twitter) that the security incident involving the GALA token had been contained and that the affected wallet had been frozen. 
+The company acknowledged the isolated nature of the incident and stated that it had addressed the cause while collaborating closely with law enforcement agencies to investigate the individuals responsible for the breach.
+
+	Related Reading
+
+
+
+Eric Schiermeyer, CEO of Gala Games, expressed his regret over the incident, referencing his previous stance on projects experiencing hacks. 
+Schiermeyer disclosed that the breach led to the unauthorized sale of 600 million GALA tokens, equivalent to $21 million, and the subsequent burning of 4.4 billion tokens. Within 45 minutes, Gala Games identified the compromise and effectively secured and removed unauthorized access to the GALA contract.
+Reassuring stakeholders, Schiermeyer emphasized that the Ethereum (ETH) contract for GALA remained secure and protected by a multi-signature (multi-sig) wallet, with no compromise detected. 
+Acknowledging internal control shortcomings, Schiermeyer also admitted responsibility for the incident and outlined the steps being taken to prevent its recurrence.
+Gala Games expressed confidence in identifying the culprit behind the breach. They confirmed active collaboration with the Federal Bureau of Investigation (FBI), the Department of Justice (DOJ), and a network of international authorities to ensure appropriate legal actions are pursued.
+The incident raised concerns regarding the project’s daily distribution, prompting Gala Games to propose a node vote to address the issue. As per their community-driven approach, the decision on how to proceed will be determined by the community itself.
+DFW Labs Support
+In response to the incident, DFW Labs, a Web3 investor and market maker, took action to alleviate selling pressure in the market. They purchased 28 million GALA tokens from the open market to stabilize the value of the token, which had fallen to $0.037 on Monday following the exploit. 
+However, with the investment from DFW Labs, the token rebounded to its current trading price of $0.0431, representing a loss of 7.8% in the last 24 hours. 
+
+	Related Reading
+
+
+
+The daily chart shows GALA’s price trending downwards despite the recent rebound. Source: GALAUSD on TradingView.com
+Ultimately, Gala Games assured the public that the issue had been contained, with all contracts being secured and increased safeguards being implemented to prevent future occurrences.
+Featured image from Shutterstock, chart from TradingView.com 
+																								
+															
+
+
+						
+
+----------------
+
+Is It Too Late to Buy Fantom? No. But This Crypto Could Do Better
+
+
+                        
+                            Is It Too Late to Buy Fantom? FTM Price Climbs as New AI Project Raises $2.2 Million                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 21, 2024 18:56 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+Source: Adobe Stock / sunilpurushe
+                        As the Fantom (FTM) price climbs to new monthly highs, investors are asking whether it might be too late to buy Fantom.Last at $0.8744, FTM is up 35% in the past seven days according to CoinMarketCap.A seemingly sudden shift in the SEC’s position on Ethereum ETFs has injected positive momentum into market this week.Fidelity, Vaneck, Invesco, Ark 21Shares and Franklin all filed amended 19B-4 applications on Tuesday.That comes one day after rumors emerged that the SEC might approve spot Ethereum ETFs as soon as this week.That helped launch FTM nearly as high as $1.0 on Monday, with the price having since dropped around 5%.While not in as much focus this week, macro is also more of a tailwind these days.US jobs and CPI inflation data this month helped bolster bets for Fed rate cuts this year. Tomorrow’s Fed minutes release shouldn’t threaten that narrative too much.When financial markets move to price in easier financial conditions, this tends to bolster crypto.And high-beta altcoins like Fantom are especially sensitive to changes in financial conditions.Fantom also recently kickstarted an exciting upgrade to integrate its innovative Sonic technology.The outlook in crypto markets seems tilted towards more near-term upside.So is it too late to buy Fantom?Is It Too Late to Buy Fantom?
+Well, investors jumping in now will have missed the bottom of the recent price dip by a large margin.But that doesn’t mean its too late to buy Fantom.FTM remains nearly 30% below its 2024 highs. So investors can, at the very least, rest assured that they aren’t buying the market right at its recent peak.Nor is the Fantom price anywhere near its long-term peak.FTM briefly surpassed $3.70 in 2021, so it is still trading at a 75% discount versus its record highs.If FTM can break to the north of its 2021 highs this cycle, investors could still bag 5x gains.In that sense, it definitely isn’t too late to buy Fantom.If Fantom (FTM) can hit new record highs this cycle, then that means it definitely isnt too late to buy Fantom. Source: TradingViewFantom Alternative to Consider – Wiener AI (WAI)
+The outlook for Fantom is strong this bull market. The Fantom Foundation is pushing to kickstart a meme season on the blockchain.If successful, this could accelerate FTM’s appreciation, as seen with Solana.But, as noted, FTM’s gains this bull market might be limited to as much as 5x.Those gains are to be sniffed at. But some crypto traders will be targeting much greater upside.Such traders often flock to the meme coin market hunting for gems.One potential meme coin gem that analysts at Cryptonews like a lot is Wiener AI (WAI).The sausage dog-themed coin offers useful AI-powered trading tools and has already raised over $2.5 million in its presale.WAI is not only a meme coin with AI capabilities but also a potential passive income gem.20% of the supply has been allocated to staking rewards, and investors are currently earning a massive 396% APY, as per the project’s official website.At this rate, investors can double their initial presale investment in just a few months.Crypto experts have been lining up to join the Sausage army. Here’s why widely followed crypto analyst Michael Wrubel, who boasts over 312,000 YouTube subscribers, ranks WAI as a top crypto for 2024.VIDEOInterested investors need to move quickly, as the WAI price will rise when the presale hits $2.7 million.At the current price of $0.000709, WAI’s market cap is under $50 million.If it achieves market leadership, early investors stand to benefit greatly, with a potential for 100x gains or more.Buy Wiener AI Here                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Sealana Smashes $2 Million Mark in Presale: A New Wave in Solana Meme Coins
+
+
+                        
+                            Sealana Smashes $2 Million Mark in Presale: A New Wave in Solana Meme Coins                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 21, 2024 18:43 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Tuesday, May 21, 2024- As Sealana’s (SEAL) presale passes the $2 million mark, the Solana-based meme coin is poised to become the next crypto to explode in value. Sealana is a playful and culturally resonant meme coin inspired by a patriotic, obese American redneck seal reminiscent of the South Park World of Warcraft character.The Sealana presale operates on a fixed price model, selling tokens at $0.022 each. Investors can purchase $SEAL using SOL, ETH, USDT, USDC, or with fiat currency using a bank card.Sealana’s quirky concept and its play on American culture has struck a chord with the crypto community, visibly driving interest and investment. The concept is simple yet engaging: feed Sealana SOL (Solana’s native token), fatten him up, and watch as he repays you with SEAL straight into your wallet.After achieving the $2 million-mark milestone, the FOMO for Sealana’s market debut continues to build. The latest Solana meme coin is well-positioned to capitalize on this momentum.The success of previous Solana meme coins like Slothana (SLOTH), which, like Sealana, raised $15 million in its send-to-wallet presale in just over four weeks, sets a promising precedent for Sealana.Solana has emerged as a robust platform for meme coins, thanks to its stability, efficiency and low transaction costs.Solana Network Remains Resilient, Sealana Continues the Momentum Solana is up 25.36% over the past week and the viral meme coins on its network have remained resilient. Notable examples include DogWifHat, which is up 28.12% and POPCAT, which increased 9.26% in the last 24 hours.Betting on Solana-based meme coins right now could prove beneficial. SLOTH, which is down by 19% over last week, after launching on the top 10 HTX exchange, could be worth a look too.The cryptocurrency market is expected to experience a summer meme coin frenzy, driven by bullish sentiment following April’s Bitcoin halving.Historically Bitcoin halvings have led to increased interest in the broader crypto market, including meme coins. This anticipated market shift could further boost Sealana’s prospects.Meanwhile, the market is abuzz with speculation that the team behind Sealana may have also been involved with SLERF – another meme coin that recorded an all-time high price of $1.30 in March 2024, but is currently trading at $0.3117. Traders in the SLERF market might now be looking for the next strong Solana meme coin, like Sealana.VIDEOSealana Presale: A Safe Bet For Q2 2024? Since March 12, Solana has consistently outperformed both Bitcoin and Ethereum, making it an attractive option for meme coin projects. The growth is supported by technological advancements such as token extensions, which enhance the functionality and utility of SPL tokens.The broader Solana system continues to experience rapid growth, with significant increases in DEX trading volumes and project funding.Sealana represents the next wave of Solana-based meme coins, blending cultural resonance with innovative blockchain technology.Investors looking for the next big thing in crypto should keep a close eye on Sealana.Follow the latest developments on Sealana’s X account and Telegram channel.Don’t miss your chance to purchase Sealana at what could be its lowest price ever. You can buy Sealana today at the official website.                                                     
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+âItâs happeningâ: Ethereum ETF approval is imminent as issuers amend 19b-4 filings - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            Bloomberg analyst James Seyffart shared on X that the movement to approve spot Ethereum exchange-traded funds (ETF) in the US “is happening.” According to Seyffart, at least five of the potential Ethereum ETF issuers have submitted their Amended 19b-4s in a 25-minute timespan.“Fidelity, VanEck, Invesco/Galaxy, Ark/21Shares, & Franklin all submitted via CBOE,” he added. The 19b-4 Form is one of the mandatory documents that need to be filed before the SEC can approve an ETF.However, even with the spot Ethereum ETFs approved in the US, Seyffart highlights that this doesn’t mean an immediate launch. Notably, it can take up to months after the approval of Ethereum ETFs before they can be officially traded.“But these filings prove that all of the rumors and speculation and chatter have been accurate. Need to actually see SEC approval orders on all the 19b-4s AND THEN we need to see S-1 approvals. Could be weeks or more before ETFs launch,” added the Bloomberg analyst in another post. Most likely a political decisionCommenting on a The Block article about the motivations behind the sudden pivot to a spot Ethereum ETF approval, Seyffart agreed with undisclosed sources that stated this is “a completely unprecedented situation, which means it’s entirely political,” and that “they’re not even internally coordinated yet, which is why this is most likely a political decision.”James’ fellow Bloomberg ETF analyst Eric Balchunas already suggested this in a Monday X post, saying that rumors around the SEC shift in stance pointed to “political issues.”Seyffart concludes his series of posts on X by admitting that he was wrong about a spot Ethereum ETF approval not happening this week, but so was the entire market. Notably, as reported by Crypto Briefing, not even notorious fund managers were expecting a spot Ethereum ETF approval in the US this week. Katherine Dowling, general counsel for ETF applicant Bitwise, said that “most people are universally expecting a disapproval order.” VanEck CEO Jan van Eck also predicted a likely denial during a CNBC interview.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+Standard Chartered Maintains $8,000 ETH Price Target as it Expects Green Light for Ether ETFs This Week | Cryptoglobe
+
+
+                                
+Standard Chartered, a British multinational banking and financial services company, has revealed it expects the U.S. Securities and Exchange Commission (SEC) to approve the listing of spot Ether exchange-traded funds (ETFs) in the country this week, and maintained its $8,000 price target for ETH.
+
+
+
+The bank’s Head of FX Research and Digital Assets Research reportedly told The Block that with key deadlines for spot Ether ETF applications looming – May 23 for VanEck and May 24 for Ark 21 Shares – the bank is “80% to 90%” sure that these funds will be approved.
+
+
+
+The potential impact is significant. Standard Chartered estimates that these spot Ether ETFs could attract significant investment, bringing in 2.39 to 9.15 million ETH within the first year, translating to roughly $15 billion to $45 billion in U.S. dollars in a figure that it sees as “proving accurate” according to estimates for inflows for the recently approved spot Bitcoin ETFs.
+
+
+
+Looking beyond approval, the bank’s analysis suggests Ether’s price could keep on climbing rapidly this year and maintain a 5.4% price ratio with the flagship cryptocurrency Bitcoin, which would suggest an $8,000 price target by the end of the year if BTC maanges to hit $150,000 as it predicts.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+Earlier this year the bank revealed it was expecting spot Ether ETF applications to be approved by May 23 , but given the market’s expectations of a rejection earlier this month the bank had said that delays in the approval were already “priced in.”
+
+
+
+Standard Chartered’s prediction comes after a dramatic rise in cryptocurrency prices related to the potential approval of spot Ether exchange-traded funds in the U.S as the Securities and Exchange Commission (SEC) has abruptly requested that the exchanges that want to list and trade these funds update key filings related to these products, fueling speculation that the regulator is considering approving these products.
+
+
+
+ Before any trading can begin, issuers of spot Ether ETFs must receive the go-ahead on their S-1 registration statements, with the SEC having no set deadline to review these filings.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+Trump campaign leans in on crypto with new donation page amid shifting political landscape
+
+Former President Donald Trump has begun accepting crypto donations for his re-election campaign, making him the first US Presidential candidate to adopt digital assets for funding.According to a May 21 statement:“This addition to President Trump’s already groundbreaking digital fundraising operation marks the first time a major party Presidential nominee has embraced cryptocurrency for donations.”The website’s available information showed that crypto users could donate in different digital assets, such as Bitcoin, Ethereum, XRP, Cardano, Dogecoin, Shiba Inu, and others.Crypto has become a pivotal topic in the lead-up to the November elections, with former President Trump and President Joe Biden expected to be the primary candidates for their respective parties.The candidates have taken a diverging stance toward the emerging industry, with Trump openly supporting crypto and promising to foster its growth through proper regulation. Trump stated:“Democrats, like Biden and his official surrogate Elizabeth Warren, continue to believe only government has the answers to how our nation leads the world.”However, recent events suggest that the Biden administration may shift its long-standing hardline stance against the space.Ethereum ETFOn May 20, reports surfaced that the US SEC might approve spot Ethereum exchange-traded funds (ETFs) — a stark pivot from earlier expectations.Bloomberg Intelligence Analyst Eric Balchunas noted that the SEC’s turnaround might have political motivations, a view shared by many in the crypto community.Variant Fund chief legal officer Jake Chervinsky said:“If the spot ETH ETF is approved, it will be a true shock to everyone I know in DC who’s close to this process. That doesn’t mean it won’t happen. It means approval could signal a major shift in US crypto policy.”Congressional developmentLast week, US lawmakers from both parties united to overturn the SEC’s Staff Accounting Bulletin 121 (SAB 121) resolution despite President Biden’s stated intent to veto the bill.Several crypto stakeholders have argued that the bulletin was controversial, as SAB 121 required financial institutions to safeguard customer assets and keep them on their balance sheets. Notably, the American Bankers Association (ABA) pointed out that the regulation made it difficult for banks to act as spot Bitcoin ETF custodians.This rare bipartisan event precedes the upcoming Senate vote on the Financial Innovation and Technology for the 21st Century Act (FIT21), widely considered the most significant piece of crypto-specific legislation likely to become law.The FIT21 bill will establish a comprehensive regulatory framework for the digital assets industry in the US. The bill has widespread industry support from key players, including Coinbase, Kraken, and Andreessen Horowitz.Moreover, the bill will establish a baseline for classifying digital assets as securities or commodities. It expands the CFTC’s authority to register and regulate digital commodities and requires the FTC and SEC to jointly issue rules for assets not otherwise classified.Mentioned in this articleLatest Alpha Market Report
