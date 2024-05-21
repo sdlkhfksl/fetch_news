@@ -1,325 +1,3 @@
-Solana hits $175, faces pullback: What's next for SOL? - AMBCrypto
-
-
-
-Solana’s price increased by more than 20% in the last seven days. 
-If the bull rally resumes, then SOL might go above $180.
-
-Solana [SOL] managed to reclaim $175 on the 18th of May, but it soon witnessed a price correction, pushing the token’s value down. Does this mean SOL is bound to go down further in the coming days?
- Let’s take a look at SOL’s current state to find out. 
-Solana back to $175
-Last week was a tremendous success for Solana, as the token’s price rallied substantially. According to CoinMarketCap, SOL’s price surged by more than 20% in the last seven days, allowing it to touch $175.
- However, SOL couldn’t hold that spot as it dipped. 
-At the time of writing, SOL was trading at $174.39 with a market capitalization of over $78.2 billion. 
-The decline from $175 also had a negative impact on the token’s social metrics. Its Weighted Sentiment dropped sharply, meaning that bearish sentiment around it was dominant in the market. 
-Nonetheless, its Social Volume remained stable.
-Source: Santiment
-Investors shouldn’t get disheartened, as a recent analysis suggested that SOL’s price might skyrocket. Alex Clay, a popular crypto analyst, recently posted a tweet highlighting an interesting development. 
-In a monthly time frame, SOL displayed a rounding bottom pattern. If this pattern tests out, then investors might soon witness SOL reach new highs. 
-What to expect in the short term
-AMBCrypto then analyzed SOL’s on-chain metrics to see whether investors should expect a massive surge in the near term. As per our analysis, SOL’s Funding Rate had increased sharply. 
-A rise in the metric meant that derivatives investors were buying SOL. According to Coinglass’ data, SOL’s Open Interest also increased, which might serve as a push for the coin’s weekly rally. 
-Source: Santiment
-However, concerns still remain. The coin’s fear and greed index had a value of 75% at press time, meaning that the market was in an extreme greed phase. Such numbers often result in price drops. 
-We then analyzed SOL’s daily chart to see which way it was headed.
- The Relative Strength Index (RSI) looked pretty bullish, as it had a value of 64. However, the Chaikin Money Flow (CMF) moved in the other direction. ‘
-Additionally, Solana’s price had touched the upper limit of the Bollinger Bands, indicating a possible price correction. 
-Source: TradingView
-
-Is your portfolio green? Check out the SOL Profit Calculator   
-
-If a price correction happens, SOL’s price might fall to $173.5 as liquidation would rise sharply, which might act as a support. A further downfall could push SOL’s price to $165. ‘
-However, if SOL manages to continue its weekly bull run, then the token might be able to go above $180.
-Source: Hyblock Capital
-
-
-
-
-
-
-----------------
-
-Confidential UN Report Exposes Lazarus Group's $147.5M Stolen Crypto Transfer to North Korea
-
-
-																A confidential United Nations report obtained by Reuters reveals that North Korea’s notorious cybercriminal group known as the Lazarus Group transferred millions of stash of stolen cryptocurrency back to the Asian country last year.
-In March 2023, these North Korean hackers illicitly took $147.5 million worth of cryptocurrency from HTX, a crypto exchange owned by TRON founder Justin Sun. A year later, they funneled the funds into the isolated nation using the sanctioned crypto mixer Tornado Cash.
-North Korea’s Cyber Warfare
-According to a report submitted last week, the monitors told a United Nations Security Council (UNSC) sanctions committee that they had been probing 97 suspected North Korean cyberattacks on cryptocurrency firms between 2017 and 2024, valued at approximately $3.6 billion.
-The monitors also reported that North Korean IT workers abroad earn significant income for their country based on information from U.N. member states and private companies. They were also looking into a New York Times report from February 6, which claimed that Russia had released $9 million out of $30 million in frozen North Korean assets and had permitted Pyongyang to open an account at a Russian bank in South Ossetia, facilitating better access to international banking networks.
-The Lazarus Group and other North Korean hackers have executed some of the most lucrative hacks in the crypto and DeFi sectors, and Tornado Cash has been their go-to tumbler.
-
-
-
-
-In 2022, the US sanctioned Tornado Cash, accusing it of aiding North Korea. In 2023, two of its co-founders were charged with facilitating over $1 billion in money laundering, including for a cybercrime group associated with North Korea.
-North Korea’s Diverse Targets in $1B Crypto Theft
-An earlier report released by the UNSC revealed that North Korea acquired 50% of its foreign exchange earnings from cyberattacks. The nation expanded its targeting of cryptocurrency platforms in 2023, hitting more than ever before.
-However, the total amount stolen was lower compared to 2022, according to Chainalysis. Despite this decrease, the number of hacks reached a record high of 20, coinciding with a general downturn in the crypto market.
-In 2023, the blockchain analysis firm estimated that the total stolen cryptocurrency amounted to just over $1 billion. Notably, North Korean hackers concentrated on DeFi, stealing approximately $429 million in the process. They also targeted centralized services, exchanges, and wallet providers, where they pilfered $150 million, $330.9 million, and $127 million, respectively.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-Ripple publishes math prof’s warning: ‘public-key cryptosystems should be replaced’
-
-Professor Massimiliano Sala, of the University of Trento in Italy, recently discussed the future of blockchain technology, as it relates to encryption and quantum computing, with the crew at Ripple as part of the company’s ongoing university lecture series. Sala’s discussion focused on the potential threat posed by quantum computers as the technology matures. According to the professor, current encryption methods could be easy for tomorrow’s quantum computers to solve, thus putting entire blockchains at risk. Source: @Ripple on X.com.Per Sala:"Quantum computers could easily solve problems that are foundational to digital signatures, thus potentially undermining the mechanisms that protect users' assets on blockchain platforms."What the professor is referring to is a hypothetical paradigm called “Q-day,” a point at which quantum computers become sufficiently powerful and available for bad actors to break classical encryption methods. While this would have far-reaching implications for any field where data security is important — including emergency services, infrastructure, banking, and defense — it could theoretically devastate the world of cryptocurrency and blockchain.Specifically, Sala warns that “all classical public-key cryptosystems should be replaced with counterparts secure against quantum attacks.” The idea here being that a future quantum computer or quantum attack algorithm could crack the encryption on these keys using mathematical brute force. It bears mention that Bitcoin, the world’s most popular cryptocurrency and blockchain, would fall under this category. While there currently exists no practical quantum computer capable of such a feat, governments and science institutions around the globe have been preparing for Q-day as if it’s an eventuality. For his part, Sala says that such an event may not be imminent. However, physicists at dozens of academic and commercial laboratories have demonstrated breakthroughs that have led many in the field to believe such systems could arrive within a matter of years. Ultimately, Sala says he’s satisfied with the progress being made in the sector and recommends that blockchain developers continue to work with encryption experts who understand the standards and innovations surrounding quantum-proofing modern systems. Related: Harvard built hacker-proof quantum network in Boston using existing fiber cable
-
-
-
-
-
-
-----------------
-
-Collect Fragments in Shrapnel STX3 Playtest and Trade on Its Upcoming Marketplace | Cryptopolitan
-
-The team behind Shrapnel has announced that it will launch the first version of its marketplace on 23rd May, along with the start of its STX3 playtesting event.Also read: Blockchain Game Shrapnel Cautions Its Users Against ManipulationPlayers can collect various fragments in Shrapnel’s playtest by interacting with lootable objects like crates and use these fragments to craft a wide range of skins. These fragments are also tradeable on Shrapnel’s upcoming marketplace that is launching on 23rd May.A sneak peek into the Shrapnel Skins Crafting (Source: Shrapnel X account)Players Can Craft Weapon Skins Using 3 Unique FragmentsPlayers need at least three unique fragments fitting the weapon and skin type in order to craft a skin. They’ll also get the option to use a Wildcard fragment if they can’t find a particular fragment required for a skin. These wildcards will be available both in-game as rewards and on the upcoming marketplace.Also read: Epic Games Store Welcomes ‘Shrapnel’: A Glimpse Into the Future of Blockchain GamingWith the passage of time, older fragments will be halted, and new fragments will roll in-game. This means that the older unused fragments will only be available on the marketplace, which will naturally raise their price along with the value of associated skins. This gives players the incentives to trade on the marketplace.Shrapnel Marketplace v1 (Source: Shrapnel X account)In addition to the fragments, there will be a fee for crafting weapons based on their type. For instance, Common weapon skins will cost 5 $SHRAP, while Rare weapons will cost 10 $SHRAP. On the higher end, players will be paying 20 $SHRAP and 50 $SHRAP for Epic and Legendary skins, respectively.Which Fragments Can Players Obtain in the Upcoming STX3 Playtest?The upcoming STX3 playtest will give players the opportunity to collect fragments belonging to three categories: Common, Rare, and Epic. Here are the skins that players can collect during the playtest:Warden of the Fall AR – CommonWarden of the Fall SMG – CommonWarden of the Fall Shotgun – CommonWarden of the Fall Pistol – CommonHazard Pay Shotgun Skin – RareGhost Tesseract Pistol Skin – RareHarvest Ember Pistol – RareHarvest Ember Shotgun – RareHarvest Ember AR – RareChartreuse Viper SMG – RareCerulean Digital AR – RareCerulean Digital Pistol – RareCerulean Digital Shotgun – RareMuted Serpent AR – RareMuted Serpent Pistol – RareMuted Serpent Shotgun – RareRubicon AR – RareRubicon Pistol – RareRubicon Shotgun – RareNighthawks Watch Pistol – EpicNighthawks Watch AR – EpicNighthawks Watch Shotgun – EpicHow To Get Access to Shrapnel STX3 Playtest?Shrapnel’s listing on the Epic Games storeShrapnel’s STX3 playtest will begin on 23rd May (18:00 UTC) and end on 26th May (18:00 UTC). To participate, players can simply create an account on the Epic Games store, download Shrapnel, and get one of Shrapnel’s three extraction packs: Light, Medium, or Heavy. Here’s what these extraction packs offer:Light – Early access, 1 MEF Operator, 1 gear packMedium – Early access, a choice between 1 of 2 MEF Operators, 1 gear packHeavy – Early access, a choice between 1 of 3 MEF Operators, 1 Gear packCryptopolitan reporting by Shummas Humayun
-
-
-----------------
-
-Is XRP in 'Crab Market'? Solana (SOL) Reaches Major Resistance Level Before $200, Ethereum (ETH) Really Needs This Price Level
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-It seems like XRP is not making any attempt to break through the currently shown tendency in the market. The asset has barely moved since the beginning of the month, and the most recent breakthrough attempt at $0.54 only pushed the asset back below $0.50. The cryptocurrency is moving up again, but it will most likely end up in a "crab market."The term "crab market" is a state where an asset's price moves sideways without significant upward or downward trends. XRP’s price action is a textbook example. Despite occasional spikes, the overall movement is horizontal. This lack of direction can be frustrating.XRP/USDT Chart by TradingViewLooking at the chart, XRP has been struggling to break past the resistance levels defined by the 50-day EMA and the 100-day EMA, both of which hover around $0.54 and $0.55, respectively. These moving averages have been acting as strong barriers, preventing any substantial upward movement.Moreover, the volume is another indicator suggesting a lack of strong buying interest. Over the past weeks, the trading volume has been relatively low, indicating that traders are hesitant to commit significantly in either direction. This low volume typically accompanies a "crab market," reinforcing the idea that XRP might stay in this pattern for a while.For XRP to break out of this stagnation, it would need a significant catalyst, either from a fundamental development in the cryptocurrency market or a strong technical breakout above the resistance levels.Solana's major resistanceSolana has finally reached a crucial resistance level, which is possibly the last threshold it will have to break in order to come closer to the long-desired $200 mark. However, it is not yet obvious if Solana will be able to break through.Solana is currently testing the resistance around $175, a level that has previously acted as a strong barrier. This resistance is reinforced by the 50-day EMA, which is converging around the same price point. The recent price action suggests that bulls are trying to push the price higher, but the real test will be breaking above this resistance and sustaining the momentum.Over the past few days, there has been a noticeable increase in trading volume, indicating growing interest among traders. Increase in volume suggests there is significant buying power backing the recent price surge. For Solana to break past the $175 resistance and aim for $200, it will need continued strong volume.As for the RSI, it is approaching the overbought territory. While this indicates strong bullish momentum, it also suggests that the asset might be due for a short-term correction or consolidation before attempting another upward move. If the RSI can remain above the midline after a potential pullback, it would signal sustained bullish momentum.Historically, Solana has faced significant resistance around the $175-$180 range. Breaking this level would be a major milestone and could open the path to $200. However, failure to break through could lead to a retracement back to support levels around $155 or even $143.Ethereum needs itEther has not been the strongest cryptocurrency on the market since the beginning of the year. It struggled to hit an all-time high (ATH), lagged behind Bitcoin's performance, and the overall ecosystem did not flourish during the bull market. With ETH's price reaching a critical level, we should all hope bulls will be able to push it just a bit further.Ethereum is currently facing a significant resistance level around $3,150, marked by the 50-day EMA and the historical zone of surging selling pressure. The last time Ethereum reached the aforementioned area it quickly retraced toward $2,900.Volume is a key indicator to watch. Over the past few days, there has been a noticeable increase in trading volume, which is a positive sign. Higher volume indicates stronger buying interest and market participation. For ETH to break past the $3,150 resistance, sustained high volume is necessary.The RSI is currently hovering around the midline, suggesting that ETH is neither overbought nor oversold. This neutral RSI provides room for further upward movement if buying pressure increases. However, if the RSI approaches the overbought territory without a significant price increase, it could signal a potential pullback or consolidation.Support levels to watch include the 50-day EMA around $3,050 and the psychological support at $3,000. If ETH fails to break the $3,150 resistance, it might retrace back to these support levels. On the other hand, a successful breakout could see ETH targeting higher resistance levels around $3,300 and potentially $3,500.
-
-
-
-----------------
-
-Analyst Issues Chainlink Warning, Says 55% Correction for LINK Natural and Healthy Following 4X Rise - The Daily Hodl
-
-
-								A widely followed crypto strategist is warning that Chainlink (LINK) may be on the verge of a massive correction.
-Pseudonymous analyst Credible tells his 394,500 followers on the social media platform X that the native asset of the leading decentralized oracle network appears to have printed a mid-cycle top.
-
-
-
-
-
-
-
-
-
-
-According to the analyst, a deep corrective move is now in the cards for LINK after witnessing massive rallies in the last few months.
-“I understand that after 10 months of up only and a 4x rally, a pullback lasting 2-3 months with a 50-60% drawdown is normal, natural and healthy.
-Further, anything deeper than that but above the origin of the impulsive move is a higher low and technically totally fine.” 
-Source: Credible/X
-The trader uses the Elliott Wave theory, which states that a bullish asset tends to witness a five-wave rise before pulling back. Looking at the trader’s chart, he seems to suggest that LINK has completed its five-wave rally and is now poised for a correction toward support at $7.26.
-At time of writing, LINK is worth $16.49.
-Credible is also bearish on Ethereum (ETH) scaling solution Polygon (MATIC), predicting that the altcoin will fall to support at $0.585.
-“Hello MATIC my old friend, it’s time to short you once again.
-Up to 5-8% more potential upside, looking for 20% downside at minimum.” 
-Source: Credible/X
-At time of writing, MATIC is worth $0.706.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Featured Image: Shutterstock/Relight Motion
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Paraguay Gov’t to Jail Illegal Bitcoin Miners for ‘Up to 10 Years’
-
-
-                        
-                            Paraguay Gov’t Looks to Jail Illegal Bitcoin Miners for ‘Up to 10 Years’                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 19, 2024 19:30 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        The government of Paraguay will ask lawmakers to approve a bill that proposes jailing illegal Bitcoin (BTC) miners for up to 10 years.The presidential spokesperson Paula Carro told reporters on Friday May 17 that the government has sent the bill to parliament “as a matter of urgency.”
-10 Years in Jail: Illegal Bitcoin Miners Face Longer Prison Terms
-Carro said that the bill seeks to “punish” illegal miners with “multiple years in prison.”The draft law will also allow Paraguayan police and prosecutors to seize mining equipment from illegal operators.Per Criptonoticias, Carro also said the bill “seeks to protect the state-owned National Electricity Administration (ANDE).”She added that the “theft of large amounts of energy by illegal Bitcoin mining operators” was posing a “threat” to ANDE.The terms of the bill allow courts to impose “a maximum sentence” of a decade in jail “for the crime of energy theft.”The proposals also allow ANDE to ask police to seize mining rigs and sell these off, with the state-run firm to be “the beneficiary of the proceeds.” Bitcoin mining has boomed in Paraguay, where lawmakers have fought to bring it into the legal sphere.The country has considerable power resources that BTC miners find ideal – namely surplus hydroelectric energy.However, in recent years, many Paraguay-based miners have sought to create illegal connections to grids.And power providers have complained they are facing overloads and other issues.Police have responded by launching a crackdown. Since the beginning of this year, officers have seized more than 5,000 ASIC miners.The Yacyretá Dam, a major source of Paraguayan electrical power. (Source: Eby gov py [CC BY-SA 2.5])Crackdown: Illegal Bitcoin Miners Face Police Action
-ANDE has taken part in some 17 raids on illegal BTC and altcoin mining farms nationwide since the start of 2024.This has also led to a flurry of activity in parliament. At least 14 lawmakers have backed a private member’s bill that would effectively ban Bitcoin mining in the country.The bill proposes a “temporary” block on BTC mining “until the problem of illegal mining is resolved.”However, this bill has not yet cleared the committee phase, and it is not certain that it will reach the house for a vote.Should the government succeed with its own bill, this private member’s bill will likely be shelved.Carro that the government’s bill has the backing of the Public Ministry, ANDE, and the Paraguayan Judiciary.She concluded that illegal BTC mining “has resulted in millions of dollars worth of losses” for Paraguayan power providers.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Kraken Claims “No Plans” to Delist USDT From EU Exchange - DailyCoin
-
-
-        
-
-Kraken clarifies its stance on potentially delisting USDT. 
-
-
-
-A company executive assures Kraken has no immediate plans to remove USDT from its listings.
-
-
-
-Despite this assurance, the looming MiCA regulations could compel Kraken to delist USDT if Tether doesn’t comply.
-
-
-
-
-Recently, rumors swirled that Kraken could be considering cutting support for USDT in the European Union ahead of the upcoming MiCA regime, which will kick in this July.
-
-
-
-A Kraken spokesperson hinted at the exchange bracing for the worst, given Tether’s apparent disinterest in aligning with the new rules. As anxiety grew among users, Kraken’s Global Head of Asset Growth and Management, Mark Greenberg, stepped forward to set the record straight.
-
-
-
-Kraken Sets The Record Straight
-
-
-
-“We have no plans to delist at this time,” Greenberg said, dismissing rumors about Kraken potentially dropping USDT from the EU market. He emphasized that Kraken recognized USDT’s role in the European market and would continue to support it.
-
-
-
-
-Greenberg explained that Kraken is exploring all options to keep USDT available under the upcoming MiCA regulations. He added that Kraken will comply with all legal requirements, even those they may disagree with, hinting that if Tether is ultimately banned, Kraken will adhere to the law. 
-
-
-
-Greenberg noted that the MiCA rules regarding stablecoins still need to be finalized. Until the regulatory position is clearer, Kraken will continue offering all relevant stablecoins to its European customers.
-
-
-
-However, with the new regulations set to take effect in July, the future of stablecoins in the EU remains uncertain.
-
-
-
-MiCA’s Looming Threat to Stablecoins
-
-
-
-Although they have yet to be finalized, the upcoming MiCA regime could challenge the legitimacy of many stablecoins in the region, particularly USDT. Regulators stress that many stablecoins currently in circulation in Europe have yet to be authorized and regulated.
-
-
-
-
-MiCA regulations stipulate that only EMIs and credit institutions can legally issue fiat stablecoins within the European Economic Area trading bloc. This means that stablecoin issuers like Tether and Circle must either become an EMI or partner with one to continue offering their products legally in the region.
-
-
-
-Tether’s CEO confirmed that the company had no plans to comply with the new MiCA regulations in the medium term, expressing concerns about the potential risks and impacts of the new rules.
-
-
-
-“That would pose severe risks to stablecoins regulated in the EU,” Ardoino said in response to MiCA’s added scrutiny on stablecoin issuers. He urged regulators to learn from incidents like the collapse of Silicon Valley Bank and its impact on a major US stablecoin. “If a bank goes bankrupt, uninsured cash goes into bankruptcy,” he warned.
-
-
-
-Until MiCA amends its current regulations or Tether announces compliance, USDT’s legal status in the EU is expected to become illegal after July, presenting a complex dilemma for users and companies in the region.
-
-
-
-On the Flipside
-
-
-
-
-Due to USDT’s lack of interest in complying with the new MiCA rules, OKX has already removed support for the stablecoin in the EU.
-
-
-
-MiCA is still being finalized and is expected to be fully implemented by 2025.
-
-
-
-USDT issuer Circle is also relocating its operations from the EU to the US.
-
-
-
-
-Why This Matters
-
-
-
-The new MiCA regime can shake up the crypto industry in the EU, particularly impacting the stablecoin market. If Tether remains steadfast in its protest against the new rules, exchanges like Kraken will be forced to delist the token, leading to far-reaching implications for the trading bloc.Charles Hoskinson airs his frustration:Cardano’s Hoskinson Predicts Crypto to Decide 2024 ElectionsGenesis’ Chapter 11 receives court approval:Court Clears Genesis’ $3B Bankruptcy Plan Despite DCG Objection.
-
-    
-              
-    
-
-----------------
-
-Crypto exchange Kraken has ‘no plans’ to delist USDT in Europe for now
-
-Cryptocurrency exchange Kraken has “no plans” to delist Tether (USDT) in Europe at the moment despite a recent report claiming the firm was “actively reviewing” the decision to remain legally compliant.“[Kraken] continues to list USDT in Europe and we have no plans to delist at this time,” stated Mark Greenberg, Kraken’s global head of asset growth and management in a May 18 X post.The firm will continue to follow all legal requirements — even those that it disagrees with — Greenberg iterated. “But the rules are not finalized yet and we continue to do everything we can to continue to offer all relevant stablecoins to our European customers.”Source: Mark GreenbergA May 17 article from Bloomberg reported Kraken was “actively reviewing” plans to comply with the European Union’s upcoming Markets in Crypto Assets Regulation (MiCA) framework.“We’re absolutely planning for all eventualities, including situations where it’s just not tenable to list specific tokens such as USDT,” said Marcus Hughes, Kraken’s global head of regulatory strategy at the time. “It’s something that we’re actively reviewing, and as the position becomes clearer, we can take firm decisions on that.”The rules applicable to stablecoins under MiCA will come into force on June 30, while cryptocurrency service provider rules will take effect six months later on Dec. 30.Related: Kraken exchange rolls out self-custody crypto wallet, following other CEXsOne of Kraken’s biggest competitors, OKX, made the move to delist USDT in Europe in March.Binance announced plans to make a similar decision last September — citing a need to comply with MiCA — but the firm hasn’t followed through with those plans yet. Kraken recently ended support for the Monero privacy token (XMR) for its Belgium and Ireland customers in April. Meanwhile, the crypto exchange has continued to expand its services in Europe. It recently secured a virtual asset service provider registration in Spain and the Netherlands, as well as an electronic money institution license in Ireland.Magazine: ‘Crypto is inevitable’ so we went ‘all in’: Meet Vance Spencer, permabull
-
-----------------
-
 Bitcoin Price Dips Yet Stays Positive: Market Sentiment Remains Upbeat
 
 
@@ -9924,3 +9602,244 @@ Bithumb said that while many experts think these 4th-generation coins are still 
                     
 
                     
+
+----------------
+
+Solana-based Zack Morris crypto [ZACK] explodes 200%, but should you be wary? - AMBCrypto
+
+
+
+Twitter user Zack Morris launched a new coin that surged by more than 100% in the last 24 hours.
+Activity and volume on the Solana network also grew.
+
+Solana [SOL] has been the hotspot for launching new meme coins for the longest time.
+To cash in on the hype, Edward Constantinescu, who is known as Zack Morris on X (formerly Twitter), and the co-founder of Atlas Trading, recently launched a meme coin on the network, titled ZACK.
+ZACK sees new heights
+At press time, ZACK was trading at $0.04168 and its price had grown by 216.00% in the last 24 hours. But even though the token’s price had surged significantly, traders should be aware of Edward Constantinescu’s past.
+Source: CoinMarketCap
+Zack Morris crypto: Once bitten, twice shy
+The sequence of events began on the 14th of December 2022, when the Securities and Exchange Commission (SEC) initiated legal action against Atlas Trading and Edward Constantinescu.
+They were accused of defrauding investors to the tune of $100 million.
+According to the SEC’s lawsuit against Atlas Trading, the two purportedly orchestrated a scheme involving the coordinated acquisition of shares, its promotion, and subsequent sale for significant profits.
+During the COVID-19 pandemic and the GameStop meme stock frenzy from March 2020 to April 2021, Atlas Trading emerged as a prominent presence on Discord for traders.
+Some argue that they played a pivotal role in the rise of the FinTwit phenomenon.
+Edward Constantinescu became ubiquitous on X, promoting various penny stocks with his distinctive meme face, seemingly representing Atlas Trading.
+The alleged modus operandi of the Atlas Trading scheme unfolded as follows.
+Edward Constantinescu would acquire substantial stakes in a penny stock, then tout its potential meteoric rise on X.
+Concurrently, anonymous users would hype up the stock on social media, declaring it was destined for great highs. Allegedly, these users also held positions in the company before the surge.
+Once the stock was purportedly inflated, they allegedly offloaded their shares before their followers, reaping substantial profits in the process.
+Due to these factors, the memecoin ZACK has met with some skepticism as well.
+How will Solana be affected?
+Despite the uncertainty of the usefulness of the Zack Morris crypto token, Solana continued to reap benefits.
+
+Is your portfolio green? Check out the SOL Profit Calculator
+
+The surge in deployment of meme coins on Solana has had a positive impact on the network, as activity and number of transactions on the network have surged.
+However, if too many rugpulls occur, the sentiment around the network can be affected negatively.
+Source: Artemis
+
+
+
+
+
+
+----------------
+
+Is $68,500 Bitcoin Recovery A Deadcat Bounce? What Data Says
+
+
+								Here’s what futures market data could suggest about whether this latest Bitcoin recovery will be a dead-cat bounce or not.
+Bitcoin Futures Market Shows No Signs Of Overheating So Far
+As explained by an analyst in a CryptoQuant Quicktake post, the BTC funding rate has stabilized around a relatively low value recently. The “funding rate” here refers to an indicator that tracks the amount of periodic fees that derivatives market traders are paying each other right now.
+When this metric’s value is positive, it means that the long contract holders are paying a premium to the short investors to hold onto their positions. Such a trend implies that the majority of the market shares a bullish sentiment.
+
+On the other hand, a negative value of the indicator implies that short investors are the dominant force in the sector, and thus, the average derivatives user is bearish on the coin.
+Now, here is a chart that shows the data for the Bitcoin funding rate, as well as its 7-day simple moving average (SMA), over the past year or so:
+
+The value of the metric appears to have been positive in recent months | Source: CryptoQuant
+From the above graph, it’s clear that the Bitcoin funding rate has been mostly at positive levels for a while now. This makes sense, as the asset has rallied over the last few months, so investors as a whole would be bullish about it.
+Historically, though, a highly positive funding rate has been a bearish sign for the cryptocurrency’s price. This is because the asset tends to perform in the direction opposite to the majority’s expectation, and the likelihood of a contrary move rises as this expectation becomes stronger.
+At high values of the indicator, there is an overwhelming bullish sentiment, so tops for the coin can become more probable. As is apparent in the chart, the Bitcoin all-time high (ATH) back in March was also set alongside a large spike in the metric.
+The sentiment had initially remained at significant bullish levels in the consolidation period that followed this top, but recently, the metric has observed a cooldown.
+The Bitcoin funding rates are still positive, but their scale is much smaller now. More specifically, the 7-day MA of the indicator is currently floating at just 0.45%, which is notably lesser than the 3% to 4% values seen in March.
+
+So far, the metric hasn’t spiked alongside the cryptocurrency’s recovery beyond the $68,000 level, potentially suggesting that the sentiment hasn’t overheated yet. As the quant notes:
+In previous “dead-cat-bounce” scenarios, funding rates were higher, with March 2021 seeing a rate close to 3% before a correction to $30,000, and November 2021 rates between 0.7% and 0.8% before the 2022 bear market.
+BTC Price
+At the time of writing, Bitcoin is trading around the $68,500 mark, up almost 9% over the past week.
+
+Looks like the price of the coin has seen some sharp bullish momentum over the past day | Source: BTCUSD on TradingView
+Featured image from Yiğit Ali Atasoy on Unsplash.com, CryptoQuant.com, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Litecoin Whales Go On $230 Million Buying Spree: Will This Change LTC's Stars?
+
+
+																On-chain data shows the Litecoin whales have gone on a $230 million buying spree recently, which could bring bullish winds for the coin.
+Litecoin Whales Have Been Making Net Inflows To Their Wallets Recently
+According to data from the market intelligence platform IntoTheBlock, the Litecoin whales have received large net inflows in their addresses over the past month or so.
+The on-chain indicator relevant here is the “Large Holders Netflow,” which tracks the net amount of Bitcoin entering into or moving out of the combined wallets of investors owning at least 1% of the cryptocurrency’s circulating supply.
+
+	Related Reading
+
+
+
+IntoTheBlock defines such “large holders” as the whale entities of the asset. Whales are generally considered to be influential beings on the network, owing to their ability to move large amounts on the network in a short span of time.
+When the Large Holders Netflow has a positive value, it means that these humongous investors are receiving a net amount of coins into their balance right now. Naturally, such buying can be bullish for the coin’s price.
+On the other hand, the negative indicator implies the whales are potentially participating in selling currently, which could have bearish consequences for the asset.
+Now, here is a chart that shows the trend in the Litecoin Large Holders Netflow over the past month:
+
+The value of the metric seems to have been positive in recent days | Source: IntoTheBlock on X
+As displayed in the above graph, the Litecoin Large Holders Netflow has mostly observed positive values inside this window, suggesting that the whales’ wallets have been receiving net deposits.
+According to the analytics firm, these large holders have accumulated 2,751,633 LTC in the last 30 days. At the current exchange rate of the asset, this stack is worth a whopping $230 million.
+As the chart also shows, the indicator spiked particularly strongly on the 10th of this month. During these net inflows alone, the whales bought 900,000 LTC, the highest daily amount since February, representing around one-third of the total accumulation in the past month.
+
+	Related Reading
+
+
+
+This buying spree from the large holders has come as the asset’s price has been consolidating around its lows following the mid-April crash. Thus, it would imply the whales believe the recent prices of Litecoin to have been worthy entry points into the coin.
+This could certainly be a bullish sign for the cryptocurrency, so it remains to be seen how the asset’s price will develop in the near future. The indicator may be worth monitoring, though, as its value turning negative could instead spell a bearish outcome for the coin.
+LTC Price
+Litecoin has continued to consolidate inside its range recently as its price is currently trading around $84.
+
+Looks like the price of the asset has been trading sideways over the last few weeks | Source: LTCUSD on TradingView
+Featured image from Kanchanara on Unsplash.com, IntoTheBlock.com, chart from TradingView.com
+																								
+															
+
+
+						
+
+----------------
+
+Megaphone
+
+
+
+----------------
+
+'We Messed Up': Gala Games Confirms $240 Million Worth of Tokens Swiped via Exploit - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsThe price of the Gala Games (GALA) token plunged on Monday after an attacker minted and made off with 5 billion tokens via the Gala smart contract, with the swiped tokens worth around $240 million at the time of the exploit.Ultimately, the attacker managed to sell 600 million of the tokens via decentralized exchange Uniswap, or about $29 million worth at the time of the exploit. The price dropped 20% in less than an hour amid the selling, plunging from about $0.048 to $0.038.“A compromised or rogue Gala Games admin address minted 5 Billion $GALA ($200M) and has been systematically selling the tokens for the past 2 hours,” pseudonymous smart contract developer and security auditor 0xQuit wrote on Twitter.Nearly two hours after the hack was spotted, Gala CEO Eric “Benefactor” Schiermeyer posted an update to the Gala Discord server confirming the exploit and explaining the situation.“We identified the compromise and within 45 minutes we secured and removed unauthorized access to the GALA contract,” Schiermeyer wrote. “It's important to note our ETH contract for $GALA is secure and under the protection of a multi-sig wallet. It was never compromised.”The same message was posted to the Gala Games Twitter account. Later, Gala said that the wallet in question had been "frozen." As a result, the remaining 4.4 billion tokens that weren't sold are described in the initial post as being "effectively burned," meaning they can't be transferred or accessed and thus are considered destroyed. The total supply of GALA encompasses 50 billion tokens."We messed up our internal controls... this shouldn't have happened and we are taking steps to ensure it doesn't ever again," Schiermeyer added. "We believe we have identified the culprit and we are currently working with the FBI, DOJ, and a network of international authorities."In a follow-up tweet, Gala Games described the attack as an "isolated incident." Gala did not immediately respond to Decrypt’s request for comment.GALA has rebounded to a price of about $0.04272 as of this writing, putting the token's price essentially flat over the past 24 hours. That's due in part to a market-wide surge that has seen Ethereum itself surge by 20% over the past day, with the residual effects of the market swing apparently offsetting the impact of the sales.In 2023, Schiermeyer sued fellow Gala co-founder Wright Thurston, alleging that the latter stole $130 million in GALA tokens.According to the lawsuit, GALA tokens were moved from a company wallet and spread across 43 wallets under Thurston’s control before being sold between September 2022 and May 2023.In a countersuit, Thurston alleges Schiermeyer neglected to seek his input while making transactions that led to the “sell off and waste [of] millions of dollars in company assets.”Edited by Andrew HaywardGG NewsletterGet the latest web3 gaming news, hear directly from gaming studios and influencers covering the space, and receive power-ups from our partners.
+
+----------------
+
+Crypto Investment Fund Exec Sentenced To 3 Years For Scheme
+
+
+								Lilian Nurieva, former Head of Networks at Russian crypto Investment fund Finiko, has been sentenced to three years for defrauding private investors and participating in an organized criminal group.
+The $55 million pyramidal scheme is considered the second-largest financial scam in Russia’s post-Soviet history by the Federal Foundation for the Protection of Investors and Shareholders Rights.
+
+Crypto Investment Fund Turns Ponzi Scheme
+In 2021, Russian authorities began investigating the ‘crypto investment fund’ Finiko for fraud and organized crime. According to the investigation, the fund was a Ponzi scheme that took millions in investors’ money.
+From 2018 to 2021, Finiko served as a pyramidal scheme presented as a crypto fund to investors. The scam’s main organizer and beneficiary, Kirill Doronin, traveled the country offering master classes, attracting thousands of clients.
+Alongside his accomplices, Doronin created a criminal community to systematically embezzle citizens’ money. The criminals would approach potential clients, stating they had developed a “unique automatic profit generation system” that “guaranteed” massive returns in cryptocurrencies, including Bitcoin.
+Users would receive their dividends at first and be able to withdraw their money in BTC. However, things started to take a left turn for investors after Finiko’s crypto token started to devalue in 2021. In a month, the firm’s offices abruptly closed, and its website was shut down, leaving investors empty-handed.
+Donorin assured investors that the crypto fund was experiencing technical failures, but it was later established that his associates had already fled the country with investors’ money.
+According to the investigation, many clients had taken loans or sold their houses to invest in the fraudulent fund. It was revealed that the investment fund functioned as a Ponzi scheme, where old clients received payments from the new investors’ money.
+At the time, the Ministry of Internal Affairs of the Russian Federation (MDV) estimated that the firm had scammed over 10,000 individuals and stolen over 5 billion rubles, around $55 million.
+First Finiko Executive Sentenced
+Lilia Nurieva, one of Finiko’s executives, has been found guilty of defrauding investors by the Vakhitovsky District Court of Kazan. Nurieva, a key participant in the crypto scheme, was given a “mild” sentence for collaborating with the prosecutors.
+The former executive was originally sentenced to four and a half years for committing fraud and participating in an organized criminal association. However, Nurieva will only serve three years in prison as her pre-trial detention time will be counted as part of the sentence.
+According to local reports, prosecutors requested six and a half years for the Russian executive, but the former Head of Networks was able to reduce her time due to a pre-trial agreement. This deal allowed Nurieva to avoid facing up to ten years in prison.
+Moreover, the executive fully admitted to the charges and collaborated with the investigation, facilitating to be tried separately from the other defendants. Her lawyer, Maria Belousova, stated that the prosecutors’ accusations against her client were “fair.” She also noted that Nurieva was the only one among the defendants who had invested her money in the scheme.
+Per Belousova, the former Finiko executive invested 40 million rubles in the investment fund before becoming part of the organization:
+
+When she joined the criminal association, there were illusions that it was not criminal and illegal. Then, during communication with top executives, clarity came.
+
+The other ten defendants, including Doronin, have yet to be tried. The Prosecutor General’s office approved their indictment on April 27 and sent it to the Vakhitovsky court. The defendants are also accused of organizing a criminal association and fraud on a large scale committed by an organized group.
+
+
+Bitcoin's performance in the 5-day chart. Source: BTCUSDT on TradingView
+Featured Image from Unsplash.com, Chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Bitcoin eyes return to ATH, but are you holding it back? - AMBCrypto
+
+
+
+BTC has stayed above $66,000.
+Small BTC wallets have dumped more coins in the past week.
+
+Bitcoin [BTC] is trading above $66,000 and is attempting to climb back to its recent all-time high. Despite this rebound effort, small wallets have been selling off their holdings. 
+However, the overall accumulation of BTC has continued, suggesting that larger investors or institutions are still buying despite the sell-offs from smaller wallets.
+Small Bitcoin wallets dump holdings
+According to new data from Santiment, small Bitcoin wallets have been selling off their holdings in the past few weeks.
+ Analysis of the total number of holders showed that over 182,000 holders sold their holdings in the past week.
+ The chart indicated that wallets with under 0.1 BTC have reduced their holdings by 0.46% in the past week. This decline might be due to small wallets attempting to make quick profits.
+Source: Santiment
+However, despite this decline, the pattern of small wallets selling and large wallets accumulating is typically considered a bullish sign. 
+Analysis of wallets holding 1,000 or more BTC showed that the volume held by these wallets has increased recently. At the time of this writing, the total number of Bitcoin holders was around 53.8 million.
+Bitcoin continues to see negative netflow
+Analysis of Bitcoin’s exchange netflow revealed that it recently experienced its highest negative volume. 
+On 15th May, the netflow was -22,359 BTC, the highest since December 2023. The chart indicated that netflow has remained negative since then, meaning more BTC is being withdrawn from exchanges than deposited. 
+This suggests that despite the sell-off from small BTC wallets, there is significant ongoing accumulation.
+Source: CryptoQuant
+This trend is typically a bullish signal, indicating confidence among larger holders and reducing the available supply on exchanges. Consequently, the price trend could benefit from this increased accumulation.
+BTC struggles to stay above $66,000
+A look at Bitcoin on a daily time frame showed that it has recently entered the $66,000 price zone and has been struggling to maintain it. 
+According to AMBCrypto’s analysis, Bitcoin was trading at around $66,700, which is an approximate 0.7% increase at the time of this writing. 
+Source: TradingView
+
+Read Bitcoin (BTC) Price Prediction 2024-25
+
+The chart indicated that Bitcoin recently flipped its short moving average (yellow line), which had previously acted as resistance, into support. 
+The immediate support level was around $64,000 at the time of this writing.
+ 
+
+
+
+
+
+
+----------------
+
+Ethereum Soars 20%: ETH Hype Escalates on ETF Rumors
+
+
+																Ethereum price rallied over 20% amid rise in hopes of ETH ETF. ETH broke many hurdles and even broke the $3,500 resistance zone.
+
+Ethereum started a fresh surge and cleared the $3,500 resistance zone.
+The price is trading above $3,600 and the 100-hourly Simple Moving Average.
+There is a short-term rising channel forming with support at $3,640 on the hourly chart of ETH/USD (data feed via Kraken).
+The pair could continue to move up unless there is a close below the $3,400 support.
+
+Ethereum Price Starts Fresh Uptrend
+Ethereum price formed a base and rallied above the $3,200 resistance zone. ETH ETF hopes increased with the recent SEC move. Trades took advantage of the recent move, resulting in a strong upward move above the $3,350 resistance zone.
+It outperformed Bitcoin and gained over 20%. There was a strong move above the $3,500 resistance zone. It traded to a new weekly high at $3,721 and is now consolidating gains above the 23.6% Fib retracement level of the upward move from the $3,067 swing low to the $3,721 high.
+Ethereum is now trading above $3,600 and the 100-hourly Simple Moving Average. There is also a short-term rising channel forming with support at $3,640 on the hourly chart of ETH/USD.
+Immediate resistance is near the $3,700 level. The first major resistance is near the $3,720 level. An upside break above the $3,720 resistance might send the price higher.
+Source: ETHUSD on TradingView.com
+The next key resistance sits at $3,800, above which the price might gain traction and rise toward the $3,880 level. If there is a clear move above the $3,880 level, the price might rise and test the $3,950 resistance. Any more gains could send Ether toward the $4,000 resistance zone.
+Are Dips Attractive In ETH?
+If Ethereum fails to clear the $3,720 resistance, it could start a downside correction. Initial support on the downside is near the $3,640 level and the channel zone.
+The next major support is near the $3,600 zone. A clear move below the $3,600 support might push the price toward $3,500. Any more losses might send the price toward the $3,400 level in the near term.
+Technical Indicators
+Hourly MACD – The MACD for ETH/USD is losing momentum in the bullish zone.
+Hourly RSI – The RSI for ETH/USD is now correcting from the 85 zone.
+Major Support Level – $3,600
+Major Resistance Level – $3,720
+																								
+															
+
+
+						
+
+----------------
+
+Bitcoin, Ethereum, Dogecoin Shoot Up On One Of The Best Days For Crypto In 2024 Amid Ether ETF Approval Buzz: Analyst Flags 'Robust' US Investor Demand for King Crypto - Benzinga
+
+The cryptocurrency market rallied handsomely on Monday over increased odds of approval of spot Ethereum ETFs, with Bitcoin coming close to breaking its all-time highs.CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Bitcoin BTC/USD+8.05%$71,549.15Ethereum ETH/USD+20.45%$3,691.47Dogecoin DOGE/USD+11.71%$0.1661What Happened: The second-largest cryptocurrency, Ether, raked in gains of more than 20% on the day, resulting in a breach of $3,700 for the first time in more than two months.The upsurge caused Ethereum's Open Interest to shoot up by nearly 28% over the last 24 hours, reaching record highs of $14.95 billion.The rally came after two prominent Bloomberg analysts, Eric Balchunas and James Seyffart raised their odds of spot Ether ETF approval to 75% from 25%. The final deadline for various applications falls later this week.Bitcoin added significant gains as well, surging past $71,000 in the last 24 hours. The King Crypto was withing touching distance of breaching its all-time high of $73,000 set in mid-March.The bull run triggered liquidations worth nearly $350 million in the last 24 hours, with short liquidations soaring to $272 million.The Cryptocurrency Fear & Greed Index started flashing " Extreme Greed" after more than a month, signaling high degree of FOMO in the market.Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Pyth Network (PYTH)+28.92%$0.48Bonk (BONK)+26.81%$0.00003159Pendle (PENDLE)+24.96%$5.89The global cryptocurrency market cap stands at $2.62 trillion, following a 9.32% jump in the last 24 hours.Technology stocks ascended during the trading session, with the Nasdaq Composite closing at a record high of 16,794.87, following a 0.65% gain. The Dow Jones Industrial Average fell 0.48% to end the day at 39,806.77, while the S&P 500 added 0.09%, or 4,86 points, to close at 5,308.13.The gains were driven by optimistic calls by analysts on NVIDIA Corp. NVDA which is due to report its first-quarter earnings on Wednesday.See More: Best Cryptocurrency ScannersAnalyst Notes: According to on-chain analytics firm CryptoQuant, Bitcoin's Coinbase Premium Gap surged, indicating "robust" demand from Institutional investors in the U.S.Prominent cryptocurrency analyst Kevin noted that Bitcoin was testing the final resistance before it eventually reclaimed its previous highs.Photo by SvetlanaParnikova on ShutterstockRead Next: Senate Votes To Overturn Controversial SEC Crypto Rule, But Will Biden Veto It?
