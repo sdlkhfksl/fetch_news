@@ -1,586 +1,3 @@
-Linux Inventor Says He Doesn’t Believe in Crypto
-
-
-Finnish-American software engineer Linus Torvalds, who is best known for creating the Linux operating system, does not believe in cryptocurrencies, according to his recent forum post.  The 54-year-old computer scientist slammed the newfangled asset class as a "great vehicle for scams." He also went on to mention that cryptocurrencies function as a typical Ponzi scheme that aims to find "the next sucker holding the bag.""Nor do I believe in Santa Claus, the tooth fairy, or the Easter bunny," he quipped. A Satoshi candidate? It is worth noting that the godfather of the open-source movement, who has also created the distributed version control system Git, was once rumored to be Bitcoin creator Satoshi Nakamoto. Torvalds, who created the Linux kernel when he was 21, had the necessary set of skills for coming up with the idea of Bitcoin, which made him one of the likely candidates. The rumors were fueled by Torvalds allegedly changing a single name in the Linux Kernel to "Name = I am Satoshi" back in January 2022.However, Torvalds explained that it was simply a "jokester" who took advantage of GitHub's modus operandi to make it seem like their git object was in his tree.  He went on to clarify that the rumors were just "empty noise," adding that he was not the owner of a huge Bitcoin fortune. No technological singularity In his post, Torvalds also rejected the idea of technological singularity, dismissing it as a "bedtime story for children". "But unlike the very hungry caterpillar, it also makes for great click-bait stories that you can make up," he joked.Even though the legendary computer scientist admits that it is a great sci-fi concept, continuous exponential growth does not make sense to him. "We are very much seeing the limits getting closer," Torvalds added.   
-
-
-
-----------------
-
-This is Why Bitcoin DeFi Could Be the Next Big Thing
-
-
-Bitcoin developers are exploring the next growth frontier, i.e., programmability through decentralized finance (DeFi). Recent developments suggest that Bitcoin’s adaptability could soon rival Ethereum’s, potentially catalyzing significant market expansion.
-Following the launch of the first US Bitcoin exchange-traded funds and the latest Bitcoin “halving,” the community has turned its focus toward the future of Bitcoin’s ecosystem. 
-Bitcoin Developers Work on Enabling Programmability
-
-The spotlight is now on DeFi’s potential to transform Bitcoin from merely digital gold into a more dynamic, programmable platform. Toby Lewis, the co-founder of the Ordinals project – OrdinalsBot, believes that the Bitcoin DeFi ecosystem could grow to be the largest in the entire crypto ecosystem.
-Currently, the Bitcoin total value locked (TVL) stands at $1.137 billion.
-
-“It is possible that the Bitcoin DeFi ecosystem could grow to trillions of dollars of market cap over the next few years, and it appears to be one of the major drivers of growth in crypto this cycle.”
-
-
-Read more: Bitcoin NFTs: Everything You Need To Know About Ordinals
-Bitcoin TVL. Source: DeFiLlama
-Traditionally, Bitcoin has been viewed as a store of value with limited functionality beyond investment. Unlike Ethereum, which supports a rich ecosystem of apps and smart contracts, Bitcoin has lacked these capabilities. However, developers are now pushing to bridge this gap through innovative solutions.
-One of the most talked-about advancements is the introduction of Bitcoin layer 2 networks such as Lightning, which aim to enhance Bitcoin’s scalability and utility for applications like payments. Despite previous setbacks and vulnerabilities, the community’s relentless pursuit of robust and secure solutions has led to the development of groundbreaking protocols.
-In 2023, the Bitcoin Ordinals protocol marked a significant milestone by enabling the creation of non-fungible tokens (NFTs) directly on the Bitcoin blockchain. This was further expanded by the proposal of BRC-20 tokens by an anonymous developer known as Domo. These tokens leverage a similar inscription mechanism, significantly enhancing Bitcoin’s programmability.
-Developers are also exploring other avenues, such as OP_CAT, a potential software upgrade that could simplify the implementation of programmability on the Bitcoin network. This proposal is under review, with significant backing from the developer community.
-
-However, integrating programmability into the Bitcoin network has its challenges. The recent launch of the Runes protocol, which facilitates the creation of altcoins on the Bitcoin blockchain, initially surged network activity, but later, the hype cooled down. 
-Read more: Crypto Inscriptions: What Are They And How Do They Work?
-Bitcoin Runes Transaction. Source: Dune
-At its peak, the Runes transaction crossed 1 million on April 23. However, as of May 19, the number of transactions is down to 56,372.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Ether Price Surges 5.5%, Nears $3,100 Amid Market Optimism and Legal Boost
-
-
-
-                    
-
-On May 17, Ether’s price surged by 5.5%, nearing $3,100 for the first time in ten days. Analysts attributed this rally to a decline in demand for fixed-income instruments following stagnant U.S. retail sales data for April. 
-
-
-
-This data heightened market expectations of a potential interest rate cut by the U.S. Federal Reserve to stimulate the economy.
-
-
-
-
-Expansionary measures by the central bank are typically seen as bullish for risk-on markets, due to increased monetary supply or reduced credit costs for businesses and individuals. 
-
-
-
-Investors sought exposure to scarce assets, including cryptocurrencies, leading to gold reaching $2,410, just 0.8% below its all-time high.
-
-
-
-A U.S. Department of Justice indictment unsealed on May 15 also boosted Ether’s surge. 
-
-
-
-
-The indictment accused two individuals of wire fraud and money laundering by manipulating the Ethereum blockchain. 
-
-
-
-The document stated that “Ethereum is a decentralized blockchain […] without the need for a trusted intermediary” and added, “No central actor runs the Ethereum Network.”
-
-
-
-Additionally, the court noted that Ethereum smart contracts enable transactions without a trusted intermediary. 
-
-
-
-These statements boosted Ether investors’ confidence, especially after the U.S. Securities and Exchange Commission issued a Wells notice to Robinhood on May 4 over alleged securities violations related to crypto listings and custodian operations.
-
-
-
-
-Orlando Cosme, founder and CEO of Lexproof, remarked that this verdict contradicts regulators’ classification of ETH as a security, “as there would be no management or entrepreneurial efforts of others.” 
-
-
-
-READ MORE: Oobit Mobile Payment App Integrates with Tether’s USDT and XAUt on TON for Streamlined Transactions
-
-
-
-While this analysis does not change the approval odds of U.S. spot Ether exchange-traded funds (ETFs), it certainly lifted investors’ spirits.
-
-
-
-The U.S. SEC is expected to provide its final ruling on VanEck’s spot Ether ETF request on March 23 and rule on the conversion of Grayscale’s ETHE fund by June 18. 
-
-
-
-Although analysts predict approval odds below 35%, the regulators’ case for classifying Ether as a security instrument has weakened, contributing to the rally above $3,050 on May 17.
-
-
-
-Solana co-founder Anatoly Yakovenko praised Ethereum’s network security, highlighting how coordinating “an invalid state transition or double spend attack” would be nearly impossible. 
-
-
-
-In a May 17 post, Yakovenko added that layer-2 scaling reduced costs without compromising security due to the network’s large number of validators and operators.
-
-
-
-Investors realized that Ethereum’s setbacks, including high transaction fees and slow scalability efforts, were decisions prioritizing security and decentralization. 
-
-
-
-Meanwhile, competitors Solana and BNB Chain opted for higher processing capacity solutions, increasing dependency on fewer entities.
-
-
-
-Ethereum’s strength is evident in its dominance in decentralized application (DApp) activity. 
-
-
-
-The growth of layer-2 solutions such as Base, which gained traction due to its low fees and integration with Coinbase, reinforces Ethereum’s potential as a global settlement layer.
-
-
-
-Ethereum’s $181.5 billion in DApp volume over 30 days is more than seven times larger than its direct competitor, BNB Chain.
-
-
-
-This volume declined merely 3% compared to the previous month, while BNB Chain and Solana experienced 52% and 41% decreases, respectively.
-
-
-
-Analyzing unique active addresses engaging with DApps yields similar results, with Ethereum gaining 3% in 30 days, while BNB Chain and Solana faced steep declines. 
-
-
-
-Highlights from the Ethereum network include Balancer, which saw a 34% volume increase, Morpho Optimizers with an 80% gain, and DODO with a 61% boost.
-
-
-
-In essence, even if U.S. spot Ether ETF approval odds remain low, the network’s dominance in the DApp ecosystem remains unaffected.
-
-
-
-This realization contributed to the ETH price gains on May 17.
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Dogecoin Price Prediction as DOGE Drops to $0.15 Level - Here is the Next Target
-
-
-                        
-                            Dogecoin Price Prediction as DOGE Drops to $0.15 Level – Here is the Next Target                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 20, 2024 01:12 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        DogecoinDogecoin (DOGE) is currently trading at $0.1522, down 1.77% in the last 24 hours, with a 24-hour trading volume of $819 million. Ranking #9 on CoinMarketCap, Dogecoin has a market cap of $22 billion and a circulating supply of 144 billion DOGE coins.This Dogecoin price prediction explores the next potential targets for DOGE as it hovers around the $0.15 level.Dogecoin Price Prediction
-On the 4-hour chart, DOGE highlights the pivot point at $0.15100, suggesting a bullish Dogecoin price prediction. Immediate resistance is identified at $0.15950, followed by $0.16980 and $0.18440.On the downside, immediate support is found at $0.14270, with further support levels at $0.13240 and $0.12030. The Relative Strength Index (RSI) is currently at 53, indicating neutral conditions. The 50-day Exponential Moving Average (EMA) is positioned at $0.15130, suggesting that the market is maintaining a bullish bias above this level.Dogecoin has formed a symmetrical triangle pattern, presenting a significant hurdle around the $0.1545 mark. Simultaneously, support persists around the $0.1513 level, reinforced by the 50-day EMA.The current market price above the 50 EMA indicates a bullish bias, but Dogecoin must break above the $0.1595 resistance level to confirm a continuation of the upward trend. The RSI supporting a buying trend, given its position above 50, further strengthens this outlook.Dogecoin Price PredictionShould Dogecoin maintain its position above the $0.15100 pivot point, it could drive prices higher toward the resistance levels at $0.15950, $0.16980, and $0.18440.However, a break below this pivot point could trigger a sharp selling trend, pushing the price towards the support levels at $0.14270, $0.13240, and $0.12030. The market’s response to these key levels will be crucial in determining Dogecoin’s near-term direction.In conclusion, Dogecoin’s technical outlook remains bullish above the $0.15100 pivot point. The immediate resistance at $0.15950 will be the first hurdle to overcome, followed by $0.16980 and $0.18440.The RSI’s current level suggests room for further gains, although caution is warranted if Dogecoin falls below the pivot point. The 50-day EMA at $0.15130 provides a solid base for the ongoing uptrend.Last Chance to Buy Dogeverse Before Launch – Over $15M Raised
-Dogeverse, the rapidly expanding meme coin network that spans multiple blockchains, including Ethereum, BNB Smart Chain, Polygon, and soon Solana, Base, and Avalanche, has made a notable splash in the cryptocurrency world.The project has successfully raised over $15 million, surpassing its initial goal of just under $13 million. Currently priced at $0.00031, Dogeverse is set for a price increase in less than a day.This broad expansion aims to blend the popular Doge appeal with superior blockchain capabilities, promising greater utility and wider adoption. With the launch imminent, this is your last chance to invest in Dogeverse at the current rate.For more updates and to engage with the community, follow Dogeverse’s official channels on Twitter and Telegram.Don’t miss out – secure your Dogeverse now before the price escalates!                                                    
-                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Weak Correlation, Security Issue Hamper Spot Ethereum ETFs
-
-
-As the US Securities and Exchange Commission (SEC) nears its decision on spot Ethereum exchange-traded funds (ETFs), skepticism grows among crypto industry experts. They highlight concerns over the complex links between Ethereum (ETH) futures and spot markets and potential security issues.
-This skepticism dims the outlook for these ETFs’ regulatory approval.
-Potential SEC Roadblocks for Spot Ethereum ETFs Approval
-
-Nate Geraci, President of the ETF Store, highlighted the necessity for SEC approval on both a 19b-4 change in trading rules and an S-1 registration statement for any ETF launch. However, the process may face delays, especially in S-1 approvals, even if 19b-4s get approval.
-In a separate discussion, James Seyffart, an ETF analyst at Bloomberg Intelligence, expressed strong doubts about the approval of spot Ethereum ETFs. He pointed to the weak correlations between futures and spot markets observed in 2021.
-Read more: Ethereum ETF Explained: What It Is and How It Works
-
-“Overall, I think it’ll be something somewhat objective that just kicks the can down the road. […] If I had to guess, I’d say correlations. Primarily pointing to the futures and spot correlations from 2021, which were quite weak over 1 min and 5 min intervals,” Seyffart said.
-
-
-Seyffart further explained the possibility of the SEC by stating that “the futures market hasn’t been sufficient on a 3-year look back period for detecting fraud and manipulation in the spot market.” It is important to note that the same argument got the agency sued by digital asset manager giant Grayscale.
-However, Seyffart emphasized that this is just a complete guess. He said a better timeline will be revealed “when we see these 19b-4 orders and the SEC’s official correlation analysis data.”
-Proof-of-Stake Mechanism and Staking Complexities
-Furthermore, security classification concerns form another significant hurdle. Scott Johnson, a general partner at Van Buren Capital, highlighted that the SEC is considering treating Ethereum as a security in the upcoming spot ETF order.
-The current law requires the SEC to provide “notice of the grounds for disapproval under consideration.” This cited question was asked and noticed in all the Ethereum filings. Yet, Johnson believes the SEC never asked such questions when filing a Bitcoin ETF.
-
-“The obvious purpose is to potentially deny on the basis that these spot filings are improperly filed as commodity-based trust shares and do not qualify if they are holding a security,” Johnson said.
-
-David Han, an institutional research analyst at Coinbase, added another layer of complexity to the debate. In a recent report, he points out the differences between Bitcoin’s proof-of-work (PoW) and Ethereum’s proof-of-stake (PoS) mechanisms.
-
-He mentioned the regulatory environment for asset staking remains unclear, especially for spot Ethereum ETFs that allow staking. Han argued that the risks associated with staking, such as slashing conditions, validator client variations, fee structures, and liquidity issues, make it unlikely for the SEC to approve spot Ethereum ETFs soon.
-Read more: How to Invest in Ethereum ETFs?
-
-VIDEO
-
-This perspective aligns with recent adjustments by ARK Invest and 21Shares. The firms reportedly amended their spot Ethereum ETF application to remove clauses related to staking. Initially, they aimed to stake Ethereum (ETH) held by the firm, which would have counted as income for the fund.
-The SEC’s upcoming deadlines to respond to spot Ethereum ETF applications from VanEck and ARK Invest are May 23 and 24, respectively. As the SEC deliberates, the crypto community watches closely. They are eager to see if the SEC addresses these hurdles or further delays the spot Ethereum ETFs’ introduction to the market.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Magic Eden's Coinbase Account Used to Bear "Significant" Dust Fees - Coincu
-
-
-
-	
-
-Key Points:
-
-
-
-
-The platform shifted small transaction fees to Magic Eden’s Coinbase account, making Coinbase handle the consolidation costs.
-
-
-
-Coinbase integrated 92,400 small inputs a day from Magic Eden, resulting in significant fees and losses.
-
-
-
-
-In a recent revelation, Danny, the founder of Deezy, highlighted on social media platform X, that NFT marketplace Magic Eden executed a clever maneuver against Coinbase. Danny described this move as one of the “most hilarious finesse moves” he had seen.
-
-
-
-
-
-Magic Eden’s Coinbase Account Leads to Exchange Losses
-
-
-
-Magic Eden‘s strategy involved attaching tiny outputs for marketplace fees to each transaction. These small outputs, ranging from 1,000 to 2,000 satoshis, are inexpensive to create but costly to consolidate later. This clever tactic shifts the burden of managing these outputs onto Coinbase rather than Magic Eden itself.
-
-
-
-Instead of using its own address to collect these small unspent transaction outputs (UTXOs), the platform directed them to Magic Eden’s Coinbase account. Consequently, these numerous small deposits went into Magic Eden’s Coinbase account, making the exchange responsible for the integration and consolidation fees.
-
-
-
-Controversial Tactics in Crypto Transaction Management
-
-
-
-Supporting this, Mempool founder @mononautical noted that in the past 24 blocks, Coinbase Prime had to integrate 92,400 small transaction inputs from Magic Eden’s address. These were spread over 308 transactions, incurring fees at a rate of approximately 7 satoshis per virtual byte (sats/vB). The total cost amounted to roughly 0.59 BTC in fees to recover about 1.75 BTC.
-
-
-
-
-This scheme resulted in significant losses for Coinbase, attributed to its large scale and slow response. Danny commented that Coinbase, due to its size and operational sluggishness, failed to recognize and efficiently manage the consolidation of these transactions, leading to substantial financial losses.
-
-
-
-DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
-Visited 1 times, 1 visit(s) today
-
-	
-	
-
-
-
-	
-
-----------------
-
-Quant Analyst PlanB Says Bitcoin Flashing ‘2017 Vibes,’ Hints at Final Chance To Accumulate BTC Below $70,000 - The Daily Hodl
-
-
-								Well-known quant analyst PlanB says that Bitcoin (BTC) looks the same as it did in 2017 before witnessing a meteoric ascent.
-PlanB tells his 1.9 million followers on the social media platform X that BTC is currently four months into its bull market phase, indicated by the four red dots on his chart.
-
-
-
-
-
-
-
-
-
-
-“2017 vibes.”
-Source: PlanB/X
-Based on PlanB’s chart, the leading cryptocurrency by market cap was trading at around $1,200 when it was at its fourth red dot in 2017 but quickly rallied to the $20,000 mark by the end of the year.
-The quant analyst is also looking at different variations of Bitcoin’s realized cost price indicator, which measures the value of a given cohort’s coins at the price they were last transacted. PlanB’s chart shows three variations of the metric including the five-month, two-year and total realized cost price of BTC.
-The analyst’s chart also shows that BTC’s price is above all three metrics, suggesting that we may be seeing the final days of BTC trading at current levels.
-“Last chance to buy Bitcoin below $70,000?”
-Source: PlanB/X
-PlanB also says that based on the historical correlation between miner revenue and price action, BTC should go “vertical” later in 2024 as the industry’s revenue recovers from the halving.
-“Historically, Bitcoin miner revenue recovers two to five months after a halving, and after that Bitcoin price goes vertical.”
-Source: PlanB/X
-At time of writing, Bitcoin is trading at $67,105.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Why Bitcoin could hit $60,000 before a rally to $72,000 - AMBCrypto
-
-
-
-A crucial resistance at $68,000 could trigger a BTC pullback.
-While the coin might recover to $72,000 later, the price might trend higher.
-
-AMBCrypto’s market analysis revealed that Bitcoin’s [BTC] jump to $67,740 does not mean that the price would no longer nosedive. In fact, there is a chance that BTC could drop to $60,000.
-To arrive at this conclusion, the liquidation heatmap came into play. The liquidation heatmap helps traders to prevent further losses. High liquidation areas could be support or resistance areas.
-North is not the only way
-According to data from Coinglass, there was a big cluster of liquidity from $67,626 to $68,000, indicating that Bitcoin could approach the levels one more time.
-On the downside, there was a major level at $60,160. As such, resistance between $67,000 and $68,000 could force BTC to drop to $60,000 which could later act as support.
-Source: Coinglass
-However, the most concentrated area of liquidity was $72,000, meaning that the next uptrend could push Bitcoin to this point. Establishing this bias was the Realized Price.
-Realized Price measures the average price divided by Bitcoin’s supply. This helps to understand the economic state of the coin. Like the liquidation heatmap, this metric can act as on-chain support or resistance.
-Bitcoin is not back to the bear market
-If the Realized Price hits or crosses Bitcoin’s value, it means that the coin has fallen into a bear phase. For example, the metric flipped BTC in November 2022, confirming a crash in the price.
-As of this writing, the Realized Price was $29,142— two times less than the press time value. With this position, one can infer that BTC has not hit the top of this cycle.
-Source: Glassnode
-In addition, we assessed the SOPR Ratio. SOPR stands for Spent Output Profit Ratio. By definition, SOPR measures the profit ratio of the entire market.
-The value of this metric is calculated as the division of the long-term holder’s SOPR by that of the short-term holder. A high SOPR ratio means higher profits for long-term holders than short-term holders.
-If this is the case, it means that the market is close to the top. Conversely, a low SOPR ratio indicates that short-term holders have made more gains than their long-term counterparts.
-At press time, the ratio was 2.08. Falling to this level suggests that Bitcoin’s price can move higher. For example, the ratio hit the same reading before Bitcoin’s all-time high in March.
-Source: CryptoQuant
-Furthermore, the current state of the metric implied that BTC could rally again. This time, a move to $72,000 could be validated.
-
-Read Bitcoin’s [BTC] Price Prediction 2024-2025
-
-But as mentioned earlier, the first step to hitting the region could be a correction to $60,000.
-In the meantime, BTC could undergo a consolidation phase first. After that, more liquidity could flow out of the coin which could propel the downturn before the upswing.
-
-
-
-
-
-
-----------------
-
-Ethereum SEC Coin (ETHSEC) to Skyrocket 14,000% as KuCoin Listing Announced, While Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-Ethereum SEC Coin (ETHSEC) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Ethereum SEC Coin (ETHSEC), a new Solana memecoin that was launched today, is poised to explode over 14,000% in price in the coming days.
-
-
-
-
-This is because ETHSEC has announced its first centralized exchange listing, which will be on KuCoin.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, Ethereum SEC Coin can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Ethereum SEC Coin could become the next viral memecoin.
-
-
-
-Ethereum SEC Coin launched with over $6,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
-
-
-
-To buy Ethereum SEC Coin on Raydium or Jupiter ahead of the KuCoin listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Ethereum SEC Coin by entering its contract address – DeCpC881FwUmN4HrwHdxTXCfMiSoo69BLMWavA5DjoJd – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like ETHSEC.
-
-
-                
-
-                
-
-----------------
-
-Veteran US Bank State Street Seeks Digital Assets Head
-
-
-                        
-                            Veteran US Bank State Street Opens Search for Digital Assets Head                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 20, 2024 02:48 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        State Street, the second-oldest bank in the US, is actively searching for a leader for its digital assets solutions team.Despite its rich history stretching back to 1792, State Street’s entrance into the crypto space is relatively recent. While the bank has invested and partnered with others to build its digital asset services in the last few years, regulations remain a hurdle, slowing down its ability to directly offer crypto custody and trading services.In 2021, the bank leaped into the institutional crypto trading arena by partnering with interbank trading platform Pure Digital. This partnership involved State Street lending its expertise in foreign exchange technology to power Pure Digital’s platform.State Street’s New Leader Will Oversee Digital Asset Strategy
-On Friday, the bank announced a job opening for a Head of Digital Asset Solutions. It seeks an innovative thinker with comprehensive knowledge of digital asset technology and substantial institutional expertise.This role reports directly to the chief product officer. They will collaborate extensively with State Street’s top teams across product, technology, global delivery, and sales. Additionally, they will engage closely with clients, partners, and vendors. This involvement spans from brainstorming new offerings to delivering state-of-the-art digital asset services.The position demands familiarity with State Street’s business operations. This includes custody, accounting, transfer agency, payments, and data services. It also necessitates a comprehension of next-generation technologies.Areas of expertise include distributed ledger technologies, tokenization services, wallet technology, cryptocurrencies, and AI. Additionally, the job ad specifies a background in digital transformation and business change management.The chosen candidate will be the driving force behind State Street Digital’s overall strategy. The position can be based in either Boston or London.Bank Leverages Lukka’s Tech for Crypto Fund Management
-In 2021, State Street teamed up with Lukka, a crypto asset data and software company to offer fund administration services for crypto assets to its private fund clients.State Street said it would put Lukka’s suite of products to use, including its middle and back office data management solution specifically designed for blockchain and crypto assets, along with Lukka Reference Data and Lukka Prime Pricing Data.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Bitcoin Exchange Binance Announces This Altcoin Will Support Network Upgrade! - Bitcoin Sistemi
-
-
-Binance, the leading global cryptocurrency exchange, announced support for the upcoming IRISnet (IRIS) network upgrade.
-Binance Will Support IRISnet (IRIS) Network Upgrade
-To ensure a smooth user experience, Binance has temporarily suspended deposits and withdrawals of IRIS tokens starting at approximately 07:30 on May 20, 2024.
-
-
-The network upgrade is scheduled to occur at block height 25,006,118, which is expected to be reached around 08:30 on the same day. While deposits and withdrawals will be suspended, trading of IRIS tokens will not be affected during this period.
-Binance assured its users that it will manage all technical requirements for the upgrade.
-
-
-
-
-
-
-Once the network upgrade is completed and stability is confirmed, deposits and withdrawals for IRIS tokens will be restored. Binance stated that there will be no further announcements regarding the relaunch of these services.
-This proactive measure taken by Binance aims to facilitate a smooth transition and maintain optimal service quality during IRISnet network improvement.
-
-
-Users are advised to stay updated via Binance's official channels for additional information or updates.
-*This is not investment advice.
-
-
-
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Research Firm Favors Bitcoin (BTC) 'Covered Strangle' Strategy to Enhance Portfolio Yield
-
-"Our favorite strategy is to buy bitcoin Spot, Sell 100,000 strike call, and Sell 50,000 strike put for the December 2024 expiry. Selling the call could yield 11%, and selling the put could yield 6%," Markus Thielen, founder of 10x Research, said in Monday's client note, detailing the suggestion.
-
-----------------
-
-Ripple's Stablecoin Set For 'Great Impact': Top Economist
-
-
-								In a recent contribution for Finextra, Carlo R.W. de Meijer, an independent economist and owner of De Meijer Independent Financial Services Advisory (MIFSA), provided an in-depth analysis of Ripple’s upcoming stablecoin launch. De Meijer, with nearly four decades of experience at institutions such as ABN, ABN AMRO, and the Royal Bank of Scotland, describes the initiative as a potential “game changer” for both the crypto sector and traditional finance (TradFi).
-On April 4, Ripple unveiled its plan to introduce a stablecoin pegged 1:1 to the US dollar, aiming to be a crucial development in bridging traditional finance (TradFi) and decentralized finance (DeFi). This move has been positively received across both sectors, reflecting rising institutional interest in the stablecoin market. De Meijer remarked, “Ripple’s stablecoin launch is expected to be a game changer for the XRP Ledger ecosystem.”
-Ripple’s stablecoin will be backed by a combination of US dollar deposits, short-term US government bonds, and high-grade commercial paper, ensuring transparency and reliability. The reserves will undergo periodic audits by a reputable third-party accounting firm, with monthly attestation reports made public. This “compliance-first” approach aligns with global regulatory standards, a strategy designed to maintain trust among Ripple’s primary clientele of institutions and governments.
-The stablecoin will initially launch on both the XRP Ledger (XRPL) and Ethereum blockchain, adhering to the ERC-20 token standard. This dual launch is intended to enhance adoption and utility across different blockchain ecosystems. Ripple plans to expand to additional blockchains and DeFi protocols over time, emphasizing interoperability and seamless interaction between various networks.
-What The Economist Expects From Ripple’s Stablecoin Launch
-Integrating the stablecoin with major cryptocurrency exchanges could increase its accessibility and liquidity, facilitating easier trading and wider adoption by individual users. However, no decisions have been made on which exchanges it will initially trade on.
-
-The initial launch will target the US market, focusing on enterprise customers and banking institutions. De Meijer notes that regional variations for markets in Europe and Asia might follow, driven by demand from emerging markets for stablecoin payouts.
-Ripple’s shift to stablecoins for US transactions highlights the ongoing regulatory uncertainty surrounding XRP and should be seen as a response to regulatory challenges. “By offering a stablecoin backed by dollar based reserves, Ripple aims to provide a regulatory-compliant alternative to XRP, thereby mitigating concerns related to regulations and investor protection,” de Meijer remarks.
-He identifies several strategic motivations behind Ripple’s stablecoin initiative. One primary driver is the enhancement of the XRP Ledger ecosystem. The issuance of a stablecoin is expected to attract more users, boost liquidity, and drive the development of new financial applications.
-
-Ripple envisions its stablecoin as a pivotal asset in expanding its digital payments footprint, strengthening its strategic position, and forming new financial market alliances. The stablecoin is also intended to enhance Ripple’s On-Demand Liquidity (ODL) solution, addressing the volatility issues associated with XRP. This stablecoin could enhance the efficiency and cost-effectiveness of ODL, enabling rapid transactions and providing a more stable asset for financial institutions and DeFi ecosystems.
-Moreover, this development could unlock new opportunities for institutional and DeFi use cases across various industries, driving more adoption and development within the XRPL ecosystem.
-Despite the ongoing legal battle with the SEC, Ripple remains optimistic about launching its stablecoin by the end of the year. De Meijer highlights that the introduction of a stablecoin could pave the way for new applications beyond cross-border payments, such as remittances, micropayments, and various DeFi activities.
-This could increase demand for XRP and stimulate the growth of the XRPL ecosystem. The stablecoin’s compliance with high regulatory standards and its integration into major crypto exchanges could further bolster Ripple’s market presence.
-De Meijer believes the stablecoin could revolutionize cross-border payments, enhance the functionality of the XRP Ledger ecosystem, and solidify Ripple’s position as a leading force in the blockchain and digital currency sectors. [The launch] may have a great impact on both the crypto world as well as the traditional financial world, further narrowing the gap between traditional finance (TradFi) and decentralized finance (DeFi),” the economist concludes.
-At press time, XRP traded at $0.51603.
-XRP price, 1-week chart | Source: XRPUSD on TradingView.com
-Featured image from PYMNTS.com, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
 XRP Ledger doubles transactions in Q1 amid SEC case
 
 
@@ -9614,3 +9031,546 @@ NYAG Takes Victory Lap as Court Approves Genesis Settlement
 Democrat House Leadership Says Crypto Bill Vote Won't Be Whipped
 
 The bill, if signed into law, would block shareholders from being able to sue publicly traded companies, preempt state regulations around digital assets, weaken fiduciary requirements and undermine capital markets, the letter said.
+
+----------------
+
+Here’s When Bitcoin Will Ignite New Parabolic Phase, According to Analyst Who Nailed Recent BTC Correction - The Daily Hodl
+
+
+								A crypto strategist who accurately timed the most recent Bitcoin correction is unveiling the timeline for the next BTC parabolic move.
+Pseudonymous analyst Rekt Capital tells his 470,400 followers on the social media platform X that Bitcoin has entered the post-halving reaccumulation phase and may be months away from witnessing another steep upside move based on historical data.
+
+
+
+
+
+
+
+
+
+
+“In 2020, Bitcoin performed a -19% retrace around the Halving.
+And then consolidated for 160 days after the Halving before breaking out into the Parabolic Phase of the cycle (green).
+In 2024, Bitcoin retraced almost -24% around the Halving.
+And if history repeats, price could consolidate for up to 160 days before breaking out into the Parabolic Phase of the cycle (green).”
+Source: Rekt Capital/X
+Looking at Bitcoin’s daily chart, the analyst highlights that BTC appears to have broken out of a bullish continuation pattern after retesting resistance at $66,000 as support.
+“Trend continuation secured. Bitcoin Bull Flag breakout confirmed.” 
+Source: Rekt Capital/X
+Zooming out, Rekt shares a chart suggesting that the Bitcoin bull market still has a long way to go.
+“We are here (green circle).” 
+Source: Rekt Capital/X
+At time of writing, Bitcoin is trading at $71,148, up 7.50% in the last 24 hours.
+As for other crypto assets, Rekt says that fresh altcoin rallies are on the horizon.
+“Welcome to the Q2 Altcoin Hype Cycle. Things are only just getting started.”
+Source: Rekt Capital/X
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: DALLE3
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Data Released: Developers Focus on These 10 Artificial Intelligence (AI) Altcoins - Bitcoin Sistemi
+
+
+Cryptocurrency analysis company Santiment shared some data about the situation on the altcoin side while the cryptocurrency market is on the rise.
+Led by Ethereum, the cryptocurrency market was on a roll as rumors grew that ETH Spot ETFs would be approved. Following successive good news, ETH price exceeded the $ 3,700 level, which it has not reached for a long time.
+
+
+On the other hand, Santiment published its data regarding the field of artificial intelligence, one of the most popular altcoin themes of recent times.
+The analysis company listed the artificial intelligence (AI) altcoins and developer scores most focused on by developers in the last 30 days as follows:
+
+
+
+
+
+
+Oasis Network (ROSE) – 172.2
+NEAR Protocol (NEAR) – 158.67
+The Graph (GRT) – 115.3
+Bittensor (TAO) – 67.07
+Golem (GLM) 62
+Ocean Protocol (OCEAN) – 55.27
+Oraichain Token (ORAI) – 49.03
+iExec RLC (RLC) – 43.27
+SingularityNET (AGIX) – 37.73
+Streamr (DATA) – 29.43
+
+
+Santiment obtains developer scores for the altcoins in question through Github data. The codes that developers have made the most changes to are edited by excluding spam changes and converted into a score.
+*This is not investment advice.
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Bitcoin Hits Record Highs Against Local Currencies in Asia and South America with 7% Daily Surge
+
+
+                        
+                            Bitcoin Hits Record Highs Against Local Currencies in Asia and South America with 7% Daily Surge                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 21, 2024 02:45 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Bitcoin has achieved all-time highs against local currencies in several countries across Asia and South America, following a significant 7% surge in its price.On May 21, Bitcoin reached an intraday and six-week high of $71,650, marking a gain of over 7% within a 24-hour period.According to CoinGecko, this puts the asset within a 3.4% range of its all-time high in USD terms, recorded on March 14, at $73,738.Bitcoin Sets New Highs Against Various Fiat Currencies
+The surge in Bitcoin’s price has resulted in new record highs against various fiat currencies.In Japan, BTC hit an all-time high of 11.2 million yen during early trading on May 21.This marks the first time that the asset has surpassed the 11 million JPY threshold.The Japanese yen has experienced a weakening trend against the U.S. dollar in recent months, depreciating by 10% since the beginning of the year.Argentina also witnessed Bitcoin reaching a peak value of 63.8 million Argentine pesos (ARS) on May 21, slightly surpassing the highs seen in mid-March.The country has been grappling with high inflation, currently standing at a staggering 290%, along with currency devaluation over the past couple of years.In the Philippines, Bitcoin briefly reached a record high of 4.18 million pesos (PHP) on May 21, surpassing the mid-March highs.Similar trends were observed in other countries such as Britain, Australia, Canada, Chile, Colombia, Egypt, Norway, India, South Korea, Taiwan, and Turkey, as noted by industry observer Thomas Fahrer on X.Bitcoin Short Squeeze on the Horizon?
+In a recent post on X, crypto analyst Willy Woo highlighted the liquidation of a month’s worth of Bitcoin short positions, suggesting the possibility of a short-squeeze beyond the all-time highs.Coinglass reported that within the past 24 hours, 79,010 traders were liquidated, with total crypto liquidations amounting to $345 million, of which 78.5% were short positions.As reported, Markus Thielen, the head of research at 10x Research, previously predicted that a breakthrough above $67,500 could potentially lead to new all-time highs. Currently, BTC is trading at $70,945, just $2,500 away from reaching a new all-time high in U.S. dollars.Aside from 10x Research, some other analysts have also turned bullish on Bitcoin following weeks-long consolidation.Leading trading firm QCP Capital has expressed optimism about Bitcoin’s price momentum, forecasting a potential return to the highs of $74,000.In a recent note, the firm said it has observed substantial buyers acquiring 100,000 to 120,000 BTC Calls for December 2024, indicating confidence in the upward movement of the cryptocurrency.“US CPI numbers triggered a break out of the range across risk assets. BTC has since traded back above 66k,” the firm wrote.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+BingX CPO Vivien Lin on 6 Years and Its Bold Plans
+
+
+							
+Looking for insights into the crypto world? Dive into our interview with Vivien Lin, Chief Product Officer at BingX, where we explore their unique approach in a crowded market. From innovative solutions to strategic partnerships, discover how BingX is reshaping the exchange game and gearing up for global expansion. Plus, get Lin’s take on the recent Bitcoin halving and lessons learned for ongoing success.
+
+
+
+1. How does BingX differentiate itself from other platforms, and what makes its approach unique?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At BingX, we’re all about putting our users first. Building a crypto exchange? Sure, that’s exciting. But what really sets us apart is our commitment to cultivating a community that resonates with traders of all levels.
+
+
+
+Let’s dive into a quick example to show what we mean. We noticed that traders weren’t too happy about slippage when setting their take profit/stop loss orders, despite our efforts to collaborate with liquidity providers to stabilize the market for perpetual contracts. So, we went back to the drawing board, searching for a clearer way to tackle this pesky issue.
+
+
+
+Enter our innovative solution: for a nominal fee — just a few basis points — we offer price protection. This means we guarantee our users’ trade will execute at the price they set, with no surprises. And here’s the kicker: unlike complex options, our price protection feature is straightforward, without the headache of having to understand maturities or strike prices. It’s just simple, effective, and perfectly aligned with what the users expect. This is just one way we’re rethinking the exchange game to ensure it’s winning for users.
+
+
+
+2. Reflecting on BingX’s 6th anniversary, what are the key milestones or achievements that stand out to you the most?
+
+
+
+
+
+
+
+As we celebrate BingX’s 6th Anniversary, it’s quite the journey to look back on. Not everyone realizes that BingX has been around for six years. During this time, we’ve chosen a path of quiet growth, focusing our energies on delivering the best possible experience to our 10 million users. Perhaps one of our proudest achievements is being the first exchange to introduce revolutionary copy trading features to crypto trading. This innovative approach has not only set us apart but has significantly enhanced the trading experience on our platform.
+
+
+
+Our dedication and hard work have paid off, propelling BingX to great heights. We’ve seen remarkable success, with our trading volume skyrocketing to an impressive $12 billion per day. Furthermore, the platform now boasts a diverse portfolio with 750 new tokens listed, and we’ve expanded our language support to 18 languages. These milestones are a testament to the incredible progress we’ve made.
+
+
+
+But, as we reflect on our past achievements, we’re also looking to the future. It’s time for a strategy shift. While our commitment to our users remains unwavering — they will always be our top priority — we’re gearing up to take BingX global. This year marks a significant push in our global expansion strategy, aiming to introduce BingX’s unique products and services to more markets worldwide.
+
+
+
+You’ll soon find BingX making its mark in various corners of the globe. Yet, as we expand, we’re not losing sight of what’s important: customizing our products and services to meet the specific needs of each market. We understand that each region has its unique challenges and opportunities, and we are committed to tailoring our offerings to ensure we meet, and exceed, the expectations of our users, no matter where they are
+
+
+
+3. Could you share any standout moments or insights you gained from attending the TOKEN2049 conference?
+
+
+
+
+
+
+
+Attending TOKEN2049 was an absolute ride, and I’ve got loads to share! First off, let’s just say that when it comes to the crypto community, there’s no stopping us. Despite the floods in Dubai, we all somehow made it. Picture this: some of our colleagues, determined not to miss out, ended up in Oman thanks to the weather but still managed to join the event. Now if that’s not commitment, I don’t know what is!
+
+
+
+ And let’s not forget the backdrop to all this excitement. After two rather silent years, where it felt like everything was on pause, this conference was a burst of energy. It was like watching the crypto world come back to life in the most vibrant way. Bitcoin and cryptocurrency, despite the ups and downs, have this incredible knack for bouncing back. It’s resilience and energy like nothing else.
+
+
+
+Being there, seeing the determination and passion, really impressed upon me how unstoppable the Bitcoin and cryptocurrency movement is. It’s more than just transactions and technology; it’s about the community, the drive, and this undeniable force that keeps pushing us forward. So yeah, TOKEN2049 wasn’t just another conference. It was a testament to the spirit of the crypto world, proving yet again that we can weather any storm (literally!) and come out stronger.
+
+
+
+4. Can you explain how BingX teaming up with Chelsea FC fits into the company’s goals or plans?
+
+
+
+
+
+
+
+This strategic partnership marks BingX’s inaugural foray into sports and entertainment and a testament to shared commitments to excellence. It unites two industry powerhouses poised to shape the future. It is always important for us to pick brands that strategically align with us. Both BingX and Chelsea F.C. share a passion and commitment to investing in the future and empowering those who are close to the respective brands.
+
+
+
+In this dynamic partnership, Chelsea and BingX have collaborated on a range of activities focusing on global brand growth and engaging both Chelsea fans and BingX users through exciting digital and physical content. We recently kicked off celebrating Empowered with Chelsea F.C., showing empowerment isn’t just a word, but a daily commitment to growth and support. BingX will connect with hundreds of millions of loyal Chelsea fans worldwide and billions tuning into the Premier League each season.
+
+
+
+5. What’s your take on the recent Bitcoin halving’s impact on BingX and the broader cryptocurrency market?
+
+
+
+
+
+
+
+While important, the Bitcoin halving didn’t directly impact BingX since we solely facilitate the buying and selling of Bitcoin. We did, however, host various trading events to commemorate the halving occasion, which is special and unique to the asset, highlighting its scarcity. 
+
+
+
+The impact of the halving on the greater cryptocurrency market is still being felt. However, while prices typically dip in a retrace phase following the halving, it is difficult to solely point a finger to this halving for the dip in the market. With so many micro and macroeconomic events happening, investors were sent  into a risk-off mode, selling assets like Bitcoin. Therefore, the halving should be looked at not independently but as a factor of the broader cryptocurrency market.
+
+
+
+6. What important lessons have you learned as BingX’s Chief Product Officer for its ongoing growth and success?
+
+
+
+
+
+
+
+The most important lesson I’ve learned is to always be user-centric. This encompasses listening to both new and long-term users so your entire ecosystem can maintain retention. As we have seen, the market has grown and changed from 2022 to now. The companies that have weathered the storm are those that develop and launch products that cater directly to what the user needs. Ensuring products are user-friendly will also give you the edge.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Krypcore Web3 Now Available in the Microsoft Azure Marketplace
+
+
+Microsoft Azure customers worldwide now gain access to KrypC’s flagship product, Krypcore Web3,  to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.
+New Jersey, USA — May 21, 2024 — KrypC, a leading blockchain and Web3 company, today announced the availability of its flagship product Krypcore Web3 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. KrypC’s customers can now take advantage of the scalability, high availability, and security of Azure, with streamlined deployment and management.
+Krypcore Web3 is an enterprise-grade middleware platform that provides robust Web 3.0 infrastructure, powerful APIs, a unified SDK, and many pre-built tools for creating and deploying Web3 applications on various blockchain protocols. To simplify the blockchain adoption journey, Krypcore Web3 provides certain unique and enterprise-friendly features such as gasless transactions, datalake, distributed storage, wallet-as-a-service, NFT studio, and smart contract studio. This comprehensive suite enables enterprises to use blockchain technology to create innovative business solutions across sectors such as supply chains, media & entertainment, finance, healthcare, and more.   
+
+The availability of Krypcore Web3 in the Microsoft Azure Marketplace allows us to offer the benefits of Krypcore to a wider range of organizations across the globe. By subscribing to Krypcore Web3 in the Azure Marketplace, enterprises and leading developers can quickly leap forward in their Web3 and blockchain innovation journey backed by Azure’s trusted cloud platform. 
+Said Dave Sasson, Chief Business Officer of KrypC. 
+
+Through Krypcore we aim to simplify and accelerate Web3 adoption, providing developers and enterprises with the tools necessary to leverage the advantages the Web 3.0 ecosystem provides.   
+Said Mohit Sethi, head of Research and Technology at KrypC.
+
+ Microsoft Azure Marketplace welcomes Krypcore Web3, which joins a cloud marketplace landscape predicted to grow revenue 500% from 2022 to 2025.
+Said Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp.
+
+ Thanks to Azure Marketplace and partners like KrypC, customers can do more with less by increasing efficiency, buying confidently, and spending smarter.
+
+The Azure Marketplace is an online market for buying and selling cloud solutions certified to run on Azure. The Azure Marketplace helps connect companies seeking innovative, cloud-based solutions with partners who have developed solutions that are ready to use. 
+Learn more about Krypcore Web3 and get it now by visiting its page on the Azure Marketplace.
+About KrypC
+KrypC Technologies, a pioneering venture in blockchain technology, was founded by seasoned cryptography and enterprise tech professionals with a vision to establish a global blockchain powerhouse that empowers enterprises and startups by harnessing blockchain technology to build innovative distributed ledger solutions. Since its inception in 2016, KrypC has continuously invested time and resources into developing cutting-edge technology assets, facilitating faster and easier blockchain adoption. Headquartered in the USA, KrypC operates across multiple locations including the US, Netherlands, India, and the UAE.
+For more information, please visit www.krypcore.com and follow us on LinkedIn.
+
+
+
+----------------
+
+House Democrats Choose "No Whip" Stance on FIT21 Crypto Bill
+
+
+In a recent development, a report revealed that the House Democrats leaders have stated that they will not whip against the Financial Innovation and Technology for the 21st Century Act (FIT21).
+This stance is seen as significant given the ongoing debate over regulating cryptocurrencies and digital commodities.
+Background and Concerns Raised by House Democrats
+
+Eleanor Mueller, a reporter at Politico, recently shared an email from the House Democrats regarding the FIT21 Act bill. The email outlines a quick background of the bill and the House Democrat’s overall perspective.
+It highlights concerns about language in the bill that treats digital assets sold as “investment contracts” as non-securities, allowing them to be traded in the secondary market. The email notes this language undermines decades of legal precedent, creating uncertainty in traditional securities markets.
+
+“The bill also provides a safe harbor in which entities can file an ‘intent to register’ if they meet certain requirements, effectively shielding them from SEC rules and regulations until the SEC and CFTC finalize their rules, which weakens investor protections and opens the door to fraud and market manipulation,” the email reads.
+
+Read more: Crypto Regulation: What Are the Benefits and Drawbacks?
+
+While the email does not urge the Democrats to vote “no,” it states that Ranking Member Maxine Waters strongly opposes the bill. Ranking Members Waters and David Scott sent a letter to their colleagues to vote “no” on the bill.
+They express concerns that the bill would result in the mass deregulation of crypto and some traditional securities. Furthermore, they see this deregulation would severely undermine US capital markets by removing key protections for investors and consumers.
+
+“The entities that stand to benefit from this bill are not ordinary investors trying to build wealth but rather the crypto firms that have chosen not to register with the SEC or otherwise comply with the securities laws. They have already made billions of dollars unlawfully issuing or facilitating the buying and selling of crypto securities. Many of these firms, like Coinbase, are being sued by the SEC for breaking our nation’s securities laws. Now, rather than comply with the law, these firms are lobbying Congress to legitimize their illegal activities,” Ranking Members Waters and Scott wrote in their joint letter.
+
+Conversely, Republican House Financial Services Committee lawmakers announced that the House will vote on the FIT21 legislation this week.
+Support and Legislative Progress for FIT21
+FIT21 was introduced in July 2023 by Chairman Glenn “GT” Thompson and co-sponsored by several prominent Republicans. It aims to establish clear federal requirements for digital asset markets and balance innovation with robust consumer protections.
+
+Several industry advocates and House members support the bill. The Blockchain Association and Crypto Council for Innovation have both called on House leadership to support FIT21. The Blockchain Association recently sent a letter to House Speaker Mike Johnson and Rep. Hakeem Jeffries, advocating for a floor vote.
+
+“The policy issues facing our industry are complex – and passing this legislation in the House will enable further discussion and debate in the Senate. Therefore, our members urge the House of Representatives to vote “yes” on H.R. 4763,” the Blockchain Association explained.
+
+Read more: How Does Regulation Impact Crypto Marketing? A Complete Guide
+Besides FIT21, other crypto-focused legislation is also progressing. BeInCrypto recently reported that the US Senate voted to pass H.J. Res 109, a resolution to overturn the SEC’s controversial Staff Accounting Bulletin No. 121 (SAB 121). However, it did not secure enough votes to be veto-proof. President Joe Biden has vowed to veto the resolution, arguing that overturning SAB 121 would weaken the SEC’s ability to protect investors and the financial system from crypto-related risks.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Coinbase Taps Ex-Rep. for Global Advisory Council
+
+
+                        
+                            Coinbase Taps Ex-Rep. Kendrick Meek for Advisory Council as House Gears Up for Crypto Legislation Vote                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 21, 2024 02:24 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Former Congressman Kendrick Meek (D-Fla.) is hopping on board Coinbase’s global advisory council, The Hill reported on Monday.Faryar Shirzad, Coinbase’s chief policy officer, welcomed Kendrick for his experienced leadership, noting its importance in updating the system, especially with 52 million Americans diving into the crypto economy.Meek’s appointment to the council comes just before the House vote on the Financial Innovation and Technology for the 21st Century Act (FIT21).The new legislation aims to clarify how digital assets are regulated. It assigns clear roles to the Securities and Exchange Commission and the Commodity Futures Trading Commission. Specifically, the law would give the CFTC more power to oversee most cryptocurrencies, treating them like commodities.The bill cruised through the House Agriculture and Financial Services committees last summer with backing from both parties. But it needs Democrat votes to pass the full House on Wednesday.Former Congressman Champions Crypto for Underserved Communities
+Meek served in the House of Representatives for Florida’s 17th Congressional District from 2003 to 2011. He also held positions on the House Ways and Means Committee, the Democratic Steering and Policy Committee, and the Congressional Black Caucus. Additionally, he chaired the board of directors of the Congressional Black Caucus Foundation.“As we work to address the compounding economic stressors of the traditional financial system, digital assets offer new opportunities to address the systemic issues that have plagued our financial system and failed too many Americans,” Meek said in a statement.“And for Black and Hispanic Americans and other underserved communities, the need for a more equitable and inclusive financial system has never been more urgent.”The ex-congressman joins a high-profile council of Washington insiders.Last November, Coinbase welcomed former Defense Secretary Mark Esper, former Rep. Stephanie Murphy, and other policy heavyweights to the global advisory council, launched in May. Its initial members included former Sen. Patrick Toomey and former Reps. Tim Ryan and Sean Patrick Maloney. Maloney stepped down earlier this year.“I’m looking forward to using my seat on the Council to support American leadership in shaping the future of digital assets and building in protections for vulnerable communities,” Meek said.First Crypto Regulation in US Could Be Near Pending FIT21 Approval
+On Monday, the Blockchain Association called for a full House floor vote on the FIT21 initiative. If both the House and the Senate approve, it would represent the first crypto-focused regulation
+in the US.Regulators in the US have faced criticism for their handling of the crypto industry, particularly the SEC for its enforcement-oriented regulation.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Ethereum ETF Approval Odds Increase as SEC Asks For Filings
+
+
+                        
+                            Ethereum ETF Approval Odds Increase as SEC Asks For New Filings                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 21, 2024 02:24 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The U.S. Securities and Exchange Commission (SEC) is requiring exchanges to update their spot Ethereum exchange-traded fund (ETF) filings.According to a recent post shared by Bloomberg Intelligence ETF analyst Eric Balchunas, the SEC is asking the applicants to file new Form 19b-4 on an “accelerated basis” to inform the Commission of a proposed rule change.Spot Ethereum ETF Approval Odds 75%: Analysts
+The post suggested that this move indicated the SEC’s tendency to approve the Ethereum ETF applications by the Thursday deadline, marking potential issuance of the second spot digital asset ETF in the United States.Balchunas and another Bloomberg ETF analyst James Seyffart estimated that the odds of Ethereum ETF approval increased significantly from the previous 25% to the current 75%. The prediction was made before the updated Form 19b-4 request.The ETF Store president Nate Geraci said in a social media post that the SEC must approve both the 19b-4s and S-1s for exchange rule changes and registration statements so the ETFs can launch.Though a part of the crypto community has been expecting an approval, Balchunas believed that it was merely “wishcasting.”US Crypto Policy Could Do a 180
+“If the spot ETH ETF is approved, it will be a true shock to everyone I know in DC who’s close to this process,” said Variant Fund Chief Legal Officer Jake Chervinsky. “That doesn’t mean it won’t happen.”“It means approval could signal a major shift in US crypto policy after the SAB 121 vote, perhaps more important than the ETF itself,” said Chervinsky.Seyffart seconded Chervinsky’s statement, saying, “This is the correct take. I was literally in DC last week for @PerianneDC’s Blockchain Summit and almost every single person I spoke to said that it was going to be denied.”The Biden administration could look more crypto-friendly once the ETFs are approved. Former CFTC commissioner Chris Giancarlo recently said that Donald Trump is the “First Crypto President,” who is running for re-election.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Ripple Vs. SEC Reaches Climax With Final Filing: Details
+
+
+								The legal battle between Ripple Labs and the US Securities and Exchange Commission (SEC) has intensified with the SEC’s latest court filing, marking the final submission before Judge Analisa Torres of the Southern District of New York deliberates on the remedies phase of this landmark case.
+Ripple Vs. SEC: The Final Move
+In its filing dated May 20, 2024, the SEC provided a comprehensive rebuttal to Ripple’s request to seal certain financial documents and other evidence crucial to the case. The SEC’s letter to Judge Torres articulates a staunch opposition to Ripple’s motion, particularly concerning the concealment of financial data and contractual terms integral to the Court’s evaluation of appropriate remedies.
+
+The SEC’s opposition hinges on the principle of public access to judicial documents, a cornerstone of legal transparency and accountability. Citing Lugosch v. Pyramid Co. of Onondaga, the SEC emphasizes the historical importance of public access, especially in cases that involve public interest and regulatory enforcement. “The common law right of public access to judicial documents is firmly rooted in our nation’s history,” the SEC forcefully argues in its brief, highlighting the necessity of transparency for public scrutiny and trust.
+While the SEC consents to the sealing of five exhibits in their entirety, it contests the company’s request to withhold key financial figures and terms of contracts cited in the remedy deliberations. This includes details that would reveal Ripple’s current financial health, the volume of recent XRP sales, and the specifics of revenue and expenses—all deemed vital for assessing the company’s compliance and determining any potential penalties.
+The SEC critically assesses the motives for sealing: “Ripple invites the public to form opinions about the merits of the SEC’s positions. It cannot simultaneously hide from them the evidence on which that position is based,” the SEC stated, pointing to a contradiction in the company’s public communications versus its courtroom requests.
+
+Ripple’s justification for its sealing requests cites the potential harm that public disclosure of sensitive financial details could inflict on its competitive position in the market. However, the SEC counters this by highlighting inconsistencies in Ripple’s argument about the relevance and sensitivity of the information.
+The Commission challenges the claim that the sealed information is irrelevant, stating, “Once an item is deemed relevant to the exercise of judicial power, the weight to be given the presumption of access must be governed by the role of the material at issue in the exercise of Article III judicial power.”
+The SEC also notes the staleness of some information Ripple wishes to seal, arguing that financial details from years past are unlikely to impact Ripple’s current business operations significantly. “Stale business records cannot support the necessary finding of harm,” the SEC argues, reinforcing its stance on the need for transparency of outdated financial records.
+As Judge Torres prepares to make her ruling, the crypto industry watches closely. The stakes are notably high, with the SEC proposing fines and penalties amounting to approximately $2 billion, while Ripple’s counteroffer recommends a maximum penalty of merely $10 million.
+Notably, the only remaining step in the Ripple vs. SEC case before Judge Torres can issue her final decision is for Judge Netburn to determine whether Andrea Fox is a summary or expert witness. However this decision alone could potentially lead to further complications.
+At press time, XRP traded at $0.53487.
+XRP price, 1-week chart | Source: XRPUSD on TradingView.com
+Featured image from Shutterstock, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+SEC may let Ethereum spot ETFs happen, but not with staked ETH: Galaxy Digital Head of Research - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            The US Securities and Exchange Commission (SEC) may greenlight spot Ethereum exchange-traded funds (ETFs) that do not include the staking feature, suggests Alex Thorn, Head of Research at Galaxy Digital. He believes the SEC would distinguish Ethereum (ETH) and staked ETH in the approval process.“If the speculation about a 180 from SEC on the Ethereum ETFs is true, I would guess they try to thread a needle between “ETH” NOT being a security and “staked ETH” (or even more flimsily, “staking as a service ETH”) as BEING a security,” he stated.According to Thorn, by setting clear boundaries between ETH and staked ETH, the SEC could approve spot Ethereum ETFs without contradicting its past actions, including the alleged investigation into the Ethereum Foundation and entities associated with Ethereum, like Consensys.“In this case and perhaps for other reasons, you would expect [the] SEC to prohibit the ETFs from staking the ETH they hold,” he added.Recent comments from Bloomberg ETF analysts James Seyffart and Eric Balchunas have fueled the conversation around the SEC’s potential shift in stance.The two analysts said on Monday that the odds for a spot Ethereum ETF approval had increased to 75%. Balchunas noted that the key factor appears to be a “political issue.”Commenting on a post by Scott Johnsson, Van Buren Capital’s general partner, regarding the matter, Bloomberg ETF analyst James Seyffart suggested that the removal of staking could be the deciding factor.The SEC’s decision on VanEck’s spot Ethereum ETF is expected by May 23, and the ARK21 Shares Ethereum ETF’s deadline follows on May 24.Middle groundApart from the latest development, exchanges seeking to list and trade shares of spot Ethereum ETFs have reportedly been asked to revise their 19b-4 filings. This suggests another scenario: the SEC may approve 19b-4s for spot Ethereum ETF but delay S-1 applications.For an ETF to be approved and begin trading, the issuer needs the SEC to approve two applications: a 19b-4 application, which grants regulatory approval for its listing, and an S-1 application, which lets the ETF launch and operate fully.In short, while a 19b-4 might be technically approved without an S-1, the ETF would not be operable without an S-1’s approval. Trading on the spot Bitcoin ETFs began just a few days after both applications were approved around the same time.The SEC may want to avoid backlash from the crypto community, but it may not be comfortable allowing spot Ethereum ETFs on the market just yet.To achieve this middle ground, the SEC may consider approving the 19b-4 for the general product but delaying the approval of any specific S-1 applications from issuers. This approach would let the agency effectively stall the launch of specific Ethereum ETFs until further scrutiny.The SEC’s consideration of spot Ethereum ETFs comes amid intensifying regulatory scrutiny of crypto in the US.Crypto has increasingly become a political flashpoint between the two parties that dominate American politics. There have been signs that Democrats are leaning more toward tightening enforcement, though not all Democrats are against crypto. Last Thursday, 21 Democrats joined Republicans in voting for a resolution to overturn the SEC’s Staff Accounting Bulletin No. 121 (SAB 121).Under the leadership of the Biden administration, the US has been known for its regulatory crackdown on the industry. The US SEC makes itself an example of this skeptical approach. The federal agency’s legal actions against crypto entities have been an ongoing topic of discussion over the past few years.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+Bitcoin (BTC) Surges Over $71K as Ether (ETH) ETF Hopes Lead to $260M in Short Liquidations
+
+“Our view is that it is unlikely that spot can settle here, with approval taking us closer to 4k and denial back to 3k,” Singapore-based QCP Capital said in a Tuesday broadcast. “Exchanges are being asked to update 19b-4 filings on an accelerated basis, suggesting approval is imminent.”
+
+----------------
+
+Darknet Drug Dealer 'Pharaoh' Accused of Facilitating $100M in Crypto Sales Arrested
+
+
+                        
+                            Darknet Drug Dealer ‘Pharaoh’ Accused of Facilitating $100M in Crypto Sales Arrested in New York                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 21, 2024 02:16 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Taiwanese national and dark web drug dealer Rui-Siang Lin, ‘Pharaoh’, who allegedly made more than $100 million in cryptocurrency sales of illegal narcotics, has been arrested by U.S. authorities.Lin used the identity “Pharoah” to operate the online “Incognito Market” for nearly four years and was arrested at New York’s John F. Kennedy Airport on Saturday. Lin allegedly sold illegal narcotics including deadly fentanyl to customers around the world, said the U.S. attorney’s office in a statement.To capture Lin successfully, U.S. authorities and FBI worked with the El Dorado Task Force’s Darkweb and Cryptocurrency Task Force using cutting-edge techniques targeting savvy criminals.Charges Against the Pharoah
+According to the statement, Lin is being charged with one count of engaging in a continuing criminal enterprise, which carries a mandatory minimum sentence of life in prison. One count of narcotics conspiracy, which carries a mandatory minimum sentence of 10 years in prison and a maximum potential sentence of life in prison.One count of money laundering, which carries a maximum potential sentence of 20 years in prison; and one count of conspiracy to sell adulterated and misbranded medication, which carries a maximum potential sentence of five years in prison.“As alleged, Rui-Siang Lin operated a sophisticated and dangerous online narcotics marketplace through which he profited millions of dollars at the community’s expense,” said U.S. Attorney Damian Williams, in the press release.“The dedicated prosecutors from the Southern District of New York and our law enforcement partners will pursue criminal actors regardless of whether they operate on street corners or in the dark corners of the internet.  The so-called ‘dark web’ is not a safe haven for those who seek to break the law,” added Williams.Incognito Market Operated for Four Years
+‘Pharaoh’ allegedly operated the Incognito Market, which the FBI describes as “one of the largest online platforms for narcotics sales” for almost four years. The platform conducted $100 million in illicit narcotics transactions and reaped millions of dollars in personal profits.Each listing on the Incognito Market was sold by a particular vendor which paid 5% from every transaction to ‘Pharaoh’. This fee then funded Incognito Market’s operations, including paying its employee salaries and for computer servers.To facilitate the transactions, Incognito Market had its own bank, which allowed its users to deposit cryptocurrencies on the site into their own “bank accounts.”  After a narcotics transaction was completed, crypto from the buyer’s bank account was transferred to the seller’s bank account, less the 5% fee that Incognito collected, said the U.S. authorities.“Under the promise of anonymity, Lin’s alleged operation offered the purchase of lethal drugs and fraudulent prescription medication on a global scale.  The FBI is committed to targeting and dismantling all criminal enterprises, especially those whose leaders distribute illegal substances on the dark web,” said FBI Assistant Director in Charge James Smith.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+SEC Chair Gary Gensler Mocked By Popular Crypto Analyst After Spot Ethereum ETF Progress: 'His Meltdown Would Be Historic' - Benzinga
+
+Prominent crypto market observer and founder of venture fund Cinneamhain Ventures, Adam Cochran, took a dig at SEC Chair Gary Gensler over the latter's stance on Ethereum ETH/USD being a security.What Happened: Cochran, one of the fiercest critics of Gensler, took to social platform X mocking the SEC Chief's duplicitous position on categorizing cryptocurrencies as securities.He wrote, "I'd love to see @iampaulgrewal ask @GaryGensler in court to explain the difference between ETH (a non-security) and the countless assets he claimed are securities in their cases." Cochran went to the extent of saying, "His meltdown would be historic."Cochran mentioned Paul Grewal, Coinbase’s Chief Legal Officer — an outspoken critic of Gensler himself who has maintained throughout that Ether is a security. He had previously remarked that the regulator has “no good reason” to deny the ETF applications Why It Matters: Cochran's remarks come as the SEC reportedly moved forward with the spot Ether ETF applications, asking issuers to revise their 19b-4 filings.This move, combined with Bloomberg analysts boosting their odds of a spot ETH approval, has prompted experts to assume that the SEC no longer considers ETH security. Several reports in recent months have alleged a planned move by the SEC to brand the cryptocurrency as a security. Gary Gensler has tiptoed around the issue, leaving an element of uncertainty regarding the SEC's actual position.Image from Shutterstock and Third Way Think Tank on FlickrPrice Action: At the time of writing, ETH was exchanging hands at $3,648.03, following a 16% bounce in the last 24 hours, according to data from Benzinga Pro.Read Next: Big Ethereum Whale Adds On To Bullish Long Position As Spot ETF Approval Probability Jumps — Swaps Wrapped Bitcoin Worth Over $25M For ETH
