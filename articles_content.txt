@@ -1,602 +1,3 @@
-ERC-7683: Uniswap and Across Protocol's New Standard
-
-
-Uniswap Labs and Across Protocol have launched ERC-7683, a new Ethereum token standard that promises to simplify cross-chain transactions and interoperability.
-The new standard introduces a new way to handle transactions between different blockchains. It creates a common network that connects these blockchains, solving the problem of having different systems that don’t work well together. ERC-7683 also lowers costs and makes the process simpler for everyone involved.
-Enhancing Cross-Chain Interoperability
-
-Uniswap Labs has adopted ERC-7683 for cross-chain swaps on UniswapX, enhancing trading across automated market makers (AMM) and other liquidity sources. 
-
-“ERC-7683 proposes that all cross-chain intents follow the same order structure, so that a universal, shared filler network can fulfill transactions,” Across Protocol noted.
-
-Different blockchains manage transactions differently, making it complex and expensive to transfer assets across them. ERC-7683 aims to standardize this process, reducing the need for each blockchain to have its own system. This standardization makes cross-chain interactions more efficient and cost-effective, benefiting users by lowering fees and speeding up transactions.
-Read more: How To Use Uniswap — The Complete Step-by-Step Guide
-Uniswap Labs and Across Protocol have shared their proposal on the Ethereum Magicians forum, seeking feedback and further discussions. Following its announcement, Uniswap’s native token, UNI, saw a 2.43% increase in value, trading at $7.79.
-ERC-7683 and Its Technical Specifications
-
-ERC-7683 introduces two key features: the CrossChainOrder structure and the ISettlementContract interface. These features create a flexible and unified system for handling trades between different blockchains. The new standard allows developers to customize how transactions are processed while maintaining a consistent framework.
-ERC-7683 overview. Source: Uniswap Labs
-Launching ERC-7683, Uniswap Labs and Across Protocol address major challenges in cross-chain transactions, such as ensuring there is enough liquidity and making the process user-friendly. By standardizing how transactions are handled, ERC-7683 promotes fair competition among transaction processors (fillers). This leads to better fulfillment of user requests and more successful trades. Overall, ERC-7683 represents a significant step forward in making blockchain technology more efficient and accessible.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
-
-
-
-
-----------------
-
-Here's The Number of Ethereum Holders in Profit as ETH Surges to $3.8K
-
-
-																Ethereum’s (ETH) dramatic rally to the $3,700 price zone has put a substantial portion of the cryptocurrency’s holders in profit, boosting their investment returns significantly.
-According to a tweet by IntoTheBlock, 90% of market participants holding ETH are currently in profit, while the remaining 10% are at the money. No ETH holder is at a loss, at the time of writing.
-90% of ETH Holders in Profit
-Monday was an eventful trading day for ETH as the asset rallied 10% in 25 minutes, surging past $3,150 to $3,450. At press time, the crypto asset had risen to $3,790, indicating a 22% increase in the past 24 hours. This significant uptick has put the majority of ETH holders in profit.
-Ethereum on-chain indicators witnessed similar dynamics roughly two months ago, shortly after the Dencun upgrade. However, the crypto asset saw a significant plunge at the time. ETH fell more than 11% within a week and settled at $3,500. Regardless, around 89% of the asset’s holders were in profit.
-This time, ether is rallying on news of the potential launch of spot Ethereum exchange-traded funds (ETF) in the United States, seeing its highest 24-hour move in a year.
-
-
-
-
-Ether ETFs on the Horizon
-Bloomberg ETF analysts Eric Balchunas and James Seyffart increased their odds of Ether ETF approval this month from 25% to 75%, citing input from multiple sources and talks that the U.S. Securities and Exchange Commission (SEC) could be reversing its stance on greenlighting the products.
-If Balchunas’s prediction is correct, there could be an influx of filings from potential Ether ETF issuers in the coming days.
-Besides the increased odds from the ETF analysts, certain developments in the U.S. government signal a positive trajectory for ether in the short term. The U.S. House and Senate recently passed a resolution to scrap an anti-crypto banking rule previously established by the SEC.
-The resolution receiving bipartisan support from both chambers came as a shock because it is widely believed that President Joe Biden’s administration has adopted an anti-crypto stance.
-Meanwhile, analysts believe ETH could hit $4,000 in a few days if the ETFs are eventually approved. Such a move could bring the asset closer to breaking its all-time high of $4,891.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-USDX: the first stablecoin issuance on the layer-1 Flare
-
-Hex Trust, a leader in the digital asset management and custody sector, recently made headlines by issuing the first stablecoin native on the Layer-1 Flare blockchain. 
-Called USDX, this stablecoin is pegged on a 1:1 basis with the US dollar and offers several innovative features that could potentially transform the landscape of digital currency.
-
-Overview of USDX: the first stablecoin on the Layer-1 Hex blockchain
-USDX is designed to maintain a stable value by being directly backed by the US dollar or equivalent valuable assets.This approach ensures that USDX maintains a constant value relative to the dollar, making it an attractive option for users seeking stability in the often volatile cryptocurrency markets.The introduction of USDX on the Flare blockchain is particularly notable because it marks one of the first examples of a stablecoin fully integrated into a Layer-1 blockchain solution.
-Flare is a Layer-1 blockchain that aims to bring greater scalability, faster transaction speeds, and lower costs to its users. By leveraging the Flare network, Hex Trust can capitalize on these features to offer a more efficient and cost-effective stablecoin experience.Flare’s blockchain is also known for its unique consensus mechanism, which combines elements of the Avalanche and Federated Byzantine Agreement systems. This hybrid model allows for high throughput and low latency, ideal for the needs of modern financial applications.
-One of the most convincing aspects of USDX is the opportunity for users to earn a return in the real world. 
-Users who stake their USDX on the Flare blockchain are rewarded with cUSDX, a secondary token that represents the staked USDX and accumulates additional gains over time. 
-This staking model not only provides an incentive to hold USDX but also helps stabilize the supply and demand dynamics.
-The launch of the stablecoin
-The concept of yield in the real world is a revolutionary feature in the field of stablecoin. It implies that the returns on USDX staked are linked to assets that generate income outside the world of cryptocurrencies.
-This could include returns from debt instruments, dividends from stocks or other financial products. 
-By linking staking rewards to real-world assets, Hex Trust and Flare are bridging the gap between traditional finance and cryptocurrencies, offering investors a familiar yet innovative way to interact with digital assets.
-The launch of USDX could have significant implications for both retail and institutional investors. For everyday users, the stability and easy convertibility of USDX make it a practical choice for transactions and savings. 
-On the other hand, institutional investors may find USDX attractive due to the staking opportunities and integration with a scalable blockchain like Flare, which could handle large transaction volumes at lower costs.
-Furthermore, USDX could be used as protection against volatility in other cryptocurrency investments. In times of market turbulence, investors may shift their assets to USDX to preserve value, and then convert them back when conditions stabilize.
-Benefits and conclusions
-Given that stablecoins have been under increasing scrutiny from regulators around the world, the launch of USDX comes at a critical time. 
-Hex Trust’s approach to compliance and security, through its custody and asset management services, can provide a model on how stablecoin can meet regulatory expectations while providing safe and transparent financial services.
-Furthermore, by operating on the Flare network, USDX benefits from the enhanced security measures intrinsic to the design of the blockchain.
-These features ensure that USDX transactions are not only fast and efficient, but also secure and resistant to various types of cyber threats.
-The introduction of USDX by Hex Trust on the Flare blockchain represents a significant milestone in the evolution of digital currencies. 
-Combining stability with performance opportunities in the real world, USDX sets a new standard for what stablecoins can offer. 
-While the landscape of digital assets continues to evolve, the role of innovations like USDX will be crucial in shaping the future of finance, combining traditional financial principles with the benefits of modern technology.
-
-----------------
-
-Taurus expands to Vancouver amid North American digital asset boom - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-Dogecoin (DOGE) Breakout: Potential 21% Price Rise Ahead?
-
-
-Dogecoin’s (DOGE) price is primed to see gains as the recent increase in price has triggered recovery.
-The short liquidations observed in the last 24 hours have generally been followed by a rise, which might also be the case this time.
-Will Dogecoin Bears Step Back?
-
-Dogecoin’s price rose by 11% in the past day when the entire crypto market rallied, bringing the meme coin to trade at $0.163. This led to the traders who were pining for a price fall losing their money, as evident in the short liquidations worth nearly $7 million.
-This is the largest single-day short liquidation in more than two months. Historically, such large liquidations have seen rises in the following days, and the same is anticipated presently. This liquidation may also result in the bears backing off as investors await a rally.
-Dogecoin Liquidation. Source: Coinglass
-Investors’ optimism is fueled by the $1.28 billion worth of profits they will witness. According to the Global In/Out of the Money (GIOM) indicator, about 7.87 billion DOGE were bought between $0.16 and $0.18.
-
-This supply could turn profitable soon since Dogecoin’s price is exhibiting bullish signs. However, this would warrant a breach of the $0.16 resistance level. Since DOGE holders are close to noting such huge profits, they will likely act accordingly until the altcoin hits $0.18.
-Read More: How To Buy Dogecoin (DOGE) and Everything You Need To Know
-Dogecoin GIOM. Source: IntoTheBlock
-This will likely drive the rally.
-DOGE Price Prediction: Where Will the Rise Stop?
-Dogecoin’s price has moved within an ascending triangle pattern for the past month. The ascending triangle pattern is a bullish continuation pattern characterized by a horizontal resistance line and an upward-sloping trendline. It indicates that buyers are gradually gaining strength, often leading to a breakout above the resistance level.
-
-DOGE is breaking out of this pattern at the time of writing, with volumes declining consistently. However, the pattern will be validated when the meme coin marks a 22% rally to reach $0.20. This crucial price point has been marked as a target per the pattern and also stands as key psychological support.
-Read More: Dogecoin (DOGE) Price Prediction 2024/2025/2030
-Dogecoin Price Analysis. Source: TradingView
-However, the more practical outcome would be Dogecoin’s price breaching $0.18, making the aforementioned supply profitable.
-On the other hand, failure to breach $0.16 could lead to a fallback into the pattern. This would turn the breakout into a fakeout, and further decline could send DOGE to $0.15 or lower. Consequently, the bullish thesis would be invalidated.
-
-
-Disclaimer
-In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
-
-
-
-
-----------------
-
-Bitcoin surges above $70k again as Bitbot’s presale officially hits $3.5m
-
-
-
-                    
-
-                    Key takeaways
-
-BTC is now trading around $71k per coin after adding 6% to its value.
-Bitbot’s presale has officially crossed the $3.5 million mark as it draws closer to its end.
-
-Bitcoin hits $71k as it eyes new all-time high
-Bitcoin, the world’s leading cryptocurrency by market cap, has been performing well over the past few days. It is up by more than 14% in the last seven days, allowing it to break past the $70k psychological level once again.
-At press time, the price of Bitcoin stands at $71,388, up by more than 6% today. The rally comes as the broader crypto market embarks on a recovery. If BTC continues with its recent momentum, it could set a new all-time high in the near term. 
-What is Bitbot?
-With the crypto market in a bull run, several projects are emerging that seek to make it easier for users to interact with the ecosystem. Bitbot is one of the projects that could change how cryptocurrency traders approach the market.
-Bitbot is a Web3 project designed solely for crypto traders. It is a telegram trading bot that allows users to access high-end trading features.
-With Bitbot, retail crypto traders can have access to a wide range of cryptocurrency pairs via their cold wallets on Telegram. The trading bot will leverage Telegram thanks to its position as the leading messaging platform for crypto users. 
-The team revealed that the tool will provide retail traders with world-class features to help them manage and grow their trading portfolios. 
-With the total cryptocurrency market cap now at $2.6 trillion, Bitbot intends to leverage the exceptional growth in trading volume to gain massive adoption in the coming months and years.
-Bitbot to offer high-end features to retail traders
-While there are several trading tools available to retail traders, Bitbot intends to provide them with high-end features that would allow them to improve how they view the market and trade crypto pairs. 
-Bitbot will integrate Knightsafe into its system, allowing it to offer a self-custody solution, eliminating the typical risks associated with Telegram trading. The anti-MEV and anti-rug solutions currently in development will ensure user assets are safe at all times. 
-This Telegram trading bot will also come with ultra-flexible wallet management powered by non-custodial API technology to provide an added layer of security to the users.
-In addition to that, the Copy Trading feature will be easily available to novice traders. This would allow them to copy the trades of the strongest-performing wallets based on on-chain activities.
-Bitbot’s presale surpasses $3.5m
-The Bitbot presale is in the 14th stage and has already raised over $3.5 million. The 14th stage will end once the amount raised reaches $3.924 million. 
-The presale continues to attract more investors as the crypto market embarks on a recent rally. Currently, the $BITBOT token is going for $0.0189 but is set to increase to $0.02 once the next round commences.
-Per the project tokenomics, the development team will hold 20% of the total token supply and will use it to fund ongoing development. 14% of the total token supply has already been allocated to marketing & CEX listings while 3% goes to exchange liquidity provision.
-Click here to read more about Bitbot’s upcoming presale.
-Could $BITBOT rally after listing on exchanges?
-The Bitbot presale is only one stage away from completion, after which the team will look to list the token on centralised and decentralised exchanges. The listing could see the token surge higher in the short to long term,
-The crypto market has been bullish over the last couple of months and market analysts are expecting a bigger pump in the coming months. If this happens, altcoins could rally higher in the medium to long term. 
-Bitbot could be a big winner in the market if it rolls out its products and lists on exchanges. The project is set to take advantage of the growing trading volume in the market to obtain a sizable market share.
-
-
-                    
-
-                        Share this articleCategories
-                    
-                
-
-                
-
-----------------
-
-Bitcoin short squeeze: $85M in BTC shorts liquidated in 24 hours
-
-
-    Bitcoin (BTC) experienced a dramatic market shift as its total liquidations surged to $97.06 million, driven by $10.98 million in long positions and a staggering $85.08 million in short positions being wiped out. 
-
-
-
-The sudden price increase caused over $260 million in market-wide short liquidations on May 20, the largest since February 28th. Ethereum (ETH) shorts lost over $115 million, followed by Bitcoin shorts at just over $97 million, according to data from Coinglass.
-
-
-
-This upheaval occurred as Bitcoin’s price surged around 5% in the past 24 hours, reaching $71,078.15. The cryptocurrency’s 24-hour trading volume also skyrocketed by 138%, valued at $54.065 billion, with a market capitalization of $1.40 trillion.
-
-
-
-
-
-
-
-A short position in Bitcoin derivatives allows investors to magnify their potential gains from a price decline. However, if the price moves in the opposite direction, those positions risk liquidation. 
-
-
-
-The largest cryptocurrency’s price surge resulted in significant losses for short sellers, with $85 million in BTC shorts liquidated in just 24 hours, according to CoinGlass.
-
-
-
-Expert insights and optimism
-
-
-
-Statistician Willy Woo commented that bullish traders were tackling overhead resistance that had been in place for over a month. 
-
-
-
-Currently, BTC is trading with the 20-day  exponential moving average (20-EMA) at $64,371 and a positive relative strength index (RSI), indicating that an upward breakout is more likely. 
-
-
-
-To add to the optimism, analyst ELI5 of TLDR commented that the majority of on-chain indicators point to a nascent bull market, despite some showing topping patterns.
-
-
-
-CoinGlass data indicated $70,600 as the area with the thickest bid liquidity below the spot price at the time of writing. 
-
-
-
-BTC Liquidation Heatmap, 24-hour  chart. Source: CoinGlass
-
-
-
-Market liquidity and exchange reserves
-
-
-
-Adding to the bullish sentiment, exchange BTC reserves have plummeted to a seven-year low, with CryptoQuant data showing only 1,9184,152 BTC available on major trading platforms as of May 20, a significant decrease from the previous year.
-
-
-
-Exchange BTC reserves. Source: CryptoQuant
-
-
-
-This reduction in exchange reserves is considered bullish because it indicates that more investors are moving their Bitcoin off exchanges and into personal wallets. 
-
-
-
-This behavior suggests that they are holding onto their Bitcoin for the long term, expecting the price to rise. 
-
-
-
-When fewer BTC are available on exchanges, it can lead to reduced selling pressure and increased scarcity, potentially driving up the price.
-
-
-
-Despite the optimistic outlook, investors must remain cautious with Bitcoin trading. This is due to macroeconomic concerns related to the Fed’s interest rates and microeconomic concerns related to Bitcoin miners’ revenue drop, which affects network security.
-
-
-
-While Bitcoin was experiencing notable liquidations, Ethereum also saw significant price action. ETH pumped by 20%, adding to the overall market excitement. 
-
-
-
-The movements in both Bitcoin and Ethereum highlight the current volatility in the cryptocurrency market, driven by various factors, including ETF developments and technical market resistance levels.
-
-
-
-Nevertheless, cryptocurrencies are highly volatile, and is hard to forecast further performance.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-Crypto-Related Stocks Are Trading Up To 4% Higher Premarket As Ethereum Gains 22% Amid Rising ETF Approval Odds - Benzinga
-
-The possibility of a spot Ethereum ETH/USD ETF getting approved has sent Bitcoin BTC/USD and ETH-related stocks, including Marathon Digital Holdings Inc MARA, Riot Platforms Inc RIOT and Coinbase Global, Inc. COIN, upwards in the pre-market.What Happened: On Tuesday morning, crypto-related stocks opened positively during the pre-market session. Marathon Digital was trading 0.67% higher at $22.47 after closing at $22.32, while Coinbase was trading 3.69% higher at $233.50 after closing at $225.19. On the other hand, Riot, which closed at $10.96, was trading 1.82%% higher in the pre-market at $11.16, according to data from Benzinga ProWhy It Matters: This spike is attributed to the growing optimism surrounding the potential approval of spot exchange-traded funds in the U.S. Confidence in ETH comes as well-informed analysts raised their odds of a spot ETH ETF approval from 25% to 75%, resulting in the broader market rally. ETH’s large transaction volume more than tripled in the last 24 hours, indicating strong engagement from whales, according to IntoTheBlock. Alongside, balances of long-term holders rose 0.38%, suggesting that the transactions were buyer-dominated.On Monday, the SEC's Trading and Markets Division instructed asset managers to revise their 19b-4 filings for the first U.S. ETFs holding Ethereum, leading to a surge in crypto prices.Price Action: Ethereum is trading at $3,792.62, up 22.37% in the last 24 hours.Disclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.Image via ShutterstockMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Fidelity Files Amended S-1 Application with SEC for Spot Ether ETF, Removes Staking
-
-
-                        
-                            Fidelity Files Amended S-1 Application with SEC for Spot Ether ETF, Removes Staking                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 21, 2024 07:46 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Asset manager Fidelity has made an amended S-1 application to the United States Securities and Exchange Commission (SEC) for its spot Ether exchange-traded fund (ETF).The updated application specifies that the underlying Ether tokens of the ETF will not be staked, according to recent reports. S-1 filings are mandatory registration forms required by the SEC for launching publicly traded securities products in the United States.SEC Might Greenlight Ether ETFs
-This filing comes in the wake of reports suggesting that the SEC has reversed its stance on spot Ether ETFs, potentially influenced by political pressures. As a result, the commission has reportedly requested ETF issuers to revise their 19b-4 filings. The upcoming deadline for the SEC’s decision falls on May 23, specifically for VanEck’s Ether ETF proposal.While senior Bloomberg ETF analyst Eric Balchunas has increased the likelihood of approval to 75%, up from the previous estimation of 25%, this specifically applies to the 19b-4 form.However, approval for Ether ETF issuers also necessitates the acceptance of their S-1 filings, as highlighted by Bloomberg ETF analyst James Seyffart in a recent post.Seyffart indicates that the approval process for S-1 filings could take weeks to months, even if the theoretical approvals for 19b-4 filings occur this week. Despite the potential delay, Seyffart suggests that S-1 approvals are a matter of “When” rather than “If.”The SEC faces final deadlines to make decisions on VanEck and ARK‘s spot Ethereum ETF applications on May 23 and May 24, respectively.Liquidity Concerns Remain
-In a recent note, Matteo Greco, a research analyst at digital asset investment firm Fineqia International, added that concerns over the liquidity of ETH’s spot and futures markets, along with its previous classification as a security by the SEC, contribute to skepticism about swift approval.“If rejected, issuers would need to resubmit filings, potentially leading to approval in Q4 2024 or Q1 2025 at best,” the analyst wrote.Greco added that another possible scenario involves the approval of the 19b-4 filings while “slow-playing” the S-1s. The SEC must approve both the 19b-4s and the S-1s for the launch of Spot ETH ETFs.The 19b-4s filing allows national security exchanges like the New York Stock Exchange (NYSE) or Nasdaq to list new products, such as Spot ETH ETFs. The S-1s are the initial registration forms required for new securities offered to the public.Notably, fund companies engaged in active dialogue with the SEC and submitted multiple amended versions of paperwork to address the SEC’s concerns prior to the greenlighting of Bitcoin ETFs.However, there has been significantly less activity in this regard for spot Ethereum ETF filings. This lack of public activity has led many to anticipate a disapproval order.“Most people are universally expecting a disapproval order,” Katherine Dowling, general counsel for Bitwise, which filed for a spot-Ether ETF in March, told Bloomberg.“You’re not seeing the types of public activities that you would see if there was going to be an approval.”                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Coinbase Whale Begins Accumulating Dogecoin (DOGE) Rival From Crypto Exchange: On-Chain Data - The Daily Hodl
-
-
-								A deep-pocketed investor is suddenly accumulating massive amounts of a Dogecoin (DOGE) rival from top US crypto exchange Coinbase, on-chain data shows.
-Digital asset tracker Lookonchain notices a crypto whale spent 606,00 USDC to buy nearly 228,000 dogwifhat (WIF) memecoins.
-
-
-
-
-
-
-
-
-
-
-“A whale is buying WIF! The whale created a new wallet and withdrew 1.83 million USDC from Coinbase to buy WIF. So far, he has spent 606,000 USDC to buy 227,896 WIF at $2.66, with 1.22 million USDC left. The purchase is in progress [on May 20th].”
-WIF is trading for $2.83 at time of writing, up 10.7% in the last 24 hours.
-Next up, Lookonchain noticed another crypto whale made huge profits trading GME (GME), a memecoin launched on Solana (SOL) in January and inspired by the GameStop (GME) short-squeeze frenzy of 2021.
-“Since the price of GME dropped, a trader spent 3,059 SOL ($526,000) to buy 78.57 million GME at $0.0067. This trader spent 1,409 SOL ($165,000) to buy 68 million GME at $0.0024 on February 15th and February 16th. 
-After holding it for three months, GME ushered in a rise. He sold 35 million GME for 3,447 SOL ($503,000) at $0.0144 on May 13th and May 14th. He currently holds 111.57 million GME ($781,000), with a total profit of ~$593,000.”
-
-
-
-
-Source: Lookonchain/X
-
-
-
-
-
-
-
-GME is trading for $0.00575 at time of writing, down nearly 18% in the last 24 hours.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-
-
-
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-SHIB Price Prediction for May 21
-
-
-
-
-Cover image via U.Today
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Buyers have come back to the game, according to CoinMarketCap.Top coins by CoinMarketCapSHIB/USDThe price of SHIB has increased by 6.45% over the last 24 hours.Image by TradingViewOn the hourly chart, the rate of SHIB is closer to the local support than to the resistance. If buyers loser the interim level of $0.00002540, the drop may continue to the $0.000025 zone soon.Image by TradingViewOn the bigger time frame, buyers could not keep the growth going after yesterday's bullish closure. If the candle closes far from the $0.000026 mark, there is a chance to see a correction to $0.000025.Image by TradingViewFrom the midterm point of view, it is too early to make any predictions. However, if the weekly bar closes above $0.000026 and with no long wick, the upward move may continue to the resistance level of $0.00002820.SHIB is trading at $0.00002561 at press time.
-
-
-
-----------------
-
-Crypto bros upset over Wikipedia’s ‘garbage’ Solana coverage
-
-
-Crypto bros have branded Wikipedia’s Solana coverage ‘absolute garbage’ and have voiced concerns about Web3 is Going Just Great creator Molly White’s role in editing online articles.
-Ethereum researcher Emmanuel Awosika took issue yesterday with Wikipedia’s coverage of the crypto industry on X (formerly Twitter), claiming “Solana manlets are probably the worst hit here.”
-“No way I’d be touching [Solana] if Wikipedia was my first source of information (Ethereum, surprisingly, had better coverage). Someone needs to edit that page and spend less time on Twitter ads.”
-Awosika also brought up White’s potential involvement in editing crypto-related articles for Wikipedia and her influence on Wikipedia’s decision to reject cryptocurrency donations. “Do non-profits like Wikimedia have a COI policy, too,” he asked.
-He then added, “People have complained about Wikipedia’s coverage of the crypto industry, but I never grasped the problem until someone made a ‘Wikipedia Is Going Great’ joke referring to Molly’s potential involvement.”
-Molly’s post calling out Awosika’s claims.
-In her defense, White noted that her ‘potential involvement’ in the editing of the Solana Wikipedia page amounted to just one grammatical edit — correcting the miscapitalization of ‘non-fungible-token.’ 
-She also refuted Awosika’s claim that her Wikipedia editing was ‘news,’ noting that she lists herself as a ‘Wikipedian’ (a volunteer separate from the Wikimedia Foundation that helps edit pages) in her bio.
-Awosika tried to claim that Wikipedia has a ‘clear anti-crypto stance,’ highlighting its refusal to accept crypto donations and an alleged history of failing to report on crypto-related subjects. 
-White noted, “The Wikimedia foundation doesn’t accept donations of livestock either but somehow we manage to write articles on cows just fine.”
-
-Read more: Judge says Craig Wright ‘not as clever as he thinks he is’
-Awosika also shared images of Wikipedia’s Solana page that detail lawsuits, outages, and hacks related to the platform and its suffering due to FTX. He asked White, “Surely, there’s more to a protocol like Solana than just lawsuits, token price crashes, and outages?”
-White responded, “I think that most crypto projects (even large ones like Solana) is very limited to industry publications, which generally don’t pass the bar for reliable sourcing on Wikipedia.”
-She added, “Wikipedia articles are based on what reliable, secondary sources have to say about a topic, not what a topic has to say about itself.”
-Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
- 
-
-----------------
-
-Velar Collaborates With Build on Bitcoin (BOB) for PerpDex Launch
-
-
-
-                    
-Panama City, Panama, May 21st, 2024, Chainwire
-
-
-Pioneering Bitcoin DeFi developer Velar has announced that it is partnering with BOB (Build on Bitcoin) to support the launch of Velar Artha, the world’s first Perpetual Decentralized Exchange (PerpDex) on Bitlayer’s EVM-compatible Bitcoin Layer 2.
-BOB will provide technical support to optimize the development and mainnet launch of Velar Artha, drawing upon its best-in-class developer tooling, analytics, wallets, and blockchain infrastructure. This will accelerate the launch of the PerpDex and ensure that it is anchored by a strong technical foundation.
-Velar Artha will form a first of its kind PerpDex within the Bitcoin ecosystem that combines the security of Bitcoin with the developer-friendly tooling facilitated by EVM compatibility. The decentralized exchange will go live on Bitlayer, the Bitcoin Layer 2 that supports the EVM. As one of the first strategic partners to assist with Artha’s deployment, BOB will play a critical role in overseeing its security, decentralization and UI/UX.
-
-Velar CEO Mithil Thakore said: “Collaborating with BOB for the launch of Velar Artha PerpDex marks a pivotal moment for us. Being one of their initial projects, the first PerpDex underscores the mutual trust and shared vision between Velar and BOB. We’re excited to pioneer this journey together, pushing the boundaries of Bitcoin DeFi and delivering value to the Bitcoin community.”
-Co-founder of BOB, Alexei Zamyatin, added: “We are excited to see Velar’s progress to launch on BOB. The Velar team is one of the high-potential Bitcoin DeFi builders in the space and we look forward to working with them on boosting their user and TVL growth as part of BOB’s DeFi ecosystem.”
-BOB operates a hybrid L2 that combines the security of Bitcoin with the versatility of Ethereum. It enables developers familiar with EVM to start building on Bitcoin instantly. This allows projects to reduce time to market by taking advantage of a tailor-made Bitcoin developer suite.
-Velar Artha will allow Bitcoin users to make perpetual swaps for assets including BTC and to open leveraged long and short positions. This will introduce a vital DeFi building block to the Bitcoin ecosystem whose composability will support further integrations. It will unlock dormant capital on Bitcoin while allowing DeFi innovation to flourish.
-
-About Velar
-Velar is on a mission to unlock Bitcoin’s true potential by developing a suite of powerful tools and products for DeFi. Known for creating the world’s first perpetual decentralized exchange (Perp DEX) on Bitcoin, Velar realizes the full value of Bitcoin-based assets within an ecosystem anchored by strong transaction finality and unrivaled security. 
-Learn more: https://www.velar.com/ 
-
-
-
-Contact
-Avishay Litanipr@marketacross.com
-
-
-                
-
-                
-
-----------------
-
-COTI V2 Developer Network Goes Live, Unveils Privacy-Centric Possibilities
-
-
-																Web3 infrastructure development firm COTI has unveiled a developer network ahead of its upcoming launch of the privacy-centric Ethereum-based layer-2 network COTI V2.
-According to a press release sent to CryptoPotato, the COTI V2 developer network has gone live, introducing a novel layer of confidentiality and advanced garbled protocols to the blockchain.
-COTI V2 Devnet Goes Live
-The developer network will enable market participants to explore several web3 use cases, including confidential decentralized finance (DeFi), on-chain sensitive data management, confidential machine learning and artificial intelligence, Dynamic Decentralized Identification, and confidential transactions for payments, stablecoins, and real-world assets.
-The COTI V2 devnet provides several tools for development teams, including a Python SDK, a faucet to cover gas for on-chain activity, a NodeJS SDK, server access, extensive documentation, and an explorer for on-chain analytics.
-COTI designed the network to enable experimentation with new smart contracts using COTI V2. The web3 infrastructure development company claims developers can use the network to build one of the best techniques within multi-party computation for securing private information.
-
-
-
-
-COTI Unveils $52M Grant Program For Devs
-To spur developers to build on the devnet, the COTI Foundation has unveiled a new grant program to reward builders for their contribution. The foundation has set aside 400 million COTI, worth roughly $52 million at current prices, from the token’s existing supply as it looks to incentivize groups to explore new use cases and the range of opportunities a privacy-centric web3 ecosystem can provide.
-The COTI foundation dubbed the grant the ABC Growth Fund for ambassadors, builders, and creators on the devnet. The program seeks applications from innovative builders, developers, and researchers interested in testing the limits of the COTI ecosystem’s capacity.
-COTI CEO Shahaf Bar-Geffen said: “We’re opening our doors to the world with the COTI V2 Developer Network, and with our Builders program, we’re inviting teams around the world to take part in COTI V2’s developer network and share what you’re building. We have an incredible year ahead of building new things, making new partners, and growing COTI’s network.”
-COTI is commencing the builders program of the ABC Growth Fund, which has a four-tiered structure in order to have an ascending impact on the ecosystem. Developers interested in the program are required to submit their applications to create proofs of concept (POCs) for privacy-preserving smart contracts, tools, and products.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-Velar partners with Built on Bitcoin to launch the industry-first PerpDex on Bitcoin Layer 2
-
-
-    Velar, a Bitcoin (BTC) decentralized finance (DeFi) platform, has announced a partnership with Build on Bitcoin (BOB) supporting the launch of Velar Artha, the world’s first Perpetual Decentralized Exchange (PerpDex) on Bitlayer’s EVM-compatible Bitcoin Layer 2, as per the information shared with Finbold on May 21.
-
-
-
-The collaboration aims to expedite the launch of the PerpDex, ensuring a robust technical foundation.
-
-
-
-Bringing DEXs to Bitcoin Layer 2
-
-
-
-Velar Artha promises to be a trailblazing PerpDex within the Bitcoin ecosystem, merging Bitcoin’s security with the developer-friendly environment provided by Ethereum Virtual Machine (EVM) compatibility. 
-
-
-
-
-
-
-
-The decentralized exchange will debut on Bitlayer, a Bitcoin Layer 2 that supports the Ethereum Virtual Machine (EVM). 
-
-
-
-As an initial strategic partner, BOB will play a crucial role in overseeing the platform’s security, decentralization, and user experience.
-
-
-
-BOB will streamline the development and mainnet launch of Velar Artha, utilizing its top-tier developer tools, analytics, wallets, and blockchain infrastructure. 
-
-
-
-Velar CEO Mithil Thakore emphasized the significance of the partnership, stating:
-
-
-
-
-“Collaborating with BOB for the launch of Velar Artha PerpDex marks a pivotal moment for us. Being one of their initial projects, the first PerpDex underscores the mutual trust and shared vision between Velar and BOB. We’re excited to pioneer this journey together, pushing the boundaries of Bitcoin DeFi and delivering value to the Bitcoin community.”
-
-
-
-
-Perpetual swaps on Velar Artha
-
-
-
-Velar Artha will empower Bitcoin users to perform perpetual swaps for assets, including BTC, and to open leveraged long and short positions. 
-
-
-
-This model will foster further integrations and unlock dormant capital on Bitcoin, thus propelling DeFi innovation forward.
-
-
-
-BOB co-founder Alexei Zamyatin expressed his enthusiasm and optimism for the future, stressing the importance of the Velar partnership:
-
-
-
-
-“We are excited to see Velar’s progress to launch on BOB. The Velar team is one of the high-potential Bitcoin DeFi builders in the space and we look forward to working with them on boosting their user and TVL growth as part of BOB’s DeFi ecosystem.”
-
-
-
-
-BOB operates a hybrid Layer 2 solution that merges Bitcoin’s security with Ethereum’s flexibility, enabling developers familiar with EVM to start building on Bitcoin swiftly. 
-
-
-
-This approach reduces time to market, leveraging a specially designed Bitcoin developer suite.  
-
-  
-
-----------------
-
-Solana-Based Wallet Phantom Buys Web3 Specialist Bitski
-
-“In the future, we think embedded wallets really make sense for decentralized applications, rather than being forced to build their own or use less trusted firms or experimental products,” said Wu in an interview. “With Bitski's expertise in embedded wallets, onboarding will be much easier. Instead of telling people to download a separate mobile app, and adopt a seed phrase, simply sign up with an email and get started immediately.”
-
-----------------
-
-Web3 Marketing Startup Spindl Launches On-Chain Ad Network
-
-"It's more transparent. It's fair. It's natively on-chain. It's, to be blunt, better for privacy," said Garcia Martinez, CEO of Spindl, whose core service is attribution. "We're not using weird, sketchy Web2 data," such as consumers' browsing history or their personal information, to target campaigns – just on-chain transactions, which are already public.
-
-----------------
-
 Strong Gains for Injective (INJ): Key Price Levels to Observe
 
 
@@ -10171,3 +9572,613 @@ WisdomTree's Bitcoin, Ethereum ETPs to debut on London Stock Exchange next week 
             
         
     
+
+----------------
+
+GameStop Price Crashes, Buy The Dip Or Sell GME?
+
+
+                        
+                            GameStop Price Crashes, Buy The Dip Or Sell GME? This Solana Meme Coin ICO Raises                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 22, 2024 10:05 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+GameStop Price Crashes, Buy The Dip Or Sell GME? This Solana Meme Coin ICO Raises / Cryptonews
+                        Just over one week on from legendary GameStop investor Roaring Kitty’s abrupt return to social media for the first time since 2021, the GameStop (GME) price has crashed, with retail investors asking whether now might be the time to buy the dip or sell GME.The GameStop price rallied as high as $65 last Tuesday but has since crashed back to $22.That leaves it barely 20% above its levels from before Roaring Kitty’s return.Roaring Kitty was a leading figure in the 2021 meme stock craze, during which time GME was a leading stock.The 2021 meme stock craze was viewed by many as a retail investor-led movement against Wall Street hegemony.Hopes remain high amongst retail investors that Roaring Kitty’s return could catalyze a new meme stock season.US Presidential candidate Robert F Kennedy even announced on Monday that he had invested $24,000 in GME.But macro conditions likely don’t warrant a repeat of 2021 meme stock mania.The US government isn’t currently handing out stimulus cheques.And while US equity markets are pushing on to new record highs, interest rates remain at multi-decade highs.Recent years of inflation plus high interest rates have put a major squeeze on retail investor spending firepower.Also, there is good reason to be bearish on the GameStop price. GME is an inflationary asset – the company last week announced a new stock sale.Meanwhile, the company continues to run at a loss and cut jobs as it struggles with e-commerce competitors.GME Investors Should Instead Consider Meme Coins 
+Traders looking to make speculative bets on assets that could see huge market hype-driven gains can do better than GME.As noted above, the outlook for the GameStop price isn’t necessarily good as it has bad fundamentals and is inflationary.Its also got a bloated market cap of around $6.5 billion.For a company that probably isn’t worth anything in real life, that’s potentially a very large overvaluation.And that reduces the likelihood of anything more than 5x gains this bull cycle.Traders considering GME should instead consider crypto meme coins.Top meme coins like Dogecoin, Shiba Inu and Pepe are likely to continue to grow as crypto technology is adopted.However, their bloated market caps suggest that they also have limited room for upside.Luckily, new meme coins are popping up every day. While most are scams or pump-and-dumps, savvy traders may be able to uncover hidden 100x gems.One such coin that analysts at Cryptonews are very bullish on is Solana meme coin ICO Sealana (SEAL).Sealana (SEAL) – The Best Solana Meme Coin ICO Right Now
+South Park-themed Seal cartoon character Sealana has been generating huge excitement since launching its presale.The new Solana meme coin ICO features an overweight, Solana meme coin trading degen seal called Sealana.The loveable seal mascot has already attracted over $2.35 million in funds from early investors.Strong demand is no surprise given the strong traction Sealana has been getting across socials.Sealana has already garnered over 5,000 X followers, as well as over 5,000 on Telegram.Sealana’s marketing and presale success is reminiscent of the recently launched Solana meme coin Slothana (SLOTH).Slothana raised over $15 million in a similar presale. However, it then went on to pump to a market cap of over $100 million, as per DEXTools.Presale investors were up over 5x within just a few days of the token’s launch. That more than could likely be expected from the GameStop price in the near future.SLOTH also just launched on the top-ten crypto exchange HTX. This could lead to a new push higher in its price as new retail investors flood in.Amid rumors that the Slothana and Sealana teams are related, traders will hope SEAL’s success matches SLOTH’s.If Sealana can quickly secure exchange listings post-launch like SLOTH, it could easily be the best new Solana meme coin ICO to buy right now.Investors can buy their SEAL by connecting their web3 wallet on Sealana’s official website with SOL, ETH, USDT, or USDC. Sealana is also available for purchase via card.Buy Sealana Here                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Bitcoin Price Alert: 273,000 BTC Held at Key Bitcoin Supply Range
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+As Bitcoin teeters near $70,000, analysts are closely watching a critical supply zone for the largest cryptocurrency. This range is crucial because it represents a key area where a substantial amount of Bitcoin was acquired.Crypto analyst Ali has identified a key supply zone for Bitcoin, situated between $70,180 and $70,600, where over 450,000 addresses have collectively acquired approximately 273,000 BTC.  The supply zone is an important area on the price chart that often acts as a barrier to upward price movements. It is where a large number of Bitcoin was previously bought, and holders may look to break even or take profits, potentially leading to increased selling pressure. Following a steady rebound from May 1 lows of $56,500, Bitcoin reached highs of $71,980 on May 21 before encountering resistance. At the time of writing, BTC was sustaining its declines from the prior day, down 1.91% in the last 24 hours to $69,998. Potential scenariosAs Bitcoin approaches the highlighted critical supply zone, several scenarios could unfold:If Bitcoin manages to break above the $70,600 level with strong volume, it could signal a continuation of the bullish trend. This would likely attract additional buyers, pushing the price higher and potentially establishing a new support level.On the other hand, if Bitcoin faces significant selling pressure within this range, it could lead to a price rejection and subsequent pullback. This scenario would indicate that many holders want to realize profits, resulting in temporary resistance.Another possibility is that Bitcoin consolidates below this range for a while. This would imply a balance between buyers and sellers ahead of a major price movement.As Bitcoin considers its next move, price behavior around the $70,000 mark would be closely watched given the sheer volume of BTC accumulated in this area. Based on the MVRV Pricing Bands, Ali believes that if Bitcoin continues to trade above $65,125, the next local BTC peak before a temporary drop around $77,593.
+
+
+
+----------------
+
+Ethereum Spot ETFs: When Will They Begin Trading In The Event Of An SEC Approval? | Bitcoinist.com
+
+
+								Bloomberg analyst James Seyffart has provided insights into when the Spot Ethereum ETFs could begin trading if the Securities and Exchange Commission (SEC) were to approve these funds. Based on his remarks, it could take weeks to months before these funds launch, even if an approval would come this week. 
+S-1 Filings Need To Be Approved Before Trading Can Commence 
+Seyffart mentioned in an X (formerly Twitter) post that the S-1 approvals are needed before the Spot Ethereum ETFs can go live and that it could take “weeks to months” for this approval to come in. He made this statement while clarifying that their 75% approval odds only related to the deadline for the 19b-4 filings, with VanEck’s and Ark 21Shares’ final deadline coming up on May 23 and 24, respectively. 
+
+Seyffart and his colleague Eric Balchunas predict that the SEC will likely approve at least VanEck’s application on or before May 23 since this is the final deadline for the Commission to decide on it. Before now, the SEC was expected to deny these applications, mainly because there were reports that it considered Ethereum a security. 
+However, Balchunas revealed in an X post that the Commission had become willing to approve these funds due to an “increasingly political issue.” The SEC has already shown a willingness to approve these funds, having informed Nasdaq, the Chicago Board Options Exchange (CBOE), and the New York Stock Exchange (NYSE) to update their filings.
+Insiders have also claimed that the SEC’s feedback to these exchanges is a positive signal and shows that the regulator might be ready to approve these investment funds. Steven McClurg, the head of US asset management for CoinShares, also told Reuters that it could take months for the Ethereum ETFs to begin trading since, unlike the exchange filings, there is no set timeframe for the SEC to approve the registration filings.  
+However, the SEC has shown that it can approve both the 19b-4 and S-1 filings simultaneously, just like it did with the Spot Bitcoin ETFs, which immediately went live thanks to this. The only difference between then and now is that the SEC constantly communicated with the issuers weeks before the Bitcoin ETFs were approved. 
+Fidelity And Grayscale Remove Staking Plans From Ethereum Spot ETFs
+Asset managers Fidelity and Grayscale have removed their staking plans in their updated S1-filings. This was expected, considering that the staking feature is a huge part of why the SEC is rumored to consider ETH a security. However, removing this staking offering again suggests that the SEC will approve these funds as long as ETH staking isn’t included. 
+
+Meanwhile, Seyffart noted in an X post that their approval odds still stand at 75% since the removal of the staking plans was expected.  
+At the time of writing, Ethereum is trading around $3,700, up over 3% in the last 24 hours, according to data from CoinMarketCap. 
+ETH price drops below $3,700 | Source: ETHUSD on Tradingview.com
+Featured image created with Dall.E, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Crypto Analyst Alex Krüger Revises Ethereum Outlook Amid SEC Rumors | Cryptoglobe
+
+
+                                
+On 21 May 2024, prominent macroeconomist and crypto analyst Alex Krüger provided new insights on social media platform X (formerly known as Twitter) regarding the potential for the U.S. Securities and Exchange Commission (SEC) to approve spot Ethereum ETFs. Krüger, who founded the asset management and advisory firm Aike Capital, offered a detailed analysis reflecting the rapidly changing sentiment in the cryptocurrency market.
+
+
+
+Until this week, Krüger had been pessimistic about the likelihood of the SEC approving any spot Ethereum ETFs this year or soon. However, recent developments have prompted a reevaluation. On 20 May 2024, Bloomberg ETF analysts Eric Balchunas and James Seyffart significantly increased their estimated odds of SEC approval for spot ETH ETFs from 25% to 75%. This adjustment was based on emerging rumors suggesting that the SEC might be reconsidering its stance, driven by political considerations.
+
+
+
+Balchunas shared the updated odds on X, noting that the shift was fueled by afternoon chatter indicating a possible reversal in the SEC’s approach to this increasingly politicized issue. This unexpected development has caused market participants to scramble to adjust their positions, many of whom had previously assumed that ETF approvals would be denied.
+
+
+
+
+
+
+
+In his analysis, Krüger acknowledged the potential impact of these rumors. He stated that his base case scenario had been:
+
+
+
+Bitcoin rising significantly by the end of the year.Ethereum underperforming due to the expected rejection of spot ETH ETF proposals by the SEC.Ethereum outperforming post the U.S. presidential elections in November 2024, driven by a potential change in SEC leadership and subsequent approval of spot ETH ETFs in 2025.
+
+
+
+However, the possibility of an SEC approval, possibly as early as this week, could accelerate these timelines. Krüger emphasized that the market had not fully priced in such an approval, suggesting that Ethereum could see a substantial rally if the approval were granted.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+Krüger explained that the current market movements were primarily driven by repositioning and the closing of short positions, as the possibility of an SEC approval caught many off guard. He predicted that if approval were granted, it would lead to significant inflows into Ethereum, potentially pushing its price to all-time highs (ATHs).
+
+
+
+He cautioned against underestimating the potential for approval, highlighting that such a decision could reinvigorate bullish sentiment and cause Ethereum to lead the market. Despite the day’s rally, he pointed out that ETH/BTC was still down year-to-date, indicating room for further growth.
+
+
+
+
+
+
+
+Krüger also touched on the political dynamics influencing the SEC’s stance. He suggested that the seeming shift in the SEC’s approach might be politically driven, possibly influenced by the upcoming elections and the need to counteract former President Donald Trump’s recent pro-crypto stance.
+
+
+
+He noted that if the SEC rejects the spot ETH ETF proposals, which he now views as unlikely, the market could experience significant pain. He advised traders to stay alert and monitor developments closely until the SEC’s decision on May 23rd.
+
+
+
+
+
+
+
+Krüger also delvec into the political dynamics influencing the SEC’s stance. He posits that the seeming change in the SEC’s approach may be driven by top Democratic party members, potentially influenced by the upcoming elections. He believes this shift could be a reaction to former President Donald Trump’s recent support for cryptocurrency, forcing a strategic move from the Democrats to not appear anti-crypto.
+
+
+
+
+
+
+
+
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+Bonk Price Prediction as Millionaire Trader TheCryptoDog Says BONK is About to Rally - Time to Buy?
+
+
+                        
+                            Bonk Price Prediction as Millionaire Trader TheCryptoDog Says BONK is About to Rally – Time to Buy?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 22, 2024 09:53 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The Bonk price has risen by almost 1% today, reaching $0.00003187 as the wider crypto market drops by 0.5% in the past 24 hours.BONK is now up by 31% in a week and by 54% in a month, with the Solana-based meme token also up by a whopping 7,900% in a year.And these gains come at a time when prominent trader TheCryptoDog has suggested that attention is turning to BONK, presaging a possible rally in the near future.Bonk Price Prediction as Millionaire Trader TheCryptoDog Says BONK is About to Rally – Time to Buy?
+Bonk is showing some signs of a minor correction after the surging of the past couple of days, with its indicators reflecting a dip in momentum.In particular, its RSI (purple) has declined from 85 on Sunday/Monday almost 50 today, with the coin having plenty of room to slip further before becoming decidedly oversold.Source: TradingViewHaving said that, its other indicators don’t seem too bad, with its 30-day average (orange) still rising steadily beyond the 200-day average (blue), even if it isn’t rising quite as steeply today.What’s particularly positive is that BONK’s volume remains high at just over $800 million, up from $180 million only a few days ago.Also bullish are BONK’s resistance (red) and support (green) levels, which are both rising in parallel, suggesting that the coin will trade within a consistently rising band.Much of the coin’s increased volume has come from renewed interest from whales, as recent data indicates.Such interest could continue for a while yet, with the wider market looking as though it’s entering a new bull phase.This is largely because the SEC looks ready to approve several spot-based Ethereum ETFs, with the deadline for a batch coming tomorrow.While any approval will not directly affect BONK, it will at least boost market-wide bullishness, thereby helping the Bonk price.And for some traders, BONK looks likelier than many other meme tokens to rally in the very near future.This is the opinion of TheCryptoDog, for instance, who has recently posted on X that the coin seems to be attracting more interest than many of its rivals.As such, we may see the Bonk price reach $0.000035 in the next few weeks, before potentially returning to its ATH of $0.00004547 by Q4.New Meme Tokens Could Bring Bigger Rallies
+Bonk does look ready to surge in the near future, yet it’s not the only Solana-based meme token with good potential right now.There are also a range of presale tokens that are gaining hype and momentum, with some of these likely to perform very well once they list.A prime candidate is Sealana (SEAL), a new meme coin that has raised just over $2.3 million in its increasingly popular sale.Aiming to follow in the footsteps of BONK, WIF and other out-performing Solana-based meme coins, SEAL is already attracting a sizeable following online.This is partly thanks to its meme stylings, with the token adopting a gun-toting yet amiable seal as its anthropomorphic mascot.One interesting feature of Sealana is that it will actually be a multi-chain meme coin, with an Ethereum version of the token already live.Given the early success of its presale, it’s likely to enjoy a big listing once it launches in the next few weeks.In the meantime, investors can still buy it via its presale by going to the official Sealana website.It’s available at a conversion rate 1 SOL for 6,900 SEAL, which is roughly worth $0.026 per token.VIDEOIt may quickly supersede such a price once it goes live, potentially turning itself into a rival of BONK and other SOL-based coins.Buy SEAL Today                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Kangamoon presale nears 7M as Uniswap (UNI) price jumps on response to SEC's Wells Notice - CoinJournal
+
+
+
+                    
+
+                    
+The robust rebuttal from Uniswap against the SEC’s allegations has sent shockwaves through the crypto market.
+The price of Uniswap (UNI) surged to a high of $9.67 following the news of the tough response.
+As UNI price rises, another new altcoin Kangamoon (KANG) is also making waves as its presale nears $7M.
+
+The Uniswap (UNI) price is soaring following Uniswap Labs’ formidable response to the SEC’s Wells Notice. Although the token has slightly pulled back, it surged by more than 30% immediately after the news of the response broke.
+The response has not only bolstered investor confidence in the decentralized finance (DeFi) sector but also ignited positive sentiment for other altcoins, notably Kangamoon (KANG), which is currently in the midst of its presale.
+The 40-page response to SEC’s Wells Notice
+Uniswap Labs filed a comprehensive 40-page response to the SEC’s Wells Notice, vehemently contesting the agency’s claims that Uniswap’s operations may violate US securities laws.
+The decentralized crypto exchange argued against potential lawsuits, urging the SEC to reconsider its stance. Uniswap refuted the SEC’s assertions, labeling them as “weak” and citing court rulings that contradicted the agency’s legal arguments.
+Moreover, Uniswap challenged the SEC’s expansive interpretation of securities laws, emphasizing that the agency’s allegations were based on unreasonable extensions of key definitions such as securities, exchanges, and contracts.
+The platform also highlighted that the majority of its trading volume did not involve securities, as per the SEC’s own standards, and that most of its users were from outside the US, potentially exempting them from US securities laws.
+The new meme coin making waves alongside Uniswap (UNI)
+As Uniswap continues its legal battle with the SEC, another project, Kangamoon, is making waves in the crypto space with its unique approach to meme coins and community engagement.
+Kangamoon aims to establish itself as a prominent meme coin while integrating elements of SocialFi and Play To Earn (P2E).
+The project promises an immersive gaming experience where players can earn rewards in the form of $KANG tokens and exclusive NFTs by participating in challenges and competitions.
+Currently in its presale phase, Kangamoon has already raised a significant amount of nearing the $7 million mark.
+Notably, the presale offers early investors an opportunity to acquire $KANG tokens at a favorable price before the official launch of the platform. It has garnered attention from investors and enthusiasts alike, drawn to its innovative concept and potential for community-driven growth.
+Participants in the Kangamoon presale can look forward to claiming their tokens once the presale concludes.
+The project’s team has assured that detailed instructions for token claiming will be provided through various channels, including the official website, social media platforms, newsletters, and Telegram.
+Conclusion
+The surge in Uniswap (UNI) price following Uniswap Labs’ response to the SEC’s Wells Notice has injected optimism into the cryptocurrency market, benefiting projects like Kangamoon whose presale is underway.
+As both crypto projects navigate regulatory challenges and strive for success, they exemplify the resilience and innovation inherent in the crypto space.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+DOT Explodes Above $7.5 but Watch This Metric Closely: Polkadot Price Analysis
+
+
+																Polkadot has recently witnessed a surge in demand, leading to a price uptick that has breached its previous swing high and broken through a multi-month descending trendline. The price is now approaching the upper boundary of its consolidation range and is on the brink of surpassing it.
+Technical Analysis
+By Shayan
+The Daily Chart
+A detailed analysis of Polkadot’s daily chart shows that after a prolonged phase of sideways consolidation, a renewed spike in demand has pushed the price higher. This surge has allowed Polkadot to break through several key resistance levels, including a descending multi-month trendline, the prior swing high of $7.47, and the 200-day moving average.
+Now, the price is approaching the upper boundary of this long-standing range and is on the verge of breaking above it.
+If the buyers manage to push above this range, it could signal the beginning of a sustained bullish trend. However, if selling pressure intensifies, a bearish reversal towards the lower boundary is possible. The price action around this crucial resistance zone will determine Polkadot’s short-term trajectory.
+Source: TradingView
+The 4-Hour Chart
+In the 4-hour timeframe, Polkadot’s recent bullish momentum is more evident, with the price experiencing a 12% impulsive spike towards a significant resistance area.
+This critical range is bounded by the 0.5 ($7.415) and the 0.618 ($7.821) Fibonacci levels. Nevertheless, the price has been fluctuating within an ascending wedge pattern for an extended period, and following the recent surge in demand, it is now slightly retracing towards its upper boundary.
+If the buyers can breach the substantial resistance at $7.8, the next target will be the upper boundary of the wedge in the mid-term.
+Conversely, a bearish reversal could lead to another downward move, aiming for the wedge’s lower boundary. A decisive breakout from the wedge pattern is necessary to determine Polkadot’s upcoming direction.
+Source: TradingView
+Sentiment Analysis
+By Shayan
+Polkadot’s price has recently experienced a notable surge, raising expectations of a potential mid-term bullish trend. Hence, analyzing the futures market sentiment is crucial to assess whether this uptrend will persist, as futures market positions are significant drivers of volatility.
+This chart illustrates the funding rate and open interest metrics alongside Polkadot’s daily price movements. Despite the recent bullish surge, both open interest and funding rates have not shown a significant increase and remain near their lowest levels. This suggests that the recent price action was not driven by increased bullish activity in the perpetual markets.
+While Polkadot’s price has surged, the sustainability of this uptrend depends on the futures market sentiment. If open interest and funding rates begin to rise, it will signal strong bullish momentum, potentially solidifying the uptrend. Conversely, if these metrics remain low, the uptrend may lack the necessary support for long-term continuation. Traders should closely watch these indicators to better understand the market’s direction in the coming weeks.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+Disclaimer: Information found on CryptoPotato is those of writers quoted. It does not represent the opinions of CryptoPotato on whether to buy, sell, or hold any investments. You are advised to conduct your own research before making any investment decisions. Use provided information at your own risk. See Disclaimer for more information.
+
+Cryptocurrency charts by TradingView.
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+AI predicts XRP price for August 1, 2024
+
+
+    With many assets in the cryptocurrency sector starting to stagnate after recent bullish price action, the same is happening to XRP, but artificial intelligence (AI) algorithms predict further improvements for this crypto asset in the following several months.
+
+
+
+As it happens, XRP has halted its bullish advances from the previous days and has dropped back below the previously surpassed critical price level at $0.53, demonstrating the beginning of a consolidation noticeable in other assets in the crypto market as well.
+
+
+
+XRP price prediction
+
+
+
+Specifically, one of the popular AI algorithms, which takes into account historical XRP price movements, technical analysis (TA) indicators, chart patterns, and other relevant factors, has set the price of XRP on August 1, 2024, at $0.384764, which would suggest a drop of 27.29% from its current price.
+
+
+
+
+
+
+
+3-month XRP price prediction. Source: CoinCodex
+
+
+
+Elsewhere, the newest model of the OpenAI invention ChatGPT, called GPT-4o, has set the price of XRP for August 1, 2024, in the range of $1.24 – $3.30, taking into account both “median expert expectations [and] bullish predictions and favorable legal outcomes,” as well as supply, demand, and market dynamics. 
+
+
+
+Additionally, the recent Anthropic AI model, Claude 3 Opus, has offered the XRP price prediction in the range of $0.838 – $2.23 by August 2024, considering “market dynamics, regulatory developments, and the outcome of Ripple’s legal case” with the United States Securities and Exchange Commission (SEC).
+
+
+
+Notably, it has also explained that Ripple’s strategic partnerships could positively affect the acceptance of XRP and, with it, the token’s price action:
+
+
+
+
+“Ripple has established partnerships with numerous banks and financial institutions, indicating growing adoption and integration of XRP into mainstream financial systems.”
+
+
+
+
+XRP price analysis
+
+
+
+Currently, XRP is changing hands at $0.52919, suggesting a decline of 2.19% in the last 24 hours but still recording an increase of 4.24% across the previous seven days and yet accumulating a drop of 1.08% on its monthly chart, as per data on May 22.
+
+
+
+XRP price 7-day chart. Source: Finbold
+
+
+
+Earlier, crypto analyst Maximus Prime observed that XRP recently encountered rejection at the symmetrical trendline, a critical resistance level, stressing that XRP will have to “fight its way back into it and hold above,” adding that the two-week chart presented a bearish outlook but that bulls were still trying.
+
+
+
+
+
+
+
+At the same time, EGRAG Crypto highlighted that XRP was showing “inclining steps to the upside” – a bullish sign visible “even if you’re not a chart analyst” – and a “solid trajectory” with the next pivotal target at $0.75, projecting consolidation followed by a pump and “the grand finale” in an X post on May 21.
+
+
+
+XRP price action analysis. Source: EGRAG Crypto
+
+
+
+All things considered, AI and experts’ bullish XRP predictions might be correct, but doing one’s own research, weighing the risks, and keeping up with any relevant XRP news and Ripple news is critical before investing a significant amount of money in this token, as trends can change.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+SEC's tough stance on crypto continues: Gary Gensler slams 'FIT 21' Act - AMBCrypto
+
+
+
+Gary Gensler has opposed the “FIT 21” Act, citing regulatory gaps and risks to investors.
+SEC’s crypto stance before the 2024 elections could majorly sway voter sentiment.
+
+As former President Donald Trump starts accepting crypto donations for his 2024 presidential campaign, the U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler has voiced his opposition against the crypto market bill.
+Gensler’s sudden move 
+In a statement released on the 22nd of May, Chair Gary Gensler publicly voiced his opposition to the Financial Innovation and Technology for the 21st Century Act (“FIT 21” Act).
+The FIT 21 Act is a U.S. legislation aimed at promoting the development of new financial instruments and technologies while establishing a framework for their regulation and oversight.
+Gensler stated,
+“Financial Innovation and Technology for the 21st Century Act (“FIT 21”) would create new regulatory gaps and undermine decades of precedent regarding the oversight of investment contracts, putting investors and capital markets at immeasurable risk.”
+He further added,
+“The bill allows issuers of crypto investment contracts to self-certify that their products are a ‘decentralized’ system and then be deemed a special class of ‘digital commodities’ and thus not subject to SEC oversight.”
+Such a strong stance by the SEC Chair ahead of the 2024 presidential election has sent shockwaves throughout the crypto community.
+Crypto enthusiasts unhappy 
+Underlining the unprecedented involvement of the SEC in presidential politics, journalist Chris Brummer took to X (formerly Twitter) and noted,
+Source: Chris Brummer
+Echoing a similar line of thought, Ripple’s CLO, Stuart Alderoty, said,
+“Gensler overplayed his hand. He thought crypto was an easy target. He relished being the guy that everyone loved to hate.”
+He further went on and opined,
+“He thought he was above Congressional oversight. That’s all gone. He’s now a struggling political liability.”
+In a separate earlier interview, SEC Chair Gary Gensler voiced his frustration over the “outsized ratio” of crypto-related inquiries compared to those about traditional finance.
+“Crypto is a small piece of our overall markets. But, it’s an outsized piece of the scams and frauds and problems in the markets.”
+Impact on the upcoming elections 
+These developments might have a significant impact on President Joe Biden’s position in the upcoming election.
+His administration’s cautious stance on cryptocurrency, as reflected in Chair Gensler’s regulatory approach, contrasts sharply with Donald Trump’s pro-crypto moves.
+Hence, the difference in their approaches may sway voters, especially those supportive of cryptocurrencies.
+
+
+
+
+
+
+----------------
+
+Probe finds Effective Ventures charity acted ‘diligently’ after FTX collapse
+
+
+A UK government inquiry into an FTX-backed charity that received $26.8 million in donations, has concluded that its trustees acted ‘quickly’ and ‘diligently’ protecting the charity’s funds in the wake of the crypto exchange’s high-profile collapse. 
+In 2022, Effective Ventures Foundation (EV) filed a Serious Incident Report with the Charity Commission, informing it that FTX, one of the charity’s major funders, had filed for bankruptcy amid reports of criminal activity. It also informed the commission that the CEO of FTX Foundation and an unpaid advisor to the FTX Future Fund made up two of EV’s trustees.
+The commission subsequently launched a probe to determine ‘the extent of any risk to the charity’s assets and the extent to which the trustees were complying with their legal duties’ and to investigate ‘the governance and administration of the charity by the trustees, including relationships between the charity’s trustees and its funders and the identification and management of conflicts of interest.’
+The investigation, which concluded with the publication of the commission’s report, revealed that EV trustees effectively ‘ringfenced’ its FTX funding of £3.3 million and $300,000 by informing the National Crime Agency that its FTX donated funds may be criminal as to avoid any money laundering offenses. 
+The UK and US arms of EV also agreed to pay FTX a total of $26.8 million in 2022. The charity recently also listed for sale Wytham Abbey, the manor house that it bought with a £17 million ($21.5 million) grant in 2021.
+EV bought the 15th-century manor using a £17 million grant unrelated to FTX. 
+Read more: FTX-funded charity Effective Ventures agrees to return donations
+The report also found that the charity excluded the two FTX-linked trustees from any decisions and discussions relating to the FTX bankruptcy, labeling them ‘non-participating’ trustees. The inquiry noted that there was a ‘lack of clarity’ around whether the FTX-linked trustees were acting for the charity or on behalf of FTX Foundation at any given time.
+It stressed, however, that there was “no evidence” to suggest any unmanaged conflicts of interest or that the FTX-linked trustees acted against EV’s interests. The two reportedly resigned during the inquiry. 
+The inquiry concluded, “Trustees acted diligently and quickly in assessing the risk to the charity and installed measures to protect their assets and continued operations.” It added that despite “highlighted weaknesses within the charity and its governance the trustees sought to put these things right at the earliest opportunity.”
+Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
+ 
+
+----------------
+
+Trump Accepting Crypto Donations In The US Election
+
+
+                                Donald Trump's Strategic Move In the US Election                                What’s The NewsAll the candidates are putting in maximum effort for their campaigns for the US presidential election to be held in November. Current president and Democratic Party candidate Joe Biden is using safety and work record as his main tools in his campaign to secure victory. Meanwhile, potential Republican candidate Donald Trump has made a bold move by announcing that he will accept cryptocurrency donations for his election campaign thereby changing the entire direction of the US election. According to information collected by CoinGabbar, a notice was issued yesterday stating that the Trump 2024 Campaign has launched a fundraising page using the Coinbase Commerce product, allowing eligible individuals to donate in crypto. The website features logos of cryptocurrencies like Bitcoin, Ether, Dogecoin, Shiba Inu, XRP, USD Coin, Solana, and ZRX.  According to the information, Elon Musk is considering Shiba Inu and Dogecoin as the better investment option.It's worth noting that Donald Trump recently held a dinner for those who bought NFTs featuring his mugshot from the time he surrendered at the Georgia jail. During this event, he asked his supporters to donate to his campaign in cryptocurrency.The president's support is a big boost for the US crypto industry which has ramped up lobbying efforts and has spent millions on the upcoming 2024 elections. This has become a new focus area for Trump to continue bashing Biden. He also disagreed with the administration’s stance on the matter, pointing out that SEC Chair Gary Gensler has been aggressively antagonistic towards crypto companies for failing to register with the agency. “The Democrats are very much against it,” Trump stated.Cryptocurrency Becomes The Center Of Attraction Amid US ElectionCryptocurrency has become the center point of the US presidential election. The two parties have different views on cryptocurrency. Democratic Party candidate and current President Joe Biden has never shown support for cryptocurrency.  Actions and investigations by the SEC against crypto exchanges during his tenure indicate that he does not consider cryptocurrency favorable. On the other hand, potential Republican candidate Donald Trump has shown a positive attitude toward crypto since the beginning of his campaign. He has also deemed the SEC investigations into crypto exchanges as wrong. Trump aims to directly connect with the crypto community by accepting cryptocurrencies as donations for his campaign. For your information, about 50% of the young population in the US are crypto investors. Trump's target is to connect with this demographic directly. If the crypto community supports Trump in the presidential election, his victory could be assured. Meanwhile, Joe Biden's indifferent attitude towards crypto continues to widen the gap between him and the crypto community, which could be a significant disadvantage for him in the election.Also Read: First-Ever Standalone Crypto Legislation By The U.S.
+                            
+                        
+
+----------------
+
+Tether mints another $1 billion USDT this week; Is a market pump ahead?
+
+
+    Tether, the world’s largest stablecoin issuer, has minted an additional 1 billion USDT tokens on the Ethereum (ETH) blockchain, fueling speculation about a potential market surge. 
+
+
+
+This development coincides with the crypto community’s anticipation of the U.S. Securities and Exchange Commission’s (SEC) decision on a spot Ethereum exchange-traded funds (ETF), expected later this week.
+
+
+
+
+
+
+
+Tether’s CEO, Paolo Ardoino, clarified on X (formerly Twitter) that this issuance was for “inventory replenishment” and was an “authorized but not issued transaction.”
+
+
+
+
+
+
+
+This means the tokens will be used as inventory for future issuance requests and chain swaps, but are not yet in circulation. This move is viewed by market analysts as a strategic preparation for a potential market rally fueled by the expected approval of an ETH ETF.
+
+
+
+Ivan Sherbakov, CEO of Cryptorobotics, speculated that  this influx of liquidity will be used to pump the market ahead of ETF news.
+
+
+
+
+
+
+
+Historically, an increase in USDT supply has been linked with broader upward trends in the crypto market, leading to increased trading volumes and a more vibrant digital asset environment.
+
+
+
+Tether’s market impact
+
+
+
+As of May 22, Tether’s Transparency page shows $87.8 million worth of these USDT tokens on Ethereum. Tether’s market cap has grown significantly over the past year, exceeding $111 billion and accounting for roughly 70% of the stablecoin market. 
+
+
+
+This growth has been driven by various factors, including the successful launch of spot Bitcoin ETFs in the U.S. and Tether’s diversification into areas like Bitcoin mining.
+
+
+
+Concerns and considerations
+
+
+
+Despite the positive market implications, some analysts have expressed concerns about Tether’s lack of transparency. Deutsche Bank analysts have highlighted potential risks associated with Tether’s significant market dominance.
+
+
+
+With the total stablecoin market capitalization exceeding $160.9 billion, Tether holds a significant share. 
+
+
+
+These transparency issues and market dominance continue to be debated among analysts and investors, even as Tether’s actions could trigger significant market movements if the ETF is approved.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+Slight Bitcoin difficulty increase expected, but Texas heat could impact hash rate | CryptoSlate
+
+ Available exclusively viaHow the SEC’s SAB 121 repeal paves the way for balanced crypto regulation  Andjela Radmilac · 2 days ago CryptoSlate's latest report dives deep into the practical realities of SAB 121's repeal, examining its implications for the crypto industry and exploring the path forward for regulatory oversight.  
+
+----------------
+
+Bitcoin key support and resistance levels to watch for a possible breakout
+
+
+    Bitcoin (BTC) revisited the $70,000 price zone in a bullish seven days, powered by macroeconomic indicators and overall positive sentiments in the cryptocurrency market. Finbold looked for insights on key support and resistance levels to watch for in the last week of May.
+
+
+
+Notably, Bitcoin has been trading in a well-defined range since March, from $60,000 to $72,000. During this time, BTC has made two brief deviations—of two days each—from the price range. One in mid-March made an all-time high at $73,805, and the other in early May flash-crashed to $56,590.
+
+
+
+Therefore, the $60,000 and the $72,000 levels remain the most important support and resistance to watch for. A breakout, followed by confirmation with increased volume, from any of these levels would bring a more aggressive move.
+
+
+
+
+
+
+
+In the meantime, the $70,000 price makes a relevant psychological resistance that Bitcoin is currently testing. Moreover, the 30-day exponential moving average (30-EMA) has also been a key level, now making support at $65,200/btc.
+
+
+
+BTC/USD daily price chart. Source: TradingView / Finbold
+
+
+
+Bitcoin on-chain data for key support and resistance levels
+
+
+
+Looking further, Finbold gathered on-chain data from IntoTheBlock on May 22, which highlights other key levels to watch for.
+
+
+
+In particular, the “In/Out of the Money Around Price” metric shows strong support at lower prices than current ones. The largest volume is within the $63,728 to $65,830 level, at an average of $64,689. 1.79 million addresses purchased over 953,260 BTC at these prices and are currently in profit.
+
+
+
+On the other hand, there is no relevant volume to the upside, suggesting weaker resistance to the range’s top for BTC at above $72,000.
+
+
+
+In/Out of the Money Around Price. Source: IntoTheBlock
+
+
+
+Is Bitcoin ready for new all-time highs?
+
+
+
+In this context, Finbold checked Bitcoin’s “Market Value To Realized Value” (MVRV) Ratio of the last 90 days on Santiment.
+
+
+
+MVRV shows the ratio between the current price and the average price of every coin acquired. Essentially, higher ratios surge in potential resistance, foreshadowing increased selling activity, while the opposite is also valid to form support.
+
+
+
+As of this writing, the 90-day MVRV ratio at 6% suggests a neutral outlook, with weak resistance at $70,000. Nevertheless, these prices have a proportionally low ratio compared to the 35% seen in March.
+
+
+
+Hence, Bitcoin might make new all-time highs in the following days or weeks.
+
+
+
+Bitcoin price vs. MVRV Ratio (90d). Source: Santiment’s Sanbase Pro / Vini Barbosa for Finbold
+
+
+
+In conclusion, Bitcoin’s key support and resistance levels to watch are $60,000, $64,690, $70,000, and $72,000. The support levels are stronger than the resistance, which suggests a breakout to the upside. It is important, however, to understand that cryptocurrencies are highly volatile digital assets, and indicators are not conclusive.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+On-Chain Ads Are Finally Here, in a Win for Privacy and User Experience
+
+Instead, users will be fully in control of their online identities which they may functionally delete by spinning up a new wallet. Or not! They’ll keep a public-facing social wallet with all their NFTs, or a degen wallet with their trades, and see a torrent of offered airdrops, rebates, and points everywhere they go. Users, not middlemen, will be in control, however.
+
+----------------
+
+BitGo to Offer Custody Services for CoinDesk 20 Constituents
+
+"We have seen demand for accessing a turnkey broad-based digital asset solution," said Adam Sporn, Head of Prime Brokerage and U.S. Institutional Sales at BitGo, in a press release. "We’re excited to partner with CoinDesk Indices and provide our customer base with access to the top digital assets within the CoinDesk 20 Index, as investors seek to increase exposure to digital assets beyond Bitcoin."
