@@ -1,61 +1,3 @@
-ZachXBT Uncovers 7 More Addresses Linked to Lazarus Worth $61 Million-Here's the latest
-
-
-                        
-                            ZachXBT Uncovers 7 More Addresses Linked to Lazarus Worth $61 Million—Here’s the latest                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 21, 2024 16:48 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        In a major development in the crypto space, blockchain investigator ZachXBT identified seven wallet addresses on May 21 containing 891.13 Bitcoin, worth approximately $61 million, linked to the infamous North Korean hacking group Lazarus.ZachXBT shared these findings on X (formerly Twitter), highlighting the ongoing threat posed by the state-backed hacker group. The revelation follows the investigator’s previous research, which led to the authorities freezing $3.8 million in digital assets.ZachXBT identifies Seven More Addresses Linked to Lazarus 
-As of the latest updates, the flagged wallets still hold the amounts identified by ZachXBT. The usernames “EasyGoatfish351” and “FairJunco470” were noted explicitly for their deposits and trading volumes, which matched the stolen funds. The stolen assets were often exchanged into Tether (USDT) before being converted to fiat and withdrawn.Lazarus Group, known for its cyber heists, resurfaced earlier this year after a period of inactivity. On January 8, they moved $1.2 million in stolen digital assets from a mixer to an inactive wallet, involving two transfers totaling 27.37 Bitcoin. Subsequently, 3.343 BTC worth $150,582 was sent to a previously used address. The group also employed social engineering tactics, using LinkedIn to target vulnerable users with malware attacks. Blockchain security firm Slowmist flagged these attacks, noting that the hackers pretended to apply for blockchain developer jobs to gain access to confidential employee credentials.Over $200 Million Laundered By North Korean Hacking Group Lazarus
-The discovery of seven more addresses comes after an in-depth analysis published by ZachXBT on April 29, detailing how Lazarus laundered $200 million from over 25 hacks since 2020. The investigation revealed that the group orchestrated over 25 exploits across various blockchains, using crypto-mixing services and peer-to-peer marketplaces to obscure the origins of the stolen funds. The Lazarus Group, infamous for its hacking activities since 2009, reportedly stole over $3 billion in crypto assets over the six years leading up to 2023, directly and indirectly impacting thousands of individuals. The laundered funds were primarily converted into USDT stablecoin before being exchanged for fiat currencies, often through over-the-counter traders in China. Notably, $44 million of the stolen cryptocurrency was laundered through Paxful and Noones P2P marketplaces using specific usernames. In response, Tether blacklisted over $374,000 worth of stolen funds linked to the group, and other stablecoin issuers blacklisted an additional $3.4 million.The United Nations Security Council (UNSC) and DeFiLlama data indicate North Korea has been involved in $2.4 billion worth of crypto heists since 2020, with a significant portion attributed to compromised private keys.Despite the increased hacking activity by North Korean groups in 2023, they stole $700 million less than in 2022. The reduction in losses might reflect improved project security and market conditions. Experts warn that hacking activity could surge again with favorable market conditions and the continued expansion of the decentralized finance (DeFi) sector, however.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Ethereum Creator Vitalik Buterin Warns Against Rushing Into ‘Very Risky’ Superintelligent AI - Decrypt
-
-Vitalik Buterin, the mastermind behind Ethereum, called for a more cautious approach to AI research, calling the current forward frenzy "very risky." Responding to a critique of OpenAI and its leadership by Ryan Selkis—CEO of crypto intelligence firm Messari—the creator of the world's second most influential blockchain outlined his views on AI alignment—the core principles that should drive development."Superintelligent AI is very risky, and we should not rush into it, and we should push against people who try,” Buterin asserted. “No $7 trillion server farms, please.”Superintelligent AI is a theoretical form of artificial intelligence that surpasses human intelligence in virtually all domains. While many see artificial general intelligence (AGI) as the final realization of the emerging technology's full potential, superintelligent models would be what comes next. While today’s state-of-the-art AI systems have not yet reached these thresholds, advancements in machine learning, neural networks, and other AI-related technologies continue to progress—and people are by turns excited and worried.After Messari tweeted that "AGI is too important for us to deify another smooth-talking narcissist,” Buterin emphasized the importance of a diverse AI ecosystem to avoid a world where the immense value of AI is owned and controlled by very few people.“A strong ecosystem of open models running on consumer hardware [is] an important hedge to protect against a future where value captured by AI is hyper-concentrated and most human thought becomes read and mediated by a few central servers controlled by a few people,” he said. “Such models are also much lower in terms of doom risk than both corporate megalomania and militaries."The Ethereum creator has been closely following the AI scene, recently praising the open-source LLM Llama3 model. He also suggested that OpenAI’s GPT-4o multimodal LLM could have passed the Turing test after a study argued that human responses were indistinguishable from those generated by the AI.Buterin also addressed the categorization of AI models into "small" and "large" groups, with the focus on regulation of "large" models being a reasonable priority. However, he expressed concern that many current proposals could result in everything being classified as "large" over time.Buterin's remarks come amid heated debates surrounding AI alignment and the resignations of key figures in OpenAI's super alignment research team. Ilya Sutskever and Jan Leike have left the company, with Leike accusing OpenAI CEO Sam Altman of prioritizing "shiny products'' over responsible AI development.It was separately revealed that OpenAI has stringent non-disclosure agreements (NDAs) that prevent its employees from discussing the company after their departure.High-level, long-view debates about super intelligent are turning more urgent, with experts expressing concern while making widely varying recommendations.Paul Christiano, who formerly led the language model alignment team at OpenAI, has established the Alignment Research Center, a non-profit organization dedicated to aligning AI and machine learning systems with "human interests." As reported by Decrypt, Christiano suggested that there could be a "50/50 chance of catastrophe shortly after we have systems at the human level."On the other hand, Yann LeCun, Meta's chief researcher, believes that such a catastrophic scenario is highly unlikely. Back in April 2023, he stated in a tweet, that the "hard take-off" scenario is "utterly impossible." LeCun asserted that short-term AI developments significantly influence the way AI evolves, shaping its long-term trajectory.Buterin, instead, thinks of himself as a centrist. In an essay from 2023 —which he ratified today— he recognized that "it seems very hard to have a "friendly" superintelligent-AI-dominated world where humans are anything other than pets," but also argued that "often, it really is the case that version N of our civilization's technology causes a problem, and version N+1 fixes it. However, this does not happen automatically, and requires intentional human effort." In other words, if superintelligence becomse an issue, humans would probably find a way to deal with that.The departure of OpenAI's more cautious alignment researchers and the company’s shifting approach to safety policies have raised broader, mainstream concerns about the lack of attention to ethical AI development among major AI startups. Indeed, Google, Meta, and Microsoft have also reportedly disbanded their teams responsible for ensuring that AI is being safely developed.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Tell Your Representative to Support FIT21 | Bankless
-
-
-Not financial or tax advice. Bankless is not a bank, a credit union, or any other type of financial institution. No content on this website is financial, accounting, legal or tax advice. Bankless content is strictly educational and is not investment advice or a solicitation to buy or sell any assets or to make any financial decisions. This newsletter is not tax advice. Talk to your accountant. Do your own research.
-Disclosure. From time-to-time we may add links in this newsletter to this website to products we use. We may receive commission if you make a purchase through one of these links. Additionally, the Bankless team holds crypto assets. See our investment conflict of interest disclosures here. Bankless, LLC is doing business in California as Bonkless, LLC. 
-This site is protected by reCAPTCHA.
-
-
-
-----------------
-
 Why Did the SEC Suddenly Change Its Mind on Ethereum ETFs? An Inside Source Reveals the Real Reason - Bitcoin Sistemi
 
 
@@ -10274,3 +10216,159 @@ To submit a crypto press release (PR), send an email to sales@cryptointelligence
                 
 
                 
+
+----------------
+
+XRP's rally hits major roadblock: What will the altcoin do now? - AMBCrypto
+
+
+
+XRP tumbled as Ripple moved 50 million tokens, causing a market stir.
+The overall market sentiment for XRP is mixed, with neither the bulls nor the bears in control.
+
+Ripple’s [XRP] recent price surge hit a wall, leaving investors questioning what’s stalling its momentum. The cryptocurrency saw a promising 6% rise yesterday but has decreased by 2% today. 
+What exactly is dragging XRP down?
+Why is XRP down today?
+Recent data from the blockchain tracker Whale Alert revealed a massive transfer of 50 million XRP tokens from Ripple Labs Inc. to an unknown wallet valued at approximately $25.7 million. 
+This large-scale movement follows another huge transaction last week, in which over 100 million XRP were sent to an external wallet.
+Typically, these Ripple dumps tend to shake XRP’s price negatively. This is because they increase the supply of XRP in the market, which can lead to downward pressure on the price if demand remains constant. 
+And it has — XRP crossed the $0.55 threshold less than 24 hours ago, but the token is worth $0.53 at press time.
+What does the market tell us?
+AMBCrypto’s look at Coinglass’ data revealed that XRP’s trading volume has increased slightly by 3.68%, totaling $1.41 billion, indicating a moderate rise in trading activity. 
+However, Open Interest has decreased by 2.93%. This decrease suggested a slight cooling off in market enthusiasm or a consolidation phase.
+Source: Coinglass
+The Long/Short Ratio across platforms showed a mix of bullish and bearish sentiments. These mixed signals suggested a cautious sentiment among traders and investors.
+The contrast in Long/Short Ratios imply that while some top traders are bullish, the broader market remains divided. If the top traders’ bullish bets prove correct, we might see an upward price movement for XRP.
+Meanwhile, AMBCrypto’s look at the social sentiment data revealed that the Ripple Fear and Greed Index stood at 54% at press time, which indicated a neutral market sentiment for XRP.
+Source: CFGI
+
+Is your portfolio green? Check out the XRP Profit Calculator
+
+Investors might consider maintaining their positions as suggested by the index’s “Hold On” investment suggestion while keeping an eye on the volume dynamics, order book conditions, and whale activities. 
+These factors could shift the market sentiment quickly either way.
+
+
+
+
+
+
+----------------
+
+Dogecoin ETFs Move To The Fore: Can Positive Sentiment Drive It To $0.35? | Bitcoinist.com
+
+
+								The idea of a Dogecoin (DOGE) exchange-traded fund (ETF) has been raised again. This is partly due to the positive sentiment around a potential approval of the Spot Ethereum ETFs, which crypto experts believe could open the door for other crypto funds. 
+The Odds For A Dogecoin ETF Are “Brighter Than Ever”
+Crypto venture capitalist (VC) Andrew Kang mentioned in an X (formerly Twitter) post that “the odds for a DOGE ETF look brighter than ever,” with regulatory clarity for the crypto industry looking to be imminent. Kang was referring to the Financial Innovation and Technology for the 21st Century (FIT21) bill, which aims to bestow crypto regulation upon the Commodity Futures Trading Commission (CFTC). 
+
+This isn’t the first time Kang has discussed the possibility of a Dogecoin ETF being approved. In March, the crypto expert mentioned that there was a 30% chance that an investment fund related to the foremost meme coin would be eventually approved. He alluded to the recent regulatory developments as a reason why he had such hopes. 
+Furthermore, he highlighted Donald Trump winning the presidency and Dogecoin being the “most decentralized” altcoin as factors that could aid in approving a DOGE ETF. Meanwhile, in January, he mentioned that Dogecoin is one of the biggest market cap coins that has never had a presale and has never been considered a security, which is why it deserved its own ETF. 
+Kang also looks more confident about a Dogecoin ETF being approved thanks to the recent development, which shows that the SEC will likely approve the Spot Ethereum ETFs. He mentioned in a recent X post that “it is possible that an ETH ETF approval is not just an isolated event” but a first step of a “complete U-Turn” in the government’s anti-crypto stance. 
+Crypto expert Anthony Pompliano also believes that a Spot Ethereum ETF approval could be the beginning of great things for the crypto industry. He stated in an X post that “they are approving the entire industry” if they approve the Ethereum ETF. “This is the last dam to be broken,” he claimed. 
+This Positive Sentiment Can Drive DOGE To New Highs
+There is no doubt that Dogecoin’s price could rise to new highs if the launch of a Dogecoin ETF becomes feasible. It has become evident how positively a crypto’s price can react just to the hype around the potential approval of an ETF, as seen with Bitcoin’s price before when the Spot Bitcoin ETFs were approved. 
+
+More recently, Ethereum’s price rallied on news that the SEC had made a U-turn and was willing to approve the Spot Ethereum ETFs. Therefore, DOGE’s price can be expected to experience a significant price surge if an application is made to the SEC to launch a Dogecoin ETF. 
+DOGE price at $0.16 | Source: DOGEUSDT on Tradingview.com
+Featured image created with Dall.E, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Venezuela Bans Crypto Mining Amid Power Supply Concerns and Anti-Corruption Efforts
+
+
+
+                    
+
+The Venezuelan government has joined the ranks of countries that have opposed crypto mining due to its significant electricity consumption.
+
+
+
+A local news outlet reports that Venezuela’s Ministry of Electric Power plans to disconnect cryptocurrency mining farms from the national grid. 
+
+
+
+
+This initiative aims to regulate excessive energy use and ensure a stable power supply for the population.
+
+
+
+An X post from Venezuela’s National Association of Cryptocurrencies confirmed that crypto mining is now prohibited in Venezuela.
+
+
+
+This development follows a recent crackdown in which authorities confiscated 2,000 cryptocurrency mining devices in Maracay as part of an anti-corruption effort.
+
+
+
+The ministry highlighted the necessity of providing efficient and reliable electrical service across Venezuela by reducing the strain from high-energy-consuming mining farms. 
+
+
+
+Officials argue that these measures are crucial to stabilizing the national power supply, which has been inconsistent for the past decade.
+
+
+
+Venezuela has faced recurring blackouts, especially since 2019, severely affecting residents’ daily lives and the broader economy.
+
+
+
+Cryptocurrency mining’s heavy electricity demands have prompted other countries, such as China and Kazakhstan, to enforce strict regulations or bans on the practice.
+
+
+
+
+READ MORE: Notorious Crypto Drainer Pink Drainer Retires After Stealing Over $85 Million
+
+
+
+The Venezuelan government’s action against cryptocurrency mining is part of a broader anti-corruption campaign, which has resulted in the arrest of several top officials. 
+
+
+
+
+Joselit Ramírez, the former head of the National Superintendency of Cryptoassets, is a central figure in these corruption allegations.
+
+
+
+Rafael Lacava, the governor of Carabobo state, has emphasized the importance of public cooperation in identifying illegal mining operations, urging citizens to report any illicit activities.
+
+
+
+This is not Venezuela’s first measure against crypto mining. 
+
+
+
+In March 2023, the country’s energy supplier shut down crypto mining facilities nationwide as part of corruption investigations involving the state oil company.
+
+
+
+At that time, Venezuela’s attorney general, Tarek William Saab, revealed that government officials were allegedly conducting parallel oil operations with the help of the national crypto department.
+
+
+
+In 2023, eight major cryptocurrency mining operators in Kazakhstan sent an open letter to President Kassym-Jomart Tokayev, complaining about high energy prices for crypto miners.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+AMD Chips Can Now Do The AI Work That Nvidia Tech Does - Decrypt
+
+Lately, it seems like it's Nvidia world, and everyone—and certainly anyone in tech and the explosive AI industry—is living in it. Between its well-timed market entry, leading-edge hardware research, and a robust software ecosystem tailored for its GPUs, the company dominates AI development and the stock market. Its latest earnings report late today revealing that quarterly sales tripled, boosting its share price even higher.Nonetheless, long-time rival chipmaker AMD is still pushing hard to establish a foothold in AI, telling the builders behind the key technologies in the nascent space that they can also do their work on AMD hardware."I just wanted to remind everybody that if you're using PyTorch, TensorFlow or JAX, you can use your notebooks or scripts, they'll just run on AMD,” declared AMD senior director Ian Ferreira at the Microsoft Build 2024 conference earlier on Wednesday. “Same with inferencing engines. BLLM and Onyx also work out of the box."The company used its time on stage to show examples of how AMD GPUs can natively run powerful AI models like Stable Diffusion, and Microsoft Phi, efficiently performing computationally-intensive training tasks without depending on Nvidia's technology or hardware.Conference host Microsoft bolstered the message by announcing the availability of AMD-based virtual machines on its Azure cloud computing platform, using the company's accelerated MI300X GPUs. The chips were announced last June, began shipping in the new year, and were recently implemented in Microsoft Azure's OpenAI service and Hugging Face's infrastructure.ML Libraries Supported by AMD. Image: Microsoft. YoutubeNvidia's proprietary CUDA technology, which includes a full programming model and API designed specifically for Nvidia GPUs, has become the industry standard for AI development. AMD's main message, therefore, was that its solutions could slot right into the same workflows.Seamless compatibility with existing AI systems could be a game-changer, as developers can now leverage AMD's less costly hardware without overhauling their codebase.“Of course, we understand that you need more than just frameworks, you need a bunch of upstream stuff, you need a bunch of experimentation stuff, distributed training—all of that is enabled and works on AMD,” Ferreira assured.He then demonstrated how AMD handles different tasks, from running small models like ResNet 50 and Phi-3 to fine tuning and training GPT-2—all using the same code that Nvidia cards run.Image: Microsoft. YoutubeOne of the key advantages AMD touted is the ability to handle large language models efficiently.“You can load up to 70 billion parameters on one GPU, with eight of those on this instance,” he explained. “You can have eight different llama 70B's loaded, or take a big model like Llama-3 400Bn and deploy that on a single instance.”Challenging Nvidia's dominance is no easy feat, as the Santa Clara, Calif.-based company has fiercely protected its turf. Nvidia has already taken legal action against projects attempting to provide CUDA compatibility layers for third-party GPUs like AMD's, arguing that it violates CUDA's terms of service. This has limited the development of open-source solutions and made it harder for developers to embrace alternatives.AMD's strategy to circumvent Nvidia's blockade is to leverage its open-source ROCm framework, which competes directly with CUDA. The company has been making significant strides in this regard, partnering with Hugging Face, the world's largest repository of open-source AI models, to provide support for running code on AMD hardware.This partnership has already yielded promising results, with AMD offering native support and additional acceleration tools like ONNX models execution on ROCm-powered GPUs, Optimum-Benchmark, DeepSpeed for ROCm-powered GPUs using Transformers, GPTQ, TGI, and more.Ferreira also pointed out that this integration is native, eliminating the need for third-party solutions or middlemen that could make processes less efficient.“You can take your existing notebooks, your existing scripts, and you can run them on AMD, and that's important, because a lot of the other accelerators require transcoding and all kinds of pre-compiling scripts,” he said. “Our stuff just works out of the box—and it's really, really fast.”While AMD's move is undoubtedly bold, dethroning Nvidia will be a considerable challenge. Nvidia is not resting on its laurels, continuously innovating and making it difficult for developers to migrate to a new infrastructure from the de-facto CUDA standard.However, with its open-source approach, strategic partnerships, and a focus on native compatibility, AMD is positioning itself as a viable alternative for developers seeking more options in the AI hardware market.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
