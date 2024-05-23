@@ -1,816 +1,3 @@
-Guru Network X AMA Session With BeInCrypto
-
-
-We are thrilled to announce an exclusive AMA session with Evgeny Vahteev, the CTO of Guru Network, hosted by BeInCrypto. Join us as we dive deep into the evolution of DexGuru, from its origins as a DeFi trading terminal to its current transformation into the Guru Network, a comprehensive AI-driven platform. 
-Evgeny will share insights on the vision behind Guru Network, the innovative technology stack powering it, and how it seamlessly integrates trading and analytics for a superior user experience!
-AMA Session with Evgeny Vahteev from Guru Network
-BeInCrypto: We’re excited about our upcoming AMA session! Today, we’re thrilled to welcome a special guest — the CTO of Guru Network 🔥😏
-🗣 COMMUNITY I’ll ask some questions for Evgeny Vahteev (@evahteev). After that, he will answer the 3 most interesting questions from you (quick reminder: we collected these questions in advance!) 🔥
-These 3 lucky Community members will get $20 💸
-What was the primary vision behind creating dex.guru, and how has that vision evolved since its inception?
-Evgeny: That’s a great question, especially given our recent transition to Guru Network. Many people remember us from the Dex Guru Trading Terminal days and wonder why we’ve shifted to a network model, what orchestration involves, and why AI plays a role in it.
-We started as DeFi trading terminal providing a unified platform that merges real-time trading with in-depth analytics, and DeFi trading experience by offering both elements in a single, accessible interface.
-That was a new concept back then when BNB was just Launched and Poligon was just getting steam. We went through the whole DeFi summer with terminal, got VC funded, and then UST,FTX and winter came, so plans for TGE were postponed, and retail volume dried out mostly we switched to B2B products lineup coming from the same backend.
-
-Here’s our trading terminal with traders categorization and analytics.
-We initially developed a block explorer and then began offering it to various blockchain networks.
-The first one was Canto, and then on 18 chains. 
-We began by offering B2B products to various blockchain networks and soon realized the need to enhance our offerings. This led to the development of the Guru Data Warehouse, expanding our suite of tools to better serve our clients.
-
-
-At some point, we recognized that our real strength was not merely in providing a data analytics toolset but in offering a comprehensive developer’s toolkit tailored for the builders’ community. This realization led to the transformation of Guru Data Warehouse into a full-fledged development platform, which eventually evolved into what is now the Guru Network and Flow.
-And that path got us all the way to the Guru Multi Chain AI Orchestration layer we are launching in following weeks.
-BIC: Please give us an overview of the technology stack that powers dex.guru.
-Evgeny: We started at times there were no reliable RPC providers at the market. That’s why our technology stack starts from nodes we run ourselves for all the chains we support(https://mirror.xyz/evahteev.eth/POoVA0GiX9XcaQXGwQekS7o57pWwKARYzEW4uofwX2E), then we have ETL Pipeline inherited from open-source ethereum ETL(python)  extensively developed towards DeFI needs(Prices, Pools, Dexes, Balances etc). Clickhouse DB is a core Storage of Data Warehouse, Next.js, and react applications.
-BIC: Dex.guru combines trading and analytics on one platform. Can you explain how this integration benefits users compared to using separate platforms for trading and analytics?
-Evgeny: That’s the concept we started with at DexGuru, where multiple decentralized exchanges (DEXes) were presented alongside trading options across them. Users appreciated the feeling of control and the ability to conduct their own research (DYOR) directly on the platform.
-We continued to deliver in that same user-centric manner, and now we offer a data-rich Guru Warehouse analytics suite, fully integrated and embedded within the platform.
-We have a new DexGuru V2 Auto coming soon. 
-BIC: What are some recent innovations or developments that you’re particularly proud of?
-
-Evgeny: As we expanded our B2B analytics products, we began tackling not just the data-reading aspects but also the execution and orchestration side of things. This led to our first implementation of Chainflow during the ETHOnline hackathon, which further evolved into Flow and, ultimately the Guru Network. 
-Chainflow served as a proof of concept for the future BBPA (Blockchain Business Process Automation) Engines, which now act as the compute layer on the Guru Network – Compute Orchestration Chain.
-We then implemented data-aware AI agents in our block explorers, orchestrating them in the same manner as Chainflow. The definitions are done in BPMN standard:
-
-Process definitions are run on Guru Network Orchestration Nodes and synchronized through Inscriptions on Guru Network as they serve as inscriptions producers and indexers at the same time and can trigger events based on messages coming from other engines.
-
-BIC: Our usual question: How do you ensure the platform’s security and reliability, especially considering the service’s decentralized nature?
-Evgeny: At Dex Guru, we rely on the security mechanisms of our vendors since we function as an aggregator of aggregators. This approach allows us to leverage established, robust security protocols across different platforms to ensure the safety and reliability of our services.
-For the Guru Network, particularly regarding the Process Definitions Smart Contracts we plan to deploy, we have dedicated significant time and resources to conduct thorough security audits and reviews prior to the mainnet launch.
-BIC: All that Guru Network stuff looks complicated… How can a simple user get started with it?
-Evgeny: That’s a good question. We are constantly working on simplifying our platform and improving the user experience at Guru Network, as well as enhancing our documentation available at https://docs.gurunetwork.ai/. 
-BIC: What trends do you foresee in the decentralized space, and how is dex.guru preparing to capitalize on these trends?
-Evgeny: We see the DeFi space becoming increasingly complex for users as new financial mechanisms evolve. Recognizing users’ growing demand for Web3 Automation, we are responding by delivering DexGuru V2 Auto.
-
-
-These Web3 automation functions will help our users track comprehensive trends and automate their usual actions and routines, enhancing their overall efficiency and effectiveness.
-BIC: How will Guru Network’s BBPA engine (Blockchain Business Process Automation) impact the future of DeFi automation? Can you share some specific examples of how it can be used to automate DeFi tasks?
-Evgeny: Yes, there are some obvious trading strategy examples visible on the screenshot I provided earlier. But, besides that We envision it as a catalog where Gurus contribute snippets for trades, exit strategies, periodic routines, and other degen activities we all love.
-Users can select and deploy automation snippets from the catalog, paying an instantiation fee to the Guru who developed and published the snippet.
-BIC: BTW, user experience is crucial for retaining traders and analysts. What steps has dex.guru taken to ensure a seamless and user-friendly experience?
-Evgeny: We are planning to launch DexGuru V2, featuring a completely new interface and automations, first for a private beta within our Guru NFT Season Pass holders community and then to the public along with Guru Network Mainnet launch.
-Let screenshots speak for themselves:
-
-
-
-Plus all the automations I’ve mentioned and posted as screenshots earlier.
-BIC: What about the community? How important is its involvement in the development and growth of dex.guru? 
-Evgeny: We have a vibrant community of DeFi users and Guru Season Pass NFT holders.
-We are planning to launch initially within our community, offering incentives for invites to the Season 2 NFT Collection and running automations from the tGuru Faucet. 
-
-
-
-
-We are tentatively planning to release it in the coming weeks, prior to the TGE and LBP events scheduled for the end of May or June at the latest.
-BIC: How will the Guru Network be governed? Will there be a role for token holders in decision-making?
-Evgeny: So the community would be able to boost their rewards by helping us make DexGuru V2 Auto better.
-We postponed provisional governance two years ago, along with the deferral of our TGE plans at that time.
-But now we’re revisiting that idea and will provide a governance framework for the Guru Network in the coming months before the mainnet launch.
-BIC: What can users expect from dex.guru in the next year or two? Are there any major updates or expansions on the horizon?
-Evgeny: The Guru Network launch and its ecosystem expansion around the narrative of Web3/AI Orchestration, fostering innovation and integration across technologies and user flows. You can learn more about it here.
-
-VIDEO
-
-Those plans are pretty much covering two-year period.
-BIC: Thank you! Let’s move to the questions from the Community 😈
-@MEHEDIIA
-The Guru Enlightenment Network (GEN) aims to bridge AI and blockchain technologies. Can you detail how GEN facilitates the orchestration of user flows and business processes across both on-chain and off-chain environments, and what real-world applications this enables?
-Evgeny: Guru Flow, a key product within the Guru Network ecosystem, orchestrates user actions, Web3 transactions, data insights, and the compute layer, incorporating prediction models as needed. Real-world applications range from our Web3 Auto POC, demonstrated at https://app.web3auto.guru/, to more complex, business-oriented projects like Pixelpact (https://pixelpact.ai/), our inaugural non-Guru Ecosystem venture. 
-Pixelpact focuses on the tokenization of real-world assets, specifically artworks, which are used as the basis for creating unique NFTs. These NFTs, generated through three blending models that incorporate users’ input with original art, represent the real artwork and its value at exhibition events. By minting these NFTs, attendees support artists and engage in subsequent social finance activities available to NFT holders. Those are the basic examples that are already implemented and clickable by users.
-
-
-BIC: @RenaldoDowd
-For those interested in joining the Guru Network community and exploring revenue opportunities, what are the steps to get involved? Where can individuals purchase tokens and sign up to participate in the project’s ecosystem?
-
-Evgeny: We have multiple layers of network participants within our ecosystem. Gurus who contribute to the agents and AI/Web3 automations. Ecosystem projects which are utilizing the processes from catalog and flow technology as a framework for running their full stack applications in between AI, Web2, and Web3 context and retail who is looking to automate their DeFi routines and GPT tasks with the ability to pick something that works from catalog and start getting results in minutes.
-We are currently working on better documentation and guides for each guru network participants audience so it would show a clear pass for participation and earning within the ecosystem.
-
-that’s from the litepaper. 
-BIC: @Anastaciaberrios63
-How does DexGuru V2 (Auto) differentiate itself from traditional analytics platforms, and what features can users expect from this closed beta release?
-Evgeny: On top of our traditional feature reach trading analytics Dex Guru V2 is aiming to provide new Web3 automation features. Those automation scenarios are based on reach data, synthetic indicators, and trained AI models, and executed in a non-custodial fashion in the user’s controlled environment. That gives a completely new perspective on possible DeFi activities, eliminates human errors, and makes our lives easier. On the other side community members (Gurus) who develop and publish their scripts and agents in the catalog are incentivized by instantiation and infrastructure fees share paid by users who deploy and run them.
-
-We did POC of automation features just recently:
-
-VIDEO
-
-
-BIC: Great, that’s it! @evahteev, thank you for being with us today 🖤 
-Evgeny: I want to thank the BeInCrypto community for participation.
-These 3 lucky Community members will get $20 💸 for their questions.
-@Anastaciaberrios63
-@RenaldoDowd
-@MEHEDIIA
-But wait there’s more – they will also get our NFT as a sign of appreciation for their interest in Guru Network. To claim them – send me – @evahteev your wallets.
-But there’s even more. For 10 days, starting tomorrow – 18 May, we will give away 1 NFT a day among our X\Twitter followers. Winners will be defined through https://twitterpicker.com/ for retweets and following. 
-Full terms for the giveaway will be published in our Telegram soon. You can also follow us on X, or join us on Discord
-Final Thoughts About Guru Network
-Our AMA session with Evgeny Vahteev was a glimpse into the exciting future of DeFi. Guru Network has grown from a simple trading terminal into a cutting-edge platform driven by AI. With features like the Guru Data Warehouse and BBPA engines, it’s clear that Guru Network is changing the game in decentralized finance. 
-We invite you to be part of this exciting journey—explore, engage, and innovate with Guru Network. Stay connected with this project on Twitter and Discord for the latest updates, opportunities, and community events. 
-Links:
-Twitter | Discord | Telegram
-
-
-
-Disclaimer
-This article is sponsored content and does not represent the views or opinions of BeInCrypto. While we adhere to the Trust Project guidelines for unbiased and transparent reporting, this content is created by a third party and is intended for promotional purposes. Readers are advised to verify information independently and consult with a professional before making decisions based on this sponsored content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Bitcoin Funds Get $306 Million Boost Ahead of SEC Ethereum ETF Deadline - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsSure, the spotlight has been on spot Ethereum ETF hopefuls since Monday—but the already-trading Bitcoin ETFs have gotten a boost from the excitement.Yesterday Bitcoin ETFs saw $306 million worth of funds deposited, according to Coinglass. That's the biggest single day of inflows the category of funds have seen since earlier this month.Yesterday's distribution across the Bitcoin ETFs wasn't exactly even.BlackRock's iShares Bitcoin Trust (IBIT) took in $290 million, while the Fidelity Wise Origin Bitcoin Fund (FBTC) saw $26 million worth of inflows. That was offset by the Bitcoin Bitcoin ETF (BITB) and VanEck Bitcoin Trust (HODL) seeing $4 million and $6 million worth of withdrawals, respectively.And the Grayscale Bitcoin Trust (GBTC), which saw $72.5 million worth of net inflows between May 15 and May 20, was flat on Tuesday, according to Coinglass data.As an aside, the gap GBTC and IBIT has now shrunk to $736 million. That's approximately half what it was less than a month ago. It remains to be seen whether Grayscale's incoming CEO, Peter Mintzberg, will make any changes to the firm's flagship Bitcoin fund.But why would Bitcoin ETFs pump on anticipation for Ethereum counterparts? That could be because some analysts, like Standard Chartered bank, are predicting that an Ethereum ETF approval from the Securities and Exchange Commission could lead both assets—BTC and ETH—to new all-time highs.The global market cap got close to matching that in mid-March, when the Bitcoin price was on a tear and set its currently all-time high of $73,737.94.For Ethereum, that means chasing a price of $4,878.26—which it last saw on November 10, 2021. That's around the time that prices were booming and the global crypto market capitalization inched past $3 trillion for the first time ever.And there are plenty of traders turning to derivatives in hopes it'll do just that. In the past day, Ethereum open interest has surged by 30% to an all-time high of $11 billion, according to Kaiko.As of this morning, the Depository Trust and Clearing Corporation now includes the VanEck Ethereum ETF on its active and pre-launch list. Hard to say whether that's a sign of an imminent approval, though.Tickers for Bitcoin ETFs appeared and then disappeared on the clearing house and settlement company's list all the way back in October, which was months before the SEC approved any for trading.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Popular Project Banned from Hong Kong! Detected to Violate the Confidentiality of Personal Data! - Bitcoin Sistemi
-
-The Office of the Personal Data Privacy Commissioner (PCPD) has completed its investigation into the Worldcoin project, finding that its activities in Hong Kong violated the Personal Data (Privacy) Ordinance (PDPO).
-Hong Kong Privacy Commission Orders Worldcoin to Stop Iris Scanning Operations
-Privacy Commissioner Ms. Lillian Chung issued an enforcement notice requiring Worldcoin to stop using iris scanning devices to collect iris and facial images from the public.
-
-
-The investigation revealed that Worldcoin violated various Data Protection Principles regarding the collection, storage, transparency, access and correction of personal data under the KVKK.
-In particular, the collection of face and iris images was considered unnecessary and excessive. PCPD criticized Worldcoin's policy of storing personal data for up to 10 years to train artificial intelligence models used in identity verification processes, finding it excessive and unjustified.
-
-
-
-
-
-Additionally, PCPD found that Worldcoin did not adequately inform participants about the purpose of data collection, their rights, and the means to access and correct their personal data as required by law.
-The “Privacy Notice” and Consent Form for Biometric Data provided by Worldcoin did not have a Chinese version, and staff at collection sites did not explain or confirm that participants understood these documents.
-
-
-
-PCPD conducted multiple visits to six Worldcoin locations in Hong Kong between December last year and January this year, including a court-ordered investigation in late January.
-The investigation found that participants in the Worldcoin program were required to consent to the collection of facial and iris images through iris scanning to verify human identities and generate iris codes.
-
-
-
-
-
-This verification process was a prerequisite for receiving a registered identity and free virtual currency known as “Worldcoin”.
-Worldcoin confirmed that the faces and irises of a total of 8,302 people were scanned during its operation in Hong Kong.
-This decision highlights the importance of complying with data protection laws and ensuring transparency and fairness in the collection and use of personal data.
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-BlackRock's Dominance in Bitcoin ETFs Drives Market to New Highs
-
-
-							
-
-Spot Bitcoin ETF recorded $306 million in net inflow on Tuesday, May 21.
-
-
-
-BlackRock’s IBIT accounted for $290 million of the total Bitcoin ETF inflow of May 21.
-
-
-
-BTC surged 17% amid seven days of consecutive net ETF inflows.
-
-
-
-
-The spot Bitcoin ETF market continued its strong performance with $306 million net inflow on Tuesday, May 21. With this milestone, the spot Bitcoin ETF achieved a consecutive net Outflow for seven days and a day when Grayscale’s GBTC recorded a $0.00 net inflow.
-
-
-
-
-
-
-
-Meanwhile, the BlackRock IBIT maintained its impressive performance by ranking as the highest in net inflow. IBIT’s net inflow for Tuesday was $290 million, representing about 95% of the total daily net inflow in the spot Bitcoin ETF market.
-
-
-
-Tuesday’s influx of investment into spot Bitcoin ETFs boosted the total net assets value across all the listed products by 4.29%. Consequently, the spot Bitcoin ETF total net assets after Tuesday’s inflow reached $58.91 billion, according to data from Soso Value, a financial research platform for crypto investors.
-
-
-
-It is worth noting that the consecutive spot Bitcoin ETF inflow significantly affected Bitcoin’s price. The flagship cryptocurrency surged impressively during this period, pushing closer to the all-time high (ATH) established about two months ago.
-
-
-
-Bitcoin started rallying on May 17, recording a daily profit of over 7.5% for the first time in nearly two months. The top cryptocurrency broke above significant resistance around $67,200, surpassing $70,000 for the first time in May.
-
-
-
-
-
-
-
-
-
-TradingView data shows Bitcoin gained over 17% in the last seven days, with the bullish momentum intact. The latest rally launched the top crypto back into the bullish range and closer to the current ATH. Several crypto analysts believe a sustained net inflow rate would inject more bullish momentum into Bitcoin’s uptrend that could see BTC reach a new ATH soon.
-
-
-
-Bitcoin traded for $69,826 at the time of writing, following a slight pullback from Tuesday’s $71,958 high. As Bitcoin edges closer to its all-time high, the sustained inflow into ETFs, driven by products like BlackRock’s IBIT, underscores a burgeoning confidence in cryptocurrency investments. With market momentum showing no signs of waning, the coming weeks will be crucial in determining whether Bitcoin can sustain its bullish trajectory and possibly set new records.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Is China’s Bitcoin mining ban the worst decision this century?
-
-
-    Though the process has been ongoing for a relatively long time – and even the most outspoken opponents of the crypto market have been getting involved, including during the ‘crypto winter’ – 2024 has been the year of institutional cryptocurrency adoption.
-
-
-
-The trend has been most evident and extensive with regard to Bitcoin (BTC), particularly since the approval of the U.S.’ first-ever spot BTC exchange-traded funds (ETFs).
-
-
-
-Indeed, these financial instruments have seen significant institutional interest in recent months, with investors of all stripes joining the action.
-
-
-
-
-
-
-
-One country that has excluded itself from both the trend and its fruits – and which has, arguably, made it difficult for itself to catch up – is China.
-
-
-
-In 2021, the government of the People’s Republic banned BTC mining within its borders, which—though it has failed to fully eliminate such activity—has significantly damaged the once-booming sector.
-
-
-
-The ban quickly gutted the Chinese Bitcoin mining sector, which—after already declining in global market share between 2019 and 2021—fell to 0% at one point in 2021, per the data made available through the Cambridge Bitcoin Electricity Consumption Index (CBECI).
-
-
-
-Though the figure rose somewhat with activity in China – mostly considered to consist of underground operations – standing close to 21%, it still marks a substantial drop from the final pre-ban mining market share of 46%.
-
-
-
-China unlikely to be able to catch up
-
-
-
-Finally, even if the Chinese government assesses in 2024 that its decision was a mistake given the recent mainstream legitimization of Bitcoin, it would likely have a hard time attempting to regain ground.
-
-
-
-One of the biggest reasons behind the likely issues is the latest BTC halving that took place in April 2024. The event made it twice as difficult to obtain the coin, with JPMorgan (NYSE: JPM) recently revising the estimated cost of mining a single Bitcoin to $45,000.
-
-
-
-The concerns associated with the increased mining difficulty are perhaps most evident in the stock prices of major BTC miners – such as Marathon Digital (NASDAQ: MARA) and Riot Platforms (NASDAQ: RIOT) – which have declined since the start of the year despite the crypto market undergoing a large and broad rally.
-
-
-
-Nonetheless, with Bitcoin hitting new all-time highs (ATH) in general in March, and, when denominated in yuan, in February, and with other important metrics such as the hashrate also being at their ATH, it is possible China will seek to reverse the ban.
-
-
-
-Why China may not regard the ban as a mistake
-
-
-
-Ultimately, while it is possible that the recent trends could force the Chinese government to reevaluate its ban, it is far from guaranteed, given that some of the primary stated reasons behind the decision are largely still relevant.
-
-
-
-Though Bitcoin has been trading with relatively little volatility in recent years – at least by crypto market standards – it is doubtful whether the stability has already proven enough to negate the original argument of preserving financial stability.
-
-
-
-Indeed, China expressed its concerns that Bitcoin might collapse to $0 as recently as 2022 – shortly after the ‘crypto winter’ started in May of the same year.
-
-
-
-Similarly, though China has been working on increasing its reliance on green energy, the supply share has risen by only about 2% from 27.73% in 2021 to 29.14% in 2023, meaning that it is doubtful much has changed regarding the environmental argument.
-
-
-
-Finally, the last major reason for the ban—concerns over capital flight—has arguably only increased given the global economy’s increased exposure to crypto markets and the higher rates of cryptocurrency adoption.
-
-
-
-On the other hand, there have been some developments in China that hint toward a mode dovish stance on crypto, such as a conference in Nanjing that took place in late April and that saw a number of scholars agree on the need to afford digital assets a more concrete legal status in the country.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-Trump Reportedly Made Over A Million In Recent Crypto Rally As Ex-President's Investments In Ethereum And Memecoin MAGA Continue To Surge - Benzinga
-
-Former President Donald Trump's cryptocurrency holdings have sparked widespread media interest and investigation in recent months. The firebrand leader, who has strongly marketed his pro-crypto stance in the ongoing election campaign, profited handsomely from the market's recent rally. What Happened: Trump's crypto portfolio was worth $8.65 million at the time of publication, according to data from Arkham Intelligence.The largest holding in his portfolio was Maga Coin TRUMP/USD, a memecoin inspired by the "Make America Great Again" political movement. The crypto rose 9% in the rally this week, pushing his total investments to $4.81 million, an increase of $520,000.The second-largest holding was Ethereum ETH/USD, followed by Wrapped Ether WETH/USD. Combined, Trump had nearly 815 ETH and WETH, worth more than $3 million at the time of writing.  ETH witnessed a 21% surge this week on higher expectations of spot Ether ETF approval, meaning that the rally added more than 500,000 to his ETH-WETH portfolio.  Overall, Trump's crypto portfolio gained more than a million in the rally, indicating a 13% increase. Why It Matters: Donald Trump is one of the biggest celebrity cryptocurrency owners, with one prior Arkham report revealing him to be at the top of the list in terms of crypto holdings of X celebrities with over a million followers.Coins such as ETH and WETH have been gained from the sale of NFT products featuring his name and likeness, while the project designers delivered the memecoin TRUMP to his address as a token of gratitude.The Republican challenger has looked to counter his arch-rival, President Joe Biden on the subject of cryptocurrencies and regulations. He also started accepting cryptocurrency for official campaign donations. Read Next: Happy Bitcoin Pizza Day! Remembering (With Crypto Regret) The Day When 2 Pizzas Cost 10,000 BTCImage created using AI on MidJourney
-
-----------------
-
-Bitcoin ETF IBIT Records Biggest Inflows Since April as BTC Hovers at $70K
-
-Tuesday’s figures now stand out as unusually large compared to activity early this month, where IBIT recorded low or even zero inflows before May 15. IBIT also recorded its first-ever day of outflows in April, leading to some bearish sentiment for bitcoin at the time, as reported.
-
-----------------
-
-Bitcoin Price (BTC-USDT) Analysis for 22 May 2024: Key Support and Resistance Levels Explained by Macro Trader | Cryptoglobe
-
-
-                                
-On 22 May 2024, a detailed analysis of Bitcoin’s (BTC) recent price action was shared by pseudonymous analyst Bitmidas on social media platform X (formerly known as Twitter). This analysis provided an in-depth look at the market dynamics, offering valuable insights into the current and future state of BTC’s performance.
-
-
-
-
-
-
-
-The analysis began by noting a divergence between Bitcoin (BTC) and Ethereum (ETH) on the previous day. While ETH managed to stabilize, BTC struggled, adjusting towards $69,413.07 and eventually bottoming at $69,162.94. It was highlighted that today’s support level is shifting to $69,031.98, and despite the oscillations, the overall trend remains bullish.
-
-
-
-There was a significant net outflow of $16.81 billion the previous day. Although the price drop was modest, the high price and trading volume meant that outflows nearly matched the prior day’s inflows. BTC attempted to stabilize but failed to follow ETH’s performance, breaking below $70,495.27 and adjusting towards $69,413.07.
-
-
-
-Despite the failed stabilization attempt, BTC is still within a bullish oscillation. The key support zone for the day is identified as $69,031.98 to $68,544.98, with the price likely to oscillate between this zone and $71,016.08. If BTC can maintain the level of $70,495.27 for 4-8 hours, it could potentially target $71,016.08. Breaking this minor resistance might lead to higher targets of $72,860.67 to $73,320.85. However, multiple dips below the support zone of $69,031.98 to $68,544.98 could shift the trend to a bearish oscillation.
-
-
-
-Additional data on capital flow shows that the support range is between $68,544.98 and $65,844.59. The daily sentiment remains predominantly bullish at 90%, with a slight 10% bearish outlook. The long/short ratio stands at 1.19, indicating a slight advantage for long positions. Funding rates range from 0.01% to 0.0213%, reflecting a strong but slightly receding bullish sentiment. The total contracts in the market amount to $350.9 billion, a 0.92% increase, and the greed index is at 76, suggesting a high level of market optimism. The turnover rate is at 25%, indicative of active trading.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-The analysis continued by discussing the minor adjustments due to BTC’s failed stabilization. Early data showed a slight tug-of-war between bulls and bears, with bulls attempting to reclaim stabilization points and bears pushing towards the capital flow support levels. The increased oscillation suggests traders should exercise caution.
-
-
-
-Despite the recent volatility, BTC remains in a long-term bullish trend. There are no immediate low-entry opportunities, and ongoing observation of macroeconomic data is essential. The long-term strategy still favors buying on dips, reinforcing a cautiously optimistic outlook.
-
-
-
-Finally, the broader economic environment was considered. Several Federal Reserve officials made cautious statements, indicating that they are closely monitoring monthly data. They hinted at potential rate cuts in the fourth quarter of 2024, which could have significant implications for the crypto market.
-
-
-
-
-
-
-
-While technical analysis can provide valuable insights into market trends and potential price movements, it does not guarantee future performance. Market conditions can change rapidly due to various factors, including economic events and investor sentiment. Traders should use technical analysis as one of many tools in their decision-making process and remain aware of the inherent risks involved in cryptocurrency trading. Always consider your own risk tolerance and financial situation before making investment decisions.
-
-
-
-
-
-
-
-Featured Image via Unsplash
-
-                            
-                        
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-US Prosecutors Seek 5-7 Years for Former FTX Executive Salame
-
-
-                        
-                            US Prosecutors Seek 5-7 Years for Former FTX Executive Ryan Salame                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 22, 2024 05:21 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        The U.S. prosecutors are pushing for a prison sentence of five to seven years for the former FTX executive Ryan Salame.According to a sentencing memorandum, the attorneys of the Southern District of New York have argued for an extended imprisonment term, citing the seriousness and the general deterrence in imposing sentence.Former FTX Executive’s Crimes of Seriousness
-The document stated that Salame was first the head of the Settlements Team at Alameda and then CEO of FTX Digital Markets from 2019 to 2022, during which he assisted Samuel Bankman-Fried in “perpetrating aspects of the interrelated frauds.”The attorneys elaborated that Salame was found guilty for “unlicensed money transmission and false statements to banks” and “unlawful political contributions through Alameda.”“For instance, he was relied upon to integrate FTX into the Bahamas (Def. Mem. at 9), and he spoke to Caroline Ellison about ways to retrieve funds from cryptocurrency exchanges in China that had frozen Alameda accounts (Tr. 830),” the memo reads.The memo also included the recommended sentence of 120 months’ imprisonment by the Probation Office, considering serious offense conduct, the large amounts of money involved, and the need for general deterrence.“In light of the defendant’s serious crimes, which were designed to undermine the integrity of the U.S. campaign finance system and the U.S. financial system, a substantial term of incarceration, well above the 18 months’ he requests, is required,” the memo reads.Salame Requests 18 Months or Less
-The lawyers of the defendant submitted the sentencing memo on May 14, urging a prison time no longer than 18 months.“Such a sentence would satisfy the purposes of sentencing … while allowing Ryan to have the opportunity to continue contributing positively toward society,” the defendant’s sentencing memo reads.Salame’s attorneys argued that he did not play a central role in the fraudulent activities and lost a significant portion of his personal fortune with the collapse of FTX. The sentencing is scheduled for May 28                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Economist Henrik Zeberg Issues Dire Warning, Says Fed Cannot Stop Major Recession at End of 2024 - The Daily Hodl
-
-
-								A closely followed economist is warning that a major economic event last witnessed almost a century ago will likely rear its ugly head in 2025.
-Henrik Zeberg tells his 140,700 followers on the social media platform X that he sees risk-on assets such as stocks and crypto going higher and higher for the next few months.
-
-
-
-
-
-
-
-
-
-
-However, the economist predicts that the bullish conditions will abruptly subside toward the end of the year, just as market participants become extremely exuberant.
-“You may not like it. You may not understand it.
-But the bull market has an end date – this year! A blow-off top!
-First US markets will explode higher. Crypto and small caps will soar as we see a rotation from large caps and foreign markets (outside the US).
-Everybody will become euphoric and once again trust that the Fed will have our backs.
-But a major recession will set in at the end of the year.” 
-According to Zeberg, the Fed will try to support the economy by printing money to stimulate growth. But he says the Fed’s actions will only delay an economic collapse that will eventually give rise to stagflation – a period of slow economic growth with climbing unemployment and high inflation.
-“Fed will intervene – yes – but will only create a bounce in markets, as they enter with monetary stimulus when recession and deflation stare them in the eyes.
-They will offset stagflation! 
-Consequence: largest recession and bear market since 1929 in two stages. First deflation, then bounce, later stagflation.”
-In January 2023, Zeberg predicted that the stock market would reach record highs before witnessing a sudden crash. At the time, the S&P 500 was trading at around 4,000 points and Bitcoin was worth close to $20,000.
-At time of writing, the S&P 500 is hovering at 5,321 points and BTC is trading at $70,150.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Crypto Market Eyes Ether ETF Approval: Lubin Cautions on Supply Constraints
-
-
-							
-
-Joe Lubin warns of a potential Ether shortage with the launch of the Spot Ether ETF, raising supply concerns.
-
-
-
-Bloomberg analysts increase Ether ETF approval odds to 75%, signaling a significant shift in market sentiment.
-
-
-
-ETH sees a substantial surge, trading at $3,757 with 27% of the supply staked, highlighting growing market interest.
-
-
-
-
-Ethereum co-founder Joe Lubin has warned of a potential scarcity in the Ether (ETH) supply following the launch of the Spot Ether ETF. While anticipation of the ETF launch grows, Lubin asserted that the “floodgate” of ETH demand might lead to a significant shortage in supply.
-
-
-
-Though the community was initially pessimistic about the SEC’s decision on Ether ETFs, reports suggest a potential approval of nine Ether ETF issuers’ applications this week. Meanwhile, Bloomberg’s ETF analysts Eric Balchunas and James Seyffart raised their odds of Ether ETF approval from 25% to 75%.
-
-
-
-
-
-
-
-Reflecting on the positive development in the industry, Lubin highlighted a potential increase in the demand for Ether and Ether ETFs, noting that Spot Bitcoin ETF investors may “likely want to diversify into that second approved ETF.”
-
-
-
-Lubin asserted, “There’s going to be a pretty large amount of natural, pent-up pressure to purchase Ether.” However, he added that Ether will be insufficient at the time to satisfy the demand.
-
-
-
-
-
-
-
-
-
-Comparing the Bitcoin ETF launch and Bitcoin’s supply at the time with the Ether ETF and ETH supply, Lubin argued that the ETH tokens available will be much fewer than Bitcoin. Providing further insights, Lubin pointed out, “Much of the Ether is put to work in the core protocol, DeFi systems, or in DAOs.” His arguments highlight that a significant portion of ETH supply will be unavailable for ETF consumption.
-
-
-
-As of press time, ETH is exchanging hands at $3,757, marking a daily increase of 3.2%. Over the past 7 days, ETH has seen a substantial surge of nearly 30% and 16% surge over the last 30 days. While Ether holds a total supply of 120,128,511 ETH, according to onchain data, 27% of the supply is staked across the Ethereum network.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Uniswap Responses to SEC: Crypto Tokens Are Not Securities
-
-
-Uniswap Labs, the leading developer of the decentralized trading platform on Ethereum, asserted that the US Securities and Exchange Commission’s (SEC) potential enforcement action against it lacks merit. 
-According to the New York-based startup, crypto tokens should not be classified as securities. Instead, they are files similar to PDFs.
-Why Crypto Tokens Are Not Securities
-
-On Tuesday, Uniswap Labs contested the allegations that it operates an unregistered exchange and broker-dealer. This response follows a Wells notice served by the SEC’s Enforcement Division last month, indicating plans to recommend legal action against the company.
-Marvin Ammori, Chief Legal Officer of Uniswap Labs, spoke at a press conference, emphasizing the SEC’s flawed assumption that all tokens are securities. Uniswap Labs also argues that now, the SEC risks an adverse decision that could limit its authority over crypto tokens.
-
-“Tokens are, in fact, simply a file format. They are a file format for value and they are not inherently securities. The SEC has to essentially unilaterally change the definitions of exchange, broker and investment contract in order to try to capture what we do.” Ammori said.
-
-Read more: How To Buy Uniswap (UNI) and Everything You Need To Know
-
-In a 40-page response, the company expressed its readiness to litigate if necessary, asserting confidence in its legal standing. 
-SEC Chairman Gary Gensler has consistently argued that decentralized exchanges fall within the SEC’s regulatory scope. He has stated that many digital assets are unregistered securities subject to SEC rules. 
-However, Uniswap Labs maintains that UNI tokens, its governance tokens, do not qualify as securities under the Howey Test. This legal standard from a Supreme Court ruling defines investment contracts. 
-In light of these developments, Uniswap’s UNI token saw a 4% increase in value over the past 24 hours, trading at $9.63. 
-Uniswap (UNI) Price Performance. Source: BeInCrypto
-The broader crypto market closely watches the SEC’s actions, especially as the US election approaches and crypto becomes a significant political issue. Some believe that the SEC’s stance on crypto may be shifting. Also there are expectations that the SEC will approve spot Ethereum ETFs on May 23. 
-
-This anticipated approval is believed to result from political pressure. Crypto enthusiasts speculate that the Biden administration and former President Donald Trump might have realized the crypto community’s growing influence. 
-Not to mention, Trump’s campaign recently allowed donations via crypto, signaling a more crypto-friendly approach.
-Read more: What Does It Mean To Receive a Wells Notice From the SEC?
-
-“Biden and Trump now trying to outdo each other pandering to the crypto bros. Flawless victory,” Venture capitalist Nic Carter said. 
-
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Waiting for Ethereum ETF? Analyst predicts launch delay - AMBCrypto
-
-
-
-ETH ETF approval could be likely, but the official launch could take some time, per analyst. 
-Mixed feelings on the potential threat of ETH ETF, if approved, to BTC ETFs. 
-
-Crypto markets rallied early in the week following a positive update on US spot Ethereum [ETH] ETF approvals. 
-However, according to Bloomberg ETF analyst James Seyffart, despite the positive SEC update on the ETH ETF approvals, the official launch and listing could take longer. 
-“Still a potentially long way from a launch. But these filings prove that all of the rumors and speculation and chatter have been accurate.”
-Notably, on 21st May, the Chicago Board Options Exchange (CBOE) submitted five amended 19b-4s on behalf of Fidelity, VanEck, Invesco/Galaxy, Ark Invest/21Shares, and Franklin Templeton.  
-While this renewed interest and update was positive, Seyffart added that, 
-‘Need to actually see SEC approval orders on all the 19b-4s, AND THEN we need to see S-1 approvals. Could be weeks or more before ETFs launch.’ 
-The 19b-4s forms are exchange rule changes submitted by exchanges for new funds, while S-1 filings are from individual issuers. Both forms must be approved before launching ETFs. 
-Staking feature removed from Ethereum ETF filings
-Another important update on the process was the apparent removal of ETH staking wordings from the recently amended 19b-4s filings. 
-According to Seyffart, the amended filings replaced previous staking wordings with outright clear writing, 
-‘Fund’s ETH cannot be staked by anyone.’
-Most market watchers have long argued that the staking feature could complicate the approval process and raise questions about ETH’s ‘security’ status. 
-Nevertheless, some quarters aren’t happy with the swift approval of ETH ETF, given that Bitcoin ETFs took almost 10 years to achieve. One user claimed that an ETH ETF approval will indicate that the ‘market is not regulated by competent actors.’
-The user added that the approval will make ETH a Bitcoin equivalent, yet Ethereum’s ecosystem is full of ‘centralized sh*tcoins.’
-On his part, Quinn Thompson, founder of crypto hedge fund Lekker Capital, asserted that ETF inflows could help ETH come out of the shadows of Solans[SOL] and BTC. 
-In fact, Thompson added that ETH ETF, if approved, could attract inflows from BTC ETFs. Even Peter Schiff echoed Thompson’s sentiment. If confirmed, it remains to be seen whether ETH ETF could be a threat to BTC ETFs.
-
-
-
-
-
-
-----------------
-
-Kakarot ZK-EVM Launches Testnet, Paving The Way For EVM-Compatibility On Starknet - The Defiant
-
-Kakarot Labs is backed by StarkWare and Vitalik Buterin.Starknet, the seventh-largest Layer 2 network by TVL, will soon enjoy EVM-compatibility, opening the floodgates to established DeFi protocols within the Ethereum ecosystem.On May 22, Kakarot Labs launched the public mainnet phase for its modular Cairo-based zero-knowledge Ethereum Virtual Machine (EVM). The move sets the stage for Starknet's ecosystem to become EVM-compatible, with the popular Layer 2 leveraging the Cairo programming language and facilitating smart contract execution via its bespoke CairoVM.“Kakarot is essentially an Ethereum execution engine built with Cairo,” said Elias Tazartes, CEO and co-founder of Kakarot Labs. “In time, this engine will be integrated into Starknet appchains, thus allowing any ZK-rollup that uses the Cairo stack to be EVM compatible.”The Kakarot ZK-EVM was first created in October 2022 through a joint development effort from the StarkWare Exploration Team and the open-source Starknet developer community.In June 2023, Kakarot Labs announced a pre-seed investment round featuring participation from StarkWare, the team behind Starknet, and Vitalik Buterin, Ethereum’s chief scientist.EVM-compatibilityWhile Starknet currently ranks as the seventh-largest Layer 2 with more than $1 billion in total value locked (TVL), according to L2beat, the lion’s share of its TVL was achieved through its long-anticipated STARK airdrop on Feb. 20.The drop was the largest in the history of web3, with the project distributing $2.1 billion worth of tokens at a $30 billion fully diluted valuation per STARK’s initial trading price. The drop also catapulted Starknet’s TVL more than 550% to $1.22 billion from $187 million overnight.However, Starknet’s modest pre-airdrop TVL illustrates the barriers posed to the network's growth by its lack of EVM-compatibility, with its TVL having sluggishly risen from $56 million in May 2023 to $187 million in February. By contrast, many EVM-compatible L2s have quickly garnered momentum by enabling established protocols leveraging Solidity — Ethereum’s primary coding language — to easily migrate onto new networks.“Today, developers looking to build on the Starknet Stack faced the challenge of learning Cairo, the programming language developed especially for STARK cryptography, distinct from Solidity, the mainstay language of Ethereum,” Kakarot Labs said. “The introduction of Kakarot zkEVM will eliminate this barrier by enabling developers to use Solidity, thereby fostering a more inclusive environment within the ecosystem.”Kakarot’s public whitelist phase is the first of three test network deployments, with the project set to follow up with a public whitelist and permissionless public testnet launches.The project said its testnet deployments will allow developers to experiment. familiar tooling such as MetaMask and Foundry within a Cairo-based setting. “By participating in this phase, developers can test and optimize new protocol changes and the latest advancements in crypto user experiences,” Kakarot said.
-
-----------------
-
-Ether (ETH) Price Has 1 in 5 Chance of Tapping $5K by End-June, DeFi Options Protocol Lyra Says
-
-"Lyra options markets are implying a ~20% chance of ETH reaching $5,000 by June 28," Nick Forster, Lyra's founder and a former Wall Street options trader, told CoinDesk in an email. "There is a 20% chance of ETH moving above $5,500 by July 26, as traders have increased positioning post the ETF speculation."
-
-----------------
-
-Target Q1 Revenue Declined by 3.1%, EPS Short of Expectations - Tokenist
-
-
-					
-Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
-
-
-
-Target Corporation (NYSE: TGT) reported its first quarter 2024 financial results, reflecting a performance consistent with its expectations. The company posted a total revenue of $24.53 billion, a 3.1% decrease from the previous year’s $25.32 billion. This decline was driven by a 3.2% drop in total sales, partially offset by a 3.9% increase in other revenue. The operating income for the quarter was $1.3 billion, down 2.4% from the prior year’s $1.33 billion, primarily due to lower sales volume.
-
-
-
-The first quarter operating income margin rate improved slightly to 5.3% from 5.2% in the previous year. This improvement was attributed to a 140 basis point increase in the gross margin rate, which rose to 27.7% from 26.3% last year. The gross margin rate benefited from cost improvements that offset higher promotional markdown rates, favorable category mix, and lower book-to-physical inventory adjustments compared to the prior year.
-
-
-
-Target Fails to Meet EPS Forecast in Q1, Revenue in Line with Expectations
-
-
-
-Target’s performance in the first quarter matched the company’s projections but fell short of Wall Street expectations. The company reported a diluted earnings per share (EPS) of $2.03, slightly below the expected $2.06. This figure also represented a minor decline from the previous year’s EPS of $2.05. Despite the shortfall in EPS, the company’s revenue of $24.53 billion closely aligned with the forecasted $24.51 billion.
-
-
-
-Comparable sales for the quarter declined by 3.7%, which aligned with the expectations. This decline included a 4.8% decrease in store-originated sales, partially offset by a 1.4% increase in digitally-originated sales. Notably, same-day services grew nearly 9%, led by more than 13% growth in Drive Up. The company also saw continued growth in the Beauty category, which helped mitigate declines in discretionary categories.
-
-
-
-
-
-Target Corporation Expects Q2 EPS to Range Between $1.95 and $2.35
-
-
-
-Target Corporation provided guidance for the second quarter and the full fiscal year 2024. For the second quarter, the company expects a 0% to 2% increase in comparable sales and projects GAAP and adjusted EPS to range between $1.95 and $2.35. For the full year, the company maintains its forecast of a 0% to 2% increase in comparable sales, with GAAP and adjusted EPS anticipated to be between $8.60 and $9.60.
-
-
-
-The company’s leadership expressed optimism about returning to growth in the second quarter. Brian Cornell, chair and CEO of Target Corporation, highlighted the improved topline performance for the third consecutive quarter, driven by growth in the digital business, particularly in same-day fulfillment services. Cornell emphasized the company’s commitment to delivering value and convenience to consumers, supported by the successful relaunch of the Target Circle loyalty program, which added over 1 million new members in the first quarter.
-
-
-
-Target Paid Dividends of $508 Million, ROIC Improved
-
-
-
-Target’s operational efficiency showed mixed results. The company’s SG&A expense rate increased to 21.1% from 19.8% the previous year, reflecting lower sales and higher costs, including pay, benefits, and marketing investments. Despite these higher expenses, disciplined cost management helped mitigate the impact on the overall financial performance. The company’s net interest expense decreased significantly to $106 million from $147 million last year, primarily due to higher interest income from increased cash balances.
-
-
-
-On the capital deployment front, Target paid dividends of $508 million, reflecting a 1.9% increase in the dividend per share. However, the company did not repurchase any stock during the quarter, leaving approximately $9.7 billion of remaining capacity under the repurchase program. Additionally, the company’s after-tax return on invested capital (ROIC) improved to 15.4% from 11.4% in the prior year, driven by higher operating income and higher average invested capital.
-
-
-
-
-
-
-
-Disclaimer: The author does not hold or have a position in any securities discussed in the article.
-
-
-
-
-
-				
-
-				
-
-		
-			About the author
-		
-
-		
-		
-
-					
-				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
-			
-		
-	
-
-									
-				
-			
-
-----------------
-
-Every 96th person on the planet currently owns at least $1 in Bitcoin
-
-
-    Though the road has been rocky, with the 12 months starting in May 2022 being particularly dark for the industry, cryptocurrencies have, nonetheless, shown their resilience and continued their integration with the global financial systems.
-
-
-
-So far, 2024 is proving to be a particularly eventful year given that it started with the approval of the U.S.’ first-ever spot Bitcoin (BTC) exchange-traded funds (ETFs) – instruments that have already done much to expand investors’ exposure to the crypto market.
-
-
-
-Bitcoin adoption is also evident in another statistic – the number of addresses that hold at least $1 worth of the coin. 
-
-
-
-
-
-
-
-Indeed, in 2022, Finbold reported that there are as many as 35 million addresses holding at least $1 worth of BTC – up to 0.4% of the global population at the time.
-
-
-
-Figures retrieved in May 2024 from BitInfoCharts.com indicate that the number has risen significantly, and there are, in fact, as many as 84 million such addresses. This means that approximately one out of every 96 people in the world might own at least some Bitcoin – slightly more than 1% of the global population of 8.1 billion.
-
-
-
-Number of addresses with more than $1 worth of BTC. Source: BitInfoCharts
-
-
-
-It is important to note that this figure represents an upper bound, as a single individual may hold Bitcoin in multiple accounts, resulting in more than one address per person.
-
-
-
-Likewise, at least some of the rise might be accounted for by the increase in the price of the cryptocurrency as Bitcoin price today stands at $69,953 following a 66.10% year-to-date (YTD) rise.
-
-
-
-BTC YTD price chart. Source: Finbold
-
-
-
-Drivers for Bitcoin ownership
-
-
-
-It is, in general, likely that the ongoing crypto market boom is responsible for the number of relevant Bitcoin addresses as investors were likely keen to take advantage of the rally. 
-
-
-
-The trend was only boosted by the bullish forecasts surrounding the latest BTC halving event – which occurred in April – and by the mainstream legitimization offered by the Securities and Exchange Commission’s (SEC) approval of Bitcoin ETFs.
-
-
-
-Indeed, though many prominent cryptocurrency advocates are generally not appreciative of SEC’s hawkish approach to the industry, there is a strong possibility that the higher levels of discussion stemming from enforcement actions  – along with the sense of a lawman arriving in the Wild West – has done much to make digital assets appear as sensible investments to more traditional traders.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
 Dycom Industries (DY) Shines with $1.142 Billion in Contract Revenues - Tokenist
 
 
@@ -10598,3 +9785,499 @@ Many crypto users consider this a timely strategy, given the growing memecoins a
 						
 						
 						
+
+----------------
+
+Santiment Warns These Popular Altcoin Investors: A $52 Million Dump May Come! - Bitcoin Sistemi
+
+
+While there has been a rise in Ethereum ETFs in recent days, Santiment warned investors about the popular artificial intelligence altcoin RNDR.
+Render Network (RNDR), one of the leading names in the artificial intelligence industry, has been the subject of notable whale activities and an upward trend with its rise in recent weeks.
+
+
+Stating that at this point, a large whale sent 4.89 million RNDR tokens worth approximately $ 52.1 million to an unknown wallet, Santiment stated that this transfer could cause potential fluctuations in the RNDR price in the near future.
+At this point, Santiment recommends that those holding RNDR keep a close eye on the market as there may be increased volatility on the horizon. Because large transactions made by whales can often lead to price fluctuations.
+
+
+
+
+
+
+“Whaling activity is high among the AI sector and Render is no exception.
+A known whale sent 4.89 million RNDR (worth $52.1 million) to an unknown wallet earlier today as prices corrected.
+“Investors holding this asset should beware of increased volatility.”
+
+RNDR continues to trade at $10.55 at the time of writing.
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Ethereum (ETH) Skyrockets in Key Metric - What's Happening?
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+In the fast-paced world of cryptocurrency, Ethereum (ETH) has recently captured attention with a notable surge in a critical metric that could shape its future trajectory. CryptoQuant, a leading market analytics platform, has highlighted a significant development in the perpetual futures market that may influence Ethereum’s price dynamics moving forward.The focal point of interest is the seven-day moving average of the Taker Buy Sell Ratio on the Ethereum perpetual futures market. This metric serves as a crucial indicator of market sentiment, reflecting whether buyers or sellers dominate market orders. A ratio below 1 indicates a higher prevalence of selling pressure, whereas a ratio above 1 suggests increasing buyer activity.Recent trends and market implicationsFor the past several months, the Taker Buy Sell Ratio for Ethereum has consistently been below 1, signaling heightened selling activity. Analysts attribute this trend to speculative trading or hedging strategies among investors. Despite this prolonged period of bearish sentiment, recent data indicates a noteworthy shift. The ratio has begun to show a gradual increase, now approaching 1.This uptick in the Taker Buy Sell Ratio coincides with a significant rise in Ethereum’s market price. As of the latest report, Ethereum is trading at $3,833, marking an impressive 27.76% increase over the past week. Such price movements are closely tied to market sentiment and trading activities on the futures market.Potential market dynamics shiftAnalysts suggest that the rising Taker Buy Sell Ratio may indicate a potential shift in market dynamics. If this trend continues, it could alleviate the intense selling pressure that has characterized the Ethereum futures market in recent months. With increased demand from the spot market and a reduction in aggressive selling, Ethereum’s current uptrend may sustain itself in the near term.Overall, monitoring key metrics such as the Taker Buy Sell Ratio becomes increasingly important. The recent increase in this ratio, combined with Ethereum’s notable price surge, presents a cautiously optimistic outlook for investors and traders alike. Market participants will be closely watching these developments to gauge Ethereum’s future price movements and market sentiment.
+
+
+
+----------------
+
+Little Known Meme Coin CorgiAI Up 60%, Flips Pepecoin and Memecoin - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsA relatively unknown meme coin, CorgiAI, has become the eighth largest meme coin by market cap according to CoinGecko.The token flipped Pepecoin, Memecoin, and TRUMP by skyrocketing 60% over the past 24 hours and 102% over the past week. CorgiAI is within flipping distance of Book of Meme, with a market capitalization of over $800 million, according to CronoScan.This figure is similar to what is reported on CoinGecko and CoinMarketCap, although the latter indicates it has been self-reported by CorgiAI (CORGIAI) and not been verified. Meme coins are by nature very volatile, since CorgiAI’s creation a year ago the token has seen similarly huge swings three times already. CorgiAI's smart contract also includes a mint function, according to GoPlusLabs, meaning more tokens can be created if exercised so proceed with caution.CorgiAI is a community driven meme coin on the Cronos network which aims to use artificial intelligence (AI) to build tools. The most recent example of this is the Corgi Cre8r, an NFT text-to-image AI generator.Cronos is a layer-1 blockchain which is capable of interoperating with Ethereum and Cosmos. It was created by Crypto.com in partnership with Cronos Labs. Its CRO token is currently sitting at a $3.4 million market cap, according to CoinGecko.Despite being around for a while, the chain has made relatively little noise in terms of meme coins. In an attempt to address this, the chain decided to promote its native meme coins through a campaign which gave users the opportunity to win token rewards and an exclusive NFT.The “Cronos Spring Odyssey: Memecoin Trails,” asked participants to follow the tokens Twitter account, like and retweet a post, as well as buy and hold $5 of CorgiAI. Since this campaign began, the token has skyrocketed 97%, according to CoinGecko. In turn, it is now the fifth largest token on Cronos behind USDC, Wrapped Bitcoin, Maker stablecoin DAI, and the network’s native CRO.While 10 other tokens were part of the campaign, CorgiAI saw the most significant gains. Crow with knife is in second seeing 14.3% gains over the past 24 hours, reaching a $55,000 market cap.This may be because CorgiAI has also been running allow list campaigns and giveaways on their Twitter. These campaigns, run through GALXE Quest, had similar requirements to the Cronos Spring Odyssey with Twitter interactions combined with buying and holding tokens providing an entry.Edited by Stacy Elliott.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+US CBDC, FIT21 crypto bills: 'A lip service' or balanced regulation? - AMBCrypto
+
+
+
+The US House passed the FIT21 Act to set regulatory clarity for crypto. 
+Next on the line is the US CBDC bill and how the US Senate handles both. 
+
+US crypto regulation has recorded significant progress as digital assets became a political and contentious issue ahead of the US elections. 
+After the successful repeal of SEC’s Staff Accounting Bulletin 121 (SAB 121) on 16th May, more progress on crypto regulation has been made this week. 
+On 22nd May, the US House of Representatives voted and passed the Financial Innovation and Technology for the 21st Century Act, known as the FIT21 Act. Despite President Joe Biden’s opposition to the FIT21 crypto bill, it passed with bipartisan support. 
+FIT21 crypto bill
+The FIT21 bill aims to establish a regulatory framework for digital assets in the US. Notably, the bill seeks to offer the bulk of the crypto oversight to CTFC (Commodity Futures Trading Commission), an entity viewed as less hostile to the industry compared to the SEC. 
+However, the SEC will retain authority on digital assets that fall within the ‘security’ definition. Coinbase founder Brian Armstrong called the FIT21 Act update a ‘historic vote’ for crypto regulation and clarity if passed into law. 
+“Historic vote today on the FIT21 bill in the House of Representatives, that will finally start to create some clear rules to regulate crypto”
+The Blockchain Association, for its part, referred to the development as a ‘watershed moment’ for the crypto industry. 
+Interestingly, the update also prompted the White House’s reaction. The administration registered its opposition to the FIT21 Act but maintained its willingness to work for a ‘balanced’ regulatory framework for digital assets. 
+Reacting to the White House’s statement, Bloomberg ETF analyst James Seyffart called it a ‘lip service.’
+“What are the odds that this is just lip service? I guess time will tell”
+The next step for the Republican-sponsored FIT21 Act will be the Senate. However, market watchers believe that the progress could pause until the next congress picks it up in January 2025. 
+After FIT21 Act, House to vote on US CBDC
+The US House of Representatives will now vote on another crypto bill, the CBDC Anti-Surveillance State Act, HR 5043, this week. The bill seeks to bar the Federal Reserve from issuing CBDC (Central Bank Digital Currency), also known as a digital dollar, or using it as a monetary policy tool. 
+The bill was introduced by Tom Emmer, the Republican House Majority whip, who maintained that the US CBDC pushed by the Fed would threaten Americans’ privacy. 
+“The Biden Administration has proven they are itching to trade Americans’ right to privacy for a CCP-style CBDC surveillance tool.”
+Should both bills pass the US House and Senate and become law, they could provide the regulatory clarity the industry has long sought. 
+
+
+
+
+
+
+----------------
+
+Bitcoin Eyes Repeat Performance, Could Hit $140,000 By August
+
+
+																Recent bitcoin analysis and predictions from leading experts shed light on the potential trajectory of the top crypto asset’s price in the coming months, with a focus on 2024 and beyond.
+
+	Related Reading
+
+
+Market Insights And Price Forecasts For Bitcoin
+As the crypto community eagerly anticipates the future of Bitcoin, a diverse range of price predictions has emerged. Notable figures such as Arthur Hayes, Messari, Tim Draper, JP Morgan, Berenberg, and VanEck have weighed in with their forecasts, painting a varied picture of what lies ahead for the pioneering cryptocurrency.
+While some experts project conservative estimates, suggesting a price range of around $45,000, others are more bullish, envisioning BTC soaring to over $600,000 by 2024. 
+These forecasts are underpinned by a nuanced understanding of market dynamics, including factors such as institutional interest, regulatory developments, and the impact of halving events on Bitcoin’s supply and demand dynamics.
+Bitcoin is now trading at $69,924. Chart: TradingView
+Historical Analysis And Market Cycle Patterns
+Drawing insights from historical data and market cycle patterns, analysts have identified intriguing parallels that could signal significant upside potential for Bitcoin. Previous market cycles have shown that after surpassing key all-time highs, Bitcoin prices have the propensity to double within a relatively short timeframe.
+The analysis of past cycles, particularly the peaks in 2013, 2017, and 2021, suggests a pattern of rapid price appreciation following the breach of previous price records. If history is any indication, Bitcoin could be poised for a substantial move upwards, with projections indicating a potential doubling in price to around $140,000 in the near future.
+Expert Opinions And Market Sentiment
+Amidst the flurry of price predictions and market analyses, experts and analysts continue to offer valuable insights into the evolving landscape of cryptocurrency markets. Notable figures such as Alphanalysis and Will Woo have shared their perspectives on Bitcoin’s price trajectory, highlighting the importance of market corrections, accumulation phases, and the gradual build-up towards new all-time highs.
+
+
+	Related Reading
+
+
+
+Bitcoin Price Prediction
+Meanwhile, in the most recent estimate of CoinCodex for the price of Bitcoin, it shows the price will increase by 27% by June 22, 2024, to reach $88,997. This technical indicator indicates that the present mood is bullish, and the Fear & Greed Index is reading 76, which indicates extreme greed.
+BTC price forecast based on technical analysis. Source: CoinCodex 
+Over the previous 30 days, Bitcoin’s price fluctuated by 4.47%, with 12 out of 30 (or 40%) green days. The Bitcoin forecast indicates that this is a favorable moment to purchase Bitcoin.
+Latest data shows that there is a bullish general mood on Bitcoin price prediction, with 84% technical analysis indicators indicating optimistic signs and 16% indicating negative signals.
+Featured image from NPR, chart from TradingView
+																								
+															
+
+
+						
+
+----------------
+
+Robinhood Taps 0x For Gasless Swaps On Arbitrum - The Defiant
+
+Robinhood introduced support for swaps on Arbitrum in February.Robinhood, a commission-free trading platform, is launching gas-free trading on Arbitrum, the largest Ethereum Layer 2 network by TVL.Robinhood launched the feature on May 23, allowing users to execute gasless trades on the Arbitrum network via Robinhood Wallet. 0x, a decentralized exchange protocol, will provide decentralized exchange aggregation services for Robinhood.Robinhood said 0x will provide traders with the best price quote available to traders. Users can also route trades incurring gas fees should they offer a better price than gasless trades.“Users can swap without needing ETH for gas on Arbitrum, with 0x as the DEX aggregator behind the activation,” Robinhood said.The news follows Robinhood teaming up with Arbitrum in February to offer traders access to swaps via Arbitrum-based decentralized exchanges.“Accessing and transacting on L2s has historically been difficult to non-crypto natives, but Robinhood Wallet now helps strip away the complexities to help onboard those new to web3,” said Johann Kerbrat, General Manager of Robinhood Crypto.Robinhood expands crypto offeringsRobinhood first began providing crypto trading services in February 2018 with the launch of Bitcoin and Ethereum markets across five U.S. states. “Cryptocurrencies have become the first foray into investing and financial services to a large number of people,” said Robinhood co-founder, Vlad Tenev.Robinhood began expanding its roster of cryptocurrencies with the addition of Bitcoin Cash and Litecoin in July 2018, alongside the introduction of support for on-chain cryptocurrency transfers. By 2021, Robinhood users in all but two U.S. states could access its cryptocurrency markets.In March 2021, Robinhood announced plans to ship a non-custodial cryptocurrency wallet, following up with a beta launch of the Polygon-powered wallet to 10,000 iOS users in September 2022. Robinhood Wallet became available to all iOS users in March 2023 and Android users in March of this year.In December 2023, Robinhood rolled out crypto trading for European users, also announcing plans to bring the service to U.K. customers in 2024. The company launched a custodial Solana (SOL) staking service for European customers last week.However, Robinhood’s crypto business suffered a blow in the U.S. on May 4 when it received a Wells Notice from the Securities and Exchange Commission (SEC). A Wells Notice is issued when the regulator completes an investigation concluding that the recipient has infringed securities law, and typically precedes a formal complaint.The notice came despite Robinhood delisting Solana, Cardano, and Polygon after the assets were named as securities assets in the SEC’s lawsuits against Coinbase and Binance.
+
+----------------
+
+Ramp Network Secures VASP License, Plans to Make Ireland Its European Base.
+
+The Irish subsidiary of U.K.-based crypto infrastructure firm Ramp Network has secured a virtual asset services providers (VASP) registration in Ireland, the company said in a press release on Thursday.
+
+----------------
+
+Xapo Launches Lightning Network Deposits Amid Growing Adoption In Key Latin Markets - The Defiant
+
+Argentina and Brazil accounted for 43% of Lightning Network payments executed via Xapo in March.Xapo Bank, the pioneering digital asset custodian and bank, is the first fully licensed bank to support Bitcoin deposits via Lightning Network.Announced on May 23, the move allows Xapo’s global custodians to deposit BTC using Lightning Network, the payments-focussed Bitcoin Layer 2, via Lightspark, a firm providing Lightning Network-based payments infrastructure. Xapo does not charge fees for users depositing via Lightning Network.“We believe in the Lightning Network’s future as the primary avenue for Bitcoin transactions, especially for daily, small-scale exchanges,” said Seamus Rocca, CEO of Xapo Bank.“Today's Bitcoin users seek not only to store their wealth but also to integrate Bitcoin into their daily transactions seamlessly,” said David Marcus, CEO and Co-Founder of Lightspark.Coinbase, the largest U.S. centralized exchange, similarly tapped LightSpark to launch support for Lightning Network payments three weeks ago.The move follows Xapo introducing support for Lightning Network payments last year.Adoption of the service recently spiked, with the number of Lightning Network payments executed via Xapo increased by 44% from February through March 2024, with Argentinian and Brazilian users accounting for 29% and 14% of transactions, respectively.Xapo noted that the countries have historically experienced high inflation, bolstering the value proposition of Bitcoin for local users.According to Look Into Bitcoin, 4,868.2 BTC worth nearly $337.7 million is currently locked on the Lightning Network.Xapo was among the first firms to provide Bitcoin services to the Latin American market. The company was founded by Wences Caseras, an entrepreneur who launched the first internet service provider in Argentina in 1994.Caseras became interested in Bitcoin after his family was severely impacted by rampant inflation and stringent capital controls in Argentina. After investing in BTC, Caseras built a “vault” to store his Bitcoin, which became the foundation for Xapo.Caseras went on to found the Lemon Bitcoin wallet in 2012, and Xapo in the following year. Xapo’s institutional custody business was acquired by Coinbase in 2019. Xapo Bank became a fully licensed digital bank under the Gibraltar Financial Services Commission in 2021.
+
+----------------
+
+Satoshi-Era Bitcoin Miner Awakens: 2,000 BTC Moved in One Go
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+According to Julio Moreno, head of research at CryptoQuant, an early Bitcoin miner from the Satoshi era has moved 2,000 BTC. This activity involved coins mined in 2010, a time when Bitcoin's value was negligible compared to today's prices."Satoshi era" refers to the period when Bitcoin's pseudonymous creator, Satoshi Nakamoto, was active in the community, roughly between 2009 and 2010.  Bitcoin mined during the early years (2009-2011) is considered part of Bitcoin’s foundational history. Transactions involving these coins are rare and often attract considerable attention. This is often because old Bitcoin miners act as a source of liquidity and distribution.The transfer was notable not only for its size but also because it involved coins that had been held for roughly 14 years. The motivation behind moving such a significant amount of Bitcoin after a prolonged period can vary. Some potential reasons include: the holder might seek to capitalize on current market prices or to fund new ventures or investments. Sometimes, old addresses move small amounts to test modern transaction capabilities and security before deciding on larger moves.It is also possible that the owner might be moving their holdings to enhance security, utilizing modern wallets with advanced security features compared to older ones. The movement might be part of a broader market strategy, such as preparing for a large sale through over-the-counter (OTC) markets.According to Moreno, the latter scenario might be the case. He speculates that the coins likely went to an OTC desk or custodian, given that they were forwarded to several other new addresses almost immediately.At the time of writing, BTC was down 0.5% in the last 24 hours to $69,681. At current prices, the value of the transferred 2,000 BTC would be worth nearly $130 million.
+
+
+
+----------------
+
+Gold Pepe (GOLDPEPE) to Explode 11,000% Ahead of KuCoin Listing, While Shiba Inu and Dogecoin Lag
+
+
+
+                    
+
+Gold Pepe (GOLDPEPE) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Gold Pepe (GOLDPEPE), a Solana memecoin that was launched this week, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Gold Pepe presents a similar opportunity.
+
+
+
+Gold Pepe has a market cap below $15,000 at the moment, meaning that when it just reaches a modest market cap of $400,000-$800,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
+
+
+
+The exciting memecoin is poised to rally 11,000% in the coming two days before it will be listed on KuCoin – a massive cryptocurrency exchange – and Gold Pepe could potentially reach a multi-million dollar market cap within a few weeks.
+
+
+
+
+Currently, Gold Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy Gold Pepe on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Gold Pepe by entering its contract address – 5EZoavSMtfuq3dQuyQsYqUgmD7avZJEZMYpLtpZFBgYz – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like GOLDPEPE.
+
+
+                
+
+                
+
+----------------
+
+Nvidia Earnings Propel AI Stocks While AI Crypto Dips
+
+
+                        
+                            Nvidia’s Q1 Earnings Propel AI Stocks While AI Crypto Dips – Time to Buy?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 23, 2024 08:33 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Nvidia’s impressive Q1 earnings report caused AI-related stocks to surge, but AI crypto has not followed suit despite Crypto trader’s expectations.On May 22, Nvidia released its Q1 earnings report. Revenue jumped 18% from the previous quarter and surged 262% year-over-year, beating analyst estimates of $24.6 billion.The earnings report was released after the NYSE market closed on May 22. However, Nvidia’s stock spiked 6.06% in after-hours trading, reaching $1,007 and pushing its market capitalization to over $2.5 trillion.Anticipating Nvidia’s earnings report, investors expected a positive outcome to be a catalyst for AI-related cryptocurrencies.This led many AI-related projects to rally hard ahead of the report, as investors scrambled to capitalise on the best AI cryptocurrencies.AI Crypto Falls Despite Nvidia Earnings
+Immediately following Nvidia’s earnings report, tokens such as Fetch.ai (FET), The Graph (GRT), Injective (INJ), Render (RNDR), and SingularityNET (AGIX) did jump higher. However, many of them have since started to retrace.With Nvidia and other AI-focused companies performing so well in the stock market, the question many investors are now asking is whether AI-related crypto tokens will also benefit from the bullish sentiment surrounding AI.Notably, On May 22, a known “whale” wallet transferred approximately $52.1 million worth of Render to an unknown wallet, as reported by Santiment. This could indicate that holders were anticipating a “sell the news” event.However, this initial retracement might precede a rally. Pseudonymous crypto trader D0c Crypto pointed out that RNDR didn’t experience a price spike until 48 hours after Nvidia’s previous earnings report during an X post.This marks a potential opportunity to enter the market and see further gains following the Nvidia earnings report, as well as a potential buying opportunity.Although this sentiment does pose some potential gains, the aforementioned AI crypto projects are limited due to their high market capitalization. Consequently, traders looking for quicker and bigger gains may do well to investigate some of the newer low-cap AI coins currently doing the rounds.Meet Crypto’s First AI Trading Companion: WienerAI
+Enter WienerAI ($WAI), a new meme coin and AI companion cited to become every crypto trader’s Best Friend.The meme coin market is over-saturated with Shiba Inu-themed coins boasting little to no real utility. Something which may credit Weiner AI’s (WAI) recent success, raising over $2.7 million in its presale so far.Touted as a “Revolutionary AI Trading partner”, WienerAI is a digital companion that gives its owners user-friendly AI-enhanced trading advice, seamless swap functionality, and zero fees.Around 20% of $WAI’s supply is for staking, and investors are currently earning a massive 409% APY, as per the project’s official website. This places WeinerAI among some of the best passive income crypto gems.Keep up-to-date with WienerAI news over on X and Telegram.                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Crypto Update: Meme Coins Steal Spotlight as Bitcoin Reaches $71K
+
+
+							
+
+PEPE has soared by 63.63% to reach $0.00001467, setting a new all-time high.
+
+
+
+Similarly, Solana meme coins BONK, WIF, and BOME, surged by over 30%.
+
+
+
+However, Shiba Inu shoulders a 3% loss in the cumulative seven-day trajectory.
+
+
+
+
+The meme coin landscape is once again leading the narrative as the crypto market enters the second phase of the bull cycle. With Bitcoin returning to the $71K range, some meme coins have taken the spotlight from Bitcoin, registering significant double -digit percentage growth.
+
+
+
+Take PEPE, for example, which was trading at a mere $0.000008947 just a week ago. Today, it has skyrocketed by 63.63% to reach $0.00001467, setting a new all-time high.
+
+
+
+Similarly, Solana’s premier meme coin, BONK, sold for $0.00002367 on May 16. By May 23, BONK had achieved a 46.39% rally that took its market value to $0.00003465.
+
+
+
+Dogwifhat (WIF) and BOME, other prominent meme coins in the Solana ecosystem, have recorded a similar 30% uptick in their seven-day trajectory. Meanwhile, Shiba Inu, the second most valuable meme coin, has been on the sidelines while WIF, BOME, PEPE, and BONK surged.
+
+
+
+Currently, Shiba Inu bears a 3% loss in the cumulative seven-day trajectory, making it the only prominent meme coin yet to commence its bullish resurgence with Bitcoin’s comeback.
+
+
+
+Nonetheless, market analysts are confident that Shiba Inu’s next explosive gains are just around the corner. In a recent update, analyst Clifton highlighted the formation of a bullish pennant on Shiba Inu’s chart. Analysts Davie and “Word of Charts” have noted similar observations in separate analyses of Shiba Inu.
+
+
+
+
+
+
+
+
+
+For context, a bullish pennant formation indicates that an asset is poised to continue an uptrend that began earlier before encountering temporary resistance. In Shiba Inu’s case, SHIB experienced an aggressive uptrend in early March that took its value to $0.000045 but then lost momentum.
+
+
+
+These market watchers believe Shiba Inu could surpass the $0.00005 threshold during its comeback. Currently, SHIB trades at $0.00002533, down 3% in the last 24 hours.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+5 of the Best DeFi Lending Protocols for Taking Full Advantage of the Crypto Bull Market - CoinJournal
+
+
+
+                    
+
+                    It’s no secret that crypto is in the midst of a multi-year bull market right now with leading assets such as BTC and ETH chasing all-time highs and most other tokens, including memecoins, going from strength to strength. It’s also no secret that there’s never enough capital to buy all of the assets on your bull market wish list.
+Lending protocols provide a solution to this, allowing DeFi users to deposit one asset, such as ETH or BTC, and borrow stablecoins, which can then be swapped for other assets, be it AI tokens, RWA assets, or memecoins. When used responsibly, lending allows savvy DeFi users to maximize their gains. They can capitalize on the upside to their collateral increasing in value while also using their borrowed assets to make additional gains.
+
+But the lending protocol you choose will dictate the assets you can deposit, the ways you can utilize your borrowed funds, the interest you’ll pay, and the lending-borrowing ratio you can maintain. Here are five of the best lending protocols that will give you the most bang for your buck.
+Nolus
+Nolus is a cross-chain lending protocol that’s on the up. There’s a respectable $3.3M in TVL and $55M in volume since it launched less than a year ago. There are two things that make Nolus an ideal solution when operating in a bull market. Firstly, there’s its ingenious provision of up to 150% financing – 3x the industry average – through its DeFi Lease product. This allows lenders to obtain the maximum available capital and thus earn the maximum available yield.
+As for how Nolus achieves this without increasing liquidation risk, it’s because both the staked asset – the down payment – and the borrowed asset are combined to acquire the asset the user desires. By pooling these sources, it’s possible to access much greater capital than would otherwise be available. The second neat thing about Nolus is that it doesn’t liquidate the user’s position in full should they become under-collateralized. Rather, it administers partial liquidation, granting ample opportunity to top up collateral and minimize downside risk.
+Aave
+Aave needs no introduction to DeFi users, having established itself as a mainstay of the $36B DeFi lending industry. $20B of that total is accounted for by Aave alone, whose multi-chain reach, robust security, and user-friendly interface have made it a favorite for everyone from minnows to whales. More than 160,000 native token-holders can participate in onchain governance, meaning Aave can also claim to be one of the most decentralized lending protocols on the market.
+With eight networks supported, Aave provides familiarity, giving users confidence that they can rely on its battle-tested protocol on whichever chain they choose to ply their trade. There are multiple ways to earn an APY as an Aave user. You can deposit assets and earn interest on the borrowing of others; you can deposit your own assets and borrow a secondary asset, taking advantage of competitive interest rates; or you can stake AAVE and earn rewards for helping to secure the protocol.
+Kamino
+Solana is the largest non-EVM chain for DeFi and memecoin trading and it naturally has its own protocols where lending is available. Chief among these is Kamino, which allows native Solana assets including USDC, SOL, and JUP to be deposited or borrowed. The APYs are attractive too, providing ample incentives for those with spare crypto to park to earn a passive double-digit return.
+One of the best things about Kamino is the range of assets it supports. In addition to Solana “blue chips,” it allows popular memecoins such as WIF and BONK to be used as collateral. This allows Solana users to reap the rewards of memecoin season while also borrowing assets that can be used for other purposes such as liquidity mining – or simply to buy more memecoins.
+Compound
+Compound is one of the oldest and most trusted DeFi lending protocols. Around $2.5B is deposited into its decentralized protocol at present and used to borrow approximately $900M in assets. A number of EVM chains are supported including Polygon, Optimism, Base, Arbitrum, and of course Ethereum. ETH and USDC can be borrowed and the borrowing APRs are attractive.
+One of the best things about Compound is that it’s been integrated into numerous third-party platforms including OKX, Binance, and Crypto.com. As a result, users of centralized crypto services can reap the rewards to be had from Compound’s efficient and highly secure crypto lending protocol. Governance is handled by COMP holders, who can propose and vote on protocol upgrades.
+YouHodler
+YouHodler is a centralized platform that intersects with DeFi, whose lending and borrowing formula has inspired its own service. Designed to promote the hodl mentality, YouHodler incentivizes users to avoid selling their crypto where possible and to instead borrow against it – a strategy that can prove profitable in a bull market. One of the most useful things about YouHodler is the sheer number of cryptos that can be borrowed against: anything in the top 50 by market cap is accepted.
+There are other unique features to YouHodler too that make this CeDeFi platform worthy of consideration. Like its provision of a market-beating loan-to-value ratio value of 97%. Or the fact that borrowed assets can be converted to fiat and withdrawn to a bank account. If you don’t want to sell your crypto but have a house to buy or car to fix, YouHodler is a good choice.
+If you’re keen to borrow against your long-term crypto assets, you should choose a trusted lending platform and maintain a healthy collateral ratio, which can help you to make your digital assets work for you.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+River Protocol Takes on Slack, Discord With Messaging Apps on Ethereum L2 Base - Decrypt
+
+With big tech companies like Google and Meta pumping potentially unwanted AI features into their messaging platforms, there is a growing call for decentralized and encrypted alternatives that don't rely on the centralized heavyweights.One company that aims to provide this service is Here Not There Labs, creator of the Towns social app and the newly launched River Protocol. River aims to offer an alternative to chat platforms like Slack and Discord, powered by blockchain tech and both customizable and private for creators.“You see a lot of social media products that are decentralized, but you don’t see a lot of social media protocols,” Here Not There Labs co-founder and CEO Ben Rubin told Decrypt. “I do not know of a social media [app] that is owned and operated by the participants of its network that have a means to create trust between one another in a way that is permissionless.”Created in 2023, River Protocol is designed to allow developers to build decentralized, real-time messaging applications using an Ethereum Virtual Machine (EVM) compatible layer-2 blockchain, off-chain nodes, and smart contracts on Ethereum scaling network Base.A screenshot from Towns, which is built on River Protocol. Image: Here Not There LabsAccording to the River Protocol website, the project is governed by the River Association, a decentralized autonomous organization or DAO, that allows RVR token holders to participate in the protocol’s future.River Protocol joins a growing number of decentralized applications offering secure communications and social media including Farcaster, BlueSky, Nostr, and Blockscan Chat. But while many social media protocols are aiming to take on Twitter, River Protocol is more focused on teams, companies, and projects who need their own dedicated server.“Each group is represented as a space, and each space is its own smart contract that is being deployed on-chain,” Rubin said. “What the smart contract does is allow the group to issue membership into the space, and also program the entitlement of who can read and write, and under what conditions."According to Rubin, this type of setup works best for large groups with specific roles assigned to members like moderators, or who need to set restricted access to channels in the group.River stores content off-chain and uses on-chain roll-ups. A bespoke appchain handles messaging to maintain speeds to provide a similar experience to Telegram or WhatsApp. This separation, Rubin added, ensures robust security for permissions while optimizing messaging to be fast and user-friendly—yet maintains user control and decentralization.“While our main deployment is on-chain, you can read on [Ethereum] mainnet, Polygon, or across any other chains to compose rules together,” Here Not There Labs co-founder and CTO Brian Meeks added. “All of that creates a trust route for the messaging, which is happening in the River protocol. But you can cryptographically verify that what is in the River protocol is what is allowed based on what's on-chain.”Other potential user cases for River Protocol besides messaging apps, Meeks added, include connecting players of decentralized video games.“Everything benefits from communication,” he said. “You can compose their protocol together into your game, into your app, or into whatever other decentralized experiences you have, and bring in a real-time provable, verifiable, end-to-end encrypted communication experience.”Additional reporting by Sander Lutz.Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Ethereum Records Largest Daily Gains In 3 Years, Flips Mastercard And LVMH In Market Cap - Benzinga
+
+On Monday afternoon, news broke that the probability of the SEC at least partially approving a spot ethereum ETF had vastly increased. This immediately led to massive buying activity for ETH, sending the price from less than $3,100 to over $3,800 in 24 hours. This marked the largest daily move for ETH since May 2021. Don't Miss:The move followed a post on X from Eric Balchunas, a Bloomberg ETF analyst, who has been covering crypto ETFs for several months. The post detailed how he is raising the "odds of spot Ether ETF approval to 75% (up from 25%), hearing chatter this afternoon that SEC could be doing a 180 on this (increasingly political issue), so now everyone scrambling (like us everyone else assumed they’d be denied)."The post has amassed nearly five million views at the time of writing and was one of the first to start the frenzy surrounding the spot ETH ETFs. The announcement was highly unforeseen, as many had written off the ETFs due to the SEC's lack of comment on the issue and final deadlines for a decision looming later this week. Trending: According to Cathie Wood, holding 6 Ethereum (ETH) could make you a millionaire, here’s why it can be true.This news further enabled ethereum to reach a market cap of over $450 billion, making it larger than all but 20 companies worldwide. Here are some of the companies that ethereum surpassed after the news:
+Mastercard (MA)
+
+
+
+LVMH (LVMUY)
+
+
+
+Procter & Gamble (PG) 
+
+
+
+Samsung (KRW)
+
+
+
+Bank of America (BOA)
+However, approval of ETFs is not as black and white as a simple "yes" or "no" from the SEC because two forms must be approved for the ETFs to go live. The 19b-4 form allows the funds to list the ETFs, while the S-1 form is a detailed account of how the ETFs would work. According to ETF analyst Nate Geraci, the SEC could greenlight the 19b-4 forms but delay a decision on the S-1s. This would give them time to take a closer look at the individual applications from different sponsors to understand what a launch would look like. If this were to happen, it would be a positive for the spot ETFs and ethereum. It would allow the applications to move into the next stage of the process and one step closer to launch. Additionally, the possibility of full approval of the 19b-4s and S-1s is still on the table.Many crypto enthusiasts believe that a spot ETF approval would propel ETH to a price above $4,000, with some predicting that ETH could set new ATHs above $4,900. Given that Bitcoin hit new highs after the approval of its ETFs, a similar trend could occur for ethereum. Read Next:
+
+----------------
+
+Major Cardano Meme Coin SNEK Eyes Epic 21.6% Pump
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+The meme cryptocurrency SNEK, one of the largest assets on the Cardano blockchain, has seen a significant surge this week, adding over 20% to its value. The price of SNEK, known for its snake mascot, rose from 0.00227 ADA to 0.00277 ADA since Monday. This price increase has pushed SNEK's market capitalization to 203.74 million ADA, equivalent to $97.56 million. Currently, the token ranks as the third largest asset in the Cardano ecosystem, trailing only behind WorldMobile (WMT) and SingularityNET (AGIX).SNEK promotes itself as "the chillest meme coin on Cardano," with a mission of fostering community growth, advancing decentralized finance within the Cardano network and rewarding its holders. In recent years, SNEK has garnered significant support from the Cardano community. This support underscores the coin's popularity, even catching the attention of Charles Hoskinson. SNEK price outlookHowever, despite its growing popularity and substantial market cap, SNEK has yet to be listed on major exchanges like Binance or OKX. The absence of listings on these major exchanges may be seen as an unrealized trigger for the price. Source: TapToolsThe recent price surge appears to be fueled by the broader meme coin mania sweeping the cryptocurrency market. As meme cryptocurrencies inspired by various animals have seen triple-digit growth, SNEK has stealthily made its presence felt, suggesting that its rise may be just beginning.The SNEK price chart indicates a pattern of increasingly higher lows, hinting at a bullish trend as it approaches a key resistance level against ADA. If current market sentiment continues, it could drive more Cardano token holders to invest in SNEK, potentially amplifying its recent 21.6% rise.
+
+
+
+----------------
+
+Spot Bitcoin ETF (BTC) Holdings Hit New High of 850K
+
+The spot ETFs ended Wednesday with their eighth straight day of net inflows, gobbling over 24,500 BTC over that period. This is a nearly 180-degree turn from the action of the past few weeks – with some of the biggest ETFs seeing zero inflows and even net outflows on some days.
+
+----------------
+
+Pepe Memecoin Soars 27% Amid Speculation of Spot Ether ETF Approval
+
+
+
+                    
+
+Ethereum-based memecoin Pepe surged 27% to a new all-time high over the past 24 hours, fueled by speculation surrounding the potential approval of spot Ether exchange-traded funds (ETFs) in the United States.
+
+
+
+“PEPE is probably the best memecoin play for the ETH ETF,” crypto trader Matthew Hyland claimed in a May 21 X post.
+
+
+
+
+Pseudonymous crypto trader “Kaleo” noted the irony in how ETH is moving, and PEPE has become one of the most obvious hindsight trades out there.
+
+
+
+Ether has risen 23.28% over the past two days, reaching $3,785, amid renewed hope that the U.S. Securities and Exchange Commission (SEC) may approve spot Ether ETFs by a May 23 deadline. 
+
+
+
+This unexpected development has caught analysts and the crypto industry by surprise.
+
+
+
+
+Pepe (PEPE) is currently trading at $0.00001387, up 23.48% over the past 24 hours, according to CoinMarketCap data.
+
+
+
+Pseudonymous crypto trader “Plazma” believes PEPE’s upward trend will continue but anticipates brief periods of volatility.
+
+
+
+READ MORE: Kraken Affirms No Plans to Delist Tether in Europe Amid MiCA Compliance Review
+
+
+
+“PEPE price discovery should continue for the next few weeks with some normal breaks for a few days and the usual pullbacks. 
+
+
+
+
+“We will be at 2x-3x in just a few weeks,” they wrote in a May 21 X post.
+
+
+
+Meanwhile, PEPE’s open interest (OI) — the total value of all outstanding PEPE futures contracts across crypto exchanges — increased 40% to $172.96 million over the past 24 hours, according to CoinGlass data.
+
+
+
+An OI rise typically indicates traders are more confident in entering future positions on a cryptocurrency, with data showing a significant number in long positions.
+
+
+
+If PEPE’s price drops 6%, it would liquidate $10 million in long positions.
+
+
+
+PEPE led price growth among the top 10 memecoins by market capitalization over the past 24 hours, but other top memecoins also saw significant price increases over the past week.
+
+
+
+Bonk (BONK) rose 40.80%, Floki (FLOKI) increased 21.94%, and Book of Memes (BOME) climbed 25.04%.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
