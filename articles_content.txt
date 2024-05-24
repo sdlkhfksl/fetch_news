@@ -1,418 +1,3 @@
-ESET And Dutch Police Uncover Ebury Botnet's Crypto Theft Operation
-
-
-                        
-                            ESET And Dutch Police Uncover Ebury Botnet’s Crypto Theft Operation                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 23, 2024 13:43 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Slovakian cybersecurity firm ESET and the Dutch police uncovered a major crypto theft linked to the notorious Ebury botnet last week. The botnet has compromised over 400,000 servers in the past 15 years, making it a major threat to the sector.ESET explained in a May 14 report that the Ebury botnet incident was first uncovered during a 2021 investigation by the Dutch National High Tech Crime Unit (NHTCU).Ebury Botnet Operators Used AitM Attack to Steal Funds
-The operatives found that the cybercriminals had been involved in a series of crypto thefts, specifically targeting Ethereum and Bitcoin nodes. According to the Dutch police, Botnet operators steal assets from unsuspecting users’ wallets when they enter their credentials on the infected servers.The Ebury botnet, active since at least 2009, is used to deploy additional malware, monetize the botnet (such as modules for web traffic redirection), proxy traffic for spam, perform adversary-in-the-middle (AitM) attacks, and host supporting malicious infrastructure.AitM attacks involve intercepting and potentially altering the communication between two parties without their knowledge.Between February 2022 and May 2023, the Ebury botnet compromised over 200 AitM attack targets across 75 networks in 34 countries. It stole cryptos, credentials, and credit card details, accumulating large sums of money over time.The access enables them to steal funds directly from these wallets or use compromised systems to mine cryptocurrencies, siphoning off resources from unwitting victims. The botnet’s ability to stay undetected for long periods allows it to continue its operations, accumulating large amounts of cryptocurrency over time.Crypto Theft on the Rise
-The Ebury botnet’s ability to compromise many servers has created the go-to malware needed to facilitate large-scale cryptocurrency theft, which is already rapidly increasing.Recall that PeckShield’s data shows that $336.8 million of crypto funds were stolen in the first quarter (Q1) of 2024. The Certik Hac3d Report also revealed that Q1 2024 recorded substantial losses, exceeding $500 million due to cryptocurrency theft, however. This figure marks a 54% increase compared to the same period in 2023, which saw losses of about $326 million.VIDEOCertik’s report highlighted that January 2024 was particularly severe, with $193 million stolen across 78 incidents. Private key compromises were especially notable, resulting in the loss of $239 million across just 26 incidents.These breaches, targeting the unique keys that individuals use to access their cryptocurrency holdings, accounted for nearly half of all financial losses despite making up only 11.7% of all reported security breaches.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-U.S. Supreme Court Loss for Coinbase Leaves Company with Mixed Record
-
-Because the scenario outlined in this case is narrow and unusual, it "will have limited applicability in arbitration-related jurisprudence going forward," said Richard Silberberg, an arbitration lawyer with Dorsey & Whitney and a director of the New York International Arbitration Center. "The unanimous SCOTUS decision that a court, not an arbitrator, must decide whether the parties’ first agreement was superseded by the second was hardly surprising," he added, because previous rulings had pointed in that direction.
-
-----------------
-
-Fiat-to-crypto on-ramp Transak integrates Tether (USDT) on TON Network - CoinJournal
-
-
-
-                    
-
-                    
-Transak integrates USDT on TON, enhancing crypto accessibility for over 5 million users.
-The integration supports popular wallets, including Tonkeeper, Trust Wallet, and Telegram.
-TON Foundation invests 11M Toncoin to boost USDT adoption and user incentives.
-
-Transak, a leading fiat-to-crypto on-ramp, has announced the integration of Tether (USDT) stablecoin on The Open Network (TON) Blockchain.
-The listing follows the strategic collaboration between the TON Foundation and Tether, that was unveiled on April 19, 2024, at the TOKEN2049 event in Dubai.
-The collaboration leverages TON’s highly scalable blockchain technology, Telegram’s massive user base of over 900 million, and Transak’s user-friendly Web3 onboarding process to offer a frictionless, borderless peer-to-peer (P2P) payments experience for USDT.
-To encourage widespread adoption, the TON Foundation also committed a substantial investment of 11 million Toncoin, valued at approximately $72 million. These funds are earmarked for initiatives such as rewards within the Telegram Wallet, liquidity provider incentives on TON Decentralized Exchanges, and zero-fee USDT withdrawals on major centralized exchanges.
-Sami Start, CEO & Co-Founder of Transak, expressed excitement about this new offering, highlighting Transak’s commitment to promoting responsible financial freedom and self-custody of digital assets. He emphasized the significant role this collaboration plays in enabling millions to access USDT on TON through Transak’s platform.
-Expanding Tether’s (USDT) accessibility and use cases
-Following the USDT integration on TON, Transak now offers a seamless way for its over 5 million users to purchase USDT on TON using fiat.
-Over 350 decentralized applications (dApps) that incorporate Transak can now also provide their users with an easy and direct way to buy USDT via Transak.
-All this will significantly enhance the USDT’s accessibility and also expand its practical use cases.
-Buying USDT on TON via Transak
-To buy USDT on the TON network via Transak, can visit Transak’s website or the respective section in their preferred dApp and then choose USDT, select the TON network, and enter the desired purchase amount.
-After selecting a payment method (credit card, debit card, bank transfer, or other regional options), users must provide their TON wallet address, such as those in Wallet in Telegram, Tonkeeper, or Trust Wallet.
-Depending on the payment method and local regulations, additional verification may be required.
-Once verified, users can complete the purchase, and Transak will securely process the transaction and transfer the USDT to the specified wallet.
-Notably, accessing USDT on Wallet in Telegram would also facilitate instant, no-fee transfers of USDT among Telegram contacts anywhere in the world.
-
-
-                    
-
-                        Share this articleCategoriesTags
-                    
-                
-
-                
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Insiders Share When SEC Will Announce Ethereum Spot ETF Decision - Bitcoin Sistemi
-
-
-Ethereum ETF issuers have been given until this morning to submit their final 19b-4 forms, according to two sources at The Block. However, even if these forms are approved, trading of these products is not expected to begin for a few weeks.
-An issuer was notified yesterday that it had until 5pm today to amend and file form 19b-4. According to a different source, another issuer was given an earlier deadline.
-
-
-The U.S. Securities and Exchange Commission (SEC) expects to make a decision on approving one or more applications after the market closes today, a source at an applicant company said. This expectation is based on the institution's historical tendency to make such decisions.
-
-However, a source expressed doubts that trading of these ETFs will begin anytime soon. By the time Bitcoin ETFs were approved, S-1 registration statements were already prepared and exchanges were ready to begin trading. In contrast, S-1s for Ethereum ETFs require “too much processing” and discussions with exchanges have not yet begun to prepare for transactions.
-
-
-
-
-
-One source predicts the S-1s will go back and forth between the SEC and prospective issuers multiple times before they are ready. They said it could take weeks but ultimately depends on how responsive the SEC is.
-If the 19b-4 forms are approved and the S-1s go into effect, Ethereum ETFs can begin trading. However, the exact timeline remains unclear and depends on several factors, including the speed of the SEC's response.
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Shiba Inu’s Shibarium Teases 420 Million Transaction Milestone As Daily Transactions Jump 50% | Bitcoinist.com
-
-
-								Shibarium, the Ethereum Layer 2 network developed by the Shiba Inu team, has seen some remarkable growth since it launched in 2023. With the continuous usage, the network is on its way to reaching a new major milestone amid a notable 50% in its daily transactions.
-Shibarium Almost At 420 Million Transactions
-According to data from Shibariumscan, the total number of transactions that have been carried out since inception is nearing 420 million. At the time of writing, the figure is sitting just above 417.53 million, which means the network has achieved this feat in nine months, after launching in August 2023.
-
-This comes amid a jump in the daily transaction volume, signaling a  interest in the Shibarium network. The daily transactions had retraced to 10,904 on Tuesday after initially rising to 18,554 on Monday, its second-highest daily figure in the month of May so far. However, on Wednesday, the network’s transaction saw a 50% jump from Tuesday’s lows, rising to 15,414.
-With these figures and the network’s performance over the last month, its average daily transactions now sit somewhere around 9,000. If this average holds going forward, it could take the network around 8 months to hit the 2.5 million transactions left to hit the 420 million milestone.
-However, with the bull market raging on and crypto participation rises, it is possible that Shibarium does begin to see higher adoption. In that case, the Ethereum Layer 2 network could be hitting this milestone very soon.
-Where Is The Shiba Inu Price Headed?
-The negative performance of the Shibarium network seems to have moved onto the Shiba Inu price as the meme coin despite the crypto market recovery. The meme coin’s price is down 2.55% in the last day, amid a massive decline in its daily trading volume.
-Its trading volume is down a whopping 49% in the last day to sit at $631 million at the time of this writing. This decline in volume suggests dwindling interest in the Shiba Inu price, especially as other newer meme coins are posting more gains.
-
-For example, the PEPE price has risen to new all-time highs this week, with over 100% gains in the last month. Likewise, the BONK price looks to be rallying toward new all-time highs, touching gains of 74% in the last month alone.
-This suggests a move from more established meme coins to the new, shinier versions, and the price of Shiba Inu could continue to suffer as a result. It is currently trading at $0.00002532, but despite the declines in the last day, it remains the 12th-largest cryptocurrency in the space with a market cap of $14.9 billion.
-SHIB price pulls away from bears | Source: SHIBUSDT on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Is $77,600 The Next Step For Bitcoin? On-Chain Pricing Model Hints So
-
-
-																Data from a Bitcoin pricing model based on an on-chain indicator suggests that $77,600 may be the level where the asset will see its next peak.
-Bitcoin MVRV Pricing Bands Could Provide Hints About What’s Next
-In a new post on X, analyst Ali discussed what the Market Value to Realized Value (MVRV) Pricing Bands model could suggest about the cryptocurrency’s future.
-The MVRV ratio is a popular on-chain indicator that compares the Bitcoin market cap and realized cap. The former is just the total valuation of the asset at the current spot price, while the latter is a model that calculates the asset’s cap by assuming the “true” value of any coin in circulation is the price at which it was last transferred on the blockchain.
-
-	Related Reading
-
-
-The previous transfer of any coin on the network was likely the last time it changed hands, and thus, the price at that time would be its current cost basis. As such, the realized cap keeps track of the sum of the cost basis of every investor in the market.
-Therefore, the MVRV ratio tells us how the value the investors hold (the market cap) compares against the value they put in (the realized cap).
-Based on this indicator, the on-chain analytics firm Glassnode has developed a pricing bands model. Below is a chart showing what these pricing bands look like.
-The different pricing bands based on the MVRV mean | Source: @ali_charts on X
-The pricing bands in this model represent levels corresponding to a specific deviation from the mean for the MVRV ratio. From the chart, it’s visible that the cryptocurrency is currently above the price level, corresponding to a +0.5 standard deviation (SD) from the mean for the indicator.
-More specifically, the price level around $65,100 would be where the MVRV ratio would be +0.5 SD above its mean. The next major pricing band in this model is +1 SD, which currently corresponds to around $77,600.
-In the past, this level has been where at least local tops have been probable to form for BTC. As is visible in the graph, the rally top back in March also occurred when BTC broke this level.
-“Based on the MVRV Pricing Bands, if Bitcoin continues to trade above $65,125, the next local BTC top before a brief correction could be around $77,593!” notes the analyst.
-
-	Related Reading
-
-
-From the current spot price of the cryptocurrency, a potential rally to a new all-time high of $77,593 would mean an increase of more than 11% for the asset. It now remains to be seen how the asset’s price will develop from here and whether it will be able to maintain above the +0.5 SD MVRV level.
-BTC Price
-Since its sharp surge earlier, Bitcoin’s bullish momentum appears to have cooled off as the asset has fallen to sideways movement around the $69,700 mark.
-Looks like the price of the coin has retraced a bit since its earlier high | Source: BTCUSD on TradingView
-Featured image from Kanchanara on Unsplash.com, Glassnode.com, chart from TradingView.com
-																								
-															
-
-
-						
-
-----------------
-
-Gensler Maintains Most Tokens Are Securities | Bankless
-
-
-SEC Chair Gary Gensler just reaffirmed his stance that most cryptocurrencies qualify as securities based on the Supreme Court's Howey Test. The remarks come as the crypto community anticipates the SEC's decision on spot ether ETFs, expected later today.What's the scoop?In his new comments, Gensler reiterated his view that most of the existing "15,000-20,000" crypto tokens do not operate as currency and often have a group of entrepreneurs behind them, making them fit America's definition of a security."It's just a field where the token operators, without prejudging any one of them, aren't making the disclosures that investors really could benefit from and are required by law," the SEC Chair said. Bankless take:Despite Gensler's steadfast position, the crypto regulatory environment appears to be thawing across bipartisan lines in the U.S. via XEarlier this week, the House passed the Financial Innovation and Technology for the 21st Century Act (FIT21), which Gensler criticized for undermining existing securities regulations. The Senate also recently voted to repeal an SEC crypto accounting rule.Additionally, Ethereum ETFs seem poised for approval, and this greenlighting could be a turning point in actualizing a more favorable regulatory climate for crypto in America, regardless of what Gensler personally thinks. Could a DOGE or SOL ETF be coming, then? Only time will tell, but the possibilities seem in play now more than ever. 
-
-
-
-----------------
-
-Bing and DuckDuckGo offline overnight, Google says thanks for the data
-
-
-A massive, multi-hour outage of Microsoft’s application programming interface (API) used by its Bing search division has caused unprecedented interruptions for millions of people.
-Bing, which has over 9% global search market share, also serves critical features for the privacy-conscious DuckDuckGo search engine, AI tools like ChatGPT, and the code development assistant CoPilot. All were offline today for a number of hours.
-Complaints rained in across social media as default search engines for millions of browsers returned errors, suspenseful spinning icons, empty search results, and error pages.
-Protos reporters began experiencing search engine errors on Bing and DuckDuckGo a couple of hours after midnight New York time.
-Problems at Microsoft look to have begun as early as late Wednesday. By 8pm, Microsoft admitted, “We’re aware of and investing reported issues accessing the Microsoft 365 admin center.”
-Search engines for millions of browsers returned spinning icons, empty search results, and error pages.
-Read more: Andrew Tate seems confused as he dumps bitcoin to buy GameStop
-To call Microsoft a giant is an understatement. It’s the largest publicly traded company in the US with a $3.2 trillion market cap. Despite its size — and trillion-dollar lead on the size of its competitor, Google — it has less than 10% global market share of search queries.
-Google, by far the world’s dominant search engine, has over 83% market share.
-Google remained online during the Bing and DuckDuckGo outages, providing it hours of invaluable search data from frustrated users of its competitors.
-Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
- 
-
-----------------
-
-BREAKING: Coinbase Announces It Will Now Support Staking for Unexpected Altcoin - Bitcoin Sistemi
-
-
-According to the latest development, Coinbase announced in its statement that it has launched the staking feature for Avalanche (AVAX).
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Ethereum Exchange Inflows Highest Since March: Bearish Sign?
-
-
-								On-chain data shows that the Ethereum exchange net flows have been highly positive recently, a sign that selling may be taking place in the market.
-Ethereum Exchange Netflows Have Seen A Spike Recently
-In a new post on X, CryptoQuant head of research Julio Moreno discussed the latest trend in Ethereum’s exchange netflow. The “exchange netflow” here refers to an on-chain metric that keeps track of the net amount of ETH moving into or out of the wallets of all centralized exchanges.
-When this metric’s value is positive, it means that these platforms are receiving a net number of coins right now. As one of the main reasons holders might deposit coins to exchanges is for selling-related purposes, this trend can potentially bearish consequences for the asset’s price.
-
-On the other hand, the indicator’s negative reading implies that exchange-associated wallets are observing net withdrawals currently. Investors may be moving their coins away from the custody of these central entities for long-term holding, so such a trend may prove to be bullish for the cryptocurrency.
-Now, here is a chart that shows the trend in the Ethereum exchange netflow over the last few months:
-
-The value of the metric appears to have been quite high in recent days | Source: @jjcmoreno on X
-The above graph shows that the Ethereum exchange netflow has registered some large positive spikes recently. These net deposits have been of a scale only observed in March. According to Moreno, these deposits have mostly been headed towards Binance and Bybit.
-As mentioned before, net exchange inflows can indicate that selling is taking place in the market, although this doesn’t necessarily have to be the case. Sometimes, large deposits use one of the other services these platforms provide, like derivatives contracts.
-Whatever the case, though, volatility does tend to rise following large deposits. The chart shows that the rally top back in March saw the indicator assume high values as investors participated in profit-taking.
-
-Recently, Ethereum has observed a sharp surge, fueled by positive news surrounding the spot exchange-traded funds (ETFs). Given this rally, it’s possible that profit-taking may once again be the goal behind the positive net flows.
-So far, though, ETH has managed to stave off this potential selloff, as its price has remained relatively high. It’s uncertain, however, how long demand can continue to absorb the possible selling pressure if deposits continue to flow into these platforms in the coming days.
-ETH Price
-Ethereum started a move up during the past day as its price breached the $3,950 mark. The rise only lasted briefly, though, as the asset returned below the $3,800 level.
-
-Looks like the price of the asset has observed a surge over the last few days | Source: ETHUSD on TradingView
-Featured image from Kanchanara on Unsplash.com, CryptoQuant.com, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-House of Representatives halts Fed's CBDC plans with new legislation - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-What is FIT21? - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-Coinbase Derivatives To Offer Oil and Gold Futures Contracts in Push To Bridge TradFi and Digital Assets - The Daily Hodl
-
-
-								The derivatives arm of the largest US-based crypto exchange is launching retail-sized futures contracts for oil and gold.
-In a statement, Coinbase Derivatives says that while crypto derivatives remain at the core of its business, it is introducing commodities futures contracts to give customers enhanced trading opportunities in the traditional markets.
-
-
-
-
-
-
-
-
-
-
-Commodity futures contracts oblige buyers to purchase an underlying commodity such as oil, gold and silver at a predetermined future price and date. Investors take advantage of these products to hedge investment positions and capitalize on the price movement of the underlying asset.
-Explains Coinbase,
-“Our main objective in introducing new futures contracts is to provide diversified markets that facilitate price discovery and risk management.”
-The Commodity Futures Trading Commission (CFTC)-registered exchange says it decided to offer the new commodity futures contracts sized at 10 barrels of oil and 1 troy ounce of gold after noticing increased demand for retail-focused products on accessible and regulated exchanges.
-Coinbase says the new contracts, which will launch on June 3rd, will cater to both seasoned investors and retail enthusiasts.
-“We believe that offering our participants access to futures on traditional commodities like oil and gold, alongside crypto commodities is a natural expansion of our product suite. We’re eager to see these contracts mature and the liquidity they will bring to retail and institutional investors in a regulated manner.”
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-The Financial Innovation and Technology for the 21st Century (FIT21) Act, AKA ‘The Crypto Bill’, Passes US House - The Daily Hodl
-
-
-								The Financial Innovation and Technology for the 21 Century (FIT21) Act, a bill that would treat crypto assets as commodities provided their blockchain is decentralized enough, has passed the US House of Representatives.
-According to a new press release by the Financial Services Committee, the House has passed the new crypto bill, which would bolster consumer protections and give the Commodity Futures Trading Commission (CFTC) authority over digital assets.
-
-
-
-
-
-
-
-
-
-
-As stated by Republican Representative Patrick McHenry of North Carolina, the Chair of the Financial Services Committee,
-“Today, the House took a historic step by passing FIT21 with broad, bipartisan support. FIT21 provides the regulatory clarity and robust consumer protections necessary for the digital asset ecosystem to thrive in the United States. 
-The bill also ensures America leads the financial system of the future and remains a hub for technological innovation.” 
-Furthermore, Minnesota Representative Tom Emmer’s Securities Clarity Act – which was initially introduced in 2020 with the aim of properly classifying digital assets – was passed as well as part of FIT21. According to Emmer, this marks a step toward clear crypto guidelines.
-“With the passage of the Securities Clarity Act and FIT21, American digital asset innovation can flourish. This globally competitive framework will give entrepreneurs the clarity and assurance they need to build here, in the United States, while ensuring the next iteration of the web emulates our values.” 
-Earlier this week, the White House hinted that it would not veto if passed despite facing opposition from Gary Gensler, the Chair of the U.S. Securities and Exchange Commission (SEC).
-According to Gensler, the bill would create regulatory gaps and conflicts with current securities laws. Though the White House said it does not support the bill, it noted that it’s willing to work with Congress to improve it.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Featured Image: Shutterstock/kikk/Natalia Siiatovskaia
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Howey Who? How US Crypto Bill FIT21 Defines Decentralized Networks - Decrypt
-
-Decentralization has served as crypto’s North Star since its beginnings, but with Wednesday’s passage of a crypto market structure bill, the concept could soon become enshrined in U.S. law.Known as the Financial Innovation and Technology for the 21st Century Act, or FIT21, the bill passed by lawmakers in the House of Representatives would provide a pathway for cryptocurrencies to become certified as digital asset commodities under new rules.If FIT21 eventually becomes law, a digital asset would be classified as a commodity and regulated by Commodity Futures Trading Commission (CFTC) if its underlying blockchain is “functional and decentralized.” In order to achieve that designation, however, FIT21 puts forth several definitions, procedures, and thresholds.Amending the Securities Act of 1933, FIT21 outlines several key terms, such as what a “decentralized network” is and who its “affiliated persons” are. Actions taken by said affiliates, who could be the issuers of a token or those that own at least 5% of its overall supply (including relatives), are critical to determining, under the bill, just how decentralized a network really is.In order to qualify as decentralized, a network’s affiliates must have not had “unilateral authority” to alter how a blockchain functions within the past 12 months. Under the same time frame, affiliates must not have had the ability to prevent users from taking specific actions, such as deploying integrated software, setting up a node, or participating in decentralized governance.Focusing on its overall distribution, a digital asset wouldn't meet the requirements if an affiliate owns 20% or more of its overall supply. That same 20% threshold applies to the overall voting power of a digital asset an affiliate may own when it comes to the decentralized governance process a network’s direction may be guided by.According to Bitwise Senior Analyst Juan Leon, many networks at launch “hover” around that 20% threshold for control or ownership. Most new networks aim for decentralization over time, but their developers—and investors—often begin with outsized influence, he said.“On the one hand, you could think this is going to force that classification on many or most projects as securities,” Leon told Decrypt. “This could push projects to decentralize further from the start, which I think can be a positive thing.”On top of that, FIT21 requires that within the past 12 months, the digital asset has been issued solely through the “programmatic functioning of the blockchain system.” That could be viewed as digital assets that come from the process of mining or staking, or even airdrops.Finally, FIT21 looks at whether affiliates have marketed the digital asset as investments within the past three months, or implemented any “intellectual property to the source code of the blockchain system” that materially changes how it functions. That’s unless the changes were made as technical improvements, or were adopted through decentralized governance.Touching on all these factors, “any person” can file certification with the U.S. Securities and Exchange Commission (SEC) that a digital asset’s related network is indeed decentralized, FIT21 states. But through a review process, the SEC can rebut certifications.From the agency’s perspective, many digital assets resemble securities under the so-called Howey Test, a four-pronged approach stemming from a Supreme Court case: The investment of money in a common enterprise with the expectation of profit derived from the efforts of others.Decentralization may be missing from that statute, but it’s come up for the SEC before. And it was well before SEC Chair Gary Gensler claimed "everything other than Bitcoin,” as a security, would be under the regulator’s remit.More than five years ago, an SEC official, Bill Hinman, gave a speech that concluded that Ethereum is not a security. Though the Commission clarified it did not “necessarily reflect” the agency’s views, Hinman’s remarks posited a network could become “sufficiently decentralized,” to the point where it would no longer be considered a security.“That lack of clarity has imposed significant challenges, and has driven crypto businesses overseas,” Leon said. “This bill, for the first time, tries to comprehensively define how [...] they can assess the decentralization of an asset to determine if it is a commodity or a security.”Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
 Why Solana Could Find It 'Much Harder' To Outperform Ethereum After An ETF Approval - Benzinga
 
 Pseudonymous cryptocurrency trader Wazz Crypto discussed the significant challenges Solana SOL/USD will face in outperforming Ethereum ETH/USD moving forward, touching on critical metrics and market dynamics.What Happened: Wazz presents a compelling argument suggesting that "it will be much harder for SOL to keep outperforming ETH from here." He notes that while SOL experienced a 96% decline during the bear market, compared to ETH’s 75%, it was easier for SOL to achieve significant returns due to a simple mean reversion. However, they believe "the meat of the move should be done."Quick overview of both the altcoins historical performance:Cryptocurrency1-Week Gain1-Month Gain1-Year GainEthereum ETH/USD+28.5%+17%+105%Solana SOL/USD+8.5%+8.4%+764%The trader notes the disparity in inflation rates between the two cryptocurrencies, with current ETH inflation at historical lows and SOL’s inflation significantly higher. "Current $ETH inflation is at historical low gas is $5M daily, current $SOL inflation is $13M daily."Additionally, the aftermath of billions of SOL bought by FTX at $60-$80 presents a supply overhang that could hinder its performance.Also Read: Will Solana Or Dogecoin Be The Next Crypto ETF If The Ethereum ETF Is Approved?Why It Matters:  While acknowledging Solana’s success in terms of on-chain activity, Wazz Crypto remains skeptical about its sustainability. "Solana on-chain activity is all meme coin gambling, it's doing great but I'm not sure how long it is sustainable with this high churn rate," they caution.In contrast, they emphasize Ethereum’s institutional advantage, particularly with the potential for an ETF approval, and its robust DeFi ecosystem. "Defi on ETH/EVM is much more vibrant than Solana by multitudes," they add.However, Wazz Crypto does recognize a potential edge for Solana. "I think the biggest advantage SOL might have here is one of the DePin apps really taking off and onboarding millions of users to the chain," they concede, suggesting that a breakthrough app could shift the dynamics.The trader concludes, "ETH value accrual is 15x more capital parked there which is mostly sticky and likely won’t be moving anywhere anytime soon," they explain, underscoring the stability and attractiveness of ETH for investors.What’s Next: The influence of Ethereum as an institutional asset class is expected to be thoroughly explored at Benzinga’s upcoming Future of Digital Assets event on Nov. 19.Read Next: Solana Meme Coin Platform Pump.Fun Exploited For $1.9M, Vows To Repay UsersThis content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.
@@ -9915,3 +9500,292 @@ Follow our Telegram and Twitter  account now for exclusive news, analytics and o
 
 
 
+
+
+----------------
+
+Bitcoin Open Interest down by $1B - What traders should know - AMBCrypto
+
+
+
+Money flowed out of BTC contracts, suggesting that the price might fall to $65,000.
+Social dominance dropped to 7.07%, indicating that attention was moving to other cryptocurrencies.
+
+The total Bitcoin [BTC] Open Interest has lost almost $1 billion in value between the 23rd and 24th of May. AMBCrypto found out after examining the metric using Santiment’s on-chain data.
+On the 23rd, Bitcoin’s Open Interest (OI) was $11.75 billion. But at press time, the figure had decreased to $10.77 billion. OI is the value of outstanding positions in a contract.
+In crypto trading, there are two sides to a trade— a buyer and a seller. When OI increases, it means that there is new money coming into the market in favor of the buyers.
+Decreasing attention may nuke BTC again
+A trend like this suggests a bullish trend. But if the metric indicates gets too high, the OI could serve as a bearish sign. On the other hand, a decline in Open Interest suggests an increase in positions closed which favors sellers.
+Therefore, the trend above indicates that most traders are not initiating new positions. For Bitcoin’s price, this was a bearish sign, and it had started to reflect on the price.
+Source: Santiment
+At press time, BTC changed hands at $67,123. This was a 3.52% decrease in the last 24 hours. Apart from the decline in OI, Bitcoin’s decline could be linked to recently approved Ethereum spot ETFs.
+From AMBCrypto’s investigation, it seemed that traders were rotating capital into ETH and other altcoins. Should this remain the case for some time, BTC could drop further, and a move to $65,000 could be possible in the short term.
+Recently, we reported that Bitcoin’s price could drop before a return to $70,000. As such, it indicates that the prediction could be playing out already.
+Watch out! A bounce may be coming
+Another metric assessed was social dominance. As of this writing, Bitcoin’s social dominance dropped to 7.07%. Some days ago, the metric was over 28%.
+The decline in this metric implies that discussions related to the cryptocurrency had fallen, suggesting that attention from the market was moving elsewhere.
+Should social dominance continue to drop, the prediction of $65,000 could come to pass. However, a further decline could indicate a bottom for BTC.
+Furthermore, Bitcoin’s Funding Rate was 0.01%. Funding Rate is the cost of holding an open contract in the market. If the funding rate is positive, it means that the contract price is trading at a premium compared to the spot value.
+Source: Santiment
+
+Read Bitcoin’s [BTC] Price Prediction 2024-2025
+
+When the positive rate is negative, it means the contract price is at a discount to the index price. With the funding moving lower and the price decreasing, Bitcoin could remain bearish in the short term.
+However, it might not take a long while before the price rebounds.
+
+
+
+
+
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Ethereum Foundation Officials Speak Out After Revelations That Employees Received Payments From This Altcoin - Bitcoin Sistemi
+
+The Ethereum Foundation is pursuing the development of a formal policy to address potential conflicts of interest. The move comes after the foundation revealed that two of its researchers had received “significant” incentives in EigenLayer tokens.
+Ethereum Foundation Executive Director Aya Miyaguchi shared in her statement today that the organization's trusted neutrality is crucial to its role in the ecosystem. He addressed the ongoing discussion about potential conflicts of interest and expressed concerns shared with the community.
+
+
+Miyaguchi said in his statement:
+
+“It is clear that relying on culture and individual decisions is not enough, and we have been working on an official policy to address this issue for some time. “We will expedite this work and share an update soon.”
+
+In response, Lefteris Karapetsas, a former Ethereum software engineer and founder of crypto portfolio tracking tool Rotki, suggested that the Ethereum Foundation should adequately pay his colleagues. This way, they would not need to look for additional compensation packages elsewhere, according to Karapetsas.
+
+
+
+
+
+
+On May 19, Justin Drake, a researcher at the Ethereum Foundation, announced that he had recently received a “significant” Eigen token incentive after becoming an advisor to the Eigen Foundation.
+Drake promised to “reinvest” all proceeds as investments or donations into “valuable” projects in the ETH ecosystem. He also stated that he had undertaken the advisory role only on the condition that his role was limited to investigating restaking risks.
+
+
+Two days later, Dankrad Feist, another researcher at the Ethereum Foundation, also revealed that he had recently become an advisor to EigenLayer under the same circumstances as Drake.
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+BlackRock's Bitcoin ETF nears top spot after $380 million buy - Crypto Briefing
+
+
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+
+----------------
+
+$6 Billion Fraud and Bitcoin Money Laundering: Woman Gets Jail Sentence
+
+
+A 42-year-old British-Chinese woman who pleaded guilty to converting Bitcoin into various assets, including real estate and jewelry, has been sentenced to six years and eight months behind bars, Reuters reports.  Jian Wen was initially facing up to 14 years behind bars on various charges. She was found guilty on one money laundering-related charge in March. When her house was searched back in 2018, the Metropolitan Police and a money-laundering investigator discovered a safety deposit box with 61,000 Bitcoins. cardYadi Zhang, Wen's housemate, disappeared after the search. It turned out that she was the mastermind behind a massive money laundering scheme after defrauding 130,000 Chinese investors and fleeing to the UK. Wen, a former takeaway worker, was hired by Zhang in order to use her as her "front person." The latter claimed that she was in charge of the jewelry business. Detectives discovered that Zhang, whose real name is Zhimin Qian, had crazy fantasies about becoming the queen of a small European country. She was prepared to spend at least a whopping $5 million on her crown, according to the personal diaries of the criminal mastermind. cardWen, who used to be a takeaway worker, insisted that she was not aware of the massive fraud scheme. According to Wen, Zhang told her that she was "independently wealthy." She insisted that she simply wanted a better future for her son, who started attending a private school. Zhang reportedly managed to flee with roughly $250 million. The "supervillain," who remains at large, has been slapped with an Interpol red notice. 
+
+
+
+----------------
+
+Ethereum Foundation Preps New Policy on Conflicts of Interest | Bankless
+
+
+The Ethereum Foundation is prioritizing a new formal policy to address potential conflicts of interest in light of recent debates around prominent Ethereum researchers undertaking advisory positions.What's the scoop?Aya Miyaguchi, the EF executive director, announced plans to speed up the creation of an official policy to handle conflicts of interest. The move follows rising community discussions around recent disclosures from researchers Justin Drake and Dankrad Feist about receiving significant EigenLayer token allocations for advisory roles with the restaking protocol."It is clear that relying on culture and individual judgment has not been sufficient, and we have been working on a formal policy to address this problem for a while now," Miyaguchi said. "We will be accelerating this work, and will share an update soon."Bankless take:It's vital to address and identify potential conflicts of interest to keep our best blockchain innovations uncaptured. That said, while advisorships do pose neutrality issues, both Drake and Feist have maintained they will be critical and focused on EigenLayer's risks, and these are two people whose track records show you can take them at their word. Regardless, Miyaguchi’s quick acknowledgment and prioritization of the issue signals that the Foundation is taking the matter seriously and is dedicated to upholding ethical standards and community trust. Keep an eye out for future EF updates here. 
+
+
+
+----------------
+
+The Untold Story Behind Beeple's Historic NFT Sale: 'Token Supremacy' Excerpt
+
+In 2007, Beeple started a project that would eventually make him famous. The "Everydays" series began as a daily drawing habit of crude little doodles that seemed to betray his more corporate, Bill Gates appearance. The drawings were the crass products of a mind feeding on internet bile (racist caricatures, nude women, penis jokes, political satire) and tutored by magical realism (family portraits, animal studies, Jesus smoking cigarettes, Hillary Clinton wearing gold teeth). A year later, Beeple switched to Cinema4D, an animation software that allowed him to manipulate three-dimensional space. For the kid who spent hours at Toys “R” Us playing a demo of Super Mario 64 on the new Nintendo console, it was a dream come true to create realistic worlds on a computer. But it wasn’t until around 2011 that he started fully utilizing the program to experiment with bright colors and blurry shapes with names like Synthetic Bubblegum Tittufux. Around the same time, Beeple started releasing music videos made with Cinema4D as free source material for creative professionals; the artist understood how popular his creations had become only when, on a family vacation to Hong Kong, he saw one of his works projected outside a Hard Rock Cafe.
+
+----------------
+
+Upgraded and Uncensored: Mistral Overhauls Its AI Model - Decrypt
+
+Top open-source AI developer Mistral quietly launched a major upgrade to its large language model (LLM), which is uncensored by default and delivers several notable enhancements. Without so much as a tweet or blog post, the French AI research lab has published the Mistral 7B v0.3 model on the HuggingFace platform. As with its predecessor, it could quickly become the basis of innovative AI tools from other developers.Canadian AI developer Cohere also released an update to its Aya, touting its multilingual skills, joining Mistral and tech giant Meta in the open source arena.While Mistral runs on local hardware and will provide uncensored responses, it does include warnings when asked for potentially dangerous or illegal information. If asked how to break into a car, it responds, "To break into a car, you would need to use a variety of tools and techniques, some of which are illegal," and along with instructions, adds, "This information should not be used for any illegal activities."The latest Mistral release includes both base and instruction-tuned checkpoints. The base model, pre-trained on a large text corpus, serves as a solid foundation for fine-tuning by other developers, while the instruction-tuned ready-to-use model is designed for conversational and task-specific uses.The token context size of Mistral 7B v0.3 was expanded to 32,768 tokens, allowing the model to handle a broader range of words and phrases in its context and improving its performance on diverse texts. A new version of Mistral's tokenizer offers more efficient text processing and understanding. For comparison, Meta's Lllama has a token context size of 8K, although its vocabulary is much larger at 128K.Image: Prompt Engineering/YouTubePerhaps the most significant new feature is function calling, which allows the Mistral models to interact with external functions and APIs. This makes them highly versatile for tasks that involve creating agents or interacting with third-party tools.The ability to integrate Mistral AI into various systems and services could make the model highly appealing to consumer-facing apps and tools. Fore example, it can make it super easy for developers to set up different agents that interact with each other, search the web or specialized databases for information, write reports, or brainstorm ideas—all without sending personal data to centralized firms like Google or OpenAI.While Mistral did not provide benchmarks, the enhancements suggest improved performance over the previous version—potentially four times more capable based on vocabulary and token context capacity. Coupled with the vastly broadened capabilities function calling brings, the upgrade is a compelling release for the second most popular open-source AI LLM model on the market.Cohere releases Aya 23, a family of multilingual modelsIn addition to Mistral's release, Cohere, a Canadian AI startup, unveiled Aya 23, a family of open-source LLMs also competing with the likes of OpenAI, Meta, and Mistral. Cohere is known for its focus on multilingual applications, and as the number in its name, Aya 23, telegraphs, it was trained to be proficient on 23 different languages.This slate of languages is intended to be able to serve nearly half of the world's population, a bid toward more inclusive AI.The model outperforms its predecessor, Aya 101, and other widely used models such as Mistral 7B v2 (not the newly released v3) and Google's Gemma in both discriminative and generative tasks. For example, Cohere claims Aya 23 demonstrates a 41% improvement over the previous Aya 101 models in multilingual MMLU tasks, a synthetic benchmark that measures how good a model's general knowledge is.Aya 23 is available in two sizes: 8 billion (8B) and 35 billion (35B) parameters. The smaller model (8B) is optimized for use on consumer-grade hardware, while the larger model (35B) offers top-tier performance across various tasks but requires more powerful hardware.Cohere says Aya 23 models are fine-tuned using a diverse multilingual instruction dataset—55.7 million examples from 161 different datasets—encompassing human-annotated, translated, and synthetic sources. This comprehensive fine-tuning process ensures high-quality performance across a wide array of tasks and languages.In generative tasks like translation and summarization, Cohere claims that its Aya 23 models outperform their predecessors and competitors, citing a variety of benchmarks and metrics like spBLEU translation tasks and RougeL summarization. Some new architectural changes—rotary positional embeddings (RoPE), grouped-query attention (GQA), and SwiGLU fine-tuning functions—brought improved efficiency and effectiveness.The multilingual basis of Aya 23 ensures the models are well-equipped for various real-world applications and makes them a well-honed tool for multilingual AI projects.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
+
+----------------
+
+On-chain derivatives need more capital efficiency to rival centralized exchanges: SynFutures CEO - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            On-chain derivatives trading volume registered an all-time high in March when it reached nearly $317 billion. Rachel Lin, co-founder and CEO of the decentralized exchange for perpetuals trading (perp DEX) SynFutures, highlighted to Crypto Briefing that there are still capital efficiency problems hindering perp DEXs’ growth despite recent developments.Lin explained that the current AMM models struggle to compete with centralized exchanges’ order books: despite offering better transparency, they struggle to address high slippage when liquidity is low, which is a big concern for investors.“Like the previous versions, SynFutures V3 introduces an upgrade that majorly impacts liquidity providers (LPs) and traders. The new version comes with a new AMM model called Oyster AMM (or oAMM), allowing LPs to provide concentrated liquidity for any derivative pair listed on the platform. In SynFutures’ V1 & V2, LPs can already provide single-token liquidity, but with the new AMM, LPs will also be able to provide single-token concentrated liquidity, ie. liquidity that is concentrated within specific price ranges.” This new feature could improve capital efficiency for liquidity providers and get them higher returns while decreasing slippage for traders, Lin added.Increasing regulatory scrutiny is crashing volumesAlthough on-chain derivatives trading volumes showed a solid performance in March, this momentum seems to be cooling down, as trading volumes in May just surpassed $175 billion. This movement could be tied to increased scrutiny from government organizations, highlighted Lin, mentioning the SEC’s recent movements against Coinbase and Uniswap. “In early March, we saw Bitcoin break above the heights that it made more than 2 years ago. Ethereum inflows sustained that upward trend and altcoins were seeing big gains as well. All of that momentum no doubt snowballed and carried over into the on-chain derivatives market, among other sectors,” shared Lin.Blast plays a key role in on-chain tradingEthereum layer-2 (L2) blockchain Blast has been a key ecosystem for on-chain derivatives trading in the past weeks, dominating the volume for most of April and now fighting toe-to-toe with Arbitrum for such dominance.Lin is optimistic about Blast’s landscape, underscoring SynFutures’ being one of the founding projects on “what could become one of the biggest L2s.” Nevertheless, the perp DEX’s CEO stated that they plan to deploy their platform on different chains, in an effort to keep their significant share of on-chain trading volume.“New DEXs are entering the space and deploying on new chains on a biweekly if not weekly basis, so volume numbers are in constant flux. One chain will be on top one day and the other may be on top the next. SynFutures is a multichain DEX, so while V3 launched on Blast, we’re exploring deployment on other L2s in the near future.”
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+Pepe 69 (PEPE69) Will Rally 11,000%, Looks to Challenge Shiba Inu and Dogecoin
+
+
+
+                    
+
+Pepe 69 (PEPE69) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Pepe 69 (PEPE69), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Pepe 69 presents a similar opportunity.
+
+
+
+Pepe 69 has a market cap below $15,000 at the moment, meaning that when it just reaches a modest market cap of $400,000-$800,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
+
+
+
+The exciting memecoin is poised to rally 11,000% in the coming two days, and Pepe 69 could potentially reach a multi-million dollar market cap within a few weeks.
+
+
+
+
+Currently, Pepe 69 can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy Pepe 69 on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Pepe 69 by entering its contract address – EvevUFVUUFR2NZVSkVzRTj1SQ6KRKdsZqdkpWinkh8m1 – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like PEPE69.
+
+
+                
+
+                
+
+----------------
+
+BitGo’s $100M Suit Against Galaxy Digital Can Proceed, Delaware Supreme Court Rules
+
+“We believe justice prevailed on appeal, and we are delighted to move forward with this case in the Chancery Court,” said R. Brian Timmons, partner at Los Angeles-based law firm Quinn Emanuel, which is representing BitGo in this case.
+
+----------------
+
+Ethereum Foundation Says it's Working to Address Potential Conflicts of Interest - Benzinga
+
+Ethereum ETH/USD Foundation Executive Director Aya Miyaguchi said the organization is accelerating work on a formal policy to address potential conflicts of interest after two of its researchers disclosed receiving "significant" EigenLayer token incentives. "The Ethereum Foundation's credible neutrality is critical for us to perform our role in the ecosystem. We are aware of the current conversation about potential conflicts of interest, and share the community's concerns" Miyaguchi posted to X on Friday. "It is clear that relying on culture and individual judgment has not been sufficient, and we have been working on a formal policy to address this problem for a while now. We will be accelerating this work, and will share an update soon" Miyaguchi added.Read the full story at The Block.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+Solana Dev Who Got Burned Up in Meme Coin Stunt Is Alive-And Wants Another Dare - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsThe Solana meme coin creator who suffered third-degree burns across a large portion of his body this week took to Twitter to confirm that he’s alive—and looking to return to the project in a week.Mikol, as he’s called, got the burns while performing livestreamed stunts to try and pump the price of his token.“We are alive, we have not given up on you,” the dev said from his ICU bed, visibly burnt after being pelted with fireworks. “I’ll probably be here for another three days, but right after that, you’re going to see me right back in Miami. You’re going to see me right back and better—more motivated and more hungry than ever.”Mikol confirmed in a voice note sent to Decrypt that he suffered second and third-degree burns across a large portion of his body, with his left hand and shoulders being the worst affected.Since being in the hospital, Mikol said that he has been pumped with oxycodone, morphine, codeine, and fentanyl to help deal with the pain. He must constantly stretch to prevent his skin from healing too tightly, and is beginning physical therapy soon. He told Decrypt that this is the least he’s been in pain since the incident.“This hospital bill is gonna rack the fuck up,” he said in a voice note. “They’re trying to keep me here for a week and a half.”In the early hours of Wednesday, Mikol doused himself in isopropyl alcohol and livestreamed fireworks being shot at him in an attempt to pump his TruthOrDare (DARE) token. This resulted in the meme coin creator being rushed to hospital with third-degree burns, after going up in flames without proper fire safety precautions.Mikol’s fiery stunt is the latest in a series of meme coin creators who are turning to livestreamed antics to draw in potential investors. Part “Jackass” shenanigans and part performance art, such streams have seen users perform sexually suggestive acts with a family member, for example, or pretend to have no hands before “rugging” the community by selling tokens.Some Telegram users speculated that the dev had died, but those close to him soon confirmed that he was in a stable condition recovering in a Miami trauma center. In the day that followed, there was mostly silence coming from his camp. Now two days later, Mikol has released a video to his community, and is communicating with his Telegram moderators.“This is what I’ve always wanted to do. You see me doing it passionately everyday,” Mikol said, his voice hoarse. “I can’t let my community down, my family down.”TruthOrDare had been running for six days prior to the incident. Mikol had been performing dares that his community put to him, including things like drinking bong water or setting his pants on fire.The token had been declining from a high reached a few days prior, so he planned to do something crazy to pump the price—and evidently, things went too far. From that previous high, the coin is now up 55%, but at the cost of a rising hospital bill.“I’ve been told you guys [the DARE community] have been putting in effortless work,” Mikol said. “I couldn’t be more happy with the people I’m doing this with.”Since this incident, core community members have banded together to support the DARE dev. People who have made profits or simply feel bad have donated money to Mikol’s wallet; at the time of writing, 12 SOL (about $2,000) has been transferred since the incident. On top of this, a passionate DARE investor known as DLuxx said he visited Mikol at the hospital to physically give him cash and send his best wishes.“I went last night to the hospital to bring him some cash, ‘cause Solana doesn’t help when you are in the hospital.” DLuxx told Decrypt, “It was late to visit and there was a lot of family there dealing with the situation, so we respected their privacy. Mikol asked me to come back, and my plan is to visit him later this afternoon.”Now, the community is attempting to push the TruthOrDare vision forward by streaming themselves. DLuxx was the first to livestream. During the Telegram livestream, he met a homeless man named Dillon, who did some skateboard tricks while DLuxx begged him to not hurt himself. Now the community claims they are working to send Dillon money and find him a place to stay.In a message forwarded to Decrypt, Mikol said he plans to live stream a series of dares in New York once he has recovered.Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Doge Inspiration Kabosu Has Passed Away | Bankless
+
+
+Kabosu, the Shiba Inu who became an internet icon through the celebrated "Doge" meme, known for her kind and gentle demeanor, has passed away at 18 years old. She leaves behind a lasting legacy in internet and crypto culture. The contextAdopted from a shelter in 2008 by Atsuko Sato, her iconic photo went on to become a ground-breaking global meme and the inspiration for Dogecoin.Prior to her passing, Kabosu had suffered from cancer and acute cholangiohepatitis, a condition that inflames the liver and surrounding areas.Bankless take:Kabosu's death marks the passing of an icon, and millions of people around the world are mourning her accordingly. As we bid farewell to this goodest of doges, her legacy reminds us of the power of memes in bringing people together and of the joy that can be shared like magic across the internet. The place of the doge meme in the collective consciousness ensures she will remain with us in spirit forevermore. RIP sweet girl. 
+
+
+
+----------------
+
+Top CEOs and Analysts Announce Altcoins That Could Launch ETFs After Ethereum - Bitcoin Sistemi
+
+The U.S. Securities and Exchange Commission (SEC) has greenlit 19b-4 forms for eight spot Ethereum ETFs from leading companies like BlackRock and Fidelity. However, approval of other spot crypto ETFs may be a more challenging journey.
+Former White House Communications Director and managing partner of alternative investment firm SkyBridge, Anthony Scaramucci, expressed optimism that a Solana ETF is next. Following the approval of spot Ethereum ETFs, Scaramucci confidently said, “A SOL ETF is coming, get ready.”
+
+
+Brian Kelly, a host on CNBC, speculated about the chances of an ETF for Solana, the fifth-largest cryptocurrency by market cap. “Bitcoin, Ethereum and Solana are probably the big three for this cycle,” he said, suggesting Solana could be the next big thing.
+
+Kelly's comments echoed those of Joe McCann, a Solana investor and founder, CEO and CIO of crypto fund Asymmetric. McCann believes that if another ETF is approved, it will be Solana. However, he also acknowledged potential problems for Solana and other cryptocurrencies, noting that the Coinbase case used language that could affect future approvals.
+
+
+
+
+
+McCann highlighted Dogecoin as another potential competitor for an ETF, given its similarities to Bitcoin's launch and its status as “definitely not a security.” Litecoin has also attracted attention for similar reasons.
+However, from a regulatory perspective, while Dogecoin and Litecoin may be more suitable options, the financial obligation required to launch a Litecoin ETF may be a deterrent for issuers.
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Daily Crypto Liquidations Surge as Bitcoin Price Retreats From $70,000 Again - Benzinga
+
+Bitcoin BTC/USD has experienced a decline from above $70,000, with the high volatility triggering an increase in liquidations. On Tuesday, Bitcoin's price briefly surpassed the $70,000 threshold; however, it quickly fell by 3.5% to around $67,000—causing a significant number of leveraged position liquidations throughout the market. The largest digital asset by market cap is currently changing hands for $67,400, according to The Block's price page. Bitcoin's price is 8.5% short of the all-time high of $73,737 made on March 14.Read the full story at The Block.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
