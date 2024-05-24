@@ -1,418 +1,3 @@
-ByBit insolvency rumors highlight Ethena’s centralization
-
-
-Rumors of problems with Ethena’s $2.5 billion so-called stablecoin USDe have been fueled this week by reports that giant exchange ByBit — where Ethena trades some of its assets — is experiencing financial problems, possibly even insolvency.
-Some claim that the rumors were attributable to a dashboard error at Arkham while others believed them to be true. Observers noted a small amount of exchange outflows relative to ByBit’s total assets.
-ByBit itself has since refuted any claims of insolvency.
-Protos reached out to the exchange for comment but at time of publication has not received a response. Over the last seven days, neither the price of Ethena’s proprietary token ENA nor its stablecoin USDe have declined in price.
-For its part, Ethena claims to hold all of its collateral off-exchange at third-party custodians like Copper or Cobo. Although it clears trades via crypto exchanges, it claims to hold the collateral backing its positions, including ByBit perpetual futures, off-exchange.
-Give us money, we trade it, earn 37% APY
-Ethena’s marketing pitch is simple. It accepts capital, executes trades on various exchanges using this capital, and pays out a stratospheric yield above 37%. It also incentivizes extra deposits with an airdrop of its proprietary token ENA — a classic crypto marketing ploy.
-Its hook is only slightly new. Ethena crafted a scheme that would take Ethereum’s 3.4% and add complexity and lots of leverage. It would also supposedly allow investors to earn the staking yield from Ethereum without subjecting themselves to the price fluctuations of ETH, via its USDe.
-Ethena claimed to accomplish this feat by establishing a leveraged delta-neutral ETH trade. Its leaders would also control the private keys and exchange login credentials to hold most of the protocol’s assets. It would call itself the ‘internet bond,’ its proprietary token a ‘synthetic dollar,’ and its unsustainable 37% APY an ‘internet native yield.’
-Delta neutrality is a way to invest so that the value of a portfolio usually doesn’t decrease when small changes occur in the value of the underlying asset. A trader hedges ‘delta,’ a greek financial term meaning ‘sensitivity to changes in the price of the underlying,’ by buying an equal amount of long and short positions simultaneously.
-In a perfect world, this delta neutrality allows a trader to preserve the USD value of a position, regardless of whether the price of an asset like ETH declines. If ETH declines, the short position gains in value to compensate.
-No free lunch on Wall Street
-Of course, there’s no free lunch in finance, and holding delta neutrality in order to capture Ethereum’s staking yield carries significant risks. The two most important risks are Ethena leadership’s control of keys and funds, as well as the risk of crypto exchanges going under.
-Ethena has both risks in spades. By its founding backer’s own admission, “Ethena is not decentralized, nor is it trying to be.”
-Ethena backs each USDe, which is supposed to be worth $1, with two major assets. First, it buys a staked ETH (stETH) position from LidoDAO, Ethereum’s largest liquid staking protocol. Second, it collateralizes perpetual futures short contracts on crypto exchanges, including ByBit. Lido pays out most of Ethereum’s staking yield to Ethena, which Ethena then eventually leverages and passes along to USDe tokenholders who stake their USDe.
-With the USD price of ETH hedged against a decline thanks to its perp shorts, as long as management and custodians don’t steal or lose the money, Ethena hopefully stays delta-neutral.
-Ethena aimed to differentiate itself from failed stablecoins like Charles Hoskinson’s BitUSD, Mark Cuban’s Iron Titanium, Mark Lamb’s flexUSD, Huobi’s HUSD, or Do Kwon’s Terra and Basis Cash. Its marketing campaign worked. It rebranded itself away from ‘algorithmic’ stablecoin — a tarnished word after the multi-billion dollar collapse of Do Kwon’s algorithmic stablecoin Terra — and instead claims that USDe is a ‘synthetic dollar.’
-Synthetic is, of course, different from algorithmic.
-Arthur Hayes is Ethena’s biggest cheerleader
-Arthur Hayes, who made millions by trading against his own customers at BitMEX and later pleaded guilty to federal crimes, is the main cheerleader for Ethena. Hayes predicts that USDe“}[=, which has a market capitalization of $2.6 billion today, will one day grow larger than its $111 billion stablecoin competitor, Tether (USDT). 
-“Combining physical staked ETH plus a short ETH/USD perp swap position creates a high-yielding synthetic USD,” Hayes wrote glowingly. He also assured his fanbase that despite similar, nose bleeding-high interest rates above 30% advertised for both USDe and UST during their respective launch phases, “USDe generates yield in a completely different fashion than UST.”
-
-Read more: Two years after blowing up his own fund, Zhu Su offers advice to $2B Ethena
-Ethena investors won’t be critics
-Ethena also gained significant support from crypto influencers who might have otherwise criticized the project. Influencers like Cobie, Andrew Kang, Dovey Wan, and the founders of three DeFi protocols are backers. Ethena’s own fundraise was financially supported by the crypto exchanges that process trades using its collateral.
-On Ethena’s own cap table are ByBit, Deribit, OKX Ventures, Binance Labs, Gemini, and Kraken. Meltem Demirors likened USDe’s 37% yield to USDC’s 5% yield, as though the two are comparable. The founders of two competing stablecoins, Synthetix and Frax, are backers of Ethena.
-Delphi Digital — which invested in the now-collapsed Terra Luna scheme, heavily broadcast Terra to wealthy New York traders, and charges over $5,000 per year for so-called research — employed an author who owns Ethena assets USDe and ENA to write a glowing, nine-chapter report.
-Coincidentally, that Delphi author concluded that Ethena is “democratizing access to the delta-neutral basis trade and allowing it to seamlessly compose with the rest of DeFi.” Incredibly, Delphi alluded to a Bloomberg article about “the closest thing to a risk-free bet in the cryptocurrency market” as though Bloomberg analysts were referencing Ethena’s delta-neutral trade. They were not.
-Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
- 
-
-----------------
-
-Crypto regulation bill passed in the House, heads to Senate
-
-The U.S. House of Representatives passed a crypto market structure bill on Wednesday evening that aims to regulate the industry at large.RFK Jr. investing in GameStop is hilarious, exec saysThe bill, “The Financial Innovation and Technology for the 21st Century Act” (FIT21), would effectively classify cryptocurrency as a commodity, not a security, and therefore exempt from securities regulations. It would also determine oversight of cryptocurrencies, whether they should be regulated by the Securities and Exchange Commission (SEC) or the Commodity Futures Trading Commission (CFTC).The Republican-led bill — the first standalone legislation of its magnitude — passed with a 279-136 vote in the lower chamber, gaining support from 71 Democrats, including former Speaker of the House Rep. Nancy Pelosi of California.The crypto bill cleared the U.S. House despite criticism from SEC Chair Gary Gensler, who publicly expressed his opposition to it.Gensler stated, “FIT21 would create new regulatory gaps and undermine decades of precedent regarding the oversight of investment contracts, putting investors and capital markets at immeasurable risk.” He reiterated his stance on cryptocurrency as securities, expressing concern that the bill would exclude blockchain-recorded investment contracts from the statutory definition of securities and, hence, the protections of the federal securities laws.Yesterday, hours before the vote, the White House also expressed opposition to the bill, citing concerns due to inadequate investor protections. President Biden released a statement saying that he is against the legislation, but he hasn’t threatened to veto it.What’s next?The bill must now gain approval from the Senate, but this will be challenging as the leading figures in the Democrat-controlled Senate have shown little interest in it.There is a very low chance that the bill would become law in Congress, but it can shed light on how Democrats and Republicans view crypto regulation.In an election year when crypto has become a political issue — with the presumptive Republican presidential nominee, Donald Trump, accepting crypto donations and Democrats showing a softer stance on crypto — the reactions of both political parties are important.
-
-----------------
-
-Grayscale Investments launches Near and Stacks crypto trusts - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            Grayscale Investments, the world’s largest crypto asset manager, has announced the creation and public launch of two new crypto investment trusts: Grayscale Near Trust and Grayscale Stacks Trust. The new trusts, which opened on May 23, allow eligible individual and institutional accredited investors to access daily subscriptions for diversified crypto exposure.The Grayscale Near Trust is exclusively invested in NEAR, the native token of the Near Protocol, while the Grayscale Stacks Trust is exclusively invested in STX, the native token of the Bitcoin Layer 2 protocol Stacks. These trusts are among the first investment products solely invested in NEAR and STX tokens.Rayhaneh Sharif-Askary, Grayscale’s Head of Product & Research, said that Grayscale is committed to helping “drive the crypto ecosystem forward” as blockchain tech stacks tackle the challenges of scalability.The new investment trusts function similarly to Grayscale’s existing suite of single-asset investment trusts, providing investors with a familiar structure to gain exposure to these specific crypto assets. The launch of the Near and Stacks trusts comes as Grayscale’s odds of having an Ethereum ETF approved have significantly increased over the last week.Senior ETF analysts at Bloomberg have raised their predictions from 25% to 75% on the likelihood of the Securities and Exchange Commission approving ether ETFs, citing an apparent “180” about-face in the agency’s thinking. After initially withdrawing its application, Grayscale recently refiled its ether ETF application, removing language pertaining to staking and confirming that it will not participate in any other mechanisms associated to Ethereum’s proof of stake consensus algorithm.Grayscale’s spot bitcoin exchange-traded fund, GBTC, continues to maintain one of the highest assets under management (AUM) among crypto funds, amassing $20.08 billion worth of funds as of May 23. The company recently appointed Goldman Sachs’ strategy exec Peter Mintzberg as its new CEO.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-Render and Helium fuel expansion of Solana's DePIN ecosystem: Flipside - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            Solana’s Decentralized Physical Infrastructure Network (DePIN) ecosystem is experiencing significant growth, driven by its high-speed transactions, low costs, and robust infrastructure, according to the “Solana DePIN Snapshot: H1 2024” report by on-chain data firm Flipside. The report explored different sectors within the DePIN narrative by analyzing their key projects. Render Network was used as a benchmark for the decentralized compute sector. Decentralized compute networks provide scalable and cost-effective computing power by leveraging a network of decentralized nodes.Render has successfully rendered approximately 33 million frames, equivalent to 33,000 GPU hours using NVIDIA RTX 3090 GPUs. Weekly active node operators peaked at 1,900 in January 2024, a 66.3% increase since migrating to Solana. Node operator rewards increased by 34.3% post-migration, peaking at 228,000 RNDR in early January 2024.Rewards paid for Render node operators. Image: FlipsideAnother sector from the DePIN narrative is decentralized connectivity, which was represented in the report by Helium. Decentralized wireless networks are based on the idea that, as technology has progressed, physical networks don’t need to be built from a top-down approach.Helium Network’s mobile network token burns vastly outnumber those of the IoT network, driven by the rapid adoption of Helium Mobile services. Helium Mobile subscribers peaked at nearly 90,000 in January 2024, sustained by competitive pricing and MOBILE token incentives. Mobile Discovery Rewards growth has accelerated since December 2023, outpacing new subscriber growth.Rewards paid for mobile discovery. Image: FlipsideDecentralized data and sensor networks are also a part of the DePIN industry, and are represented in the report by Hivemapper. The projects within this sector leverage distributed technology to collect, process, and share data from a vast array of sensors, creating a robust, real-time web of information.Hivemapper has mapped over 50 million kilometers across 90+ countries, making it the fastest-growing mapping project. There has been a significant rise in net HONEY burns due to increased network activity and enterprise adoption. Nearly one-third of HONEY token owners are active contributors, indicating high community engagement.Different HONEY holders by percentage. Image: FlipsideFurthermore, another traditional service that has its decentralized version in DePIN is storage solutions. Decentralized storage networks provide secure, scalable, and cost-effective data storage solutions by distributing data across multiple nodes rather than relying on centralized servers.Activity registered by SHDW largest holders. Image: FlipsideShdwDrive is the representation of this DePIN niche in Flipside’s report. The project demonstrated impressive performance in Testnet 2, handling up to 38,000 transactions per second during surge scenarios. The number of SHDW token holders peaked at 67,000 in March 2024, with more top wallets accumulating than selling. Staking activity has shifted towards withdrawals since rewards ended, typical for pre-utility phases.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-Why Monero Will Survive Despite Being Delisted by Exchanges
-
-
-
-                    
-
-Monero (XMR) is a cryptocurrency known for its strong privacy features, security, and decentralization. Recently, several major exchanges have delisted Monero due to regulatory pressures and compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Despite these challenges, Monero’s inherent features and the support of its community suggest that it will continue to survive and remain relevant in the cryptocurrency landscape.
-
-
-
-Reasons for Delisting
-
-
-
-Regulatory bodies are increasingly scrutinizing privacy coins like Monero. These cryptocurrencies pose challenges to compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Exchanges face pressure to adhere to these regulations to avoid penalties and maintain their operational licenses. Delisting Monero is a step taken by exchanges to align with regulatory requirements and reduce compliance risks.
-
-
-
-
-Risk Management
-
-
-
-Exchanges consider the risks associated with listing privacy coins. These risks include potential misuse for illicit activities and the consequent impact on the exchange’s reputation. By delisting Monero, exchanges aim to mitigate these risks and maintain their standing within the financial and regulatory ecosystem. This risk management strategy helps exchanges avoid potential legal and financial repercussions.
-
-
-
-Community and Support
-
-
-
-Monero has a dedicated and active community that plays a crucial role in its development and maintenance. This community-driven approach ensures continuous improvements and updates to Monero’s technology. The Monero Research Lab is a key contributor, focusing on enhancing privacy features and overall security. Merchant adoption of Monero is growing, with various businesses accepting it for transactions. This real-world usage underscores Monero’s practical value. Additionally, Monero is used for private transactions, donations, and e-commerce, further demonstrating its utility and acceptance in various sectors. The strong community support and diverse use cases contribute significantly to Monero’s resilience and sustainability.
-
-
-
-Merchant Adoption and Use Cases
-
-
-
-Monero’s adoption among merchants is expanding as businesses recognize the benefits of its privacy features. Various e-commerce platforms, both large and small, accept Monero for payments, providing customers with a private and secure transaction option. In addition to e-commerce, Monero is used for donations, allowing contributors to maintain their anonymity. The coin’s privacy and security features also make it suitable for private transactions, protecting users’ financial information from public exposure. These use cases highlight Monero’s practical applications and its growing acceptance in different sectors.
-
-
-
-Alternatives to Traditional Exchanges
-
-
-
-Decentralized exchanges (DEXs) provide a platform for trading cryptocurrencies without relying on a central authority. These exchanges facilitate direct peer-to-peer transactions, enhancing privacy and reducing the need for regulatory compliance typically associated with centralized exchanges. By using smart contracts, DEXs allow users to trade Monero securely and privately, mitigating the risks linked to centralized exchanges.
-
-
-
-P2P Trading Platforms
-
-
-
-Peer-to-peer (P2P) trading platforms enable direct transactions between individuals. These platforms often incorporate escrow services to ensure the security of trades. Users can buy and sell Monero directly from one another, using Monero wallets like XMRWallet, bypassing the need for traditional exchanges. P2P platforms offer increased privacy and control over transactions, making them a viable option for trading Monero.
-
-
-
-Atomic Swaps
-
-
-
-Atomic swaps are a technological innovation that allows direct exchanges between different cryptocurrencies without the need for a centralized intermediary. By using cryptographic protocols, atomic swaps ensure that trades are executed securely and privately. This method enables Monero users to trade directly with holders of other cryptocurrencies, maintaining privacy and reducing dependence on traditional exchanges.
-
-
-
-The Future of Monero
-
-
-
-Monero continues to develop its technology to enhance privacy, security, and efficiency. Ongoing projects include improvements to its cryptographic protocols, such as ring signatures and confidential transactions. Future developments may focus on scalability, making the network more efficient and capable of handling a higher volume of transactions without compromising privacy.
-
-
-
-
-Regulatory Landscape
-
-
-
-The regulatory environment for cryptocurrencies, particularly privacy coins like Monero, is evolving. Potential regulatory changes could impact how Monero is traded and used. However, Monero’s decentralized nature and strong privacy features make it adaptable to various regulatory scenarios. The community is actively monitoring regulatory developments and is prepared to respond to ensure compliance while maintaining core principles.
-
-
-
-Community Initiatives
-
-
-
-The Monero community is engaged in several initiatives aimed at promoting and supporting the cryptocurrency. These include educational efforts to inform users about Monero’s benefits and proper usage, as well as organizing events and conferences to foster collaboration and innovation. Community-driven projects continue to enhance Monero’s functionality and usability, ensuring its relevance and utility in the future.
-
-
-
-Conclusion
-
-
-
-
-Monero remains a significant player in the cryptocurrency landscape despite being delisted by several major exchanges. Its strong privacy features, decentralized nature, and dedicated community support provide a solid foundation for its resilience. Alternatives to traditional exchanges, such as decentralized exchanges, peer-to-peer trading platforms, and atomic swaps, offer viable options for users to trade Monero securely and privately. As technological innovations continue to enhance its capabilities and the community actively engages in initiatives, Monero is well-positioned to navigate the evolving regulatory landscape and maintain its relevance in the f
-
-
-                
-
-                
-
-----------------
-
-Casper Labs Reveals Blockchain Solution for AI Governance
-
-
-                        
-                            Casper Labs and IBM Reveal Prove AI Blockchain Solution for AI Governance                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 23, 2024 10:48 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        Casper Labs introduces Prove AI to enhance transparency and auditability for artificial intelligence training data using blockchain technology.According to a press release shared with Cryptonews.com, Casper Labs announced the launch of Prove AI, an AI governance solution designed to improve transparency and auditability of AI training data.Casper Labs Introduces AI Management Blockchain Solution
-The release stated that this new solution leverages blockchain technology and integrates seamlessly with IBM’s watsonx.governance platform.Prove AI aims to provide a secure and reliable method for maintaining and sharing audit logs of AI data. It includes AI version control, multi-party access controls, and advanced auditing features for AI training datasets.During the IBM Think keynote, Casper Labs CEO Mrinal Manohar highlighted that the new service would address the growing need for AI data management.“As regulators begin to demand greater accountability from businesses working with AI, there’s a clear and urgent need for businesses to de-risk AI initiatives,” said Manohar.“Prove AI will be a key part of the emerging AI governance stack, ensuring that businesses across industries can embrace AI with confidence and clarity,” said Manohar.Prove AI Empowers Design Partners
-The solution’s first design partner, GreyscaleAI, specializes in supply chain inspection using x-ray imaging and AI algorithms to detect packaging errors or contaminants in foods, drinks, and medicines before distribution.Industries such as pharmaceuticals and food and beverage, which are heavily regulated, require robust assurances of product quality and safety. GreyscaleAI’s AI-driven inspections help meet these standards by verifying that inspection data remains untampered.With Prove AI, GreyscaleAI can establish a reliable audit trail, ensuring that all inspections are conducted transparently and thoroughly, which helps uphold the highest quality and safety standards.Prove AI is scheduled to launch in the third quarter of 2024. The project is currently open for design partner applications.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Statement from SEC Chairman Gary Gensler on Cryptocurrencies: "Without Prejudice, But..." - Bitcoin Sistemi
-
-
-The political landscape in the US witnessed a significant shift this week, reviving hopes of approval of spot Ethereum ETFs.
-However, this development appears to have had little impact on Securities and Exchange Commission (SEC) Chairman Gary Gensler's stance on cryptocurrencies.
-
-
-In a statement on Thursday, Gensler reiterated his belief that most cryptocurrencies are securities. His remarks come as many expect spot Ether ETFs to be approved later in the day.
-
-Gensler said the following about cryptocurrencies in his speech:
-
-
-
-
-
-
-“There are 15,000 or 20,000 tokens in this space. These are not traded as currency. Without prejudging any of them, they generally have a group of entrepreneurs, and the public looks at whitepapers, looks at websites, looks at these groups of entrepreneurs, and invests based on these groups of entrepreneurs. So this fits the classic Supreme Court test of what a security is.
-
-“Not all crypto tokens are securities, but again, without prejudice, I believe most are.”
-*This is not investment advice.
-
-
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-The True Value of Web3: You Can Take Your Toys and Leave
-
-This is why Web3 people are always banging on about the importance of digital property rights. Without property rights on the internet, users become shackled to the Web2 platforms that amass them. When everything they’ve created and achieved, and even the community to which they belong, is owned by the platform, it’s not as simple as just picking up, moving on, and starting anew. In fact, the more value the creator creates on Roblox, the harder it gets for them to leave. It is a poignant example of the injustices of centralization online and the need for a more equitable internet that affords all users the right to take their shit and leave, if they want.
-
-----------------
-
-Pundit Predicts A Spot Solana ETF Approval After Ethereum ⋆ ZyCrypto
-
-
-            
-            
-Advertisement
-
-&nbsp
-
-&nbsp
-As the cryptocurrency community eagerly anticipates the potential approval of Spot Ethereum exchange-traded funds (ETFs), Matrixport co-founder Daniel Yang has ignited speculation about Solana (SOL) being the next in line for such investment products.
-
-
-
-Yang’s remarks come amid heightened interest in cryptocurrency ETFs following recent regulatory developments.
-
-
-
-On Tuesday, May 21, Yang highlighted the significant impact of reports suggesting that the Securities and Exchange Commission (SEC) has requested issuers to update Form 19b-4 in their product applications. Notably, following these reports, he pointed out the surge in the Ethereum to Bitcoin (ETH/BTC) pair, indicating market optimism surrounding ETF approvals and expressing hope of seeing a SOL ETF soon after Ether’s.
-
-
-
-“What’s the trade, if ETH ETF really get approved in two days?…. A better trade I will argue for is: “BUY SOL/ETH.” This may sound absurd and definitely unpopular. Reasons are: 1) SOL will be the No.1 next in line if ETH ETF get approved.” Wrote Yang.
-
-
-
-Elsewhere, analysts, including one identified as ‘Gumshoe,’ also view the approval of Ethereum-based instruments as potentially more advantageous for Solana than for Ethereum itself. Earlier this week, the pundit argued that a rejection could make Ethereum less appealing while enhancing Solana’s attractiveness as an investment option.
-Advertisement
-
-&nbsp
-
-
-
-Nevertheless, the cryptocurrency community is concerned about the broader implications of ETF approval processes. Should any ETF applications be rejected, it could deliver a significant blow to the sector, prompting what one observer likened to a “nuclear strike” on market sentiment.
-
-
-
-Industry experts have outlined bullish scenarios for Solana’s price trajectory. Ryan McMillin, investment director at Merkle Tree Capital, predicts a rise in Solana’s value to $400 by November 2024, citing a potential catalyst in meme coins related to the upcoming US election campaign.
-
-
-
-Echoing this sentiment, Daniel Chung, co-founder of Syncracy Capital, anticipates Solana will revisit $200 by the end of May. These projections reflect a positive outlook on Solana’s fundamentals and positioning within the broader cryptocurrency landscape.
-
-
-
-Moreover, Solana’s technological prowess has not gone unnoticed, with CoinGecko analysts recognizing its network as the fastest among major blockchains. Notably, on April 6, the Solana network achieved a record-high average daily transaction throughput of 1,504, further solidifying its status as a leading blockchain platform. Analysts from The Digital Asset Fund Manager Survey also highlighted how institutional demand for the crypto asset had soared in the same month, underscoring their bullish outlook.
-
-
-
-That said, as anticipation builds around the potential approval of Ethereum ETFs, all eyes are now turning to Solana, poised to capitalize on the momentum generated by its predecessor. Whether Solana will follow in Ethereum’s footsteps remains to be seen, but market sentiment suggests that the cryptocurrency’s future is brimming with potential.
-
-
-
-At press time, Solana was trading at $171, reflecting a 4.28% drop over the past 24 hours. However, the coin surged nearly 9% over the past week, with a market capitalization of $77 billion, according to CoinMarketCap data.
-        
-
-        
-
-----------------
-
-Coinbase resumes XRP trading in New York - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-Bitcoin (BTC) Price Drops Below $68K, Ether Slumps in Crypto Market Sell-Off as ETH ETF Decision Looms
-
-ETH, which surged to its highest price since mid-March to above $3,900 early Thursday, tumbled to near $3,700, but was still in the green over the past 24 hours.
-
-----------------
-
-Can Ethereum Trust Its Own? Researchers' Side Deals Raise Transparency Concerns
-
-
-								The Ethereum (ETH) community is in a tizzy after two prominent researchers from the Ethereum Foundation, Justin Drake and Dankrad Feist, disclosed their involvement with EigenLayer. This restaking protocol has emerged as a potential game-changer in the Ethereum ecosystem, but the researchers’ lucrative advisory roles have ignited concerns about conflicts of interest.
-
-Transparency Or Self-Serving? The Disclosure Debate
-The drama unfolded on a social media platform formerly known as Twitter (X). Drake, on May 18th, announced his advisory position at EigenLayer, emphasizing transparency and the importance of the community being informed.
-
-
-He even went a step further, pledging to reinvest all proceeds from the role back into the Ethereum ecosystem. This move, some argue, demonstrates a commitment to maintaining neutrality.
-
-
-However, Feist’s disclosure on May 19th lacked a similar commitment. While he clarified his role is personal and independent of the Ethereum Foundation, there was no mention of reinvesting his “significant amount” of Eigen tokens. This asymmetry has fueled speculation about the true motivations behind these involvements.
-Crypto Twitter Erupts
-The disclosures stirred crypto Twitterverse. Influential crypto trader Jordan Fish, known as Cobie, wasted no time in firing off a tweet directed at Ethereum co-founder Vitalik Buterin.
-Ethereum is now trading at $3,923. Chart: TradingView
-The tweet questioned the ethical implications of such arrangements. Can researchers working for the very foundation of a blockchain receive significant compensation from projects built on that blockchain, especially when those projects might have goals that conflict with the core values of the original platform?
-While Buterin remained silent on the issue, the question resonated deeply within the community. The potential for financial gain to influence research objectivity is a major concern in any field, and blockchain is no exception.
-Trust And Innovation In The Wild West Of DeFi
-The Ethereum Foundation and the involved researchers have yet to provide further comment. This silence adds fuel to the fire of suspicion. However, the situation also highlights the ongoing struggle to maintain trust and transparency within the rapidly evolving world of Decentralized Finance (DeFi).
-
-On the one hand, fostering innovation is crucial for the continued growth and development of the Ethereum ecosystem. EigenLayer, with its restaking capabilities, could unlock new possibilities for the platform.
-On the other hand, ensuring the integrity of research and development is paramount. If researchers are swayed by financial incentives from projects with potentially conflicting goals, the entire ecosystem could be compromised.
-The coming days and weeks will be crucial for the Ethereum Foundation. How they address these concerns and navigate this ethical tightrope will determine whether this episode remains a bump in the road or a turning point for trust within the Ethereum community.
-Featured image from Quartz, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
 19 Trillion Shiba Inu Forms Most Important Resistance to Watch
 
 
@@ -9668,3 +9253,363 @@ Disclaimer: The opinions expressed by our writers are their own and do not repre
 
 In its ongoing lawsuit with the SEC, Coinbase has filed a reply in support of its motion to certify an interlocutory appeal with the 2nd Circuit Court. Paul Grewal, Coinbase's Chief Legal Officer, highlighted this new development on X (formerly Twitter). According to Grewal, the company's position remains steadfast: advocating for regulatory clarity for the crypto industry and the 52 million Americans who own digital assets, while challenging the SEC’s perceived overreach beyond its congressional mandate. The crux of Coinbase’s appeal centers on whether the SEC can regulate digital asset transactions as "investment contracts" without any contractual elements involved. This issue is not unique to Coinbase; the SEC itself acknowledged the question's "industry-wide significance" and the substantial differences in opinion, when requesting similar relief in the Ripple case.From the outset, Coinbase has attempted to engage the SEC in a constructive dialogue to establish a balanced regulatory framework for crypto innovation within the U.S. However, these efforts have been met with resistance, inconsistent positions and litigation, Grewal noted in a thread of tweets. In its recent filing, Coinbase emphasizes the urgency of addressing this critical legal question through an interlocutory appeal, highlighting its importance for the future of the crypto industry. Earlier this week, the House recognized the necessity for clear regulatory rules, reinforcing Coinbase's call for clarity as well.Regardless of the timeline, Grewal stated that Coinbase was determined to pursue this matter to its conclusion, aiming to secure regulatory clarity and push back against "overzealous regulators." The company asserts that such efforts are essential for the benefit of the 52 million Americans involved in crypto.As the legal battle continues, the outcome of this current phase in the lawsuit could have profound implications for the entire cryptocurrency industry.
 
+
+
+----------------
+
+Blockchain Brawl: Algorand Claims Only They 'Deliver' For Everyday Use
+
+
+								Algorand, the layer-1 blockchain network, has launched a bold and unapologetic advertising campaign taking direct aim at industry heavyweights like Bitcoin, Ethereum, and Solana.
+The ad, titled “When Blockchains Meet the Real World, Only One Delivers,” paints a scathing picture of the shortcomings of these established players, portraying them as sluggish, expensive, and unreliable for everyday transactions.
+
+Through a satirical supermarket checkout scenario, the ad dramatically showcases the frustrations consumers might face when trying to use these blockchains. From the 27-minute wait for Bitcoin transaction confirmation to the eye-watering $112 “peak hour” fees on Ethereum, and the string of failed transactions on Solana, the message is clear: Algorand is the superior choice for real-world usability.
+
+
+Algorand’s Brash Tactics Raise Eyebrows
+While the ad has undoubtedly garnered significant attention, with over 740,000 views, the response has been far from universally positive. Some have applauded Algorand’s audacious marketing strategy, but others have raised concerns about its tactics and the accuracy of its claims.
+One particularly puzzling aspect is the timing of the ad campaign, which comes just months after Algorand shut down its AlgoExplorer, a crucial blockchain search tool, citing a lack of funding.
+This inconsistency has led some to question the company’s spending priorities and whether the significant investment in the ad was the best use of resources.
+Total crypto market cap currently at $2.4 trillion. Chart: TradingView
+Furthermore, cryptocurrency experts have voiced doubts about the ad’s portrayal of Algorand as the undisputed champion of speed and affordability. Analysts like MartyParty have highlighted the need for a closer examination of the claims made in the ad, raising concerns about their validity.
+Scaramucci’s Shifting Loyalties Add To The Controversy
+Adding fuel to the fire of criticism is the involvement of Anthony Scaramucci, a prominent Algorand backer, in the ad campaign. Just a day before the ad dropped, Scaramucci expressed his anticipation for a Solana ETF, a move that left some questioning his commitment to Algorand and the overall sincerity of the ad.
+
+
+This apparent shift in loyalty has sparked broader concerns about the credibility of the ad’s message and the motivations behind it. As a respected figure in the crypto community, Scaramucci’s actions have the potential to significantly impact public perception and trust in Algorand’s marketing efforts.
+A High-Risk, High-Reward Strategy For Algorand
+Algorand’s bold advertising gambit has undoubtedly generated a significant buzz within the crypto community. Whether it will translate into tangible benefits, such as increased adoption and a price boost for the ALGO token, remains to be seen.
+
+
+The mixed reaction to the campaign highlights the ongoing debate around the role of marketing in the cryptocurrency space. While some see humor and aggression as effective tools to stand out in a crowded market, others believe such tactics can hinder broader industry growth and undermine trust.
+
+As the dust settles, Algorand’s future success will depend on its ability to back up its claims with real-world performance and continued innovation. The crypto community will be watching closely to see if this high-risk, high-reward strategy pays off or simply becomes a case of clever marketing gone awry.
+Featured image from Shutterstock, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+Pepe Price Prediction as PEPE Dips From Recent High - Next Leg Up Starting Soon?
+
+
+                        
+                            Pepe Price Prediction as PEPE Dips From Recent High – Next Leg Up Starting Soon?                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 24, 2024 12:52 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The Pepe price has fallen by 4.5% in the past 24 hours, sinking to $0.00001365 after reaching a new all-time high of $0.00001526 yesterday.Given its recent performance, the meme coin remains up by a very healthy 37% in a week and by 74% in a month, making it the best-performing top-100 token over these timeframes.PEPE has also gained by a massive 820% in a month, indicating some very strong long-term momentum that should kick in again once today’s dip has played out.And with the wider market likely to become increasingly bullish amid the approval of ETH ETFs yesterday, the Pepe price could reach a new ATH very soon.Pepe Price Prediction as PEPE Dips From Recent High – Next Leg Up Starting Soon?
+After pushing hard at the beginning of the week, it does seem that PEPE is currently running out of momentum, with its indicators pointing to an ongoing correction.Its relative strength index (purple) has fallen from 70 earlier this morning to nearly 40 as of writing, and it could continue to decline over the next day or so.Source: TradingViewPerhaps more worryingly, the coin’s 30-day average (orange) has begun dropping downwards after spending several days rising aggressively beyond the 200-day (blue), which it may now be on course to fall below.It’s certainly possible that, after reaching several new record highs over the past few days, PEPE could suffer a sustained correction lasting a week or so.Having said that, its volumes remain close to record highs at around $2.4 billion, with some whales still accumulating the token in the past 24 hours.It’s therefore entirely possible that, with demand and interest still pretty high, the PEPE price will recover soon and potentially break its record high yet again.What’s particularly bullish for the meme token and the market as a whole is that yesterday saw the SEC approve eight Ethereum ETFs.Such ETFs are likely to launch next month, at which point they’ll bring new demand and volume to Ethereum and, by extension, the wider market.This will help to increase bullishness across the board, including for PEPE, which is not only an Ethereum-based token, but has remained a vehicle of choice for whales for well over a year now.As such, we could see the Pepe price rise to $0.0000150 in the next few weeks, before reaching $0.000020 by Q4.Diversification into New Altcoins for Big Returns
+There’s a risk that, because it has already hit new highs several times this week, PEPE may correct and then not do much over the next few weeks.Fortunately, there’s a range of new meme coins entering the market right now, with several holding their presales and generating considerable momentum.One of these is WienerAI (WAI), a new Ethereum-based cryptocurrency that has raised more than $2.7 million in its hugely popular sale.WienerAI may have a cutesy sausage dog as its meme, yet it has been attracting attention because it will launch an eponymous AI-based trading bot.As such a both, WienerAI will answer queries from traders, recommending high-potential coins before they rally big and therefore helping investors to stay ahead of the market.Helping in this respect will be its atomic swap feature, which means that traders who receive recommendations for a particular coin from WienerAI can use the app to quickly buy it.Another strong feature is its MEV protection, which helps users to complete trades ahead of front-running bots.Taken together, this gives WAI lots of utility as a native token, with demand for the coin likely to increase in parallel with the growth of WienerAI as an app.It will have a max supply 69 billion tokens, potentially making it deflationary over time.Holders will also be able to stake token, earning themselves a passive income while they wait for WAI to make gains.VIDEOInterested investors can join the coin’s sale by going to the official WienerAI website, where 1 WAI currently costs $0.00071.The sale will end in the next few weeks, at which point WAI may surge when it lists on exchanges.Buy WAI Today                                                    
+                        	                    Disclaimer: Crypto is a high-risk asset class. This article is provided for informational purposes and does not constitute investment advice. You could lose all of your capital.                        
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Crypto Markets Drop Following Ethereum ETF Approvals - The Defiant
+
+Traders ‘sell the news’ after the SEC approves eight exchange-traded funds backed by spot Ether.Crypto markets traded lower after the SEC approved eight exchange-traded funds backed by spot Ether on Thursday.The much-anticipated approval, initially expected to boost the market further, turned into a "sell-the-news" event, leading to an overall market drop.ETH dropped by 4% following the approval after rallying 20% over the past week. The world’s largest cryptocurrency, Bitcoin, also continued its downward trend, dropping 6%, while Solana was down 5%.ETH PriceBenjamin Cowen, CEO of ITC Crypto, finds it comical that people are upset about ETH's lack of movement. “ETH is up more this week than the S&P 500 typically gives you in a year."According to crypto analyst Zach Rynes, the lack of upside momentum means that "everyone who wanted to buy the approval already did."The exchanges involved — NYSE Arca, Nasdaq, and Cboe BZX — applied for rule changes to list and trade Ether ETFs. They received approval to trade multiple Ethereum-based ETFs, including Grayscale Ethereum Trust, the Bitwise Ethereum ETF, BlackRock's iShares Ethereum Trust, the VanEck Ethereum Trust, the ARK 21Shares Ethereum ETF, the Invesco Galaxy Ethereum ETF, the Fidelity Ethereum Fund, and Franklin Templeton's Franklin Ethereum ETF.Data from CoinGlass shows that 104,585 traders were liquidated in the past 24 hours for a total of $380 million. The largest single liquidation order occurred on Binance in the ETH-USDC pair, valued at $12.41 million. Over $105 million in long positions were liquidated in the last 24 hours.Long liquidations occur when traders betting on price increases are forced to close their positions due to falling prices, leading to automatic sell-offs.Meme coins are mixed today, with Dogecoin and PEPE rallying 3%, while Shiba Inu, FLOKI, and Dogwifhat dropped between 1% and 3%.DOGE PriceThe DOGE price action comes as Kabosu, the dog that inspired the Dogecoin meme in 2013, has passed away. Her owner, Atsuko Sato, a 62-year-old kindergarten teacher from Sakura in Chiba Prefecture, Japan, confirmed the news in a blog post on Friday.U.S. stock markets posted gains ahead of the Memorial Day long weekend. The Dow added 0.2%, while the S&P 500 and Nasdaq rose by 0.6% and 1%, respectively.
+
+----------------
+
+An Investor Made $42 Million with Only 3 Altcoins! Here are his actions! - Bitcoin Sistemi
+
+While investors who have earned millions of dollars with their investments in the cryptocurrency market have been frequently talked about lately, a new one has been added to these.
+According to data from Lookonchain, one investor earned $42 million with just PEPE and two altcoins.
+
+
+Accordingly, this investor increased his portfolio from 23 million dollars to 65 million dollars in one year and made a profit of 42 million dollars. More importantly, the smart investor used only three cryptocurrencies namely PEPE, ONDO and BEAM to grow his portfolio.
+This investor spent 2,434 ETH ($5 million) to purchase 3.97T PEPE between November 2023 and February 2024. This investor, who sells every time the PEPE price rises, still has a significant amount of PEPE.
+
+
+
+
+
+The investor also purchased 7.55 million ONDO ($1.9 million) from January 28 to February 6 at an average price of $0.26. He then sold 2.56 million ONDO (valued at $2 million) on March 14, April 1, and April 2 at an average price of $0.79, leaving him with 4.99 million ONDO (valued at $5.73 million). Profit was $5.8 million and return on investment was 288%.
+Again, this investor purchased 139.47 million BEAM (valued at $2.59 million) on January 4 and January 5 at an average price of $0.019. It then sold 139.47 million BEAMs ($4.44 million worth) from February 16 to February 27 at an average price of $0.032. Its profit is $1.85 million and its return on investment is 72%.
+
+
+
+“What a clever trader!
+In just 1 year, his portfolio grew from $23 million to $65 million and he earned $42 million!
+He earned $60 million (+1203%) on PEPE!
+Earned $5.8 million (+288%) on ONDO!
+It earned $1.85 million (+72%) on BEAM!”
+
+
+
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Deckers Brands Announces Record Q4 Results, Stock Surges - Tokenist
+
+
+					
+Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
+
+
+
+Deckers Brands (NYSE: DECK) reported its financial results for the fourth quarter and full fiscal year 2024, ending March 31, 2024. The company posted record net sales and significant growth across its key brands, particularly HOKA and UGG.
+
+
+
+Deckers Brands Full Fiscal Year 2024 Financial Review
+
+
+
+Net sales for the full fiscal year 2024 increased by 18.2% to $4.288 billion compared to the previous year. Domestic net sales grew by 16.8% to $2.864 billion, while international net sales increased by 21.1% to $1.424 billion. Direct-to-consumer (DTC) sales saw a substantial increase of 26.5% to $1.855 billion, and wholesale sales rose by 12.6% to $2.432 billion.Regarding brand performance, HOKA continued its strong growth trajectory with a 27.9% increase in net sales, reaching $1.807 billion. UGG also experienced significant growth, with net sales increasing by 16.1% to $2.239 billion. However, Teva and Sanuk faced challenges, with net sales decreasing by 18.9% and 33%, respectively. Other brands, primarily Koolaburra, saw a modest increase of 5.9% in net sales.Key financial metrics also improved, with gross margin rising to 55.6% from 50.3% in the previous year. SG&A expenses increased to $1.458 billion while operating income rose to $927.5 million. Diluted EPS significantly increased, reaching $29.16 compared to $19.37 in the previous fiscal year.
+
+
+
+
+			
+	
+	
+
+
+
+
+Balance Sheet and Stock Repurchase Program
+
+
+
+Deckers Brands’ balance sheet remained strong, with cash and cash equivalents increasing to $1.502 billion from $981.8 million in the previous year. Inventories decreased to $474.3 million, and the company had no outstanding borrowings as of March 31, 2024.During the fourth quarter, Deckers repurchased approximately 119 thousand shares for $104.3 million at an average price of $875.01 per share. For the full fiscal year, the company repurchased approximately 715 thousand shares for $414.9 million at an average price of $580.44 per share. As of March 31, 2024, the remaining authorization for stock repurchases was approximately $941.7 million.
+
+
+
+Deckers Stock Price Update
+
+
+
+Deckers Brands’ stock has been performing exceptionally well, with the stock price at $1,029.08 as of 12:19 PM EDT on the day of the earnings report. The company’s market capitalization stands at $26.415 billion, with an average trading volume of 260,000 shares.
+
+
+
+Comparative returns showcase the stock’s outstanding performance, with a year-to-date return of 53.95%, a 1-year return of 129.30%, a 3-year return of 206.49%, and a 5-year return of 598.11%. These returns significantly outperform the S&P 500 benchmark across all time periods.
+
+
+
+Valuation measures indicate a trailing P/E ratio of 32.69 and a forward P/E ratio of 30.21. The company’s price/sales (TTM) ratio is 5.76, and its price/book (MRQ) ratio is 11.04. The enterprise value/revenue and enterprise value/EBITDA ratios stand at 5.30 and 22.15, respectively.Deckers Brands’ financial highlights demonstrate strong profitability and growth. The company’s profit margin is 17.71%, with a return on assets (TTM) of 20.37% and a return on equity (TTM) of 39.22%. Revenue (TTM) reached $4.29 billion, with a net income available to common stockholders (TTM) of $759.56 million and a diluted EPS (TTM) of $27.68.
+
+
+
+Analyst price targets for Deckers Brands range from a low estimate of $744.98 to a high estimate of $1,150.00.
+
+
+
+
+
+
+
+Disclaimer: The author does not hold or have a position in any securities discussed in the article.
+
+
+
+
+
+				
+
+				
+
+		
+			About the author
+		
+
+		
+		
+
+					
+				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
+			
+		
+	
+
+									
+				
+			
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Sell-off alert: Ripple-related account moves over 50 million XRP to exchanges
+
+
+    A Ripple-related account has recently transferred over 50 million XRP to cryptocurrency exchanges, indicating a significant sell-off. 
+
+
+
+On May 1, Ripple released 1 billion XRP from its initial distribution, with the tokens locked in monthly escrows until 2027. The company sent 200 million XRP to its treasury account and locked the remaining 800 million in new escrows.
+
+
+
+After receiving the 150 million XRP this month, Ripple’s destination account rP4X2…sKxv3 distributed some tokens to different unlabeled accounts.
+
+
+
+
+
+
+
+A Ripple-related address, identified as r4wf..Rzn, has dumped 56.01 million XRP on exchanges in the last 24 hours, intensifying bearish sentiments. 
+
+
+
+r4wf..Rzn  account summary, assets, transactions. Source: XRPScan
+
+
+
+The transactions included nearly 30 million XRP to Bitso and 26 million XRP to Bitstamp. This added selling pressure has contributed to the current price decline of XRP. 
+
+
+
+On-chain data, highlighted by Whale Alert, suggests concerns about the performance of XRP, which is the 7th largest cryptocurrency by market capitalization.
+
+
+
+The first transaction, which occurred on May 23, moved a staggering 30 million XRP tokens to the Bitstamp crypto exchange, valued at $15.4 million at the time. 
+
+
+
+Shortly after, the second transaction transferred exactly 25 million XRP tokens to the Mexico-based exchange Bitso, worth $11.4 million at the time. The specific exchanges involved add to speculations about the reasons behind the action.
+
+
+
+The Luxembourg-based exchange Bitstamp has received significant amounts of XRP over recent months. Bitso Exchange has also seen large inflows of XRP following its partnership with Ripple.
+
+
+
+This distribution pattern suggests that these accounts are likely to continue transferring Ripple’s XRP to several centralized exchanges for sell-off. 
+
+
+
+Such actions could increase supply pressure on the spot market, potentially impacting XRP’s price.
+
+
+
+XRP price analysis
+
+
+
+Ripple’s sell-offs can significantly impact the token’s price by introducing more tokens into circulation, causing supply inflation. Over the last 24 hours, XRP has seen both gains and losses, but as of press time, it was trading at $0.5358, up 0.14% over the past day.
+
+
+
+XRP 1 day price chart. Source: Finbold
+
+
+
+Despite this, the Relative Strength Index (RSI) stands at 51, indicating a neutral market stance where either bulls or bears could potentially take control.
+
+
+
+Ripple’s monthly token distribution and subsequent sales are closely watched by the cryptocurrency community, as these actions can significantly influence XRP’s market dynamics
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+Crypto Governance Advisory MetaLeX Raises $2.75M
+
+Into this fray steps Shapiro's incredibly niche MetaLeX. In an interview with CoinDesk, he described it as a "business-to-business, crypto software as a services" company that's designing standardized, smart contract-based processes for so-called decentralized autonomous organizations, or DAOs, to properly run themselves on-chain.
+
+----------------
+
+SEC Approval Of Ethereum ETFs Is Evidence Of A 'Profound Shift' In Crypto Adoption: Report - Benzinga
+
+The SEC’s approval of eight spot Ethereum ETH/USD ETFs on Thursday marks a significant regulatory shift, reflecting the heightened politicization of digital assets ahead of a tightly contested presidential race, according to a report.What Happened: The report, by H.C. Wainwright & Co., this policy turnaround signifies an unprecedented embrace of blockchain technology, contrasting sharply with last year’s stringent regulatory environment.This approval, part of a broader legislative push, aligns with the passage of H.R. 4763, the Financial Innovation and Technology (FIT) Act. Introduced by Representatives Patrick McHenry and Glenn Thompson, the FIT Act establishes a comprehensive regulatory framework for digital assets. Garnering bipartisan support, the bill aims to protect consumers, streamline registration for intermediaries, and spur technological advancements through innovation hubs within the CFTC and SEC.Kevin Dede, CFA at H.C. Wainwright, notes, “The SEC’s approval of eight spot Ethereum ETFs, perhaps unthinkable just two weeks ago, is further evidence of the profound shift in appreciating blockchain and digital asset efficiency, easing adoption in the U.S. financial system.”Also Read: With Ethereum ETFs Approved, Why Is ETH Not Going Up?Despite fierce opposition from notable figures like Representative Maxine Waters and Senator Elizabeth Warren, the Administration has signaled a willingness to collaborate with Congress on crypto regulation. This collaboration marks a potential end to the anti-crypto stance that has previously stymied legislative efforts. The dissolution of this resistance paves the way for a more favorable regulatory environment for blockchain businesses.What’s Next: These developments underscore the critical role of digital assets as a political lever in the U.S. As the market navigates these regulatory shifts, industry leaders and investors can gain deeper insights at Benzinga’s Future of Digital Assets event on November 19.This event will explore the evolving regulatory landscape, investment strategies, and the future of digital assets, providing a comprehensive overview of this dynamic sector.Read Next: Bitcoin Spot ETFs Record $108M Inflows While Ethereum ETF Potential Remains UncertainImage: Shutterstock
+
+----------------
+
+This Altcoin Soared 57 Percent Today! Here's Why! - Bitcoin Sistemi
+
+
+Business Insider, a multinational financial and business news website based in New York City, listed “14 Music-Tech Companies to Watch” in a recent report.
+Among these 14 companies was Audius (AUDIO), a decentralized music streaming protocol.
+
+
+While this news caused a big jump in the AUDIO price, the AUDIO price increased by 57% in the last 24 hours.
+
+
+
+
+
+
+Commenting on Business Insider's news, Audius co-founder Forrest Browning said:
+
+“ Think of us as a more modern form of SoundCloud with a lot of paid fan engagement layered on top.
+Currently, Audius runs on a decentralized blockchain powered by Solana and Ethereum.
+Additionally, Audius currently has between 5 and 6 million monthly active users. The platform's most popular genres are electronic and hip-hop.
+Currently, artists do not have a venue or outlet to foster deeper relationships and deeper collaborations. Audius wants to fill this gap by giving superfans a new way to engage with their favorite artists.”
+
+*This is not investment advice.
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Ethereum ETF: Will Grayscale SELL Like They Did Bitcoin?? - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+At what point crypto become “Decentralized”? - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
