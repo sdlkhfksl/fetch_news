@@ -1,397 +1,3 @@
-Bitcoin Demand Has 'Considerably' Slowed Down, Report Finds
-
-
-								The on-chain analytics firm Glassnode revealed in its latest weekly report that demand for Bitcoin has slowed recently.
-Bitcoin Realized Cap Has Slowed Down Its Uptrend Recently
-In its new report, Glassnode has discussed the latest development in the Bitcoin Realized Cap. The “Realized Cap” refers to an on-chain capitalization model for BTC that calculates the asset’s value by assuming the value of each coin in circulation to be equal to the spot price at which it was last moved on the blockchain.
-As the last transfer on the network for any coin was probably the last time it changed hands, the price at that time could be assumed to be its current cost basis. As such, the Realized Cap is a total sum for the cost basis of the entire circulating supply.
-
-In other words, this model represents the total capital that the investors used to purchase Bitcoin. Because of this, this metric is used to track whether capital is flowing into or out of the cryptocurrency.
-Here is the chart shared by Glassnode that shows the trend in the Bitcoin Realized Cap over the last few years:
-
-The value of the metric appears to have been heading up in recent months | Source: Glassnode's The Week Onchain - Week 21, 2024
-As displayed in the above graph, the Bitcoin Realized Cap had been riding a sharp uptrend earlier when the rally toward the new all-time high (ATH) took place. This rapid growth naturally implied that capital was aggressively flowing into the asset.
-Recently, though, the metric’s trajectory has become less steep. Its value is still growing, and new ATHs are being set, but it’s clear that the increase is much smaller in scale than earlier.
-“Currently, the rate at which new capital is flowing into the Bitcoin network has slowed down considerably from its peak as the market digests the recently distributed supply,” reads the report.
-The chart below better represents how the rate of change of capital flowing into the sector has changed recently.
-
-Looks like the value of the indicator has rapidly gone down recently | Source: Glassnode's The Week Onchain - Week 21, 2024
-When investors sell at a net profit, the Realized Cap increases as there is some demand to buy the coins at a higher price. On the other hand, the metric heads down when loss realization occurs, as coins previously purchased with a higher amount of capital have been sold for a lower amount of capital, thus bringing the total investment in the cryptocurrency down.
-
-As the Bitcoin Net Realized Profit/Loss graph shows, the market absorbed a large amount of profits when the ATH formed. Since then, though, the metric has cooled off considerably, further showcasing the lower demand in the sector.
-BTC Price
-Bitcoin surpassed the $71,000 level yesterday, but the asset appears to have dropped today as it’s now back at $70,200.
-
-The price of the coin seems to have registered a jump over the last few days | Source: BTCUSD on TradingView
-Featured image from Shutterstock.com, Glassnode.com, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Ethereum Whales Come Alive: Are They Buying Or Selling?
-
-
-																On-chain data suggests the Ethereum whales have shown a burst of activity recently. Here’s what these titans have been up to.
-Ethereum Whale Transactions Are At Their Highest Since March
-In a new post on X, the market intelligence platform IntoTheBlock has discussed how the ETH whales have become active recently.
-The on-chain metric of interest here is the “Number of Large Transactions,” which, according to the analytics firm, tracks the total number of Ethereum transactions on the network valued at more than $100,000.
-
-	Related Reading
-
-
-Generally, only whale entities can make such large single transaction movements, so such large transfers are associated with these humongous investors.
-As such, the Number of Large Transactions indicator can tell us whether this cohort is active right now. The chart below shows the recent trend in this Ethereum metric.
-The value of the metric appears to have spiked in recent days | Source: IntoTheBlock on X
-The graph shows that the Number of large transactions for Ethereum has sharply increased recently. This suggests that the whales have ramped up their activity.
-The whales have come alive as news surfaced that the ETH spot exchange-traded funds (ETFs) could have improved their approval odds. The hype in the market has meant that ETH has enjoyed a rapid increase, taking its price back around the $3,800 level.
-With all this happening in the market, it’s only natural that these humongous entities would be repositioning themselves. As the scale of this cohort’s transactions is quite big, a large number of them taking place together can be powerful enough to cause ripples in the market. Thus, ETH could likely witness volatility shortly if the current high whale activity persists.
-However, the direction this volatility might take on Ethereum depends on whether these investors collectively buy or sell. IntoTheBlock data has also provided hints about this, as the below chart for the “Large Holders Netflow” shows.
-It looks like the value of the metric has been positive recently | Source: IntoTheBlock on X
-This indicator measures the net amount of Ethereum moving into or out of the wallets of “Large Holders.” The analytics firm defines Large Holders as those who own at least 0.1% of the entire circulating asset supply.
-
-	Related Reading
-
-
-The graph shows that the Large Holders have been participating in accumulation recently, as the netflow has been positive for them. Thus, it appears that the recent activity from the whales has involved net-buying.
-It remains to be seen if these humongous entities will continue to display this trend in the coming days, potentially helping fuel the rally.
-ETH Price
-At the time of writing, Ethereum is floating around $3,750, up more than 26% over the past week.
-The price of the asset appears to have registered a sharp increase in the last two days | Source: ETHUSD on TradingView
-Featured image from Gabriel Dizzi on Unsplash.com, IntoTheBlock.com, chart from TradingView.com
-																								
-															
-
-
-						
-
-----------------
-
-Retail Frenzy: Small Ethereum Investors Hit All-Time High as Whales Retreat | Cryptoglobe
-
-
-                                
-The number of small Ethereum ($ETH) investors, those holding 10 ETH or less (around $37,500), has recently climbed to a new all-time high while larger investors are seemingly still lagging behind after divesting most of their funds over the last few months.
-
-
-
-According to data from on-chain analytics firm Santiment, smaller Ethereum wallets hits a new all-time high of 121.74 million after the recent ETH price surge, while those holding between 10 and 10,000 ETH  – between $37,500 and $37.5 million – are still down a around 5.8% this year.
-
-
-
-Notably larger whales, those that have over $37.5 million worth of the second-largest cryptocurrency by market capitalization in their wallets, are down 10.6% in terms of total holdings after divesting of their ETH over the last few months.
-
-
-
-
-
-
-
-Notably the price of ETH has recently surged over news related to the potential approval of spot Ether exchange-traded funds (ETFs) in the U.S as the Securities and Exchange Commission (SEC) has abruptly requested that the exchanges that want to list and trade these funds update key filings related to these products, fueling speculation that the regulator is considering approving these products.
-
-
-
-Before any trading can begin, issuers of spot Ether ETFs must receive the go-ahead on their S-1 registration statements, with the SEC having no set deadline to review these filings.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-The SEC’s ongoing investigation into Ether, the native cryptocurrency of the Ethereum blockchain, has intensified over the last few months, especially after the network’s transition to a Proof-of-Stake protocol.
-
-
-
-Should Ether be classified as a security, it could provide the SEC with a basis to deny the applications for spot Ether ETFs. Nevertheless, the surge led to the spike in small ETH holders while seeing the cryptocurrency’s trading volume explode.
-
-
-
-
-
-
-
-The SEC is seemingly nearing a decision on spot Ether ETFs, as the Cboe exchange has published amended 19b-4 filings in response to regulatory feedback for several applicants including asset management giants BlackRock, Fidelity, VanEck, and Franklin Templeton, among others.
-
-
-
-These filings came after the SEC requested standardized revisions where applicants could all use the same wording. While final approval of the applications remains uncertain, the feedback has boosted optimism within the industry, with some anticipating approvals as early as this week.
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
-U.S. House of Representatives Passes Landmark Crypto Bill - Brave New Coin
-
-The U.S. House of Representatives voted 279-136 to approve the Financial Innovation and Technology for the 21st Century Act, with significant support from House Democrats.On Wednesday, the crypto industry achieved its largest-ever U.S. policy victory as the House passed a comprehensive bill to regulate digital asset markets. The vote, which saw Democrats crossing party lines, ended with 279 in favor and 136 against. The crypto market-structure bill represents the industry’s most notable legislative success in Congress to date. Financial InnovationThe Financial Innovation and Technology for the 21st Century Act (FIT21) is the first major crypto bill to clear one chamber of Congress. The bill now heads to the U.S. Senate, where its future is uncertain due to the absence of a counterpart bill and unclear support. The Senate committees have not yet undertaken significant work on crypto regulation. Despite the House’s strong victory, establishing comprehensive oversight for the crypto industry in the U.S. is still a work in progress.“We need rules of the road,” said Rep. Josh Gottheimer (D-N.J.), a Democrat who supported the bill despite opposition from the White House and the ranking Democrat on the House Financial Services Committee, Rep. Maxine Waters (D-Calif.). He described the bill as “well-reasoned, thoughtful, bipartisan legislation” and urged collaboration to make it law.In total, 71 Democrats and 208 Republicans voted for the bill, while 3 Republicans and 133 Democrats opposed it.Jake Chervinsky, a lawyer who supports crypto, posted on X, “That is a *huge* number of elected Democrats voting “no confidence” in the current SEC, and sending a message to the Biden administration that “anti-crypto” is a losing platform this year.”The fact that so many democrats supported the bill suggests that the democrats are unwilling to alienate crypto-loving Americans in the lead up to the election cycle. Biden and Gensler OpposedPresident Joe Biden opposed the bill but did not threaten a veto, unlike a recent effort by Congress to overturn an SEC policy on crypto accounting. SEC Chair Gary Gensler also criticized the legislation, arguing it was unnecessary and jeopardized existing securities regulations.Gensler wrote, “The Financial Innovation and Technology for the 21st Century Act (“FIT 21”) would create new regulatory gaps and undermine decades of precedent regarding the oversight of investment contracts, putting investors and capital markets at immeasurable risk.First, the bill would remove investment contracts that are recorded on a blockchain from the statutory definition of securities and the time-tested protections of much of the federal securities laws.Further, by removing this set of investment contracts from the statutory list of securities, the bill implies what courts have repeatedly ruled – but what crypto market participants have attempted to deny – that many crypto assets are being offered and sold as securities under existing law.”The legislation, mainly driven by House Republicans, aims to regulate the U.S. crypto markets by setting consumer protections, appointing the Commodity Futures Trading Commission (CFTC) as the primary regulator of digital assets, and clarifying the definitions of crypto tokens as securities or commodities.Rep. Maxine Waters argued that the bill would allow crypto businesses that have evaded securities laws to escape accountability. “They have already made billions of dollars unlawfully issuing or facilitating the buying and selling of crypto securities,” she said. “And Republicans are now proposing to reward these illegal activities by making them legal.”Before the vote, the House debated several amendments to the bill, including those by Reps. Greg Casar (D-Texas), Brittany Pettersen (D-Colo.), Ralph Norman (R-S.C.), and Scott Perry (R-Pa.). While Casar’s amendment to change a crowdfunding exemption from $75 million to $5 million was defeated, the rest were adopted. The BillFIT21 will protect consumers by strengthening transparency and accountability with market participants:Digital asset developers will be required to provide accurate, relevant disclosures, including information relating to the digital asset project’s operation, ownership, and structure; andDigital asset customer-serving institutions, like exchanges, brokers, and dealers will be required to:Provide appropriate disclosures to customers;Segregate customer funds from their own; andReduce conflicts of interest through registration, disclosure, and operational requirements.FIT21 will strengthen the market by protecting digital asset projects:Digital asset developers will have a pathway to raise funds; andParticipants will have a clear process to determine which digital asset transactions are subject to the SEC’s jurisdiction and the CFTC’s jurisdiction.FIT21 will protect digital asset customer-serving institutions by:Establishing clear lines between the SEC and CFTC; andCreating comprehensive registration regimes to permit them to lawfully serve customers in digital asset markets. Trump Embraces CryptoMeanwhile, President Trump’s campaign began accepting crypto donations this week. Its website says, “Demonstrating President Trump’s success as a champion of American freedom and innovation, we proudly offer you a chance to contribute to the campaign with cryptocurrency. Saving our nation from Biden’s failures requires your support. As Biden piles regulations and red tape on all of us, President Trump stands ready to embrace new technologies that will Make America Great Again.” The website allows donors to donate amounts of $20.24, $45, $47, $2024, or $4547.Source: Trump
-
-----------------
-
-Binance's Ban Reversed By Florida Court, BNB Sees 7% Uptrend Nearing All-Time Highs | Bitcoinist.com
-
-
-								In a significant development for the cryptocurrency industry, the First District Court of Appeals in Florida has unanimously ruled against a permanent ban on Binance, the world’s largest cryptocurrency exchange. 
-According to a Bloomberg Law report, the court determined that the state’s financial regulators had not followed proper procedures when issuing an emergency suspension order, thereby denying Binance the ability to operate in the state.
-Binance Wins Legal Battle
-The ban, imposed by the Florida Office of Financial Regulation in November 2023, came shortly after former Binance Holdings CEO Changpeng Zhao pleaded guilty to federal finance charges. 
-However, the court highlighted that the regulators failed to substantiate their legal conclusions, particularly regarding the alleged danger posed by Zhao’s conduct.
-The court’s ruling emphasized that the emergency suspension order lacked a clear basis in law, as the regulators did not adequately demonstrate that Zhao’s actions threatened public health, safety, and welfare. 
-
-While the court’s decision is a significant win for Binance, the exchange has also faced regulatory challenges in other jurisdictions. The banking division of Alaska, for instance, also rejected the renewal of Binance.US’s license to operate in the state during the same period. 
-Binance’s founder, Changpeng Zhao, commonly known as CZ, has been sentenced to four months in prison. The sentencing follows his guilty plea to charges related to facilitating money laundering activities on the cryptocurrency exchange.
-Notably, Zhao’s sentence was less severe than the three-year prison term sought by federal prosecutors. In contrast, the defense had requested five months of probation, ultimately achieving the desired outcome. 
-As part of the resolution, Binance was ordered to pay a substantial $4.3 billion fines and forfeiture. Additionally, Changpeng Zhao personally agreed to pay a significant $50 million fine.
-BNB Nears All-Time High Amid Market Uptrend
-As this development unfolded, Binance’s native token, BNB, has exhibited renewed bullish momentum in line with the overall market uptrend observed over the past week, led by major cryptocurrencies.
-During the last month, BNB has demonstrated significant gains, accumulating a 4% increase over the past 30 days and a substantial 7% surge in the previous week alone. Consequently, its current trading price stands at $620. 
-Notably, this places the fourth-largest cryptocurrency near its all-time high (ATH) of $686, achieved during the 2021 bull market.
-However, according to CoinGecko data, BNB has experienced a 66% decline in trading volume in recent days, totaling $1 billion over the past 24 hours. Nonetheless, if the present uptrend persists, there are only a few resistance levels to monitor before a potential retest of its ATH.
-
-Analyzing the BNB/USD 4-hour chart, the next significant resistance levels, $621.5 and $633, represent the primary obstacles that must be overcome for the token to continue its ascent to higher levels.
-In contrast, BNB bulls must remain vigilant regarding the support lines at $614 and $605 to prevent a downtrend that could lead to a test of the crucial $600 support level. 
-The 1-D chart shows BNB’s price trending upwards. Source: BNBUSD on TradingView.com
-Featured image from Shutterstock, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-Ethereum Price Consolidates: Steadying Before the Next Move?
-
-
-																Ethereum price started a consolidation phase above the $3,650 support. ETH seems to be preparing for the next move up toward $4,000 in the near term.
-
-Ethereum started a consolidation after it tested the $3,840 resistance zone.
-The price is trading above $3,700 and the 100-hourly Simple Moving Average.
-There is a short-term contracting triangle forming with support at $3,690 on the hourly chart of ETH/USD (data feed via Kraken).
-The pair could continue to move up unless there is a break below the $3,450 support.
-
-Ethereum Price Holds Support
-Ethereum price extended its increase above the $3,500 and $3,650 resistance levels. ETH outperformed Bitcoin and even climbed above the $3,800 level. A new weekly high was formed at $3,838 and the price is now consolidating gains.
-It is holding gains above the 23.6% Fib retracement level of the upward move from the $3,065 swing low to the $3,838 high. Ethereum is now trading above $3,700 and the 100-hourly Simple Moving Average. There is also a short-term contracting triangle forming with support at $3,690 on the hourly chart of ETH/USD.
-Immediate resistance is near the $3,780 level. The first major resistance is near the $3,840 level. An upside break above the $3,840 resistance might send the price higher. The next key resistance sits at $3,920, above which the price might gain traction and rise toward the $4,000 level.
-Source: ETHUSD on TradingView.com
-If there is a clear move above the $4,000 level, the price might rise and test the $4,080 resistance. Any more gains could send Ether toward the $4,200 resistance zone.
-Downside Break In ETH?
-If Ethereum fails to clear the $3,780 resistance, it could start a downside correction. Initial support on the downside is near the $3,690 level and the trend line.
-The next major support is near the $3,650 zone. A clear move below the $3,650 support might push the price toward $3,450 or the 50% Fib retracement level of the upward move from the $3,065 swing low to the $3,838 high. Any more losses might send the price toward the $3,360 level in the near term.
-Technical Indicators
-Hourly MACD – The MACD for ETH/USD is losing momentum in the bullish zone.
-Hourly RSI – The RSI for ETH/USD is still above the 75 zone.
-Major Support Level – $3,650
-Major Resistance Level – $3,840
-																								
-															
-
-
-						
-
-----------------
-
-South Korean Police Arrest 28 in ‘Crypto Fraud Ring’ Bust
-
-
-                        
-                            South Korean Police Arrest 28 in Raid on ‘Crypto Investment Fraud Ring’                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 22, 2024 23:00 EDT                            
-                                                             | 1 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        South Korean police officers have arrested 28 people they suspected of orchestrating a crypto investment fraud ring.Per Jose Geumyoong Shinmun and the broadcaster KBC, a raid was conducted by the Gwangju Metropolitan Police Agency’s Cyber Crime Investigation Unit.South Korean Police Arrest ‘Bogus Exchange Ringleaders’
-Police spokespeople confirmed they had detained six of the group in custody, with a further 22 charged without detention.Officers think the group duped “about 50 victims” out of a combined total of around $1.3 million.Investigators said the ring was active from July to December last year. Police spokespeople added that the gang’s members told victims that they could make money by investing in little-known cryptoassets.The ring reportedly told victims that these coins were about to be listed on major crypto exchanges.After these listings, the gang allegedly told victims, investors could expect the prices of these coins to skyrocket.The Gwangju Metropolitan Police Agency’s Cyber Crime Investigation Unit. (Source: KBC/SBS/Screenshot)However, police said that these coins were all “worthless,” and that none of the tokens had been listed on any exchange of note.Fake Crypto Experts Tricked Victims, Police Say
-Officers also explained that the ring members posed as cryptoasset “experts” and tried to “lure” victims onto what appears to be a bogus trading platform.Police said the platform was not registered with the Financial Intelligence Unit, the regualtor that governs the South Korean crypto exchange sector.The ring then proceeded to “steal investment stakes,” police said. Officers explained that the ring told victims that their funds were safe, and they could expect “high profits” soon.Investigators said the operation was complex, and that the ring had divided into a “sales team unit” and a “public relations team.”The Gwangju Metropolitan Police Agency headquarters. (Source: KBC/SBS/Screenshot)The suspects were charged with several offenses, including organized crime. Police said they were “investigating additional crimes” related to the ring.South Korean police crackdowns have unearthed scores of bogus crypto exchanges in recent months.Courts, meanwhile, have handed convicted offenders heavy sentences. Earlier this month, a judge sent a fake XRP exchange operator to prison for eight years.And in January, the Supreme Court sent the CEO of V Global, a fake crypto exchange that defrauded thousands of victims, to jail for 25 years.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Polkadot Price Sets Sights on New Highs: DOT Bullish Momentum Building
-
-
-																Polkadot (DOT) is consolidating gains above the $7.40 zone against the US Dollar. The price could start another increase if it clears the $7.70 resistance.
-
-DOT gained pace and tested the $7.70 resistance level against the US Dollar.
-The price is trading above the $7.20 zone and the 100-hourly simple moving average.
-There is a key bullish trend line forming with support at $7.40 on the hourly chart of the DOT/USD pair (data source from Kraken).
-The pair could continue to rise if it fails to stay above the $7.20 support.
-
-Polkadot Price Holds Support
-After forming a base above the $6.80 level, DOT price started a decent increase. It broke many hurdles near $7.20 and even spiked above $7.65. A high was formed at $7.69 and the price is now consolidating gains, like Ethereum and Bitcoin.
-There was a move below the $7.50 support zone. The price declined below the 23.6% Fib retracement level of the upward move from the $6.91 swing low to the $7.69 high.
-DOT is now trading above the $7.20 zone and the 100 simple moving average (4 hours). There is also a key bullish trend line forming with support at $7.40 on the hourly chart of the DOT/USD pair. Immediate resistance is near the $7.70 level.
-Source: DOTUSD on TradingView.com
-The next major resistance is near $7.80. A successful break above $7.80 could start another strong rally. In the stated case, the price could easily rally toward $8.20 in the near term. The next major resistance is seen near the $8.50 zone.
-More Downsides in DOT?
-If DOT price fails to start a fresh increase above $7.70, it could continue to move down. The first key support is near the $7.40 level and the trend line.
-The next major support is near the $7.30 and the 100 simple moving average (4 hours) or the 50% Fib retracement level of the upward move from the $6.91 swing low to the $7.69 high, below which the price might decline to $7.00. Any more losses may perhaps open the doors for a move toward the $6.90 support zone or $6.80.
-Technical Indicators
-Hourly MACD – The MACD for DOT/USD is now gaining momentum in the bullish zone.
-Hourly RSI (Relative Strength Index) – The RSI for DOT/USD is now above the 50 level.
-Major Support Levels – $7.40, $7.30 and $7.10.
-Major Resistance Levels – $7.70, $7.80, and $8.20.
-																								
-															
-
-
-						
-
-----------------
-
-XRP Price Turns Red Again: What’s Next for the Crypto?
-
-
-																XRP price started a fresh decline after it failed near $0.5570. The price is now correcting gains and might decline heavily if it breaks the 100-hourly SMA.
-
-XRP struggled near the $0.5570 zone and trimmed gains.
-The price is now trading below $0.5350 and the 100-hourly Simple Moving Average.
-There is a connecting bearish trend line forming with resistance at $0.5320 on the hourly chart of the XRP/USD pair (data source from Kraken).
-The pair must stay above the 100-hourly SMA to avoid a sharp decline.
-
-XRP Price Dips Again
-After a steady increase, XRP price faced resistance near $0.5570. The price formed a short-term top and started a fresh decline from $0.5571, like Bitcoin and Ethereum.
-There was a move below the $0.5420 level. The price dipped below the 50% Fib retracement level of the upward move from the $0.5065 swing low to the $0.5571 high. The price even spiked below the $0.5250 support and the 100-hourly Simple Moving Average.
-However, the bulls are protecting the 61.8% Fib retracement level of the upward move from the $0.5065 swing low to the $0.5571 high. It is now trading above $0.5250 and the 100-hourly Simple Moving Average.
-Immediate resistance is near the $0.5310 level. There is also a connecting bearish trend line forming with resistance at $0.5320 on the hourly chart of the XRP/USD pair. The first key resistance is near $0.5350. A close above the $0.5350 resistance zone could send the price higher.
-Source: XRPUSD on TradingView.com
-The next key resistance is near $0.5450. If the bulls push the price above the $0.5450 resistance level, there could be a steady increase toward the $0.5570 resistance. Any more gains might send the price toward the $0.5650 resistance.
-More Downsides?
-If XRP fails to clear the $0.5350 resistance zone, it could continue to move down. Initial support on the downside is near the $0.5250 level and the 100 hourly SMA.
-The next major support is at $0.5185. If there is a downside break and a close below the $0.5185 level, the price might gain bearish momentum. In the stated case, the price could decline and test the $0.5065 support in the near term.
-Technical Indicators
-Hourly MACD – The MACD for XRP/USD is now gaining pace in the bearish zone.
-Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now below the 50 level.
-Major Support Levels – $0.5250 and $0.5185.
-Major Resistance Levels – $0.5350 and $0.5450.
-																								
-															
-
-
-						
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Bitcoin, Ethereum, Dogecoin Sink Over Inflation Concern In Fed Minutes: Analyst Says Odds 'In Favor' Of King Crypto Bulls - Benzinga
-
-Leading cryptocurrencies edged lower on Wednesday as investors reacted to the Federal Reserve's concern over inflation in the minutes from the recent policy meeting.CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Bitcoin BTC/USD-1.12%$69,412Ethereum ETH/USD-1.12%$3,752.29Dogecoin DOGE/USD-3.79%$0.1659What Happened: Bitcoin hovered below the $70,000 market after giving hopes of shattering its all-time high earlier this week. Ethereum remained choppy in the $3,750 – $3,800 zone.In the past 24 hours, more than 61,000 traders were liquidated, with the total liquidation surpassing $156 million. Ethereum led the pack with around $42.85 million in liquidations. The euphoria seen earlier in the week started fading, as the Open Interest in Bitcoin Futures dropped 0.53% in the last 24 hours. A steeper decline of 2,20% was observed on the Chicago Mercantile Exchange–the world's largest Bitcoin derivatives exchange.The market sentiment remained "Extremely Greedy" despite the blip seen in top cryptocurrencies.Meanwhile, in a crucial step for regulatory clarity for the crypto industry in the U.S., the House passed a landmark bill establishing clear guidelines for what would make a token a commodity or a security.Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)dogwifhat (WIF)+6.81%$2.98BOOK OF MEME (BOME)+5.52%$0.01358Gala (GALA)+4.86%$0.04578The global cryptocurrency market cap stands at $2.6 trillion, following a 0.43% decrease in the last 24 hours.The stock market slipped on Wednesday. The Dow Jones Industrial Average fell 201.95 points, or 0.51%, to end at 39,671.04, recording its worst session in the month. The S&P 500 fell 0.27% to close at 5,307.01, while the tech-focused Nasdaq Composite lost 0.18% to finish at 16,801.54.The negative sentiment permeated as the minutes from the Federal Reserve's policy meeting flagged concerns over the lack of progress in inflation, heightening investors’ fears of future monetary policy tightening.See More: Best Cryptocurrency ScannersAnalyst Notes: Prominent cryptocurrency analyst and trader Ali Martinez noted that Bitcoin was facing "minimal resistance." He drew attention to the significance of zone between $70,180 and $70,600 where over 450,000 addresses grabbed 273,000 BTC."With strong support levels, the odds are in favor of the bulls," Martinez remarked.Read Next: Is Donald Trump Accepting Crypto Donations ‘Just Another Cow For Him To Milk?’
-
-----------------
-
-This One Crypto Is Most Associated With NVDA, Here How It's Doing After The Tech Giant's Blockbuster Quarter - Benzinga
-
-Top AI-based cryptocurrency tokens tumbled after AI chip giant Nvidia Corp. NVDA reported higher-than-expected earnings for the first quarter Wednesday.What Happened: Render RNDR/USD, the token with the "most significant" ties with the tech giant, was trading 3.79% lower at the time of writing, according to data from Benzinga Pro. The token made gains ahead of the earnings announcement, rising to a two-month high of $11.81. However, profit-hungry traders locked in gains immediately afterRNDR's trading volume nearly doubled in the last 24 hours, surpassing meme powerhouse Shiba Inu SHIB/USDAccording to on-chain analytics firm Santiment, whale engagement with the AI token was rising. An investor with significant RNDR holdings sent nearly 4.9 million tokens to an unknown wallet earlier, potentially selling them off.Santiment alerted that holders of the token should brace for higher volatility ahead. Why It Matters: An X user going by the pseudonym CryptoDNA underlined the factors behind RNDR's dip after Nvidia's blockbuster first-quarter earnings. "Leverage is the reason we dipped. Imagine how many investors entered into 100x longs after the very bullish earnings call. You think the Market Makers would make it that easy?" the analyst commented. That said, the analyst assured that "there's nothing to worry about" as it's part of the ebbs and flows of the market."We’re going so much higher, and RENDER will lead the entire AI sector.  I’ve never been so bullish in my life, and my entire portfolio is built around RNDR."The analyst's assertion had merit as the number of traders longing RNDR started increasing in the last few hours, according to data from Coinglass. This suggested a belief in the token's upside potential.Read Next: ‘Shiba Inu Killer’ Dogwifhat Hat Makes A 11% Comeback: ‘Hatted Dog Is Headed To $10,’ Trader Touts
-
-----------------
-
-Landmark Crypto Bill Gets US House Approval
-
-
-On Wednesday, the crypto industry achieved a historic milestone as the US House of Representatives passed the Financial Innovation and Technology for the 21st Century Act (FIT21).
-The bill, which aims to establish a comprehensive regulatory framework for digital assets, was approved with bipartisan support in a 279-136 vote. This marks a significant step towards legal clarity in the crypto space.
-FIT21 Gets Strong Support from Lawmakers and Industry Leaders
-With 71 Democrats joining 208 Republicans in favor, the passage signals a growing consensus on the need for clear crypto regulations. Introduced in July 2023, the bill aims to define the roles of the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) in overseeing cryptocurrencies. It also establishes guidelines for various aspects of the crypto market, including token issuance, trading, and custody.
-
-Several legislators have expressed their strong support for the bill’s passage. Congressman John Rose highlighted the need to move away from regulation by enforcement.
-
-“I’ve had enough of Biden Administration officials regulating by enforcement. That’s why I support FIT21, legislation that will prevent the government from standing in the way of digital innovation. The bill includes critical guardrails that will protect consumers and foster innovation,” Congressman Rose said.
-
-Additionally, Representative Wiley Nickel stressed the importance of establishing a modern regulatory framework that acknowledges the unique nature of digital assets.
-
-“FIT21 provides a clear regulatory framework for digital assets instead of relying on 90-year-old securities law written before the Internet existed. That’s a big deal. Whether you love or hate crypto, you should support regulation,” Representative Nickel stated.
-
-Read more: Crypto Regulation: What Are the Benefits and Drawbacks?
-
-VIDEO
-
-
-Industry leaders echoed this enthusiasm. Brad Garlinghouse, CEO of Ripple, praised the bipartisan support for FIT21 and criticized the SEC’s approach to crypto regulation.
-
-“Today, more than ever, we are seeing what a political liability Gensler has been to the Biden administration. It’s the reason we saw 71 Democrats cross the aisle and support FIT21. We are just getting started!” Garlinghouse wrote on his X (Twitter) account.
-
-Jake Chervinsky, Chief Legal Officer at Variant, also shared his perspectives regarding the bill’s passage. He sees it as a vote of no confidence in the SEC’s current stance on crypto.
-
-“House Democrats voting in favor of this bill: 71. That is a huge number of elected Democrats voting ‘no confidence’ in the current SEC, and sending a message to the Biden administration that ‘anti-crypto’ is a losing platform this year,” he said.
-
-Despite the significant progress in the House, FIT21 faces an uncertain future in the Senate. A counterpart bill is currently absent.
-Moreover, the necessary committees have yet to engage in the same level of work on crypto. This makes the path forward less certain.
-
-Yet, the White House has expressed its opposition to the bill, citing concerns about consumer and investor protections. The administration acknowledges the need for a regulatory framework for digital assets. However, they believe FIT21 requires additional safeguards in its current form.
-
-“The Administration looks forward to continued collaboration with Congress on developing legislation for digital assets that includes adequate guardrails for consumers and investors while creating the conditions needed for innovation, and further time will be needed for such collaboration,” the White House wrote.
-
-However, President Joe Biden’s statement did not mention a veto threat. This contrasts with his stance on another crypto-related bill, Staff Accounting Bulletin 121 (SAB 121).
-
-BeInCrypto previously reported that SEC Chair Gary Gensler also voiced strong opposition to the bill before the House vote. He argued that it weakens SEC oversight and warned that it could increase investor risks and harm US markets.
-Read more: How Does Regulation Impact Crypto Marketing? A Complete Guide
-Despite the opposition, the passage marks a pivotal moment in the ongoing effort to provide clear regulations for the crypto industry in the US. With the FIT21 Act now in the Senate’s hands, the industry is watching closely to see if it will become law. Nevertheless, this development will potentially transform the regulatory environment for digital assets in the United States.
-
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Megaphone
-
-
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
 Bitcoin Tradeoffs: Base Layer vs. Lightning Network & Stablecoins - YouTube
 
 AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
@@ -9130,3 +8736,574 @@ Balina’s website posted a response to the SEC’s “baseless” charges, sayi
 RIP Kabosu: Dog That Inspired Dogecoin (DOGE), Shiba Inu (SHIB) Has Died
 
 “We will be holding a farewell party for Kabo-chan on Sunday, May 26th . It will be held at Flower Kaori in Kotsu no Mori, Narita City, from 1pm to 4pm,” the blog reads.
+
+----------------
+
+FIT21 Bill Seen As Solution to US Crypto Exodus Concerns
+
+
+                        
+                            FIT21 Bill Seen As Solution to US Crypto Exodus Concerns, Paving Way for Thriving Market                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 24, 2024 04:02 EDT                            
+                                                             | 3 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The Financial Innovation and Technology for the 21st Century Act’s (FIT21) approval on Wednesday would align the US with other nations in terms of its regulatory framework for crypto, according to Kyle Bligen, director of financial policy at the Chamber of Progress.Bligen told Cryptonews in an interview Thursday that if the FIT21 bill passes the Senate and becomes law, it would stop crypto companies from leaving the US for countries with clearer regulations.The legislation would provide increased freedoms to cryptocurrency operators in the US. Additionally, it would shift more regulatory responsibility for digital assets to the Commodity Futures Trading Commission (CFTC).It would also make it clear which businesses the SEC and CFTC regulate and would create a system for registering these businesses. This would allow them to legally serve customers who want to buy and sell digital assets. The SEC would oversee digital assets that are considered securities, while the CFTC would oversee things like commodities and derivatives related to digital assets.Outdated Law Hinders US Crypto Regulation
+Bligen pointed out the fact that the US has been using a nearly century-old law, the Howey Test, from the SEC to regulate cryptocurrency that was invented just a few years ago. He argued that the current system is outdated and doesn’t work for this technology.“Hopefully this [bill] establishes the US as a regulatory leader that wants strong consumer protections,” he said. “We already have the most liquid, most attractive capital markets in the US. There’s no reason why we can’t have the best cryptocurrency markets as well.”FIT21 Seen as Crypto Talent Retainer
+Harry Sudock, chief strategy officer at Bitcoin miner GRIID, agrees that the bill would propel the US to a competitive position in the international crypto scene. Additionally, he believes FIT21 would incentivize the brightest minds in crypto to come to and stay in the US.“We’ve seen a number of businesses either leave the US or decline to do business here thanks to regulatory uncertainty,” he said. “FIT21 will help those businesses return to the US, but the bill is really only just the start.”FIT21’s House Hurdle Cleared, Senate Showdown Looms
+FIT21’s journey to becoming law isn’t over yet. While it successfully cleared the House, it still faces an uphill battle. The bill needs to be approved by the Senate and then signed by the President before it becomes law. Whether the Senate will give it the green light remains to be seen.Ronen Cojocaru, CEO of automated crypto trading platform 8081, highlighted the unique challenges crypto bills face in the Senate. Some senators are familiar with the technology and may be vocal supporters or opponents of the FIT21 Act. However, others might lack a deep understanding of the intricacies of cryptocurrency, making them undecided on the bill’s merits.“Public opinion and upcoming elections influence Senators’ decisions, aligning them with their party’s agenda and voter interests,” he said. “Senators can use a filibuster, requiring 60 votes to advance the bill, which is tough without strong bipartisan support.”Cojocaru also explained why the US is currently lagging behind other countries. He pointed to Switzerland, nicknamed “Crypto Valley,” as a prime example. Switzerland’s financial regulator, FINMA, fosters innovation by providing clear guidelines for crypto businesses, making it a global hub for the industry.Singapore has also attracted many crypto companies with its well-defined regulations and supportive policies. Its central bank, the Monetary Authority of Singapore (MAS), has struck a balance between encouraging innovation and safeguarding consumers. Similarly, Malta, known as the “Blockchain Island,” has become a magnet for crypto businesses with its comprehensive and crypto-friendly regulations.CFTC vs. SEC in Regulating Crypto
+Meanwhile, James Koutoulas founder at Typhon Capital Management, said FIT21 needs some work, especially for DeFi. Additionally, he highlighted the unprecedented power it gives the CFTC to regulate crypto as a spot commodity, which falls outside its usual domain of regulating commodity derivatives.“But, at least at the present time, the CFTC is infinitely less hostile to crypto than the SEC and seems focused on implementing regulatory pathways instead of maliciously attacking market leaders without the statutory authority to do so like the SEC,” Koutoulas said.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Ripple CEO signals potential for an XRP ETF following Ethereum ETFs approval - CoinJournal
+
+
+
+                    
+
+                    
+Ripple CEO hints at potential XRP ETFs following Ethereum ETF approvals by SEC.
+Brad Garlinghouse’s endorsement aligns with his optimistic outlook for XRP in 2024.
+Regulatory challenges and Ripple’s SEC lawsuit impact the timing of potential XRP ETFs.
+
+Ripple CEO Brad Garlinghouse has indirectly hinted that XRP could be the next cryptocurrency to see the launch of exchange-traded funds (ETFs).
+This follows the recent approval of eight spot Ethereum ETFs by the U.S. Securities and Exchange Commission (SEC).
+Spot XRP ETF prospects post Ethereum ETFs approval
+Garlinghouse’s subtle nod to the possibility of XRP ETFs came via his reaction on X (formerly Twitter) to a comment on his post celebrating the US SEC’s approval of all Ethereum ETF applications. Among the approved ether ETF applications were those from prominent financial entities such as BlackRock, Grayscale, VanEck, and Fidelity.
+Describing the week’s events as “momentous” for the crypto industry, Garlinghouse likened the SEC’s approvals and the passing of the FIT21 crypto bill to a “hell freezes over” scenario, a sentiment that resonated with many in the community, who have long anticipated similar advancements for their favored cryptocurrency.
+Earlier on in an interview in February, Garlinghouse had expressed his belief that an XRP spot ETF was inevitable.
+He emphasized the importance of such an investment product for diversification purposes but refrained from committing to a specific timeline, citing regulatory uncertainties as a major factor.
+When questioned about potential collaborations with asset managers like BlackRock for an XRP ETF, Garlinghouse remained non-committal, acknowledging the complexities involved.
+Ripple legal battles standing in the way of an ETF approval
+Despite Garlinghouse’s enthusiasm, the path to an XRP ETF is fraught with challenges.
+The ongoing lawsuit between Ripple and the SEC, which has accused Ripple of selling unregistered securities, remains a significant hurdle. The outcome of this legal battle will likely play a crucial role in determining the feasibility and timing of an XRP ETF.
+While Ripple CEO is optimistic of an EXP ETF approval, Bloomberg ETF analyst James Seyffart suggested that Solana (SOL) might be a more probable candidate than XRP.
+Seyffart argued that Solana’s market position and broader appeal make it a strong contender, though he cautioned that a Solana ETF might not materialize until 2026, contingent upon regulatory developments and the establishment of a CFTC-regulated futures market.
+
+I'm sorry you're simple minded. Ill dumb it down for you. 
+Based on current regulatory framework I don't think Solana will be in an ETF for multiple years. Likely beyond 2026 at earliest.
+But Congress can theoretically accelerate that timeline.
+— James Seyffart (@JSeyff) May 22, 2024
+
+While no other crypto ETF applications have been made so far, the approval of Ethereum spot ETFs and the legislative advancements marked by the FIT21 crypto bill signify significant progress for the cryptocurrency sector.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+The odds of BNB breaking its ATH in 2024 are... - AMBCrypto
+
+
+
+BNB recently bounced from the support line of a symmetrical triangle pattern, indicating bullish sentiment.
+A close above $635 could lead to a rally to $692, breaking the ATH.
+
+Binance Coin [BNB] has been a standout performer in the cryptocurrency market over the past few years. But the question on every investor’s mind is: Can BNB break its all-time highs this year? 
+Even as the rest of its peers rally on, the altcoin has remained moderately bullish.
+A quick look at BNB’s current standing
+Over the past year, BNB has experienced some major price fluctuations. At press time, BNB is trading significantly below its all-time high of $690, reached in May 2021. 
+The altcoin turned up from the support line of the symmetrical triangle pattern on May 20 and rose above the resistance line, meaning that the bulls still have the upper hand. 
+BNB reached the critical overhead resistance of $635 on 21st May. This level will likely act as a stiff block, but if the bulls do not cede ground to the bears, it will improve the prospects of an upside breakout. A close above $635 could clear the way for a rally to $692.
+ 
+Source: TradingView
+The 20-day EMA, around $590, is also an important support level. Maintaining above this level will allow BNB to sustain bullish momentum. 
+Derivatives data shows a noticeable decline in trading volume by 16.69%, meaning there is less trading activity and reduced interest at the current price levels. 
+Source: Coinglass
+Potential catalysts and outlook
+Despite some contrasting signals from search activity and whale actions, the overall market sentiment towards BNB is strongly positive, as indicated by the Greed level on the Fear and Greed Index. 
+It clearly shows that the market is bullish on BNB, potentially anticipating a massive rally.
+
+Is your portfolio green? Check out the BNB Profit Calculator
+
+Source: CFGI
+Given the very positive volume, dominance, and impulse, along with the positive social sentiment and order book condition, the short to medium-term outlook for BNB looks bullish.
+Historically, BNB has been the most stable cryptocurrency. Even during a severe crypto winter last year, the coin didn’t plunge as much as the other cryptocurrencies. Its potential for a massive bull run this cycle is generally agreed on by the community.
+
+
+
+
+
+
+----------------
+
+Ouch! Solana Meme Coin Developer Burned in Bizarre Promotional Stunt
+
+
+								The world of cryptocurrency is no stranger to the bizarre, but this week, a Solana memecoin developer took things to a fiery new extreme. Mikol, the founder of the newly launched “Truth or Dare” (DARE) token, is recovering in a Miami hospital after suffering third-degree burns during a livestreamed stunt gone horribly wrong.
+This incident casts a harsh light on the escalating tactics employed by memecoin projects in a bid for viral fame and fortune.
+
+From Fireworks To Fiascos: The Solana Dev’s Thirst For Attention
+Memecoins, known for their mascot-driven popularity and often erratic price fluctuations, thrive on attention. Projects compete in a saturated market, resorting to increasingly outlandish tactics to grab headlines.
+In 2022, a memecoin project sent a giant Elon Musk rocket-statue on a truck to Tesla headquarters, hoping to spark a tweet from the crypto influencer. While such stunts can generate a buzz, Mikol’s fiery performance has sparked outrage and concern within the crypto community.
+Livestream Inferno: When Hype Goes Up In Flames
+Mikol’s ill-conceived marketing strategy involved dousing himself in isopropyl alcohol and inviting a friend to light fireworks in his direction during a livestreamed launch event for the DARE token. The chaotic 30-minute broadcast captured the horrifying moment when Mikol became engulfed in flames.
+
+
+His friends, unprepared for such a disaster, attempted to extinguish the fire with water, but the damage was already done. With burns affecting nearly a third of his body, Mikol was rushed to a trauma center.
+This incident raises serious questions about the ethics and legality of such promotional stunts. Financial markets, especially the often-unregulated cryptocurrency space, require a degree of responsible marketing. Encouraging risky behavior not only puts the developer in danger but also sets a potentially dangerous precedent for future marketing campaigns.
+Solana is now trading at $166. Chart: TradingView
+The Aftermath: Regulation, Reputation, And Responsibility
+The “Truth or Dare” stunt has sparked discussions about potential regulatory interventions. If dangerous stunts become a normalized marketing tactic, watchdogs might be forced to step in and establish stricter guidelines for cryptocurrency promotions.
+Furthermore, the Solana dev incident tarnishes the reputation of the entire memecoin sector. The cryptocurrency market, already grappling with issues of volatility and legitimacy, can ill-afford such negative publicity.
+
+Featured image from Burnshield, chart from TradingView
+								
+								
+																	
+															
+						
+
+----------------
+
+Bitcoin Exchange Binance Announces It Will Support Network Upgrade and Hardfork of This Altcoin! - Bitcoin Sistemi
+
+
+Binance, the leading global cryptocurrency exchange, announced support for the upcoming Neo (NEO) network upgrade and Hardfork.
+Binance Will Support Neo (NEO) Network Upgrade and Hard Fork
+To facilitate this transition, Binance will temporarily suspend token deposits and withdrawals on the Neo network starting approximately 27-05-2024 08:00.
+
+
+The network upgrade and hard fork is planned to occur at block height 5,450,000. During this period, Binance will ensure a smooth and efficient process for its users by ensuring that all technical requirements are met.
+
+
+Important Details:
+
+Uninterrupted Trading: Token trading on the Neo network will continue without any interruption during the upgrade and hard fork.
+
+
+
+
+
+Technical Management: Binance will manage all technical aspects of the upgrade, ensuring that users do not need to take any additional action.
+Services Resumption: Deposits and withdrawals for Neo tokens will be reopened once the network upgrade is confirmed to be stable. There will be no further announcements regarding the reopening of services.
+
+
+Binance advises its users to plan accordingly and stay informed about the network upgrade to avoid any inconvenience.
+This support for the Neo upgrade underscores Binance's commitment to providing its users with a reliable and seamless trading experience.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Coinbase NY’s XRP Trading Aligns with Whales’ Massive XRP Moves
+
+
+							
+
+Coinbase resumes XRP trading in New York, boosting the digital asset after recent price volatility.
+
+
+
+SEC lawsuit against Ripple for unregistered securities casts shadow, but recent court ruling favors XRP.
+
+
+
+Action aligns with whales’ massive XRP moves and XRP’s notable price changes.
+
+
+
+
+In a move likely to buoy XRP’s price, Coinbase, the large cryptocurrency exchange, has resumed XRP trading for users in New York. The decision comes amid significant price volatility for XRP, which reached a weekly high of $0.5535 on May 21st.
+
+
+
+The announcement was made public by Coinbase’s Chief Legal Officer, Paul Grewal, via his social media page. In a brief statement, Mr. Grewal wrote, “XRP trading on Coinbase is now available in New York.”
+
+
+
+
+
+
+
+Also, Whale Alert’s revelation of the massive move of XRP totaling more than 55 million has created a buzz in the community. In two separate X posts, Whale Alert shared insights on the strategic moves of large XRP holders or whales, which in turn saw a slight surge in XRP’s price.
+
+
+
+According to Whale Alert, an unknown whale address transferred a massive 30,080,000 XRP tokens, worth 15,634,673, to Bitso. Yet another involved the transfer of 25,800,000 XRP tokens, valued at $13,407,670, to Bitstamp.
+
+
+
+
+
+
+
+This follows a period of uncertainty for XRP, delisted from several exchanges, including Coinbase, in 2020 after the SEC filed a lawsuit against Ripple Labs, the company behind XRP. The SEC alleged that XRP was an unregistered security.
+
+
+
+Despite a recent ruling in favor of Ripple, by Judge Sarah Netburn, declaring XRP not to be a security, the final judgment in the case is still pending. The legal battle has undoubtedly contributed to XRP’s price fluctuations. However, the recent surge in trading activity, coupled with Coinbase’s decision to resume trading in New York, suggests a renewed sense of optimism among XRP holders.
+
+
+
+
+
+
+
+
+
+As of the press time, the token is trading at $05302, with a slight increase of 0.53% over the last day. In the last week, XRP had a more notable surge of 2.60% despite a monthly decline of 2.91%.
+
+
+
+While the long-term impact of Coinbase’s decision remains to be seen, it is a significant development for XRP. The resumption of trading in a major financial hub like New York could provide much-needed stability for the digital asset.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Shytoshi Kusama Discusses SHIB ETF Chances: “I’ll Stay Focused on What’s Coming for SHIB”
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+The enigmatic leader of the Shiba Inu team known by the pseudonym Shytoshi Kusama sends congratulations to the Ethereum community on the recent spot ETF approval by the U.S. Securities and Exchange Commission.He touched on the potential opportunity for the same happening to a SHIB spot exchange-traded fund in the future.SHIB ETF prospects and Shytoshi's current focusThe SHIB lead published a post in which he congratulated the friends of SHIB and Shibarium at Ethereum on the spot ETH ETF finally receiving the green light from the SEC regulator. He wondered if that could pave the way for SHIB, perhaps also hinting that a SHIB ETF is likely to be approved in the future.However, without spending much time discussing this hypothetical event, without further ado, he stated that this is something for the community to discuss, but he will stay focused on what the SHIB team has coming. He concluded his message with an intriguing hashtag, #staytuned. SEC approves Ethereum ETFsOn Thursday, May 24, the SEC finally issued approval for the spot Ethereum ETF filings submitted by several Wall Street companies earlier this year. The ETFs were approved six months after the regulator greenlit spot Bitcoin ETFs in the middle of January.Ethereum is the second largest cryptocurrency in terms of market capitalization, and this approval marks a crucial pivot for the crypto industry after BTC spot ETFs. Venture investor Anthony Pompliano has recently tweeted that this step would be the last dam to be broken before the Wall Street totally accepts crypto assets.Among the approved Ethereum ETFs were those submitted by BlackRock, Grayscale (a converted spot ETF from their Ethereum Trust), VanEck, Bitwise, Fidelity and Ark Invest.These spot Ethereum ETFs are expected to be much smaller in terms of assets under management. For example, Grayscale’s ETF holds approximately $11 billion in ETH, which is much smaller than its Bitcoin Trust held before it was converted into the spot ETF.Earlier this month, Ark, Grayscale and Fidelity were driven to adjust their ETF filings to remove staking from them since the SEC recently sued two U.S.-based exchanges (Coinbase and Kraken) for their crypto staking services, referring to staked assets and unregistered securities.
+
+
+
+----------------
+
+Solana DePIN gains traction in 2024, led by Render and Helium - AMBCrypto
+
+
+
+Solana-based DePINs like Render and Helium recorded massive growth on key metrics
+New entrants have entered the Solana DePIN ecosystem. 
+
+After dominating the memecoin trading segment, Solana [SOL] seems set to lead the DePIN (Decentralized Public Infrastructure Networks) sector.
+One of the leading decentralized computer networks, Render [RNDR], recorded a remarkable 66% growth in node operators since migrating from Ethereum [ETH] to Solana last November. 
+According to a report by crypto analytics provider Flipside, the growth isn’t restricted to Render but was evident across the Solana DePIN sector in the first half of 2024 (H1). 
+Render moved to Solana because of its speed, scalability, and low cost. New DePIN entrants, like io.net, cited the same reasons for choosing the network. Reinforcing Solana’s capacity, Garrison Yang, chief strategy at io.net, told Flipside that, 
+“With advantages in retail liquidity, speed, scalability, cost, and mindshare, Solana has become a natural choice for many web3 projects, including the DePIN category.’
+State of Solana DePIN sector in H1 2024
+According to the Flipside report, four major DePIN sub-categories have matured within Solana – compute, connectivity, data/sensor, and storage networks. 
+Render led the decentralized computing segment, hitting a record high of 1920 node operators in January 2024, a 66% increase post-Solana migration. 
+Source: Flipside
+Node operator rewards spiked in January, with a 34% average in the first half of 2024. 
+Render offers a Web 3 alternative to AWS or Google Cloud through its peer-to-peer compute power (GPU) marketplace. Per the report, Render pivoted to AI/Machine Learning and could be an outlier in the segment if the AI narrative extends.
+Part of the report read, 
+“As global GPU demand continues to outstrip supply, investment in, and adoption of, decentralized compute solutions will likely outpace other DePIN sectors.’
+The report noted io.net and Nosana as the latest projects in the compute segment worth tracking. 
+Solana’s next hottest DePIN category was connectivity, and the Helium Network was the leading project amidst surging subscribers. Wife Dabba and Pollen Mobile are new projects within the category. 
+The decentralized sensor and data storage segments are the third and fourth largest, respectively. These categories are dominated by Hivemapper (a Google Street View rival) and Shdwdrive, respectively. 
+Overall, the Solana DePIN ecosystem has over 25 projects led by the three known ones: Render, Hivemapper, and Helium. 
+On the performance front, the DePIN narrative was in the top five after DeFi and posted 85% in Q1, per the Coingecko report. 
+The best performer was the memecoin sector, which Solana dominated. It remains to be seen how the DePIN narrative will play out at the end of Q2.  
+
+
+
+
+
+
+----------------
+
+Biden in a Dogs World (BIDDOG) to Explode 14,000% Before KuCoin Listing, as Shiba Inu, Bonk and Dogecoin Lag
+
+
+
+                    
+
+Early investors in memecoins like Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) made astronomical returns, and Biden in a Dogs World (BIDDOG) presents a similar opportunity for a limited time.
+
+
+
+Biden in a Dogs World (BIDDOG), a newly launched Solana memecoin, is poised to explode over 14,000% in a matter of days, as former Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) investors pour funds into this new token.
+
+
+
+
+BIDDOG will be listed on KuCoin, one of the largest centralized exchanges in the world, within a few days – and this is a massively bullish development for the token, as millions of new investors will easily be able to buy Biden in a Dogs World.
+
+
+
+Currently, Biden in a Dogs World can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy BIDDOG on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Biden in a Dogs World by entering its contract address – bUv1o6DFK5Wa7V1SY2HoFTUmaZSQ58eKqk5rKxvWuZr – in the receiving field.
+
+
+
+
+BIDDOG currently has a market cap of just under $13,000, with over $4,000 in locked liquidity, meaning it has huge upside potential.
+
+
+
+Early investors could make returns similar to those who invested in Shiba Inu (SHIB), Dogecoin (DOGE) and Bonk (BONK) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+                
+
+                
+
+----------------
+
+Commodity Nod for Ethereum in ETF Saga Won't Halt SEC's War on Crypto
+
+
+																Industry experts and executives have been discussing the implications of the SEC’s apparent U-turn on Ethereum.
+Its approval of spot Ether ETFs on May 23 may be a signal that the regulator now views the asset as a commodity and not a security.
+The regulator officially approved 19b-4 applications from VanEck, BlackRock, Fidelity, Grayscale, Franklin Templeton, ARK 21Shares, Invesco Galaxy, and Bitwise to issue spot Ethereum ETFs.
+However, not all are convinced this is also a signal that its war on crypto could be coming to an end any time soon.
+
+
+
+
+
+
+ConsenSys Not Convinced
+On May 24, Ethereum software solutions provider ConsenSys said it welcomes the decision as a step in the right direction but added:
+“This seemingly last-minute approval is yet another example of the SEC’s troublesome ad hoc approach to digital assets.”
+The company noted that the SEC’s “regulatory abuse” is “unfair to market participants, antithetical to the rule of law, and handcuffing innovation.”
+
+
+ConsenSys is one of several crypto companies embroiled in legal battles with the SEC, which maintains its position that they have been offering unregistered securities. The agency’s decision on Ethereum is “contrary to the position it continued to take prior to the events of this week,” said ConsenSys.
+Meanwhile, financial services lawyer James Murphy said that “the SEC is in deep trouble with some of its crypto cases in light of its determination that ETH is a commodity.”
+The regulator has argued repeatedly at the hearing on Coinbase’s motion to dismiss that crypto tokens that operate within an “ecosystem” are securities, he added. The exchange’s chief legal officer, Paul Grewal, echoed the sentiment in a post on X on May 24, questioning the SEC’s perplexing U-turn.
+
+
+More Smoke and Mirrors
+Finance lawyer Scott Johnsson observed that the SEC “completely sidestepped” the clarification of ETH in its approval orders. ETF Store President Nate Geraci said something similar on May 24.
+“Zero statements from SEC Commissioners on spot eth ETFs… Silence speaks volumes.”
+Meanwhile, crypto lawyer Jake Chervinsky was optimistic that a change was in motion:
+“Today’s expected ETH ETF approval will hopefully provide a clue as to how real this pro-crypto pivot might be.”
+ETH prices spiked to $3,933 when the news broke but returned to yesterday’s levels shortly after and were trading at $3,670 at the time of writing.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Spot Ether ETF Approval Proves ETH is Not a Security: Expert
+
+
+                        
+                            Spot Ether ETF Approval Proves ETH is Not a Security, Experts Say                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 24, 2024 03:20 EDT                            
+                                                             | 2 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        The recent approval of spot Ethereum exchange-traded funds (ETFs) by the United States Securities and Exchange Commission (SEC) potentially confirms Ether’s status as a non-security, according to industry experts.Bloomberg ETF analyst James Seyffart, speaking on the Bankless podcast with Ryan Sean Adams, emphasized that the approval of these commodity-based trust shares implies that the SEC explicitly recognizes Ether as not being a security. Seyffart further suggested that this recognition could extend to other tokens as well, solidifying their classification as commodities.S-1 Approval Would End Debate for ETH Status
+Digital asset lawyer Justin Browder echoed Seyffart’s sentiment, stating that if Ether ETFs receive S-1 approval, which is the final requirement for them to begin trading, it would settle the debate once and for all, affirming that ETH is indeed not a security.Adam Cochran, a partner at venture capital firm Cinneamhain Ventures, took the argument a step further, suggesting that this line of thinking could be applied to tokens of other projects as well.“ETH is a commodity, even with its current attributes. That means we can extrapolate to *A LOT* of other projects what elements matter in security,” Cochran said.“Today a lot of things probably clearly became commodities, even if they don’t know it yet.”While the approval of spot Ether ETFs reinforces the non-security status of Ether, Seyffart and other experts anticipate that the SEC may still focus on actors involved with staking Ether.Seyffart speculates that the SEC might distinguish between Ether itself, which they would not consider a security, and staked Ether, which could potentially fall under the definition of a security.Digital asset lawyer Joe Carlasare shares this view, suggesting that the SEC could pursue individual actors and staking-as-a-service despite the ETF launch.It’s worth noting that the SEC’s approval order did not explicitly confirm Ether’s non-security status, leading finance lawyer Scott Johnsson to comment that the issue was “completely sidestepped.”However, an official statement from the SEC and its Commissioners is expected to provide more clarity in the future.SEC Approves 19b-4 Applications
+On May 23, the SEC officially approved 19b-4 applications from VanEck, BlackRock, Fidelity, Grayscale, Franklin Templeton, ARK 21Shares, Invesco Galaxy, and Bitwise for issuing spot Ether ETFs.Notably, several ETF issuers removed staking from their final amendments.Hashdex was the only issuer that did not receive regulatory approval on that day.However, all eight approved ETF issuers must await the SEC’s approval of their S-1 registration statements before launching their ETFs.Bloomberg ETF analyst James Seyffart predicts that the S-1 approvals could be granted in a “couple of weeks,” although he acknowledges that the process may take longer, typically spanning up to five months.However, fellow Bloomberg ETF analyst Eric Balchunas believes that a mid-June launch is certainly possible.As reported, Singapore-based QCP Capital believes the approval of spot Ethereum ETFs in the United States could potentially trigger a substantial rally of up to 60% in the price of ETH.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
+
+----------------
+
+Analyst Bets on ADA & AVAX After SEC's Ethereum ETF Approval
+
+
+							
+
+Crypto analyst Dan Gambardello believes ADA is ready for an uptick.
+
+
+
+Gambardello has predicted bullish cases for ADA and AVAX.
+
+
+
+Gambardello states that ADA and AVAX can be the top performing altcoins this cycle.
+
+
+
+
+Dan Gambardello, a leading market analyst and founder of CryptoCapitalVenture, highlighted Cardano (ADA) as a potential beneficiary following the recent U.S. Securities and Exchange Commission (SEC) approval of spot Ethereum exchange-traded funds (ETFs).
+
+
+
+Mr. Gambardello, in an X video, cited Coinbase’s chief legal officer, Paul Grewal, who noted that Ethereum is now classified as a commodity. Mr. Gambardello argued this classification could extend to Cardano, stating:
+
+
+
+
+“ADA has its own narrative I think in terms of the ETFs for being as decentralized as it is for being built in the way that it is. AVAX also has its own narrative, that is to say its own president of Ava Labs is out there fighting for the AVAX ETF.”
+
+
+
+
+Mr. Gambardello expressed his belief that both Cardano and AVAX are “extremely well positioned to be top performers among blue-chip altcoins.” He predicted that ADA will “make its move out of nowhere,” despite currently testing the patience of its holders.
+
+
+
+
+
+
+
+
+
+Additionally, Mr. Gambardello emphasized that the approval of ETH ETFs is a positive development for all altcoin holders, including those of Solana (SOL) and Cardano (ADA). He concluded that the “anti-crypto army” was losing ground.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+The SEC approva gli ETF su Ethereum spot, il prezzo reagisce
+
+La SEC degli Stati Uniti ha finalmente approvato la quotazione degli ETF spot su Ethereum, la notizia ha influito anche sul prezzo della crypto. Inoltre, il responsabile legale di Coinbase afferma che Ethereum è ufficialmente considerato una commodity.
+Let’s see all the details below. 
+
+New ETFs on Ethereum receive the green light from the SEC, how did the price react?
+As anticipated, the Securities and Exchange Commission (SEC) of the United States has approved the requests of Nasdaq, CBOE, and NYSE to list exchange-traded funds (ETF) linked to the price of Ethereum. 
+Thus opening up the possibility that these products will start to be traded by the end of the year. 
+Sebbene gli emittenti di ETF debbano ancora ottenere l’approvazione finale prima del lancio, la decisione rappresenta una vittoria inaspettata per le aziende coinvolte. Infatti, l’intero settore delle criptovalute fino a lunedì temeva un rifiuto della SEC.
+Nine issuers, including VanEck, ARK Investments/21Shares, and BlackRock, hope to launch ETFs linked to Ethereum, the second cryptocurrency by market capitalization. 
+Especially after the approval of the ETF su Bitcoin in January, which marked a crucial moment for the sector. 
+“This is an exciting time for the industry as a whole,” said Andrew Jacobson, vice president and legal head of 21Shares, calling the approval “a significant step” towards trading these products.
+Approval and adjustment of the documents
+Thursday also represented the deadline for the SEC’s decision on VanEck‘s request. Market operators were expecting a rejection, as the SEC had shown no signs of accommodating the applications. 
+Tuttavia, con una mossa sorprendente, lunedì i funzionari della SEC hanno richiesto agli exchange di aggiornare rapidamente i documenti, costringendo l’industria a completare settimane di lavoro in pochi giorni. 
+The sources were unable to determine the reason for this change in position by the SEC. Rob Marrocco, global head of ETP listings at Cboe Global Markets, commented: 
+“The introduction of spot ETFs on bitcoin has already demonstrated significant advantages for digital assets and the ETF space, and we believe that spot ETFs on ether will provide similar protections for U.S. investors.”
+When asked about ether ETFs during an industry event on Thursday, SEC Chairman Gary Gensler, a well-known skeptic of cryptocurrencies, declined to comment. 
+ A spokesperson for the SEC confirmed via email the approval, adding that the agency would not comment further.
+Coinbase: the approval of Ethereum ETFs confirms its status as a commodity
+Dopo l’approvazione degli ETF Spot su Ethereum, il Chief Legal Officer di Coinbase, Paul Grewal, ha dichiarato che Ethereum è effettivamente considerato una commodity. In un post su X, Grewal ha affermato che ETH è una commodity “come l’abbiamo sempre saputa”.
+The approval of the 19b-4 forms for Spot ETFs on Ethereum represents the first steps towards the official approval of all ETFs on ETH. Coinbase, one of the major cryptocurrency exchanges, is a strong supporter of cryptocurrency ETFs. 
+Ethereum will join Bitcoin as the only crypto ETF available on the market, paving the way for additional candidates in the future.
+Now that the Ethereum ETF 19b-4 forms have been approved, the issuers must wait for the approval of their S-1 forms, necessary to publicly offer new securities and start trading. 
+The SEC could take weeks or months to process the S-1 forms, especially if it remains dissatisfied with the ETFs. Experts like Grewal express enthusiasm for this first step towards a broad approval. 
+It is expected that the price of Ethereum will increase significantly, following the example of Bitcoin after the approval of its ETF. At the moment, ETH is traded at over $3,800, up 4% in the last 24 hours and over 25% in the last week.
+
+----------------
+
+Coinbase: il crypto-exchange reintroduces the trading of Ripple (XRP)
+
+Paul Grewal, responsabile legale di Coinbase, ha annunciato che anche per i clienti di New York è tornato ora disponibile il trading di Ripple (XRP) sul crypto-exchange. 
+
+Coinbase: the crypto Ripple (XRP) is available for trading again in New York
+Coinbase has reintroduced the trading of the crypto Ripple (XRP) also for its customers in New York. This was announced by Coinbase’s Chief Legal Officer, Paul Grewal, with a tweet: 
+
+The trading of XRP on @coinbase is available again in New York. We have listened to you and worked closely with the State. And now it can be said that we are operational again.
+Grewal emphasized the collaborative effort with the State to succeed in the endeavor of bringing XRP back among its crypto offerings, even for New York. 
+E dunque, da ora, i residenti potranno tornare a effettuare trading e/o conservare XRP sulla piattaforma web di Coinbase e su tutte le applicazioni mobili iOS e Android. 
+Coinbase: Ripple (XRP) returns to the crypto-exchange after 3 and a half years
+It was January 2021 when Coinbase had officially removed Ripple (XRP) from its crypto-exchange, exactly 3 and a half years ago. 
+ The reason was the endless cause “SEC vs. Ripple” which saw the regulatory body accuse the crypto company of offering unregistered security. 
+Ecco perché Coinbase e altri crypto-exchange come OKCoin, Crypto.com e OSL avevano cominciato il delisting di  XRP dalle loro piattaforme. 
+This is why Coinbase and other crypto-exchanges like OKCoin, Crypto.com, and OSL had started the delisting of  XRP from their platforms. 
+Such operations had led the market cap of what has been for a long time the third crypto in the ranking to collapse. And indeed, in the following months, XRP saw its market cap drop from 70 billion dollars to 29 billion dollars. 
+Despite this decision, Coinbase has always sided in support of the crypto colleague and against the Securities and Exchange Commission of the USA, also filing a motion to support Ripple, which was also accepted by the judge. 
+Only in February 2023, the community started to make itself heard by asking Coinbase to relist XRP, especially after the SEC had officially ruled that sales on the secondary market are not equivalent to securities. 
+Eppure, la causa Ripple vs. SEC ha avuto fine nel luglio 2023, con la vittoria parziale della società crypto e la sentenza ufficiale che XRP non è una security. 
+The price of XRP
+The news of Coinbase resuming the listing of XRP in New York, did not register significant price movements for XRP, at least in the last 24 hours. And indeed, at the time of writing, XRP is worth $0.52 just like yesterday. 
+Eppure, dando uno sguardo ai volumi di scambi di XRP nelle ultime 24 ore, pare ci sia stato un aumento del 106%. 
+In any case, the current seventh crypto in the ranking still holds today a total market cap that is close to 29 billion dollars. 
+
+----------------
+
+Which Cryptos Will Come Along For The Ride?
+
+
+SPONSORED POST*
+Render (RNDR) has seen a major month for its price, as it has gone upwards following Apple’s Keynote Event, on top of which OctaneX was featured. Alongside this, Core (CORE) has also seen a price rally as they introduced Ignition Drop Tier Multipliers and Badges on top of the ecosystem. 
+However, all traders are now moving towards KangaMoon (KANG) as its nearing $7 million raised and has increased in value by 400%. Bitcoin on the other hand has risen in value significantly, and based on the price prediction can reach $123,939 by the end of 2024. To see which crypto can follow in its footsteps, we will take an in-depth look at CORE, RNDR and KANG. 
+
+Core Crypto Spikes 122.6% – Price to Reach $2.77
+Core (CORE) is heading upwards on the charts especially after it introduced the Ignition Drop Tier Multipliers and Badges. The heightened Core crypto circulation could soon result in major price increases as interest and demand in the project increase. 
+Moreover, the Core price has gone up 122.6% on the annual chart, and the MACD data points to future upwards momentum as-well. According to the Core price prediction it can end 2024 at $2.77, making it the best cryptocurrency to invest in.
+Render (RNDR) Climbs 363.8% YTD – How Far Can It Climb?
+Render (RNDR) on the other hand has seen a major 363.8% year-to-date (YTD) climb, and spiked 22% in the past month alone. The key catalyst for this major level of the growth in the Render crypto value is due to OctaneX getting featured on Apple’s Keynote Event. This way, any user with M4 chips can gain access to near-unlimited high performance decentralized GPU compute power through its ecosystem. 
+The Render price could see an even further uptrend during the upcoming trading sessions as its RSI is above 50, and according to the Render price prediction the crypto can end 2024 at $14.56, positioning it as a solid crypto to buy.
+KangaMoon Price Jumps 400% – To Climb 100x Following Its Launch
+KangaMoon (KANG) breaks the mold of traditional meme coins through forging a powerful fusion between Play-to-Earn (P2E) gaming, Social-Fi mechanics, and its native KANG token. Here, it provides major utility to its native crypto, and this differentiates it from otherwise hype-driven projects. It has captured the attention of over 32,000 users, raising over $6.9 million with projections that it can exceed $7 million by the end of the month. The KANG token is now listed on CoinMarketCap and CoinGecko, which can drive interest further, alongside its anticipated BitMart listing.
+The unique Social-Fi model also incentivizes pre-launch social media engagement and fosters strong community engagement as the most active users get rewards in the form of KANG tokens. Moreover, the project also establishes a sustainable economic model, positioning KANG as a top contender for diversification. Historically, the value of the crypto has risen from $0.005 to $0.025, a climb of 400%, and according to analysts, following its launch and major exchange listings it can rise by 100x, positioning it as the best cryptocurrency to invest in.
+Which Crypto Will Follow BTC’s Momentum?
+It’s clear that both Core and Render have showcased remarkable growth on the charts. Yet, the most significant gains have been made by the KangaMoon token as it’s up 400% and this has made it a top crypto to buy. At this rate of growth it is likely to follow in the footsteps of BTC, which could reach $100,000 soon. 
+Discover the Exciting Opportunities of the KangaMoon (KANG) Presale Today!
+Website: https://Kangamoon.com/
+Join Our Telegram Community: https://t.me/Kangamoonofficial
+*This article was paid for. Cryptonomist did not write the article or test the platform.
