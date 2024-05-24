@@ -1,257 +1,3 @@
-Alex Labs Recovers $3.9 Million in Crypto from BNB Smart Chain Bridge Exploit
-
-
-
-                    
-
-Bitcoin layer-2 developer Alex Labs has successfully frozen over $3.9 million worth of cryptocurrency exploited from its BNB Smart Chain bridge, according to a May 16 social media post. 
-
-
-
-The team stated that the attacker sent the funds to various centralized exchanges (CEXs), enabling the funds to be frozen with the cooperation of these exchanges.
-
-
-
-
-The team announced that it recovered the entire balances for 17 different tokens, including “all aBTC, sUSDT, xBTC, xUSD, ALEX, atALEX, LiSTX, LUNR, SKO, CHAX, $B20, ORDG, ORMM, ORNJ, TRIO, TX20 and STXS.”
-
-
-
-Additionally, $13.7 million worth of Stacks (STX) tokens were exploited. Of these, the attacker mistakenly sent “about 3 million” to centralized exchanges. 
-
-
-
-A linked spreadsheet shows STX balances at each exchange used by the hacker, revealing that $3.7 million is held at exchanges, while $9.6 million remains in wallets under the attacker’s control.
-
-
-
-The attacker accessed the funds by taking control of a private key linked to one of the bridge’s “vaults.” 
-
-
-
-However, “The smart contract code and infrastructure underlying ALEX were not compromised,” the team asserted.
-
-
-
-Alex Labs has offered a 10% bounty to the attacker and a promise not to prosecute if they return 90% of the stolen funds. 
-
-
-
-READ MORE: Param Labs Raises $7 Million to Revolutionize Web3 Gaming Infrastructure
-
-
-
-
-They are also preparing a police report to be filed if negotiations fail.
-
-
-
-Given the possibility that not all funds will be recovered, the team is “evaluating deployment of $ALEX reserves held by ALEX Lab Foundation.” 
-
-
-
-
-These reserves may support a “treasury grant program” to compensate users who lost funds in the attack.
-
-
-
-Due to the significant amount of STX tokens exploited, the team may propose a Stacks network upgrade to freeze the remaining funds and mint new tokens for the victims.
-
-
-
-Network upgrades to freeze an attacker’s coins are rare but not unprecedented. Similar actions were taken during the 2016 Ethereum DAO hack and the PopcornSwap rug pull on the BNB Smart Chain. 
-
-
-
-However, such upgrades are rarely approved, and in the PopcornSwap case, the upgrade froze funds but did not reimburse investors.
-
-
-
-Alex Labs stated it continues to monitor the attacker’s addresses with “multiple alarms” to prevent further cash outs.
-
-
-
-Recently, Alex Labs is not the only Bitcoin layer-2 bridge attacked. On May 17, the XLink bridge was also compromised, losing $10 million. 
-
-
-
-A white-hat hacker managed to recover $4.3 million of the stolen funds. 
-
-
-
-The XLink attack mirrored the one against Alex, with the attacker using a phishing technique to obtain the team’s private key for unauthorized withdrawals.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-XRP's rally hits major roadblock: What will the altcoin do now? - AMBCrypto
-
-
-
-XRP tumbled as Ripple moved 50 million tokens, causing a market stir.
-The overall market sentiment for XRP is mixed, with neither the bulls nor the bears in control.
-
-Ripple’s [XRP] recent price surge hit a wall, leaving investors questioning what’s stalling its momentum. The cryptocurrency saw a promising 6% rise yesterday but has decreased by 2% today. 
-What exactly is dragging XRP down?
-Why is XRP down today?
-Recent data from the blockchain tracker Whale Alert revealed a massive transfer of 50 million XRP tokens from Ripple Labs Inc. to an unknown wallet valued at approximately $25.7 million. 
-This large-scale movement follows another huge transaction last week, in which over 100 million XRP were sent to an external wallet.
-Typically, these Ripple dumps tend to shake XRP’s price negatively. This is because they increase the supply of XRP in the market, which can lead to downward pressure on the price if demand remains constant. 
-And it has — XRP crossed the $0.55 threshold less than 24 hours ago, but the token is worth $0.53 at press time.
-What does the market tell us?
-AMBCrypto’s look at Coinglass’ data revealed that XRP’s trading volume has increased slightly by 3.68%, totaling $1.41 billion, indicating a moderate rise in trading activity. 
-However, Open Interest has decreased by 2.93%. This decrease suggested a slight cooling off in market enthusiasm or a consolidation phase.
-Source: Coinglass
-The Long/Short Ratio across platforms showed a mix of bullish and bearish sentiments. These mixed signals suggested a cautious sentiment among traders and investors.
-The contrast in Long/Short Ratios imply that while some top traders are bullish, the broader market remains divided. If the top traders’ bullish bets prove correct, we might see an upward price movement for XRP.
-Meanwhile, AMBCrypto’s look at the social sentiment data revealed that the Ripple Fear and Greed Index stood at 54% at press time, which indicated a neutral market sentiment for XRP.
-Source: CFGI
-
-Is your portfolio green? Check out the XRP Profit Calculator
-
-Investors might consider maintaining their positions as suggested by the index’s “Hold On” investment suggestion while keeping an eye on the volume dynamics, order book conditions, and whale activities. 
-These factors could shift the market sentiment quickly either way.
-
-
-
-
-
-
-----------------
-
-Dogecoin ETFs Move To The Fore: Can Positive Sentiment Drive It To $0.35? | Bitcoinist.com
-
-
-								The idea of a Dogecoin (DOGE) exchange-traded fund (ETF) has been raised again. This is partly due to the positive sentiment around a potential approval of the Spot Ethereum ETFs, which crypto experts believe could open the door for other crypto funds. 
-The Odds For A Dogecoin ETF Are “Brighter Than Ever”
-Crypto venture capitalist (VC) Andrew Kang mentioned in an X (formerly Twitter) post that “the odds for a DOGE ETF look brighter than ever,” with regulatory clarity for the crypto industry looking to be imminent. Kang was referring to the Financial Innovation and Technology for the 21st Century (FIT21) bill, which aims to bestow crypto regulation upon the Commodity Futures Trading Commission (CFTC). 
-
-This isn’t the first time Kang has discussed the possibility of a Dogecoin ETF being approved. In March, the crypto expert mentioned that there was a 30% chance that an investment fund related to the foremost meme coin would be eventually approved. He alluded to the recent regulatory developments as a reason why he had such hopes. 
-Furthermore, he highlighted Donald Trump winning the presidency and Dogecoin being the “most decentralized” altcoin as factors that could aid in approving a DOGE ETF. Meanwhile, in January, he mentioned that Dogecoin is one of the biggest market cap coins that has never had a presale and has never been considered a security, which is why it deserved its own ETF. 
-Kang also looks more confident about a Dogecoin ETF being approved thanks to the recent development, which shows that the SEC will likely approve the Spot Ethereum ETFs. He mentioned in a recent X post that “it is possible that an ETH ETF approval is not just an isolated event” but a first step of a “complete U-Turn” in the government’s anti-crypto stance. 
-Crypto expert Anthony Pompliano also believes that a Spot Ethereum ETF approval could be the beginning of great things for the crypto industry. He stated in an X post that “they are approving the entire industry” if they approve the Ethereum ETF. “This is the last dam to be broken,” he claimed. 
-This Positive Sentiment Can Drive DOGE To New Highs
-There is no doubt that Dogecoin’s price could rise to new highs if the launch of a Dogecoin ETF becomes feasible. It has become evident how positively a crypto’s price can react just to the hype around the potential approval of an ETF, as seen with Bitcoin’s price before when the Spot Bitcoin ETFs were approved. 
-
-More recently, Ethereum’s price rallied on news that the SEC had made a U-turn and was willing to approve the Spot Ethereum ETFs. Therefore, DOGE’s price can be expected to experience a significant price surge if an application is made to the SEC to launch a Dogecoin ETF. 
-DOGE price at $0.16 | Source: DOGEUSDT on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Venezuela Bans Crypto Mining Amid Power Supply Concerns and Anti-Corruption Efforts
-
-
-
-                    
-
-The Venezuelan government has joined the ranks of countries that have opposed crypto mining due to its significant electricity consumption.
-
-
-
-A local news outlet reports that Venezuela’s Ministry of Electric Power plans to disconnect cryptocurrency mining farms from the national grid. 
-
-
-
-
-This initiative aims to regulate excessive energy use and ensure a stable power supply for the population.
-
-
-
-An X post from Venezuela’s National Association of Cryptocurrencies confirmed that crypto mining is now prohibited in Venezuela.
-
-
-
-This development follows a recent crackdown in which authorities confiscated 2,000 cryptocurrency mining devices in Maracay as part of an anti-corruption effort.
-
-
-
-The ministry highlighted the necessity of providing efficient and reliable electrical service across Venezuela by reducing the strain from high-energy-consuming mining farms. 
-
-
-
-Officials argue that these measures are crucial to stabilizing the national power supply, which has been inconsistent for the past decade.
-
-
-
-Venezuela has faced recurring blackouts, especially since 2019, severely affecting residents’ daily lives and the broader economy.
-
-
-
-Cryptocurrency mining’s heavy electricity demands have prompted other countries, such as China and Kazakhstan, to enforce strict regulations or bans on the practice.
-
-
-
-
-READ MORE: Notorious Crypto Drainer Pink Drainer Retires After Stealing Over $85 Million
-
-
-
-The Venezuelan government’s action against cryptocurrency mining is part of a broader anti-corruption campaign, which has resulted in the arrest of several top officials. 
-
-
-
-
-Joselit Ramírez, the former head of the National Superintendency of Cryptoassets, is a central figure in these corruption allegations.
-
-
-
-Rafael Lacava, the governor of Carabobo state, has emphasized the importance of public cooperation in identifying illegal mining operations, urging citizens to report any illicit activities.
-
-
-
-This is not Venezuela’s first measure against crypto mining. 
-
-
-
-In March 2023, the country’s energy supplier shut down crypto mining facilities nationwide as part of corruption investigations involving the state oil company.
-
-
-
-At that time, Venezuela’s attorney general, Tarek William Saab, revealed that government officials were allegedly conducting parallel oil operations with the help of the national crypto department.
-
-
-
-In 2023, eight major cryptocurrency mining operators in Kazakhstan sent an open letter to President Kassym-Jomart Tokayev, complaining about high energy prices for crypto miners.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-AMD Chips Can Now Do The AI Work That Nvidia Tech Does - Decrypt
-
-Lately, it seems like it's Nvidia world, and everyone—and certainly anyone in tech and the explosive AI industry—is living in it. Between its well-timed market entry, leading-edge hardware research, and a robust software ecosystem tailored for its GPUs, the company dominates AI development and the stock market. Its latest earnings report late today revealing that quarterly sales tripled, boosting its share price even higher.Nonetheless, long-time rival chipmaker AMD is still pushing hard to establish a foothold in AI, telling the builders behind the key technologies in the nascent space that they can also do their work on AMD hardware."I just wanted to remind everybody that if you're using PyTorch, TensorFlow or JAX, you can use your notebooks or scripts, they'll just run on AMD,” declared AMD senior director Ian Ferreira at the Microsoft Build 2024 conference earlier on Wednesday. “Same with inferencing engines. BLLM and Onyx also work out of the box."The company used its time on stage to show examples of how AMD GPUs can natively run powerful AI models like Stable Diffusion, and Microsoft Phi, efficiently performing computationally-intensive training tasks without depending on Nvidia's technology or hardware.Conference host Microsoft bolstered the message by announcing the availability of AMD-based virtual machines on its Azure cloud computing platform, using the company's accelerated MI300X GPUs. The chips were announced last June, began shipping in the new year, and were recently implemented in Microsoft Azure's OpenAI service and Hugging Face's infrastructure.ML Libraries Supported by AMD. Image: Microsoft. YoutubeNvidia's proprietary CUDA technology, which includes a full programming model and API designed specifically for Nvidia GPUs, has become the industry standard for AI development. AMD's main message, therefore, was that its solutions could slot right into the same workflows.Seamless compatibility with existing AI systems could be a game-changer, as developers can now leverage AMD's less costly hardware without overhauling their codebase.“Of course, we understand that you need more than just frameworks, you need a bunch of upstream stuff, you need a bunch of experimentation stuff, distributed training—all of that is enabled and works on AMD,” Ferreira assured.He then demonstrated how AMD handles different tasks, from running small models like ResNet 50 and Phi-3 to fine tuning and training GPT-2—all using the same code that Nvidia cards run.Image: Microsoft. YoutubeOne of the key advantages AMD touted is the ability to handle large language models efficiently.“You can load up to 70 billion parameters on one GPU, with eight of those on this instance,” he explained. “You can have eight different llama 70B's loaded, or take a big model like Llama-3 400Bn and deploy that on a single instance.”Challenging Nvidia's dominance is no easy feat, as the Santa Clara, Calif.-based company has fiercely protected its turf. Nvidia has already taken legal action against projects attempting to provide CUDA compatibility layers for third-party GPUs like AMD's, arguing that it violates CUDA's terms of service. This has limited the development of open-source solutions and made it harder for developers to embrace alternatives.AMD's strategy to circumvent Nvidia's blockade is to leverage its open-source ROCm framework, which competes directly with CUDA. The company has been making significant strides in this regard, partnering with Hugging Face, the world's largest repository of open-source AI models, to provide support for running code on AMD hardware.This partnership has already yielded promising results, with AMD offering native support and additional acceleration tools like ONNX models execution on ROCm-powered GPUs, Optimum-Benchmark, DeepSpeed for ROCm-powered GPUs using Transformers, GPTQ, TGI, and more.Ferreira also pointed out that this integration is native, eliminating the need for third-party solutions or middlemen that could make processes less efficient.“You can take your existing notebooks, your existing scripts, and you can run them on AMD, and that's important, because a lot of the other accelerators require transcoding and all kinds of pre-compiling scripts,” he said. “Our stuff just works out of the box—and it's really, really fast.”While AMD's move is undoubtedly bold, dethroning Nvidia will be a considerable challenge. Nvidia is not resting on its laurels, continuously innovating and making it difficult for developers to migrate to a new infrastructure from the de-facto CUDA standard.However, with its open-source approach, strategic partnerships, and a focus on native compatibility, AMD is positioning itself as a viable alternative for developers seeking more options in the AI hardware market.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
 PEPE's 175% Rally Continues, Will It Reach 200%? Bitcoin (BTC) Loses $70,000 Again, For How Long? Is Solana (SOL) Entering Correction?
 
 
@@ -9110,3 +8856,288 @@ Featured image from Maxim Hopman on Unsplash.com, CryptoQuant.com, chart from Tr
 Ethereum Classic, Often Considered A Cheaper Play, Outshines ETH On Spot ETF Approval Day: What's Going On? - Benzinga
 
 On a day when the first-ever Ethereum ETH/USD spot ETFs have been approved in the U.S., Ethereum Classic ETC/USD seems to be stealing the spotlight from its sister chain.What Happened: Ethereum Classic racked up gains of nearly 9% in the last 24 hours, according to data from Benzinga Pro, positioning itself as the marker's second-best performer. Counterintuitively, Ethereum was trading at just a 1.56% premium, despite a major bullish trigger in the form of its spot ETFs approval by the SEC earlier today. ETC's trading volume also swelled, more than tripling in the last 24 hours to over $1.5 billion. Ethereum’s volume increased by only 85% in contrast, although overall volumes remained much larger because of the higher market cap.ETC's current performance was reminiscent of its moves following Bitcoin BTC/USD spot ETF approvals earlier this year.Why It Matters: The original Ethereum Chain was split into two separate blockchains back in 2016 over disagreements within the community following a hack. The newer chain inherited the name Ethereum as we know it, with ETH as its token, while the immutable original chain was renamed Ethereum Classic, with ETC as a token.Ethereum Classic was created as a hard fork of the original Ethereum chain back in 2016 over disagreements within the community following a hack. The new chain inherited the name Ethereum as we know it, while the original one functions as Ethereum Classic.While fundamentally different from each other, a lot of retail investors perceive ETC to be a cheaper alternative to ETH. ETH's market cap of $4.84 billion was a fraction of Ethereum's whopping $454 billion valuation.A widely-followed X user Eugene Ng Ah Sio, recently picked ETC as the beta for Ethereum owing to specific advantages like less inflation, no unlocks, and a halving which was due in a week. Photo Courtesy: Shutterstock.comPrice Action: At the time of writing, ETC was trading at $32.86, up 8.85% in the last 24 hours, according to data from Benzinga Pro. Read Next: Bitcoin, Dogecoin Dip, Ethereum Shows Momentum On Approval Of Ether Spot ETFs, Analyst Expresses Confidence In King Crypto’s Rebound
+
+----------------
+
+Gold Rush: Private Investors and China's Central Bank Drive Record Price Surge | Cryptoglobe
+
+
+                                
+Gold market analyst Jan Nieuwenhuijs has recently examined the state of the precious metal market, revealing a significant surge in gold prices owes much to the dual engines of demand: the private market and the People’s Bank of China (PBOC).
+
+
+
+According to Nieuwenhuijs, the Chinese private sector’s gold imports accounted for 543 tons in the first quarter of the year, a figure that was built upon by the country’s central bank, which added 189 tons to its reserves over the same period.
+
+
+
+Private gold demand in the country represents a start 74% increase from the last quarter of 2023, while the People’s Bank of China’s accumulation rose 38% from the preceding quarter.
+
+
+
+Both of these factors helped the price of the precious metal hit a new all-time high and surpass the $2,450 mark for the first time in history, before enduring a slight correction to now trade at $2,340.
+
+
+
+IMG
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+Data shows that gold demand from central banks in the first quarter of the year was of 290 tons, with the People’s Bank of Chia making up for the majority of that figure as it boosted its reserves to 5,542 tons according to the analyst.
+
+
+
+These acquisitions, according to analysts, are being made as China moves away from its U.S. debt holdings in a bid to be less reliant on fiat currency foreign reserves after the European Union blocked €200 billion ($around $216 billion) worth of Russian central bank assets after the country launched its invasion of Ukraine.
+
+
+
+Private demand for gold in the country, according to the New York Times, is coming from consumers who have been buying and collecting small “gold beans” as an affordable way to invest in the precious metal.
+
+
+
+In China the precious metal has been an attractive investment alternative amid a slump in traditional options like real estate and equities. The analyst wrote:
+
+
+
+The Chinese public, which doesn’t have many investment options due to capital controls, will continue to invest in gold and support the price.
+
+
+
+Nieuwenhuijs predicts that the gold market will remain red-hot, citing reports that Beijing has recently sold $53 billion worth of US Treasuries and agency bonds in a move that will further strengthen gold as a safe haven amid rising geopolitical tensions.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+Failure to Present Binance Executive for Arraignment: FIRS Shifts Blame to Correctional Service
+
+
+																The Nigerian Federal Inland Revenue Service (FIRS) has pointed fingers at the Nigerian Correctional Service for failing to produce detained Binance executive Tigran Gambaryan at the Federal High Court in Abuja on tax evasion charges.
+Reportedly, Gambaryan was a no-show in court on May 22, slated for arraignment on tax evasion accusations by the FIRS.
+FIRS Points Finger at Correctional Service
+In March 2024, Binance and its executives faced four counts of tax evasion each, as charged by the tax authority. Gambaryan was then moved to Abuja’s Kuje Correctional Centre in April after pleading not guilty to money laundering charges filed by the Economic and Financial Crime Commission and seeking bail. The Binance exec was denied bail and remains in custody.
+During court proceedings on Wednesday, prosecution counsel Moses Idehu expressed confusion about Gambaryan’s absence and mentioned several instances of unsuccessful attempts to reach the correctional center. He also requested a brief delay in the case to address the matter later that day.
+Meanwhile, Gambaryan’s lawyer, Chukwuka Ikwuazo, asked the judge to tell FIRS to take another detained Binance exec Nadeem Anjarwalla’s name off the new charges because he’s been declared “at large.” The FIRS lawyer also agreed to remove Anjarwalla’s name from the charges.
+
+
+
+
+Both Gambaryan and Anjarwalla were arrested during a public inquiry and were charged with involvement in Nigeria’s economic problems and funding terrorism. The duo were transferred to a secure facility after their passports were seized.
+Dangerous Precedent
+While advocating for the release of Gambaryan, who was head of Binance’s Financial Crime Compliance team, the CEO of the cryptocurrency exchange, Richard Teng said that the move by the Nigerian authorities has set a “dangerous” new precedent for all companies across the world.
+Teng had also added that Gambaryan’s visit to Nigeria was not for decision-making or negotiations but solely to provide expertise in financial crime, participating in policy discussions, and capacity building. Despite repeated assurances from Nigerian authorities for safe passage, the arrests were still made.
+Subsequently, Gambaryan was held at Nigeria’s Kuje prison, which gained notoriety after an Islamic State attack in July 2022 as part of a jailbreak. It has even housed several prominent inmates, including the former central bank governor, Godwin Emefiele.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Ethereum Spot ETF's Approval Highlights Its 'World Of Warcraft' Origins: Created Because A Character Had Its 'Warlock Powers Nerfed' - Benzinga
+
+The cryptocurrency industry might be celebrating the greenlighting of the first-ever spot Ethereum ETH/USD ETFs in the U.S., but very few of them might be aware of the amusing origin story of the world's second-largest digital asset project. What Happened: Ethereum's creator and one of the poster boys of the industry, Vitalik Buterin, has been a lifelong advocate of decentralized systems—the technology forming the basis of cryptocurrencies and blockchains. But as eccentric or funny as it may sound, his closeness with the narrative began in his school days, when he was a passionate World of Warcraft gamer. Trung Phan, who co-hosts the Not Investment Advice podcast and authors the SatPost newsletter, posted on X, formerly Twitter, about the events from those days."I happily played world of warcraft during 2007-2010, but one day blizzard removed the damage component from my beloved warlock's siphon life spell," Buterin wrote. This very event proved to be the turning point in his career. "I cried myself to sleep, and on that day I realized what horrors centralized services can bring. I soon decided to quit."Why It Matters: This incident may appear frivolous, but there's no denying the fact that it unintentionally paved the way for one of the most disruptive technologies in the world.Ethereum today is one of the world's most-invested projects, with a total locked value of more than $65 billion, according to DeFiLlama. Furthermore, it is the second-largest cryptocurrency in the world, with a market cap higher than top-tier public companies like Mastercard and Oracle.Earlier today, it reached a new milestone after getting approval to list its spot ETFs in the U.S., the world's largest financial market.While Ethereum may continue to increase its footprints in the near future, it won't be surprising to see the World of Warcraft story getting a legend status within the industry. Price Action: At the time of writing, ETH was trading at $3,800.76, following a 1% increase in the last 24 hours, according to data from Benzinga Pro. Photo by Kanchanara on UnsplashRead Next: Ethereum Classic, Often Considered A Cheaper Play, Outshines ETH On Spot ETF Approval Day: What’s Going On?
+
+----------------
+
+All Spot Ethereum ETFs Officially Approved
+
+
+
+	
+
+Key Points:
+
+
+
+
+US SEC approves Spot Ethereum ETFs.
+
+
+
+Approval expands institutional access to Ethereum.
+
+
+
+Issuers await clearance for Ether-based ETFs.
+
+
+
+
+The SEC has approved the issuance of Spot Ethereum ETFs, expanding access to the world’s second-largest cryptocurrency. Several issuers await clearance of their individual filings.
+
+
+
+
+
+The US Securities and Exchange Commission has cleared the path to allow the issuance of Spot Ethereum Exchange-Traded Funds (ETFs), a major development in the nation’s crypto landscape. The decision arrives within five months of the SEC’s clearance of Spot Bitcoin ETFs.
+
+
+
+SEC Approves All Spot Ethereum ETFs
+
+
+
+Spot Ethereum ETFs stand as the second crypto-based ETF cleared by the SEC, paving the way for expanded access to the world’s second-largest cryptocurrency by market capitalization for institutions.
+
+
+
+Watcher.Guru recently reported that BlackRock’s Spot Ethereum ETF has been registered with the DTCC under the ticker ETHA.
+
+
+
+
+
+
+Although the initial decision was to put off the approval due to the earlier negative sentiment toward cryptocurrencies, the SEC has expanded the ETF market to include both Bitcoin and Ethereum. However, issuers would need to wait for the clearance of their individual filings.
+
+
+
+The market was expecting the introduction of another cryptocurrency following the approval of the Spot Bitcoin ETFs at the start of 2024. Predictions were most pegged on Ethereum. However, the overall sentiment of the SEC dampened such optimism.
+
+
+
+Impact of SEC’s Decision on Crypto Market
+
+
+
+In mid-May, a surprise move by Bloomberg shifted the approval odds from 25% to 75%. The market began readying itself for the introduction of an Ethereum-based investment product.
+
+
+
+The approval of Spot Ethereum ETFs by the SEC now means the United States hosts crypto-based ETFs for the two largest digital assets worldwide. The move greatly impacts reshaping the nation’s stance on such assets.
+
+
+
+
+
+Several issuers, including VanEck, ARK21 Shares, Hashdex, Invesco Galaxy, Franklin Templeton, Fidelity, and BlackRock, have applied for the listing of Ether-based ETFs. Among these, VanEck is facing the most imminent deadline for approval.
+
+
+
+Readmore: Powerful Bipartisan Support For Crypto In Congress, Says Senator Lummis
+
+
+
+Ethereum’s Potential Market Trajectory
+
+
+
+The issuers now only await the clearance of their S-1 forms after the SEC has approved the Ethereum ETF 19b-4 forms. The SEC may require more time to process each filer, especially if the regulator retains any skepticism towards the Ethereum ETFs.
+
+
+
+The effect these developments will have on the markets remains to be seen. In the three months after Bitcoin’s listing, the asset would go on to realize an all-time high. 
+
+
+
+
+Many have said that Ethereum will follow the same trajectory, as the ETF anticipation has already propelled the asset nearly 30% over the last week.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 14 times, 14 visit(s) today
+
+	
+	
+
+
+
+	
+
+----------------
+
+Spot Ethereum ETF Decision Approved Is Not By SEC Chair - Coincu
+
+
+
+	
+
+Key Points:
+
+
+
+
+The SEC’s Division of Trading and Markets approved spot Ethereum ETFs for several major financial firms.
+
+
+
+Bloomberg ETF analyst James Seyffart noted that the spot Ethereum ETF decision using delegated authority is standard practice.
+
+
+
+
+The Securities and Exchange Commission’s (SEC) Division of Trading and Markets has approved a series of spot Ethereum exchange-traded funds (ETFs) from prominent financial firms, including BlackRock, Fidelity, Grayscale, Bitwise, VanEck, Ark, Invesco Galaxy, and Franklin Templeton.
+
+
+
+
+
+Spot Ethereum ETF Decision Made Using Delegated Authority
+
+
+
+The spot Ethereum ETF decision, outlined in an order approving 19b-4 forms, was made by the division rather than the SEC’s commissioners.
+
+
+
+The order clarifies that the approval was granted “by the Division of Trading and Markets, pursuant to delegated authority,” indicating that SEC Chair Gary Gensler and the four other commissioners did not directly vote on this matter. Bloomberg ETF analyst James Seyffart noted that using delegated authority for such spot Ethereum ETF decisions is standard practice, explaining that requiring a formal vote for every decision would be impractical.
+
+
+
+This procedural approach contrasts with the approval process for spot Bitcoin ETFs earlier this year, which involved a formal vote by the commissioners. In that instance, Gensler and Republican Commissioners Hester Peirce and Mark Uyeda voted in favor, while Democratic Commissioners Jaime Lizárraga and Caroline Crenshaw opposed. The SEC has stated it will not comment further on the Ethereum ETFs beyond the issued order.
+
+
+
+
+Regulatory Uncertainty Surrounds Ether’s Classification as a Security
+
+
+
+The approval of these ETFs may have broader policy implications. SEC Chair Gensler has not clearly defined whether Ether is a security, raising concerns among crypto enthusiasts about the regulatory future for Ethereum and related projects. A critical issue is staking, which involves earning rewards for participating in network validation and has led to debates about Ether’s classification as a security. Last year, the SEC accused Coinbase of violating securities laws by offering staking services.
+
+
+
+In contrast, the Commodity Futures Trading Commission (CFTC), which oversees derivatives, does not view Ether as a security and has permitted trading in Ether futures by CME Group for several years.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 26 times, 26 visit(s) today
+
+	
+	
+
+
+
+	
