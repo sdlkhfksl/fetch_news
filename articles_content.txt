@@ -1,325 +1,3 @@
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Zeta Markets unveils appchain ZX built on Solana infrastructure - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-S. Korean Police Arrest 19 in ‘Reading Room’ Crypto Fraud Bust
-
-
-                        
-                            South Korean Police Arrest 19 in ‘Reading Room’ Crypto Fraud Bust                        
-                        
-    
-                        
-                    
-                    
-                        
-                        
-                                                            Last updated:
-                                                        
-                              May 23, 2024 19:30 EDT                            
-                                                             | 2 min read                                                    
-                    
-                
-            
-
-    
-
-
-                        South Korean police have arrested 19 people on fraud charges in a swoop on a social media “crypto reading room.”Police think the international gang ran an “open chat room,” likely a crypto Telegram group or a KakaoTalk open chat, which pretended to offer bona fide crypto trading tips.Instead, officers said, the gang “defrauded 308 investors” out of some $18.8 million.Reading Room – ‘Crypto Fraud Gang Preyed on Victims’
-Police spokespeople said some gang members posed as crypto experts in chat groups. Others pretended to be ordinary investors.These members allegedly claimed to have made money by following tips they learned in the “reading room.”Per Global Kyungjae Shinmun, the Daegu Police Agency’s criminal task force announced it had made the arrests on May 21.However, the task force thinks at least six suspects are still at large. Police said these individuals are “still overseas.”The task force said it had asked Interpol to issue red notices for all six. This would require overseas police officers to arrest the suspects on sight.Police said the group sent out invitation links to “an open chat room,” hoping to ensnare potential victims.This room, police added, was populated with gang members who claimed they had made “big profits” by following advice posted in the room.A police station in Daegu, South Korea. (Source: hyolee2 [CC BY-SA 3.0])Victims Lured onto Bogus Crypto Exchanges, Say Police
-Officers explained that the gang tried to convince room members to download apps connected to crypto exchanges, where they could buy and sell unlisted coins.The group then tried to build trust by ensuring potential victims made moderate gains when they invested minimal amounts of money in these allegedly bogus platforms.In many cases, this convinced victims to increase the value of their stakes. However, when victims tried to make withdrawals from the platforms, gang members told them to pay “withdrawal fees.”When they refused, the gang members would then break off contact, police officers explained. The task force said it was trying to locate the stolen funds.‘Gang Used Pig-butchering Tactics’
-Police said the gang’s ringleader used so-called “pig-butchering” recruitment tactics to increase the size of the gang.Officers said the ringleader promised several individuals employment in Myanmar. When they arrived in the country, however, the ringleader allegedly stole their passports and cell phones – and forced them to join the ring.The media outlet quoted a lawyer named Kwak Joon-ho as saying:“There has been a sharp rise in fraudulent schemes that make use of open chat rooms, including reading rooms. Perpetrators are likely to face both fraud and organized crime charges.”Earlier this week, police in Gwangju arrested 28 people on suspicion of duping about 50 crypto-keen South Koreans out of $1.3 million.                                                    
-                        	                                            
-                        
-                        
-                    
-
-                    
-
-----------------
-
-Megaphone
-
-
-
-----------------
-
-Dfinity's new API boosts Internet Computer smart contracts with cross-chain prowess
-
-Dfinity Foundation has introduced a new API called EVM RPC to enhance cross-chain interoperability for Internet Computer (ICP)  smart contracts, according to a May 23 press statement shared with CryptoSlate.EVM RPC allows ICP smart contracts to read and write on any Ethereum Virtual Machine-compatible chain, such as Optimism, Arbitrum, and Base, without relying on intermediaries. The API also supports the Bitcoin blockchain and will soon expand to Solana.This API simplifies multi-chain dApp development and eliminates the need for bridges and wrapped tokens. It allows native chain interactions and liquidity facilitation through the network API keys.Dfinity highlighted the significance of this innovation, stating:“This way, DFINITY’s Chain Fusion technology enables true multi-chain interoperability, allowing developers to write a single ICP smart contract that can custody Bitcoin, for example, and programmatically trigger sending it based on events observed on an Ethereum DeFi smart contract.”Interoperable stablecoinDfinity Foundation explained that the new API has facilitated the deployment of ckUSDC, an interoperable stablecoin pegged 1:1 to Circle’s USDC stablecoin, on the ICP network.USDC is the second-largest stablecoin with a market capitalization of $32.83 billion, according to CryptoSlate’s data.The ckUSDC token, a multi-chain “twin” of USDC, leverages chain-key cryptography and ICP smart contracts that directly hold original assets. It operates similarly to ICP’s other inter-ecosystem tokens, like ckBTC and ckETH.Since its launch, ckUSDC has gained traction with notable projects such as IC Lighthouse, ICPSwap, and Helix Markets, reflecting growing demand for this type of token.Lomesh Dutta, DFINITY’s Growth President, remarked that the launch of ckUSDC and the new read/write APIs will foster further development within ICP’s ecosystem. He said:“With the addition of ckUSDC and read/write APIs, dozens of different chains can now leverage ICP smart contracts to freely interact with other networks, making the Web3 ecosystem massively more interoperable and unified.”Mentioned in this articleLatest Internet Computer StoriesLatest Alpha Market Report
-
-----------------
-
-US court rules crypto influencer conducted unregistered offering of crypto asset securities
-
-the U.S. District Court for the Western District of Texas granted partial summary judgment in favor of the Securities and Exchange Commission (SEC) against crypto influencer Ian Balina.The court ruled that Balina offered and sold SPRK Tokens as securities in unregistered transactions, affirming that US securities laws apply to his activities.SPRK deemed securityThe SEC’s complaint, filed on Sept. 19, 2022, alleged that Balina purchased $5 million worth of SPRK tokens from Sparkster, Ltd. in May 2018. He then allegedly organized an investment pool of about 68 individuals, to whom he offered and sold SPRK tokens without registering the offering with the SEC as mandated by federal securities laws.The SEC also claimed that Balina promoted SPRK tokens on YouTube, Telegram, and other social media platforms from May to July 2018 without disclosing a 30 percent bonus provided by Sparkster as compensation for his promotional efforts.The SEC charged Balina with violating the offering registration provisions of Sections 5(a) and 5(c) of the Securities Act of 1933 and with violating Section 17(b) of the Securities Act for failing to disclose consideration received for his promotions.The regulator had sought partial summary judgment on the unregistered offering violation and requested a ruling that SPRK Tokens were offered and sold as securities.Alongside its charges, the SEC also issued a cease-and-desist order against Sparkster Ltd. and its CEO, Sajjad Daya. The company contributed over $35 million to a fund for harmed investors and paid various other fees and penalties.Promotion charges remainThe SEC additionally alleged that Balina promoted SPRK tokens on YouTube, Telegram, and social media between May and July 2018. He allegedly failed to disclose that Sparkster Ltd. offered him a 30% bonus on his token purchases in exchange for his promotions.The promotional charges fall under Section 17(b) of the Securities Act.Balina moved for summary judgment on both SEC claims. The court denied his requests and did not decide on Section 17(b) claims as a matter of law, leaving the promotional charges in play.Latest Alpha Market Report
-
-----------------
-
-Is This MEV Trading Firm Responsible For Ethereum's Drop Below $3,800?
-
-
-								Ethereum is firm, trending higher, and outperforming the world’s most valuable coin, Bitcoin. Earlier today, Ethereum prices broke $3,900 before retracing sharply below $3,800 and bouncing back to spot rates.
-In an attempt to explain the unexpectedly high volatility, especially with prices rapidly dropping from $3,900 and sinking below $3,800, some analysts claim that a large sell order by a Maximum Extractable Value (MEV) trading firm, Symbolic Capital Partners, might be responsible.
-Ethereum Is Volatile Above $3,800: Possible Explanation
-In a post on X, one crypto journalist, citing another source, said Symbolic Capital Partners offloaded 6,968 ETH, worth over $27 million, with an average selling price of $3,930 in one minute. Notably, one of these transactions involved selling 3,497 ETH simultaneously, with a “high bribe fee” of 90 ETH. 
-While the exact motive behind this bulk dump remains unclear, their action seemed to have impacted prices, causing volatility.
-MEV bot bribe | Source: @leovu021 via X
- 
-At spot rates, Ethereum is up 30% from May 2024 lows. Technically, the uptrend remains as long as prices are trading above $3,700. On May 20, ETH prices broke above $3,300 and $3,700. These were two key resistance levels that are now supported. 
-Ethereum price trending upward on the daily chart | Source: ETHUSDT on Binance, TradingView
-As long as prices trend above $3,700, bulls might have a foundation for another leg up, taking them to March highs of around $4,100.
-Even with ETH volatility being high, overall sentiment remains positive. One analyst on X notes that over the past three weeks, open interest in Ethereum futures across multiple exchanges, like Binance, OKX, and even Bybit, rose to over $4.6 billion. 
-Ethereum open interest rising | Source: @AxelAdlerJr via X
-Open interest is a metric that shows the number of open leveraged positions, long or short. When the number increases, traders are confident in the coin’s prospects.
-Spot ETH ETF Fueling Interest
-So far, the excitement about Ethereum is related to the positive progress in approving spot exchange-traded funds (ETFs). When writing, the United States Securities and Exchange Commission (SEC) has been actively communicating with potential issuers. Changes have been requested, particularly concerning ETH staking.
-Some analysts believe the lack of staking capabilities for spot Ethereum ETFs is positive overall. In a post on X, the analyst argued that if spot Ethereum ETF issuers are allowed to stake, yields will drop, reducing returns for solo stakers. This, in turn, will make individual staking less attractive, impacting network decentralization. 
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-BlackRock's Ethereum spot ETF listed on DTCC under ticker $ETHA - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-U.S. Authorities Arrest Two in $73 Million Crypto Money Laundering Scheme
-
-
-
-                    
-
-U.S. authorities have apprehended two individuals accused of orchestrating a significant money laundering operation. 
-
-
-
-This scheme allegedly funneled over $73 million through American financial institutions, ultimately converting the funds into the cryptocurrency Tether (USDT).
-
-
-
-
-The U.S. Justice Department reported that Daren Li was arrested at Atlanta’s airport in Georgia on April 12, while Yicheng Zhang was taken into custody in Los Angeles on May 16. 
-
-
-
-The indictment against the pair, unsealed in a California court on May 16, details their purported involvement in the scheme.
-
-
-
-Li, Zhang, and their associates are accused of managing an international criminal network that laundered millions of dollars from “pig butchering” crypto scams. 
-
-
-
-
-In these scams, fraudsters build victims’ trust, persuade them to invest large sums, and then abscond with the money.
-
-
-
-The defendants allegedly directed accomplices to open U.S. bank accounts under shell company names. 
-
-
-
-Victims were tricked into transferring millions into these accounts, which were then used to launder the illicit proceeds.
-
-
-
-The DOJ explained that the money was dispersed to various domestic and international accounts, stating:
-
-
-
-
-“The fraud scheme involved more than $73 million laundered through U.S. financial institutions to bank accounts in the Bahamas and converted to the virtual asset USDT, or Tether. 
-
-
-
-“A cryptocurrency wallet involved in the scheme received more than $341 million in virtual assets.”
-
-
-
-Li and Zhang face charges of conspiring to launder money and six counts of international money laundering. 
-
-
-
-If convicted, they each could face up to 20 years in prison for each count, amounting to a potential total of 140 years.
-
-
-
-READ MORE: Bitcoin Eyes New Highs as Analysts Spot Imminent Golden Cross on Lower Timeframes
-
-
-
-Deputy Attorney General Lisa Monaco recognized the challenges posed by cryptocurrency fraud but emphasized the commitment to hold offenders accountable.
-
-
-
-Pig butchering scams have become increasingly profitable for cybercriminals. 
-
-
-
-In November 2023, the DOJ seized $9 million from a similar scheme that victimized over 70 Americans. 
-
-
-
-The rising frequency and severity of such scams have alarmed lawmakers and regulators.
-
-
-
-Regulators have intensified efforts to combat crypto scams, as seen in new regulations and industry guidelines. 
-
-
-
-While these measures aim to protect investors and safeguard digital assets, some fear they may hinder the sector’s growth.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
-Ethereum ETFs Approved by the SEC? Yes-But Don't Bet On It - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsNow that the U.S. Securities and Exchange Commission has approved eight spot Ethereum ETFs, another crypto battle erupted over what “approved” actually means.That was the debate raging on Polymarkets, at least, after crypto degens bet over $13 million that the SEC would approve a spot Ethereum ETF by May 31.The open wager went live on January 9 as anticipation of the SEC approval for the first Bitcoin ETFs reached a fever pitch. The fundamental question driving any potential Ethereum ETF approval was whether Ethereum is a security or a commodity—and whether Bitcoin had cleared the path for Ethereum to follow.Financial analysts and crypto commentators regularly weighed in with their predictions, which grew increasingly pessimistic amid aggressive moves by the SEC against other crypto projects. As a May deadline solidified for a decision, some proposed that a delay would actually be a good thing. Last month, JP Morgan put the odds of approval at 50%.Polymarket users bet on the question, “Ethereum ETF approved by May 31?” Image: PolymarketBut last week, the mood started to shift: Coinbase opined that an Ethereum ETF would become reality last week, and when two Bloomberg ETF analysts revised their own odds of approval from 25% to 75% on Monday, the price of ETH started to soar.Polymarket bettors were also watching closely. The collective odds of SEC approval shot up from 13% to over 50% on the site on Monday. When the SEC announced Thursday that it was approving applications for spot Ethereum ETFs, optimistic wagerers were jubilant. Surely the answer to whether an Ethereum ETF would be approved before May 31 was "yes"?Not so fast, many argued.“Too bad they didn’t define the terms of the actual bet, there was $11M at play,” Twitter user Observoor wrote. “I checked this afternoon and thought, ‘This doesn’t even define what ETF approval means…it’ll end in a big fight.’”Technically, the SEC had approved rule changes allowing major investment firms like Grayscale, BlackRock, Fidelity, and VanEck to proceed with submitted and amended plans to offer spot Ethereum ETFs. But those specific funds have not yet been approved, a process that could take more than a week—and push past the May 31 Polymarket deadline.With some calling the bet "rigged," nearly 1,000 comments were posted to the event page.“Let's be real: lots of people got overconfident that the SEC would deny and are now crying foul that the SEC did a U-turn and rugged them,” a Polymarket user wrote. “ETH ETF approved... [by] consensus of credible reporting.”“The best resolution would be to make it a 50/50 split and clarify that the rules were not sufficient to select a clear winner,” another Polymarket user proposed.On the other hand, the wording of the SEC decision was clear: “This order approves the proposals on an accelerated basis.”“For all you who have no shares and are salty: bring the rules of the market and polymarket's resolution to ANY SAT/GMAT verbal professor and see what they say. Hint: everyone will agree with Polymarket because it's basic reading comprehension,” a Polymarket user wrote.Polymarket users were given a chance to dispute the outcome of the bet, but by 8:18 p.m. ET, the yes vote had been solidified. For many, the simplest answer was always the best answer.“I’m just an investor in Polymarket and general prediction market lover, so have zero impact here on final resolution,” Polymarket investor Nick Tomaino wrote on Twitter. “But in my opinion, for a prediction market platform to succeed long-term it’s important to resolve according to the spirit of the market. Otherwise, the masses won’t trust it.”With the big bet settled, the broader crypto market simply carried on. The price of Ethereum barely budged upon news of the approvals, although it is up nearly 30 perccent for the week, spiking to $3,937 intraday and trading at $3,819 as of this writing.Launched in 2020, Polymarket is a blockchain-based prediction market platform that allows users to stake tokens and earn on the outcome of current events like elections, sports, and current events. Earlier this month, Polymarket announced raising $70 million with funding participants, including Ethereum co-founder Vitalik Buterin.Edited by Ryan Ozawa.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Donald Trump's Presidential Campaign Now Accepting Donations In Bitcoin, Dogecoin, Shiba Inu, XRP, Ethereum, Among Others | Bitcoinist.com
-
-
-								In a strategic move, former United States President, Donald J. Trump has announced that his presidential campaign will be accepting donations in various cryptocurrencies. Supporters of the Trump campaign can now contribute using popular cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), Shiba Inu (SHIB) and Dogecoin (DOGE) becoming accepted.
-Trump Campaign Embraces Bitcoin And Dogecoin Donations
-In an official statement released on May 21, Trump’s presidential campaign announced the launch of an official fundraising page where federally permissible donors can contribute to the campaign using cryptocurrencies. The statement disclosed that only cryptocurrencies accepted through Coinbase Commerce products can be donated.
-
-Trump’s new decision to embrace crypto donations is seen as a strategic and political move that is set to significantly transform how supporters can contribute to the campaign in anticipation of the forthcoming election on November 5. Additionally, it would also make the Trump Campaign the first ever major party Presidential nominee to embrace cryptocurrencies for donations. 
-Some of the products supporters can use to make donations include Bitcoin, Bitcoin Cash, Litecoin, XRP, DAI, Tether USD, and numerous other cryptocurrencies. This development is a positive step forward for the crypto industry, as it encourages greater recognition and adoption of digital currencies for real-world applications. 
-Additionally, it underscores the rising mainstream acceptance of cryptocurrencies, positioning the Trump campaign at the forefront of modern financial trends and signaling the former US President’s support of cryptocurrencies and blockchain technology. 
-Trump’s Surrogate, Vivek Ramaswamy, also disclosed in an interview with Fox Business News that cryptocurrencies currently symbolize an alternative financial service from a financial system that has been corrupted by the Federal Reserve (FED) for the last 20 years. 
-He disclosed that cryptocurrencies serve as an “opt-out” that holds fiat currencies, especially the United States Dollar (USD), accountable and encourages greater transparency and responsibility in financial systems. 
-Political Implications For Trump’s Crypto Support
-In the official statement, the Trump Campaign emphasized the former US President’s continuous efforts to reduce government regulations and promote innovation in the financial sector. 
-Recently, Trump has emerged as an advocate for cryptocurrencies despite his earlier aversion to these digital assets. The campaign disclosed that the former US President was currently working towards minimizing the government’s influence on financial decision-making. 
-
-Additionally, Ramaswamy also revealed in the aforementioned interview that Trump was strongly opposed to the Federal Reserve’s development of a Central Bank Digital Currencies (CBDC), highlighting the financial limitations and privacy risks these assets would have on US citizens. 
-The campaign also highlighted Senator Elizabeth Warren’s negative stance on cryptocurrency, noting her intention to create an anti-crypto army to impose more regulatory restrictions on the developing industry. In response, the Trump Campaign has suggested that they will establish a crypto army of their own to back Trump’s election bid, leveraging cryptocurrencies as a symbol for financial freedom. 
-BTC price fails to beat $70,000 | Source: BTCUSD on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Solana ETFs Next? Spot Ether Approval Paves Way for Broader Recognition, Analysts Say | Cryptoglobe
-
-
-                                
-The potential approval of spot Ether exchange-traded funds (ETFs) in the United States has helped boot the cryptocurrency market significantly and is a significant step forward in cryptocurrency regulation, according to brokerage firm Bernstein, which suggested that Solana ($SOL) exchange-traded funds could follow.
-
-
-
-According to a recent research report from the brokerage firm, which comes ahead of an expected spot Ether ETF application from the U.S. Securities and Exchange Commission (SEC), similar treatment could come to other cryptocurrencies.
-
-
-
-In the report, Bernstein analysts Gautam Chhugani and Mahika Sapra noted the see the potential approval as a sign of softening regulatory stance, possibly influenced by the upcoming November elections, adding bey believe that if Donal Trump is elected “crypto could see significant legislative and agency support” with a shift to the SEC’s leadership.
-
-
-
-More immediately, the report highlights the potential precedent set by a spot Ether ETF as it would mark the first time a non-Bitcoin blockchain asset is classified as a commodity, potentially opening the door for similar treatment of Ethereum’s rivals, particularly Solana.
-
-
-
-Notably, CNBC “Fast Money” trader Brian Kelly has also suggested that a spot Solana ETf could follow, saying that Bitcoin, Ethereum, and Solana “are probably the big three for this cycle.”
-
-
-
-
-
-
-
-He added that Robinhood and Coinbase now have “some clarity on what a security is and what a security isn’t,” suggesting these two firms are the largest beneficiaries from regulatory clarity.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-Bernstein predicts a price surge for Ether similar to the 75% increase witnessed by Bitcoin after the approval of spot Bitcoin ETFs, while earlier this week the price of ETH already surged over 20% as optimism surrounding the potential approval of these funds grew.
-
-
-
-The report cites Ether’s free float and supply as particularly attractive – with 38% locked in staking and decentralized finance protocols, and a significant portion of the supply remaining inactive for over a year.
-
-
-
-As reported, the number of small ETH  investors, those holding 10 ETH or less (around $37,500), has recently climbed to a new all-time high while larger investors are seemingly still lagging behind after divesting most of their funds over the last few months.
-
-
-
-According to data from on-chain analytics firm Santiment, smaller Ethereum wallets hits a new all-time high of 121.74 million after the recent ETH price surge, while those holding between 10 and 10,000 ETH  – between $37,500 and $37.5 million – are still down around 5.8% this year.
-
-
-
-Notably larger whales, those that have over $37.5 million worth of the second-largest cryptocurrency by market capitalization in their wallets, are down 10.6% in terms of total holdings after divesting of their ETH over the last few months.
-
-
-
-Featured image via Unsplash.
-
-                            
-                        
-
-----------------
-
 Bitcoin, Dogecoin Dip, Ethereum Shows Momentum On Approval Of Ether Spot ETFs, Analyst Expresses Confidence In King Crypto's Rebound - Benzinga
 
 The cryptocurrency market reacted mixed to the SEC approving the first ever Ethereum ETH/USD spot ETFs in the U.S.CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Bitcoin BTC/USD-2.30%$67,754.62Ethereum ETH/USD+0.71%$3,771.54Dogecoin DOGE/USD-4.39%$0.1585What Happened: The second-largest cryptocurrency, Ethereum, which has been at the center of immense media coverage this week, was trading sideways, while Bitcoin and Dogecoin faced selling pressure.Around $366 million locked in futures positions was liquidated in the last 24 hours, with longs accounting for 72% of the total. Ethereum recorded $140 million in liquidations, the highest in the period.Bitcoin's plunge eroded optimism in the futures market, as its Open Interest fell 2.49% in the last 24 hours. Ethereum's Open Interest rose marginally by 0.76%.In the past 24 hours, more than 61,000 traders were liquidated, with the total liquidation surpassing $156 million. Ethereum led the pack with around $42.85 million in liquidations. In things that escalated quickly this week, the SEC greenlighted spot Ether ETFs earlier in the day, paving the way for traditional investors to bet on the spot prices of the asset.The Cryptocurrency Fear & Greed Index flashed "Greed" as of this writing, falling from "Extreme Greed" a day before, a sign of easing buying pressure.Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Ondo (ONDO)+16.87%$1.09Ethereum Classic (ETC)+8.38%$32.94Pepe (PEPE)+8.12%$0.00001473The global cryptocurrency market cap stands at $2.54 trillion, following a 1.72% drop in the last 24 hours.Stocks tumbled Thursday despite a stellar show by Nvidia Corp. NVDA shares following its blockbuster earnings report. The Dow Jones Industrial Average plunged 605 points, or 1.53%, to end at 39,065.26, marking its worst day this year. The S&P 500 dropped 0.74% to end at 5,267.84, while the tech-heavy Nasdaq Composite fell 0.39% to finish at 16,736.03.Services and manufacturing sector data for May exceeded analysts' expectations, while U.S. jobless claims for the week came lower than expected, cooling down investor bets for rate cuts by the Federal Reserve.See More: Best Cryptocurrency ScannersAnalyst Notes: Widely-followed trader and researcher Rekt Capital expressed confidence in Bitcoin despite the correction, noting, "Bitcoin will retrace deep enough to convince you that the Bull Market is over. And then it will resume its uptrend.""With strong support levels, the odds are in favor of the bulls," Martinez remarked.Cryptocurrency analyst Ali Martinez flagged a sell signal on Ethereum's daily chart, leading him to forecast a "one to four daily candlesticks correction" for the asset.Another noted analyst, ParabolicPump, anticipated a "maximum bullish" sentiment for altcoins as Bitcoin’s dominance weakened."Soon we will get what we deserve: A full-blown Altseason," the analyst remarked. Photo via ShutterstockRead Next: What Would Ethereum ETF Approval Mean For The Price Of ETH?
@@ -10431,6 +10109,588 @@ Referring to the political divide between Republicans and Democrats on crypto, D
 
 
 Recently, when Warren demanded stricter crypto regulations, including oversight of crypto and stablecoin users, Deaton criticized her, accusing her of “misleading the American people.” Deaton advocated a balanced approach to crypto regulation that fosters innovation while addressing risks. 
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Uniswap price jumps 20% as UNI hints at massive breakout - CoinJournal
+
+
+
+                    
+
+                    
+Uniswap price reached highs of $10.99 on May 25, rising more than 20% in 24 hours.
+UNI gained amid whale activity, Ethereum ecosystem developments and Uniswap Labs’ response to SEC’s Wells Notice.
+The technical picture also hints at a breakout that could push UNI price to $15.40 and towards $2.
+
+Uniswap price jumped more than 20% in 24 hours to trade at $10.99, its highest level since early April.
+A bullish outlook suggests increased buying pressure could push UNI towards highs of $15.40 reached in March.
+Uniswap price and the ETH ecosystem
+UNI is the native token of the leading DEX platform, likely one of the top beta plays around the spot Ethereum ETF approval.
+On Friday, Uniswap price defied marketwide consolidation, with the price of Ethereum (ETH) hovering above $3,700. As most altcoins looked to bounce off key support levels, UNI price rose more than 20% to touch a multi-week peak of $10.95.
+This comes as whales increasingly withdraw UNI from exchanges. According to on-chain details shared by Lookonchain on X, one such whale withdrew $1.96 million in UNI from Binance as price rose.
+Uniswap’s upside momentum has also strengthened amid the unveiling of ERC-7683. This new token standard is a collaboration between Uniswap Labs and Across Protocol and aims at streamlining cross-chain trading via a “unified framework for cross-chain intents systems.”
+UNI surges after Uniswap response to SEC
+Breaching the critical $10 mark also came amid a rising bullish sentiment around Uniswap’s regulatory outlook.
+Earlier this week, Uniswap Labs’ reiterated its readiness to fight the SEC’s potential lawsuit following a recent Wells Notice.
+According to Uniswap, the SEC is “wrong” in its assertions that the DEX platform is an unregistered securities exchange and broker-dealer. The allegation that UNI is a security is also wrong, with SEC’s theories around it “weak” Uniswap wrote in a response to the regulator.
+Uniswap price chart
+Uniswap’s surge in the past 24 hours sees UNI breakout of a consolidation phase that had prices capped below the $8 level.
+Increased whale activity and the current projections for the ETH ecosystem favour UNI bulls.
+
+The technical picture also supports an upside continuation. In this case, the RSI and MACD indicators on the daily chart suggest bulls are in control.
+If this outlook holds, UNI price could eye the key resistance levels at $12.96 and $15.40. An important short term target lies at $2
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+This Week in Coins: Ethereum ETFs Get the Green Light, Dogecoin Jumps on Elon Musk Tweet - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsIt’s been a wild week for crypto, with what many see as a complete 180-degree turn from the Securities and Exchange Commission when the regulator on Thursday approved eight spot Ethereum ETFs. The SEC said yes to the likes of Grayscale, VanEck, Fidelity, and BlackRock after industry observers said for months that the products would not get approved.Despite the funds now making their way to the market, the price of the coin didn't move much on the news. It still had a great week since rumors of incoming approvals dropped on Monday: ETH is now trading for $3,747, a more than 20% seven-day jump.The ETFs won't be available until applicants sort their S-1 forms out with the SEC. But the approval is a big win for the space. Soon, traditional investors will be able to buy shares that track the price of the second-biggest digital asset—and if the eventual launch of the products is anything like the Bitcoin ETF one, capital will flood the space.Bitcoin rode off the back of the ETH approval rumors on Monday and passed the $70,000 mark for the first time in more than a month.The price of the biggest digital asset has since dipped and is now at $68,757 per coin, per data from CoinGecko, a 2.8% increase over the week.Other coins and tokens have risen over the past week, with Chainlink, Avalanche, and Bitcoin Cash making gains of 4.8%, 3.1%, and 3% respectively.But Dogecoin is the best-performer out of the top assets, having jumped by 7% in one week.It's now priced at $0.1656 after Tesla CEO Elon Musk posted a picture on Twitter expressing his condolences for Kabosu, the Shiba Inu behind the Doge meme, who died Friday.Dogecoin, the original meme coin, was created as a joke by developers wanting to poke fun at the seriousness of Bitcoin. But it gained near-mainstream traction in 2021 when Elon Musk—currently the third richest person on the planet—started pumping the coin on Twitter, the platform he now owns.Its market cap has since grown and it's the ninth biggest cryptocurrency as a result.Edited by Ryan Ozawa. Prices as of 4:30 a.m. ET.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Farewell, Doge: Kabosu, the Shiba Inu Behind the Iconic Meme, Dies at 18
+
+
+																Kabosu, the Shiba Inu who became a global internet sensation as the face of the “Doge” meme, passed away on May 24 at the age of 18, her owner, Japanese kindergarten teacher Atsuko Sato, confirmed on Instagram.
+The beloved dog, known for her iconic expression and the humorous captions that accompanied her photos, captured the hearts of millions worldwide and became a symbol of the whimsical and endearing nature of internet culture. “Kabosu is at rest now,” Sato wrote in a heartfelt blog post.
+Confirming the news, Dogecoin’s official X handle tweeted,
+“Today Kabosu, our community’s shared friend and inspiration, peacefully passed in the arms of her person. The impact this one dog has made across the world is immeasurable. She was a being who knew only happiness and limitless love.
+Please keep her spirit and her family in your heart, and most importantly carry her with you as your story continues – we are all fortunate for hers to have touched and shaped ours.”
+In 2008, Sato adopted Kabosu, naming her after the citrus fruit “kabosu” because she thought the dog had a round face resembling the fruit.
+The viral meme of Kabosu led to the creation of Dogecoin (DOGE) in 2013, which began as a joke currency and is currently the world’s largest meme coin by market cap.
+
+
+
+
+DOGE’s success opened the floodgates for the creation of numerous other dog-themed tokens, including Shiba Inu Coin (SHIB) and Floki (FLOKI), which have since gained tremendous traction in the cryptocurrency industry.
+In late December 2022, Kabosu was reported to be seriously ill with leukemia, though Sato later mentioned that her health had improved soon after the diagnosis.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Uniswap Shoots Past $10 On 17% Price Explosion - Here's The Trigger
+
+
+																In a week marked by consolidation across the cryptocurrency market, the native token of Uniswap, UNI, has defied the trend, surging over 15%, and surpassing the $10 mark. This bullish run comes amid positive developments within the Ethereum ecosystem and Uniswap’s ongoing legal battle with the US Securities and Exchange Commission (SEC).
+
+	Related Reading
+
+
+Riding The Ethereum Wave
+Beyond the legal battle, the current momentum within the Ethereum ecosystem is also propelling UNI’s price upwards. On-chain data reveals significant whale withdrawals from crypto exchanges following news of a potential spot Ethereum ETF.
+
+This flight to safety, coupled with the overall bullish sentiment surrounding Ethereum, is creating a ripple effect that benefits UNI, a key player within the Ethereum DeFi landscape.
+From a technical standpoint, UNI’s breakout from a monthly consolidation phase paints a promising picture. Both technical indicators and on-chain data suggest a potential 25% price increase for UNI.
+Source: Lookonchain
+The token’s recent surge indicates a potential bull run, with analysts eyeing a price target of $12.80 if the current momentum continues.
+Adding fuel to the fire is Santiment’s Age Consumed index, which measures the movement of dormant tokens. Spikes in this index often precede price rallies, and the latest uptick by the latter part of April seems to have foreshadowed UNI’s current uptrend.
+This on-chain metric reinforces the bullish outlook for UNI, suggesting that investors are awakening to its potential.
+Short Sellers Get Burned As Bulls Take Charge
+The recent price rally has also been accompanied by a significant rise in trading activity. Data from Coinalyze reveals over $1 million in Uniswap liquidations in the last day.
+The majority of these liquidations (over $750,000) were short positions, indicating that traders betting against UNI are feeling the heat. This surge in open interest, with more traders going long on UNI, further strengthens the bullish control over the token’s price.
+UNI is currently trading at $10,8. Chart: TradingView
+Uniswap Takes A Stand Against The SEC
+This display of defiance has instilled confidence among investors, who view it as a positive sign for Uniswap’s future. The popular decentralized exchange (DEX) recently received a Wells notice from the regulatory body, alleging that UNI is a security. However, Uniswap has vowed to challenge this claim, asserting that the SEC’s case is weak.
+
+	Related Reading
+
+
+The SEC case against Uniswap remains unresolved, and a negative outcome could dampen investor sentiment. A broader market correction could still impact UNI’s price.
+Featured image from Wallpapers, chart from TradingView
+																								
+															
+
+
+						
+
+----------------
+
+Wizard Pepe (WIZPEPE) to Skyrocket 18,000% as KuCoin Listing Announced, While Shiba Inu and Dogecoin Struggle
+
+
+
+                    
+
+Wizard Pepe (WIZPEPE) could turn early investors into multi-millionaires if it becomes a mainstream coin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
+
+
+
+Wizard Pepe (WIZPEPE), a new Solana memecoin that was launched today, is poised to explode over 18,000% in price in the coming days.
+
+
+
+
+This is because WIZPEPE has announced its first centralized exchange listing, which will be on KuCoin.
+
+
+
+This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
+
+
+
+Currently, Wizard Pepe can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+
+Early investors in SHIB and DOGE made astronomical returns, and Wizard Pepe could become the next viral memecoin.
+
+
+
+Wizard Pepe launched with over $6,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
+
+
+
+To buy Wizard Pepe on Raydium or Jupiter ahead of the KuCoin listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Wizard Pepe by entering its contract address – AJM9tnhfGz9xezv1rTjspoTug3YVpcmrp3gJ9FMDEEYj – in the receiving field.
+
+
+
+In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
+
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+
+The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
+
+
+
+This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like WIZPEPE.
+
+
+                
+
+                
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+What is a Bitcoin Futures ETF? How Does it Work? List of 16 Top Bitcoin Futures ETF
+
+Bitcoin Futures ETF allows investors to invest their money in leveraged Bitcoin instruments such as Futures and Options. Leverage provides them with a way to reap greater returns than the average investors. 
+However, there are ample risks involved too. Risks such as capital risk, and regulatory risk pose a great challenge. Yet, with diligence, these ETFs prove a great investment.
+This article explores Bitcoin Futures ETF and tries to explain their working, benefits and disadvantages. At the end, there is a list of 16 top Bitcoin Futures ETFs with a brief explanation on how they make money for their investors.
+What are Bitcoin Futures?
+Bitcoin Futures refers to the derivative contracts which trade with a certain amount of leverage. These contracts do not trade actual bitcoin but place a kind of bet on the future price of Bitcoin (hence the name). The bets are usually directional (bullish or bearish) and provide multifold return to the investor who has accurately predicted the price movement.
+Usually a derivative contract is between two parties, one among whom assumes that the price will go higher and the other assumes the price would go lower. These parties remain anonymous to each other and meet via a crypto derivative exchange such as Binance, Coinbase or Derebit.
+Futures trading has been beneficial for both institutional as well as retain traders. Institutions can take market positions (bearish or bullish) against a certain event (say elections) and protect their holdings from volatility. Whereas for retail users, it is a quick way to make a lot of money, although with a huge risk.
+How Bitcoin Futures and Future ETFs Work?
+Let us understand how future trading works with an example.
+Suppose Bitcoin is at $60,000 and you run a Bitcoin ETF with 100k Bitcoins. Now imagine, if there is any negative news, for example, if the US Fed raises interest rates by 1%, it would definitely result in a market crash. But you won’t be able to sell all your 100k Bitcoins before the crash takes place, simply because of the fund size.
+For the sake of simplicity, let us assume that Bitcoin would rise or fall just $1,000 in any case.
+If you would have sold your Bitcoins at $60k, there is no surety that it would have fetched you the same price i.e.$60k, because selling such a large holding takes time. Plus, if you try to sell such a huge number of Bitcoins, it could have resulted in a market crash. Also, you would have been banned from trading in any crypto exchange.
+Now here comes a person, who says that if Bitcoin falls from $60k to $59k, I will give you $1000 cash and if the reverse happens, say a rally from $60k to $61k, you will have to pay me $1000.
+Now, think, why would someone enter into such an agreement with you. The reason is with Bitcoin futures, the person would have to pay a very small price($10 with a leverage of 100) as investment(margin) and gain $1000 if they are right. This contract is called a leveraged futures contract.
+NOTE: Leverage is a form of trader where a person invests a small amount (margin), say $10 and is allowed to trade at a much bigger nominal value, say $100. The trader is liquidated (stopped) if their losses go above $10. This is how leverage works in its simplest form.
+For more details on how leverage works, see the relevant section below.
+If the institution/Bitcoin ETF fails (i.e., the market goes higher), they just lose $1000 and but their entire fund is still protected and also as price goes up by $1000, they make more gains. If they are right (market goes down) they still get $1000 from the individual trader.
+On the trader’s side, they gain $1000 if the market goes up but lose $10 if the market goes down.
+Why Are Bitcoin Future ETFs Popular?
+Bitcoin ETFs provide a safe yet rewarding way for retailers to earn from Bitcoin derivatives.
+Futures trading is greatly rewarding for individual retail traders, however, there is a catch. Retail traders often lack the sophisticated knowledge of trading strategies. For retail individual traders, this results in a loss most of the time they trade.
+However, there is a better way for them to benefit. Traders and investors who want to benefit from Futures trading, but do not want to do it on their own, can take the benefit of Bitcoin Futures ETF.
+Bitcoin Futures ETF are the shares of the companies that trade Bitcoin Futures with expert knowledge and years of experience. These traders have quantitative models, risk-reward ratio calculations and several times even insider knowledge that helps them secure a profit most of the times they trade. Even their losses are capped with the diligent usage of risk management strategies.
+
+
+
+These ETFs charge a small amount of money to manage customer funds, often in the range of 0.1% to 2%.
+There are several Bitcoin Futures all over the world and they have been present since October 2021.
+
+Bitcoin
+Bitcoin is a cryptocurrency and the first one to solve the double spending problem. Previously, all other cryptocurrencies could be just copied and pasted several times to create multiple yet identical copies. Bitcoin used a unique method called proof of work to make sure that a certain user could only spend their crypto once.
+Futures
+Futures and Options, together called derivatives, allows users to place intelligent bets on the future price of a certain asset, here Bitcoin. A future trade is composed of two traders who have different and opposing views on the price of Bitcoin at a future date, say 1 month ahead.
+ETF
+An Exchange Traded Fund or ETF is a share of a trust fund that trades solely in Bitcoin Futures. Whatever proceeds are obtained as a result, are shared between the subscribers of the ETF based on their percentage of ownership.
+Margin
+Margin is the minimum amount you have to put forward in order to trade a Future contract. For example, if you are trading a 10x Futures contract with a nominal value of $100, you would need a margin of $10.
+
+
+
+Derivative
+Futures and Options are collectively called as derivatives because they derive their value from a separate independent financial asset such as stocks, crypto or commodities. For this article, a financial asset refers to Bitcoin, Ethereum or any other cryptocurrency.
+Leverage
+Leverage is the ratio of the nominal amount of your trade and the margin you put forward. In the above example of Margin, the leverage is 10x since it allows you to trade a contract that has a nominal value of 100 with a margin of $10.
+Liquidation/Liquidated
+Liquidation, in the scope of this article, is the act of terminating a futures contract because its losses have either exceeded the amount of margin put forward or simply because the exchange cannot settle this trade beyond a certain level. This acts as a safety mechanism and prevents a sell-off or shoot-off in a crypto’s price.
+Advantages of Bitcoin Future ETFs
+There are several advantages of investing in a Bitcoin Futures ETF.
+
+Your funds are managed by seasoned experts.
+The funds are easily invested and redeemed without any lock-in period.
+Bitcoin futures ETFs allow investing with leverage which allows investors to reap multi-fold benefits.
+ETFs are regulated by government bodies which ensure consumer protection.
+The ETFs also benefit from Bitcoin fundamentals such as growing adoption and scarcity introduced due to Bitcoin halving.
+Despite their high appeal, Futures Bitcoin ETFs barely hold just 12% of the market share among all Bitcoin ETFs. 
+
+Market Share of Spot Bitcoin ETF vs Futures ETF
+Disadvantages of Bitcoin Future ETFs
+
+The risk factor is higher than spot Bitcoin ETFs due to the use of leverage trading in Bitcoin Futures.
+The ETFs are not suited for all investor types, especially the risk averse investors.
+A wrong time of entry would mean that you would lose a great portion of your invested money.
+Crypto is still a sparsely regulated sector and there are serious regulatory risks with any investment.
+Bitcoin’s price often reduced to one-fifth of its cycle high during the bear markets.
+
+
+Must Read: Crypto Futures Traders: What Are the 8 Common Trading Mistakes to Avoid?
+
+List of Top 16 Bitcoin Futures ETFs
+The list below contains all the major Bitcoin Futures ETFs. Some of them help increase your invested capital through Bitcoin Futures while others use a mix of Bitcoin Futures, Options, Ethereum Futures, and several other financial instruments.
+Below is a series of 3 charts showing the investment trend in all Bitcoin and Ethereum Future ETFs. There are separate charts for Bitcoin and Ether derivatives along with a combined chart. 
+Futures ETF Subscription Trends, Bitcoin vs Ether vs Mixed
+These ETFs do not directly invest in any Bitcoin, and do not even track the price of spot Bitcoin. Most of these ETFs track Bitcoin price that is provided by the Chicago Mercantile Exchange (CME).
+ProShares Bitcoin Strategy ETF
+
+This was the first Bitcoin strategy ETF launched on October 19, 2021 and relies on Bitcoin Future contracts solely.
+2x Bitcoin Strategy ETF
+
+This is a leveraged Bitcoin Futures ETF which uses 2x leverage to trade. This feature allows it to increase its profits at twice the pace with the same level of investments.  
+ProShares Short Bitcoin Strategy ETF (BITI)
+
+The ProShares ETF only invests in bearish derivatives contracts and seeks to make most of its gains in bearish markets and during contra trades in bull markets. 
+Valkyrie Bitcoin and Ethereum Strategy ETF (BTF)
+
+This ETF dynamically allocates its funds to Bitcoin and Ethereum derivative contracts. The allocation is not fixed and is actively adjusted to reap the full benefits of the prevalent market conditions.
+Valkyrie Bitcoin Futures Leveraged Strategy ETF (BTFX)
+
+This ETF like the 2x Bitcoin Strategy ETF uses leveraged trade to make multi-fold returns in Bitcoin Future contracts. Though there is a risk associated with this fund, yet it has been performing well and has given high returns since inception.
+GlobalX Blockchain and Bitcoin Strategy ETF (BITS)
+
+This ETF is a hybrid ETF that seeks to invest for both the long term and the short term. For long term investments, it invests in equity of various blockchain companies. However, for short term investments, it relies on Bitcoin derivatives.
+The ETF is good for those who seek a balanced approach to investing in crypto.
+Simplify Bitcoin Strategy Plus Income ETF (MAXI)
+
+This ETF issued by Simplify invests in Bitcoin futures as well as in debt instruments. The ETF provides dual benefits. When markets are good, the ETF gives a yield which is obtained through Bitcoin Futures and during bad markets, the debt instruments provide a fixed income, making the ETF an all-weather one.
+Ark Shares21 Active Bitcoin Futures Strategy ETF (ARKA)
+
+This Ark Shares21 ETF uses dynamic allocation in Bitcoin derivatives to take advantage of prevalent market conditions.
+ProShares Ultra Short Bitcoin ETF
+
+This ETF by ProShares purely invests in shorting or bearish opportunities in Bitcoin which helps it profit everytime there is a dip in Bitcoin. 
+The best time for any trader to invest in this ETF is during the bear cycle in Bitcoin which happens once every 4 years and could last up to a year. The last bear cycle started in November 2021 and lasted till January 2023.
+Bitwise Bitcoin Strategy Ultimate Roll ETF (BITC)
+
+The BITC ETF uses money market securities for collateral to invest in the highest yield Bitcoin derivatives contracts.
+Bitwise Bitcoin and Ether Equal Weight Strategy ETF (BTOP)
+
+This ETF by Bitwise invests equal amounts in both the future and options contracts of Bitcoin and Ethereum. 
+ProShares Bitcoin and Ether Market Cap Weight Strategy ETF
+
+This ETF is yet again unique in its approach where it just invests in Bitcoin and Ether derivatives but in the ratio of 11:3 respectively. The ratio of 11:3 represents the domination of Bitcoin(54%) and Ethereum(15%) over the entire crypto market.
+The benefit of this ETF is that it lets you bet at almost 70% of the crypto market. The choice of just Bitcoin and Ethereum futures avoids unnecessary volatility which is seen in broader markets.
+ProShares Bitcoin and Ether Equal Weight Strategy ETF
+
+This ProShares derivatives ETF invests in both Bitcoin and Ethereum derivative contracts in equal weight, i.e., equal capital allocation.
+ARK 21Shares Active Bitcoin Ethereum Strategy ETF (ARKY)
+
+The ETF invests in both Ethereum and Bitcoin Futures and Options contracts. The active tag in its name shows that portfolio allocation is dynamic.
+Such ETFs tend to benefit you in highly volatile markets such as one which was seen around the 4th Bitcoin halving.
+CyberHornet S&P 500 and Bitcoin 75 / 25 Strategy ETF (ZZZ)
+
+This is a unique hybrid ETF which allocates 25% of its funds to Bitcoin derivatives such as futures and options. The other 75% is allocated to S&P 500 which is one of the stock market indices in the USA.
+ARK 21Shares Active On-Chain Bitcoin Strategy ETF (ARKC)
+
+This ARK 21Shares ETF uses on-chain metrics and models to prepare strategies which it then uses to invest in Bitcoin futures and options. On-chain metrics help in identifying real-time usage of Bitcoin and is widely used throughout the world to make informed investments in Bitcoin.
+Conclusion
+Bitcoin Future ETFs invest in Bitcoin Future contracts to reap greater benefits than ordinary Bitcoin investors. They use leverage trade to reap multifold returns in a very short period. 
+
+Suggested Reading: Trading Bitcoin vs. BTC Futures: A Comprehensive Guide
+
+These ETFs often create a win-win situation for retail and institutional traders. Retailers use it to quickly make a good profit while institutions use it for better risk management.
+However, these ETFs are also much more riskier than the spot ETFs and could potentially wipe out participant’s capital during a bearish market.
+
+
+
+----------------
+
+Cardano's price loss - Is it time to scoop more ADA? - AMBCrypto
+
+
+
+Most ADA transactions ended in a loss, prompting speculation that the price might drop again
+Price-DAA was below 0.50, indicating that it could be time to buy the token
+
+Losing 5.42% of its value in the last 7 days is something that has allowed Cardano [ADA] to emerge as one of the market’s worst performers the top 20. Now, while the token might not be new to this tag, some market participants believe that it could be a good time to buy the token.
+To lend further insight into this, AMBCrypto considered an in-depth on-chain analysis. At press time, ADA’s price was $0.45. Its latest bout of depreciation has affected its transactions in profit and loss on the Cardano network.
+Cardano stops giving and keeps taking
+According to Santiment, the ratio of daily on-chain transactions volume in profit to loss was 0.827 at press time. If this ratio is over 1, it means that there are more participants realizing gains than losses.
+In this case, ADA’s trend would have been bullish. However, the reading above indicated that only 0.827 transactions ended in profits, when compared to every on-chain transaction that realized a loss.
+Historically, this metric seems to correlate with the price. For instance, the ratio hit 0.722 in February. At the time, ADA’s price was $0.57. A few weeks later, the price jumped to $0.73 on the charts.
+Source: Santiment
+A similar scenario transpired on 13 April. At that time, the decline in the ratio triggered ADA’s bounce from $0.43 to $0.52. Considering its past performances, there is a chance Cardano might drop further.
+If this is the case, the value of the cryptocurrency might drop to $0.42. However, there is a high chance that ADA might produce a 20% hike too, meaning a rise to $0.50 within a few days.
+An entry level has appeared
+Additionally, the price-DAA divergence is an indicator that can predict ADA’s valuation. DAA is an acronym for Daily Active Addresses, used to measure the overall level of network activity.
+When combined with the price, the metric can identify potential exit and entry points. At press time, the price-DAA was -38.88%. From a trading perspective, a buy signal appears when the metric is less than 0.50.
+On the other hand, a sell signal appears when the divergence is at 0.90 or above. Since the ratio was 0.388, it seemed to be a sign that it could be time to start Dollar Cost Averaging (DCA) Cardano’s native token before the price pumps.
+Source: Santiment
+However, it is important to note that this metric alone cannot dictate where Cardano might be heading.
+Assessing the same using the volume, on-chain data revealed that the metric hiked on the charts. This is an indication of more buying and selling. However, a look at the price action would suggest that there have been more sales than accumulation.
+
+Read Cardano’s [ADA] Price Prediction 2024-2025
+
+As long as this remains the case, ADA might face another decline as mentioned above. However, if the decline gets too intense, the token could rally back to its yearly peak.
+
+
+
+
+
+
+----------------
+
+China's Crypto Crackdown Failing? Billions in Illegal Transactions Exposed
+
+
+							
+
+Chinese authorities uncover billions in illicit crypto despite a nationwide ban.
+
+
+
+Underground banks and illegal exchanges flourish as China’s crypto crackdown falters.
+
+
+
+About $86 billion of crypto flowed into China in the 12 months through June 2023.
+
+
+
+
+Recent developments in China suggest the continued use of cryptocurrencies despite an existing ban by the government. Multiple raids by the Chinese police uncovered the use of cryptocurrencies for illicit transactions totaling billions of dollars.
+
+
+
+A Bloomberg report revealed that in May, the police in China discovered an underground bank linked to 13.8 billion yuan, or $1.9 billion worth, of illegal transfers. They uncovered a gang implicated in the unauthorized conversion of about 2 billion yuan, and multiple unlawful money exchanges involving transactions worth over 1 billion yuan.
+
+
+
+The outcome of these discoveries suggests a significant presence of Chinese traders actively participating in the cryptocurrency market. Furthermore, the police located the suspects around Beijing, the northeastern province of Jilin, and Chengdu City in the southwest, raising the possibility of a widespread practice across the entire country.
+
+
+
+It is worth noting that it has been two years since the Chinese authorities imposed a ban on cryptocurrency transactions within the country’s borders. The government cited money laundering, currency outflows, and environmental harm from energy-intensive Bitcoin mining as the reasons behind its crypto ban.
+
+
+
+
+
+
+
+
+
+However, there is a belief that Chinese citizens are still involved with digital assets. While many use it as an alternative investment amid falling property prices, others utilize crypto as a channel for circumventing overseas transfer limits.
+
+
+
+In a statement, Chengyi Ong, APAC policy head at Chainalysis Inc., noted that a significant amount of crypto activity remains in China. According to Ong, this may be a result of the lack of strict enforcement of the ban. Nevertheless, he acknowledged that the decentralized and peer-to-peer nature of crypto activities could be contributing factors.
+
+
+
+As reported by Chainalysis, about $86 billion of crypto flowed into China in the 12 months through June 2023. The blockchain firm acknowledged the volume to be substantial, despite being significantly down from pre-ban levels.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+This Ethereum Rival Could Skyrocket by Nearly 2x Over the Short to Medium-Term, Says Coin Bureau’s Guy Turner - The Daily Hodl
+
+
+								The host of the Coin Bureau YouTube channel, Guy Turner, is expressing bullish sentiment on one Ethereum (ETH) competitor.
+Turner tells the 2.47 million subscribers of the Coin Bureau channel that the layer-1 blockchain Fantom (FTM) possesses more upside potential based on technical analysis.
+
+
+
+
+
+
+
+
+
+
+“The weekly chart appears to be painting a wonky head and shoulders pattern that looks eerily similar to the topping pattern FTM saw in late 2021. Notably, this pattern implies that there could be one more leg higher.”
+Source: Coin Bureau/YouTube
+According to Turner, Fantom could go up by approximately 98%, nearing double its current price.
+“Zooming out on the weekly chart suggests that FTM could rally as high as $1.60 in the short to medium term where it will likely stall out due to resistance, also known as bag holders, from the previous bull market. After that, it’s anyone’s guess.”
+Fantom is trading at $0.810 at time of writing.
+On the reasons supporting his bullish thesis for Fantom, the Coin Bureau host says,
+“FTM has some solid ‘pump-a-mentals,’ so to speak. It has a low price tag and a market cap that isn’t so large as to prohibit an epic pump. 
+The fact that FTM’s supply has already vested to investors and the team suggests there will be minimal sell pressure from their side, particularly when you factor in the Fantom Foundation’s apparently enormous runway… 
+The only thing that FTM is missing is a narrative that retail investors can understand. And more retail accessibility. Specifically, FTM is not currently listed on Coinbase though it’s possible this could change if regulations in the US change.”
+VIDEO
+ 
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: DALLE3
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+US and Hong Kong Spot Crypto ETFs Diverge Post-SEC Approval
+
+
+The recent development of spot Ethereum (ETH) exchange-traded funds (ETFs) by the US Securities and Exchange Commission (SEC) has significantly influenced the crypto investment environment.
+Following the SEC’s preliminary approval for spot Ethereum ETFs, Bitcoin (BTC) counterparts continue to record positive inflows.
+US Spot Crypto ETFs Surge Amid Renewed Optimism
+
+SoSo Value data reveals that as of May 24, US spot Bitcoin ETFs had a total net inflow of $251.94 million. This marks ten consecutive days of inflows. On the same day, BlackRock’s iShares Bitcoin Trust (IBIT) and Fidelity Wise Origin Bitcoin Fund (FBTC) received inflows of $182 million and $44 million, respectively.
+Meanwhile, Grayscale Bitcoin Trust ETF (GBTC) received no flows on the same day. This is noteworthy considering the negative flow streak for US spot Bitcoin ETFs from late April until early May.
+Read more: Crypto ETN vs. Crypto ETF: What Is the Difference?
+US Spot Bitcoin ETFs Daily Flows. Source: SoSo Value
+Indeed, the spot Ethereum ETFs have infused the crypto market with renewed optimism. BeInCrypto reported that Ethereum and some tokens in its ecosystem have shown impressive performance since Monday.
+However, it is important to note that the spot Ethereum ETFs have yet to be officially launched, and SEC approval for the S-1 filings is awaiting. James Seyffart, an ETF analyst at Bloomberg Intelligence, expects that the spot Ethereum ETFs will ” take a couple of weeks but could take longer” to trade in the market.
+
+“Typically, this process takes months. Like up to 5 months in some examples, but Eric Balchunas and I think this will be at least somewhat accelerated. Bitcoin ETFs were at least 90 days. Will know more soon,” he explained.
+
+
+Nonetheless, experts remain optimistic. Another ETF analyst, Eric Balchunas, predicts that spot Ethereum ETFs could acquire “10% to 15% of the assets of the spot Bitcoin ETFs.”
+Despite renewed interest in the US market, spot crypto ETFs in Hong Kong saw a relatively muted performance. Data shows that from May 20 to May 23, Hong Kong’s spot Bitcoin ETFs recorded no flows for two consecutive days. Meanwhile, their Ethereum counterparts only recorded an inflow of 62.80 ETH on May 22.
+Read more: Why do Hong Kong Spot Crypto ETFs Matter?
+Hong Kong Spot Bitcoin ETFs Daily Flows. Source: SoSo Value
+However, a recent report mentioned that Hong Kong’s regulator is considering including staking for spot Ethereum ETFs. This is particularly interesting since potential issuers in the US have removed staking from their filings. By including staking rewards, Hong Kong’s spot Ethereum ETFs could provide a competitive edge, offering extra yield for investors.
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+
+
+
+
+----------------
+
+Will Bitcoin Rise and Outshine Nvidia's AI Boom? Experts Weigh In
+
+
+							
+
+Nvidia stock soars, but doubtful of outpace Bitcoin for the next decade.
+
+
+
+Crypto experts predict Bitcoin’s resurgence due to rising institutional interest.
+
+
+
+Spot Bitcoin ETF approvals have set the stage for a Bitcoin bull run.
+
+
+
+
+Cryptocurrency experts contend that despite NVIDIA stocks’ outperforming the Bitcoin the past decade, the feat is highly unlikely to repeat itself over the next decade. Swan CEO Cory Klippsten highlighted this in a recent X post, responding to data shared by Lyn Alden, founder of Lyn Alden Investment Strategy.
+
+
+
+
+
+
+
+Alden’s post illustrated that while Bitcoin’s market capitalization grew by 19,920% over the past decade, NVIDIA’s stock gained an impressive 24,840%, exceeding Bitcoin’s performance by roughly 5,000%.
+
+
+
+TradingView’s data revealed that NVIDIA’s stock traded for less than $4 in 2014 and experienced gradual growth until 2020 before a breakout to the upside. This breakout coincided with a boom in the AI sector, leading to numerous innovations and the development of AI-related solutions.
+
+
+
+Notably, after the 2020-’21 rally, NVIDIA’s stock price slumped in the 2022 bear market, only to rebound in Q4 of the same year. Since then, the chipmaker’s stock has surged by an impressive 905.58%. Its most notable performance occurred this month, following the release of sales and earnings figures that surpassed expectations.
+
+
+
+Despite NVIDIA’s impressive run, analysts believe Bitcoin will surpass it in the coming years, with the flagship cryptocurrency entering a new phase that could witness an influx of institutional investors. The January approval of a spot Bitcoin ETF by the SEC bolstered Bitcoin’s prospects for mainstream adoption and opened a new frontier for Bitcoin.
+
+
+
+
+
+
+
+
+
+As anticipated, Bitcoin responded to this development by surging to a new all-time high. However, many users believe Bitcoin’s rally is only beginning and expect the fund’s influx to continue in the coming years. Analysts predict that Bitcoin’s price could reach $200,000 within the next two years, with the potential to climb even higher over the long term.
+
+
+
+The contrasting trajectories of NVIDIA and Bitcoin highlight the intricate landscape of investment. While NVIDIA’s recent success is undeniable, Bitcoin’s potential to outpace it in the coming years, fueled by growing institutional interest and favorable regulatory shifts, underscores the allure of this evolving asset class. As both technologies continue to reshape their respective domains, investors are awaiting the next big-ticket for the next decade.
 
 															
 									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
