@@ -1,113 +1,3 @@
-Upgraded and Uncensored: Mistral Overhauls Its AI Model - Decrypt
-
-Top open-source AI developer Mistral quietly launched a major upgrade to its large language model (LLM), which is uncensored by default and delivers several notable enhancements. Without so much as a tweet or blog post, the French AI research lab has published the Mistral 7B v0.3 model on the HuggingFace platform. As with its predecessor, it could quickly become the basis of innovative AI tools from other developers.Canadian AI developer Cohere also released an update to its Aya, touting its multilingual skills, joining Mistral and tech giant Meta in the open source arena.While Mistral runs on local hardware and will provide uncensored responses, it does include warnings when asked for potentially dangerous or illegal information. If asked how to break into a car, it responds, "To break into a car, you would need to use a variety of tools and techniques, some of which are illegal," and along with instructions, adds, "This information should not be used for any illegal activities."The latest Mistral release includes both base and instruction-tuned checkpoints. The base model, pre-trained on a large text corpus, serves as a solid foundation for fine-tuning by other developers, while the instruction-tuned ready-to-use model is designed for conversational and task-specific uses.The token context size of Mistral 7B v0.3 was expanded to 32,768 tokens, allowing the model to handle a broader range of words and phrases in its context and improving its performance on diverse texts. A new version of Mistral's tokenizer offers more efficient text processing and understanding. For comparison, Meta's Lllama has a token context size of 8K, although its vocabulary is much larger at 128K.Image: Prompt Engineering/YouTubePerhaps the most significant new feature is function calling, which allows the Mistral models to interact with external functions and APIs. This makes them highly versatile for tasks that involve creating agents or interacting with third-party tools.The ability to integrate Mistral AI into various systems and services could make the model highly appealing to consumer-facing apps and tools. Fore example, it can make it super easy for developers to set up different agents that interact with each other, search the web or specialized databases for information, write reports, or brainstorm ideas—all without sending personal data to centralized firms like Google or OpenAI.While Mistral did not provide benchmarks, the enhancements suggest improved performance over the previous version—potentially four times more capable based on vocabulary and token context capacity. Coupled with the vastly broadened capabilities function calling brings, the upgrade is a compelling release for the second most popular open-source AI LLM model on the market.Cohere releases Aya 23, a family of multilingual modelsIn addition to Mistral's release, Cohere, a Canadian AI startup, unveiled Aya 23, a family of open-source LLMs also competing with the likes of OpenAI, Meta, and Mistral. Cohere is known for its focus on multilingual applications, and as the number in its name, Aya 23, telegraphs, it was trained to be proficient on 23 different languages.This slate of languages is intended to be able to serve nearly half of the world's population, a bid toward more inclusive AI.The model outperforms its predecessor, Aya 101, and other widely used models such as Mistral 7B v2 (not the newly released v3) and Google's Gemma in both discriminative and generative tasks. For example, Cohere claims Aya 23 demonstrates a 41% improvement over the previous Aya 101 models in multilingual MMLU tasks, a synthetic benchmark that measures how good a model's general knowledge is.Aya 23 is available in two sizes: 8 billion (8B) and 35 billion (35B) parameters. The smaller model (8B) is optimized for use on consumer-grade hardware, while the larger model (35B) offers top-tier performance across various tasks but requires more powerful hardware.Cohere says Aya 23 models are fine-tuned using a diverse multilingual instruction dataset—55.7 million examples from 161 different datasets—encompassing human-annotated, translated, and synthetic sources. This comprehensive fine-tuning process ensures high-quality performance across a wide array of tasks and languages.In generative tasks like translation and summarization, Cohere claims that its Aya 23 models outperform their predecessors and competitors, citing a variety of benchmarks and metrics like spBLEU translation tasks and RougeL summarization. Some new architectural changes—rotary positional embeddings (RoPE), grouped-query attention (GQA), and SwiGLU fine-tuning functions—brought improved efficiency and effectiveness.The multilingual basis of Aya 23 ensures the models are well-equipped for various real-world applications and makes them a well-honed tool for multilingual AI projects.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-On-chain derivatives need more capital efficiency to rival centralized exchanges: SynFutures CEO - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            On-chain derivatives trading volume registered an all-time high in March when it reached nearly $317 billion. Rachel Lin, co-founder and CEO of the decentralized exchange for perpetuals trading (perp DEX) SynFutures, highlighted to Crypto Briefing that there are still capital efficiency problems hindering perp DEXs’ growth despite recent developments.Lin explained that the current AMM models struggle to compete with centralized exchanges’ order books: despite offering better transparency, they struggle to address high slippage when liquidity is low, which is a big concern for investors.“Like the previous versions, SynFutures V3 introduces an upgrade that majorly impacts liquidity providers (LPs) and traders. The new version comes with a new AMM model called Oyster AMM (or oAMM), allowing LPs to provide concentrated liquidity for any derivative pair listed on the platform. In SynFutures’ V1 & V2, LPs can already provide single-token liquidity, but with the new AMM, LPs will also be able to provide single-token concentrated liquidity, ie. liquidity that is concentrated within specific price ranges.” This new feature could improve capital efficiency for liquidity providers and get them higher returns while decreasing slippage for traders, Lin added.Increasing regulatory scrutiny is crashing volumesAlthough on-chain derivatives trading volumes showed a solid performance in March, this momentum seems to be cooling down, as trading volumes in May just surpassed $175 billion. This movement could be tied to increased scrutiny from government organizations, highlighted Lin, mentioning the SEC’s recent movements against Coinbase and Uniswap. “In early March, we saw Bitcoin break above the heights that it made more than 2 years ago. Ethereum inflows sustained that upward trend and altcoins were seeing big gains as well. All of that momentum no doubt snowballed and carried over into the on-chain derivatives market, among other sectors,” shared Lin.Blast plays a key role in on-chain tradingEthereum layer-2 (L2) blockchain Blast has been a key ecosystem for on-chain derivatives trading in the past weeks, dominating the volume for most of April and now fighting toe-to-toe with Arbitrum for such dominance.Lin is optimistic about Blast’s landscape, underscoring SynFutures’ being one of the founding projects on “what could become one of the biggest L2s.” Nevertheless, the perp DEX’s CEO stated that they plan to deploy their platform on different chains, in an effort to keep their significant share of on-chain trading volume.“New DEXs are entering the space and deploying on new chains on a biweekly if not weekly basis, so volume numbers are in constant flux. One chain will be on top one day and the other may be on top the next. SynFutures is a multichain DEX, so while V3 launched on Blast, we’re exploring deployment on other L2s in the near future.”
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-Pepe 69 (PEPE69) Will Rally 11,000%, Looks to Challenge Shiba Inu and Dogecoin
-
-
-
-                    
-
-Pepe 69 (PEPE69) could become a viral memecoin, like Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-Pepe 69 (PEPE69), a Solana memecoin that was launched today, is aiming to challenge other memecoin giants, such as Shiba Inu (SHIB) and Dogecoin (DOGE).
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Pepe 69 presents a similar opportunity.
-
-
-
-Pepe 69 has a market cap below $15,000 at the moment, meaning that when it just reaches a modest market cap of $400,000-$800,000, early investors would generate returns of 2,000%-5,000% in a matter of days or hours.
-
-
-
-The exciting memecoin is poised to rally 11,000% in the coming two days, and Pepe 69 could potentially reach a multi-million dollar market cap within a few weeks.
-
-
-
-
-Currently, Pepe 69 can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-To buy Pepe 69 on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Pepe 69 by entering its contract address – EvevUFVUUFR2NZVSkVzRTj1SQ6KRKdsZqdkpWinkh8m1 – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like PEPE69.
-
-
-                
-
-                
-
-----------------
-
-BitGo’s $100M Suit Against Galaxy Digital Can Proceed, Delaware Supreme Court Rules
-
-“We believe justice prevailed on appeal, and we are delighted to move forward with this case in the Chancery Court,” said R. Brian Timmons, partner at Los Angeles-based law firm Quinn Emanuel, which is representing BitGo in this case.
-
-----------------
-
 Ethereum Foundation Says it's Working to Address Potential Conflicts of Interest - Benzinga
 
 Ethereum ETH/USD Foundation Executive Director Aya Miyaguchi said the organization is accelerating work on a formal policy to address potential conflicts of interest after two of its researchers disclosed receiving "significant" EigenLayer token incentives. "The Ethereum Foundation's credible neutrality is critical for us to perform our role in the ecosystem. We are aware of the current conversation about potential conflicts of interest, and share the community's concerns" Miyaguchi posted to X on Friday. "It is clear that relying on culture and individual judgment has not been sufficient, and we have been working on a formal policy to address this problem for a while now. We will be accelerating this work, and will share an update soon" Miyaguchi added.Read the full story at The Block.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
@@ -12703,3 +12593,189 @@ In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiase
 Trump Vows To Commute Sentence Of Silk Road Founder Ross Ulbricht Amid Boos And Jeers At Libertarian Convention - Benzinga
 
 In a speech before the Libertarian National Convention on Saturday night where Donald Trump was consistently booed and jeered, the former president promised to commute the sentence of Ross Ulbricht, the creator of the online illegal drug marketplace Silk Road."And if you vote for me, on Day One, I will commute the sentence of Ross Ulbricht," Trump said, moments after mentioning his plans to pardon supporters who stormed the Capitol on Jan. 6, 2021.Ulbricht is serving a double life sentence for his role in creating the infamous Silk Road marketplace on the dark web that accepted nearly $1 billion in Bitcoin (BTC) for payments for the sale of heroin, cocaine, LSD and other illegal drugs.Trump's comments seemed geared toward Libertarian voters who generally support the legalization of all drugs and have long lobbied for the release of Ulbricht. Politico reported that Ulbricht supporters distributed hundreds of black and white signs reading "Free Ross" and "waved them manically in the moments after Trump's announcement."Libertarians garnered only 1.2% of the national vote in 2020, or about 1.8 million votes, but the 2024 election could be decided by very few votes in several battleground states.Meanwhile, Trump has called for the death penalty for drug dealers on various occasions, despite having pardoned several people convicted of selling drugs before he left office in January 2021.Seeking The Libertarian Vote Amid Jeers And Heckling"It's time to be winners," said Trump when asked rhetorically if third-party delegates wanted to go on getting single-digit protest votes. "I'm asking for the Libertarian Party's endorsement, or at least lots of your votes." He also vowed to "put a Libertarian in my cabinet."Despite the promises, Trump elicited continuous boos and heckling from the crowd throughout his speech, suggesting the Ulbricht pardon and a cabinet post were not quite enough.Trump's own supporters were outnumbered by Libertarian delegates who seemed to resent his presence.A chant of "We Want Trump" was quickly drowned out by "End the Fed!" When Trump called Joe Biden a "threat to democracy," some delegates shouted, "So are you!"Photo: Shutterstock
+
+----------------
+
+Trader Predicts One Red-Hot Memecoin Dethroning Shiba Inu and Becoming 13th-Largest Crypto by Market Cap - The Daily Hodl
+
+
+								A trader known for making timely crypto market calls thinks that one surging memecoin is poised to more than double its valuation.
+Early last week, pseudonymous analyst Hsaka told his 554,600 followers on the social media platform X that he believes frog-themed memecoin Pepe (PEPE) will soar in market cap en route to dethroning its rival Shiba Inu (SHIB).
+
+
+
+
+
+
+
+
+
+
+At the time, PEPE was the 28th-largest crypto by market cap.
+Source: Hsaka/X
+Since then, the Ethereum (ETH)-based memecoin has been on a tear, rallying by about 71% in a matter of days. Hsaka shares another chart showing that PEPE has leapfrogged six other crypto assets in terms of market cap rankings.
+
+
+“Update: the climb to the top continues.”
+
+
+
+Source: Hsaka/X
+Hsaka is not the only crypto strategist bullish on PEPE. Fellow analyst Kaleo tells his 640,600 followers on the social media platform X that it is within the realm of possibility for PEPE to witness massive gains in this bull market based on the performance of SHIB and Dogecoin (DOGE) last cycle.
+“PEPE is only at a $6 billion market cap. DOGE hit a max market cap of $75 billion last cycle, and SHIB hit nearly $50 billion. I think it’s safe to say there’s still plenty of upside for the frog.”
+
+At time of writing, PEPE is worth $0.0000152, up about 7% in the past 24 hours.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Santiment Reveals the Top 10 Altcoins Developers Are Focusing on on the BNB Chain Network: First Ranking is Unexpected - Bitcoin Sistemi
+
+
+In its statement, cryptocurrency analysis company Santiment shared an evaluation of the altcoins that developers focus on the most on BNB Chain, supported by Binance.
+Santiment analysts based the evaluation on the Github pages of altcoin projects. Code contributions made by developers to the altcoins in question were used to create the developer score.
+
+
+Here are the altcoins and developer scores that developers have focused on the most in the last 30 days on the BNB Chain network:
+
+Bitcoin BEP2 (BTCB) – 112.73
+Dusk (DUSK) – 42.73
+Flux (FLUX) – 22.6
+Trust Wallet Token (TWT) – 22.1
+Beefy.Finance (BIFI) – 20.23
+Zigcoin (ZIG) – 16.27
+ApeSwap Finance (BANANA) – 15.1
+Saito (SAITO) – 11.27
+TokenPocket (TPT) – 8.43
+0x (ZRX) – 4.07
+
+
+BTCB, which ranks first on the list, can actually be defined as the BTCs in the Bitcoin network bridged to BNB Chain. Users obtain BTCB on the BNB Chain network by locking their Bitcoins on a bridge, and this token is thus traded at the same price as BTC. Users who want to return to the Bitcoin network get their BTC back by burning BTCB tokens on the bridge.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Watch Out: There Will Be Numerous Economic Developments and Altcoin Events in the New Week - Here is the Calendar to Follow Day by Day, Hour by Hour - Bitcoin Sistemi
+
+
+The cryptocurrency market witnessed a truly historic moment this week with the approval of Ethereum Spot ETFs. With this development, cryptocurrencies experienced an increase in general.
+In addition, the death of Dogecoin mascot Kabosu this week was an important event for the world's largest memecoin.
+
+
+Many new developments will be waiting for cryptocurrency investors in the new week. Here is the cryptocurrency calendar we have prepared for you as Bitcoinsistemi.com.
+(All times are stated in UTC+3 Türkiye time)
+
+
+
+
+
+Monday, May 27
+
+SOL – Solana v1.18 update will be made.
+FLOKI – Floki Inu development team will make an announcement.
+20:45 – FOMC member Williams will speak.
+
+Tuesday, May 28
+
+Cryptocurrency ETFs to be launched in the UK.
+ILV – Openbeta test network will be operational.
+07:55 – FOMC members Bowman and Mester will speak.
+16:55 – FOMC member Kashkari will speak.
+
+Wednesday, May 29
+
+BTC – Bitcoin Seoul Conference will take place. This is known as Bitcoin's largest Asian conference.
+BNB – Serengeti hard fork will be carried out.
+The Consensus event organized by Coindesk will be held.
+The artificial intelligence summit GenAI Summit SF 2024 will be held.
+SEC will decide to add option feature for Bitcoin Spot ETFs.
+20:45 – FOMC member Williams will speak.
+21:00 – FED will publish the Beige Book document.
+
+
+Thursday, May 30
+
+02:00 – FOMC member Bostic will speak.
+15:30 – US Gross Domestic Product (GDP) Quarterly (Expected: 1.3%, Previous: 3.4%)
+15:30 – US Initial Unemployment Claims (Expect: 218k, Previous: 215k)
+
+Friday, May 31
+
+ETC – Ethereum Classic will go through the halving process.
+Snapshot will be taken for RBX – BFC airdrop.
+12:00 – Euro Zone Consumer Price Index (CPI) Annual (Expected: 2.5%, Previous: 2.4%)
+15:30 – US Core Personal Consumption Expenditures (PCE) Price Index Monthly (Expected: 0.2%, Previous: 0.3%)
+15:30 – US Core Personal Consumption Expenditures (PCE) Price Index Monthly (Previous: 2.8%)
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Unique Bitcoin Course to Be Launched by Swiss University
+
+
+The University of Applied Sciences in Business Administration Zurich will be offering a unique Bitcoin course starting in March 2025, according to a recent report by 20 Minuten, a local media outlet.  The course is specifically aimed at those who want to integrate Bitcoin into new business models. The training course, which offers 15 ECTS credits, will cost a whopping 9,950 francs ($10,794) for just 16 days.  The course offers a structured modular curriculum that takes into consideration various aspects of the Bitcoin ecosystem. It includes basic economic principles behind the flagship cryptocurrency as well as an analysis of the cryptocurrency's impact on the broader economy. The second part dissects the technical aspects of Bitcoin and blockchain technology. The next part focuses on the current state of Bitcoin regulation as well as compliance issues. The fourth part takes an in-depth look at various wealth management strategies that are specifically tailored for Bitcoin. There is also a comparable analysis of Bitcoin and altcoins. Its aim is to explain what makes the largest cryptocurrency stand out among the plethora of other digital assets. Finally, the last part will explore specific business models and opportunities offered by Bitcoin. The report says that the yet-to-be-launched Bitcoin course is unique in all of Europe. Bitcoiners, however, do not appear to be excited. Most commentators have taken issue with the exorbitant price of the course. One Bitcoin wrote that he would rather invest that money in the cryptocurrency while engaging in self-teaching. 
+
