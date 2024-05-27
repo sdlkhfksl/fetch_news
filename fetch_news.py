@@ -21,7 +21,7 @@ def get_real_url(re_url):
         return response.url
     except requests.exceptions.RequestException as e:
         print(f'Error fetching real URL: {e}')
-        return None
+        return re_url
 
 # 读取累积的链接或初始化一个空deque，最多存储300条链接
 try:
