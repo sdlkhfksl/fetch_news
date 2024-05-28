@@ -2,60 +2,17 @@ import requests
 from readability import Document
 from html.parser import HTMLParser
 from collections import deque
-from bs4 import BeautifulSoup
-import datetime
 
 # A simple HTML parser to remove HTML tags and retrieve text content
 class MLStripper(HTMLParser):
-    def __init__(self):
-        super().__init__()
-        self.reset()
-        self.strict = False
-        self.convert_charrefs = True
-        self.text = []
-
-    def handle_data(self, d):
-        self.text.append(d)
-
-    def get_data(self):
-        return "".join(self.text)
-
-# Use readability to fetch and parse article, then use MLStripper to clean HTML tags.
-def fetch_article_content(url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
-    }
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        doc = Document(response.text)
-        s = MLStripper()
-        s.feed(doc.title())
-        title = s.get_data()
+	@@ -32,11 +34,29 @@ def fetch_article_content(url):
         s = MLStripper()
         s.feed(doc.summary())
         content = s.get_data()
-
-        # Use BeautifulSoup to find the publication date
-        soup = BeautifulSoup(response.text, 'html.parser')
-        pub_date = find_publication_date(soup)
-        
-        formatted_content = f'Title: {title}\nPublication Date: {pub_date}\n\n{content}'
+        formatted_content = title + "\n\n" + content
         return formatted_content
     else:
         return 'Article content not found or extraction failed.'
-
-def find_publication_date(soup):
-    # Search for common publication date tags
-    date_tags = ['time', 'span', 'p', 'div']
-    for tag in date_tags:
-        for element in soup.find_all(tag):
-            if element.has_attr('datetime'):
-                return element['datetime']
-            if element.has_attr('class'):
-                if 'date' in element['class'] or 'time' in element['class']:
-                    return element.text
-    # If no date found, return current date for reference
-    return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # Main function to fetch and write article contents
 def fetch_and_write_article_contents(links_file_url, output_file, processed_links_file):
@@ -92,13 +49,11 @@ def fetch_and_write_article_contents(links_file_url, output_file, processed_link
             processed_file.write('\n'.join(list(processed_links)[-300:]))
     else:
         print(f'Failed to retrieve links file. Status code: {response.status_code}')
-
 # URLs file containing article links
 links_file_url = 'https://raw.githubusercontent.com/sdlkhfksl/fetch_news/main/accumulated_links.txt'
 # Output file where article contents will be written
 output_file = 'articles_content.txt'
 # File to keep track of processed links
 processed_links_file = 'processed_links.txt'
-
 # Start the processing
 fetch_and_write_article_contents(links_file_url, output_file, processed_links_file)
