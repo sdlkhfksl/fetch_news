@@ -1,183 +1,3 @@
-Arbitrage opportunity as Monero trades with a 10% premium on the streets
-
-
-    Multiple cryptocurrency exchanges started delisting Monero (XMR) due to its privacy features, which have created arbitrage opportunities in parallel markets.
-
-
-
-In particular, Monero is already the third most traded currency against Bitcoin (BTC) in the popular peer-to-peer no-KYC platform Bisq. The “privacy-by-default” cryptocurrency slightly loses in volume for the U.S. dollar (USD) and the euro (EUR) on Bisq.
-
-
-
-As of this writing, the “Street Price” index on monero.boats calculate a $156.75 price for XMR. This index refers to coins being traded more organically, like cash, as if they were exchanged on the street.
-
-
-
-
-
-
-
-Monero street price index. Source: monero.boats
-
-
-
-The street price index is calculated using the last exchange rate of Monero against Bitcoin—Bisq’s base pair. XMR is currently at 0.00224374 BTC, showing a consolidation pattern following the sell-off from Binance’s delisting.
-
-
-
-XMR/BTC daily chart. Source: Bisq
-
-
-
-Monero price analysis and arbitrage
-
-
-
-Notably, the TradingView price index shows Monero trades at an average of $143.09 on major exchanges. XMR has been showing strong momentum as the price recovers from Binance‘s delisting drop to $101, testing psychological support.
-
-
-
-Before that, Monero’s exchange rate against the dollar was above $165, with a year-to-date high of $174.36. Technical indicators suggest a bullish forecast for the leading privacy coin trading above the 30-day exponential moving average (30-EMA). Moreover, its daily relative strength index (RSI) highlights the steady growth and future projections at 67.76.
-
-
-
-XMR/USD daily price chart. Source: Finbold
-
-
-
-Right now, there is a 9.5% premium for Monero exchanged on the “streets” than the trading price on exchanges. This presents traders with an arbitrage opportunity that could work as fuel for an incoming price surge on the mainstream.
-
-
-
-However, it is important to understand that low-volume markets, like Bisq, usually follow the price of high-volume markets during arbitrages.
-
-
-
-What is an arbitrage opportunity?
-
-
-
-An arbitrage opportunity in trading arises when an asset trades at different prices in different markets. Traders can exploit this price discrepancy by simultaneously buying the asset in the lower-priced market and selling it in the higher-priced one.
-
-
-
-The main risk associated with arbitrage is that prices may change quickly, eliminating the opportunity for profit. Traders must also consider transaction costs, which can erode potential gains.
-
-
-
-In the case of Monero, the 9.5% premium in street markets presents an arbitrage opportunity. Traders could buy XMR on mainstream exchanges and sell it in parallel economies like Bisq to pocket the difference.
-
-
-
-Nevertheless, they must be cautious of the risks associated with dealing in unregulated markets. Additionally, the limited liquidity in street markets may make it difficult to execute large trades without affecting prices. Despite the risks, the significant price difference between the two markets makes this an attractive opportunity for traders willing to navigate the challenges.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-2 cryptocurrencies to reach $5 billion market cap in the first half of 2024
-
-
-    As the cryptocurrency market rebounds from a recent downturn, investor sentiment is shifting positively, suggesting a potential upswing.
-
-
-
-This surge is anticipated to push several altcoins beyond the $5 billion market cap mark, signifying a major milestone in their valuation and influence within the broader cryptocurrency landscape.
-
-
-
-Finbold has highlighted two cryptocurrencies likely to surpass this threshold. These assets are nearing the milestone, with their trajectory dependent on the continuation of the bull run and factors like supply inflation. 
-
-
-
-
-
-
-
-High supply inflation could increase their market cap even if their prices remain unchanged.
-
-
-
-Aptos (APT)
-
-
-
-Aptos (APT) recently set a new record in daily transaction volume, reaching 115 million transactions in a single day, surpassing Solana (SOL) and Sui (SUI) networks. The platform demonstrates impressive scalability, handling 32,000 transactions per second (TPS).
-
-
-
-A key driver of this activity is the game Tapos Cat, which has significantly increased network usage.
-
-
-
-Aptos price and market cap. Source: CoinMarketCap
-
-
-
-Aptos is also expanding its ecosystem with strategic partnerships and integrations in the DeFi and NFT markets. Despite recent price volatility, its resilience and robust infrastructure support future growth. At press time, Aptos is trading at $9.14 with a market cap of $3.99 billion.
-
-
-
-Render (RNDR)
-
-
-
-Render (RNDR) offers blockchain-based rendering services for content creators and developers, driving its unique market appeal. Despite price fluctuations, Render has shown a steady upward trend, with a 23% increase in the past month and a 5% rise in the last week. 
-
-
-
-This momentum has pushed its market cap considerably.
-
-
-
-Render price and market cap. Source: CoinMarketCap
-
-
-
-One of the reasons for the surge in price for AI tokens such as RNDR was the success of Nvidia (NASDAQ: NVDA). Nvidia’s achievements in the AI sector have significantly boosted market confidence, driving substantial gains for these tokens.
-
-
-
-Recently, a position trader booked an estimated $13.2 million (345%) profit from Render. Nvidia’s progress in AI has led to significant gains for AI tokens, particularly after its earnings call.
-
-
-
-Render’s growing ecosystem includes new partnerships and integrations with major digital content platforms and decentralized applications (dApps). This expansion enhances its utility and market presence. 
-
-
-
-Currently, Render is trading at $10.02 with a market cap of $3.89 billion, showing strong potential to surpass its all-time high set in March 2024. 
-
-
-
-Key technical indicators suggest continued upward momentum, making Render a compelling investment ahead of the anticipated market upswing.
-
-
-
-As these platforms continue to innovate and expand their use cases, achieving a $5 billion market cap seems increasingly likely.
-
-
-
-It’s worth noting that despite being supported by several fundamentals, the possibility of the highlighted cryptocurrencies reaching the $5 billion mark will largely depend on whether the market maintains a bullish momentum.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
 Onchain Data Reveals: This Altcoin Broke Two Records - Bitcoin Sistemi
 
 
@@ -11565,3 +11385,180 @@ Trustnodes - Bringing You Tomorrow Today
 Telegram-Based Notcoin Bounces Back From Dud Opening Week - Leaves Floki, Bonk, Dogwifhat Trailing In The Dust - Benzinga
 
 Telegram-linked cryptocurrency Notcoin NOT/USD dwarfed the broader market, including the high-performing memecoins, in a searing rally on Monday.What Happened: The coin, heavily endorsed by top executives from Telegram, skyrocketed 50% in the last 24 hours, according to data from CoinMarkerCap. With this, it became the best-performing cryptocurrency not only in the last 24 hours but also throughout the previous week.NOT outperformed some of the leading tokens in the hot memecoin space. Floki, Bonk, and dogwifhat notched up gains of 10.9%, 6.69%, and 6.34% at the time of publication. CryptocurrencyGains +/-Price (Recorded at 10:20 p.m. EST)Floki FLOKI/USD+10.93%$0.0002676Bonk BONK/USD+6.69%$0.00003813dogwifhat WIF/USD+6.34%$3.25NOT's trading volume jumped more than 3X in the last 24 hours to $979 million, surpassing BONK and Shiba Inu SHIB/USDWhy It Matters: NOT's explosive growth comes amid the rising popularity of Notcoin, a play-to-earn Web3 game hosted on Telegram. The game, which lets people convert their in-game money to NOT tokens, has drawn the attention of the massive Telegram userbase.The coin scripted an impressive turnaround after its much-hyped airdrop failed to generate immediate gains for the holders. A well-known cryptocurrency trader Zen forecasted bullish sentiment for NOT in the mid-term. "Long term depends on the market, but most probably also bullish. Dips are for buying," the analyst added. Meanwhile, The Open Network TON/USD, the layer-1 chain on which NOT is based, has raked in more than $300 million in deposits as of this writing, according to DefiLlama. Photo by Igor Faun on ShutterstockRead Next: Here’s How Much MAGA Coin Has Jumped Since The Ex-President Said, ‘If You’re In Favor Of Crypto, You Better Vote For Trump’
+
+----------------
+
+Ether Poised for Breakout: Can ETH Turn $4,000 Into Support Amid Positive ETF News?
+
+
+
+                    
+
+A key technical chart formation suggests that Ether‘s price is poised for a significant breakout, potentially reaching new all-time highs. 
+
+
+
+The question remains: Can Ether turn the $4,000 psychological mark into a solid support level?
+
+
+
+
+Over the past week, Ether’s price surged by over 27%, converting critical resistance levels into support. 
+
+
+
+This impressive rally has seen Ether break out of its falling wedge chart pattern, which typically signals a potential reversal from a downward trend.
+
+
+
+Crypto trader Jelle, in a May 27 X post to his 83,000 followers, highlighted the breakout’s significance: “ETH broke out from the falling wedge, then flipped key areas into support & now pushes for $4,000. 
+
+
+
+
+“New highs and new all-time highs are next.”
+
+
+
+Additionally, the decreasing dominance of Bitcoin suggests that traders are shifting their focus to Ether. 
+
+
+
+The ETH/BTC pair has rebounded recently, with Bitcoin’s dominance dropping by 0.98% over the past five days, while Ether’s dominance increased by 4.4%. 
+
+
+
+In the last 24 hours alone, Ether’s dominance rose by 1.45%, whereas Bitcoin’s dominance fell by 0.57%, according to TradingView.
+
+
+
+
+The current price rally of Ether is largely attributed to positive developments surrounding the first spot Ether exchange-traded funds (ETFs). 
+
+
+
+READ MORE: Bitcoin White Paper Reuploaded to Bitcoin.org After Craig Wright’s Failed Satoshi Claim
+
+
+
+On May 20, Ether’s price jumped nearly 20% in a single day, following reports that the U.S. SEC might approve spot Ether ETFs, potentially due to political pressure. 
+
+
+
+Reports indicate that ETF exchanges have been asked to update their 19b-4 filings.
+
+
+
+Arthur Cheong, founder and CEO of DeFiance Capital, expressed optimism in a May 26 X post to his 167,000 followers: “4.5k before spot ETF goes live for trading [in my opinion].” 
+
+
+
+He believes Ether could reach $4,500 before the ETFs start trading.
+
+
+
+Despite this optimism, Ether’s price faces significant resistance at the $4,000 mark. 
+
+
+
+A move above this level could liquidate over $433 million worth of cumulative leveraged short positions across all exchanges, according to CoinGlass data.
+
+
+
+Popular crypto analyst Rekt Capital emphasized the importance of a weekly close above $3,956 to sustain bullish momentum. 
+
+
+
+In a May 26 X post, he stated: “Ethereum just needs to Weekly Close above $3956 (green) to move into $4000+ territory. At the moment, #ETH is forming a Lower High.”
+
+
+
+This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.
+
+
+
+
+
+
+
+To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
+
+
+                
+
+                
+
+----------------
+
+Solana validators vote to keep full control of priority fees - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            Solana validators have voted on SIMD-0096, a proposal to self-allocate 100% of priority fees, ending the previous 50/50 split between burning fees and rewarding validators. The proposal was passed with a 77% approval.According to descriptions of the proposal, it was designed to address specific flaws in Solana’s current validator system while maintaining alignment with incentives for network security.While the vote for this specific proposal is over, its mechanisms may take several months to implement given how Solana’s mainnet does not support it yet. This delay would allow for more discussion and development for auxiliary proposals: SIMD-0123, for streamlining block reward distribution; and SIMD-0109, proposing a native tipping mechanism.The changes brought forth by the proposal would effectively reduce any potential side deals which may happen between block producers and transaction submitters, a facet of the validator system that poses network security risks. Support for SIMD-0096 was forwarded from validators such as Jito, Helius, Stakehaus, Bonk, Leapfrog, Solend, Everstake, and Pico.sol. Validators who were not in favor of the proposal included GREED, Step Finance Solana Compass, Shinobu, Triton, AG, Pumpkin Pull, Edgevana, and Orangefin.The opposing validators cited concerns on the potential impact of the proposal to the long-term price of SOL and the Solana ecosystem’s stability.Critics such as Hanko Baggins and Bandito Stake argue that removing the burning mechanism would leave Solana’s annual inflation rate open, suppressing SOL pricing on the long-term. Solana co-founder Anatoly Yakovenko addressed these criticisms by characterizing priority fee burn as a “bug” in the system which had to be addressed. This is because the current system requires users to pay twice the priority fee just to outbid tips. These are not burned, and are transferred entirely to validators.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+South Korea Universities Face Crypto to Cash Conversion Block
+
+
+                        
+                            South Korea Universities Face Banking Hurdles in Converting Crypto Donations to Cash                        
+                        
+    
+                        
+                    
+                    
+                        
+                        
+                                                            Last updated:
+                                                        
+                              May 28, 2024 00:32 EDT                            
+                                                             | 1 min read                                                    
+                    
+                
+            
+
+    
+
+
+                        Financial authorities in South Korea are prohibiting universities from opening corporate accounts for coin transactions. This is resulting in their inability to convert cryptocurrency donations provided by certain crypto businesses into cash.Local outlet Chosun Ilbo reported Monday that financial authorities are concerned that corporate accounts, unlike individual accounts with real names attached, can be used for money laundering more easily due to the lack of individual verification.The Korean Financial Intelligence Unit (KoFIU) and the Ministry of Education are reportedly expected to uphold their position on prohibiting universities from opening corporate accounts for coin transactions.South Korea Universities Stuck with Crypto Donations, New Rules Planned
+This decision comes after some universities requested to open corporate accounts for cash conversion, following large coin donations they received.A senior official from the financial authorities explained the decision, saying that allowing universities an exception would be unfair to other businesses. Furthermore, opening such accounts for all corporations would create a significant money laundering risk.Further, financial authorities and the Ministry of Education intend to advise universities to steer clear of accepting such donations in the future. However, they might offer a lifeline for universities already holding such donations.Depending on the amount and other factors, a system for converting these existing coins into cash might be established. This suggests a possible solution for universities struggling with previously received cryptocurrency donations.South Korea Bans Cryptocurrency Donations
+South Korea recently slammed the door on cryptocurrency donations. This new policy prohibits charities from accepting digital currencies, potentially impacting their fundraising efforts.The decision comes despite the surging popularity of Bitcoin (BTC) and other digital currencies in the country.                                                    
+                        	                                            
+                        
+                        
+                    
+
+                    
