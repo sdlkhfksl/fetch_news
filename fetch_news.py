@@ -26,12 +26,12 @@ def get_real_url(re_url):
             if attempt == 2:
                 return None  # 如果三次重试均失败，返回None
 
-# 读取累积的链接或初始化一个空deque，最多存储300条链接
+# 读取累积的链接或初始化一个空deque，最多存储30条链接
 try:
     with open('accumulated_links.txt', 'r') as file:
         accumulated_links = deque(file.read().splitlines(), maxlen=300)
 except FileNotFoundError:
-    accumulated_links = deque(maxlen=300)
+    accumulated_links = deque(maxlen=30)
 
 # 解析RSS feed
 feed_url = 'https://cryptopanic.com/news/rss/'
@@ -44,7 +44,7 @@ for entry in feed.entries:
     if final_url and final_url not in accumulated_links:
         accumulated_links.append(final_url)  # 添加新链接到deque中
 
-# 将新链接写入文件，只保留最近的300条
+# 将新链接写入文件，只保留最近的30条
 with open('accumulated_links.txt', 'w') as file:
     for link in accumulated_links:
         file.write(link + '\n')
