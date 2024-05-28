@@ -1,201 +1,3 @@
-BTC Maxi Michael Saylor Says Ethereum ETF Approval “Is Good for” Bitcoin - Coin Edition
-
-
-							
-
-Michael Saylor views the SEC’s approval of Ethereum ETFs as advantageous for Bitcoin’s political strength and industry support.
-Saylor anticipates the move will hasten institutional adoption, with Bitcoin dominating the crypto allocation.
-The crypto community is abuzz with Saylor’s unexpected positive shift on Ethereum ETFs.
-
-
-
-
-Michael Saylor, the chairman of MicroStrategy, has expressed a positive outlook about the U.S. SEC’s approval of Ethereum spot ETFs, suggesting that it could be even more beneficial for Bitcoin. 
-
-
-
-
-
-
-
-
-
-Saylor expressed this view during an episode of the “What Bitcoin Did” podcast on May 25. He discussed with host Peter McCormack the implications of the SEC’s decision to approve eight Ethereum spot ETFs on May 23.
-
-
-
-Saylor, who had previously held reservations about the likelihood of SEC approval for Ethereum ETFs, has now shifted his stance. He sees the development as a potential catalyst that could bolster the entire crypto industry, including Bitcoin. In his words:
-
-
-
-
-Yeah, I think it’s good for Bitcoin. In fact, it may be better for Bitcoin because we are politically much more powerful [when] supported by the entire crypto industry.
-
-
-
-
-Furthermore, the MicroStrategy founder explained that the approval of Ethereum spot ETFs serves as an additional layer of defense for Bitcoin. He expects this development to speed up institutional adoption, as previously cautious investors may now recognize cryptocurrencies as a legitimate asset class. 
-
-
-
-Saylor predicts that mainstream investors will allocate a portion of their portfolios to crypto, with Bitcoin receiving the majority share. He suggests that while investors might allocate 5% or 10% of their portfolio to the crypto asset class, Bitcoin will constitute 60% to 70% of that allocation.
-
-
-
-Notably, Saylor’s previous stance was that Ethereum and other tokens like BNB, Solana, XRP, and Cardano would not receive the same treatment as Bitcoin. As a result, his change of heart has not gone unnoticed by the crypto community. Comments from industry figures like Joe Carlasare and Ricky Bobbyy reflect the surprise at Saylor’s “serious 180” degrees change, pondering whether he might start investing in ETH.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Will Dogecoin repeat 2021 highs? DOGE on the verge of 7x surge - AMBCrypto
-
-
-
-Dogecoin’s price increased by more than 12% in the last seven days. 
-Most market indicators and metrics looked bullish on the meme coin. 
-
-Like most cryptos, Dogecoin [DOGE] was also enjoying a comfortable bull rally. However, things could get even better, as the meme coin seemed to be mimicking a pattern that it followed in a previous cycle. 
-Dogecoin might repeat history
-According to CoinMarketCap, DOGE bulls bucked up last week as the meme coin’s price surged by more than 12%. The bull rally was nowhere from stopping as DOGE’s price increased by over 4% in the last 24 hours. 
-At the time of writing, DOGE was trading at $0.1724 with a market capitalization of over $29.4 billion. 
-In the meantime, Mags, a popular crypto trader and analyst, posted a tweet highlighting an interesting development. 
-Per the analyst, the accumulation phase has ended for Dogecoin, which is the precursor to a massive bull rally. In fact, the possible bull rally might allow DOGE to increase its price by sevenfold. 
-Notably, this wasn’t the first time DOGE was acting like this. Mags’ tweet also pointed out a similar trend during DOGE’s last cycle in 2021. 
-During that time, the end of DOGE’s accumulation phase triggered a bull rally, causing DOGE’s price to increase 170 times. 
-Do metrics support a bull run?
-AMBCrypto then analyzed Dogecoin’s on-chain data to see whether it also hinted at a continued price increase. 
-As per our analysis, Whale Activity around DOGE remained high throughout the last week as its whale transaction counts increased. Its MVRV ratio increased, hinting more investors were in profit.
-Its Velocity also remained up, meaning that DOGE was being used more often in transactions within a set timeframe. 
-After a sharp decline, Dogecoin’s Weighted Sentiment improved, suggesting a rise in bullish sentiment. 
-Source: Santiment
-However, there were chances of DOGE witnessing a price correction soon. At press time, DOGE’s fear and greed index had a value of 64%, meaning that the market was in a “greed” phase. 
-Whenever the metric reaches that level, it indicates that bears might step in and push an asset’s price down. Nonetheless, market indicators remained bullish on the meme coin. 
-
-Realistic or not, here’s DOGE’s market cap in BTC terms
-
-For instance, the Chaikin Money Flow gained upward momentum and was headed above the neutral mark.
- On top of that, the Money Flow Index (MFI) was also well above the neutral mark, hinting at a further price increase in the coming days.
-Source: TradingView
-
-
-
-
-
-
-----------------
-
-How to Run Any AI App With Just a Few Clicks With Pinokio - Decrypt
-
-There is undeniable appeal to running AI tools on your own computer, versus relying on online services offered by big tech players like OpenAI, Google, or Meta. But since most are published with software developers in mind, installing AI apps locally can get very complicated, very fast. (We have step-by-step guides for Stable Diffusion and FaceFusion, for example.)It's not hard to get lost while trying to find the AI models that are compatible with your computer, navigating a bunch of Github code repositories, copy-and-pasting weird commands into a command-line terminal, then untangling pruned, quantized, FP16 or FP8 or whatnot. There are tutorials out there, but they can't cover every edge case, and get obsolete fast.Could installing AI locally be as simple as clicking a button? Yes, say the makers of Pinokio, a new, user-friendly tool that is making waves in the open-source AI community.Pinokio is a Swiss Army knife for AI. It lets you run tools like image generators, video generators, music generators, uncensored AI chatbots, intelligent mirrors, and a whole lot more. And it can manage all this on your computer, for free. Provided you have capable-enough hardware, of course.Every one of the complex things that you used to do before Pinokio does for you automatically. With a few clicks, you'll be off and running.What is Pinokio?Pinokio is an AI browser that simplifies the installation and use of various AI applications and models on your local computer. Designed to be an all-in-one AI library downloader and manager, it consolidates the most popular open-source AI apps and puts them into a single environment, merging all the installation and configuration steps into simple scripts, running them with minimal user interaction.Pinokio features1. One-click installation: Pinokio allows you to install AI engines ranging from language models to visual tools like like Stable Diffusion with just one click. There's no need to worry about dependencies and custom environments.2. Wide availability of open-source AI models: Pinokio provides a robust catalog of installation scripts for leading open-source AI applications currently available, making it easy to find popular and new models and install the most up-to-date versions.3. One-click launch: Once AI apps are installed, you can fire them up them with one click. They run locally on your machine, so no internet connection is needed unless a specific app requires external API access.4. Browser-based controls: The applications are managed through a standard browser window. Pinokio provides a web view for many AI chatbots, Stable Diffusion, and other AI tools.5. Virtual computer: Pinokio is designed to be an autonomous virtual computer within your computer that can read, write, process, and execute anything through a simple scripting language.6. Privacy-oriented: All models run locally, and users don’t need to share any information with Pinokio. This means users don’t have to worry about sharing their data, being monitored, or otherwise being constrained by centralized, corporate AI developers.InstallationInstalling Pinokio is as straightforward as installing any other program or app. Just go to the official Pinokio website at pinokio.computer click the “download” button, select your operating system, and run the installation file.There is an additional step for Mac users, and yes, it is a terminal command. After you download the MacOS installer—a DMG file—and drop the "Pinokio" app into your Applications folder, you'll need to run the "patch.command" before opening the main app.Linux users must select the proper installation file according to their Linux distro and install it as usual. All the installation files are in this Github repository: https://github.com/pinokiocomputer/pinokio/releasesUse Pinokio to install your first open-source AI modelOnce Pinokio is installed, it’s time to explore. Pinokio lets you download and run any open-source AI app, as long as your computer can handle it.Remember, running AI apps usually requires a GPU with huge amounts of vRAM. So, if you want to play with AI, don't just buy the most powerful GPU. Instead, go with the most capable GPU. (We explain more here.) Invest in a GPU that has the most vRAM, in other words: 6GB is enough for running Stable Diffusion, but 12GB is a more flexible starting point for running some heavier models—or training your custom LoRAs or SD 1.5 models.Now it is time to navigate and run some AI apps. The process is the same for Windows, Mac or Linux.The first time you open Pinokio, you’ll see a simple, mostly blank screen.To explore the AI catalog, click the “Discover” tab along the top, or click the “Visit Discover Page” button. Pinokio will take you to a catalog of all the open-source AI models that you can run, each one with a corresponding image and description.Take a look around and find something you like. The ones we would recommend if you are just starting out are:
-Fooocus (easy-to-use image generator)
-Facefusion (deepfake generator)
-SillyTavern (interact with LLMs)
-ComfyUI, Invoke or Stable Diffusion WebUI (these three are also image generators)
-The latter three image generators are a bit more complex than Fooocus, but they support SD 1.5, which uses less VRAM. If you have a beefier PC and want to tinker a little bit more with AI, you may want to download:
-Openvoice (a voice cloner)
-Devika (a multimodal AI agent capable of coding)
-Moore Anymate Anyone or Stable Video Diffusion (AI video creation)
-The catalog section looks like this:In this example, we’ll install Illusion Diffusion, which basically generates an image that is also an optical illusion. However, the steps are exactly the same for any model you download.Once you click on the app you want to install, it will take you to a new screen with basically just one button to press. It says “download”—so click it to do so.Once you select the model, it will ask you to provide the name you’d like it to use. You can let the default choice and click “download” once again.Pinokio will open a command prompt and download the script that will let you run the model. This occurs quickly and you’ll know it’s done because the command line says “done.”After it is finished, a new blank screen will appear. Note that it now displays the logo and name of the AI model you requested—in this case Illusion Diffusion—and three buttons: Delete, Files, and Install. Right now you want to click “Install.” However, "Delete" would uninstall the model and "Files" is used to explore the installation folder and mess around with files and folders—something you might do to add new checkpoints or LoRas if you installed Stable Diffusion.The screen looks like this:Now, as soon as you click "Install," another command-line screen like the one below should appear. While Pinokio does all this work for you, it may take some time to do it. Just wait and let Pinokio do its thing. It will download a lot of files, models, and libraries required to run your model. It will also set up environments and perform all the weird tweaks that are required to run your models on your machine.For transparency, you can audit everything in the command-line terminal window to see what's happening if you want.Pinokio will let you know when it’s safe to proceed to the next step with a nice popup letting you know that the installation was successful.Now that everything is installed, click the little plug icon on the left of your screen to launch your model.Don’t worry if you see yet another command line—it’s all part of the set up process. You should be used to waiting by now, so beware, you’ll probably have to wait some more.Once it is done, Pinokio will give you a local URL to run your model in your web browser of choice. It’s displayed at the end of the command line and is usually something like http://127.0.0.1—which means it is a link to your own machine, and that you can now run that model offline.Now you can play around with your AI. Just launch it by clicking on the rocket button on the left of your screen labeled “Open Web UI” and it will run in Pinokio’s native interface. If you want to run your model in full screen mode with your preferred web browser, just click the “popup” icon on top of the screen and it will open a new tab in your computer's default web browser.And there you go! Get crazy doing whatever you want with your new AI models.Pinokio is a game-changer for anyone interested in AI. It simplifies the download and install process, making AI accessible and enjoyable. Whether you're a seasoned AI enthusiast or a newbie just dipping your toes into the world of artificial intelligence, Pinokio is a great tool for you.Go ahead and give Pinokio a try. Who knows, you might just find your personal ChatGPT or MidJourney killer on your own computer.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-Supreme Court Overrides Coinbase Agreement, Grants Courts Authority in Dogecoin Sweepstakes Disputes
-
-
-
-                    
-
-The United States Supreme Court has overridden Coinbase’s user agreement, granting district courts the authority to resolve sweepstakes disputes involving Dogecoin rewards.
-
-
-
-In June 2021, Coinbase launched a Dogecoin sweepstakes promotional event, but the user agreement contained conflicting clauses about dispute resolution. 
-
-
-
-
-Coinbase favored arbitration for resolving financial disputes, while users preferred court intervention. Both options were separately detailed in the platform’s agreements.
-
-
-
-On May 23, the U.S. Supreme Court ruled that state and federal courts will have exclusive jurisdiction over controversies related to Coinbase’s sweepstakes promotion.
-
-
-
-“We conclude that a court, not an arbitrator, must decide whether the parties’ first agreement was superseded by their second. 
-
-
-
-
-“The Ninth Circuit’s judgment is affirmed.”
-
-
-
-Justice Neil Gorsuch, nominated by President Donald Trump in 2017, emphasized that arbitration is a matter of contract. 
-
-
-
-He stated, “Parties (crypto exchanges and users) can agree by contract that an arbitrator, rather than a court, will resolve threshold arbitrability questions as well as underlying merits disputes.”
-
-
-
-The Supreme Court dismissed Coinbase’s argument that the court’s approach could “invite chaos” by enabling challenges to delegation clauses. 
-
-
-
-
-READ MORE: Democrats Urged, But Not Forced, to Oppose Pro-Crypto Bills FIT21 and CBDC Act
-
-
-
-“We do not believe that such chaos will follow,” the ruling added.
-
-
-
-In the U.S., courts are not authorized to intervene in disputes when contracts exclusively contain an arbitration clause. 
-
-
-
-However, when users agree to two contracts—one directing arbitrability disputes to arbitration and the other, either explicitly or implicitly, directing them to the courts—a court must decide which contract governs.
-
-
-
-Coinbase recently experienced a significant outage affecting its trading services on mobile and desktop applications. 
-
-
-
-On May 14, Coinbase Support’s official X account reported the outage, stating that it was investigating the issue and working on a solution. The account assured users that their funds were safe.
-
-
-
-Cointelegraph visited the website, which displayed a “503 Service Temporarily Unavailable” error message. 
-
-
-
-According to a developer guide on Mozilla, the most common cause of this error is that the servers are down for maintenance or are overloaded.
-
-
-
-
-
-
-
-To submit a crypto press release (PR), send an email to sales@cryptointelligence.co.uk. 
-
-
-                
-
-                
-
-----------------
-
 Arbitrage opportunity as Monero trades with a 10% premium on the streets
 
 
@@ -11691,3 +11493,75 @@ This is why many SHIB, DOGE and WIF investors are instead investing in new Solan
                 
 
                 
+
+----------------
+
+Daddy Trump (DADTRUMP) to Rally Over 17,000% Ahead of KuCoin Listing, as Shiba Inu, Bonk and Dogecoin Lag
+
+
+
+                    
+
+Early investors in memecoins like Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) made astronomical returns, and Daddy Trump (DADTRUMP) presents a similar opportunity for a limited time.
+
+
+
+Daddy Trump (DADTRUMP), a newly launched Solana memecoin, is poised to explode over 17,000% in a matter of days, as former Shiba Inu (SHIB), Bonk (BONK) and Dogecoin (DOGE) investors pour funds into this new token.
+
+
+
+
+DADTRUMP will be listed on KuCoin, one of the largest centralized exchanges in the world, within a few days – and this is a massively bullish development for the token, as millions of new investors will easily be able to buy Daddy Trump.
+
+
+
+Currently, Daddy Trump can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
+
+
+
+To buy DADTRUMP on these platforms, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Daddy Trump by entering its contract address – J3XpyA765g6ZxW5QpGRHahvA4uE3m7cq5Gw5CxkGMZCZ – in the receiving field.
+
+
+
+
+DADTRUMP currently has a market cap of just under $10,000, with over $4,000 in locked liquidity, meaning it has huge upside potential.
+
+
+
+Early investors could make returns similar to those who invested in Shiba Inu (SHIB), Dogecoin (DOGE) and Bonk (BONK) before these memecoins went viral and exploded in price.
+
+
+
+If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
+
+
+                
+
+                
+
+----------------
+
+Shiba Inu Investor Turns $2,625 Investment In 'Dogecoin Killer' To $1.1M Afer 3.5 Years Of Inactivity - Benzinga
+
+A Shiba Inu SHIB/USD trader’s patience paid off when they made a fortune after selling the tokens they held for nearly 40 months. What Happened: According to an X post by on-chain tracking platform Lookonchain on Monday, a trader who had been inactive for 3.5 years sold his Shiba Inu tokens at a profit. The trader initially purchased 48.09 billion SHIB tokens for 2 Ethereum ETH/USD, equivalent to $2,625, on February 1, 2021. The tokens were sold for 278.7 ETH, or approximately $1.1 million, representing a whopping 419X gain.See Also: Benzinga Bulls And Bears: Nvidia, GameStop, Ethereum And Crypto Analyst Predicts Dogecoin Will Hit 22 Cents In DaysWhy It Matters: The significant return on investment comes amid predictions of a major rally in altcoins, including Shiba Inu. Altcoins are entering a ‘textbook markup’ phase, indicating a potential surge in their value. The dormant trader’s massive profit from Shiba Inu underscores the potential of such digital assets in yielding high returns.Meanwhile, trading volume for large SHIB transactions, i.e, those worth over $100,000, soared 200% in the last 24 hours, according to IntoTheBlock. suggesting increased whale interest for the token. The supply held by long-term holders declined 0.01%, in conformity with the aforementioned development. Price Action: At the time of writing, SHIB was exchanging hands at $0.00002498, following a 1.66% increase in the last 24 hours, according to data from Benzinga Pro. Read Next: This Dog Coin Is Up 53% And ‘Still In Ripper Mode’… But It’s Not DogecoinDisclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
+
+----------------
+
+Trustnodes - Bringing You Tomorrow Today
+
+
+
+    
+
+      
+
+        
+        
+  
+
+
+----------------
+
+Telegram-Based Notcoin Bounces Back From Dud Opening Week - Leaves Floki, Bonk, Dogwifhat Trailing In The Dust - Benzinga
+
+Telegram-linked cryptocurrency Notcoin NOT/USD dwarfed the broader market, including the high-performing memecoins, in a searing rally on Monday.What Happened: The coin, heavily endorsed by top executives from Telegram, skyrocketed 50% in the last 24 hours, according to data from CoinMarkerCap. With this, it became the best-performing cryptocurrency not only in the last 24 hours but also throughout the previous week.NOT outperformed some of the leading tokens in the hot memecoin space. Floki, Bonk, and dogwifhat notched up gains of 10.9%, 6.69%, and 6.34% at the time of publication. CryptocurrencyGains +/-Price (Recorded at 10:20 p.m. EST)Floki FLOKI/USD+10.93%$0.0002676Bonk BONK/USD+6.69%$0.00003813dogwifhat WIF/USD+6.34%$3.25NOT's trading volume jumped more than 3X in the last 24 hours to $979 million, surpassing BONK and Shiba Inu SHIB/USDWhy It Matters: NOT's explosive growth comes amid the rising popularity of Notcoin, a play-to-earn Web3 game hosted on Telegram. The game, which lets people convert their in-game money to NOT tokens, has drawn the attention of the massive Telegram userbase.The coin scripted an impressive turnaround after its much-hyped airdrop failed to generate immediate gains for the holders. A well-known cryptocurrency trader Zen forecasted bullish sentiment for NOT in the mid-term. "Long term depends on the market, but most probably also bullish. Dips are for buying," the analyst added. Meanwhile, The Open Network TON/USD, the layer-1 chain on which NOT is based, has raked in more than $300 million in deposits as of this writing, according to DefiLlama. Photo by Igor Faun on ShutterstockRead Next: Here’s How Much MAGA Coin Has Jumped Since The Ex-President Said, ‘If You’re In Favor Of Crypto, You Better Vote For Trump’
