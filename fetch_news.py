@@ -10,18 +10,21 @@ session.headers['User-Agent'] = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0
 
 # 定义重定向和格式化URL的函数
 def reformat_url(url):
-    result = re.sub('https://cryptopanic.com/news/(\\d+)/.*', 'https://cryptopanic.com/news/click/\\1/', url)
+    result = re.sub(r'https://cryptopanic.com/news/(\d+)/.*', r'https://cryptopanic.com/news/click/\1/', url)
     return result
 
 def get_real_url(re_url):
-    time.sleep(10)  # 添加的延时
-    try:
-        response = session.get(re_url, timeout=5)
-        response.raise_for_status()
-        return response.url
-    except requests.exceptions.RequestException as e:
-        print(f'Error fetching real URL: {e}')
-        return re_url
+    """Retrieve the final URL after following redirects, with retry mechanism."""
+    for attempt in range(3):
+        time.sleep(10)  # 添加的延时
+        try:
+            response = session.get(re_url, timeout=5)
+            response.raise_for_status()
+            return response.url
+        except requests.exceptions.RequestException as e:
+            print(f'Error fetching real URL, attempt {attempt + 1}: {e}')
+            if attempt == 2:
+                return None  # 如果三次重试均失败，返回None
 
 # 读取累积的链接或初始化一个空deque，最多存储300条链接
 try:
