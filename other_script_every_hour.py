@@ -2,6 +2,8 @@ import requests
 from readability import Document
 from html.parser import HTMLParser
 from collections import deque
+from bs4 import BeautifulSoup
+import datetime
 
 # A simple HTML parser to remove HTML tags and retrieve text content
 class MLStripper(HTMLParser):
@@ -32,10 +34,28 @@ def fetch_article_content(url):
         s = MLStripper()
         s.feed(doc.summary())
         content = s.get_data()
-        formatted_content = title + "\n\n" + content
+
+        # Use BeautifulSoup to find the publication date
+        soup = BeautifulSoup(response.text, 'html.parser')
+        pub_date = find_publication_date(soup)
+        
+        formatted_content = f'Title: {title}\nPublication Date: {pub_date}\n\n{content}'
         return formatted_content
     else:
         return 'Article content not found or extraction failed.'
+
+def find_publication_date(soup):
+    # Search for common publication date tags
+    date_tags = ['time', 'span', 'p', 'div']
+    for tag in date_tags:
+        for element in soup.find_all(tag):
+            if element.has_attr('datetime'):
+                return element['datetime']
+            if element.has_attr('class'):
+                if 'date' in element['class'] or 'time' in element['class']:
+                    return element.text
+    # If no date found, return current date for reference
+    return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # Main function to fetch and write article contents
 def fetch_and_write_article_contents(links_file_url, output_file, processed_links_file):
