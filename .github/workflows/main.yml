@@ -51,6 +51,7 @@ jobs:
           pip install requests
           pip install 'lxml[html_clean]'   # Install lxml with the html_clean submodule
           pip install readability-lxml     # Ensure readability-lxml is installed
+          pip install beautifulsoup4
 
       - name: Run other script
         run: |
