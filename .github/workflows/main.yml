@@ -26,10 +26,18 @@ jobs:
         run: |
           python fetch_news.py
 
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
           git config --global user.email 'actions@github.com'
           git config --global user.name 'GitHub Actions'
+
+      - name: Fetch and merge remote changes
+        run: |
+          git fetch origin
+          git merge origin/main --no-edit || echo "No changes to merge"
+
+      - name: Commit and push changes
+        run: |
           git add accumulated_links.txt
           git commit -m "Update list of processed news links" || echo "No changes to commit"
           git push
@@ -57,10 +65,18 @@ jobs:
         run: |
           python other_script_every_hour.py
 
-      - name: Commit and push if changes
+      - name: Configure Git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
+
+      - name: Fetch and merge remote changes
+        run: |
+          git fetch origin
+          git merge origin/main --no-edit || echo "No changes to merge"
+
+      - name: Commit and push if changes
+        run: |
           git add .
           git commit -m "Update other script changes" || echo "No changes to commit"
           git push
