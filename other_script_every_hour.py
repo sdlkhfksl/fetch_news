@@ -20,8 +20,12 @@ class MLStripper(HTMLParser):
 
 # Function to fetch and extract article content
 def fetch_article_content(url):
-    response = requests.get(url)
-    if response.status_code == 200:
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
+    }
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
         doc = Document(response.text)
         title = doc.title()
         s = MLStripper()
@@ -29,7 +33,8 @@ def fetch_article_content(url):
         content = s.get_data()
         formatted_content = title + "\n\n" + content
         return formatted_content
-    else:
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching article content from {url}: {e}")
         return 'Article content not found or extraction failed.'
 
 # Main function to fetch and write article contents
