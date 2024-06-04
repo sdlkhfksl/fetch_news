@@ -1,711 +1,3 @@
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Researchers Regain Access to 11-Year-Old Crypto Wallet, Recover BTC Worth $3M
-
-
-																Two cybersecurity researchers have helped an anonymous crypto user recover 43.6 bitcoins (BTC) he lost 11 years ago after he lost access to the wallet holding the assets.
-According to a YouTube video detailing the incident, researcher Joe Grand and his friend Bruno hacked time to reverse engineer the password generator used to create the password for the wallet holding the BTC. Although the process was rigorous, it helped them regain access to the wallet and recover the lost coins.
-Regaining Access to 11-year-old Wallet
-The anonymous crypto user, dubbed Michael, told Grand and Bruno that he set up the wallet sometime in 2013 and used RoboForm to generate its unique password. However, for security reasons, he decided to store the password in an encrypted file instead of on RoboForm.
-“At [that] time, I was really paranoid with my security,” Michael stated, disclosing that the stash was worth around $5,300 at the time. Unfortunately, the encrypted file containing Michael’s password got corrupted at some point, and he lost access to the wallet.
-Michael first contacted Grand in 2022, but he turned him down. The bitcoin owner persisted and tried again in June 2023. This time, he got Grand’s attention, and they began the process of retrieving the assets.
-Grand and Bruno discovered that RoboForm had a vulnerability in its random number generator, which connected each generated password to a date and time it was created on a user’s computer. Although the bug was fixed in 2015, the duo reasoned that it must have affected every password created before then.
-
-
-
-
-HODLing Till BTC Hits $100K
-Michael was tasked with remembering the date he created the password, and while the feat seemed difficult, the researchers learned that he moved the bitcoins into his wallet on April 13, 2013. They used time parameters and continued testing hundreds of passwords until they discovered the correct one, created on May 15, 2013.
-Upon discovering the correct password, they accessed the wallet and retrieved the bitcoins. Michael gave a portion of the stash to Grand and Bruno when BTC hovered around $38,000, and when the asset climbed to $62,000, he sold some for himself. He is currently left with 30 BTC worth roughly $2 million, and he intends to hold them till the asset is worth $100,000.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-Billionaire Chamath Palihapitiya Says It Makes Sense for Countries To Hold Bitcoin in Dual-Currency Environment - The Daily Hodl
-
-
-								Billionaire venture capitalist Chamath Palihapitiya says it would be a smart move for some countries to use Bitcoin (BTC) alongside their local currency.
-In a new installment of the All-In Podcast, Palihapitiya says he recently spoke with Wences Casares – a Silicon Valley entrepreneur who introduced him to Bitcoin in 2010 when BTC was trading at around $80.
-
-
-
-
-
-
-
-
-
-
-Palihapitiya says Casares explained a “powerful concept” that maps out a path for the mass adoption of BTC.
-“When I talked to Wences about this, how he explained it, which makes a lot of sense to me is there are a lot of countries that will never look at Bitcoin credibly even if they support it. The US may be one of those, but there’s an increasing body of countries that will become dual-currency and they will look at their local currency and then they will look at Bitcoin. They will say both of these two things are needed. 
-One when you’re transacting on a daily basis for random goods and services and two when you need to buy a permanent asset that needs to have residual value, you’ll use something like BTC. And I think that’s a very powerful concept.”
-The billionaire also says that Casares asked him to look at the performance of Bitcoin after each halving, an event that cuts miners’ rewards in half. Palihapitiya shares a chart suggesting that BTC could skyrocket close to $500,000 by October 2025 if Bitcoin repeats its performance in the last market cycle.
-“And if you look at what this price chart could indicate is that if this thing starts to get to these levels of appreciation, it is going to completely replace gold and start to become something that has transactional utility for hard assets. If you marry that with this worry that some folks have about dollar debasement, you start to see some really interesting opportunities.” 
-Source: All-In Podcast/YouTube
-At time of writing, Bitcoin is trading for $67,886.
-VIDEO
- 
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-China, UAE Vow to Crack Down on Crypto-Enabled Crime in Joint Statement - Coin Edition
-
-
-							
-
-China and UAE pledged to fortify the battle against crypto-related cybercrime.
-In a joint statement, they highlighted telecom fraud and online gambling as areas of mutual concern.
-In addition to security concerns, the statement stressed supporting bilateral trade and investment partnerships.
-
-
-
-
-China and the United Arab Emirates (UAE) have united their forces, pledging to fortify their cooperation in the relentless battle against cybercrime linked to cryptocurrency. This came via an official joint statement released following UAE President Mohammed bin Zayed Al Nahyan’s state visit to China. His Highness Sheikh Mohammed bin Zayed Al Nahyan’s state visit to China.
-
-
-
-Specifically, the joint statement highlights ‘telecommunications network fraud and online gambling’ as areas of mutual concern. This shared focus suggests a promising future where both nations are determined to curb illegal activities that might exploit cryptocurrencies.
-
-
-
-Similarly, the two countries highlighted their commitment to fighting money laundering, human trafficking, drug trafficking, and illegal immigration, potentially signaling a broader effort to address illicit financial flows that could involve digital assets.
-
-
-
-While the statement does not mention specific regulations targeting cryptocurrency, it suggests a coordinated approach by China and the UAE to address potential misuse of crypto technologies. 
-
-
-
-In addition to security concerns, the statement stressed the importance of supporting bilateral trade and investment partnerships. The two nations pledged to promote trade, facilitate investment, and develop tourism through the Joint Economic and Trade Committee.
-
-
-
-A key aspect of the joint statement was the recognition of central bank digital currency (CBDC) in enhancing cross-border trade and investment. Both countries expressed their commitment to deepening bilateral and multilateral cooperation under the Memorandum of Understanding on Strengthening Central Bank Digital Currency Cooperation, signed by their central banks.
-
-
-
-China praised the UAE for its pioneering effort in completing the first direct cross-border CBDC transaction, the “Digital Dirham,” valued at 50 million dirhams through the “Multilateral Central Bank Digital Currency Bridge (mBridge)” platform. This milestone transaction has opened new opportunities for trade and investment between the two nations.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-New Solana Memecoin Eminem's Spaghetti to Skyrocket 14,000% as KuCoin Listing Announced, While Shiba Inu and Dogecoin Struggle
-
-
-
-                    
-
-Eminem’s Spaghetti could turn early investors into multi-millionaires, like Shiba Inu (SHIB) and Dogecoin (DOGE) did.
-
-
-
-Eminem’s Spaghetti (EMINSPAG), a new Solana memecoin that was launched today, is poised to explode over 14,000% in price in the coming days.
-
-
-
-
-This is because EMINSPAG has announced its first centralized exchange listing, which will be on KuCoin.
-
-
-
-This will give the Solana memecoin exposure to millions of additional investors, who will pour funds into the coin and drive its price up.
-
-
-
-Currently, Eminem’s Spaghetti can only be purchased via Solana decentralized exchanges, like Jupiter and Raydium, and early investors stand to make huge returns in the coming days.
-
-
-
-
-Early investors in SHIB and DOGE made astronomical returns, and Eminem’s Spaghetti could become the next viral memecoin.
-
-
-
-Eminem’s Spaghetti launched with over $6,000 of locked liquidity, giving it a unique advantage over the majority of other new memecoins, and early investors could make huge gains.
-
-
-
-To buy Eminem’s Spaghetti on Raydium or Jupiter ahead of the KuCoin listing, users need to connect their Solflare, MetaMask or Phantom wallet, and swap Solana for Eminem’s Spaghetti by entering its contract address – 2ZWPydBxNByXx8D7m2h8CiFkMpjgMWTsrztXLhw1bohd – in the receiving field.
-
-
-
-In fact, early investors could make returns similar to those who invested in Shiba Inu (SHIB) and Dogecoin (DOGE) before these memecoins went viral and exploded in price.
-
-
-
-
-If this happens, a new wave of memecoin millionaires could be created in a matter of weeks – or potentially even sooner.
-
-
-
-The Solana memecoin craze continues amid larger memecoins, like Shiba Inu (SHIB), Dogecoin (DOGE) and DogWifHat (WIF) trading sideways in recent weeks and losing momentum.
-
-
-
-This is why many SHIB, DOGE and WIF investors are instead investing in new Solana memecoins, like EMINSPAG.
-
-
-                
-
-                
-
-----------------
-
-Ripple could sell 400 million XRP in June; Largest dump in 7 years
-
-
-    Ripple has prepared its treasury account for what could be the largest monthly XRP dump since 2017. The company has reserved 400 million XRP tokens worth $208 million for its sell-off in June.
-
-
-
-Every month, Ripple—the largest XRP holder and entity behind the XRP Ledger development—sells part of its reserves, inflating the circulating supply.
-
-
-
-As usual, it unlocked 1 billion XRP, worth $520 million, on June 1. This happened through the XRP Ledger escrow system from two labeled accounts: ‘Ripple (24)‘ and ‘Ripple (25).’ 
-
-
-
-
-
-
-
-However, in addition to the usual 200 million tokens sent to the treasury each month, the dormant account ‘Ripple (35)‘ added another 200 million XRP to ‘Ripple (1),’ which could mean the company is preparing for a larger dump this month.
-
-
-
-Ripple (1) transactions history. Source: XRPScan
-
-
-
-Ripple XRP reserves and escrow activity in May
-
-
-
-As developed, ‘Ripple (24)’ first sent the 200 million XRP for May’s sell-off to ‘Ripple (1)’. Later, the account sent 300 million tokens to ‘Ripple (13)’ and re-locked the amount for an escrow to September 2027.
-
-
-
-In the meantime, ‘Ripple (25)’ sent the 500 million unlocked tokens to ‘Ripple (12),’ locking them up until October 2027. All these transactions can be verified on-chain through the block explorer XRP Scan.
-
-
-
-Monthly Ripple (XRP) unlock – June, 2024. Source: Finbold
-
-
-
-Ripple historical dumps
-
-
-
-Since 2017, when it implemented escrows, Ripple has systematically reserved no more than 350 million XRP for its monthly dumps.
-
-
-
-The company has sometimes kept part of the month’s reserves, waiting for a better sell-off opportunity in the following months. Conversely, other months saw a superior dump of what was previously reserved, never surpassing 400 million XRP.
-
-
-
-In 2024, Ripple sold 226 million, 260 million, 240 million, 200 million, and 200 million from January to May, respectively.
-
-
-
-Interestingly, Ripple implemented the escrow system in 2017 due to investors’ complaints about the lack of transparency in the ongoing dumps, which heavily affected prices. Nevertheless, despite the increased transparency, the supply inflation economic effects continue impacting XRP performance.
-
-
-
-XRP price analysis amid Ripple sell-offs
-
-
-
-It is noteworthy how Ripple sales directly impact XRP’s price, considering the supply pressure they create on the spot market. Historically, XRP suffered a local crash most of the time Ripple sold its tokens.
-
-
-
-Year-to-date, only five of the 12 sell-off days had positive price action: February 5, 11, April 14, May 13, and 20. All the other seven days were of local crashes, evidencing the importance of monitoring the company’s activities.
-
-
-
-Moreover, XRP had a negative monthly performance in three of the first five months of 2024, year-to-date.
-
-
-
-XRP/USD daily price chart, with Ripple dump activity. Source: TradingView / Finbold (Vini Barbosa)
-
-
-
-As of this writing, XRP trades at $0.515. Therefore, investors should closely monitor Ripple’s dumps in June, as they could slow down an expected bull rally this cycle.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-Is WIF's position under threat? MOTHER may have something to say... - AMBCrypto
-
-
-
-MOTHER, a memecoin by pop musician Iggy Azalea, surpassed WIF’s trading volume significantly
-WIF’s social popularity has declined over the last few days too
-
-A few months ago, Dogwifhat[WIF] was one of the market’s favorite memecoins for whales and retail traders alike. However, the last few weeks have seen newer memecoins garnering significant attention and capturing much of WIF’s own spotlight.
-Will WIF holders see red?
-MOTHER, a popular memecoin created by Iggy Azalea, is one such memecoin, with the crypto wildly popular across social media. In fact, such has been the scale of its popularity that the altcoin managed to surpass the trading volume for WIF by a significant margin.
-Source: DEXScreener
-At press time, WIF was trading at $3.25, with its price down by 3.20% in the last 24 hours. The memecoin’s price saw major fluctuations over the past few weeks, moving between the $4.1243 and $1.9586 levels. No bullish or bearish trend has been established due to the high volatility exhibited by this memecoin.
-The RSI (Relative Strength Index) for WIF declined to 41.84 over the last few days. This indicated that bullish momentum around WIF had fallen significantly. Moreover, the CMF (Chaikin Money Flow) also fell to -0.27. A declining CMF is a sign of capital outflows across WIF’s market.
-If this trend continues, the altcoin’s price could retest its $2.479 levels in the future.
-Source: Trading View
-Looking at market sentiment
-Another factor that could influence WIF significantly would be its popularity on social media platforms. AMBCrypto’s analysis of Santiment’s data revealed that the social volume for WIF fell. Coupled with that, the weighted sentiment around WIF also declined significantly over the last few days.
-A falling weighted sentiment meant that the number of negative comments around WIF outweighed positive ones, at the time of writing.
-Source: Santiment
-Declining social volume and falling sentiment could lend more downward pressure to the market.
-Traders shared a similar sentiment. In fact, an examination of Coinglass’ data revealed that the number of short positions taken against WIF had surged over the past few days. The percentage of shorts grew from 48% to 52.5% over the past week.
-
-Read dogwifhat’s [WIF] Price Prediction 2024-25
-
-WIF’s price could see some green in the future, if the popularity of newly introduced memecoins dies down. And, if WIF manages to regain some of its lost market share.
-Source: Coinglass
-
-
-
-
-
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Coinbase vs. Big Brother: Crypto Exchange Accuses SEC of Trying to Kill Digital Assets
-
-
-								Coinbase, the leading US cryptocurrency exchange, is doubling down on its fight with the Securities and Exchange Commission (SEC), accusing the regulatory body of attempting to strangle the crypto industry through “regulation by enforcement.”
-
-The SEC-Coinbase Acrimony
-In a fiery appeal filed on May 31st, Coinbase paints a picture of the SEC as an innovation-squashing behemoth, prioritizing enforcement actions over establishing clear and fair guidelines for the growing digital asset space.
-The crux of the dispute lies in the SEC’s lawsuit against Coinbase, initiated in June 2023. The SEC alleges Coinbase violated securities laws by failing to register as a broker or exchange.
-
-
-Coinbase counters that the SEC’s existing regulations are ambiguous when applied to cryptocurrencies, making compliance a near-impossible feat.
-This sentiment appears to be shared by some within the SEC itself. Commissioner Hester Pierce, a vocal advocate for clearer crypto regulations, recently proposed a collaborative sandbox program where US and UK blockchain firms could experiment with tokenized securities under defined parameters.
-This initiative stands in stark contrast to the SEC’s current approach, which Coinbase likens to “wielding a sledgehammer to crack a walnut.”
-The SEC, however, defends its stance. In its initial lawsuit against Coinbase, the agency argued that existing regulations are sufficient and their enforcement actions serve as a clear roadmap for the industry. They likely view the successful lawsuit as vindication of their approach.
-Bitcoin is now trading at $69,109. Chart: TradingView
-Crypto’s Regulatory Crossroads
-
-
-The outcome of the Coinbase appeal has the potential to be a watershed moment for the crypto industry. A win for Coinbase could force the SEC to the negotiating table, paving the way for a more collaborative regulatory framework.
-
-
-Conversely, a victory for the SEC might solidify their enforcement-centric approach, potentially stifling innovation and pushing US crypto firms overseas to friendlier regulatory shores.
-The larger political scene adds another level of intrigue. Both parties are starting to pay attention to the growing significance of cryptocurrencies in light of the upcoming presidential elections. While some legislators support encouraging innovation within a well-defined regulatory framework, others share the SEC’s apprehensions regarding possible hazards to investors.
-
-The regulation of cryptocurrencies may not be settled in the future. Will the US adopt this technology and become a global center for cryptocurrency, or will strict enforcement spur innovation abroad?
-Featured image from Midwest ENT, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Galaxy Digital CEO on Crypto’s Bipartisan Potential | Cryptoglobe
-
-
-                                
-During a conversation with CNBC corrspondenant MacKenzie Sigalos at the recent Consensus 2024 conference (held May 29-31, 2024, in Auston, Texas) Galaxy Digital CEO Mike Novogratz shared his thoughts on the evolving landscape of institutional crypto, political shifts affecting the industry, and the future of digital assets. 
-
-
-
-Seismic Shifts in Crypto Politics
-
-
-
-Novogratz highlighted the recent political upheavals that have significantly influenced the crypto market. He noted a pivotal moment when the White House announced President Biden’s intent to veto the overturn of SAB 121, an arcane accounting rule filed by the SEC. This action led to a political backlash, particularly from the Republican side, with figures like Donald Trump positioning themselves as pro-crypto. Novogratz emphasized that this move has mobilized the crypto community, making it a potent political force. He pointed out that there are now more crypto owners in America than dog owners, many of whom are single-issue voters.
-
-
-
-Bipartisan Support and the Future of Regulation
-
-
-
-Novogratz says that the political dynamics around crypto are shifting towards a more bipartisan approach. Novogratz mentioned that significant Democratic figures, such as Senators Schumer and Torres, have started to support crypto-friendly legislation, recognizing the substantial voter base. This bipartisan support was exemplified by the passing of FIT 21 in the House, which aims to bring regulatory clarity to the market.
-
-
-
-Novogratz believes that the market infrastructure bill and the overturning of restrictive accounting rules are crucial for integrating traditional financial institutions into the crypto space. He anticipates that these changes will enable major custodians like Bank of New York and State Street to start custodying crypto assets, which will pave the way for a broader institutional adoption.
-
-
-
-The Impact of Institutional Involvement
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-The conversation also touched upon the current state and potential future of spot Bitcoin and spot Ether ETFs. Despite the regulatory hurdles, Novogratz is optimistic about the institutional adoption of these products. He explained that institutions are slowly warming up to the idea of crypto, driven largely by client demand. However, he noted that regulatory clarity is essential for the full participation of major financial entities like Goldman Sachs and Morgan Stanley.
-
-
-
-Novogratz highlighted that while the current involvement of institutions in crypto is still in its early stages, the potential for growth is immense. He predicts a significant influx of institutional investment once regulatory uncertainties are resolved.
-
-
-
-The Role of Crypto in the Broader Economic Context
-
-
-
-Novogratz provided a macroeconomic perspective, linking the crypto market’s resilience to broader economic trends. He pointed out that despite the Federal Reserve’s hawkish stance and the absence of expected rate cuts, the crypto market has remained strong. This resilience, according to Novogratz, is due to the U.S. government’s continued fiscal irresponsibility and the growing appeal of Bitcoin as a hedge against inflation and currency devaluation.
-
-
-
-Galaxy Digital’s Strategic Direction
-
-
-
-Discussing Galaxy Digital, Novogratz outlined the company’s future plans, emphasizing a shift towards on-chain initiatives. He acknowledged the challenges posed by the current regulatory environment but expressed confidence in the eventual resolution of these issues. He also touched on Galaxy’s involvement in the liquidation of the FTX estate, praising the efficiency of the U.S. bankruptcy system in resolving the crisis and returning value to creditors.
-
-
-
-Tokenization and the Future of Finance
-
-
-
-One of the most forward-looking aspects of Novogratz’s talk was his discussion on tokenization. He believes that the tokenization of assets is a game-changer that will slowly build momentum before rapidly transforming the financial landscape. Novogratz noted that major financial institutions are already preparing for this shift by investing in the necessary infrastructure.
-
-
-
-
-VIDEO
-
-
-                            
-                        
-
-----------------
-
-Here's How Much Crypto Was Lost in May Due to Hacks: CertiK
-
-
-																According to blockchain security firm CertiK, the cryptocurrency sector lost $42.6 million in May to exploits, flash loans, and exit scams.
-Despite these setbacks, approximately $96.2 million was recovered, offering some relief from the economic impact.
-Flash Loan Attacks Dominate Blockchain Losses
-Flash loan attacks caused the largest losses in the crypto sector, totaling approximately $20.7 million. Sonne Finance suffered the most, losing $20 million, followed by TLN Protocol, which lost $746,000. GPU and Saturn Token also faced losses totaling $32,394 and $8,343, respectively.
-
-
-Exploits also significantly impacted the sector, accounting for approximately $19.7 million in losses. Gala Games suffered the most substantial loss at $21.6 million, followed by AlexLab at $4.3 million, Pump Fun at $1.9 million, GNUS.ai at $1.28 million, and Orion at $947,000.
-
-
-
-
-While less common, exit scams still contributed around $1.8 million to the losses. Among these, Trees On Sol lost $1.11 million, Pii Park $490,000, Novamind $123,019, and Arbalest $91,520.
-Interestingly, flash loan attacks have consistently led to significant losses in odd-numbered months throughout the year. January, March, and May saw losses of $15.3 million, $21.9 million, and $20.7 million, respectively. In contrast, losses in February and April were less than $150,000 each.
-Meanwhile, February experienced the most severe loss overall due to exit scams, totaling $58.3 million, with less than 10% of this total recorded in other months.
-Crypto Hacks and Rug Pulls Persist
-In the year-to-date of 2024, security service provider Immunefi reports that over $473 million worth of cryptocurrency has been lost to hacks and rug pulls across 108 incidents.
-The decentralized finance (DeFi) market remains the primary target for hackers, while centralized finance companies did not experience any attacks in 2024. Last year, over $2 billion was lost to hacks and exploits, about half the total from the previous year.
-In May 2024, Ethereum and BNB Chain were the most targeted chains, collectively representing 62% of the total losses across targeted chains.
-Crypto hacks and exploits are still a continuing problem. Just recently, due to a hack, DMM Bitcoin, a Japanese cryptocurrency exchange, reported losing 48 billion yen ($305 million) of Bitcoin (BTC). In a blog post, DMM Bitcoin stated that 4,502.9 BTC “leaked” out of the exchange.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-USDe Hits $3 Billion Market Supply Just Four Months After Launching - Coin Edition
-
-
-							
-
-USDe hits $3 billion supply mark in four months, sets record.
-The ‘synthetic dollar’ accumulated $1 billion since April 5.
-The USDe is on track to challenge DAI as the largest algorithmic or decentralized stablecoin.
-
-
-
-
-Ethena Labs’ USDe stablecoin has set a record by becoming the first of its category of cryptocurrency to reach the $3 billion supply mark only four months after it launched. Also known as ‘synthetic dollar,’ the USDe launched in February 2024 and maintains its peg through arbitrage mechanics and a yield-returning cash-and-carry trade.
-
-
-
-
-
-
-
-
-
-Available reports show that the USDe’s supply crossed the $2 billion threshold on April 5. Since then, the stablecoin has accumulated an extra $1 billion in supply, putting it on track to challenge DAI as the largest algorithmic or decentralized stablecoin. This assumption is based on the synthetic dollar’s growth rate, knowing it would need to attract an extra $2 billion supply to complete with DAI.
-
-
-
-Notably, the USDe’s impressive growth puts it in the fourth position in the overall stablecoin market, posting a 3.3% market share. However, this figure remains pale compared to the flagship stablecoin Tether, which leads the stablecoins market with a 57% dominance.
-
-
-
-Conservative crypto users consider USDe’s growth a reminder of the infamous Terraform Lab’s UST stablecoin. However, the former boasts a different token mechanism. The USDe’s yield comes from a cash-and-carry trade and staking revenue, which is then shared with holders. It is also worth noting that Bybit, the renowned cryptocurrency exchange, recently integrated USDe, providing spot trading pairs with Ethereum and Bitcoin.
-
-
-
-Another noteworthy event is the project’s recent airdrop launch, promoting awareness and subsequent adoption. USDe started airdropping its governance token, ENA, in April, coinciding with the surge in market supply. The stablecoin’s market capitalization has reached $1.98 billion at the time of writing, according to CoinmarketCap’s data, with the token trading for $0.994, reflecting a 1.99% pullback in the last 24 hours.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-‘Hundreds of Trillions’- Sergey Nazarov Says 2024 Is Year Crypto and Global Financial System Merge - The Daily Hodl
-
-
-								Chainlink (LINK) co-creator Sergey Nazarov says this could be the year that sees a great merger between blockchain and the traditional global financial system.
-In a speech at the Consensus 2024 conference, Nazarov says the market for on-chain assets is more than $100 trillion.
-
-
-
-
-
-
-
-
-
-
-The Chainlink co-creator shares a chart showing that the $2.7 trillion debt market and the $106 trillion stock market can move into the blockchain. The chart also shows that other assets such as global real estate and derivatives can be tokenized.
-Source: Chainlink/YouTube
-Nazarov says that eventually, all financial transactions will take place on-chain, and that 2024 is the year that the global financial system will start moving its settlement systems onto the public blockchains.
-“So we’re kind of at another tipping point where the amount of value that you’re seeing in this real-world asset digital asset tokenization trend, even on public chains, has now surpassed DeFi (decentralized finance). And this isn’t even counting all the value in private chains, banks’ chains, and all those more private systems, so it’s even more value than that. 
-The world we’re going to is still the world where all the world’s value, all the credits, all derivatives, all commodities, everything is basically on-chain, and represented on-chain and composable on-chain into more and more advanced financial products, in an efficient quick way so we’re not taking months, we’re talking minutes to seconds. 
-Right now what takes months, will take minutes to seconds, and as more and more assets get on-chain, they’ll become composable, and they’ll begin to create their own benefits from being composed into more and more advanced baskets of things. 
-So right now, we’re basically in the position where we’re at a tipping point, where the numbers have surpassed what they were in the past, and we’re on a trajectory where all the world’s biggest institutions are starting to look at how to put their value on-chain. 
-So I would say, basically that this year is when our industry shifts into this new direction about public chains and about the global financial system merging into a single industry, into a single internet of contracts.”
-VIDEO
- 
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Trading expert sets one condition for Bitcoin to ‘pick back up again’
-
-
-    Bitcoin (BTC) is consolidating above $67,000 after facing rejection at the $70,000 mark, while the market anticipates a potential breakout.
-
-
-
-Indeed, crypto trading expert Rekt Capital believes that Bitcoin has room for a breakout, but the cryptocurrency needs to clear specific barriers.
-
-
-
-Particularly, in a post on X (formerly Twitter) on June 1, the expert stated that Bitcoin’s path to recovery hinges on ceasing its current pattern of forming lower highs.
-
-
-
-
-
-
-
-Rekt Capital’s analysis highlighted a consistent rejection of Bitcoin at decreasing price points, a trend that has characterized the cryptocurrency’s performance over recent months. 
-
-
-
-He noted that the price levels of $71,600 and around $70,000 have acted as resistance in Bitcoin’s recent trading history. These zones have repeatedly capped Bitcoin’s attempts to rally, confirming them as significant barriers that must be overcome for a bullish reversal to materialize.
-
-
-
-
-
-
-
-
-“Bitcoin continues to reject at lower and lower prices, forming a series of Lower Highs. First Bitcoin rejected at ~$71,500. Then, price confirmed the blue square as a local topping area, as per recent history. When this series of Lower Highs ends, that is when Bitcoin will start to pick back up again,” he said. 
-
-
-
-
-Implication of Bitcoin’s price movement 
-
-
-
-In technical terms, a lower high occurs when a peak is lower than the preceding peak, signaling a bearish trend as sellers increasingly dominate the market. The identification of successively lower highs at the $71,500 mark, followed by subsequent rejections at progressively lower price points, underlines a persistent downward pressure on Bitcoin’s price.
-
-
-
-Based on the analysis, when Bitcoin establishes a higher high, it would indicate a shift in market sentiment, potentially paving the way for renewed bullish activity.
-
-
-
-On March 26, the expert also pointed out that if Bitcoin successfully retests the $69,170 area, it will enable further upside.
-
-
-
-
-
-
-
-Notably, Bitcoin failed to maintain the momentum established early in the week after the crypto surged to $69,000 on Monday. However, bulls could not sustain the upward trajectory as the crypto retracted. This coincided with the hacking of Japan’s crypto exchange DMM Bitcoin, which lost over $300 million in Bitcoin.
-
-
-
-Overall, Bitcoin remains sluggish, failing to make a significant move in either direction.
-
-
-
-Bitcoin price analysis
-
-
-
-Bitcoin’s consolidation is evident in the asset’s weekly timeframe, which reflects a correction of over 2% during the period. In the last 24 hours, Bitcoin is down over 0.1%, trading at $67,485 by press time.
-
-
-
-Bitcoin seven-day price chart. Source: Finbold
-
-
-
-In the meantime, the challenge is on Bitcoin bulls to help the asset exit the current consolidation so that it can have a real shot at reclaiming a new record high.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
 Whales pour $110 million into DOGE, betting big on meme coin surge
 
 
@@ -11060,3 +10352,382 @@ Hyperliquid wants to be your trading hub. The order book-based decentralized exc
 [no-title]
 
 Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Binance Announces Major Changes To Stablecoin Access In Europe From June 30 | Bitcoinist.com
+
+
+								Binance, one of the world’s leading cryptocurrency exchanges, has recently announced significant changes to its stablecoin regulations in Europe. 
+Starting from the end of June, Binance will begin restricting access to “unauthorized” stablecoins in compliance with the new MiCA stablecoin rules across the European Economic Area (EEA). 
+Binance Adapts To New Stablecoin Regulations
+Under the new regulations, only regulated companies will be permitted to issue and offer stablecoins to the public, which will be classified as “Regulated Stablecoins.” 
+As a result, several existing stablecoins may not meet the requirements to be categorized as such. They will consequently be subject to certain restrictions, earning them the “Unauthorized Stablecoins.”
+
+To ensure a clear transition for its users and comply with the MiCA stablecoin rules, Binance will implement phased changes to the availability of Unauthorized Stablecoins, as announced on Monday. These changes will affect various aspects of Binance’s product offerings.
+Starting from June 30, the exchange will restrict the availability of the labeled Unauthorized Stablecoins for EEA users across its entire range of products and services. This includes Binance Convert, Spot Trading, Wallet, and more. 
+Users cannot engage in new products or services involving Unauthorized Stablecoins. Binance aims to prevent market disruptions and ensure compliance with the MiCA stablecoin rules.
+Impacts will also be felt in various areas of Binance’s ecosystem. Rewards, such as those obtained from the Rewards Center, Campaigns, and Referrals, will be altered to be distributed in Regulated Stablecoins, BNB, or other non-stablecoin tokens. 
+More Changes Ahead
+Spot Copy Trading will cease to be available for EEA users on June 29. Individuals using this service are advised to close their positions and transfer their funds to their respective Spot Wallets before the specified date and time. 
+Margin trading will also be affected, as new borrowings and transfers of Unauthorized Stablecoins as collateral into users’ Margin Wallets will be blocked. Existing Margin loans, however, will remain unaffected and will not be subject to forced liquidation until further notice. 
+Margin traders impacted by these changes are encouraged to close margin loans involving Unauthorized Stablecoins. Existing holdings of Unauthorized Stablecoins in Margin Wallets may still be utilized for trading until further notice.
+
+Binance’s Launchpad, Launchpool, Simple Earn, Loans & VIP Loans, Auto-Invest, Dual Investment, Cloud Mining, Binance Pay, Send Cash, Red Packet, NFT purchases, Spend To Earn, Gift Cards, Web3 Wallet – Earn Section, P2P, and OTC trades will also experience specific restrictions or changes related to Unauthorized Stablecoins.
+The daily chart shows BNB’s price recovery. Source: BNBUSD on TradingView.com
+As of press time, the exchange’s native token, BNB, is currently trading at $623, following the broader market’s recovery with a 4.5% gain in the past 24 hours, inching closer to its yearly high of $642 reached in mid-March. 
+Featured image from Unsplash, chart from TradingView.com 
+								
+								
+																	
+															
+						
+
+----------------
+
+Bitcoin Has Solid On-Chain Cushion Below $68,900: Stage Set For Fresh Rally?
+
+
+																On-chain data shows Bitcoin could have significant support between $66,900 and $68,900, which may help provide solid ground for a fresh surge to higher levels.
+A Large Amount Of Investors Bought Their Bitcoin Between $66,900 & $68,900
+According to data from the market intelligence platform IntoTheBlock, BTC is currently floating above a major demand zone. In on-chain analysis, the strength of any support or resistance level is based on how much “demand” was present at it.
+
+	Related Reading
+
+
+Below is a chart that shows the various Bitcoin price ranges near the current spot value and how they compare in terms of the total amount of the asset the investors purchased.
+The latest cost basis distribution of the asset around the current price levels | Source: IntoTheBlock on X
+Here, the size of the dot correlates to the total number of tokens that were last acquired at the corresponding price range. It would appear that, out of these zones, the levels between $66,900 and $68,900 currently host the cost basis of the greatest amount of BTC.
+More than two million addresses have acquired 1.1 million BTC inside this range. Since the current BTC spot price is above these levels, all investors who buy there will make slight profits.
+Investor cost basis is important in the on-chain analysis because the level has special psychological significance. A potential retest of it can result in a flip of the profit-loss balance for the holder.
+As such, investors may be prone to making some moves when a retest like this takes place. A holder carrying losses before the retest (that is, the retest is happening from below) may be tempted to sell for fear that the price will go down in the future.
+On the other hand, an investor in the green before the retest may have reason to believe the price would go up again and, thus, could decide to accumulate more.
+When retests of price ranges thick with investors, one of these reactions may arise on a scale that could be relevant for the wider market, therefore, major demand zones below can act as support points, while those above can act as resistance blocks.
+
+	Related Reading
+
+
+Bitcoin has a large support range of $66,900 to $68,900 right now, which could help cushion any falls should the asset’s price decrease.
+From the chart, it’s also apparent that, at the same time, the Bitcoin ranges ahead are thin with holders. This could, in theory, provide the ideal conditions for a rally towards higher levels.
+BTC Price
+Bitcoin surged past the $70,000 level earlier in the day, but the asset has since retraced to $69,100.
+Looks like the price of the coin has been going up over the past day | Source: BTCUSD on TradingView
+Featured image from Dall-E, IntoTheBlock.com, chart from TradingView.com
+																								
+															
+
+
+						
+
+----------------
+
+Global AI Adoption Hits 72%, Generative AI Use Doubles in 2024: Report - Decrypt
+
+More than seven out of 10 of businesses and organizations around the world are using artificial intelligence, a new study by the global management consulting firm McKinsey has found, a significant increase from the approximately 50% adoption rate observed a year ago.In a survey of more than 1,363 respondents, 72% said their organizations had adopted some form of AI in at least one business function, and 65% said their organizations were regularly using generative AI—twice the 33% rate reported in 2023.The impact of AI and generative AI extends across borders and industries. Last year, AI adoption was no higher than 66% in any part of the world, but this year, more than two-thirds of respondents in nearly every region report their organizations are using AI—with the largest increases in the Asia-Pacific region and China.The study garnered responses from 1,363 participants through an online survey in early 2024, with the results released last week. McKinsey says the data set could represent a full range of regions, industries, company sizes, functional specialties, and tenures. To adjust for differences in response rates, McKinsey weighted the data by the contribution of each respondent's nation to global gross domestic product (GDP).Last year, McKinsey published a report stating that "Generative AI could add the equivalent of $2.6 trillion to $4.4 trillion annually" to the world economy. This is equivalent to 15 to 40 percent of the entire economic impact of artificial intelligence as a whole.While AI, or artificial intelligence, is a broad term that encompasses various technologies designed to emulate human intelligence, generative AI is a specific subset of AI that focuses on creating new content. Traditional AI systems often analyze and interpret data, make decisions, and solve problems based on pre-existing information. But Generative AI uses deep learning techniques to generate new data that resembles the training dataset. This can include creating text, images, music, and even limited 3D worlds.Broken down by industry, the biggest increase in AI use was found in professional services, including human resources, legal services, and management consulting, where organizations are leveraging its power for areas that require human interaction for repetitive tasks.“The average organization using gen AI is doing so in two functions, most often in marketing and sales and in product and service development,” the study says. In sales alone, the use of generative AI has more than doubled since last year.The use of AI has matured, McKinsey reports, with organizations now more involved in mitigating its risks—particularly in terms of hallucinations and intellectual property infringement. The top concern among respondents was tackling inaccuracy, rising from 56% to 63%. Workforce and labor displacement fell as a concern, from 34% to 27%.Of the risk categories surveyed, respondents were least worried about environmental impact, political stability, and physical safety.Perhaps not surprisingly, McKinsey said AI adoption is boosting company bottom lines.“Respondents most commonly report meaningful revenue increases of more than 5% in supply chain and inventory management,” the study says.The study also found that many organizations are not just using off-the-shelf AI solutions but are customizing them or developing their own proprietary models. This trend towards tailoring AI technologies to meet specific business needs and achieve competitive advantage is particularly prevalent in industries with high public engagement, McKinsey notes.“Respondents in energy and materials, technology, and media and telecommunications are more likely to report significant customization or tuning of publicly available models or developing their own proprietary models to address specific business needs,” the report said.The study also found a significant increase in the use of generative AI both at work and in personal lives compared to last year. With the explosion of popularity of tools like ChatGPT, MidJourney and Stable Diffusion, people are using generative AI for more than business, exploring entertainment, education, and even simulating social interactions.For McKinsey, AI is more than just hype or a business trend. Generative AI is proving to be a business-changing technology.“If 2023 was the year the world discovered generative AI, 2024 is the year organizations truly began using—and deriving business value from—this new technology,” the report concludes.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Don't Let Wall St Take Over The New Generation of Money #bitcoin #bitcoinews #shorts - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Early Ethereum ($ETH) Investors Cash Out After 1,200,000% Gain Since ICO | Cryptoglobe
+
+
+                                
+Two early Ethereum investors have recently moved the funds that they acquired at the time of the network’s initial coin offering (ICO), to seemingly cash out their funds after they appreciated around 1,200,000% from their purchase price.
+
+
+
+According to on-chain analysis service Lookonchain, two separate Ethereum ICO participants have recently deposited a total of 9,518 ETH worth around $36.3 million at the time of the deposit onto popular centralized cryptocurrency exchange Kraken.
+
+
+
+The deposit came after they invested in the now second-largest cryptocurrency by market capitalization at the time of its Genesis, with its price then being of around $0.31 per ETH, meaning that the value of their funds appreciate 1,200,000% since then, with one ETH now trading at $3,780.
+
+
+
+
+
+
+
+The ICO participants, however, deposited only a portion of the 200,000 ETH their received at the time they purchased it during the ICO, having spent $62,000 on the cryptocurrency, with their holdings now worth well over $750 million.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+The transactions came after the U.S. Securities and Exchange Commission (SEC) recently approved form 19b-4 filings for several spot Ether exchange-traded funds (ETFs), a move that sent shockwaves through the cryptocurrency market and paving the way for these products to start trading.
+
+
+
+Michael Nadeau, a prominent crypto analyst, recently provided an in-depth analysis of the current and future state of the cryptocurrency market, with a particular focus on Bitcoin and Ethereum, suggesting ETH could significantly outperform BTC in the near future.
+
+
+
+On top of that, data shows that since Ethereum transitioned into a Proof-of-Stake consensus algorithm and after the London hard fork, over $16.6 billion worth of the cryptocurrency have been burned.
+
+
+
+The London hard fork included the implementation of Ethereum Improvement Proposal (EIP) 1559, which changed the way transaction fees on the network work. 
+
+
+
+Featured image via Pixabay.
+
+                            
+                        
+
+----------------
+
+Bitcoin (BTC) to Test $70,000 Again This Week? XRP Fights for Bull Market Comeback, Did Ethereum (ETH) Hit Plateau?
+
+
+
+
+Cover image via www.freepik.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+Bitcoin did not give up on the $68,000-$70,000 price range and might be gaining some momentum for a breakthrough attempt. The digital gold is currently trading at around $69,000, bouncing off of the 26 EMA. However, $69,400 is a significant resistance threshold that may cause some serious trouble if BTC does not gain enough momentum.As Bitcoin attempts to break through the critical $70,000 barrier once more, the BTC/USD chart shows a bullish sentiment. The price has demonstrated resilience and the possibility of upward movement by recently rebounding off the 26-day Exponential Moving Average. BTC/USD Chart by TradingViewThis rebound implies that buyers are intervening and giving the market the support it needs to remain above $68,000. Currently Bitcoin is battling the $69,400 resistance level, a critical point that has historically been challenging to surpass. If this level is not broken, there could be a reversal toward $70,000 and lower.A correction may find additional support at the 50-day EMA and the 100-day EMA, which are both positioned below the current price. The trading volume has increased somewhat, suggesting that traders are becoming more interested and involved. Any meaningful price movement must be sustained by this volume spike.XRP's questionable stateXRP is currently in a mixed state: on the one hand, the asset is still heavily suppressed; on the other, it is gaining some power and potentially even gaining some strength for a bounce. One way or another, it is still moving under the 50 EMA and definitely has to break through in order to be considered a bounce contender.Given that XRP has not yet been able to decisively break through the 50-day EMA it is especially important. If the price continues to rise above this barrier, it may be a sign that buyers are taking charge and driving up the price. But the bearish attitude might still be prevalent as long as XRP stays below this mark.The low trading volume may indicate a lack of confidence among traders. XRP will require more trading volume to sustain the price movement in order to create a successful recovery. Strong participation is usually indicated by high volume, which can also confirm the direction of the price trend. The RSI is in a neutral zone, at around 50 and does not provide any substantial insight.Ethereum's issueEthereum is clearly facing some struggles as the asset has stayed in the same trading range for the last few weeks. Considering the trading volume, it is not the issue, since bears are not really ready to push it downwards. But there is also an important factor to consider: the exhaustion of bulls.The Ethereum/USD chart indicates that the cryptocurrency has been settling into a small range, approximately ranging from $3,750 to $3,850. The price has not broken out considerably higher despite prior bullish momentum suggesting a possible plateau. Although sellers are not actively bringing prices down this stagnation may be the result of bullish exhaustion, in which buyers lack the power to drive prices higher. More context is given by the chart's moving averages. But failing to break above the present resistance level around $3,850 might indicate a consolidation phase or even a possible retreat. The current range needs to be broken, and volume analysis indicates that trading activity has not increased significantly. Increased market participation would be indicated by a spike in volume, which might encourage a breakout. The low but consistent volume for the time being indicates that traders are waiting to see what will happen before making a big move. Ethereum is getting close to overbought conditions, as indicated by the RSI, which is currently trading between 60 and 70. Even if it is not a drastic scenario, it implies that the upside potential might be constrained in the absence of a market correction or consolidation period.
+
+
+
+----------------
+
+Profits of Bitcoin short-term holders dip 32%, but here's the good news - AMBCrypto
+
+
+
+Bitcoin’s short-term holder metric showed the recent consolidation has eroded their profits.
+An influx of new investors could arrive, which might lead to a price breakout.
+
+Bitcoin [BTC] short-term holder (STH) profits were down 32%, crypto analyst Axel Adler observed. On the 13th of March, the profit of STHs was 42%.
+At press time, even though the price of Bitcoin is not much lower, the profit is at 10%.
+
+This is a positive development. The consolidation of the past two months has done its job and shaken out the impatient market participants. The high-profit levels have also been reset, giving Bitcoin bulls renewed energy to drive prices higher.
+AMBCrypto took a closer look at on-chain metrics to understand the behavior of short-term and long-term holders, and what insights that could have for the future price trends.
+Using the realized price age bands to understand holders’ sentiment
+
+The UTXO realized price age distribution metric showed that holders whose Bitcoin is aged 1 month to 18 months saw increased activity since March. The degree of this increase varied, with the shorter-term holders being more active in the markets.
+On the other hand, the 18-month to 3-year-old Bitcoin saw a decline in activity. This was a sign of reduced coin movement from these holders, which further outlined strong bullish expectations from the long-term investors.
+New investors could be poised to enter the market soon
+Historically, the first two months after the halving have seen BTC consolidate. The reduced activity among the older cohorts reflects this expectation as they did not see a dramatic shift in activity in the past two months.
+
+Another post from Axel Adler highlighted this. The realized market capitalization from investors holding BTC for less than a month had fallen dramatically in recent weeks but was beginning to climb higher again.
+
+Is your portfolio green? Check the Bitcoin Profit Calculator
+
+If this uptrend continues, it could mark a new phase of price expansion for Bitcoin. Investors and traders could keep a close eye on this metric.
+With STH profits down, we will likely see a move northward, but the demand was not yet in place to drive this price move.
+
+
+
+
+
+
+----------------
+
+Ripple CEO Delivers Harsh Criticism For Dogecoin, What's The Problem? | Bitcoinist.com
+
+
+								The Chief Executive Officer (CEO) of Ripple, Brad Garlinghouse, has taken an unexpected swipe at Dogecoin (DOGE), the largest meme coin by market capitalization. Garlinghouse has criticized Dogecoin, claiming it lacks real utility due to its meme-based nature. 
+“Dogecoin Has Not Been Good For The Industry”
+At the Consensus 2024 Conference, one of the world’s largest and longest-running crypto-focused gatherings, Garlinghouse publicly criticized Dogecoin (DOGE), disparaging its intrinsic value and real-world use cases. 
+
+The Ripple CEO shed light on the prevailing speculation narrative surrounding the cryptocurrency sector, implying that the crypto industry has not yet achieved widespread acceptance and regulatory clarity, given its status as a nascent and speculative global industry. 
+Additionally, Garlinghouse disclosed that the crypto sector must transcend its speculative narrative, suggesting that meme-based cryptocurrencies like Dogecoin, which thrives on speculation, presented a significant hurdle to the industry’s evolutionary progress. 
+The Ripple CEO also stated during the conference that Dogecoin has not been a good development for the crypto industry. He acknowledged that he was not opposed to Dogecoin, but emphasized his uncertainty about the meme coin’s real-world applications. Moreover, he pointed out that Dogecoin lacked projects aimed at providing practical solutions to utility needs. 
+As a meme coin, Dogecoin’s value is primarily influenced by its community, popularity and social media trends. Although the meme coin was created as a joke in late 2013 by Billy Markus and Jackson Palmer, over the years, Dogecoin has grown astronomically. 
+The cryptocurrency has consistently pushed beyond the bounds of the meme coin status, cultivating a community with millions of investors and supporters and rising to an all-time high of $0.73. Additionally, Dogecoin has gained recognition from prominent celebrities including SpaceX and Tesla CEO, Elon Musk. 
+While the doggy-themed meme coin may not have tangible use cases, Dogecoin remains a valuable investment in the crypto industry. Additionally, it acts as a cross-border payment solution for many crypto users, offering users reduced fees and faster transactions, in contrast to Bitcoin, the world’s largest cryptocurrency. 
+Problem Solving Takes Centre Stage In Crypto Industry
+While speaking at the Consensus 2024 conference, Garlinghouse disclosed that the advancement of the crypto industry depends on solving real problems. He stressed that beyond Dogecoin, he had observed substantial utility emerging from various crypto projects across different chains, indicating that these practical solutions are what will ultimately improve the industry in the long run. 
+
+An example of a crypto project focused on solving problems in the industry could be said to be Ripple. Operating as a cryptocurrency payments system, Ripple strives to become a payment settlement asset exchange and remittance system, offering a more efficient alternative to SWIFT, the vast messaging network utilized by banks and other financial institutions. 
+Ripple’s use cases are extensive but primarily center on utilizing blockchain technology and the XRP Ledger (XRPL) native token, XRP to facilitate transactions between financial institutions, businesses and organizations. 
+DOGE price continues choppy movement | Source: DOGEUSDT on Tradingview.com
+ 
+								
+								
+																	
+															
+						
+
+----------------
+
+Trader Says Ethereum-Based Altcoin ‘About To Get Sent,’ Predicts Massive Q4 Rallies for Bitcoin, ETH and Solana - The Daily Hodl
+
+
+								Widely followed trader Inmortal says this year will see massive rallies for Bitcoin (BTC), Ethereum (ETH), Solana (SOL) and one additional altcoin.
+The pseudonymous trader tells his 214,000 followers on the social media platform X that API3 (API3), a decentralized data oracle network that aims to connect traditional APIs with blockchain applications, is ready to “get sent” after a long consolidation period.
+
+
+
+
+
+
+
+
+
+
+Inmortal mentions API3’s recent strategic funding round led by digital asset investment firm DWF labs and the bullish technicals on the altcoin’s chart.
+“API3 about to get sent.
+API3 has successfully concluded a strategic funding round, allocating treasury assets in exchange for four million USDC.
+About the chart? nothing more to add, it’s just hyper bullish.
+> +600 days accumulation over
+> Clean retest of acc zone.
+Send it.”
+Source: Inmortal/X
+Looking at the trader’s chart, he seems to predict that the Ethereum-based altcoins will hit $6. At time of writing, API3 is trading at $3.37, up over 9% in the past day.
+Looking at the broader markets, Inmortal is predicting strong 2024 finishes for BTC, ETH and SOL. According to the analyst, the next couple of months will likely be uneventful for much of the digital asset markets but expects a full-blown “parabolic uptrend” in Q4.
+“> Boring June-July (chop + some traps for both sides)
+> Uptrend resume in August
+> Parabolic trend all Q4
+BTC goes above $100,000, ETH above $10,000, $SOL above $500.
+Altcoins do a x2-x5
+Charts never lie.”
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Featured Image: Shutterstock/Salamahin/Viktoriia Bondarenko
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Dapper Labs Reaches $4 Million Settlement in NBA Top Shot NFT Lawsuit - Decrypt
+
+Dapper Labs, the company behind NBA Top Shot and other prominent on-chain collectibles, has settled a yearslong class action lawsuit with disgruntled customers who argued that Top Shot NFTs constituted illegally offered securities, court filings revealed Monday.As part of the settlement, Dapper will pay out $4 million to the suit’s plaintiffs, the company’s CEO, Roham Gharegozlou, told Decrypt. Those funds include monetary relief for the plaintiffs’ claims, and will also cover legal fees.In return, if the settlement is approved, the plaintiffs will forfeit any future right to claim that Top Shot NFTs are securities, per Gharegozlou. “The settlement provides legal clarity and frees the Dapper Labs team up to focus on its core mission—delivering unparalleled experiences for its core users,” the executive said.Last February, a federal judge ruled—in a major setback for Dapper—that the lawsuit could proceed, given that Top Shot NFTs “plausibly” met the definition of a securities offering. Key to the judge’s finding was the fact that Top Shot NFTs live on Flow, a blockchain network originally developed by Dapper. The judge deemed Flow a “private” blockchain, in contrast with networks like Bitcoin or Ethereum, which are not controlled by any one entity. Further, the judge found that statements made by Dapper and its representatives, including Gharegozlou, had implied the collectibles would increase in value over time. The company has insisted in the past—and Gharegozlou maintained today—that Flow is sufficiently decentralized and not under Dapper’s control, given that the network is maintained by the independent Flow Foundation.The Dapper co-founder added, however, that the class action suit’s plaintiffs demanded “certain business changes” at the company as a condition of the settlement. Those demands, which have been accepted by Dapper, include the company’s relinquishing of any FLOW tokens in its possession allocated for Ecosystem Reserve to the Flow Foundation.Other demands, such as that third party marketplaces besides Dapper be permitted to transact Top Shot NFTs, and that the company process withdrawals in a more timely manner, were already remedied years ago.When the suit was first filed in 2021—the heyday of the digital asset boom—it marked one of the first tests of the security status of NFTs. Since then, huge swathes of the crypto fungible token market have come under fire by American regulators. Except for sporadic circumstances featuring particular facts, NFTs appear to have—at least, for now—avoided such asset class-wide repudiation.Edited by Andrew Hayward. This article has been updated to clarify the demands of the plaintiffs.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Trump Conviction Barely Dents His Odds of Winning Election: Prediction Markets
+
+On PredictIt, a more mainstream betting site where trades are placed in dollars rather than stablecoins, the Trump contract actually gained 1 cent following the guilty verdict, although at 51-48 his lead over Biden is narrower and closer to the polls than on Polymarket. Unlike Polymarket, which blocks U.S. users under a regulatory settlement but has traders around the world, PredictIt is open only to Americans.
+
+----------------
+
+'Bank to the Stars' Facing $770,000,000 Lawsuit for Allegedly Aiding Ponzi Scheme, Ignoring Glaring Red Flags: Report - The Daily Hodl
+
+
+								A lender known as the “bank to the stars” is being sued for $770 million for allegedly aiding and abetting a Hollywood Ponzi scheme.
+Plaintiffs for the lawsuit accuse the Los Angeles-based lender City National Bank (CNB) of enabling a fraudulent scheme that bilked hundreds of investors, reports the Los Angeles Times.
+
+
+
+
+
+
+
+
+
+
+The lawsuit alleges CNB provided millions of dollars in loans to Zachary Horwitz, the mastermind of a film-licensing scheme that fleeced more than $690 million from friends, family and other investors.
+In February, the Securities and Exchange Commission (SEC) announced Horwitz had been convicted of violating multiple securities laws for duping victims with claims that investors would see more than 35% returns from his business of selling movie rights to Netflix and HBO. But in reality, Horwitz never sold any movie rights to the streaming services and used the money to fund his luxurious lifestyle and satisfy earlier investors.
+The lawsuit claims that between 2013 and 2019, the lender processed $1 billion in transactions for Hortwitz, issued $64.2 million in loans and gave him 456 credit extensions.
+The bank also allegedly ignored “glaring red flags” and “bent the rules” for Horwitz throughout the years while substantially assisting him by “adding an air of legitimacy” to his Ponzi scheme. According to the lawsuit, City National Bank knew that Horwitz bragged about his relationship with the lender in the documents he shared with investors.
+The plaintiffs are asking the court to order CNB to pay $770 million to victims of Horwitz’s scheme.
+A spokesperson at the lender says the bank won’t comment on ongoing litigation.
+City National Bank has more than $93.72 billion in assets with 70 locations across eight states.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+Iggy Azalea Goes Full Solana With Mad Lads PFP as MOTHER Nears $90 Million Market Cap - Decrypt
+
+Rapper Iggy Azalea’s MOTHER token on Solana saw a spark of trading demand over the weekend, surging to an all-time high price on Saturday—just days after it launched. And the musician, who has been broadly embraced by Crypto Twitter, continued her constant tweeting with a familiar-looking profile picture (PFP) in tow.Azalea started rocking a custom Mad Lads PFP on Friday, one day after the Solana project tweeted out a custom honorary avatar for her that was apparently based on a photo reference. Mad Lads is the most valuable Solana NFT collection by a wide margin, currently standing at over $10,300 worth of SOL on secondary marketplaces.One day after equipping the PFP, Azalea’s MOTHER token jumped to a new peak price of $0.08952, per data from CoinMarketCap, giving it a market cap of $88.7 million.The price fell by nearly half by Sunday night, but then rebounded again on Monday, nearly matching the previous peak before starting to dip again. As of this writing, MOTHER sits at a price above $0.72, giving it a market cap over $70 million. It’s up 34% on the day.The rapper’s crypto market entrance last week was marked by drama. She launched the token after controversial crypto promoter Sahil Arora—who had helped deploy Caitlin Jenner’s meme coin earlier in the week—teased an IGGY token and collected $380,000 worth of presale funds for a token that ultimately had nothing to do with her.Azalea said that ultimately she decided not to work with Arora, and tweeted at him publicly to “take your L and go already.” Azalea was widely praised by traders on Twitter for being so heavily engaged and admitting that she was learning as she went, promising that the meme coin wouldn’t be a simple cash grab or pump-and-dump.Nearly a week later, she’s still in the arena (of Crypto Twitter), spreading memes and rocking a custom PFP as her token again flirts with higher gains.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
