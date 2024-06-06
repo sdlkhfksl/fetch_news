@@ -1,143 +1,3 @@
-Crypto set for a âbright June," according to industry experts - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            The approval of spot Ethereum (ETH) exchange-traded funds (ETF) in the US sets a good tone for the crypto market at the end of 2024’s second quarter. Investors’ eyes are all over how the ETH price will react, how the altcoin market will behave, and what altcoin ETFs might be presented to the SEC in the upcoming weeks. Industry experts shared with Crypto Briefing their insights into June’s outlook.Tristan Frizza, founder of decentralized exchange Zeta Markets, stated that the crypto market will continue with “choppy” action in the short term. However, Bitcoin (BTC) whales are still accumulating BTC, while the beginning of Ethereum ETFs trading might drive demand for ETH up. This paints an optimistic view for the long term in 2024, especially as the ETF approval is likely to ripple positive sentiment throughout the broader marketAdditionally, with the rising speculation on market direction, the market might see an increase in on-chain derivatives trading volume over time. Jag Kooner, Head of Derivatives at Bitfinex, also believes that the approval of the Ethereum ETFs represents a significant milestone for crypto, capable of further integrating digital assets into mainstream finance. Furthermore, it boosts investors’ confidence in the short term.
-“The ETF’s approval is expected to boost investor confidence and could lead to a price surge for ETH. The increased liquidity and stability from institutional investments could make ETH a more attractive asset for both retail and institutional investors,” Kooner added.
-Marko Jurina, CEO of Jumper.Exchange, highlighted that the US tax payments have been completed, and China is injecting additional liquidity into the Yuan. Moreover, there is an expectation that the European Central Bank (ECB) will cut rates in June or July, amidst persistent inflation in Europe. Notably, crude oil prices have fallen below $80 for the first time since February, which can be seen as a de facto consumer stimulus.
-“These factors are converging to create a potentially volatile market environment, especially as we approach the US presidential elections. Consequently, we anticipate increased market interest and a likely positive trend throughout the summer,” Jurina assessed.
-On top of a June heated with speculations over the starting date of Ethereum ETF trading in the US, James Davies, co-founder and CPO of Crypto Valley Exchange, expects a “meme coin summer” soon. The memetic-based trading might overflow to the traditional markets, with stocks such as GameStop also receiving significant attention.
-“We see a summer containing the pump of meme coins similar to the NFT summer of 2021.  As a result, we will probably see some retail money pulled from other high-yield projects temporarily,” explained Davies. He added that another major event for crypto in June includes the continued arrival of more traditional market players into the space.
-Darren Franceschini, co-founder of Fideum, was quick to state that the market “can buckle up for a bright June,” as technical indicators from the crypto market point towards a rebound. 
-“Innovation in the blockchain space keeps pushing forward, and who knows, maybe June will see some exciting new developments. The broader economy looking good too – the Fed’s taking a measured approach with interest rates which could fuel steady growth. Experts are feeling bullish, and June might just be the turning point for a fantastic summer for both crypto and the world’s finances.”
-Year of electionsTwo important elections might impact the crypto market in 2024: the elections for the European Parliament and the US presidential elections. The European Parliament elections are close, set to happen between June 6th and June 9th. Jag Kooner, from Bitfinex, highlights that this election is important for shaping future legislation, including policies on cryptocurrencies. 
-“The elections could see a major shift in the political landscape, with right-wing and populist parties expected to gain substantial ground. This shift could influence regulatory stances, potentially leading to more stringent controls or, conversely, more supportive policies depending on the composition of the new parliament,” added Kooner.
-Notably, this has a direct impact on the implementation of the Markets in Crypto-Assets (MiCA) regulation. MiCA aims to create a unified regulatory framework for crypto across the European Union, providing legal clarity and potentially attracting more investment. 
-“The outcome of the elections will determine the pace and enthusiasm with which these regulations are implemented. A parliament more favorable to crypto could accelerate the adoption of supportive regulations, boosting market confidence. Conversely, a shift towards more conservative policies could introduce new compliance challenges and uncertainty,” stated Bitfinex’s head of derivatives.
-Moreover, although set to happen on November 5th this year, the US elections might start impacting the regulatory landscape for crypto already in June. Tristan Frizza, from Zeta Markets, underscored that the market is already considering the effects of a potential Trump win in the upcoming US elections, and that could lead to a more crypto-friendly administration.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-DIY Chatbot: Raspberry Pi Serves Up $70 AI Module - Decrypt
-
-Micro-computer developer Raspberry Pi is adding artificial intelligence to its latest motherboard model, the Raspberry Pi Foundation said on Tuesday.Developed in collaboration with artificial intelligence processor developer Hailo, the Raspberry Pi AI Kit is available to upgrade the Raspberry Pi 5 and retails for $70 the UK-based charity said. With the new AI upgrade, the tiny and affordable computer can run AI models—including chatbots, object recognition and pose detection, if a camera is attached.“If you’ve ever wanted to experiment with the world of neural networks, artificial intelligence, and machine learning on your Raspberry Pi 5, we have the perfect product for you,” Senior Principal Engineer at Raspberry Pi Naushir Patuck wrote.According to Raspberry Pi, the AI kit comes preassembled with a Hailo-8L “entry-level” AI accelerator module designed to support products that require limited AI capacity or lower performance.The small, affordable, modular Raspberry Pi hardware has fostered a massive do-it-yourself community, which has used the credit card-sized computers to power everything from small form media centers to Bitcoin nodes. Raspberry Pi is a popular tool for teaching children how to build and program computers, as well as other projects.Image: Raspberry PiAccording to Raspberry Pi documentation, the AI Kit connects to the Raspberry Pi 5 motherboard using an M.2 HAT+ adapter, which allows the AI Kit to run independently of the Raspberry Pi motherboard.The Raspberry Pi motherboard uses a Unix-based operating system, Raspberry Pi OS, that will need to be configured to take advantage of the AI add-on.“When the host Raspberry Pi 5 is running an up-to-date Raspberry Pi OS image, it automatically detects the Hailo module and makes the [Neural Processing Unit], available for AI computing tasks,” Raspberry Pi wrote.Once installed, Raspberry Pi users can go to Hailo’s “Model Zoo,” which features a library of pre-trained AI models.Launched in 2017, Tel Aviv-based Hailo develops AI hardware, accelerators, and systems used in autonomous vehicles, and generative AI models. In April, Hailo announced the close of a $120 million funding round, coinciding with the release of its latest AI accelerator, the Hailo-10.“We are thrilled to support Raspberry Pi and empower its vibrant community of professional engineers and creative makers with cutting-edge AI capabilities,” Hailo CEO and co-founder Orr Danon said in a separate statement. “Our partnership with the world’s leading single-board computer provider will inspire a new era of computing, enhanced by our high-performance AI processing capacity.”The Raspberry Pi Foundation and Hailo did not immediately respond to a request for comment from Decrypt.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-CleanSpark mined 417 Bitcoin in May, now holds 6,154 BTC - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-Megaphone
-
-
-
-----------------
-
-Can Shiba Inu Price Reach A New ATH Of $0.0001? Analyst Says it’s Closer Than You Think | Bitcoinist.com
-
-
-								Despite having a good year in 2024, the Shiba Inu price has yet to beat its previous all-time high price of $0.00008. This has sparked speculations of whether the meme coin would be able to reach new milestones such as $0.0001. In regards to this, a crypto analyst has unveiled a brand new analysis and prediction that puts the Shiba Inu price 300% higher than it currently is, at a new all-time high price.
-Shiba Inu Price Can Reach $0.0001
-Shiba Inu community member Shib Knight shared an analysis that has raised the hopes of investors. This analysis shows what looks to be support for Shiba Inu already being formed at around $0.000025. From here, it is possible for the meme coin’s price to bounce and rally.
-
-The target laid out by the crypto analyst puts the SHIB price at above $0.0001. This is a price target that was called for in the 2021 bull market, but the meme coin had failed to reach it. Instead stopping at $0.00008 before crashing around 90% in the bear market.
-However, it seems that Shiba Inu has finally gathered enough momentum to retire at this level once more. According to Shib Knight, the price will rise the almost 350% required to reclaim this level. But that is not the most interesting thing about this prediction.
-The time frame suggests by the crypto analyst for when this will happen is what has caught the attention of crypto investors. If the analyst is correct, then the Shiba Inu price would be sitting above $0.0001 sometime this June.
-
-
-SHIB Holds Up Well Amid Market Crash
-One thing that has shone through for Shiba Inu is its ability to retain a good portion of its value even as prices are crashing. Over the last day, the Bitcoin price has fallen below $69,000 once more, taking the market down with it. Many cryptocurrencies have notched double-digit losses in the last week as a result of this, but not all have suffered this fate.
-
-More specifically, meme coins such as BONK and PEPE have suffered notable losses, with the former falling more than 22.5% and the latter seeing 14.6% losses. Likewise, others such as FLOKI and Dogwifhat have seen their losses cross 10%.
-However, Shiba Inu maintains one of the lowest loss rates, falling only behind Dogecoin in top meme coins. While Shiba Inu has fallen only 6.2% during this time, Dogecoin has fallen 5.3%. This makes the top mee coins the strongest when it comes to weathering a market crash.
-SHIB whales push price up | Source: SHIBUSDT on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-GameStop memecoin experiences record volume amid 300% surge - AMBCrypto
-
-
-
-GME started the month with an over 300% spike in value.
-The volume has set another ATH record.
-
-U.S. financial analyst Keith Gill’s actions once again stirred the market, triggering another surge in the GameStop memecoin. This surge followed a similar rise in the stock equivalent after Gill reactivated his account on Reddit.
-GameStop memecoin resurgence
-On 3rd June, the value of GameStop memecoin soared by over 300%. This surge was attributed to posts by Keith Gill, also known as Roaring Kitty, on X and Reddit.
- Gill’s account posted a reverse UNO card on X, which sparked various interpretations. 
-Meanwhile, on Reddit, the investor shared details of his GME stock holdings and options. Before this, Gill had been inactive on X for over two weeks and on Reddit for over three years.
-Gill’s post also led to a surge in GameStop’s stock price. This isn’t the first time his social media activity has caused such reactions. In May, a post on X after years of absence stirred speculation, resulting in a significant surge in the GME memecoin’s value.
-GameStop memecoin’s 300% spike
-Analysis of GameStop memecoin on a daily timeframe revealed a spike of over 300% by the close of trading on 3rd June.
-The memecoin surged by 269.27%, climbing from approximately $0.00038 to $0.014. In May, it experienced a remarkable rise of over 1,500% following Roaring Kitty’s post.
-Source: TradingView
-At the time of writing, GameStop memecoin was trading at around $0.012, marking a decline of over 14%. 
-Additionally, the spike pushed it into the overbought zone according to its Relative Strength Index (RSI), which exceeded 70 before declining due to the price drop.
-Analysis of GameStop memecoin’s volume on Santiment also showed a significant spike. On 3rd June, the volume surged from around $19 million to over $490 million, marking the highest volume in years. 
-As of the latest data, the volume was nearly $328 million.
-Source: Santiment
-
-
-
-
-
-
-
-----------------
-
 Solana Trader Turns $10,000 Into $400,000 in 10 Minutes With Little-Known Cryptocurrency | Cryptoglobe
 
 
@@ -9250,3 +9110,251 @@ This growth could lead to significant free cash flow for token holders, resultin
 						
 						
 						
+
+----------------
+
+Meme Coins in Retreat as Bitcoin (BTC) Struggles to Maintain $71K (Market Watch)
+
+
+																Bitcoin’s price rise was stopped at just under $72,000 despite the impressive ETF inflows yesterday, and the asset has retraced by around a grand since then.
+Most altcoins are also slightly in the red today following yesterday’s substantial gains, but BNB is still above $700, while LINK has dropped by 3%.
+BTC Struggles at $71K
+Bitcoin had a quiet weekend in which its price stood primarily around $67,500 after recovering from the late Friday dip to $66,600. However, Monday was a lot more eventful and positive for the bulls as the asset jumped by roughly three grand and briefly exceeded the coveted $70,000 mark.
+Another minor retracement followed in which the cryptocurrency slipped to $68,700, but the bulls went back on the offensive on Wednesday.
+This culminated in a price surge to a 15-day peak of $71,767. Thus, the primary digital asset came less than 3% away from its all-time high registered in mid-March. These gains came amid another day of massive inflows entering the US spot Bitcoin ETFs.
+
+
+Thanks for subscribing, you will get your first report in the next hours!
+
+
+Nevertheless, they weren’t enough to maintain BTC’s run and the cryptocurrency has retraced by around a grand and now stands just below $71,000. Its market cap has slipped below $1.4 trillion and its dominance over the alts is at 50.3% on CG.
+Bitcoin/Price/Chart 06.06.2024. Source: TradingView
+Meme Coins in Retreat
+After the massive gains registered yesterday, most larger-cap alts have turned red today. This is the case with BNB, SOL, XRP, DOGE, TON, ADA, SHIB, and DOT, but their daily retraces are quite negligible compared to their increases yesterday.
+LINK and UNI have dropped slightly more (3% and 4.5%, respectively), but the former is still above $17, while the latter is north of $10.
+Some of the most popular meme coins have shed more value. For instance, WIF is down by 6%, FLOKI by 5%< and BONK has dropped by 4.5%.
+The total crypto market cap is down by $30 billion since yesterday’s peak but it is still close to $2.8 trillion.
+Cryptocurrency Market Overview. Source: QuantifyCrypto
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+Disclaimer: Information found on CryptoPotato is those of writers quoted. It does not represent the opinions of CryptoPotato on whether to buy, sell, or hold any investments. You are advised to conduct your own research before making any investment decisions. Use provided information at your own risk. See Disclaimer for more information.
+
+Cryptocurrency charts by TradingView.
+
+
+						
+																		
+										
+					
+					
+
+
+----------------
+
+Bitcoin Bull Mike Novogratz's Galaxy Digital Tokenizes $9M Antique Stradivarius Violin Into NFT For Loan Collateral - Benzinga
+
+Cryptocurrency investment firm Galaxy Digital announced the tokenization of a nearly 300-year-old vintage violin once owned by Russian royalty. The instrument will be used as collateral to back a loan.What Happened: The firm owned by crypto billionaire and Bitcoin BTC/USD bull Michael Novogratz, minted a non-fungible token of "Empress Caterina," an 18th-century Stradivarius violin, valued at roughly $9 million, according to a press release.The NFT was created exclusively for the financing transaction between Animoca Brands co-founder Yat Siu and Galaxy. Siu purchased the iconic instrument in 2023. The NFT was created on the Ethereum ETH/USD blockchain, and featured on the NFT marketplace OpenSea. Galaxy made it clear that NFT will not be available in the secondary market.Why It Matters: Tokenization of real-world assets is emerging as one of the hottest narratives in Web3. As part of this, off-chain assets like bonds, real estate, commodities, and art can be brought on blockchain rails, unlocking a new set of use cases for both traditional and decentralized finance.In the aforementioned case, the tokenization created an economic value of the precious asset without selling it. At the same time, it helped preserve the legacy by immortalizing it in the form of an NFT.As of this writing, the real-world tokenization industry has more than $4 billion in investments, according to DeFiLlama. Read Next: Shiba Inu’s Shytoshi Kusama Indicates ‘Massive Plans’ For The Crypto Project In Response to Ethereum Creator Vitalik ButerinPhoto via ShutterstockMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+Meme Coin Madness: This Trending Coin Explodes to New ATH Following Listing on KuCoin
+
+
+																TL;DR
+
+One recently-emerged frog-themed meme coin hit a new all-time high of $0.14, with a market capitalization briefly surpassing $1.4 billion.
+Meme coins are seeing significant interest, pushing the overall market cap of the sector to almost $70 billion. However, their high volatility poses substantial risk to traders.
+
+
+The Latest Rally
+While the prices of most cryptocurrencies have either consolidated or slightly retraced in the past 24 hours, some assets continue recording substantial increases. One example is the frog-themed meme coin Brett (BRETT), which reached a new all-time high of over $0.14 (per CoinGecko’s data). Its market capitalization briefly surpassed the $1.4 billion mark before settling at its current level of $1.35 billion.
+
+BRETT Price, Source: CoinGecko
+The asset’s impressive spike coincided with KuCoin’s decision to introduce the BRETT/USDT trading pair. Additionally, the company offered a 1,200,000 BRETT giveaway to celebrate the initiative. Users will receive a certain amount of tokens as rewards for each invitee they bring on.
+Other leading cryptocurrency exchanges that previously allowed services with the asset include Bitget, BitMart, Gate.io, and more. 
+Crypto X is full of users envisioning that BRETT’s bull run is nowhere near its end. The cryptocurrency investor using the handle STASHER highlighted the asset’s performance, predicting a further increase to $0.20 “before actually retracing.”
+
+
+
+
+“This looks like THE lower risk memecoin investment that genuinely is giving me DOGE, SHIBA, and PEPE vibes,” the analyst added.
+Andrew Kang chipped in, too, claiming that BRETT “is showing strength, and it feels like the magnet to $0.20 is sooner rather than later.”
+Last week, Crypto Rover – an X user with over 700,000 followers – revealed he has exposure to the asset, saying its price pump has resulted in substantial profits for him (at least on paper).
+The Overall Meme Coin Mania
+BRETT is not the only meme coin taking center stage as of late. The realm’s market capitalization nears the $70 billion mark, with Pepe (PEPE), Floki Inu (FLOKI), and many PolitiFi tokens witnessing impressive spikes.
+Despite offering traders the chance of making substantial profits in a short period of time, dealing with meme coins can also lead to appalling losses due to the infamous volatility of the asset class. Those about to enter the ecosystem should take a look at our dedicated video to protect themselves from some common mistakes:
+VIDEO
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Bitcoin (BTC) Price Resurgence, Binance Coin (BNB) Hits a New ATH, and Meme Coins Fiesta: Bits Recap June 6
+
+
+																TL;DR
+
+Bitcoin surged to $71,700 amid record inflows into US spot Bitcoin ETFs.
+BNB hit an all-time high of $710, surpassing major companies’ market caps, with forecasts suggesting it could reach $1,000.
+Floki Inu’s market capitalization peaked at over $3.2 billion before a slight retracement.
+
+
+BTC Headed North Again
+The price of the primary cryptocurrency has been on an uptrend in the past few days, rising to as high as $71,700 on June 5. Currently, it hovers the $71,000 mark (per CoinGecko’s data), representing an 11% increase on a monthly scale.
+The resurgence coincided with record figures related to spot Bitcoin ETFs in the USA. Those products witnessed a total inflow of almost $900 million yesterday, the second-best day since their approval in January. 
+Numerous analysts believe BTC could soar even higher in the near future, assuming certain factors are in place. The X user, Captain Faibik, predicted a rise above $90,000 should the asset surpass the “crucial resistance level” of $71,300.
+On the other hand, Ali Martinez assumed that a pullback is not out of the cards based on the TD sequential, which presents a sell signal on the four-hour chart. This technical analysis tool identifies potential price exhaustion points in the market and indicates when a trend is likely to reverse. 
+
+
+
+
+Still, the X user thinks a fresh uptrend could eventually follow the potential setback.
+BNB’s Success
+The native token of Binance—BNB—has been making the headlines recently. Its price exploded to an ATH of $710 on June 5, while its market capitalization touched the $110 billion mark. Thus, BNB surpassed well-known companies such as Airbnb, Starbucks, UBS, and more.
+The new peak was met with huge enthusiasm in the crypto community, with many industry participants envisioning a further rally. 
+The X users Bluntz and Sheldon The Sniper forecasted a surge toward the $1,000 milestone, while BATMAN revealed that BNB is part of their portfolio. The trader admitted hopping on the bandwagon in 2017 when a single token was worth a mere $0.60.
+“Close to 1200x makes it one of my top performers, only being beaten by my RUNE call,” the analyst stated.
+FLOKI’s Progress
+Another cryptocurrency that recently reached a new peak price is the dog-themed meme coin – Floki Inu (FLOKI). Its market capitalization briefly exceeded the $3.2 billion mark for the first time ever, thus flipping popular altcoins, including Monero (XMR), Arbitrum (ARB), Cronos (CRO), and more.
+In the following hours, though, FLOKI’s value slightly retraced, with its market cap plunging below $3 billion. Currently, the token is the 46th biggest cryptocurrency and the fifth-largest in its cohort.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Ripple CTO Issues Crucial Warning to XRP Community
+
+
+
+
+Cover image via www.youtube.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+Ripple’s chief technology officer (CTO), David Schwartz, known on the X social media platform (formerly Twitter) as @JoelKatz, has published a tweet to warn the XRP army against falling for a new phishing scam he has encountered on Elon Musk’s X network.Ripple CTO's scam warningDavid Schwartz shared a tweet of X user @3YearLetterman, which contains a screenshot of a direct message he had received on X recently. Schwartz commented, explaining to the XRP community that should anyone receive a DM like this, “it is fake.”The author of the message claims that he/she belongs to the X support team, and they inform the recipient that his/her account is currently “under investigation for copyright violations.” The message requires that the recipient should provide feedback on this accusation within 24 hours. To do that, he/she is required to follow a link provided in the message to complete a form. Failure to do that within the specified period of time would cause the suspension of the X account. According to the screenshot, the sender has more than 210,000 followers and joined X in December 2010 (long before Twitter was acquired by Elon Musk and rebranded as X).Schwartz warned his followers not to follow that link if they receive a similar message. He explained that the link goes to a phishing site, and users will have their X login and personal information collected there."Absolute proof I am not Satoshi": Ripple CTOApproximately a week ago, high-ranking Ripple executive Schwartz published a post to once again refute the rumor about him being the enigmatic creator of Bitcoin, Satoshi Nakamoto. The company’s CTO often has to dispel such allegations, but many within the crypto community still seem to be certain that it was Schwartz who blessed the world by creating the very first cryptocurrency.Back on that day, Schwartz published a selfie from the Consensus2024 event that showed himself and a guy wearing a glittering mask of a golden hue and a hood, hinting that this person preferred to stay anonymous - similar to Satoshi Nakamoto. “Finally, absolute proof I am not Satoshi,” Schwartz wrote.Prior to that, Schwartz tweeted that the idea of him being Satoshi was “not true but plausible.”
+
+
+
+----------------
+
+Cardano's Under-the-Radar Tech: What the Media Isn't Telling You
+
+
+							
+
+Cardano founder blasts crypto media for the “pathetic” negativity towards Cardano.
+
+
+
+Hoskinson highlighted key developments set to occur in the upcoming six months.
+
+
+
+Community builder points the media to Cardano newsletter for latest updates.
+
+
+
+
+Cardano (ADA) founder, Charles Hoskinson, posted on X, expressing his disdain for a few in the crypto media, highlighting the “profound disconnect between reality and opinion with the cryptocurrency influencer and media perception of Cardano versus its actual fundamentals.”
+
+
+
+
+
+
+
+Hoskinson pointed out that the Cardano blockchain is rapidly evolving, with several developments in progress. The upcoming hard fork is a new beginning for the blockchain that introduces substantial upgrades. The fork is to be implemented in two phases: Chang Upgrade Number One and Chang Upgrade Number Two. 
+
+
+
+Hoskinson said that there has been remarkable growth in the community of dApps on Cardano, and the blockchain is even leading the industry in R&D scaling. He also added that a lot of good things are happening on the blockchain, listing technologies like Hydra, partner chains, Midnight, and Prism, as well as community events, Catalyst, and the constitutional convention in Argentina.
+
+
+
+
+
+
+
+
+
+The IOHK founder also highlighted several events that would be huge within Cardano, including Rare Evo, a blockchain convention; Cardano summit, a global blockchain event; and Token 2049, another major event. Hoskinson concluded by stating:
+
+
+
+
+“It’s beyond pathetic and just reflects on the low quality and low effort they put into our ecosystem.  Cardano is here to stay, and it’s a juggernaut that will drag this industry kicking and screaming if it has to towards solving the real-world economic, political, and social issues we all face.”
+
+
+
+
+Hoskinson urged crypto media to rather focus on the following Cardano events:
+
+
+
+
+Major blockchain upgrade: Significant hard fork to enhance features and capabilities.
+
+
+
+Booming dApp ecosystem: Rapid growth of decentralized applications on Cardano.
+
+
+
+Scaling Innovation: Leading R&D in blockchain scalability.
+
+
+
+High-profile events: Participation in Rare Evo, Cardano Summit, and Token 2049.
+
+
+
+Hydra scaling solution: Maturing technology to significantly boost transaction speed.
+
+
+
+Community-driven initiatives: Events, catalyst projects that focus on real-world impact.
+
+
+
+
+Hoskinson expressed his disappointment within parts of the crypto media, stating that he sees a focus on headlines like “Will Cardano die?” while overlooking the numerous positive developments and blockchain advancements that are due in coming months.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Crypto Remains Sidelined as Voting in EU Parliament Election Kicks Off
+
+"Lídia Pereira was very involved and she's very young, from Portugal from the center right, and has a very good chance. And if she comes back, I think she's gonna be a great voice for digital technologies in general, but blockchain especially," said Tommaso Astazi, head of regulatory affairs at Blockchain for Europe, in Austin.
