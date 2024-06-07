@@ -1,238 +1,3 @@
-Ethereum Price to Hit $22,000 by 2030, Predicts VanEck - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsGlobal asset manager VanEck predicted Wednesday that the price of Ethereum will reach $22,000 by the end of the decade, dubbing the cryptocurrency “digital oil” in a new report. That would represent a 468% increase from Ethereum’s current price.While Ethereum has generated $3.4 billion in revenue over the past year, VanEck additionally sees that figure reaching $51 billion by 2030.“We believe ETH is a revolutionary asset with few parallels in the non-crypto financial world,” the report asserted. “The Ethereum network is likely to continue its rapid market share growth from traditional financial market participants and, increasingly, Big Tech.”VanEck characterized Ethereum as the centerpiece of its own financial system, as its network already secures over $90 billion in stablecoins, around $7 billion in tokenized assets, and $308 billion in digital assets.At the same time, VanEck sees Ethereum making inroads outside of crypto. Based on the size of business sectors that Ethereum-built applications could disrupt, VanEck estimated that the network's total addressable market stands at $15 trillion. Those opportunities lie largely in finance, banking, and payments, VanEck said.Ethereum could also find roles in infrastructure and artificial intelligence, the firm added, as well as marketing, advertising, social, and gaming.The report highlighted some of Ethereum’s distinct aspects as a network and an asset, from its nature as “programmable money” to a “yield bearing commodity.” Notably, VanEck’s report calls Ethereum an “internet reserve currency,” central to its massive ecosystem and layer-2 networks.VanEck’s report comes not long after the Securities and Exchange Commission’s approval of spot Ethereum ETFs. Allowing mainstream investors to gain exposure to the cryptocurrency in a traditional brokerage account, the move also had implications for Ethereum’s regulatory status.For crypto natives, the concept may be basic, but its significance was underscored by VanEck: In order to send Ethereum or engage with smart contracts, a user needs to spend Ethereum on gas fees, which are then removed from circulation through burning. In essence, VanEck said that this dynamic benefits Ethereum holders two-fold: providing demand while reducing supply.The asset manager expects Ethereum will also chip away at established tech giants like Google and Apple as a platform for developers to create consumer-facing applications. While the firms take around 30% of revenue from apps hosted in their respective digital stores, VanEck said Ethereum currently takes around 24% of reventhrough gas fees.“Compared to data-centric social networking platforms like Facebook, we believe Ethereum may enable more capable and lucrative applications for entrepreneurs,” the report stated. “As more data is generated in public and more commerce is moved off expensive, closed financial rails, business moats will erode.”Edited by Ryan Ozawa.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Ethereum Devs Shut Down Linea-Can Layer-2 Networks Be Trusted? - Decrypt
-
-Late Saturday, an Ethereum layer-2 network called Linea found itself stuck between a rock and a hard place.Using an exploit, attackers had drained $2.3 million worth of ETH from a decentralized exchange that operates on Linea, called Velocore. Unable to reach the Velocore team, Linea’s leadership made the decisive call to freeze all transactions across the network in an effort to prevent further malfeasance. The plan worked: Linea users were insulated from additional losses. That’s when the trouble started. Crypto users immediately decried Linea’s actions across social media, arguing that the company had violated the industry’s core principle, decentralization. If a few people could halt Linea in their pajamas, then how could the network be considered any better than Wells Fargo?Linea immediately pivoted, posting on Twitter that the network was still in the “training wheels” phase of decentralization, but that it planned to eventually transition to a completely trustless structure. (Disclosure: Linea is owned by Consensys, which is one of 22 investors in Decrypt).   The incident laid bare a contradiction, some developers say, that doesn’t only pertain to just one blockchain. Rather, it exposed flaws in the entire, burgeoning layer-2 ecosystem—a collection of privately owned networks that has been frequently touted as Ethereum’s path forward.  “So you're saying you intervened on behalf of users here, but in the future, hopefully, if you work really hard, you won’t be able to intervene and your users will lose all their money?” Tom Lehman, the co-founder of several Ethereum projects including layer-1 alternative Facet and Ethscriptions, told Decrypt. “It doesn’t make sense.”To Lehman, the contradictions exposed by Linea’s public relations woes this week are not isolated—they are endemic to layer-2 networks. “Having a layer-2 that's centrally controlled is not a problem,” he said. “It’s just that every single one of them being centrally controlled is a problem.”Nearly all major scaling networks—like Optimism, Arbitrum, Base, and Polygon—were created by private, for-profit companies. Most rely on sequencers, controlled by the network’s team, which batch transactions together and submit them to the Ethereum mainnet. In such cases, like Linea’s, project teams have the power to effectively shut off a network by halting said sequencers. Why do most layer-2s exert such centralized control over their transactions? Linea, which did not respond to Decrypt’s questions by the time of publication, claimed in statements this week that the issue is a technical one that requires long-term finesse. But financial incentives may also be at play. By controlling that single choke point through which all transactions must pass, layer-2 teams also control the profits derived from processing every network transaction. Such fees are the lifeblood of layer-2s, which often employ dozens of people, and such Ethereum networks are collectively raking in millions of dollars in monthly, on-chain profit.“L2s can be very profitable to run,” Lehman said. “But that profit is tied to how much control you have.”Some layer-2 teams say they are ahead of the pack, and have taken distinct steps towards decentralization. Arbitrum, for example, features a backup pathway that allows users to post their transactions to Ethereum directly, in case any issues emerge within the Arbitrum ecosystem. Submitting transactions via this delayed inbox is not ideal, however, and can take up to 24 hours. Steven Goldfeder, the CEO of Arbitrum core developer Offchain Labs, told Decrypt that the company is currently working to decentralize its sequencer—but made a point of arguing that it poses less of a centralization threat than other layer-2s, given that the Arbitrum Foundation could not single-handedly prevent users from posting transactions.  “On Arbitrum, the problem is a lot smaller than on other networks,” said Goldfeder.Goldfeder welcomes vocal criticism of centralization risks in the layer-2 ecosystem. He believes such dissent applies crucial pressure to companies that otherwise might focus on different priorities.“Otherwise, you have the wrong incentives: growth first, and decentralization at some point,” he said. “If we just take one centralized system and replace it with another centralized system with a vague claim of eventually decentralizing—often without technical details—then I think it's very dangerous.”Some developers like Arjun Bhuptani, the founder of inter-blockchain bridge Everclear, however, feel that even Arbitrum’s solution to current centralization issues on layer-2s is insufficient.“It is better, but is still not ‘censorship resistance,’” he told Decrypt of Arbitrum. Further, Arbitrum itself has suffered network-wide outages repeatedly in the last year. To Bhuptani, the issue of centralization is so pervasive on layer-2s simply because the privately owned networks are currently facing other, greater concerns.“It largely just comes down to prioritization,” he said. “Projects are seeing bigger threats to their survival today on other axes than censorship, and so building decentralization is lower priority than things like security, custody risk, and market traction.”It’s true that the matter of censorship on layer-2 networks is still largely theoretical. The Linea team, for example, has never used its power to block transactions on behalf of a sovereign government. But such a scenario is by no means fanciful. The U.S. government has blacklisted Ethereum wallet addresses on multiple occasions. Centralized crypto exchanges have cooperated with the Israeli government to ban flagged accounts. Just last month, a Dutch court sentenced a developer of Tornado Cash, an Ethereum coin mixer designed to keep transactions private, to over five years in prison. Even those within the layer-2 ecosystem worry about what might happen if the private teams behind so many networks—which, thanks to their incredibly low transaction fees, have recently been positioned as the best way to securely onboard the masses to crypto—are legally compelled to do the bidding of governments across the world. “Something that I might think is legitimate,” Goldfeder said, “some oppressive regime somewhere might think is illegitimate behavior that should be censored.”Some Ethereum developers feel, however, that the whole debate this week about Linea and crypto’s future has been blown out of proportion.  “It's easy for people who were not affected by hacks to complain,” Joseph Schiarizzi, developer of Arbitrum-based stablecoin OpenDollar, told Decrypt. “But if you've ever been a victim, you understand the Linea team made the right move.”“I do not expect every piece of infrastructure to be decentralized,” he continued. “I care much more about honesty and transparency, which Linea was great on.”Lehman, who is currently developing a more decentralized alternative to networks like Arbitrum and Optimism, said he doesn’t want to demonize layer-2 networks or dismiss their usefulness. He only worries about crypto’s future if they become omnipresent.“The problem comes when you say ‘L2s are the future, that's how we scale, that's it,’” Lehman said. “And in the process, [you] hand over the keys to giant billion-dollar entities and endorse them running insecure systems.”Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Florida Man Pleads Guilty to Wire Fraud Conspiracy Tied to Forcount Crypto Ponzi
-
-Juan Tacuri, 46, of Florida, pleaded guilty to one count of conspiracy to commit wire fraud in the Southern District of New York (SDNY), a charge which carries a maximum sentence of 20 years in prison. Tacuri also agreed to forfeit nearly $4 million back to his victims, as well as real estate purchased with victim funds as part of his plea deal.
-
-----------------
-
-Bitcoin (BTC) on Verge of Hitting $71,000, Ethereum (ETH) Shows Bizarre Activity, Will Solana (SOL) Become Number 1 Again?
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Bitcoin has finally broken through $70,000, setting itself up for further growth. As we can see, there is a good chance it will succeed at it, as the price is moving closer to $71,000 and trading volumes remain elevated.This bullish momentum is easily visible on the daily chart of Bitcoin versus the U.S. dollar (BTC/USD). Bitcoin is currently trading around $70,977 with the price action showing a steady climb. A major turning point was reached recently when the market broke above $70,000, indicating fresh interest and optimism. This optimistic view is supported by several important technical indicators. Bitcoin/USD Chart by TradingViewThe 50-day and 200-day moving averages in particular are positioned in a way that indicates sustained upward momentum. A traditional bullish signal known as a golden cross formed when the 50-day moving average crossed above the 200-day moving average.Volume analysis supports this optimistic scenario even more. The recent price surge is accompanied by elevated trading volumes, indicating strong market participation and interest at these price points. Maintaining the present upward trend and possibly pushing Bitcoin above $71,000 require this volume support. Furthermore Bitcoin remains a favorable investment option given the current macroeconomic climate. Bitcoin's allure as a store of value and safeguard against the devaluation of fiat currencies is still great in light of persistent worries about economic stability.Ethereum's weird positionThe surge toward $3,800 was not expected by the market, yet we are here. However, Ethereum's activity raises a lot of questions as the asset's price is going through an extremely prolonged consolidation phase, and it is unclear whether or not it will come out as a winner from it.After the steep increase to $3,800, the price of Ethereum has been trapped in a narrow range, as can be seen by looking at the daily chart of ETH against the USD. When buyers and sellers are evenly matched, the market is usually in a state of indecision, as indicated by this sideways movement. Ethereum has tested $3,750 several times without breaking below what appears to be the key support level. A number of technical indicators shed light on Ethereum's present situation. A golden cross, or the potential continuation of a bullish trend, could be indicated if the 50-day moving average, which is approaching the 200-day moving average, crosses above it. However, the market continues to be cautious until such a crossover occurs. Further more, the fact that trading volumes have been comparatively low during this phase of consolidation suggests that a sizable portion of market participants are holding off until a more distinct trend becomes apparent. Solana's market positionSolana's path on the market was tough in the last few weeks, but things are changing rapidly, with Bitcoin bouncing toward $70,000 and investors gaining some of that positive sentiment back. However, fundamentally, Solana might not be doing as well as it used to.Solana shows a gradual but consistent recovery. The 50-day and 200-day moving averages are supporting the modest uptrend that Solana is currently showing at about $172. 92.  Though technical indicators point to a bright future, the larger ecosystem surrounding Solana paints a different picture. The Solana meme coin scene used to be a hive of activity and creativity, but it is not as active as recently.There has not been much buying interest in Solana, as seen by the low trading volume. This is concerning because price movements need to be supported and maintained by sustained volume, which is probably the biggest issue for it right now. 
-
-
-
-----------------
-
-Nvidia Flips Apple As Stock Hits $3 Trillion Market Cap Amid AI Boom - Decrypt
-
-The stock price of AI and gaming chip manufacturer Nvidia (NVDA) surged past $1,235 on Wednesday, up 14.2% for the day, bringing the company's market capitalization to $3.01 trillion, according to Yahoo! Finance. If the trend holds, Nvidia will be the second most valuable publicly traded company, leapfrogging iPhone maker Apple (AAPL).Nvidia—which has seen its stock skyrocket more than 150% so far this year—began the week trading at $1,125 on Monday before rising 9.78% on Wednesday. Apple is trading at $195.87, up 0.78% for the day.The only other company in the $3 trillion club is Microsoft (MSFT), which has long held the top spot at $3.15 trillion and is trading at $424.01.By comparison, the entire cryptocurrency marketplace has a market capitalization of $2.8 trillion, according to CoinGecko.The Decrypt Emerge 2023 company of the year, Nvidia has charged headlong into artificial intelligence, including hardware, software, and robotics.In February, the market cap of the global chipmaker flipped cloud computing and e-commerce giant Amazon (AMZN) when Nvidia hit $1.78 trillion, compared to Amazon’s $1.75 trillion at the time. Later that month, Nvidia reported $22.1 billion in revenue in the first quarter of 2024.“Accelerated computing and generative AI have hit the tipping point,” Nvidia founder and CEO Jensen Huang said at the time. “Demand is surging worldwide across companies, industries, and nations.”In March, Nvidia unveiled their new Blackwell AI GPU, as well as Project Gr00t—aimed at advancing humanoid robotics and AI—and a limited integration with Apple's Vision Pro.Reaction to the news of Nvidia’s new $3 trillion market cap was swift, with many—like Bloomberg senior ETF analyst Eric Balchunasa—putting the giant numbers into perspective.Others noted that Nvidia's success was remarkable, because it primarily provides products and services to other companies rather than directly to consumers.Among Nvidia's more prominent investors is U.S Rep. and former Speaker of the House Nancy Pelosi, whose investment in Nvidia has so far netted her $4 million, according to Unusual Whales.“[Pelosi] is up over 210% in 197 days and [has] still not sold her calls,” Unusual Whales wrote. “Pelosi has made twenty times her salary. Her portfolio is near all-time highs, up 93%.”Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-Analyst Says Blue-Chip Altcoin Could Hit New All-Time Highs Shortly, Updates Outlook on Three Additional Coins - The Daily Hodl
-
-
-								A widely followed crypto analyst believes one top-10 altcoin by market capitalization could soon hit new all-time highs (ATHs).
-Pseudonymous crypto trader Altcoin Sherpa tells his 216,700 followers on the social media platform X that BNB, the native token of the BNB Chain, continues to have a strong market structure.
-
-
-
-
-
-
-
-
-
-
-“BNB: slow and steady wins the race. This thing goes to ATH shortly. Wish I still had a bag of it, sold it during the bear market. Hard times then.”
-Source: Altcoin Sherpa/X
-Looking at his daily chart, the trader suggests that BNB is about to flip the upper bound of a trading range at $621.50 into support and continue higher.
-BNB is trading for $669 at time of writing, up more than 7% in the last 24 hours. BNB reached an ATH of $686 on May 10th, 2021.
-Next up, the trader is long-term bullish on Bittensor (TAO), a decentralized blockchain platform that focuses on machine learning and artificial intelligence (AI).
-However, he warns TAO needs to hold the key level of $350 as support or it could collapse in value.
-“TAO: I would like to see this continue chopping around $350-$500 for a bit to form a solid bottom. This is likely to take weeks and this is the time period to scale in. Obviously if $350 gets lost, this thing is going to sub-$300 quickly.”
-Source: Altcoin Sherpa/X
-TAO is trading for $392 at time of writing, up nearly 4% in the last 24 hours.
-Next up, the trader says My Neighbor Alice (ALICE), a non-fungible token (NFT) play-to-earn video game, could revisit lower Fibonacci levels before bouncing.
-“ALICE: if scalping, I think taking a quick trade at .382 and .50 are decent setups. $2.13 and $2.03 are reasonable areas to bid in the short term and should provide a bounce.”
-Source: Altcoin Sherpa/X
-ALICE is trading for $2.15 at time of writing, down more than 10% in the last 24 hours.
-Lastly, the trader says that NOT, a community token for the popular Telegram-based tap-to-earn mining game Notcoin, may have formed a market bottom after bouncing from $0.0199.
-Source: Altcoin Sherpa/X
-NOT is trading for $0.0240 at time of writing, up 8% in the last 24 hours.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Shiba Inu Investors Beware: Lead Dev Sounds Critical Warning On Dangerous Scam | Bitcoinist.com
-
-
-								A lead developer of the doggy-themed meme coin, Shiba Inu has issued a critical warning to SHIB community members about an ongoing scam attack involving one of SHIB’s native tokens, TREAT. 
-Scam Attackers Launch Fake TREAT Token
-On June 2, a Shiba Inu member identified as ‘Digarch’ shared a screenshot of a scam alert issued by Shiba Inu’s lead developer, DaVinci, on X (formerly Twitter). Alongside this alert, Digarch released a stern warning, urging the SHIB Army to exercise extreme caution during this volatile period.
-
-The screenshot released by Digarch originated from SHIB’S official discord account, a platform regularly used for updates and daily discussions about the Shiba Inu ecosystem. In his message to the Shiba Inu community, DaVinci raised serious concerns about the listing and distribution of fraudulent tokens falsely claiming association with the SHIB ecosystem, its developers, and the Shibarium project. 
-DaVinci’s statement revealed that “deceitful individuals” have launched a fake TREAT token, under the guise of being directly involved with the SHIB ecosystem. These fake tokens are currently listed on popular crypto platforms such asCoinMarketCap and crypto exchanges like CoinGecko. 
-Informing community members of these malicious activities, the Shiba Inu developer has advised SHIB members to practice caution and conduct thorough research before investing or engaging in any tokens. He disclosed that the malicious actors have changed their scam tactics, initially misusing Ryoshi Research mediums, but now illicitly exploiting Shiba Inu State and Canine code.  
-Disturbingly, these scam attackers have also integrated the official SHIBwebsite address, shib.io, into their promotional scam videos to bolster the credibility of their false claims and illegal schemes.
-DaVinci has explicitly clarified that the SHIB native token, TREAT, has not yet been launched. Therefore, any tokens claiming to be Treat or associated with Treat are fraudulent and intended to fleece and deceive SHIBcommunity members. Engaging with these fraudulent tokens could result in severe financial consequences, as they are not affiliated with the Shiba Inu ecosystem, and have any intrinsic value or strong community backing it.  
-The Shiba Inu developer has acknowledged that due to ShibaSwap’s decentralized nature, bans on the fake TREAT token cannot be enforced. However, to protect the SHIB community members, the team will persist in unequivocally expressing their disapproval of these malicious individuals and their unsavory scam practices.
-About tHE Shiba Inu Real TREAT Token
-The real Shiba Inu TREAT token is part of the ecosystem’s utility tokens, SHIB, LEASH, SHI, and BONE. While each token has a distinct function within the Shiba Inu ecosystem and Shibarium network, TREAT was specifically designed to enhance liquidity for the SHI stablecoin and serve as a reward token like BONE for the crypto exchange ShibaSwap. 
-
-According to official reports from SHIB’s lead marketing member, Lucie, the TREAT token is still in the development phase and has not been released. Despite rumors suggesting that the SHIB token was launched in 2023, Lucie has debunked these claims in a previous X post, clarifying that TREAT has not been introduced yet.
-“TreatsforShib, aka $TREAT from SHIB.IO, has NOT been released yet. I’ve noticed some confused journalists posting that it was released in 2023. NO, IT WASN’T,” Lucie stated. 
-The Shiba Inu marketing lead has also urged community members to stay alert and always verify information from SHIB’s official website or its account on Discord. 
-SHIB price leans toward bearishness | Source: SHIBUSDT on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Is $100K Bitcoin Inevitable? This Expert Say 'Yes'-Find Out When
-
-
-																As Bitcoin teeters close to its previous peak, discussions about its next big price targets have reignited. Among the voices contributing to this conversation is Samson Mow, the CEO of Jan3 and a prominent Bitcoin advocate.
-Recently, on X (formerly Twitter), Mow expressed his belief in Bitcoin’s imminent rise to $100,000, a milestone he sees as a stepping stone toward an eventual value of $1 million. His forecast is based on events triggered by breaking past the all-time high of $73,750 in March.
-
-	Related Reading
-
-
-Critical Factors To Drive Bitcoin Price To $100k Target
-Mow outlines a cause-and-effect scenario that could catapult Bitcoin to these new heights.
-First, surpassing the previous all-time high would initiate a “recursive Bitcoin demand shock,” as increased demand and limited supply drive prices upward rapidly. According to Mow, this chain reaction could swiftly elevate Bitcoin to the $100,000 mark.
-
-His confidence is mirrored in the recent market behavior. Despite a minor pullback from its 24-hour peak of $71,312, Bitcoin has maintained an upward trajectory, gaining 1.7% in the past 24 hours and nearly 5% over the past week.
-BTC price is moving sideways on the 4-hour chart. Source: BTC/USDT on TradingView.com
-Supporting Mow’s optimistic outlook, Chris Vermeulen, Chief Market Strategist of The Technical Traders.com, shares a technical perspective that aligns with Mow’s predictions.
-In a detailed analysis, Vermeulen pointed out a cup and handle formation on the chart, a bullish signal suggesting significant potential for an upward breakout. He uses Fibonacci extensions to project that Bitcoin could soon reach targets of $80,000 to $90,000, possibly climbing as high as $106,000.
-Market Dynamics And Long-Term Prospects
-Both experts view the current market dynamics as a prelude to more substantial gains. Vermeulen’s analysis not only supports Mow’s prediction but extends it by suggesting that Bitcoin could encounter resistance around $100,000, a psychological barrier likely to prompt significant market reactions.
-Beyond this point, a consolidation phase might occur, but the long-term trajectory remains overwhelmingly positive. The broader financial context also plays a critical role in these forecasts.
-
-	Related Reading
-
-
-With growing concerns about the stability of traditional assets like the dollar and the stock market, investors are increasingly turning to alternatives like BTC and gold. This shift indicates a deeper financial narrative where Bitcoin is not just seen as a speculative asset but as a viable hedge against economic uncertainty.
-Featured image created with DALL-E, Chart from TradingView
-																								
-															
-
-
-						
-
-----------------
-
-VanEck predicts Ethereum will hit $22,000 per token by 2030
-
-VanEck believes Ethereum (ETH) will be worth roughly $22,000 by 2030, the asset manager said in a comprehensive analysis published on June 5.The forecast, developed by the firm’s Digital Assets Research team, led by Matthew Sigel, highlights Ethereum’s strong growth potential within both traditional and cryptocurrency-focused portfolios.VanEck’s analysis attributes the optimistic price target to Ethereum’s expanding role as a high-growth, internet-native commercial system that could disrupt traditional financial sectors and Big Tech platforms.The report emphasized Ethereum’s significant user base and economic activity, noting that the network currently supports approximately 20 million monthly active users, facilitates $4 trillion in annual settlement value, and oversees $308 billion in digital assets.$2 trillion market capVanEck’s valuation model for ETH is based on a forecast of $66 billion in free cash flows — the amount of money generated by a blockchain network — by 2030, with a 33x valuation multiple on those cash flows.The model considers Ethereum’s potential to disrupt various business sectors, including finance, marketing, infrastructure, and artificial intelligence (AI).According to the report, the Ethereum network is poised to capture substantial market share from traditional financial markets and technology giants.If Ethereum maintains its dominance among smart contract platforms, VanEck sees a credible path to generating $66 billion in free cash flow — the amount of money generated by a blockchain network — for token holders — supporting a $2.2 trillion market capitalization and a $22,000 price per ETH by 2030.Revolutionary assetThe company emphasized ETH’s broad use cases, stating:“We believe ETH is a revolutionary asset with few parallels in the non-crypto financial world.”VanEck cited ETH’s role as “digital oil” consumed in on-chain use and called it “programmable money and a yield-bearing commodity.”It also referred to ETH as an internet reserve currency that prices activity and assets in Ethereum’s $1 billion ecosystem and connecting blockchains.According to the report, Ethereum generated $3.4 billion in revenue over the past year, surpassing some web2 apps like Etsy, Twitch, and Roblox. Meanwhile, its 20 million monthly active users surpass Instacart, Robinhood, and Vrbo.VanEck added that ETH offers cost-saving features, better interconnectivity for social applications, the opportunity to share earnings with end users, and a basis for AI applications.Investment risksWhile the report is optimistic about Ethereum’s future, it also emphasizes several risks associated with investing in ETH.One major concern is Ethereum’s reliance on speculative activities, which could lead to significant downside risk if market sentiment shifts.Regulatory changes pose another risk, as they could classify ETH as a security, thereby imposing stringent legal requirements on Ethereum-based businesses. The competitive landscape is also a threat, with emerging technologies like Solana challenging its market dominance.Additionally, government actions to control non-sovereign financial systems could negatively impact Ethereum’s growth prospects.Mentioned in this articleLatest Alpha Market Report
-
-----------------
-
-VanEck Sees Ether Hitting $22K by 2030
-
-Ethereum is disrupting the finance, banking, payments, marketing, advertising, social, gaming, infrastructure and artificial intelligence sectors, VanEck wrote. The prediction is also based on the expectation ether ETFs will get approved and the company’s ”read of on-chain data.”
-
-----------------
-
-Bitcoin DeFi security concerns still lurk, says Fireblocks executive - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            A Bitcoin (BTC) decentralized ecosystem has been in rapid development in 2024, with its total value locked (TVL) jumping 263% so far and surpassing $1 billion, according to data aggregator DefiLlama. Nevertheless, as a nascent sector where builders try to create applications compatible with other blockchains, new security issues might surface while it grows. Shahar Madar, VP of Security and Trust at Fireblocks, shared with Crypto Briefing his insights on Bitcoin decentralized application risks and how mature the security of the decentralized finance (DeFi) ecosystem is.Crypto Briefing – Did you find any issues with the different applications built on top of Bitcoin that raised your concern?Shahar Madar – I would say this is very early on. Although I think there are many conversations about Bitcoin DeFi, I’m not sure we are at the stage where it’s as adopted as it could be. Bitcoin is definitely a staple of the blockchain industry and the blockchain ecosystem. We see Wrapped Bitcoin as one of the important tokens, and our customers use it a lot.On DeFi over Bitcoin, personally, I feel it’s too early to tell. Usually, the way you see this kind of thing is that you iterate pretty quickly with different implementations. We’ve seen this. We see this even with account abstraction. We see this with some technologies that have been spoken about for a very long time. So because this place is very innovation-driven, there’s going to be usually many iterations. I don’t know if that’s specific to Bitcoin DeFi, but usually, this kind of thing evolves over time. We only find the core issues or points of pain when people start using it.Crypto Briefing – Recent studies show that private key compromises are the most recurring and damaging attack vectors in the crypto industry. Do you think it will become an even bigger threat?Shahar Madar – So since day one, one of the core values that Fireblocks offered for institutions and honestly any organization, any business, is the ability to securely manage their operations, and their keys, and onboard safely and securely to blockchains on one side. So this part of private key compromise that many people are experiencing, I feel is strongly mitigated by the fact of how we generate keys, and how we store the keys for our customers. The way our self-cultivated platform works is that we leverage MPC and essentially break down the private key into three different parts, each of them being held at a different security safe, so it’s impossible to take out. I also want to add other significant threats we see today. One of them is the extension of the first one we’re talking about, which is securing custody of keys. And that is the orchestration and management of smart contracts. We are at a point where people trick with social engineering and scam out of private keys from contract managers, owners, and admins. When this security process is done with our tokenization platform on top of Fireblocks, you obviously are in much better shape, because you know everything goes through our security user management, and secure policy engine, which dictates the authorization flow. If there’s a sensitive operation related to the smart contract you manage, and I’m saying as a DeFi protocol owner, as a token manager, and as a stablecoin issuer, you can do this as well through the Fireblocks platform. I feel this mitigates a lot of this risk for private key compromises.Another attack vector is rogue employees, insiders either being rogue going against you or being hacked and attackers leveraging their access and privilege against you. This is the extension of the private key management.We’ve also extended our DeFi security offering, and this is more meant for people who are doing on-chain trading and on-chain operations. Essentially, it extends what we offer to them the ability to authorize sensitive operations with smart contracts and dApps. We’ve extended this because one threat that we’re seeing is phishing dApps, scams that impersonate legitimate decentralized applications, or just plain malicious smart contracts, which are altogether targeting traders.We’ve launched this new suite of features, essentially scanning every dApp connection you make through the Fireblocks platform, scanning every interaction you have with a smart contract, and simulating every control call that you have, so you can get a sense of what is the expected outcome. You can get more comfortable and you know what’s going to happen once you approve it. And we’ve integrated that into the entire operation flow that we know institutions that use Fireblocks go through. Crypto Briefing – Do you believe the new institutions entering the crypto market now are aware of how to make proper custody? Do they prefer to have their own custody team, or are they keen to work with companies such as Fireblocks?Shahar Madar – Absolutely. These institutions understand, they go into a space after a thorough examination and due diligence. They know there’s an opportunity for them, but they also are very educated about cybersecurity in general. A lot of them, when they come to us, they also want to learn.So they’re looking to partner with someone who’s an expert in this field. They always have a security team, but always, nine out of 10 times, they understand it’s better to partner and leverage existing technology than to build their own. Most people don’t grow their own tomatoes, they don’t need to invent the wheel. If there’s a great battle-tested technology and Fireblocks is definitely one, you should use it and be on top of it. We do invest a lot and we work very closely with our big enterprise institutions that either examine the market or go all in and use Fireblocks. We help them with education, we help them to understand the best practices we use in Fireblocks and their entire business around that. Finally, we also listen to them. It’s part of the reason why we offer many customizations and many different deployment models because we understand that what’s fitting for a very small business, a very small startup consisting of three guys and a dog, is not the same thing that suits a big institution.Crypto Briefing – From the previous bull cycle to this one, which is just starting, do you see any significant developments in crypto security?Shahar Madar – It’s a cat-and-mouse game with attackers. We are, as Fireblocks and as the industry as a whole, pushing forward for wider adoption, for better security standards. And we’ve gone a very long way since inception. And attackers are always trying to get at us, right? They always try to push forward. They try to find new ways to get in and it’s our job as people who work in a block of security ecosystem to keep chasing them, to keep blocking them, research, and investigate what they do. I think we are doing overall as an industry better than we were two, three, four, five years ago. But also, on the other hand, we’re seeing the exploiters changing, evolving, and trying to get ahead of the latest protections and defenses that people put out. It’s a never-ending game. You have to keep researching, tracking, and improving. And to a point about the role of blocking security firms in the space, I think it’s a big part of that. You need to keep and stay on top of the latest threats. And if you’re not, and if you’re just using the same technology you built half a decade ago, you’re not going to keep people secure.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-Megaphone
-
-
-
-----------------
-
 Former OpenAI Safety Researcher Says ‘Security Was Not Prioritized’ - Decrypt
 
 Former OpenAI safety researcher Leopold Aschenbrenner says that security practices at the company were "egregiously insufficient." In a video interview with Dwarkesh Patel posted Tuesday, Aschenbrenner spoke of internal conflicts over priorities, suggesting a shift in focus towards rapid growth and deployment of AI models at the expense of safety.He also said he was fired for putting his concerns in writing.In a wide-ranging, four-hour conversation, Aschenbrenner told Patel that he penned an internal memo last year detailing his concerns and circulated it among reputable experts from outside the company. However, after a major security incident occurred weeks later, he said he decided to share an updated memo with a couple of board members. He was quickly released from OpenAI."What might also be helpful context is the kinds of questions they asked me when they fired me... the questions were about my views on AI progress, on AGI, the appropriate level of security for AGI, whether the government should be involved in AGI, whether I and the superalignment team were loyal to the company, and what I was up to during the OpenAI board events," Aschenbrenner said.AGI, or artificial general intelligence, is when AI meets or exceeds human intelligence across any field, regardless of how it was trained.Loyalty to the company—or to Sam Altman—emerged as a key factor after his brief ouster: over 90% of employees signed a letter threatening to quit in solidarity with him. They also popularized the slogan, “OpenAI is nothing without its people.”“I didn’t sign the employee letter during the board events, despite pressure to do so,” Aschenbrenner recalled.The superalignment team—led by Ilya Sutskever and Jan Leike—was in charge of building long-term safety practices to make sure AI remains aligned with human expectations.The departure of prominent members of that team, including Sutskever and Leike, brought added scrutiny. The whole team was subsequently dissolved, and a new safety team was announced… led by CEO Sam Altman, who is also a member of the OpenAI board to which it reports.Aschenbrenner said OpenAI's actions contradict its public statements about safety."Another example is when I raised security issues—they would tell me security is our number one priority,” he stated. “Invariably, when it came time to invest serious resources or make trade-offs to take basic measures, security was not prioritized.”This is in line with statements from Leike, who said the team was “sailing against the wind” and that “safety culture and processes have taken a backseat to shiny products” under Altman’s leadership.Aschenbrenner also expressed concerns about AGI development, stressing the importance of a cautious approach—particularly as many fear China is pushing hard to surpass the United States in AGI research.China "is going to have an all-out effort to infiltrate American AI labs, billions of dollars, thousands of people... [they're] going to try and outbuild us,” he said. "What will be at stake will not just be cool products, but whether liberal democracy survives.”Just a few weeks ago, it was revealed that OpenAI required its employees to sign abusive non-disclosure agreements (NDAs) that prevented them from speaking out about the company’s safety practices.Aschenbrenner said he didn’t sign such an NDA, but said that he was offered around $1M in equity.In response to these growing concerns, a collective of nearly a dozen current and former OpenAI employees have meanwhile signed an open letter demanding the right to call out company misdeeds without fear of retaliation.The letter—endorsed by industry figures like Yoshua Bengio, Geoffrey Hinton, and Stuart Russell—emphasizes the need for AI companies to commit to transparency and accountability.“So long as there is no effective government oversight of these corporations, current and former employees are among the few people who can hold them accountable to the public—yet broad confidentiality agreements block us from voicing our concerns, except to the very companies that may be failing to address these issues,” the letter reads. “Ordinary whistleblower protections are insufficient because they focus on illegal activity, whereas many of the risks we are concerned about are not yet regulated.“Some of us reasonably fear various forms of retaliation, given the history of such cases across the industry,” it continues. “We are not the first to encounter or speak about these issues.”After news of the restrictive employment clauses spread, Sam Altman claimed he was unaware of the situation and assured the public his legal team was working to fix the issue.“There was a provision about potential equity cancellation in our previous exit docs; although we never clawed anything back, it should never have been something we had in any documents or communication,” he tweeted. “This is on me and one of the few times I've been genuinely embarrassed running OpenAI; I did not know this was happening and I should have.”OpenAI says it has since released all employees from the contentious non-disparagement agreements and removed the clause from its departure paperwork.OpenAI did not respond to a request for comment from Decrypt.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
@@ -8843,6 +8608,599 @@ Ethereum (ETH) follows closely behind with 95.1% of its supply in profit, along 
 
 
 Cardano (ADA) holds the lowest ranking among these digital assets, with 53.5% of its supply currently profitable. Polygon (MATIC) fares even worse, with only 35% of its supply in profit. Santiment attributes this to MATIC’s introduction during the 2019 bear market, terming the period of MATIC’s launch as its “handicap.”
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Solana's rising trade volume has THIS impact on SOL prices - AMBCrypto
+
+
+
+Solana’s popularity remained high as investors actively traded SOL.
+A few metrics and market indicators hinted at a price increase. 
+
+Solana [SOL] witnessed much traction in the recent past as several investors withdrew SOL to buy other Solana-ecosystem tokens. While activity around SOL remained high, its price action turned bearish in the last 24 hours.
+ Let’s have a closer look at what’s going on. 
+Solana’s trading volume rises
+Lookonchain’s recent tweets revealed that an insider used just $1.2k worth of SOL to buy 190.2 million HULK, which accounted for 19% of the latter’s total supply. 
+Soon after that, the insider sold off the recently accumulated HULK for 5,760.7 SOL, which was worth $979k. 
+Another whale withdrew 8,943 SOL, worth $1.54 million, from Binance to buy 8.6 million MOTHER at $0.1789. Thanks to all these transactions, SOL’s trading volume remained high throughout the last week.
+In the last 24 hours alone, SOL’s tracing volume remained at more than $2 billion. 
+Meanwhile, SOL managed to push its price up by nearly 3% in the last seven days. But the trend changed in the last 24 hours as the token’s value dropped by over 1%. 
+According to CoinMarketCap, at the time of writing, Solana was trading at $171.88 with a market capitalization of over $79 billion.
+Will SOL remain bearish?
+To see whether SOL would continue to remain bearish, AMBCrypto then analyzed its on-chain data. We found that SOL’s weighted sentiment remained in the negative zone. This meant that bearish sentiment around the token was dominant in the market. 
+Its funding rate has increased substantially over the last few days. Nonetheless, its social volume was high, reflecting its popularity in the crypto space. 
+Source: Santiment
+AMBCrypto’s look at Coinglass’ data revealed a bullish metric. We found that SOL’s long/short ratio increased sharply in the last four hours. 
+For starters, a high long/short ratio suggests that there are more buyers than sellers in the market, which can be inferred as a bullish signal for the token. 
+Source: Coinglass
+Our analysis of Solana’s daily chart also revealed a few bullish indicators. For instance, the Money Flow Index (MFI) registered a sharp uptick over the last few days. 
+
+Read Solana (SOL) Price Prediction 2024-25  
+
+Additionally, its Relative Strength Index (RSI) also followed a similar trend and went up. These suggested that the chances of SOL’s price rising were high. 
+Nonetheless, the Chaikin Money Flow (CMF) remained bearish as it continued to trade under the neutral mark of 0. 
+Source: TradingView
+
+
+
+
+
+
+
+----------------
+
+Web3 Foundation fuels innovative developer tools with Accelerate Polkadot grant
+
+The Web3 Foundation, the organization behind Polkadot, has awarded a Decentralized Futures (DF) grant to Accelerate Polkadot, which aims to boost developer productivity within the Polkadot ecosystem.The firm stated:“This groundbreaking initiative is dedicated to providing developers with the tools and knowledge they need to succeed in the Polkadot ecosystem through comprehensive, goal-oriented guides.”This funding comes shortly after a similar grant was awarded to PolkaPort East to promote Polkadot’s Asian ecosystem growth.Accelerate PolkadotAccelerate Polkadot is a strategic initiative designed to lower entry barriers for developers on the Polkadot platform.This program offers detailed, code-centric guides demonstrating practical applications and real-world use cases, making it easier for developers to launch innovative projects within the Polkadot ecosystem.These resources are designed to be both accessible and engaging, enabling developers to start building quickly. The Web3 Foundation stated:“All content produced is open-source, promoting transparency and community involvement. Developers are encouraged to contribute and provide feedback, fostering a collaborative environment.”The first content package proposed focuses on creating a team management and rewards system for the game Cores & Conquests.In this game, players can form guilds that others can petition to join. Guild members participate in governance through voting, managing aspects such as member admission and expulsion, choosing adventures, and distributing loot. This project will gamify the development of a decentralized autonomous organization (DAO).Accelerate Polkadot said this project will showcase much of the Polkadot SDK’s core functionality and introduce developers to crucial concepts like decentralized decision-making, Sybil resistance, staking, and slashing, as well as various voting systems (including quorum voting, permissioned relative majority, quadratic voting, conviction voting, holographic consensus, and liquid democracy) in a familiar context.Disclaimer: CryptoSlate has received a grant from the Polkadot Foundation to produce content about the Polkadot ecosystem. While the Foundation supports our coverage, we maintain full editorial independence and control over the content we publish.Mentioned in this articleLatest Alpha Market Report
+
+----------------
+
+Injective (INJ) Jumps by 12% Daily to $30, Bitcoin (BTC) Calms at $71K (Market Watch)
+
+
+																The inflows into the spot Bitcoin ETFs have been nothing short of impressive in the past several days, but BTC has failed to make a major move out of its current trading range of around $70,000 to $71,000.
+The altcoins are also quite sluggish on a daily basis, with BCH emerging as the top performer from the larger caps.
+BTC Stalls at $71K
+As reported over the weekend, the trading action during that period was quite uneventful. BTC had recovered some ground following the late Friday drop and stood at around $67,500.
+However, the market picked up on Monday, and bitcoin quickly pumped to over $70,000. It failed there at first as the bears stopped the rally, but BTC was not confined and initiated another leg up that propelled an impressive rally to a multi-week peak of $71,767 amid the growing ETF inflows.
+Since then, though, the asset has failed to maintain its run, even though the ETFs continue to experience substantial inflows. As of now, the cryptocurrency trades at $71,000 once again, with its market cap standing still at $1.4 trillion.
+
+
+Thanks for subscribing, you will get your first report in the next hours!
+
+
+Its dominance over the altcoins has not moved either, sitting at 50.4% on CG at the time of this writing.
+Bitcoin/Price/Chart 07.06.2024. Source: TradingView
+INJ, BRETT, JASMY on a Roll
+Most of the larger-cap alts have mimicked BTC’s performance in the past few days, meaning that they sit quietly on a daily scale now, too. ETH, BNB, DOGE, SOL, SHIB, AVAX, TRX, and DOT are slightly in the red, while XRP, LINK, TON, and ADA have charted insignificant gains.
+Bitcoin Cash is the only notable gainer from this cohort of assets, having jumped by 4% to $513. In contrast, FET and KAS have dropped by 3-4%.
+The top 100 alts have produced a few double-digit gainers, including BRETT (26%), JASMY (13%), and INJ (12%). In fact, INJ has tapped $30 following today’s surge.
+The total crypto market cap, however, has remained sluggish at $2.8 trillion on CG.
+Cryptocurrency Market Overview. Source: QuantifyCrypto
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+Disclaimer: Information found on CryptoPotato is those of writers quoted. It does not represent the opinions of CryptoPotato on whether to buy, sell, or hold any investments. You are advised to conduct your own research before making any investment decisions. Use provided information at your own risk. See Disclaimer for more information.
+
+Cryptocurrency charts by TradingView.
+
+
+						
+																		
+										
+					
+					
+
+
+----------------
+
+4 altcoins to buy under $1 for end of 2024
+
+
+    Although many assets in the cryptocurrency market are struggling to maintain their bullish momentum, taking the lead from the market’s representative – Bitcoin (BTC) – some altcoins, still worth under $1 per wholecoin, represent a great purchase for the end of this year.
+
+
+
+Indeed, this has been a bullish year for the majority of participants in the crypto sector, as many digital assets are recording constant increases, marked by occasional hiccups, but these four altcoins should not have many obstacles to explosive growth by late 2024.
+
+
+
+#1 Shiba Inu (SHIB)
+
+
+
+Specifically, Shiba Inu (SHIB) is one of the altcoins that looks like a great investment opportunity for the end of 2024, particularly as one of its largest whales, which has profited over $120 million trading SHIB in its early days, has recently bought more than 700 SHIB tokens, demonstrating strong confidence in the meme token.
+
+
+
+
+
+
+
+SHIB trader transaction data. Source: Lookonchain
+
+
+
+Indeed, Shiba Inu, the token in which this trader has invested more than $18 million, is currently trading at $0.00002527, down 1.09% on the day, also declining 2.40% across the previous week, but nonetheless an increase of 11.23% in the last month, as per data on June 7.
+
+
+
+Shiba Inu price 30-day chart. Source: Finbold
+
+
+
+#2 XRP (XRP)
+
+
+
+Secondly, XRP is generating optimism thanks to the continuous legal wins in the courtroom battle between blockchain company Ripple and the United States Securities and Exchange Commission (SEC), with one analyst suggesting its consolidation period could end with a massive breakout.
+
+
+
+
+
+
+
+Meanwhile, the XRP token costs $0.52442, which suggests no price change on the day, a gain of 0.91% in the past week, while also accumulating an advance of 0.66% on its monthly chart, according to the most recent charts retrieved by Finbold.
+
+
+
+XRP price 30-day chart. Source: Finbold
+
+
+
+#3 Dogecoin (DOGE)
+
+
+
+Meanwhile, Dogecoin (DOGE) has shown potential reflected in heightened interest coming from the market’s largest holders, as observed by crypto expert Ali Martinez, as well as showing technical analysis (TA) indicators that point to an imminent breakout, similar to its past chart patterns.
+
+
+
+
+
+
+
+At the moment, Dogecoin is changing hands at the price of 0.16099, recording a slight decline of 0.37% on the day while advancing 0.95% over the week, and the popular doge meme token making a positive growth of 8.55% in the last 30 days alone.
+
+
+
+Dogecoin price 30-day chart. Source: Finbold
+
+
+
+#4 Cardano (ADA)
+
+
+
+Finally, Cardano (ADA) is currently awaiting for its next critical update – the Chang hard fork set for late June, with an aim to bost governance, functionality, and responsiveness in the bull market, which might ignite a price rally for the popular token after it takes place.
+
+
+
+According to Cardano pioneer Charles Hoskinson, its main advantage is the Proof-of-Stake (PoS) Ouroboros protocol:
+
+
+
+
+“The advantage of Proof-of-Stake is that because you don’t have that gargantuan overhead and energy expenditure for deciding who gets to make a block, it means you can put a lot of your magic in the other two stages. So you end up getting protocols that are much lighter and massively more energy efficient.”
+
+
+
+
+For now, Cardano is trading at the price of $0.46349, writing down a growth of 1.09% in the last 24 hours, as well as advancing 3.32% across the previous seven days, adding up to the 4.76% increase accumulated on its monthly chart, as per data on June 7.
+
+
+
+Cardano price 30-day chart. Source: Finbold
+
+
+
+Conclusion
+
+
+
+Ultimately, the above four altcoins – the crypto assets other than Bitcoin – might represent a great opportunity as the year 2024 draws to its end, but things in this sector can sometimes change on a whim, so doing one’s own research and weighing all the risks is critical when investing in them.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+Telegram Seeks to Disrupt App Store Model with In-App Token
+
+
+							
+
+Telegram CEO Pavel Durov announced the launch of Telegram Stars, an in-app token focused on new payment methods.
+
+
+
+The Telegram Stars allows users to purchase digital goods and services on the platform.
+
+
+
+The in-app token is available on both Google and Android and is compliant with their crypto sales policies.
+
+
+
+
+Telegram CEO, Pavel Durov, unveiled the platform’s new payment system for digital purchases. The innovative in-app token, Telegram Stars, allows users to purchase digital goods and services directly on the platform.
+
+
+
+In a Telegram post, Durov shared insights into the platform’s innovative development, stating, “With Telegram Stars, mini apps can now accept payments for digital services using the most seamless payment method possible – in-app purchases on Android and iOS.” The CEO added:
+
+
+
+
+ “The recent mini app boom has already made Telegram the main destination to launch new apps. Stars and ad subsidies bring this to a new level – unprecedented in the history of social media.” 
+
+
+
+
+Notably, Durov has elaborated on the processes involved in purchasing goods via Telegram Stars. According to his post, app developers can swap their Stars for Toncoin (TON), the native token of Telegram’s The Open Network, through Fragment. Fragment is a platform primarily used by the community to buy and sell Telegram usernames.
+
+
+
+As reported, Telegram Stars is available on both Google and Apple platforms. Telegram’s CEO explained the in-app payment system’s compliance with Apple and Google’s digital product sale policies, stating:
+
+
+
+
+ “Apple and Google take a 30% cut when users buy Stars from them, but Telegram will subsidize ads purchased with Telegram Stars. So if developers reinvest Stars in promoting their app, the overall commission will be nearly 0%. As a result, launching apps on Telegram makes more economic sense than launching traditional mobile apps.”
+
+
+
+
+Subsequently, Telegram released a post detailing the terms and policies of Telegram Stars. Emphasizing that it’s just the beginning of the system, the platform added, “Future updates will bring additional features and functionality to Stars – like gifts for content creators and more.”
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+INTMAX announces PlasmaCon Event for July 31 in Tokyo
+
+
+    INTMAX, a prominent sponsor at EDCON Tokyo and a trailblazer in Layer 2 zkRollup technology with a stateless architecture, has announced the PlasmaCon event, as per the latest updates shared with Finbold on June 7.
+
+
+
+The event is set to take place alongside EDCON Tokyo 2024, the renowned Ethereum (ETH) development conference, held at the United Nations University in Tokyo on July 31 from 12:30 to 17:00 local time.
+
+
+
+The event will feature a lineup of speakers, including Vitalik Buterin, the Co-founder of Ethereum, Justin Drake, a researcher at the Ethereum Foundation, Barry Whitehat, a researcher at the Ethereum Foundation and PS, and others.
+
+
+
+
+
+
+
+New approaches to Ethereum scaling
+
+
+
+PlasmaCon aims to bring together some of the brightest minds in crypto to discuss innovative approaches to scaling Ethereum, privacy solutions, stateless architecture, and similar topics. 
+
+
+
+The topic holds special significance as Plasma, an Ethereum scaling solution devised by Joseph Poon and Vitalik Buterin in 2017, is making a comeback. 
+
+
+
+Leona Hioki, the Co-founder of INTMAX, commented on the new relevance of Plasma, stating:
+
+
+
+
+“It’s time to let everyone know that Plasma is not dead—it’s even stronger than it was in 2018! PlasmaCon brought together incredible thinkers and visionaries who have transformed the entire tech industry. Now, it’s time to revisit Plasma, Statelessness, and Privacy. Join us in Tokyo on July 31st!”
+– Leona Hioki, the Co-founder of INTMAX
+
+
+
+
+The event will accommodate up to 400 attendees and feature over 15 experts from around the globe, sharing insights on a range of topics from the resurgence of Plasma to privacy, data availability challenges, blobs, recursive ZKP, and dApps on Plasma. 
+
+
+
+Participants will have the chance to engage with industry leaders, ask questions, and partake in discussions with the speakers.
+
+
+
+PlasmaCon key topics
+
+
+
+The event will delve into several key themes crucial for the future of Ethereum and blockchain technology. 
+
+
+
+Scalability solutions for Ethereum will be a major focus, exploring new technologies and protocols designed to enhance network scalability, efficiency, and speed. 
+
+
+
+Privacy enhancements will also be covered, highlighting the latest advancements aimed at ensuring user privacy on the Ethereum network.
+
+
+
+Additionally, the conference will provide valuable insights into various application use cases of blockchain technology, showcasing its diverse potential across different industries.
+
+
+
+The event will take place at the United Nations University located on Aoyama-Dori Avenue at 5-53-70, Jingumae, Shibuya-ku, Tokyo 150-8925 Japan.  
+
+  
+
+----------------
+
+‘We Will Continue To Pursue Our Strategy of Purchasing Bitcoins With Cash’, Says Semler Scientific CEO | Cryptoglobe
+
+
+                                
+Semler Scientific, Inc. (Nasdaq: SMLR), a company at the forefront of developing technology products for healthcare providers, has announced the purchase of an additional 247 bitcoins, amounting to $17 million in cash. This brings the company’s total Bitcoin holdings to 828 bitcoins, acquired at an aggregate cost of $57 million, inclusive of fees and expenses, as of 6 June 2024. This acquisition underscores Semler’s strategic initiative to incorporate Bitcoin as a key component of its financial strategy.
+
+
+
+Semler Scientific, renowned for its innovative medical products and services, primarily markets QuantaFlo®, a rapid point-of-care test cleared by the FDA. QuantaFlo® measures arterial blood flow in the extremities, assisting in the diagnosis of cardiovascular diseases, particularly peripheral arterial disease (PAD). The company is pursuing new 510(k) clearance to broaden QuantaFlo®’s applications, enabling healthcare providers to evaluate patients’ risks of mortality and major adverse cardiovascular events (MACE).
+
+
+
+On 28 May 2024, Semler Scientific revealed its acquisition of 581 bitcoins for $40 million, including fees and expenses. This move reflects the company’s confidence in Bitcoin as a reliable store of value and an attractive investment.
+
+
+
+Eric Semler, the company’s chairman, highlighted Bitcoin’s significance as a major asset class. He emphasized Bitcoin’s scarcity and finite supply, presenting it as a viable hedge against inflation and a safe haven amid economic uncertainties. Semler noted that Bitcoin’s digital resilience and architecture provide advantages over gold, which has a market value approximately ten times that of Bitcoin. He suggested that Bitcoin’s potential acceptance as digital gold could yield significant returns.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+Semler also pointed to the growing institutional acceptance of Bitcoin, underscored by the U.S. Securities and Exchange Commission’s approval of 11 Bitcoin exchange-traded funds (ETFs) on 10 January 2024. These ETFs have garnered over $13 billion in net inflows from nearly 1,000 institutions, including global banks, pensions, endowments, and registered investment advisors. Institutions now hold over 10% of all bitcoins.
+
+
+
+Before deciding on Bitcoin, Semler Scientific’s board and senior management evaluated various uses for their cash reserves, including acquisitions. Eric Semler explained that after considering different options, the company determined that investing in Bitcoin was the best use of its excess cash.
+
+
+
+According to a press release issued on 6 June 2024, Dr. Doug Murphy-Chutorian, MD, Semler Scientific’s CEO, had this to say about his firm’s latest Bitcoin purchase:
+
+
+
+“Semler remains focused on our two strategies of expanding our healthcare business and acquiring and holding bitcoin. The company now holds 828 bitcoins, underscoring our view that bitcoin is a compelling investment and can serve as a reliable store of value. We will continue to pursue our strategy of purchasing bitcoins with cash.” 
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+This Project Developed by Coinbase Became the Largest Layer 2 Network, Surpassing the Optimism (OP) Network! Here are the Details - Bitcoin Sistemi
+
+Base, a Layer 2 Ethereum network developed by Coinbase, has surpassed OP Mainnet to become the largest Layer 2 network in the OP Stack-based 'Superchain'.
+Base Surpasses OP Mainnet to Become the Largest OP Stack-Based Layer 2 Network
+According to DeFiLlama data, the network's total value locked (TVL) has increased by 20% since the beginning of May to $1.7 billion.
+
+
+Base's mainnet, which went public in early August 2023, is positioned as the third most valuable Layer 2 blockchain in terms of TVL, behind Arbitrum at $3.81 billion and Blast at $2.26 billion.
+This major milestone highlights Base's rapid growth and increasing adoption among decentralized applications (dapps).
+
+
+
+
+
+The network's prominence was significantly boosted by decentralized exchange Aerodrome, which contributed $714 million in deposits. Uniswap follows as the second largest participant with $312 million.
+
+These developments place Base at the forefront of the Superchain ecosystem, an interconnected Layer 2 rollup network built using the OP Stack software suite.
+
+
+This ecosystem aims to increase the scalability and efficiency of Ethereum by processing transactions off-chain, thus reducing the load on the main Ethereum blockchain.
+Optimistic rollups, including Base, Arbitrum, Blast, and OP Mainnet, work by default by assuming that all transactions are valid and validating them only when evidence of fraud is presented.
+
+
+
+
+
+This method contrasts with zero-knowledge rollups such as zkSync, Linea, and Scroll, which provide ex ante cryptographic proofs of transaction validity.
+Base's impressive growth and strategic integration within Superchain highlights its potential to drive greater innovation and scalability within the Ethereum ecosystem.
+*This is not investment advice.
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Bitcoin Spot ETFs Can't Get Enough With Historic 18-Day Buying Spree: Is This A New Gold Rush? - Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest (BATS:FBTC) - Benzinga
+
+In a telling reflection of growing institutional demand for cryptocurrencies, Bitcoin BTC/USD spot exchange-traded funds in the U.S. attracted net inflows for a record-breaking 18th day. What Happened: The 11 investment vehicles tracking the spot prices of the world's largest digital asset saw $217.78 million in positive flows on June 5, according to data from SoSo Value. With this, the total inflows since the ETFs started trading in early January increased to $15.56 billion. More than $62 billion worth of Bitcoins backed these funds, representing 4.47% of its total circulating supply. The spot ETFs last witnessed net outflows on May 10. Since then, all trading days have seen a net influx of capital.BlackRock's iShares Bitcoin Trust IBIT led other funds, with $350 million in net inflows, followed by Fidelity FBTC which recorded $3 million in inflows. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Grayscale Bitcoin Trust GBTC saw net outflows of $38 million. Blackrock's ETF recently pipped Grayscale to become the world's largest Bitcoin fund, with net assets exceeding $21 million as of this writing.Why It Matters:  The longest streak of net inflows reflected growing optimism for the digital asset, vying for a bigger slice of investments from TradFi giants.The listing of spot ETFs in the U.S. has spurred a nearly 70% spike in Bitcoin's value year-to-date, helping it reach new highs.Price Action: At the time of writing, Bitcoin was trading at $71,261.50, following a marginal 0.55% increase in the last 24 hours, according to data from Benzinga Pro. Read Next: Another MicroStrategy In The Making? Semler Scientific Purchases 247 More Bitcoins To Push Total Portfolio Past $58M: ‘We’ll Continue To Buy More’Photo via Shutterstock
+
+----------------
+
+Polymarket Bets Place 50% Odds on Keith Gill Becoming GameStop Billionaire by the End of the Day
+
+“If GME hits 70$, the intrinsic value of his position would reach a billion. (5m shares * 70$) + (12m shares from calls * (70$ - 20$ strike)),” said user “etj103007,” who purchased 15,000 shares in favor.
+
+----------------
+
+Three Reasons Why Bitcoin's (BTC) Bull Run is Yet to Escalate
+
+
+																TL;DR
+
+Bitcoin has surpassed $71,000 with a market cap of over $1.4 trillion, showing potential for further growth due to low trader euphoria (FOMO) and a stable RSI at 60.
+Negative BTC exchange netflow suggests reduced selling pressure as investors move to self-custody, indicating bullish market sentiment.
+
+
+No FOMO
+Bitcoin (BTC) has been thriving lately, with its price surpassing the $71,000 mark and market capitalization exceeding $1.4 trillion (per CoinGecko’s data). The asset is 14% up on a monthly scale and 165% yearly, but some essential indicators signal that a further rally could be in the cards.
+BTC Price, Source: CoinGecko
+One such element is the lack of Fear of Missing Out (FOMO). According to the market intelligence platform Santiment, traders are not as euphoric at the moment as they were at previous peaks. 
+FOMO is a psychological phenomenon characterized by the anxiety that others are having fulfilling or rewarding experiences without you. It often manifests as a compulsive desire to stay connected with what the masses are doing.
+In the context of crypto, FOMO refers to the fear of missing out on potential investment gains in a particular digital asset that has been performing quite well. 
+
+
+
+
+However, the phenomenon can cause people to enter the market emotionally rather than rationally. Investors might ignore necessary due diligence and investment strategies, leading to impulsive buys at high prices. This, in turn, could lead to crucial losses in the event of a severe market correction.
+In many cases, FOMO has occurred during market peaks and has been followed by significant price declines. The lack of it (as of the moment) may indicate that BTC’s bull run is yet to show its full potential.
+RSI 
+Another metric hinting that BTC’s price may continue its uptrend in the near future is the Relative Strength Index (RSI). This technical analysis tool identifies whether the asset is overbought or oversold. 
+It ranges from 0 to 100, with a ratio above 70 signaling that a correction might be imminent. The latest data shows that BTC RSI is 60, crossing the aforementioned level only four times in the past 30 days. 
+BTC RSI, Source: Crypto Waves
+Abandoning Exchanges
+Last but not least, we will touch upon the Bitcoin exchange netflow which has been predominantly negative in the last week (according to CryptoQuant’s data).
+Shifting from centralized platforms to self-custody methods is considered bullish since it reduces the immediate selling pressure.
+BTC Exchange Netflow, Source: CryptoQuant
+ 
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Cardano's Blockchain Tech Finds New Home in Argentina's Entre Ríos
+
+
+							
+
+Cardano Foundation partners with Argentina’s Entre Ríos to promote blockchain adoption.
+
+
+
+Ethiopia’s 2021 initiative and Argentina’s 2024 partnership signal growing Cardano use in national projects.
+
+
+
+ADA price rises 1.12% in 24 hours, highlighting market response to new partnerships.
+
+
+
+
+The Cardano Foundation has announced a new partnership with the province of Entre Ríos in Argentina.
+
+
+
+The collaboration, formalized by a public signing between Entre Ríos Governor Rogelio Frigerio and Cardano Foundation’s LATAM Lead for Business Development Rafael Fraga, aims to foster blockchain adoption within the region. This development underscores Cardano’s commitment to expanding blockchain communities and driving innovation across Latin America.
+
+
+
+
+
+
+
+This partnership in Argentina follows a notable precedent set by Ethiopia in 2021. The Prime Minister of Ethiopia, with a background in computer engineering and transformational leadership, outlined an ambitious plan to leverage Cardano for national development.
+
+
+
+This multifaceted initiative includes using Cardano for various applications such as voting, payments, insurance, trade, savings, and investments. The Ethiopian government’s strategic vision aims to integrate Cardano into the nation’s technological and economic infrastructure, thereby fostering a tech-driven economy.
+
+
+
+
+
+
+
+Argentina’s decision to embrace Cardano technology highlights the potential for blockchain solutions to address local challenges and promote innovation across various sectors.
+
+
+
+This partnership is expected to create new opportunities for technological advancement, stimulate economic growth, and improve efficiency in public and private services within the region. Additionally, it underscores the growing recognition of blockchain’s potential to drive substantial progress in developing countries.
+
+
+
+
+
+
+
+
+
+Amid these developments, the price of Cardano (ADA) has shown a positive trend. ADA currently trades at $0.4638, with a 24-hour trading volume of $277,105,195.07. The cryptocurrency has experienced a 1.12% price increase over the past 24 hours and a 3.43% rise in the last seven days. These price movements reflect a growing interest and confidence in Cardano’s potential as a transformative technology.
+
+
+
+Analysts attribute this upward trend to the recent strategic partnerships and growing adoption of Cardano’s blockchain solutions in various national projects. The increasing use of Cardano for real-world applications has likely strengthened investor sentiment, further driving the cryptocurrency’s market performance.
 
 															
 									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
