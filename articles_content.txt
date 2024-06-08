@@ -1,55 +1,3 @@
-Tether (USDT) Report from JPMorgan - Here is the Bank's Assessment - Bitcoin Sistemi
-
-
-JPMorgan noted in a recent research report that U.S. crypto regulations are moving in a direction that favors the launch of a central bank digital currency (CBDC), looks negatively on crypto adoption by local banks, and non-compliant stablecoins.
-The bank notes that regulatory initiatives have increased in the US in recent months, raising questions about the direction of crypto regulation ahead of the presidential elections later this year.
-
-
-Analysts led by Nikolaos Panigirtzoglou wrote in a report on Wednesday: “They are against a coin tied to the Fed, against U.S. banks dealing with cryptocurrency, against non-compliant stablecoins like Tether (USDT), and against all tokens other than Bitcoin (BTC) and Ethereum (ETH) being securities.” “They are against being classified as such,” he wrote.
-
-The Financial Innovation and Technology for the 21st Century Act (FIT21), passed by the House of Representatives last month, still needs to be approved by the Senate and ultimately the President. The bank said this was unlikely to happen before the election.
-
-
-
-
-
-JPMorgan noted that Congress passed a resolution overturning the SAB 121 accounting rule that made it harder for banks to store crypto assets, but the resolution was vetoed by President Joe Biden.
-The report said the Central Bank Digital Currency (CBDC) Anti-Surveillance Act is an attempt to block a U.S. CBDC, preventing Fed banks from offering certain products to consumers and using a central bank digital currency for monetary policy. The bill banning the FED from issuing CBDC was passed by the House of Representatives last month, but it is unclear whether it will be accepted in the Senate.
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-The Sandbox Raises at $1B Valuation | Bankless
-
-
-Crypto gaming startup The Sandbox has raised $20M at a $1B valuation. Kingsway Capital and Animoca Brands led the investment, which was supported by LG Tech Ventures and True Global Ventures.What's the scoop?Token Reaction: Following the funding announcement, the SAND token increased by 4.5%, though this new round speaks to the broader challenges in the NFT and gaming spaces. The company’s private valuation went from a targeted $4B in 2022 to an actualized $1B today.Future Plans: The capital will go towards enhancing features and developing a decentralized metaverse for mobile devices, which is expected to launch in 2025. Updates to some of its other tools are also planned.Bankless Take:While the “metaverse” stood out as a central narrative last cycle, we have yet to see it return to those heights this time around. That being said, the ability to build one’s own metaverse for friends or a community remains an intriguing prospect, evident from the reported 5.7M users and >1K unique experiences developed via The Sandbox since its Alpha release last November. With projections that the metaverse may add $5T to the global economy by 2030, this forever sought-after virtual land continues to draw investment, especially from the Web3 angle that believes digital ownership via blockchains would be a way for users, not just providers like Minecraft or Roblox, to share these riches. 
-
-
-
-----------------
-
-Terraforms Explained: ETH's Best Onchain Art? | Bankless
-
-
-My two favorite NFT projects are Nouns and Terraforms. Nouns, I intend to join. Terraforms, I intend to keep collecting. Full disclosure: I hold a few Terraforms right now! I’d like to have a lot more, and honestly, the driving motivation isn’t financial. I find these digital artifacts mesmerizing and likely to age like fine wine in various senses atop Ethereum. The magic here is due in no small part to the creator duo, Mathcastles, being new masters who have used Ethereum as an artistic medium, a computational creative engine, to an extent we haven’t seen before. That said, I feel confident that in 100 years, the art world will look back on Terraforms as important, a major first mover in runtime art because they will see what I see now: a series that broke new ground in a way that expanded the possibilities of art itself. This is high praise, of course, but Terraforms is also hard to explain. It has many nuances and transcends genres. For this post, let’s catch you up on the basics of this unique collection and why, in my humble opinion, it’s one of the best examples of onchain art on Ethereum today! First, What Is Runtime Art?Runtime art is a burgeoning genre within the digital art world that leverages the unique capabilities of blockchain tech, e.g. Ethereum, to create dynamic and evolving artworks. Unlike traditional digital art, which is typically static and stored offchain, runtime art is generated and maintained entirely on the blockchain. This means that the artwork is not just a stored image but an active, living entity that evolves over time based on the underlying smart contract code.At its core, runtime art is about creating art that is dynamically computed at the smart contract level. When I say "runtime," I’m referring to the period during which a program is running. In the context of Ethereum, this means that the art is continuously generated and updated by the smart contract moment by moment, every time it is interacted with. The art can change and adapt in response to various inputs, in other words, such as time, blockchain data (like gas prices or block hashes), or user interactions.While runtime art is still a young genre, several projects have already made significant impacts here. Among these, Terraforms by Mathcastles stands out as one of the prime examples. 
-That’s because the Terraforms collection takes full advantage of Ethereum's capabilities to create a series of artworks that are not only visually stunning but also dynamically generated and continuously evolving. This makes Terraforms a trailblazer in the realm of runtime art, pushing the boundaries of what digital art can be and setting a high standard for future projects in this genre.What Are Terraforms?VIDEOLaunched on the Ethereum blockchain in December 2021, Terraforms is the brainchild of the anonymous duo known as Mathcastles, comprised of 0x113d and xaltgeist. At its core, Terraforms is a generative art project that utilizes the Ethereum blockchain to create dynamic, interactive, and fully onchain artworks. Each NFT in the Terraforms collection represents a "parcel" of land within a conceptual 20-level virtual "Hypercastle." These parcels are not mere static images but are living pieces of art that evolve over time, driven by the underlying smart contract code.via the Unofficial Terraforms Community FAQ The Terraforms Hypercastle is a complex, multi-layered virtual structure. Each of the 11,104 parcels within the Hypercastle is a 32x32 grid of Unicode characters, creating a visually striking and symbolically rich piece of art. These parcels are categorized by several traits, including:Zones: 75 distinct color palettes.Biomes: 92 sets of glyphs used for animation.Chroma: The pace of animation akin to a heartbeat.Topography: The heightmap of each parcel, introducing a temporal dimension as the height fluctuates over time.Additionally, Terraforms offers a unique system of “modes” that enhance the interactivity and dynamism of the series. Each parcel within the Terraforms collection can exist in different modes, each with its own characteristics and functionalities. Here's a brief overview:Terrain ModeTerrain mode is the default state of a Terraforms parcel. In this mode, the parcel displays a pulsing ASCII design that resembles a topographical map.This mode showcases the initial generative art created by the smart contract. It is static in terms of user modification, but the visuals are dynamic and continuously evolving.Daydream ModeWhen a parcel is switched to Daydream mode, it becomes a blank slate that the owner can use to create custom ASCII art.Owners can activate Daydream mode by entering a command directly into the contract via Etherscan. They can then use community-built tools to draw on their parcel.Once a parcel is switched from Terrain to Daydream mode, this change is irreversible. However, modifications within Daydream mode can be reversed.Terraform ModeTerraform mode is activated when the custom drawings made in Daydream mode are saved back to the blockchain.Parcels can switch between Daydream and Terraform modes indefinitely. This flexibility allows owners to continuously refine and update their designs.In Terraform mode, the custom ASCII art becomes a permanent part of the parcel's blockchain record, viewable by others.Antenna ModeAntenna mode is a new feature introduced with the Terraforms 2.0 upgrade. It allows parcels in Daydream or Terraform modes to receive broadcasts and updates from new artwork programs, i.e., new smart contracts.To activate Antenna mode, owners need to interact with the contract on Etherscan, providing their parcel IDs and enabling the feature.Antenna mode can be turned on or off, offering flexibility and control over the parcel's interaction with new broadcasts.The contract tracks when a parcel enters Antenna mode, with timestamps used for seasonal updates. For instance, parcels activated during "Season 0" can receive special broadcasts and participate in unique events.5 Reasons Why Terraforms Are Great Onchain Art on Ethereumvia On-Chain Checker 1. Fully Onchain and ImmutableTerraforms is among the minority of NFT projects that are fully onchain. Unlike many NFTs that store images offchain and only use the blockchain for ownership records, Terraforms stores all its data directly on the Ethereum blockchain. This includes the code that generates the art, ensuring it is immutable and will last as long as Ethereum exists. This full onchain approach guarantees the permanence and integrity of the artwork. It cannot be altered or lost due to external factors, providing an unprecedented level of artistic authenticity and reliability.2. Dynamic and Runtime ArtTerraforms is a prime example of runtime art, meaning the artwork is dynamically generated at the moment of viewing through the underlying smart contract. The visuals are not static images but are created in real-time based on the code.This approach introduces a new dimension to digital art, where each interaction with the artwork can be unique. It leverages Ethereum as an "always on" computer, continuously generating art that evolves over time, reflecting the blockchain's state.3. Composability and InteractivityTerraforms, thanks to being fully on Ethereum, is highly composable, allowing new artwork programs and features to interact with existing parcels. The introduction of the Antenna mode in Terraforms 2.0 exemplifies this, enabling parcels to receive broadcasts and updates, thereby integrating new artistic elements over time.Zooming out, composability allows Terraforms to continuously evolve, making it more than just a static collection of NFTs. It fosters a dynamic environment where community members can develop new tools, create derivative works, and build on top of the existing infrastructure, enhancing the project's longevity and relevance.I’ve lurked in the Terraforms Discord for years. I can’t lie, it’s one of the smartest and most sincere online groups I’ve ever seen, filled with onchain builders and creatives par excellence constantly sharing their works and thoughts. These aren’t posers; these are the people art schools will be studying in a century. And I don’t say that lightly, it’s not true for most NFT-centric projects today. In a word, Terraforms via Mathcastles has cultivated a robust community that actively and meaningfully contributes to its development. This includes creating visualizers, tools for interaction, and other enhancements. The community engagement is evident in the rich ecosystem of resources that have emerged around Terraforms, like terrafans.xyz, erraformexplorer.xyz, and jaydenkur.com/terra/.Community-driven projects tend to have greater resilience and innovation, as they benefit from the collective creativity and effort of their members. This collaborative spirit is a cornerstone of Terraforms' success and sustainability.5. Designed for LongevityAlong with being fully onchain, which makes it time-resistant, Terraforms includes a built-in decay mechanism that can cause its terrain to collapse over a long period, potentially spanning thousands of years. This decay is a deliberate feature, symbolizing the passage of time and the ephemeral nature of digital art.However, this collapse is not inevitable. Holders can prevent their parcels from decaying by actively switching between modes. Transitioning a parcel to Daydream or Terraform mode helps prevent the decay process, allowing the wider series to persist in its current state.Currently, enough parcels have entered Daydream mode to prevent this collapse from ever occurring. With that said, Terraforms is still one of the few projects on Ethereum today that has been hard-coded with instructions designed to span centuries. What to Watch Going Forward?“[It’s] this notion of a Culture Settlement Layer, which is how I see Ethereum, and one lens of how I've come to see Terraforms and Project 2 as art pieces. The bundle of described patterns / protocols / technologies described above … they treat Ethereum as a way to bootload and sustain new networks.” — 0x113d, Terraforms co-creatorThe more you dig into Terraforms, the more you realize that it poses more questions than answers when it comes to art and the role of computers in our lives. Even in this article, I know I’ve failed to capture the full magic of this collection as I and others see it. Like I said before, it defies straightforward explanation. Some of the magic is intangible. But in some senses, Terraforms is a gateway. It’s enough to learn about it and then explore for yourself from there, and if it resonates, you’ll never not find it interesting. It’s a new kind of artwork that functions as a cultural settlement layer, and toward that end, it’s one of the greatest expressions of onchain art on Ethereum today.All in all, then, I honestly believe Terraforms stands out as a beacon of innovation, creativity, and longevity in the 21st century art scene. If you’re an art enthusiast, or a tech aficionado, or simply curious about the intersection of these worlds, Terraforms offers a glimpse into the future of onchain creativity. Study it! 
-
-
-
-----------------
-
 McDonald's Just Launched Its Own Metaverse-And Grimace NFT Owners Are VIPs - Decrypt
 
 McDonald's Singapore now has its own metaverse world called “My Happy Place,” offered through its official app in collaboration with Bandwagon Labs—and people who own official Grimace NFTs launched in 2023 get special perks in the digital locale.The 3D online environment allows users to play games like Build-A-Burger, envision future McDonald's restaurant designs, and participate in daily contests offering real-life food deals and prizes through the Wheel of Deals feature. My Happy Place runs on Bandwagon’s own BW.LAND tech, rather than in another metaverse platform or game.“We’re excited to launch McDonald’s Singapore’s first digital experience. Our customers can dress their avatars in McDonald’s outfits, design their dream restaurant, and win daily phygital rewards, elevating how they experience McDonald’s,” said Drina Chee, Senior Director, Marketing & Digital Customer Experience at the fast food giant, in a release.McDonald’s Singapore and Bandwagon Labs previously collaborated last year on a series of 2,000 NFTs based on the purple marketing character, Grimace.Each was free to claim via the local McDonald’s app and featured a randomized design for Grimace—and the “soulbound” tokens also couldn’t be traded after the mint via Ethereum scaling network Polygon.Now those holders will be able to access special features in My Happy Place, thanks to a token-gating feature. Grimace NFT owners can unlock exclusive wearable items in the game, explore a secret island in the world, and “display Grimace portraits in the Restaurant of the Future,” per a release.Also in 2023, McDonald’s Hong Kong launched McNuggets Land, a limited-time experience in Ethereum metaverse game The Sandbox with NFT and token rewards for players.Editor’s note: This article was written with the assistance of AI. Edited and fact-checked by Andrew Hayward.GG NewsletterGet the latest web3 gaming news, hear directly from gaming studios and influencers covering the space, and receive power-ups from our partners.
@@ -9184,3 +9132,87 @@ Ethereum devs confirm Pectra upgrade to include EIP-7702, PeerDAS, and more - Cr
             
         
     
+
+----------------
+
+Floki Inu price prediction: Why another ATH may be close - AMBCrypto
+
+
+
+Large transactions increased, indicating that FLOKI could hit $0.00040 in the short term.
+The token’s social dominance and weighted sentiment fell, predicting a possible bullish invalidation.
+
+In the last seven days, Floki’s [FLOKI] price has increased by 24.79%, triggering different opinions about Floki Inu price prediction. At press time, the token changed hands at $0.00031.
+A few days ago, specifically on the 5th of June, FLOKI hit a new All-Time High (ATH)  of $0.00034. However, since that day, the price decreased and in the last 24 hours, has been swinging sideways.
+Despite the retracement, AMBCrypto found that several metrics were supporting the bullish Floki Inu price prediction to come to pass. First on the list was the large transactions happening on the Floki network.
+FLOKI has the “big boys” support
+According to data from IntoTheBlock, large transactions had increased by 9.81% in the last 24 hours. For context, large transactions are tagged as transactions valued at $100,000 or more.
+Spikes in this metric indicate high activity by institutional players. However, this could be either buying or selling. But FLOKI’s price action suggested that most of the volume tilted toward a purchase.
+Should this metric continue rise, then FLOKI’s price could hit a new ATH. Beyond the transactions, AMBCrypto looked at the active addresses to determine if the Floki Inu price prediction indicated by the transactions could be validated.
+At press time, daily active addresses on the network was 77,790. This was a notable increase from the number in the last week of May.
+Source: IntoTheBlock
+In general, active addresses tracks network activity. Most times, the metric has a strong correlation with FLOKI’s price.
+If the indicator decreases, it means that interaction on a blockchain is decreasing. At the same time, it implies low demand for the cryptocurrency.
+However, the recent increase indicates rising demand for FLOKI. If sustained, this could be trigger a Floki Inu price prediction toward $0.00040.
+Furthermore, AMBCrypto reported that the Floki team was working on increased adoption for the memecoin. This was evident in the recent commitment market maker DWF Labs.
+However, there has been a change with FLOKI which could affect the price prediction. According to on-chain analysis using Santiment, the token’s social dominance had plunged.
+Will negative sentiment stop the memecoin?
+Previously, the metric was 0.487%— on the 6th of June. But at press time, that ratio had fallen to 0.075%. This suggests that FLOKI-related discussion within the ecosystem had decreased.
+Should this ratio continue to fall, FLOKI’s price could drop below $0.00030. However, a decline in social dominance could also serve as a buying opportunity for the token.
+Looking at the chart below, anytime that the metric dumps, FLOKI’s price breaks out a few days later. As such, the pattern might repeat itself, and the $0.000040 Floki Inu price prediction could be plausible.
+Source: Santiment
+In addition, the sentiment around FLOKI had become negative, suggesting that traders are taking a cautious approach toward the cryptocurrency. Weighted Sentiment tracks the positive/negative comments about a project.
+Considering the negative reading around the token, FLOKI could face another decline before another bounce occurs. In terms of the supply in profit, on-chain data showed that 3.12 trillion tokens were in the green.
+Source: Santiment
+
+Is your portfolio green? Check the Floki Profit Calculator
+
+This is something that is important to the price action. For example, the number of tokens in profit hit 3.25 trillion on the 21st of May. At that point, the memecoin was overheated and triggered a correction in the price.
+But since the supply in profit was lower, Floki Inu’s price prediction could be one to keep an eye on.
+
+
+
+
+
+
+----------------
+
+Bitcoin Investors Buying 5.5 Times What Miners Are Producing
+
+
+								On-chain data shows that Bitcoin investors have recently been scooping up supply equal to 5.5 times what the miners have produced.
+Bitcoin Investor Cohorts Have Been Busy Accumulating Recently
+In a post on X, analyst James Van Straten discussed the accumulation that Bitcoin investor cohorts have been participating in and how it compares with the recent spot exchange-traded fund (ETF) inflows.
+The investor cohorts here refer to groups of holders divided based on the amount of cryptocurrency they hold. In the context of the current topic, not any particular group is of interest, but all of them collectively are.
+
+Below is the chart shared by Straten, which shows how the net flows into the wallets of BTC investors have looked recently.
+
+The value of the metric seems to have been positive in recent weeks | Source: @jvs_btc on X
+As the above graph shows, Bitcoin investors as a whole have been making net inflows into their wallets, suggesting that accumulation has been their dominant behavior.
+The analyst has also attached the data for the network’s Monthly Issuance in the same chart. The “Issuance” here refers to the amount of BTC the miners produce by solving blocks. The Monthly Issuance is a measure of this amount over the past month.
+From the graph, it’s apparent that Bitcoin investor accumulation has recently been higher than the Monthly Issuance. This would mean that investors have been buying BTC faster than the miners can produce it.
+More specifically, the BTC investors have bought 71,000 BTC over the last thirty days, almost 5.5 times what the miners minted in the same period: around 13,000 BTC.
+The chart also shows that, during the past year, the holder cohorts have continuously been scooping up BTC more than what miners have been producing, bar a few stretches.
+How is it possible that the investors have been able to buy more than what’s being minted? Where is the extra Bitcoin coming from? The answer is exchanges. Centralized exchanges aren’t included with the investor cohorts and are where holders have been withdrawing coins.
+As another analyst pointed out in a CrypotQuant Quicktake post, the Bitcoin Exchange Reserve has been going through a steep decline for a while now.
+
+Looks like the value of the indicator has been stuck in a downwards trajectory over the last couple of years | Source: CryptoQuant
+As for how the Bitcoin investor demand compares against the recent ETF inflows, Straten has noted that these investment vehicles have added $1.4 billion worth of BTC to their inventories in the latest spree. On the other hand, the monthly net accumulation from the investors stands at more than $5.1 billion.
+
+Thus, the market’s demand has been quite sizeable recently, even regardless of the dramatic inflows that the ETFs have seen.
+BTC Price
+Following its surge earlier in the week, Bitcoin has gone a bit stale as its price is still trading around $71,000.
+
+The price of the coin appears to have been moving sideways during the last few days | Source: BTCUSD on TradingView
+Featured image from Dall-E, CryptoQuant.com, Glassnode.com, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Trump Declares Himself 'Crypto President' After Raising $12M At VC-Hosted San Francisco Fundraiser, Slams Democrats For Trying To Regulate It - Benzinga
+
+Former President Donald Trump has reportedly positioned himself as the “crypto president” at a San Francisco fundraiser, raising $12 million in the process.What Happened: On Thursday, Trump, a Republican presidential candidate, expressed his support for the cryptocurrency industry and criticized the Democratic Party’s efforts to regulate it at a fundraiser in San Francisco, reported Reuters. He raised $12 million at the fundraiser hosted by tech venture capitalists David Sacks and Chamath Palihapitiya at Sacks’ residence in the upscale Pacific Heights neighborhood.The former President who is vying to unseat Democratic incumbent Joe Biden in the upcoming election, did not provide specific details about his proposed crypto policy. See Also: Kitty-Themed Crypto Pumps 65% In Anticipation Of ‘Roaring Kitty’ YouTube Livestream, Trading Volume More Than DoublesDespite San Francisco’s predominantly liberal environment, several prominent local venture capitalists and crypto investors have thrown their support behind Trump, citing what they perceive as excessive regulation as a key reason.“He said he would be the crypto president,” said Trevor Traina, a San Francisco-based tech executive and former Trump ambassador to Austria.Why It Matters: This comes in the wake of increased scrutiny of the crypto industry by regulators, following the collapse of major crypto firms in 2022. Last month, Biden vetoed a bipartisan resolution intended to overturn the Securities and Exchange Commission’s crypto custody guidance.Trump’s stance on crypto has evolved significantly over the years. In 2021, he referred to it as a “disaster waiting to happen,” but by 2024, he had become a vocal supporter, even owning a crypto portfolio worth over $33 million at one point.The 2024 presidential election is shaping up to be a close race, with Trump’s lead over Biden dropping to just one point. The former President’s strong support for the crypto industry could play an important role in his campaign strategy.Read Next: Here’s How Much Just $100 In Bitcoin Will Be Worth If Cathie Wood’s BTC Prediction Is CorrectDisclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.Image created via photos on Shutterstock
