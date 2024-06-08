@@ -1,43 +1,3 @@
-How Telegram Stars Enhances Mini Apps Like Notcoin
-
-
-Telegram CEO Pavel Durov has introduced “Telegram Stars,” an in-app token designed to streamline the purchase of digital goods and services. This new feature broadens Telegram’s scope from a secure messaging platform to an expansive digital marketplace.
-Telegram Stars facilitates transactions within the app’s ecosystem. Users can obtain these tokens through in-app purchases on platforms like Apple, Google, or PremiumBot. 
-How Telegram Plans to Enhance Its Ecosystem Through Stars
-
-Users spend these Stars on digital products, including e-books, online courses, and items for Telegram games.
-Compliant with Apple and Google’s policies on digital sales, Telegram Stars aims for a seamless integration into mobile app stores. Furthermore, Telegram plans to allow developers to convert earnings from their bots into Toncoin (TON), enhancing the versatility of these digital tokens.
-Read more: What Are Telegram Bot Coins?
-
-Telegram Stars strategically enhances the visibility and usage of mini-apps like Notcoin, which do not require installation. Users can utilize Stars to conduct transactions within such mini-apps, and developers can also use Stars to promote their apps on Telegram.
-
-“Apple and Google take a 30% commission when users buy Stars from them, but Telegram will subsidize ads purchased with Telegram Stars. So if developers reinvest Stars in promoting their app, the overall commission will be nearly 0%,” Pavel Durov, the CEO of Telegram, explained.
-
-The influence of these innovations is evident in the crypto market, particularly with Notcoin (NOT). It is currently trading at $0.022, up by 4.17% in the past 24 hours. 
-Although the short-term impact on its price has been minimal, Notcoin has climbed into the top 60 cryptocurrencies by market capitalization. Earlier this week, Notcoin briefly made it to the list of top 50 cryptocurrencies.
-Notcoin (NOT) Price Performance. Source: BeInCrypto
-The rapid success of Notcoin is backed by significant support from Durov himself. Earlier this month, he noted that assets in his account, initially worth $6.8 million, appreciated fourfold within two weeks, reaching nearly $25 million. 
-
-Durov’s strategy involves holding these tokens with the expectation that their value will increase by 100 times. He targets a staggering $680 million valuation for his Notcoin portfolio.
-Durov has praised Notcoin’s growth, declaring it “the largest cryptocurrency community in the history of social media.” He also highlighted the advantages of Telegram’s large user base and scalability for deploying crypto applications.
-Read more: Notcoin (NOT) Price Prediction 2024/2025/2030
-As Notcoin gains momentum, achieving record trading volumes and market cap milestones, it highlights Telegram’s transformation into a key platform for crypto solutions.
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Robinhood’s (HOOD) Bitstamp Deal is Strategic And Brings Added Institutional Exposure: Bernstein
-
-Exchanges offer a wide range of services such as staking, stablecoins, trading, custody and prime broking, the note said. The acquisition of Bitstamp potentially allows Robinhood to offer a wider range of crypto products to a more institutional client base. Bernstein has an outperform rating on Robinhood stock with a $30 price target. The shares were little changed in early trading on Friday at around $23.
-
-----------------
-
 Whale activity spikes on Solana amid Roaring Kitty's GME update - AMBCrypto
 
 
@@ -10177,3 +10137,106 @@ Generated Image: Midjourney
 Why Ethereum Layer-2 Network Taiko Is Spending $100K Daily on Blobs - Decrypt
 
 We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsAn Ethereum layer-2 network named Taiko is dominating the market for so-called blobs, or dedicated data storage for Ethereum scalers—but those endeavors are resulting in tens of thousands of dollars worth of costs for the little-known scaling solution each and every day, even topping the $100,000 mark multiple times this week.The Taiko protocol, which went live in late May, seeks to offer users cheaper and faster transactions than on Ethereum's mainnet, while borrowing elements of the network's security. Since going live, Taiko has spent a whopping $900,000 on blobs in less than two weeks to funnel users’ transactions over to Ethereum’s network.Meanwhile, Taiko’s competitors, such as the Optimism network, rarely spend more than $1,000 per day on Blob-related fees. Introduced in March as part of an Ethereum upgrade, blobs were billed as a new resource for layer-2 scaling networks to post Ethereum transactions more cheaply.The protocol’s maker Taiko Labs announced in March that it had raised $15 million in a Series A funding round. Leveraging “zero-knowledge” cryptography in its design, Taiko is striving to differentiate its scaling design in an increasingly competitive field that includes dozens of different scaling networks.“Taiko just launched its mainnet, and there’s a lot to be figured out before it becomes stable,” Taiko Labs CEO Daniel Wang told Decrypt in a written statement. “We knew that we will use more blobs than other layer-2s. This is a design decision, not a bug.”Layer-2 networks often work by bundling batches of transactions together and processing them on a separate chain before posting receipts back to Ethereum. However, Taiko’s design differs from that formula, where lots of transactions are rolled up into batches elsewhere.Instead, the process of ordering transactions, known as sequencing, takes place on Ethereum itself. In a blog post, Taiko Labs said this process, dubbed “base sequencing,” is more decentralized than that of other layer-2s that rely on centralized sequencers—which are controlled by a network’s development team and collect a small portion of users’ fees.“That sounds expensive,” Alexei Zamyatin, the co-founder of Bitcoin layer-2 network BOB, told Decrypt in an interview. “It makes it more secure, but not as secure as [Ethereum], and you’re also much more expensive than most layer-2s.”A game of tradeoffsStill, Wang stated that the costs associated with Taiko’s functionality could easily reach the point of break-even if “Taiko is fully utilized by users,” providing a sustainable amount of gas fees.Wang added that Taiko is fully aware of the pros and cons associated with its sequencing method, and he hopes that Ethereum researchers will study Taiko’s on-chain data to explore improvements that could allow Ethereum to better support similar scaling networks.Some Ethereum researchers, including Justin Drake, believe that Taiko’s team is trailblazing a new form of decentralized sequencing that could solve key hurdles in Ethereum’s ecosystem.“It is making a leap forward in the decentralization, credible neutrality, and composability of rollups,” he told Decrypt in a written statement.If more layer-2 networks shifted the sequencing of their transactions to Ethereum itself, then fragmentation issues holding the entire space back could be solved, he stated. As of now, liquidity and assets are largely spread out across different layer-2s, effectively siloing users and applications within a given scaling solution while all being tied to Ethereum.When it comes to layer-2 networks on Ethereum, the introduction of blobs represented a significant shift in how those protocols interact with the underlying blockchain. Before blobs were available as a separate fee market, layer-2s could only post bundled transactions in the form of Ethereum “calldata,” a space for data to be contained within transactions.Instead of trafficking users’ transactions in bulk alongside regular Ethereum activity, blobs serve almost as a dedicated lane on a highway, where less congestion can reduce costs. However, the best way to package those transactions before they’re shipped is still up for debate.Blobs blobs blobsIn some cases, centralized sequencers can be leveraged to grind a network to a halt, puncturing the veil of permissionless activity that is synonymous with crypto. Sometimes, centralized sequencers can be abused to delay transactions too. However, Taiko’s commitment to decentralization may not be the most efficient, according to one of its community advocates.“Sadly, it’s kind of expensive,” the pseudonymous crypto researcher arixon.eth said on Twitter (aka X). “Because of based sequencing, we need to post a blob every 12 [seconds], and if there aren't enough [transactions], then we just won't fill the blobs.”Wang of Taiko Labs said changing this pace could be a potential solution enacted soon, stating that Taiko’s community is “considering lowering the block proposing frequency a bit.”The constant stream of blobs, regardless of how full they are, has made Taiko a top user of them. On Sunday, for example, Taiko posted 25% of all blobs on Ethereum, according to a popular Dune dashboard. That day, Taiko spent nearly $63,000 on blob-related fees. On Thursday, Taiko paid $123,000 in fees for blobs—representing 73% of all costs paid for them across layer-2s—which was its second straight day with a six-figure fee tally. And while most layer-2s pass cost savings onto their users through lower fees, the premium Taiko is paying for decentralization, as of now, isn’t a bill that users need to foot.“For now, it's partially subsidized by the team,” arixon.eth said, adding that the process could be modified in the future so that “blocks are missed until there are enough [transactions] in the mempool for a proposer to push a block to [Ethereum] profitably.”Amid the network’s first airdrop on Wednesday of TAIKO tokens, the network’s native cryptocurrency, the layer-2 averaged around 6.42 transactions per second, according to L2BEAT. Meanwhile, Ethereum registered around 13.6 transactions per second itself.So far, the performance of Taiko’s token has been turbulent. After crashing 40% an hour after it launched, to $2.27 from $3.80, the token’s price had recovered to $2.45, as of this writing, showing a nearly 3% decrease over the past day, according to CoinGecko.Edited by Andrew HaywardDaily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Russia, China Developing 'Independent Payments System' To Ditch US Dollar, Avoid 'External Interference': Vladimir Putin - The Daily Hodl
+
+
+								A group of economically-aligned nations say they’re building an “independent payments system” in a move away from the US dollar.
+At the SPIEF 2024 Conference in Saint Petersburg, Russian President Vladimir Putin said work is underway on a system designed to safeguard the sovereignty of national currencies.
+
+
+
+
+
+
+
+
+
+
+“Within BRICS, we’re working on shaping an independent payment system, free from political pressure, abuse and external sanctional interference.”
+Putin’s statement follows initial reports that the China and Russia-led BRICS – which also consists of Brazil, India, South Africa, Saudi Arabia, Iran, Egypt, Ethiopia and the United Arab Emirates – will use blockchain technology to power the payments system.
+In an interview with the Russian state-owned news outlet TASS, Kremlin aide Yury Ushakov said BRICS is designing a system that’s fully digital, fair and cost-effective.
+“We believe that creating an independent BRICS payment system is an important goal for the future, which would be based on state-of-the-art tools such as digital technologies and blockchain.
+The main thing is to make sure it is convenient for governments, common people and businesses, as well as cost-effective and free of politics.”
+While the payments system is in development, Ushakov says BRICS nations are focused on boosting banking networks and trade in national currencies.
+“Work will continue to develop the Contingent Reserve Arrangement, primarily regarding the use of currencies different from the US dollar.”
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+American Crypto Advocacy Movement Tops Milestone 1 Million Supporters
+
+
+																On June 5, Coinbase CEO Brian Armstrong reported that one million people have joined ‘Stand With Crypto’ as advocates for the industry, adding, “That’s a lot of voters!”
+He continued to state that 600,000 of these advocates joined after a Whitehouse veto threat, “and thousands mobilized around the back-to-back historic, bipartisan wins in the House and Senate.”
+“Crypto is non-partisan and momentum for pro-crypto policy in America has never been stronger.”
+
+
+US Crypto Support Grows
+The comments came in reference to the Biden Administration attempting to block Republican crypto legislation that would enable banks to custody digital assets for clients.
+However, things have gone in favor of the industry recently, with the House of Representatives voting to pass the bill and the passing of the Financial Innovation and Technology for the 21st Century Act (FIT21) in May.
+
+
+
+
+The Stand with Crypto Alliance, an advocacy organization focused on mobilizing the crypto community to directly engage in the legislative process, was launched by Coinbase in August 2023 in response to the increasingly heavy-handed enforcement action from regulators.
+On June 5, it surpassed a million supporters, with the figure standing at 1,011,058 at the time of writing. It also has had $87 million donated by crypto supporters to further its cause.
+Commenting on the potential voters in the November US presidential election, Armstrong said, “It’s a much bigger voting bloc than most people probably would have anticipated.”
+Armstrong added that the surge in the group’s membership was fueled by frustration over the Biden administration’s veto and by strong support for the FIT21 bill that would create a new legal framework for crypto assets giving the Commodity Futures Trading Commission (CFTC) more oversight.
+Speaking to Reuters, he said:
+“I think that it’s just bad politics to be anti-crypto. There’s no voter constituency that you’re winning over by doing that, but you are upsetting a huge number of Americans who’ve used this technology,”
+Big Donations for Pro-Crypto Candidates
+The crypto industry is spending tens of millions of dollars in this year’s elections to boost friendly candidates against those who are against it.
+On June 3, Coinbase announced a $25 million donation to the pro-crypto political action committee (PAC) Fairshake. Other big industry names, including Ripple and venture capital giant Andreessen Horowitz, have also made donations.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
