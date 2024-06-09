@@ -1,9 +1,3 @@
-GameStop Tumbles 40% as Trading Icon Roaring Kitty Returns to Livestream
-
-Solana-based meme token GME, which was inspired by the company but has no affiliation with it, almost doubled in price in less than a day before sharply paring gains on Friday. At press time it was down 50% over the preceding few hours, though still higher by more than three-fold this week.
-
-----------------
-
 Microsoft Limits New Windows AI 'Recall' Feature Following Privacy Backlash - Decrypt
 
 Following weeks of criticism, Microsoft announced Friday that it will build tougher limits around the controversial AI-powered “Recall” feature that it unveiled during its annual developer conference in May. Cybersecurity and privacy experts railed against the product, calling it spyware and a potential honeypot for cybercriminals.In an update, Microsoft said it was changing how Recall functions, giving customers more control over the application. According to Microsoft, Copilot+ PC users will have to opt into using Recall, saying that the service will now be turned off by default.Additionally, enrollment in Microsoft’s Windows Hello service—the secure, biometric login feature introduced in Windows 10—is required to enable Recall, and decryption of snapshots will now require user authentication.“Even before making Recall available to customers, we have heard a clear signal that we can make it easier for people to choose to enable Recall on their Copilot+ PC and improve privacy and security safeguards,” Microsoft said in a statement.A feature of Microsoft’s new line of AI-powered Copilot+ Windows PCs, Recall uses artificial intelligence to take random screenshots of what the user is doing in order to provide a way to retrieve lost or missing data. Concerns that Recall would be able to capture passwords and other sensitive information soon followed.“We also know the best way to secure information on a PC is to secure the whole PC itself,” Microsoft said.Microsoft emphasized that Snapshots are stored locally and are not shared, and users will know when Recall is saving a snapshot. Microsoft also noted that Recall does not save snapshots of digital rights-managed content or private browsing in supported web browsers, and customers can also pause, filter, and delete snapshots at any time.“We are on a journey to build products and experiences that live up to our company mission to empower people and organizations to achieve more, and are driven by the critical importance of maintaining our customers’ privacy, security, and trust,” the firm noted. “As we always do, we will continue to listen to and learn from our customers, including consumers, developers and enterprises, to evolve our experiences in ways that are meaningful to them.”Edited by Andrew HaywardGenerally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
@@ -10854,3 +10848,40 @@ Ripple’s momentum is further supported by its strategic alliances. Recently, R
         
 
         
+
+----------------
+
+Elliptic Warns AI-Driven Crypto Crime is Only Just Begining: Report
+
+
+																A recent report from blockchain intelligence firm Elliptic titled “AI-enabled crime in the cryptoasset ecosystem” has shed light on the emerging threats posed by artificial intelligence (AI) in cryptocurrency crime.
+The report, supported by case studies, identifies five emerging types of AI-enabled crimes, ranging from deepfake scams to state-sponsored cyberattacks, emphasizing that these threats are still in their infancy.
+AI Deepfake Scams
+AI, while having the potential to significantly transform the global economy, also brings risks. According to Elliptic, threat actors are already exploiting AI for illicit activities within the cryptoasset ecosystem.
+One of the report’s findings is the use of AI to create deepfakes. These highly realistic videos and images are being used by scammers to impersonate high-profile individuals such as celebrities, politicians, and industry leaders to legitimize fake projects.
+“Crypto giveaway and doubling scams are increasingly using deepfake videos of crypto CEOs and celebrities to encourage victims to send funds to scam crypto addresses.”
+Specific instances mentioned in the report include deepfakes targeting Ripple (XRP) and its CEO, Brad Garlinghouse, particularly following the company’s legal victory against the U.S. SEC in July 2023.
+
+
+
+
+Other individuals who have been targeted by deepfake scams include Elon Musk, former Singaporean Prime Minister Lee Hsien Loong, and the 7th and 8th Presidents of Taiwan, Tsai Ing-wen and Lai Ching-te.
+Anne Neuberger, the U.S. Deputy National Security Advisor for Cyber and Emerging Technologies, also addressed the growing concerns about AI’s misuse. She highlighted that AI is being used not only for everyday scams but also for more sophisticated criminal activities.
+“Some North Korean and other nation-state and criminal actors have been observed trying to use AI models to accelerate the creation of malicious software and identifying vulnerable systems,” Neuberger stated.
+GPT Tokens and Dark Web Activities
+The hype around AI has also given rise to the creation of GPT-themed tokens, which are often promoted with promises of high returns. Elliptic warns that while some of them may be legitimate, many are being promoted in amateur trading forums with false claims of official associations with AI companies like ChatGPT.
+The report also reveals discussions on dark web forums about leveraging AI models to reverse-engineer crypto wallet seed phrases and bypass authentication for various services.
+“Throughout numerous dark web cybercrime forums, Elliptic has identified chatter that explores the use of LLMs to reverse-engineer crypto wallet seed phrases, bypassing authentication for services such as OnlyFans, and providing alternatives to image ‘undressing’ manipulation services such as DeepNude.”
+Elliptic also states that most AI-related threats in the cryptocurrency sector are still in the early stages, highlighting the importance of being vigilant and taking proactive steps to address these developing forms of crypto crime.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
