@@ -1,47 +1,3 @@
-Bitcoin Open Interest reaches record levels: Could $80K be next? - AMBCrypto
-
-
-
-
-The coin’s open interest hit the highest point since March, suggesting that BTC could break past $73,750.
-Exchange withdrawal increased while the funding rate was positive, reinforcing the bullish bias.
-
-For the first time since it hit its all-time high of $73,570, Bitcoin [BTC] Open Interest has hit a new high. Specifically, the Open Interest was $37.66 billion, according to data from Glassnode. 
-Open Interest (OI) is the value of outstanding contracts in the derivatives market. If the OI decreases, it means traders are increasingly closing their positions, and this could lead to a price decrease. 
-However, an increase in OI like Bitcoin has done recently is a sign that new money is entering the market. If sustained, this could back BTC’s uptrend and lead to a higher price.
-Source: Glassnode
-BTC aims higher, backed by exchange flow
-As of this writing, BTC changed hands at $71,200. This represented a 3.89% jump in the last seven days. With increasing interest in the token, there is a high chance that it could surpass its all-time high and possibly reach $80,000.
-Despite the bullish prediction, it is important to look at the spot trading activity on exchanges as this could also affect the price action.
-One of the ways to do this is by looking at the supply on exchanges and the supply out of it. In addition, the balance held by some of the top exchanges could give an idea.
-For instance, AMBCrypto found that Binance and Coinbase’s historical balance was down, indicating that users were withdrawing their BTC from the platforms. However, Kraken recorded a surge in BTC purchases on the 30th of May before the recent decline.
-It seemed that many holders were buying more coins on exchanges and withdrawing them for the long term. If this continues to be the case, Bitcoin might evade selling pressure, and the price could hit an all-time high before the end of June.
-Source: Santiment
-Traders continue to bet on a rally
-On the other hand, the prediction could be invalidated if supply on exchanges begins to rise. This is because an increase in the supply would mean that investors are willing to book profits. If this happens, BTC might lose hold of $70,000.
-However, traders seem not to share the viewpoint of price decrease. This was based on the Funding Rate data obtained from Coinglass. 
-According to the derivatives information portal, Bitcoin’s Funding Rate was positive. If the reading of the metric is negative, it implies that shorts are paying longs a fee to keep their position open. 
-In this instance, the broader sentiment is bearish.
-Source: Coinglass
-
-Read Bitcoin’s [BTC] Price Prediction 2024-2025
-
-However, the positive reading of the metric indicated that longs are dominant, and are expecting BTC’s price to increase. Should Bitcoin rise to $74,000 as it is being talked about, traders with long positions would be rewarded.
- This could also give way to $80,000 provided bears fail to nuke the uptrend.
-
-
-
-
-
-
-----------------
-
-DYdX To Complete v5 Upgrade Next Week - The Defiant
-
-DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.DYdX, a decentralized perpetuals exchange, is set to complete the rollout of its highly anticipated v5 upgrade next week.Announced on June 7, dYdX’s v5 iteration introduces a suite of new features including isolated markets, batch orders, liquidity vaults, and new price oracles. The dYdX community voted to implement the v5 upgrade with 98.4% on June 3.DYdX commands a total value locked (TVL) just shy of $500 million, placing it among the top 20 DeFi projects by TVL​, data from DefilLama shows. The protocol ranks second among perpetual DEXes, sitting behind GMX with $544 million.DYdX is followed by Jupiter and Hyperliquid with $412 million and $392 million, respectively.The protocol’s multiple iterations have generated more than $120 billion in cumulative trading volume​, the dYdX Foundation shared in an April blog post.New featuresThe introduction of Isolated Markets is among the biggest changes introduced by v5. Previously, all markets on dYdX shared the same collateral pool, limiting the number of markets available. With Isolated Markets, each market now has a distinct collateral pool, enabling the launch of up to 800 new markets on the protocol.Isolated Margin is another key feature in the update. It allows traders to treat each market as an isolated position with distinct risk parameters, rather than having all positions cross-margined against a single pool of collateral.“Traders have the ability to confine collateral to a specific position and manually adjust the collateral for that given position,” dYdX said in an announcement. “We believe this will allow users to more intuitively understand and adjust their collateral management.”The update includes price oracle integrations from Slinky and Raydium, a Solana-based limit order book DEX. The Slinky integration will enable block-by-block price updates with improved latency by leveraging dYdX’s validators, while the Raydium oracle provides price data on all assets traded on the Raydium exchange.V5 also introduces batch order cancellations allowing users to cancel up to 100 short-term orders simultaneously.The update will additionally introduce liquidity provider (LP) vaults providing automated LP strategies in the coming weeks.Season 5 incentivesDYdX’s v5 launch will likely coincide with the project’s fifth season of incentives for users. The campaign will offer $5 million in DYDX tokens to traders and will run until mid-July 2024, pending a governance vote.The season will also introduce a multiplier for DYDX stakers, enhanced points for front-end trading activity, and separate trading reward allocations for major markets including BTC, ETH, and SOL. Season 5 will also distribute $100 deposit bonuses to the first 500 new accounts that sign up.Migration from Ethereum to CosmosIn 2017, Antonio Juliano launched dYdX as an Ethereum-based decentralized exchange.DYdX ranked among Ethereum’s top DeFi protocols for several years, with the project migrating to a dedicated Layer 2 appchain with the launch of its v3 iteration in April 2021. However, dYdX exited the Ethereum ecosystem to deploy a Cosmos-based appchain with the deployment of its fourth version in November 2023.The project attracted funding from top crypto investment firms including Paradigm, Polychain, and Andreessen Horowitz over four funding rounds.
-
-----------------
-
 dWallet Network brings multi-chain DeFi and gaming trust protocols to Aptos
 
 
@@ -10066,3 +10022,78 @@ Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
 David Krause on Wisconsins $168 Million BTC Investment! #shorts - YouTube
 
 AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Solana’s DeFi activity could be good news for SOL’s price - Here's why - AMBCrypto
+
+
+
+Activity across the Solana blockchain increased, but SOL’s price fell
+Correlation between SOL and BTC declined as indicators revealed that SOL might drop below $160
+
+Unique Active Wallets (UAWs) on Solana [SOL] recorded an incredible surge in the last 24 hours, according to DappRadar. Decentralized applications including Jupiter, Raydium, and Magic Eden contributed to the aforementioned surge.
+AMBCrypto found that UAWs on aggregator Jupiter Exchange were 307,100 in number, representing a 251% hike. For Raydium, it was an uptick to 285,200 while NFT activity picked up. Finally, the same hiked by up to 178% on Magic Eden.
+
+Memecoins are driving SOL up and down
+The rise in activity on Raydium and Jupiter could be linked to increasing memecoin activity in the market. An assessment of the platforms revealed that the buzzing memecoin narrative can be attributed to GameStop (GME) and legendary trader Keith Gill, popularly known as “Roaring Kitty.”
+On 7 June, derivative tokens linked to the trader appeared in high numbers. Also, these Solana-based tokens jumped to mind-blowing market caps within just short periods.
+This hike also indicated an increase in demand for SOL. However, at press time, Solana’s price was valued at $162.44, representing a 5.44% fall in the last 24 hours.
+Here, it’s also worth noting that AMBCrypto found the reason why SOL could not sustain a hike, despite an increase in demand.
+For many degenerates, the idea of buying a memecoin is not to hold for a long time. In crypto, a degenerate refers to an individual who engages in trading highly-volatile and speculative tokens with no fundamentals. As such, when the tokens reach a certain level of gain, they exchange it for the Solana native token, and sell it for a stablecoin or fiat.
+Recently, there has been a plethora of such pumps and dumps, and it might not stop anytime soon. Should this be the case, SOL might continue to move sideways.
+Can the token bank on BTC?
+AMBCrypto also found that the one-day volatility for SOL jumped. Volatility tracks how rapidly the price can fluctuate. Thus, if selling pressure climbs amid high volatility, the token might fall on the charts.
+On the other hand, a hike in buying pressure accompanied by high volatility could trigger a breakout in price. However, by the look of things, SOL could drop below $160 in the short term.
+Solana decouples from Bitcoin
+Another factor that could affect the price is Bitcoin [BTC]. According to data from Santiment, Solana’s correlation has been falling since 6 June, indicating that the respective price might not always move in the same direction.
+Therefore, if BTC rises above $71,000 again, it is no guarantee that SOL would revisit $187. However, if the market’s recovery is more widespread, the prices might follow a similar path.
+
+Is your portfolio green? Check the Solana Profit Calculator
+
+Whichever way SOL goes, the cryptocurrency is unlikely to hit $200 in the coming week. In the long run, there are predictions that SOL might hit $1,000. For that to happen, the market condition needs to improve.
+
+
+
+
+
+
+----------------
+
+Bitcoin struggles to rally as Tetherâs USDT growth stagnates: CryptoQuant - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            Demand for Bitcoin from large investors and permanent holders is on the rise. However, Bitcoin (BTC) has yet to see a major price rally since the growth in USDT’s market capitalization is slowing, according to CryptoQuant’s recent report.“Stablecoin liquidity has yet to recover its growth trajectory in order to underpin a price rally,” CryptoQuant stated. “The growth in the market capitalization of Tether’s USDT, a proxy for fresh liquidity in crypto markets, has continued to decelerate and is now growing at the slowest pace since February 11.”As noted, demand for Bitcoin among large-scale investors, often referred to as whales, and long-term holders is picking up speed. The monthly growth rate of demand from these groups is 4.4%, the quickest increase since April.In the last 30 days, these Bitcoin holders have added 70,000 BTC to their holdings, the most substantial accumulation since April. This reflects the 2020 pre-rally phase when large investors channeled about $1 billion into Bitcoin, according to the report.On-chain activity remains robust despite Bitcoin’s price exhibiting low volatility. Data suggests institutional investors are actively purchasing Bitcoin for their custody wallets. In addition, long-term holders have resumed accumulation.The report also notes that selling pressure on Bitcoin has decreased as traders have largely completed profit-taking. With unrealized profits at a low of 3%, down from 69% in early March, the expectation is for reduced selling pressure moving forward.Concurrently, Ethereum (ETH) has witnessed a spike in demand, particularly after the approval of spot Ethereum ETFs in the US, with daily purchases by permanent holders averaging 40,000 ETH since May 20.Despite the optimistic signs of increased institutional buying and the launch of spot ETFs, CryptoQuant’s report suggests that the sluggish growth in stablecoin liquidity may hinder the prospects of a major Bitcoin price rally in the short term.Bitcoin’s price stagnates despite strong inflows into US spot Bitcoin ETFsThe report also highlights a remarkable uptick in Bitcoin acquisitions from US spot Bitcoin ETFs (ETFs), with total holdings increasing from 819,000 to 859,000 between May 1 and June 6.On June 7, US spot Bitcoin funds recorded a net inflow of $131 million, marking 19 consecutive days of inflows, according to data from Farside.Historically, strong Bitcoin ETF inflows have been accompanied by Bitcoin’s price rallies. However, the price movements over the past two weeks indicate that ETF flows are not the only factor that influences Bitcoin’s price actions.CoinGecko’s data shows that Bitcoin’s price fell from around $72,000 to $69,000 on Friday following the jobs report and unemployment data.At press time, Bitcoin is trading at around $69,200, slightly down in the past 24 hours, and is around 6% away from its all-time high, established in March.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
