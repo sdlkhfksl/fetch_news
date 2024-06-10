@@ -1,93 +1,3 @@
-Microsoft Limits New Windows AI 'Recall' Feature Following Privacy Backlash - Decrypt
-
-Following weeks of criticism, Microsoft announced Friday that it will build tougher limits around the controversial AI-powered “Recall” feature that it unveiled during its annual developer conference in May. Cybersecurity and privacy experts railed against the product, calling it spyware and a potential honeypot for cybercriminals.In an update, Microsoft said it was changing how Recall functions, giving customers more control over the application. According to Microsoft, Copilot+ PC users will have to opt into using Recall, saying that the service will now be turned off by default.Additionally, enrollment in Microsoft’s Windows Hello service—the secure, biometric login feature introduced in Windows 10—is required to enable Recall, and decryption of snapshots will now require user authentication.“Even before making Recall available to customers, we have heard a clear signal that we can make it easier for people to choose to enable Recall on their Copilot+ PC and improve privacy and security safeguards,” Microsoft said in a statement.A feature of Microsoft’s new line of AI-powered Copilot+ Windows PCs, Recall uses artificial intelligence to take random screenshots of what the user is doing in order to provide a way to retrieve lost or missing data. Concerns that Recall would be able to capture passwords and other sensitive information soon followed.“We also know the best way to secure information on a PC is to secure the whole PC itself,” Microsoft said.Microsoft emphasized that Snapshots are stored locally and are not shared, and users will know when Recall is saving a snapshot. Microsoft also noted that Recall does not save snapshots of digital rights-managed content or private browsing in supported web browsers, and customers can also pause, filter, and delete snapshots at any time.“We are on a journey to build products and experiences that live up to our company mission to empower people and organizations to achieve more, and are driven by the critical importance of maintaining our customers’ privacy, security, and trust,” the firm noted. “As we always do, we will continue to listen to and learn from our customers, including consumers, developers and enterprises, to evolve our experiences in ways that are meaningful to them.”Edited by Andrew HaywardGenerally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-Court to sentence Craig Wright for lying about being Satoshi
-
-
-London’s High Court of Justice, arguably the world’s most powerful copyright court, has reconvened to sentence Craig Wright for his false, perjurious claims to have written Bitcoin’s whitepaper as its creator, Satoshi Nakamoto.
-The courtroom was packed to hear final arguments from lawyers representing the Crypto Open Patent Alliance (COPA), which represents Bitcoin developers and companies. 
-Today’s arguments aren’t about whether Wright lied — he did — but merely the punishment Wright should receive.
-COPA lead attorney Jonathan Hough is obviously asking for a court injunction barring Wright from making any claim in a public forum about being Satoshi Nakamoto.
-The alliance also wants the court to categorically deny any remaining legal avenues for Wright to appeal the ruling.
-
-Read more: Judge says Craig Wright ‘not as clever as he thinks he is’
-Moreover, COPA wants to escalate the ruling within the UK judiciary from what was essentially a copyright suit to a criminal proceeding. COPA has also asked to include Wright’s once-colleague at nChain, Stefan Matthews, as a criminal defendant for his own perjury.
-COPA reminded the judge that Matthews supported Wright with false evidence, even after the court found Matthews’ evidence to be fake.
-During today’s hearing, the judge voiced agreement that the court has a responsibility to impose an ‘extraordinary’ sentence on Wright due to his extensive, multi-year campaign to mislead the world about his identity. At a maximum, the court has the ability to put Wright behind bars for years.
-Wright’s sentencing hearing has concluded for today, with proceedings due to continue next week.
-Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
- 
-
-----------------
-
-GameStop Should Buy Bitcoin Says Scaramucci, RoaringKitty Streams For the First Time in years
-
-
-																GameStop and its stock price have been the talking point of many crypto-centric and traditional finance communities throughout the past few days – not without reason.
-GME’s price went on a massive rollercoaster this week, soaring by 130% and plummeting by 55% shortly after.
-Many financial experts have chipped in with opinions, one of whom is the prominent BTC permabull – Anthony Scaramucci.
-GameStop Should Buy Bitcoin: Scaramucci
-GameStop was all the rage this week as virtually everyone who is even remotely interested in the so-called meme trading was anticipating today’s stream of Keith Gill.
-Gill, who is perhaps better known by his nickname Roaring Kitty – went live on YouTube hours ago for the first time in almost four years, but we will get to that in a second.
-
-
-
-
-Earlier today, GameStop filed to sell up to 75 million more shares as the price soared above $60. The market didn’t take this well, and GME tumbled by more than 50% today, currently trading below $30.
-Anthony Scaramucci of SkyBridge Capital came up with an interesting suggestion.
-Replying to the statement above, Scaramucci said:
-GameStop should buy #BITCOIN
-Roaring Kitty Goes Live on YouTube
-One of the most highly-anticipated events today was Keith Gill’s live stream on YouTube.
-Gill, who became famous for building a massive GME position and then being a leading figure behind the stock’s massive rally back in 2020, was talking live on a broadcast that received over half a million views in a few hours.
-It’s worth noting that multiple GME-inspired meme coins were trending upward before the stream. However, as the stock’s price tumbled today, so did these meme coins.
-For instance, GME and ROAR declined by some 25% and 35%, respectively, throughout the stream itself. None of these are affiliated with Gill, at least not officially.
-During the stream, Roaring Kitty confirmed that he’s still holding his positions and that he hasn’t opened new ones.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-Ethereum Preparing For Pectra In Q1 2025: 3 Key EIPs That Will Go Live
-
-
-								Ethereum developers continue to improve the network, maintaining a tradition that has been ongoing since its launch. Since the first update through Homestead, developers have implemented several hard forks, with the latest ones being Shanghai and Dencun.
-Pectra Lays The Foundation For Even More Upgrades In Ethereum
-
-The Ethereum community is eagerly anticipating the next key update, Pectra, scheduled for late Q1 2025. This hard fork, a significant enhancement after Dencun, will integrate 19 key Ethereum Improvement Proposals (EIPs), collectively addressing scalability, security, and user experience concerns.
-
-As mentioned earlier, the Pectra upgrade is part of yet another of Ethereum’s strategic approaches to development. Over the years, developers have introduced incremental improvements while laying the groundwork for bigger updates. As it is, Pectra lays the foundation for the eventual on-chain scaling of the mainnet.
-From Account Abstraction To User Experience Enhancement And Security
-In a post on X, an Ethereum analyst identified several EIPs that will go live, making the mainnet more performant and secure. One of them is EIP-7702, floated by Vitalik Buterin, the co-founder of Ethereum. The proposal will replace EIP-3074 and introduce account abstraction without compromising security. 
-The account abstraction feature, a key component of the Pectra upgrade, allows addresses to function temporarily as smart contracts during transactions. This feature significantly enhances user experience and streamlines transactions.
-Ethereum price trending upward on the daily chart | Source: ETHUSDT on Binance, TradingView
-Another proposal that will go live is EIP-7594 or PeerDAS. The Analyst notes that the upgrade will focus on roll-up scalability, further boosting the efficiency of layer-2 platforms like Base and Arbitrum. Once implemented, the network’s layer-2 solutions would process even more transactions, helping drop gas fees.
-
-Pectra will also implement EIP-7251 or MaxEB, a key change for validators. This EIP will make staking easier and more flexible. The maximum effective balance per validator will rise from 32 ETH to 2,048 ETH. This means that validators will be more flexible in their operations.
-Other key EIPs that will go live include those related to the EVM Object Format (EOF), and EIP-2537 will enhance security and scalability by implementing cryptographic improvements. The analyst also identified the integration of EIP-7549, which will make Ethereum more efficient by reducing the consensus overhead.
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
 BlackRock's Bitcoin ETF Holds Over 300K BTC | Bankless
 
 
@@ -10885,3 +10795,136 @@ LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link
 										
 					
 					
+
+
+----------------
+
+Bakkt Reportedly Reviewing Strategic Options Including Potential Sale | Cryptoglobe
+
+
+                                
+Bakkt Holdings Inc., the digital-asset marketplace launched by Intercontinental Exchange Inc. (ICE), is considering a potential sale amid a surge in crypto-related mergers and acquisitions, according to a report by Matthew Monks, David Pan, and Gillian Tan for Bloomberg. The company, based in Alpharetta, Georgia, has apparently engaged a financial advisor to explore various strategic options, including a possible breakup. According to Bloomberg, no final decision has been made, and Bakkt could decide to continue operating independently. Representatives for Bakkt declined to comment on the matter.
+
+
+
+Launched in 2018 with significant expectations, Bakkt was introduced by ICE, the parent company of the New York Stock Exchange, in collaboration with Starbucks Corp. and Microsoft Corp., as noted by Bloomberg. Kelly Loeffler, the founding CEO, later served as a U.S. Senator from Georgia. Earlier this year, Bakkt faced the risk of being delisted from the NYSE after indicating potential challenges in continuing as a going concern, Bloomberg reported.
+
+
+
+Bakkt offers a variety of services, including trading and custody solutions, and is considering these strategic options amid a wave of consolidation in the digital-asset sector, Bloomberg highlighted. With cryptocurrency prices nearing record highs, some companies are looking to expand, while others are still recovering from the industry’s downturn two years ago. For instance, as Bloomberg pointed out, Robinhood Markets Inc. recently announced its acquisition of the European crypto exchange Bitstamp, and Riot Platforms Inc., one of the largest Bitcoin miners, proposed taking over its rival Bitfarms.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+The report also mentioned that having gone public through a merger with a special purpose acquisition company (SPAC) in 2021, Bakkt reported a first-quarter loss of $21 million on revenues of $855 million. Despite these financial setbacks, Bakkt continues to innovate, recently partnering with Crossover Markets to develop a crypto electronic communication network (ECN).
+
+
+
+Bakkt holds a BitLicense from the New York State Department of Financial Services, which allows it to operate legally in New York.
+
+
+
+Featured Image via Pixabay
+
+                            
+                        
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Analyst Names One Undervalued Low-Cap Altcoin With Strong Narrative, Updates Outlook on FLOKI - The Daily Hodl
+
+
+								A closely followed analyst says one altcoin flying under the radar may be trading well below its fair value.
+Pseudonymous analyst Inmortal tells his 214,300 followers on the social media platform X that he’s long-term bullish on Mythos (MYTH).
+
+
+
+
+
+
+
+
+
+
+Mythos is a multi-chain ecosystem that aims to democratize gaming for creators and players.
+According to Inmortal, Mythos is undervalued based on its strong fundamentals.
+“1. [Mythical Games] is the only company ever to get an NFT (non-fungible token) marketplace approved by the App Store
+2. They have partnered with Pudgy Penguins. In case you have been living in a cave for the last few months it is the most respected NFT now.
+3. GameFi is next to AI (artificial intelligence): the most powerful narratives of the cycle. That’s no surprise. Gaming makes $100 billion in revenue annually…
+For me who wants to have a portion of my portfolio in one of the strongest narratives this cycle, MYTH is a good choice, to be honest.” 
+Looking at the chart of MYTH, Inmortal says the altcoin is flashing multiple bullish signals.
+“About the chart. 
+> Consecutive higher lows 
+> Price above 200MA (moving average) 
+> Deviation setup with 200MA.” 
+Source: Inmortal/X
+MYTH, the 273rd largest crypto by market cap, is trading at $0.438 at time of writing.
+Turning to memecoin Floki (FLOKI), Inmortal sees the altcoin breaking out and rallying to a fresh all-time high of $0.0006.
+“Since the beginning of 2024, I have been saying that FLOKI would lead memecoins this cycle, and it is happening. Be ready for acceleration.” 
+Source: Inmortal/X
+At time of writing, FLOKI is worth $0.000281.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+A Bitcoin Miner In EVERY Home? - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
