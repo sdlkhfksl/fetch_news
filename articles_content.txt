@@ -1,368 +1,3 @@
-Solana About to Change: Here's Why
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-In order to improve the fairness and integrity of its network, Solana is taking major action. Recent action by the Solana Foundation to unstake validators discovered to be sharing mempool transactions was somewhat unexpected.This measure is a component of a larger initiative to lower Maximum Extractable Value (MEV) and preserve an ecosystem that can be trusted. SOL/USDT Chart by TradingViewDue to sharing mempool transactions, a number of operators in the Solana Foundation Delegation Program were eliminated. Sharing these may result in MEV-related actions such as sandwich attacks, in which a malicious actor encircles a victim's transaction in order to take advantage of price fluctuations. Enforcement actions are still pending in relation to the Solana Foundation's final decision to remove these validators.What makes this significant?On blockchain networks, MEV is a crucial problem. By rearranging, adding or removing transactions within a block, validators can maximize their profit from blockchain transactions. The Solana Foundation seeks to improve network security and guarantee fair transaction processing by opposing validators who engage in such actions.As a result, Solana becomes a more appealing platform and helps investors and users gain trust. Regarding impact on the market, there is talk that some validators may carry on with MEV procedures in spite of these precautions if they do not have access to specialized tools like Jito.The Solana Foundation and investors, however, provide a sizable portion of the funding for Solana validators. These parties have the power to affect validators' actions, possibly prohibiting them from executing MEV.In the short term, the decision of the foundation may seem too erratic, but at the same time, it is clearly a commitment to making the network safer and more secure. Long-term benefits will make the whole ecosystem more transparent and trustworthy. Of course, some can easily argue that this decision goes against the ethos of decentralization.
-
-
-
-----------------
-
-Polygon (MATIC) Price Drops to Eight-Month Low
-
-
-The price of MATIC, the token that powers the leading Layer 2 (L2) platform Polygon, has declined by 10% in the past seven days. This has caused it to trade close to the lower line of the horizontal channel, which it has trended within since April 13. 
-If the bearish bias toward altcoins surges, the price risks plummeting below this critical support level and finding new lows. 
-MATIC Bears Look to Break Below Support
-MATIC exchanged hands at $0.63 at press time, its lowest price since October 2023. Since April 13, its price has oscillated within a horizontal channel, bouncing between resistance at $0.75 and support at $0.64.
-
-Usually, this channel is formed when an asset’s price consolidates within a range for some time. It is caused when there is a relative balance between buying and selling pressures, which prevents the price from trending strongly in either direction.
-With MATIC’s price trending toward the lower line of this channel in the past week, it suggests a spike in bearish bias toward the altcoin. This was confirmed by its negative weighted sentiment observed on-chain.
-Since the beginning of the month, MATIC’s weighted sentiment has been predominantly negative. At press time, this was -0.64. 
-Polygon Weighted Sentiment. Source: Santiment
-This metric measures the overall positive or negative sentiment toward an asset by tracking the sentiment and volume of mentions. 
-A weighted sentiment value of -0.64 indicates a negative bias in the sentiment surrounding the asset. There are significantly more negative mentions than positive mentions.
-
-This bearish bias was also confirmed by MATIC’s declining futures open interest. At $197 million at press time, it has fallen by 8% since the beginning of June.
-Read More: How To Buy Polygon (MATIC) and Everything You Need To Know
-Polygon Open Interest. Source: Coinglass
-MATIC’s futures open interest tracks the total number of outstanding futures contracts or positions that have not been closed or settled. When it declines, more traders are closing their positions without opening new ones, which is a bearish signal. 
-MATIC Price Prediction: The Bulls Have Support to Defend
-
-Readings from MATIC’s key momentum indicators showed an uptick in its sell-off among market participants. For example, its Relative Strength Index (RSI) was 36.44, while its Money Flow Index (MFI) was 26.11. 
-Traders use these indicators to measure an asset’s price momentum and identify potential buying and selling opportunities. At these values, MATIC is oversold as buying pressure continues to weaken. 
-Polygon Analysis. Source: TradingView
-
-If this trend continues, MATIC will fall below support at $0.64 to exchange hands at $0.61.
-Polygon Analysis. Source: TradingView
-However, suppose the bulls successfully defend this support level, and sentiment towards the altcoin shifts to positive. In that case, it might rally to $0.67 and trend toward the upper line of the horizontal channel. 
-
-
-
-Disclaimer
-In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Bitcoin (BTC), Ether (ETH) Price Drop Following U.S. Jobs Report Is 'Buy the Dip' Opportunity, QCP Capital Says
-
-Friday's non-farm payrolls data showed the U.S. economy added 272,000 jobs in May, way more than the 185,000 estimated and well ahead of April's downwardly revised 165,000. While the jobless rate ticked higher to 4%, average hourly earnings, the sticky inflation component, rose 0.4% month-on-month, above the expectation of a 0.3% rise.
-
-----------------
-
-The Friend.Tech app plans to develop its own blockchain
-
-The socialFi app Friend.Tech is preparing to launch its own blockchain powered by its own token FRIEND, definitively abandoning the Ethereum ecosystem and the layer-2 Base.
-The news of the new cryptographic network, which will be called Friendchain, has raised quite a few controversies within the platform’s community, prompting users to ask the team for explanations.
-Let’s see all the details below.
-
-Friend-Tech and the transition from decentralized app to the Friendchain blockchain
-The developers of the decentralized app Friend.Tech are considering leaving the walls of the Ethereum ecosystem and the blockchain of Base to launch a proprietary cryptographic network.
-The announcement arrived on Saturday, June 8th, directly from the official X profile of the app, where the project team explained that they will collaborate with the infrastructural provider Conduit to build the first-level blockchain “Friendchain”.
-This latter will be powered by the FRIEND token, distributed to its community with an airdrop at the beginning of May, which will serve as a completely transferable gas token.
-It has not yet been clarified when the migration from Base to the new blockchain will take place, but it is thought that the transition will likely occur in the first half of 2025.
-
-The users of the platform SocialFi, centered on the tokenization and trading of X profiles, have not hidden their fears and doubts regarding the launch of a proprietary blockchain of questionable necessity. 
-In this regard, the trader Dr.Kojipup, commenting on the announcement of June 8, asked the Friend.Tech team how Friendchain will bring value to the decentralized app.
-
-Other individuals have focused on the fact that the new blockchain powered by FRIEND will offer higher commission costs compared to those observable today on the Base network, after the parent company Ethereum completed the Dencun update significantly lowering the gas cost on layer-2.
-The only reason that could justify such a choice, which will obviously bring disadvantages on the infrastructural side, is that from the new blockchain several appchains could be launched, whose transactions would be processed in FRIEND.
-In any case, the team of Friend.Tech, even if they will not develop other SocialFI apps, will earn from this move by collecting the fees paid by users on Frienchain.
-We remember that in the past the co-founder of the project, known as “Racer”, had shown his desire to abandon the layer-2 Base with the goal of developing his own self-sustaining ecosystem.
-The impact of this news on the price of the FRIEND token
-While the Friend.Tech community asks for explanations regarding the choice to open up to a new blockchain, the FRIEND token responded immediately very well to the news, seeing its price increase in the market.
-In particular, in the first 4 hours after the announcement, the crypto recorded an increase of 30%, rising from 1,116 dollars to 1,468 dollars, only to drop in the following hours and stabilize around 1,234 dollars.
-The appreciation of the cryptocurrency is due to the fact that with the launch of a new network, FRIEND assumes greater utility having been designated as a gas token.
-This has prompted speculators to purchase the currency, sensing that in the future, to use the Friend.Tech network, it will be necessary to have it available in the wallet.
-According to the data from Coinmarketcap, in the last 7 days the price action of the token remains negative with an overall devaluation of 67%, partly justified by the launch of the airdrop to the community.
-The market capitalization of friend stands at around 10.2 million dollars, with a volume in the last 24 hours of 4.5 million dollars.
-Source: https://www.gate.io/. Trading pair FRIEND-USDT, time frame 1h
-
-From here on, if the launch of Friendchain is confirmed, the price evolution of FRIEND will depend greatly on the success of the new blockchain and the fees it will be able to collect.
-In support of the holders of this coin, we can report that the Friend.Tech app in its second week after the launch has surpassed the threshold of 1 million dollars in fees, outperforming respectable platforms such as Uniswap and chains like that of Bitcoin.
-From October 2023 onwards, the hyper for the SocialFI app gradually decreased, until attention resurfaced in April 2024, just before the inauguration of FRIEND on the markets.
-Source: https://dune.com/msilb7/friendtech-on-base-activity
-
-----------------
-
-Bitcoin, Ether Prices Flat as Traders Look to CPI, FOMC and Yellen Speech This Week
-
-Record leverage build-up on bitcoin futures cost bulls as the market plunged on Friday following the release of non-farm payrolls (NFP) figures. The NFP number came in stronger than expected, with the US economy adding 275,000 jobs compared to the expected 185,000. BTC saw a sharp decline following the release, falling from $71,000 to $69,000.
-
-----------------
-
-Arbitrum: $215 milioni per il gaming crypto
-
-Official: the DAO of Arbitrum has approved the proposal to allocate 225 million ARB tokens for crypto gaming. 
-It is about 215 million dollars to be distributed over three years through the new Gaming Catalyst Program (GCP).
-
-
-Arbitrum and the proposal for crypto gaming
-Arbitrum currently is the largest layer-2 of Ethereum.
-Its chain is in fact the fifth in the world for TVL DeFi, behind only those of Ethereum, Tron, BSC, and Solana which are all layer-1. 
-On its chain, versions of the main DeFi protocols in the world, such as Uniswap, Aave, Pendle Curve, and many others, are running. 
-Furthermore, at this moment its TVL is at an all-time high, as it has surpassed 3.1 billion dollars, just slightly below the 3.2 billion of the historical peak in March. 
-In July 2022, in the midst of a bear-market, it was below 600 million dollars, so since then its TVL has more than quintupled. 
-The token ARB
-The price of the ARB token in the crypto markets, on the other hand, has dropped by 15% in the last seven days, perhaps also due to the news of the allocation of 225 million tokens for the Gaming Catalyst Program. 
-Until Thursday the price was above $1, close to $1.1, but on Friday it suddenly dropped to $0.95, and for now it hasn’t bounced back. 
-This is a price level in line with that of May 20, therefore Friday’s decline did nothing but wipe out all the gains of the last ten days of the previous month. 
-It is worth noting that the peak of 2024 was recorded in January, when it managed to rise above $2.2. Since then, it has been losing 57%.
-It should still be remembered that the January peak recorded the new all-time high of the ARB token price, which has existed on the financial markets for just over a year, and therefore did not go through the great bullrun of 2021. 
-It should be noted, however, that the initial price in March 2023 was $1.3, which is significantly higher than the current one. 
-Crypto news from Arbitrum: The Gaming Catalyst Program
-The Gaming Catalyst Program (GCP) is a proposal now approved by the Arbitrum DAO.
-The objective of this proposal is to catalyze the growth of the gaming ecosystem on Arbitrum.
-Currently Arbitrum is mainly used for low-cost transactions of compatible assets, and for operations in DeFi. 
-With GCP, it would like to land as a protagonist also in the crypto gaming online sector. 
-The idea is indeed to enhance the games on Arbitrum with 225 million ARB tokens over three years, in order to attract the best studios and the best games in the Web3 sector.
-In particular, GCP has been designed to immediately expand the awareness and adoption of Arbitrum/Orbit/Stylus by developers and players. 
-It was precisely the significant growth in the DeFi sector in recent times that pushed the Arbitrum community to consider the possibility of venturing into the crypto gaming sector as well, with the goal of attracting the best developers to create high-quality games that should attract and retain new users.
-According to the creators of this proposal, currently the games/Web3 segment is still relatively small, but it is expected to grow exponentially in this decade.
-The funds
-The funds will be used by the GCP to act as a catalyst, with particular attention to onboarding and supporting high-quality developers. 
-Therefore, the funds will be distributed mainly to those who will develop crypto games on Arbitrum, for example by co-investing in studios and promising games together with publishers approved and aligned with Arbitrum itself.
-Furthermore, publishers and developers will be subject to a series of checks to ensure alignment with the objectives of GCP and with the values of Arbitrum DAO.
-160 million ARB tokens will be invested for the onboarding and growth of developers.
-25 million will be allocated instead to grants for the creation of games.
-135 million will be used for investments. 
-Another 40 million, on the other hand, will be distributed in infrastructural prizes.
-GCP will have its own dedicated team to manage all operations. 
-Note that 225 million ARB tokens are equivalent to almost 8% of the entire current supply of the token, which is approximately 2.9 billion tokens. 
-This is therefore a decidedly important initiative, the approval of which has not coincidentally caused the value of ARB to drop by 15%. 
-
-----------------
-
-All Eyes on the FED in Bitcoin! How Will FED's Interest Rate Decision Affect BTC? Analyst Announces Short-Term Record Target! - Bitcoin Sistemi
-
-
-This week is of great importance for Bitcoin (BTC) and the cryptocurrency market. Because all eyes are on the interest rate decision of the US Federal Reserve (FED) after the announcement of May's CPI and PPI data.
-Although BTC rose above $71,000 last week, it fell sharply after the US Nonfarm Payload data on Friday and fell to $69,000.
-
-
-Many analysts believe that although the Bank of Canada and the European Central Bank have cut interest rates, the likelihood of the US Federal Reserve moving in a similar direction is low.
-According to the CME Group FedWatch Tool, while interest rates are priced to remain constant at 99.4%, investors expect the earliest possible interest rate cut to occur in September.
-
-
-
-
-
-
-What is important here is what kind of speech FED Chairman Jerome Powell will make rather than the FED's interest rate decision.
-
-
-Analysts predict that Bitcoin will rise if Powell gives positive messages about inflation and interest rate cuts.
-Expectation of 89 Thousand Dollars for Bitcoin!
-Prominent cryptocurrency analyst Ali Martinez predicted a significant potential increase in Bitcoin's value, predicting a rise to the $89,200 level.
-
-
-
-
-
-Using the rising Bitcoin Buyer Buying Selling Ratio in this prediction, the analyst pointed out that BTC purchases have increased.
-The analyst predicts that this significant buying pressure in BTC may cause the Bitcoin price to experience a strong upward movement in the near future and reach as high as $89,200.
-
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Beast trade: Crypto expert takes 12,000% profit on this token
-
-
-    Although the cryptocurrency market can often be volatile, it can also be a highly lucrative playing field for investors who know how to carefully time their trades right, as one professional crypto trader demonstrated by taking a profit of over 12,000% on one particular meme coin.
-
-
-
-Specifically, the pseudonymous crypto market expert CoinsKid revealed that he had taken massive profit on one of his top meme coin picks – Bonk (BONK), which “pumped over 12,000% for us from our 2023 entry point,” according to his X post published on June 10.
-
-
-
-Furthermore, the crypto analyst reminded his followers that he had posted twice about the Bonk meme coin in 2023 and announced he was now waiting for another optimal entry point, which he believes could occur “at the green line if we see a breakdown of the rising wedge” chart pattern.
-
-
-
-
-
-
-
-Bonk price action analysis. Source: CoinsKid
-
-
-
-Bonk price analysis
-
-
-
-Indeed, at the moment of CoinsKid’s “beast trade,” the Bonk meme coin was changing hands at the price of $0.0000280174, which means it has advanced by a whopping 12,674.82% since the crypto expert’s entry. However, afterward, it has declined by 1.81%, to the price of $0.00002751.
-
-
-
-Bonk price 7-day chart. Source: CoinMarketCap
-
-
-
-Meanwhile, Bonk’s price represents a loss of 1.56% on the day and a 20.23% drop across the week, which means that the analyst’s new entry position could be just around the corner. On top of that, it is currently sitting above the 100 exponential moving average (EMA), offering a good entry point, as its next target could be $0.00004.
-
-
-
-That said, its price dropping below this important indicator could signal capitulation and further declines, so doing one’s own research and carefully weighing the risks is critical when investing a significant amount of money in any asset, be it crypto, stocks, real estate, commodities, or others.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-Ethereum news today: Is Solana's anti-MEV move 'overstated'? - AMBCrypto
-
-
-
-Solana’s clampdown on MEV validators has attracted divergent opinions. 
-Ethereum also faced criticism for its reported strict stance against memecoins. 
-
-The Solana [SOL] vs. Ethereum [ETH] news, which hit many crypto headlines over the last week, seems far from over. 
-Over the weekend, the debate between the two leading alternative L1 blockchains resurfaced after Solana clamped down on validators using MEV (Maximal Extractable Value). 
-In the fight against MEV, the Solana Foundation reportedly withdrew financial support from validators who engaged in the same. 
-But an Ethereum core dev, Ryan Berckmans, downplayed the move and called Solana ‘not a serious settlement layer.’ 
-‘Now, the next step in their plan to solve MEV was to pull financial support from validators who extract MEV 😆. Solana is not a serious settlement layer.’ 
-For the uninitiated, MEVs are essentially profit strategies maximized by validators by reordering, excluding, or including transactions in the block. 
-Is Solana’s anti-MEV good or bad?
-Whether the anti-MEV update is great or not is up for debate. 
-On his part, Lucas Bruder, CEO of Solana-based MEV infrastructure provider Jito Labs, defended Solana Foundation’s move, stating, 
-‘The Solana Foundation is a staker on the network. Stakers should want to see the network be successful. why would they support something that decreases the likelihood of the network being successful?’
-The executive added that the move was aimed at protecting the largest Solana user base, meme coin traders. 
-‘Most activity on Solana is memecoin trading, so if you screw over the main user base of the blockspace, they’ll leave, and we’ll all be sitting here with less usage wondering why tf we didn’t do anything.’ 
-Interestingly, Solana co-founder Anatoly Yakavenko also supported the anti-MEV move as a great way to “respond to user (meme coin traders) needs.”
-However, Berckmans claimed that the move was Solana Foundation’s protection of meme coin traders to maintain “competitiveness” against ETH and ETH L2s.
-‘I think this story writes itself. The SOL/ETH ratio vastly overstates Solana’s durability as a serious competitor to either the ETH L1 or our best L2s.’
-The referenced SOL/ETH ratio tracks SOL’s price chart performance relative to ETH. The ratio has been rising since October 2023 but registered a slight retracement following May’s surprise ETH ETF application. 
-This means that SOL has been outperforming ETH on the price charts since last year, but that could change.
-Source: SOL/ETH ratio, TradingView
-More Solana vs. Ethereum news
-In a separate development last week, amidst an argument between Iggy Azalea and Vitalik Buterin on celebrity coins, Wintermute CEO Evgeny Gaevoy stated that ETH could fail because of “ETH elites” and not Solana. 
-‘If ETH fails in the future it won’t be because “Solana is faster”, it will be because the ETH “elite” is still stuck in a massive contradiction’ 
-Notably, Gaevoy’s reaction was based on Buterin and Uniswap’s founder stance that memecoins should be for the greater social good and not for purely financial gains. 
-Put differently, Solana has positioned itself as a pro-meme coin trader and launcher, while ETH has taken the opposite approach.
-
-
-
-
-
-
-----------------
-
-Mysterious XRP Withdrawals From Binance into Unknown Continue - Millions of XRP Go Away
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-According to data shared with the crypto community by the prominent blockchain tracking service Whale Alert, Binance has seen yet another massive XRP chunk leave its wallet for a blockchain address that belongs to an anonymous whale.The XRP community started actively discussing this transfer in the comments, speculating as to the goal of this transaction and its destination. In the meantime, XRP has so far failed to recover after the enormous plunge it saw on Friday.30.4 million XRP on move from BinanceOver an hour ago, the aforementioned data source spread the word about an astounding XRP transaction made from a Binance wallet to a blockchain address with an unregistered owner. The anonymous whale made a withdrawal of 30,406,274 XRP in total. This amount of crypto is valued at $15,073,991. The community started a heated discussion in the comments, pondering as to the nature of this transaction – the identity of the whale who initiated it and the destination the XRP chunk was sent to.Overall, XRP users remain bullish on the Ripple-affiliated cryptocurrency, and some even expect it to make a bullish breakout this week. One commentator suggested that the anonymous recipient of this transfer could be a bank.This transaction indeed seems like a purchase that could be made by a financial institution or a private cryptocurrency investor.In should be noted that these large XRP transfers from the world’s largest crypto exchange to unknown wallets have been going on for several months now, as Whale Alert has been reporting on them every week, several times a week. Still, data shared by the Bithomp XRP-focused data platform shows that this massive transaction was sent from Binance to a crypto wallet that also belongs to Binance, removing the mystery and turning this transfer into a funds redistribution made by the crypto trading platform between its wallets.XRP price performanceSince Friday, XRP has lost slightly more than 6% of its price. On Friday, XRP faced a 7% price drop, printing three consecutive red candles on an hourly chart, and one of those candles was a tremendous one. On that day, XRP crashed from the $0.526690 level.Since then, XRP has been attempting to recover, but it has so far been trading sideways, moving in the $0.49617 range.
-
-
-
-----------------
-
-Friend.tech Token Down 22% After Migration Off Base L2 Gets Panned - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsThe at times wildly popular social app Friend.tech got a mixed reaction to news that it's leaving Base to launch its own network, Friendchain, with infrastructure platform Conduit.Launched in August 2023 on the Base Ethereum L2 network developed by Coinbase, Friend.tech quickly gained traction within the crypto community due to its approach to social interaction and monetization​. But it drew skepticism and ire for exactly the same reasons—that its monetization strategy put the project at risk of drawing ire from regulators.The announcement was followed up with a call for users to secure a spot on the Friendchain testnet, which would qualify participants for a $FRIEND airdrop snapshot. But some members of the community seemed weary at the thought of another chain.One pseudonymous Friend.tech user, The Giver, wrote on Twitter that it's too soon for Friend.tech to be trying to migrate its project and userbase onto a new network.Friend.tech should be trying to capture the maximum number of users before trying to launch its own chain, the user wrote."The ultimate long term vision is for backers/investors to continue clipping protocol fees and to exit at a SaaS multiple to a Web2 company on being the Web3 portal for monetized social media," they said.The decision to leave Base isn't a complete surprise. In May, pseudonymous Friend.tech co-founder Racer hinted at it in a post on Twitter."System design bounty: If you can figure out a way to migrate friendtech off of Base without causing major issues for users, and it works well enough that we decide to use it, we will pay you $200K," the co-founder wrote at the time.But since then the post and the Twitter account have both been deleted.Meanwhile, the FRIEND token saw a brief spike to $1.29 on Sunday, but has otherwise seen its price take a beating over the weekend.At the time of writing, FRIEND is trading for $0.78 after having dropped 20% in the past day. It's now 60% lower than it was this time last month, according to CoinGecko data. The current price is just 1.8% higher than the token's all-time low, which it saw on Friday.In late April, hype was building for the project's 100% airdrop. The token began trading on May 3 for $3.00, dropped almost immediately, but surged back two days later to set its all-time high of $3.26.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Ripple CEO Slams Dogecoin 'Not A Good Thing' For Crypto
-
-
-								At the recent 2024 Consensus Conference, Brad Garlinghouse, the CEO of Ripple, delivered pointed remarks on the state of cryptocurrency, particularly focusing on Dogecoin and its role within the broader industry. Garlinghouse’s assessment was both critical and nuanced, emphasizing that his reservations about Dogecoin stem from concerns over its utility and the speculative dynamics it fostered rather than an outright opposition to the coin itself.
-Garlinghouse opened his discussion highlighting the United States’ lag in cryptocurrency regulation, describing it as shockingly inadequate for the world’s largest economy. “The United States represents the bottom decile of regulatory clarity,” he stated, suggesting that this uncertainty hampers the flow of institutional money into cryptocurrencies and clouds the potential growth of the industry.
-
-The Ripple CEO argued that the current environment, characterized by regulatory ambiguity, has inadvertently paved the way for the proliferation of meme-driven cryptocurrencies like Dogecoin. “When you get the real unlock of the United States economy and you get the real institutional money flowing in, it’s just hard to predict some of the upside opportunity,” Garlinghouse explained, indicating that clearer regulations could refocus investment toward more fundamentally sound projects.
-Why Dogecoin Is Not “A Good Thing” For Crypto: Ripple CEO
-Turning his attention specifically to Dogecoin, Garlinghouse expressed doubt about the cryptocurrency’s value addition to the sector. “You know, I get a ton of s*** when I say these things, but I’m going to say it anyway. I don’t think Dogecoin has been a good thing for the industry. And I’m not anti-Dogecoin, but it’s like, I don’t know what the use case is,” he elaborated.
-His critique revolves around the lack of substantive projects or utilities developing around Dogecoin, unlike other blockchain technologies, which are increasingly applied to real-world problems. Dogecoin was the first memecoin, the forerunner of today’s memecoin craze.
-Notably, this is not the first instance of the Ripple CEO critiquing Dogecoin. Earlier in the year, at the World Economic Forum in Davos, he highlighted the lack of a clear use case for Dogecoin, attributing its popularity and market movements largely to endorsements by high-profile individuals like Elon Musk, rather than any technological or economic merit. “Other than Elon Musk as the central actor, I don’t see the use case and purpose,” he said.
-
-Garlinghouse’s remarks come at a time when the crypto market is seeing a divergence in performance between traditional altcoins and meme coins. While Bitcoin has already surged above its previous high from 2021, altcoins such as XRP and Cardano are still down -85% from their peaks. Meanwhile, meme coins, including PEPE, Dogwifhat (WIF), and BONK, have captured substantial trader interest, delivering significant gains.
-This trend underscores a broader market behavior leaning towards speculation over utility. It’s a dynamic that Garlinghouse criticizes, advocating for a shift towards solving genuine problems. “We have to be about more than speculation […] I see lots of real utility across lots of different, you know, chains. And I think that is what is critical. And for me, the 10 -year prediction has to be about [this], it’s not about speculation, it’s about solving real problems,” he stressed.
-At press time, Dogecoin traded at $0.1445.
-Dogecoin price, 1-day chart | Source: DOGEUSD on TradingView.com
-Featured image from Shutterstock, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Toncoin (TON) Price Drops After Logging Year-To-Date High
-
-
-Toncoin (TON), the cryptocurrency linked to the popular messaging app Telegram, soared to its year-to-date high of $7.54 on June 6. However, it has since shed some of its value, trading at $7.03 at press time.
-As the altcoin continues to see its demand fall, its price remains at risk of falling below the $7 price level. 
-Toncoin Demand Falls in the Past Week
-Toncoin’s (TON) 7% price fall since it rallied to its year-to-date high has been due to the decline in buying momentum in the last week. This was confirmed by the drop observed in the count of TON’s daily active addresses and new address count in the past week.
-
-During that period, the number of active addresses that completed at least one TON transaction dropped by 10%. Likewise, the number of new addresses created daily to trade TON fell by 19% during that period. 
-Toncoin Network Activity. Source: IntoTheBlock
-When an asset witnesses a decrease in user demand like this, it heightens the risk of a further price decline. This is because it discourages new users from entering the market and existing users from actively trading the crypto asset.
-Further, TON’s falling Relative Strength Index (RSI), as observed on-chain, confirmed the surge in selling pressure. At press time, this indicator trended downward and returned a value of 58. 
-Read More: What Are Telegram Bot Coins?
-Toncoin Relative Strength Index. Source: Santiment
-
-An asset’s RSI measures the momentum of its recent price movements. It typically ranges from 0 to 100, with values above 70 indicating that the asset is overbought and values below 30 suggesting it is oversold.
-TON Price Prediction: Price Aims For Support
-TON has trended within an ascending channel since May. An ascending channel is a bullish signal formed when an asset’s price makes higher highs and higher lows.
-It is characterized by two upward-sloping trend lines: the upper trend line, which represents resistance, and the lower trend line, which forms support.
-TON has faced resistance at $8.64 and found support at $6.8. At $7.03 and declining as of this writing, TON appears poised to fall to support and below it. 
-Readings from the altcoin’s Moving average convergence/divergence (MACD) indicator hint at this possibility. At press time, TON’s MACD line (blue) is geared to cross below its signal line (orange).
-
-Toncoin Analysis. Source: TradingView
-This indicator identifies an asset’s price momentum changes and potential trend reversals. A downward intersection of the MACD line with the signal line is considered a bearish crossover. It is a signal that often precedes an asset’s price downtrend. Traders interpret it as a sign to exit long and open short positions.
-If this happens and the bears regain full market control, TON’s price might plummet to $6.41 under support.
-
-Read More: 11 Cryptos To Add To Your Portfolio Before Altcoin Season
-Toncoin Analysis. Source: TradingView
-However, if invalidated, the altcoin’s value might climb to $7.01 and trend toward resistance.
-
-
-
-Disclaimer
-In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
 Bitcoin ETFs See Nearly $2 Billion Inflows, Traders Predict Ether (ETH) to Reach $10,000 in 2024
 
 The regulator approved documents for eight ETFs – from VanEck, Fidelity, Franklin, Grayscale, Bitwise, ARK Invest 21Shares, Invesco Galaxy and BlackRock – for listing on the Nasdaq, NYSE Arca, and Cboe BZX exchanges.
@@ -8872,3 +8507,214 @@ Follow our Telegram and Twitter  account now for exclusive news, analytics and o
 
 
 
+
+
+----------------
+
+BNB or Cardano? We asked ChatGPT which asset is a better buy for the second half of 2024
+
+
+    In a year marked by significant volatility in the cryptocurrency market, BNB Chain (BNB) and Cardano (ADA) have emerged as two key players. 
+
+
+
+With BNB hitting all-time highs and Cardano showing renewed vigor through strategic advancements, investors are keen to know which asset promises better returns in the coming months.
+
+
+
+Inlight of these positive outlooks, Finbold turned to ChatGPT-4o to determine which might be the better investment for the second half of 2024.
+
+
+
+
+
+
+
+Key factors driving the positive outlook
+
+
+
+BNB has demonstrated remarkable resilience, recently hitting an all-time high despite market corrections. According to ChatGPT, BNB remains one of the top performers post-2022 bear market.
+
+
+
+Despite a recent 12% correction, the altcoin shows sustained strength with high trading volumes and a strong bullish outlook from analysts. 
+
+
+
+The combination of social media buzz and active trading underpins BNB’s robust market position, suggesting that its upward trajectory may continue.
+
+
+
+BNB continues to attract significant investor interest, with some analysts predicting an 800% price increase from current levels. Its popularity is further supported by high social volume and substantial trading activity on Binance’s platforms, indicating strong market confidence and engagement.
+
+
+
+Cardano, often criticized for its stagnant price action, is now showing renewed vigor. The total number of Cardano transactions has reached 91 million, averaging between 50,000 and 70,000 daily. This increase in activity coincides with the upcoming Cardano Node 9.0 update, which promises significant enhancements to the blockchain. 
+
+
+
+Additionally, a strategic partnership with the government of Entre Ríos Province in Argentina aims to boost blockchain adoption and drive ADA’s recovery.
+
+
+
+ChatGPT-4o:Short-term gains vs. Long-term value
+
+
+
+According to ChatGPT-4, BNB (Binance Coin) is the preferred choice for investors seeking short-term gains. This is due to its recent performance, market stability, and bullish outlook. Its resilience and high growth potential make it an attractive option for those looking to capitalize on immediate market movements.
+
+
+
+For investors focused on long-term value, Cardano emerges as a strong candidate. Cardano’s ongoing development activities, strategic partnerships, and potential for substantial growth position it as a promising investment. Those willing to weather short-term volatility may find significant long-term gains with Cardano.
+
+
+
+ChatGPT-4o perspective on investment. Source: ChatGPT-4o / Finbold
+
+
+
+Current market performance
+
+
+
+At press time, BNB is trading at $609 with a year-to-date (YTD) gain of 95%, while ADA is trading at $0.429 with a YTD loss of 27%. 
+
+
+
+BNB and ADA year-to-date chart. Source: TradingView
+
+
+
+After a major increase, BNB’s price struggled near the $720 resistance. As a result, there was a bearish reaction below the $680 support.
+
+
+
+Analysts see a key bearish trend line forming with resistance at $650 on the hourly chart of the BNB/USD pair. A clear move above the $650 zone could send the price higher. 
+
+
+
+While both BNB and Cardano present distinct investment opportunities, diversifying investments between both assets could be a prudent strategy to mitigate risks and capitalize on the strengths of each coin. 
+
+
+
+By balancing investments between these two assets, investors can take advantage of the unique benefits each cryptocurrency offers, positioning themselves for both immediate gains and sustained growth.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+Bitcoin ETFs Break 19-Day Inflow Streak As Net Outflows Hit $65 Million - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsU.S. spot Bitcoin ETFs saw net outflows of $65 million on June 10, bringing an end to a 19-day streak of inflows.Per data from Farside Investors, the last day to see net outflows across all U.S. spot Bitcoin ETFs was May 10, when investors pulled out $84.7 million from the investment products.Grayscale’s GBTC ETF saw net outflows of almost $40 million on June 10, with its outflows now exceeding $113 million across three consecutive days of outflows.BlackRock’s IBIT ETF also saw a sharp decline, with inflows dropping to a mere $6.3 million on June 10, versus inflows of $168.3 million on June 7, the previous day of trading.Invesco and Galaxy Digital’s BTCO ETF and Valkyrie Digital Assets’ BRRR ETF both saw outflows of $20.5 million and $15.8 million, respectively, on June 10.These outflows stand in stark contrast to the strong inflows witnessed last week, where BlackRock’s IBIT ETF and Fidelity’s FBTC together saw inflows of over $1.6 billion, placing them in the top 10 ETFs across all categories to receive inflows, according to analytics platform etf.com.The outflows came as Bitcoin’s price dipped by over 3% ahead of tomorrow’s FOMC meeting and CPI report.The leading cryptocurrency dropped by 3.6% over the past 24 hours, to lows of $66,791, according to CoinGecko. Bitcoin has since recovered slightly, to its current price of just under $67,000.Bitcoin derivatives traders saw liquidations of over $50 million in the past 24 hours, according to data from Coinglass, with longs accounting for $44.34 million of the total.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Moody’s Drops Bombshell On Crypto Industry Amid High Interest Rate Cuts | Bitcoinist.com
+
+
+								Moody’s Analytics chief economist Mark Zandi has given his opinion on a potential interest rate cut ahead of the US Fed’s decision. The crypto community is closely monitoring this event, given how it could impact the crypto market. 
+The US Fed Should Cut Interest Rates
+Zandi mentioned during an interview with Bloomberg that he believes the Fed should be looking to cut interest rates. He made this remark while stating that the financial conditions are where they need to be with the Fed achieving its goal of bringing inflation down to a considerable level. He also alluded to the employment rate, which shows that the US Fed shouldn’t hold out on interest rates for this long. 
+
+The Fed favors the Personal Consumption Expenditures (PCE) price index as its go-to inflation indicator and has set a target of 2% for the inflation rate. However, Zandi questioned this move as he suggested that 2% isn’t the right number and should probably be higher. He also remarked that there was no point in the US Fed sacrificing the economy to the “alter of the 2% inflation target.”
+The US Fed’s FOMC meeting will be between June 12 and 13, during which it will also decide whether or not to cut interest rates. Data from The CME FedWatch Tool shows a 99.4% probability that the Federal Reserve will keep interest rates unchanged. These interest rates significantly impact the crypto market since lower interest rates will boost investors’ confidence to invest in risk assets like cryptocurrencies. 
+Initial projections were that the Fed would cut interest rates by the middle of the year, which presented a bullish outlook for the crypto market. However, that is now unlikely, with the Federal Reserve still looking unsatisfied with the current economic situation. This has also led financial analysts at JPMorgan and Citi to scrap their initial projections and predict that the interest rate cut will come in September or November. 
+Some Positives To Hold On To For Crypto
+There are still some positives to hold on to even though the US Federal Reserve is unlikely to slash interest rates at the upcoming FOMC meeting or the one in July. For one, the Spot Ethereum ETFs are expected to begin trading later this month or by early July. These funds will likely spark another run for the crypto market just like the Spot Bitcoin ETFs did. 
+
+Additionally, the Spot Bitcoin ETFs are again in the green and are seeing impressive demand for their respective funds. The inflows into the Spot Bitcoin ETFs and Spot Ethereum ETFs could be the catalyst needed for the continuation of the bull run in the crypto market. Meanwhile, the sentiment in the market will undoubtedly become more bullish if the US Federal Reserve eventually cuts interest rates in September or October as predicted. 
+Total market cap drops to $2.3 trillion | Crypto total market cap from Tradingview.com
+Featured image created with Dall.E, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Polygon Creates New Grants Program, 1B POL Unlocked Over 10 Years
+
+Those looking to participate in the program can opt into two tracks. The first is what the team calls a “General Grant Track,” which is for builders looking to build anything on Polygon. The second is the “Consumer Crypto Track,” which focuses on projects that drive crypto adoption, including gaming, decentralized social applications, AI and blockchain integrations, and NFT innovations.
+
+----------------
+
+Lido Introduces 'Restaking Vaults' in Collaboration with Symbiotic, Mellow Finance
+
+"EigenLayer was effectively, on a discretionary basis, limiting the amount of steETH that could go into their middleware—rather arbitrarily, in my view," said adcv. "I expect that this type of restriction will become more and more rare in the future, because from the perspective of a restaking provider, you don't want to put any sort of breaks on your ability to raise capital."
+
+----------------
+
+What's Going On With MicroStrategy Stock? - MicroStrategy (NASDAQ:MSTR) - Benzinga
+
+MicroStrategy Incorporated MSTR shares are trading lower Tuesday amid a drop in the price of Bitcoin BTC/USD. Here's a look at what's going on. The Details:Bitcoin is down by more than 3% over the past 24 hours at $67,171.52, according to data from Benzinga Pro. MicroStrategy is the largest institutional holder of bitcoin with 214,278 bitcoins valued at approximately $5.074 billion. Last week, MicroStrategy's executive chairman Michael Saylor agreed to a $40 million settlement to resolve a tax fraud lawsuit filed in August 2022 which accused Saylor of failing to pay over $25 million in income taxes. A MicroStrategy spokesperson stated, “This was a personal tax matter involving Mr. Saylor. MicroStrategy was not responsible for his day-to-day affairs and did not oversee his individual tax responsibilities.”The company also confirmed Saylor would personally pay the settlement amount in full.According to data from Benzinga Pro, MicroStrategy is trading above the stock’s 50-day moving average of $1,430 and 21.62% of available shares are being sold short. Related News: Yext Stock Falls On Q1 Results, Acquisition Of Hearsay Systems: The DetailsMSTR Stock Prediction 2024: When buying a stock for a longer time horizon, it is important for investors to assess where they think the stock is headed in the future.When mapping a stock's future trajectory, investors should consider factors including the future earnings expectations and expected performance against a benchmark.MicroStrategy's revenue has grown at an average rate of 0.4% annually over the past 5 years. The average 1-year price target from analysts is $1790.25, representing an expected 11.9% upside in 2025.While past performance is not a guarantee of future results, investors should also look at a stock's historical performance when compared to both a benchmark index and the company's peers. Shares of MicroStrategy have seen an annualized return of 45.78%, outperforming the S&P 500 index by 37.71%. This compares to 27.68% growth in the overall Information Technology sector. MicroStrategy has a beta of 0.65.MSTR Price Action: According to Benzinga Pro,MicroStrategy shares are down 3.56% at $1,543.00 at the time of publication Tuesday.Image: Tamim Tarin from Pixabay
+
+----------------
+
+Ripple acquires NYDFS-regulated custodian Standard Custody
+
+According to a June 11 statement, Ripple has completed the acquisition of Standard Custody & Trust Company, a licensed digital asset custodian.The firm initially revealed its intention to acquire the firm in February but finalized the deal earlier today after receiving the appropriate regulatory approval.Secures NYDFS licensingRipple said the acquisition brings a New York Department of Financial Services (NYDFS)-regulated trust company into its portfolio, further bolstering the number of licenses it has received in several countries, such as the US and Singapore.The move is set to enhance Ripple’s product offerings and support the launch of new initiatives, such as its planned stablecoin. It also bolsters the company’s enterprise infrastructure, improving services for institutional clients.This acquisition is the firm’s second largest in the past year, following the acquisition of Metaco, another institutional crypto custody platform, in May last year. Ripple stated:“Both moves underscore the growing breadth and importance of digital assets; from stablecoins and CBDCs to tokenized real-world assets (RWAs) like stocks, bonds, commodities, real estate and more.”The company said it will continue leveraging its strong financial position to pursue further acquisitions and strengthen its leadership in the blockchain space.Appoints Vice-president for stablecoinsJack McDonald will continue as CEO of Standard Custody and also serve as its Senior Vice President of Stablecoins. In this role, McDonald would bring his “wealth of knowledge and expertise to help lead the stablecoin team and bring Ripple’s stablecoin to market,” the company said.Ripple’s plan to launch a USD-backed stablecoin aligns with the growing demand for these kinds of digital assets in the market. It stated:“There is huge demand for stablecoins that deliver trust, stability and utility, and Ripple will leverage its decade-plus of experience building real-world financial solutions for global institutions to address this growing market.”The unnamed stablecoin will be launched on the XRP Ledger and Ethereum. However, it has already attracted major regulatory scrutiny from the US Securities and Exchange Commission (SEC), which described it as an unregistered crypto asset.Mentioned in this articleLatest Alpha Market Report
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+This Could Make Bitcoin Prices to Skyrocket - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Warning - Beware of Crypto Romance Scams!
+
+
+                                FTC Raises Awareness About Crypto Investment Scams in Romance                                Online dating has become the standard in today's fast-moving world, but unfortunately, not everyone you meet on dating apps or social media has pure intentions. The Federal Trade Commission (FTC) is raising awareness about a troubling new pattern – cryptocurrency romance scams.These scams start innocently enough. You match with someone online who seems perfectly normal. They're charming, attentive, and you quickly develop a connection. As you get to know them better over video chats and messaging, they tell a story of being a successful cryptocurrency investor. Seeing your potential new love interest as knowledgeable and financially smart, you become interested when they suggest exploring crypto investing together.FTC Warns of Romance Scams Involving Crypto Investments"It's a classic case of love being blind," explains by fraud investigator with the FTC. "These scammers are masters of manipulation. They invest a tremendous amount of time and effort into building your trust and making you feel like you've finally met 'the one.' By the time they bring up crypto investments, you're already deeply interested and ready to go along with whatever they suggest."The U.S. Federal Trade Commission (FTC) put out a warning for people about dealing with situations where someone they've met online romantically gives investment advice. The alert was written by Colleen Tressler from the Division of Consumer and Business Education, and it talks about how scammers pretend to be romantic partners to trick people into giving them money.Love Interest or Crypto Scammer? Know the SignsThat's when things take a dark turn. Your new love interest will pressure you to invest in the cryptocurrency of their choice, promising unbelievable returns with no risk. They'll insist on walking you through every step, from setting up a digital wallet to transferring funds. Before you know it, you've spent your savings to buy into what you believed was a safe, profitable opportunity recommended by someone you cared about deeply.Except that the ideal companion was a character carefully molded by criminal scammers. And those cryptocurrency investments? Nothing more than a scheme to drain you of every cent you had."Once the money is gone, they disappear into thin air," states with a serious tone. "Victims not only feel extremely sad financially but emotionally betrayed by someone they trusted deeply."Crypto Romance Scams Surge with $185M Lost in 2023The FTC's latest data shows that crypto romance scams or crypto scams have soared in recent years, with reported losses exceeding $185 million in just the first quarter of 2023 alone. Authorities point to a perfect storm of factors, including the rise of online dating, increasing crypto adoption, and people's general lack of understanding about how cryptocurrency works."Let's be honest, cryptocurrency is still a mystery to most people," says one tech analyst. "That knowledge gap creates an open door for scammers to take advantage. They present themselves as crypto experts who can help victims get in on the ground floor of the next big investment opportunity."According to the FTC, these scammers tend to follow a pattern of love-bombing their victims with excessive compliments, communicating consistently, and making impressive promises about their future lives together. They're uncompromising in taking advantage of people's emotional weaknesses for financial gain.So, how can you keep yourself safe from falling for one of these tricky schemes? Experts recommend being cautious whenever an online romantic interest begins talking about crypto investments. Genuine financial advisors don't start relationships on dating sites just to get clients. If something sounds too amazing to be real, it most likely is.Beware – Online Romance and Crypto Don't MixMy advice is simple – love and money don't mix. If you've only known someone a short time online, don't trust them with your life savings, no matter how convincing their story might be. Crypto investments should always be followed through proper, verified channels, not based on the encouragement of a romantic partner you hardly know.By issuing this call to action, the FTC hopes to raise awareness and save more people from the heartbreak and financial damage caused by crypto romance scams. In the end, real love is about trust, respect, and protecting your shared future together – not making someone you've never met rich off your hard-earned money.Also read - Solana's Surgical Strike to Stop Sandwich Attacks
+                            
+                        
+
+----------------
+
+Altcoins Down 70% Against Bitcoin: Here's Why They Just Can't Get Going - Benzinga
+
+Bitcoin‘s BTC/USD recent run-up close to all-time highs has failed to spur an equivalent rally in altcoins—a sign that  the market is far from an altcoin bull run, according to a renowned crypto analyst.What Happened: In a detailed series of tweets, Miles Deutscher highlighted the significant underperformance in altcoins and the apparent contradiction in market sentiment."At first glance, you’d think crypto sentiment would be euphoric right now," he tweeted, pointing out that while Bitcoin is nearing its all-time highs, and meme coins are gaining traction, the reality is different.“Most retail doesn’t hold large amounts of Bitcoin – they’re in alts. And alts have been significantly underperforming thus far this cycle.”Supporting his claim, Deutscher presented data showing that the OTHERS/BTC ratio, which excludes the top 10 coins, is lower than it was eight months ago.Another trader pointed out that since the bankruptcy of FTX, only eight coins have made a new all-time high against Bitcoin. Notably, the list does not feature major altcoins like Solana SOL/USD, Ripple XRP/USD, Cardano ADA/USD, Polkadot DOT/USD or even Ethereum ETH/USDThis underperformance is further evidenced by the fact that crypto YouTube views have significantly lagged behind Bitcoin prices, with views dropping from 4 million per day in 2021 to just 800,000 per day in 2024.Deutscher highlighted that altcoins are still 70% away from their previous highs compared to Bitcoin, pointing out that alts “haven’t had a sustained rally” since Bitcoin’s thrust upwards starting in October 2023.Also Read: Bitcoin Plummets To $67K And ‘This Move Isn’t Over,’ Warns AnalystWhy It Matters: Deutscher attributes the current market dynamics to several factors.
+He describes the cycle as Bitcoin-narrative led, driven by the spot ETF narrative and strong inflows.
+
+
+
+Specific sectors such as memes, AI, and real-world assets (RWA) have outperformed, while major altcoins lag.
+
+
+
+Market dilution is at an all-time high, with nearly 1 million new crypto tokens created in May alone.
+
+
+
+Lastly, token unlocks are adding continuous sell pressure, with around $200 million worth of unlocks per day.
+Addressing the future of the market, Deutscher speculated on a potential turnaround. He noted that in previous cycles, altcoins peaked 546 days post-halving, suggesting a possible peak in October 2025 for this cycle. However, he also acknowledged the possibility of an earlier peak due to various factors such as cycle acceleration and macroeconomic conditions. "During the 1st half of the cycle it's natural for Bitcoin to take the lead. In fact, this is HEALTHY for market structure," he stated, emphasizing that altcoins typically outperform in the latter stages of the run.Crypto trader Cred also chimed in with an analysis of the uneven distribution of returns this cycle. He pointed out that traditional risk curves and market behaviors have been less profitable, with meme coins on blockchains like Solana taking the lead instead.“The rising tide has not lifted all boats and there are very clear winners vs losers,” Cred noted, highlighting the challenges faced by traders with differing strategies and risk appetites.Eugene Ng Ah Sio, another crypto analyst, summarized the cycle’s progression, noting significant price movements in late 2023, followed by a reset in early 2024, and a large deleveraging event in the second quarter of 2024.He emphasized the mental strain on market participants and suggested a possible interim cycle bottom in June, with a better outlook for the second half of the year.What’s Next: As the crypto community navigates these turbulent times, upcoming events such as Benzinga’s Future of Digital Assets on Nov. 19 will be crucial.Industry leaders will gather to discuss market trends, regulatory impacts, and future predictions, offering valuable insights into the evolving landscape of digital assets.Read Next: Crypto Adoption Is Coming ‘Slow And Steady,’ Research Report SaysThis content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.Image: Shutterstock
+
+----------------
+
+MicroStrategy shares surge 134% and outpaces Bitcoin in 2024 - Crypto Briefing
+
+
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+
+----------------
+
+What Do the EU Election Results Mean for Digital Assets?
+
+ECR, in particular, gained 15 seats last evening. 14 of those came from the party of the Italian Prime Minister, Georgia Meloni. She has been a much milder conservative than her election campaign might have suggested, recognizing the degree of cooperation needed with both Brussels and Washington DC in order to consolidate her power. Even so, formally working with the ECR might be a taboo for the mainstream parties. But collaboration on specific policy issues is now possible for the EPP, even if only used as a threat and a negotiation technique in disagreements with the center-left.
