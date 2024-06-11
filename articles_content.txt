@@ -1,374 +1,3 @@
-Ethereum-based Lending Protocol Uwulend Suffers $20 Million Exploit - The Defiant
-
-The attack involved three transactions that converted Wrapped Bitcoin and DAI into ETH.Ethereum-based lending protocol Uwulend has been exploited to the tune of $20 million.Cyvers Alerts detected the malicious behavior early Monday morning. An attacker executed three transactions that converted WBTC and DAI into Ether.The Uwulend team informed their users via X that the platform has been paused while they investigate the situation.The wallet address linked to the Uwulend exploiter holds a whopping 1,282 ETH or $4.7 million.Notably, the UWU token didn’t react violently to the news. UWU dropped 3% to $2.91, which only adds to its overall downtrend. Over the past year, the token has shed 80% of its value and showcases a $26 million market capitalization, as per data from CoinGecko.UWU PriceCyvers Alerts team members told The Defiant that the attacker funded today’s exploit with assets withdrawn from cryptocurrency mixer Tornado Cash two days ago.They also explained that the hack took place due to an issue with a price oracle across five different tokens. “Specifically, the sUSDe asset's value is determined using a median from several sources,” Cyvers Alerts said. During the hack, five of these sources—FRAXUSDe, USDeUSDC, USDeDAI, USDecrvUSD, and GHOUSDe were manipulated.Uwulend touts itself as a decentralized non-custodial liquidity market protocol, and its website shows that the protocol has generated more than $9.3 million in fees. According to DefiLlama, it has $66 million in total value locked (TVL), which represents a near 50% drop from its late April peak of $115 million.The protocol was created by Sifu, the controversial co-founder of the now-defunct crypto exchange QuadrigaX. QuadrigaX is a Canadian company that went under in 2019 after mysteriously losing $190 million in customer funds.Sifu is yet to make any public announcement regarding Uwulend’s exploit.
-
-----------------
-
-Apple Stock Nears All-Time High Price Ahead of Expected AI Push - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsJust a whisker away from an all-time high price, Apple's stock has been soaring for the past seven weeks—a remarkable turnaround from the 13-week bearish correction that saw the tech giant lose nearly 17% of its value.The last time Apple embarked on a similar streak was back in October 2023, when it reached a record-breaking $199.11. With the current price at $195, the tech titan is just a little over 2% away from entering a new price discovery zone.Market indicators are looking robust for the long-term trend, with prices comfortably below the EMA10, and a bullish sentiment evident among traders, as shown by a Relative Strength Index (RSI) of 62 points—meaning that 62% of traders want to buy the stock.However, those playing the short-term game should tread carefully, as some speculators might be tempted to sell the news and the bullish trend. The Average Directional Index (ADX), which measures the strength of a trend, is currently at a lowly 21 points, hinting at a possible rank or an equilibrium phase before a new surge, or perhaps a much-needed bearish correction.Image: TradingviewWhat's behind this sudden price spike? It's all about the buzz surrounding artificial intelligence (AI) and the Worldwide Developers Conference (WWDC) event that begins Monday, which has been aptly dubbed "Apple Intelligence." The hype around AI has been the driving force behind the recent market rally in the tech sector worldwide, with new models and hardware being released faster than ever.Analysts expect the company to place a significant emphasis on its AI strategy at the WWDC event, which could include updates on Siri, AI-enabled features in apps, and potential partnerships with OpenAI. If so, it would be a long-awaited response to the competition.For example, Google announced its new Pixel smartphone lineup with new AI-focused Tensor chips. This upgraded hardware is powerful enough to run its Gemini model locally, as well as power generative AI features. Other brands like Samsung, Xiaomi, Motorola etc are either focusing on bringing AI features with cloud computing or leveraging the power of Qualcomm’s Snapdragon 8 Gen 3 which are all about on-device AI as well.The integration of AI technology into the Apple ecosystem is expected to bring "ample monetization" opportunities according to stock analyst Daniel Ives, which could add a tidy $30 to $40 per share to the company's growth story. Some analysts are even predicting a potential 30-40% upside from the current price, following the AI-related announcements at the event.The AI craze has led to a shift in focus for many tech giants, including Meta, Apple, Nvidia, AMD, Google, and Microsoft, who are all eager to cash in on this burgeoning technology. Nvidia has even overtaken Apple as the world's second most valuable company, thanks to its growth in the AI sector, which has also helped spike the S&P 500 index.The WWDC event will be livestreamed on Apple’s official site and YouTube channel on June 10 at 1pm ET.Edited by Andrew HaywardGenerally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-MiCA could propel euro-backed stablecoins in the Eurozone: Kaiko report - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            Impending Markets in Crypto Assets (MiCA) regulations are poised to transform the stablecoin landscape favorably to euro-backed stablecoins, as reported by Kaiko Research. Binance has announced restrictions on stablecoins that fall short of the new MiCA standards, while Kraken is assessing its stablecoin offerings to ensure compliance with the European Union’s criteria, which may result in the delisting of certain stablecoins for EU customers.Despite Europe’s slower adoption rate compared to the US and APAC regions, euro-backed stablecoins have seen a surge in trading volume since the year’s start. This uptick indicates a growing demand within European markets. Notably, the combined weekly volume of prominent euro stablecoins, including Tether’s EURT, Stasis EURS, and Circle’s EURCV, has surpassed $40 million since March, marking a record duration of sustained high volume.AEUR, introduced by Binance in December, has quickly dominated the euro stablecoin sector, accounting for over half of the total volume. While USD-backed stablecoins remain the market’s giants, with a staggering $270 billion in average weekly volume in 2024, euro-backed stablecoins have carved out a 1.1% transaction share, a significant rise from virtually none in 2020.Image: KaikoTrading pairs of USDT against the euro are now some of the most traded instruments, outpacing even EUR-denominated Bitcoin trading on Binance and Kraken. This trend highlights these platforms’ role as key fiat gateways for European traders.The specific stablecoins to be deemed unauthorized remain undisclosed. However, Kraken’s review of Tether’s USDT, the world’s largest stablecoin, is particularly noteworthy given its past regulatory challenges. Despite its primary trade volume occurring during US market hours, USDT remains a vital asset for European traders.While over-the-counter (OTC) trading will likely maintain USDT-EUR liquidity, the shift towards regulated alternatives such as USDC could become a preferred option for many traders, suggests the report.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
-European Parliament Election Sees Some MEPs Who Were Key in Bloc's Crypto Journey Re-Appointed
-
-"Berger and Kovarik were rapporteurs (so leading EP work) on digital euro and payment services directive respectively. There’s no guarantee they will return to ECON but if they do, chances are they will retain these roles," Mark Foster, the EU policy lead at the Crypto Council for Innovation told CoinDesk in a statement.
-
-----------------
-
-DeFi Technologies shares spike 15% in a day after it adopts Bitcoin treasury strategy | CryptoSlate
-
- Available exclusively viaBitcoin’s corporate takeover: Why non-crypto companies are buying BTC  Andjela Radmilac · 23 hours ago CryptoSlate's latest market report dives deep into the effects corporate Bitcoin purchases have on the market. 
-
-----------------
-
-Paul Krugman Debunks Fears: Why the $34 Trillion U.S. Debt Isn't Doomsday | Cryptoglobe
-
-
-                                
-Paul Krugman highlights the significant national debt of $34 trillion in his latest opinion piece for The New York Times (NYT), emphasizing that while it appears daunting, the historical and international context diminishes its perceived threat. 
-
-
-
-Paul Krugman is a renowned American economist and public intellectual, known for his influential work in international economics and trade theory. Born on 28 February 1953, he earned his Ph.D. from the Massachusetts Institute of Technology (MIT) in 1977. Krugman’s academic contributions, particularly his analysis of economic geography and trade patterns, earned him the Nobel Memorial Prize in Economic Sciences in 2008. 
-
-
-
-Beyond academia, Krugman has been a prolific writer and commentator, authoring numerous books and over 20 years of columns for The New York Times. His writing often tackles contemporary economic issues, advocating for progressive policies and critiquing austerity measures. Krugman’s clear and often provocative commentary has made him a significant voice in public economic discourse. Throughout his career, he has held prestigious academic positions and has been a visiting professor at several universities, including Princeton, where he is a professor emeritus.
-
-
-
-In an NYT article published on June 6, Krugman explains that the $34 trillion figure, although substantial, is less alarming when considered as a percentage of GDP, comparable to levels seen at the end of World War II in the U.S. and much lower than historical debt levels in countries like Japan and Britain.
-
-
-
-Krugman asserts that most historical debt crises involved countries borrowing in foreign currencies, which left them vulnerable to liquidity crises. He cites the Latin American debt crisis in the 1980s and the European debt crisis in 2010-12 as examples. These crises were mitigated by the ability to print money to stabilize the economy, a luxury the U.S. enjoys as it borrows in its own currency.
-
-
-
-
-
-
-
-            
-            
-
-            
-            
-
-            
-            
-
-        
-
-Krugman acknowledges a general unease about projections showing debt as a percentage of GDP rising over the next 30 years but argues that this is manageable. He notes that unlike individuals, governments do not need to pay off their debt entirely. Historical debt, such as that from World War II, was effectively reduced through economic growth and inflation, rather than direct repayment.
-
-
-
-Krugman references research by Bobby Kogan and Jessica Vela from the Center for American Progress, indicating that stabilizing debt as a percentage of GDP would require increasing taxes or cutting spending by 2.1% of GDP. He contends that this is a relatively small adjustment, feasible without significant economic harm, given the U.S. collects a smaller percentage of GDP in taxes compared to other wealthy nations.
-
-
-
-The political landscape, particularly Republican policies, poses the real challenge to addressing debt concerns, according to Krugman. He points out that Republicans often criticize debt while advocating for policies that exacerbate fiscal issues, such as extending the 2017 Trump tax cuts and reducing the IRS budget, hindering efforts to collect taxes from wealthy individuals.
-
-
-
-Krugman concludes that America’s debt issues are more a reflection of political dysfunction than economic unsustainability. He emphasizes that with the right political will, the U.S. could easily address debt concerns, but the current political climate, especially the radicalization within the GOP, hampers meaningful progress. Krugman expresses greater concern for the implications of political dysfunction on democracy than for the national debt itself.
-
-
-
-Featured Image via Pixabay
-
-                            
-                        
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Inside Solana's Battle Against the Crypto 'Sandwich Attack' Menace
-
-
-							
-
-Mert Montaz highlighted that validators exploiting the Sandwich attack bug on Solana are disqualified from the Solana Foundation program.
-
-
-
-The Solana Foundation will not support validators who misuse the platform for personal gain.
-
-
-
-Montaz noted ongoing issues with MEV and network spamming by some RPC providers.
-
-
-
-
-Helius CEO, Mert Montaz, recently addressed concerns on X (formerly Twitter) regarding the Solana Foundation Delegation program, following the disqualification of some validators for malpractice.
-
-
-
-
-
-
-
-Montaz explained how a malicious bug, known as a Sandwich attack, can manipulate transactions, causing investors to lose funds while attackers profit. He emphasized that Solana’s lack of a mempool prevents such attacks natively. However, some validators have modified their software to facilitate these attacks on the platform.
-
-
-
-Montaz clarified that while the Solana Foundation supports validators by delegating SOL tokens, it takes a strong stance against those who misuse the platform.
-
-
-
-
-“Since people are abusing the system to rob retail and then keep the profits all for themselves — Solana Foundation is not interested in retail users being robbed, especially with their own stake,” 
-
-
-
-
-Montaz added that the foundation will withhold token delegations from validators involved in Sandwich attacks. He emphasized that the disqualified validators, representing less than 16% of the total stake, can still operate independently. However, the foundation will not financially incentivize validators who exploit users.
-
-
-
-
-
-
-
-
-
-Montaz highlighted the ongoing challenge of MEV on the Solana blockchain. He also pointed to the increasing issue of malicious RPC providers spamming the network with harmful code. However, he reassured users that Helius RPCs do not contribute to this problem and are actively developing an MEV-protected endpoint.
-
-
-
-
-“There are some RPC providers who spam the hell out of the network, which makes this problem much worse than it should be, and then brag about landing rates. Helius RPCs do not do this, and while we don’t have a full  mev-protect endpoint yet, we do use swqos and have less fwds.”
-
-
-
-
-Montaz concluded that future stake pools will likely adopt similar policies to discourage exploitative behavior and promote a fairer environment for retail investors.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Crypto Markets Tread Water as Traders Await Fed's Interest Rate Decision - The Defiant
-
-Bitcoin stayed below $70,000, while Solana, Ethereum and Polkadot were flat.Crypto markets dipped on Monday morning as investors braced for the Federal Reserve’s upcoming interest rate decision.Bitcoin stayed in a narrow range, just below $70,000. Meanwhile, Ethereum, Solana, and Polkadot were flat, according to CoinGecko data.Today’s top gainers include Flare Networks (FLR) and Uniswap (UNI, which are up 9% and 7%, respectively.UNI PriceThe Federal Reserve will announce its interest rate decision on Wednesday. Investors will also be looking at May’s inflation numbers, with the Consumer Price Index (CPI) and Producer Price Index (PPI) reports due this week.Bitcoin dropped sharply on Friday, with $385 million in liquidations following robust U.S. non-farm payroll numbers.Data from CoinGlass reveals that in the last 24 hours, 39,364 traders were liquidated, with $64.22 million in total liquidations.Meanwhile, CoinShares' research indicates that digital asset investment products saw inflows of $2 billion, bringing the 5-week total to $4.3 billion. Trading volumes in Exchange-Traded Products (ETPs) surged to $12.8 billion for the week, a 55% increase from the previous week.Bitcoin drew the most attention, with $1.97 billion in inflows. Ethereum experienced record inflows of $69 million, its best week since March, “in reaction to the surprise SEC decision to allow spot-based ETFs.”Stock markets opened lower on Monday morning. The S&P 500 index slipped 0.2%, the Dow Jones Industrial Average fell by 0.1%, and the Nasdaq Composite dropped 0.3%.
-
-----------------
-
-BREAKING: Apple Announces New High-end Product at Event - This Altcoin's Price Dumped - Bitcoin Sistemi
-
-
-Apple announced its artificial intelligence service 'Apple Intelligence' at the WWDC24 event.
-Following the announcement, there was a sudden decrease in the price of Render (RNDR), one of the artificial intelligence-themed altcoins. 
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Memecoin on Coinbase’s Base Chain Flips Solana’s BONK After Explosive 426% Rally - The Daily Hodl
-
-
-								The biggest memecoin on the Base blockchain is working its way through the ranks, flipping Dogecoin (DOGE) rival BONK in terms of market cap early on Monday.
-BRETT, a memecoin meant to accompany the frog-themed altcoin Pepe, is up 426% in the last 30 days at time of writing, trading at $0.18.
-
-
-
-
-
-
-
-
-
-
-Pepe was originally inspired by the character in the Boys Club comic series created by Matt Furie. Also in the series was Pepe’s friend, Brett, a blue creature who likes dancing and fashion, and who the BRETT coin on Base is inspired by.
-BRETT has a market cap of $1.796 billion, which was briefly bigger than BONK earlier today but has since dipped slightly below by about $71 million.
-In total, BRETT is up 21,317% since February when it was trading below $0.0009.
-In April, blockchain tracking firm Lookonchain spotted two wallets whitelisted by the coin’s developers that inked 30,830x gains, turning just over a hundred dollars into over $3 million.
-Lookonchain notes that two wallets whitelisted by the deployer for the meme asset spent 0.034 ETH, worth $102, to buy a combined 172.56 million BRETT in February.
-Those wallets subsequently sold 122.74 million BRETT for 890.65 ETH worth $3.14 million on-chain via multiple wallets, printing staggering gains to the tune of 30,830x.
-Whitelisted wallets are approved participants for a specific crypto event like an initial coin offering (ICO), according to Coinbase. The pseudonymous crypto analyst known as Shady says the Brett deployer whitelisted 139 addresses.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
- 
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-First Data Arrived from Bitcoin and Ethereum ETFs Approved in the UK! - Bitcoin Sistemi
-
-ETFs backed by Bitcoin and Ethereum in the UK have seen low trading volumes since their launch on the London Stock Exchange (LSE) on May 28. The launch took place following the approval of the UK Financial Conduct Authority (FCA).
-Unlike their US counterparts, these products can only be traded by professional investors. But 21Shares, one of the issuers of these ETFs, believes that opening up these products to the retail market could be a “game changer”.
-
-
-21Shares offers eight cross-listed products in the UK, four powered by Bitcoin and four powered by Ethereum. WisdomTree manages four ETFs, two each for Bitcoin (BTC) and Ethereum (ETH), while Invesco offers two Bitcoin-backed products. To list on the LSE, crypto ETFs must be physically backed, unleveraged and offer exposure only to Bitcoin or Ethereum.
-
-Since their launch, the total volume of all these products was just $504,880 as of June 6. WisdomTree accounts for 59% of transaction volume, while 21Shares accounts for 41%. In contrast, Invesco's products have seen zero transaction volume so far. By comparison, spot Bitcoin ETFs in the US saw $2.5 billion worth of trading volume in a single day on Friday.
-
-
-
-
-
-Among 21Shares' products, Ethereum offerings were more successful, accounting for 76% of transaction volumes. Within this, 21Shares' Ethereum Staking ETFs saw approximately 57% more trading volume than the Core Ethereum product without staking returns.
-21Shares noted that professional investors typically trade over-the-counter (OTC), buying and selling financial instruments outside of official exchanges such as the LSE, directly with another party or through the most liquid exchange available.
-
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
-Bitcoin Risk Of Sell-Off Drops Sharply As Short-Term Holder Profit Remains Low | Bitcoinist.com
-
-
-								Over the weekend, Bitcoin suffered from mounting sell pressure that pushed the price below $70,000 once again. However, with the short-term hold profitability remaining low at this time, the risk of the pioneer cryptocurrency suffering further sell-offs has dropped significantly.
-Bitcoin Short-Term Holder Profitability At 3.35%
-Crypto analyst Ali Martinez has soothed Bitcoin investors’ nerves with new data that shows a reduced risk of sell-off. The chart which was posted in the early hours of Monday shows that Bitcoin short-term holder profitability has remained low going into the new week.
-
-According to Martinez, the low profitability, which is currently sitting at just 3.35%, means that there is a minimal risk of sell-off at this time. This is because short-term investors are likely to wait for higher profit margins before they start selling off their holdings for profit.
-The chart shows that in the last few weeks, the Bitcoin short-term holder profitability has fluctuated wildly, as the Bitcoin price has struggled to find its footing. However, looking at the profitability over a longer period of time, and it seems that short-term holders have done quite well for themselves.
-
-
-Compared to where the short-term holder profitability was at the start of the month of June, these investors are seeing positive upside as of recently. However, compared to previous sell trends, the profitability will have to increase for these short-term investors to begin selling once again.
-Can BTC Surge From Here?
-In a previous analysis of the Bitcoin price, crypto analyst Ali Martinez has mapped out where he expects the BTC price to go from here. The analysis showed the cryptocurrency’s movements over the last year with various corrections and peaks.
-Going by this data, the crypto analyst believes that the next local top for the Bitcoin price could lie around the $89,200 level. From the current price of around $69,400, this would be a 28% increase in price, and a new all-time high for the digital asset.
-
-Additionally, another post by the analyst shows that the Taker Buy Sell Ratio on the HTX Global Exchange rose as high as 730. What this means is that there is a lot of bullish sentiment toward the cryptocurrency and the analyst believes that this could drive the next rally.
-For now, the Bitcoin price continues to struggle amid mounting pressure from bears. After reaching $71,000 last week, the price has since retraced most of its gains. Currently trading at $69,429 at the time of writing, it has seen a 0.45% increase in the last week. However, it remains the largest cryptocurrency with a market cap of $1.368 trillion.
-BTC price fails to reclaim $70,000 | Source: BTCUSD on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Trustnodes - Bringing You Tomorrow Today
-
-
-
-    
-
-      
-
-        
-        
-  
-
-
-----------------
-
 Solana Meme Coin Michi Pumps After Ariana Grande Shares the Cat's Photo - Decrypt
 
 Solana meme coin Michi jumped 18% early Monday, according to data from CoinGecko, after pop artist Ariana Grande shared the meme that inspired the coin on her Instagram story. The Michi meme was edited to hold a pink “love potion,” alongside posters of a man adored with kiss prints on the wall. This is the work of a Grande fan account in reference to a music video the singer released for her single “The Boy Is Mine.”“I think the boy is hers, [I don’t know],” the post reads, followed by the image of the meme. “Hey it’s me,” a Michi Solana Instagram account commented. In the eight hours that followed Grande’s repost, Michi only moved up 3% to $0.22. But once pseudonymous crypto influencer Ansem—who previously helped propel hyped coins like Dogwifhat (WIF)—highlighted Grande’s repost on his Twitter, the chart spiked 18% to $0.26 in just an hour.This move comes after a number of celebrities have publicly announced their venture into crypto. Most notably, media personality Caitlyn Jenner launched two meme coins and musician Iggy Azalea debuted her own, while former kickboxer Andrew Tate set out on a meme coin spending spree late last week.It’s unlikely that this was part of a hack of the artist’s account, as she’s continued with her normal social media activity, including a happy birthday message to her mom.The move sparked debate on Crypto Twitter on whether or not the post happened organically. But many believe that this was simply an organic reposting of the meme. After all, Michi was a meme before it was a meme coin, and it's likely that most people sharing the image are unaware of its crypto connection.In turn, there’s a good chance that Grande has no idea that the meme coin exists, and that she instead just wanted to repost a fan-made meme promoting her freshly released music video.“The memes most of these coins are based on are already viral. If a celeb posts about said meme, it’s because it’s already viral. They’re not promoting the underlying meme coin,” a Twitter user explained. “It’s a great endorsement for the meme itself.”Decrypt reached out to Ariana Grande's team for clarification, but did not immediately receive a response.Edited by Andrew HaywardDisclaimerThe views and opinions expressed by the author are for informational purposes only and do not constitute financial, investment, or other advice.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
@@ -8671,6 +8300,485 @@ In related news, Coin Edition has reported that Blockchain Australia, a major in
 
 
 This rebranding reflects the evolving nature of the blockchain and digital asset industries and better aligns with their broader goals.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Bitcoin potential upside muted by hedge funds shorting futures, Glassnode reports - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            Despite the impressive flows registered by spot Bitcoin exchange-traded funds (ETFs) in the US have seen impressive inflows, the expected positive impact on the market prices is being hindered by a strategy called “cash-and-carry.” According to on-chain analysis firm Glassnode, investors are longing Bitcoin through US Spot ETFs and shorting the asset via futures traded in the CME.The CME Group futures market’s open interest has stabilized above $8 billion, indicating that traditional market traders are increasingly adopting the cash-and-carry strategy. This involves buying a long spot position and simultaneously shorting a futures contract. Hedge funds, in particular, are amassing large net short positions in Bitcoin, totaling over $6.3 billion in CME Bitcoin and $97 million in Micro CME Bitcoin markets. This supports the notion that ETFs are being used primarily for longing spot exposure in these arbitrage trades.Image: GlassnodeThe cash-and-carry trade between long US Spot ETF products and shorting futures has effectively neutralized the buy-side inflows into ETFs, leading to a neutral impact on market prices and indicating a need for organic buy-side demand to stimulate positive price movement.Notably, the amount of BTC funneled into large institutions grows daily with the ETF trading. Mt. Gox Trustee holds 141,00 BTC, the US Government 207,000 BTC, all exchanges combined have 2.3 million BTC, and miners, excluding Patoshi, possess 706,000 BTC. The total balance of these entities is approximately 4.23M BTC, representing 27% of the adjusted circulating supply.Image: GlassnodeCoinbase, through its exchange and custody services, holds a significant portion of the aggregate exchange and US Spot ETF balances, with 270,000 BTC and 569,000 BTC respectively. The exchange’s role in market pricing has grown, especially with an increase in whale deposits to Coinbase wallets post-ETF launch. However, a notable part of these deposits correlates with outflows from the GBTC address cluster, which has been exerting selling pressure.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+Tether Unveils $1 Billion Warchest For Deals And Investments In Key Markets | Bitcoinist.com
+
+
+								Stablecoin issuer Tether and its investment arm, Tether Investments, have revealed their intention to allocate more than $1 billion to various investment opportunities over the next 12 months. 
+According to a Bloomberg report, Paolo Ardoino, Chief Executive Officer behind the USDT stablecoin, shared insights into the company’s next investment strategies and areas of focus in a recent interview.
+Tether’s Expansion Plans
+According to the report, the firm is particularly interested in alternative financial infrastructure for emerging markets, artificial intelligence (AI), and biotechnology, with approximately $2 billion invested in these sectors.
+
+Tether has invested most of its reserves, which back USDT, in US Treasury bills and other securities. This strategy has resulted in significant profits amid the prevailing high-interest-rate environment.
+While Tether remains committed to retaining 100% of its reserves and setting aside an additional 6% cushion from profits to ensure redemptions of USDT, the company plans to allocate a portion of its remaining profits to investment opportunities. 
+During the interview, Ardoino emphasized the company’s focus on expanding its distribution network and investing in infrastructure within emerging markets. The company has already allocated over $1 billion to AI initiatives, including support for Northern Data Group, a data center operator.
+Ardoino stated that Tether’s investments aim to leverage technology that facilitates disintermediation in traditional finance, reducing dependence on major tech companies like Google, Amazon, and Microsoft. 
+Additionally, the company’s CEO highlighted that Tether’s profitability has attracted many potential investment opportunities globally, with the company receiving “dozens or even hundreds” of proposals each month. However, Tether selectively chooses only a small percentage of these opportunities.
+Venturing Into Biotech Amid Industry Retreat
+Tether’s recent efforts to diversify beyond stablecoins, which have faced regulatory challenges worldwide, have positioned the company as a significant deal-maker. As Bitcoinist reported in April, Tether reorganized into four divisions focusing on finance, data, Bitcoin mining and energy, and education. 
+Moreover, the stablecoin issuer also plans to launch a platform later this year, enabling companies to issue bonds and equity in digital-token form while also providing central banks the capability to offer central-bank digital currencies (CBDCs).
+
+Ardoino explained that Tether’s approach to investing differs from traditional venture capitalists in that it doesn’t just look for companies expected to reach profitability targets within the next year or two. Instead, Tether invests in projects that it finds “exceptionally compelling,” and that align with its strategic vision.
+In addition to its interest in AI and emerging markets, the firm reportedly makes forays into the biotech sector. In particular, it has backed Blackrock Neurotech, a company specializing in brain-computer interface technology. Ardoino expressed Tether’s willingness to invest in biotech when other players have scaled back their involvement in the space.
+The 1-D chart shows the total crypto market cap’s valuation at $2.3 trillion. Source: TOTAL on TradingView.com
+Featured image from Shutterstock, chart from TradingView.com 
+								
+								
+																	
+															
+						
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Donald Trump's Altcoin Assets Also Melted With The Decline - Here is Trump's Loss - Bitcoin Sistemi
+
+
+With the major decline in the cryptocurrency market today, a major decline was seen in the memecoin assets of Donald Trump, the former US President and the Republican candidate in the next election.
+Data shows that Donald Trump lost $12 million from the memecoins he owned today.
+
+
+Memecoins in Trump's wallet have largely melted since last week. With the declines over the past week, the total value of the former president's memecoins has decreased from $ 33.15 million to $ 11 million currently.
+
+TROG, the largest asset in the cryptocurrency wallet, lost 90% of its value in the process. While Trump has $24.7 million of the altcoin in his wallet, he currently has only $2.72 million in TROG assets, including losses in value.
+
+
+
+
+
+However, it should not be forgotten that none of the memecoins in question were purchased by Trump himself. These assets consist of tokens sent to Trump by various cryptocurrency developers to draw attention to their projects.
+Recently, there has been an increase in popularity in political-themed altcoins, especially with the approach of the US elections.
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Top 3 BTC Layer 2 Coins! #shorts - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Crypto Analyst Predicts XRP Price Breakout Of Critical Zone, Sets Target As High As $7.5 | Bitcoinist.com
+
+
+								A crypto analyst has boldly predicted a significant price breakout for the XRP price, setting a target as high as $7.5 despite the cryptocurrency trading below $1 presently. While this projection may seem ambitious, if realized, it would mark new all-time highs for XRP, decisively ending the cryptocurrency’s years-long downward trend.
+XRP’s Roadmap To $7.5 Price Target
+On June 10, a crypto analyst identified as ‘Egrag Crypto’ took to X (formerly Twitter) to share his bullish projections about the XRP price. According to the analyst, XRP is poised to reach a critical target level of $7.5 before the start of 2025. 
+He expressed a strong belief that the XRP price will potentially break the “White Triangle” pattern and hit a measured move at $1.5, effectively kickstarting a short but robust upward momentum. Sharing a price chart of XRP’s movements from 2020 to 2026, Egrag Crypto illustrated a unique triangle pattern which emphasized a critical Fibonacci 1.618 zone, ranging from $6.5 to $7.5. 
+Source: X
+The analyst revealed that this Fibonacci 1.618 zone was a key resistance area, emphasizing the significance of this range as a prime opportunity for profit-taking by investors. Given XRP’s current price, a rise to new all-time highs may seem far-fetched to most XRP investors who have consistently experienced the cryptocurrency’s long-term price stagnation. 
+Egrag Crypto’s bullish projection for XRP serves as a beacon of hope to XRP supporters who anticipate potential price increases for the cryptocurrency. The crypto analyst has urged the XRP army to remain steady and patient, emphasizing that XRP’s breakout might follow the pump of other major cryptocurrencies in the market. 
+“Trust me, all we need is for other coins to pump before XRP. The rotational profits will pour 100% into XRP because it is the BLACKHORSE which all my bets are on,” the analyst stated.
+Looking further ahead, Egrag crypto has also projected a rise to mid-double digits for XRP. He disclosed that if XRP manages to close every week above the Fibonacci 1.618 level, the cryptocurrency could see a new price target at the Fibonacci 2.414 and 2.618 levels. These levels indicate a potential bullish surge between $25 to $45.  
+Update On XRP Price Performance
+Despite Egrag Crypto’s bullish outlook for the XRP price during this cycle, the price of the cryptocurrency has continued to spiral downwards. XRP is showing a disappointing price performance, recording a 2.15% decline in the last 24 hours. 
+The cryptocurrency has been consolidating around the $0.5 price mark for years. At one point this year, it even rose as high as $0.6, witnessing gains as the volatility in the crypto market’s volatility calmed slightly.
+
+As of writing, the price of XRP is trading below $0.5, experiencing a steady decrease in its value from the previous month. The cryptocurrency’s price is currently $0.48, marking a substantial 6.61% decline over the past seven days, according to CoinMarketCap.
+Despite the bearish performance, XRP’s trading volume is surging. The cryptocurrency has seen a remarkable 80.02% increase in its 24-hour trading volume, underscoring the sustained interest and demand for XRP amongst crypto traders and investors. 
+XRP price below $0.5 | Source: XRPUSDT on Tradingview.com
+Featured image created with Dall.E, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Toncoin (TON) Flips Ethereum In Daily Active Users, Fueling $10 Price Target Predictions
+
+
+																Toncoin (TON), the native token of The Open Network, experienced a 12% price drop from its recent all-time high of $7.76 over the past week, following the overall market correction led by Bitcoin (BTC). 
+However, despite the temporary setback, the optimistic sentiment surrounding TON and its network has led crypto analysts to speculate on a potential continuation of the halted uptrend, with some even predicting a surge beyond the current record levels toward double-digit territory.
+Setting The Stage For $10 Price Target
+Crypto analysis firm Delphi Digital made an intriguing observation, noting that TON’s daily active addresses have surpassed those of Ethereum (ETH) for the first time. 
+
+	Related Reading
+
+
+This surge in activity is attributed to the substantial 900 million user base of Telegram, the social media platform behind TON. Delphi Digital recognizes that TON’s success hinges on leveraging Telegram’s distribution capabilities. 
+Ethereum (green) and TON’s (blue) daily active addresses. Source: Delphi Digital
+In a recent social media post, renowned crypto and decentralized finance (DeFi) analyst known as “Crypto King” recommended newcomers to explore TON, highlighting its super-fast and user-friendly blockchain infrastructure. 
+The analyst also emphasized the credibility of TON’s development team, which is the same team behind Telegram. Crypto King believes TON could experience a significant price spike, potentially reaching as high as $10 in the coming weeks.
+Market expert Alex Clay shares a similar viewpoint, noting that despite the market downturn, TON maintains its bullish structure and is poised for double-digit gains. 
+According to Clay, TON is on track to reach $10, with the potential for short-term targets of $10.5 and $11.6. Clay also mentions the presence of a Daily Cup & Handle pattern, further bolstering the positive outlook for TON.
+Toncoin Price Dips Despite Favorable Market Metrics
+Token Terminal data reveals notable figures for TON’s blockchain by examining key metrics that indicate bullishness over the long term. The fully diluted market cap has seen a 3.6% increase over the past 30 days. However, trading volume for the token has decreased by 11.6% over the same period. 
+TON’s market cap and monthly active user performance in the 180-day time frame. Source: Token Terminal
+On the other hand, the number of token holders has witnessed a significant surge of 76.3%. In terms of revenue and fees, there have been positive increases of 26.0% and 26.0% respectively over the past 30 days. 
+Interestingly, the active user base on TON’s network has skyrocketed by an impressive 245.1%, with approximately 5.42 million monthly active users.
+
+	Related Reading
+
+
+The 1-D chart shows TON’s price correction made over the past week. Source: TONUSD on TradingView.com
+Despite the positive growth seen in various metrics over the past 30 days, Toncoin has experienced a 3% decrease in price during the same timeframe, resulting in a current trading price of $6.82. 
+In the short term, bullish investors will need to closely monitor the nearest support level at $6.80, effectively preventing the token from further declining to lower levels. Conversely, the nearest resistance level is $7.53, representing the last obstacle before a potential retest of Toncoin’s all-time high.
+Featured image from DALL-E, chart from TradingView.com 
+																								
+															
+
+
+						
+
+----------------
+
+All about the memecoin supercycle and Solana's role - AMBCrypto
+
+
+
+Memecoins are gateways for traders to experience the rest of crypto, says an executive
+Most of the memes were discounted amidst the overall market drawdown ahead of the Fed decision. 
+
+Memecoins have rallied harder than most crypto categories during the 2024 market cycle. In fact, memes were the best-performing category in Q1. However, the memecoins have equally attracted the market participants’ love and hate. 
+The recent fray of select celebrities into memecoins saw  Ethereum [ETH] founder Vitalik Buterin register his ‘unhappiness’ with the trend. 
+On his part, Meow, the pseudonymous CEO of Solana-based DEX Jupiter Exchange, called meme tokens ‘user-generated money.’
+Giving an illustration and comparison to Web 2’s user-generated content, the executive deemed memecoins as the Web 3 equivalent of Web 2’s content. But most importantly, the executed noted, 
+‘Memecoins are likely to be the gateway to understanding the rest of the crypto stack – infra, defi, RWAs’
+Solana – Home of memecoins
+The current memecoin supercycle has perhaps benefited Solana more than any blockchain so far, as users jumped on the chain to trade memes. 
+For example, Solana has outperformed Ethereum on the DEX (Decentralized Exchange) volumes front for the past five trading days. Interestingly, the DEX volumes are majorly dominated by meme trading pairs, Dexscreener data revealed. 
+This validates Meow’s statement that memecoins could be a gateway to DeFi and the rest of the crypto stack. 
+That said, the executive acknowledged Solana’s instrumental part in onboarding and hopefully turning memecoin mania into other crypto stacks. 
+‘You cannot actually talk about the current memecoin trend without giving flowers to Solana – the combination of speed, txn cost, crucial mass of devs, highly usable apps in one single state machine created the underlying infra to make this happen.’ 
+Memecoins bleeds as BTC dips
+However, another crypto analyst, Alex Kruger, claimed that new memecoins wouldn’t be successful unless they have different mechanics like Notcoin – the tap-to-earn game designed to onboard users into Web 3. 
+In the meantime, the overall meme segment was down by over 5% in the past 24 hours as Bitcoin [BTC] dipped to $67K ahead of the Fed decision. 
+Most of the legacy memes like Dogecoin [DOGE] were down double-digits on the weekly charts. 
+Additionally, Pepe [PEPE], Shiba Inu [SHIB], dogwifhat [WIF] were all in the red as they flashed discounted prices. 
+
+
+
+
+
+
+----------------
+
+Mistral Is Now Worth $6 Billion, Drawing Fresh Cash Amid Open-Source AI Boom - Decrypt
+
+AI startup Mistral has closed a substantial €600 million (about $644 million) funding round, the Paris-based firm announced on Tuesday. The fundraise was reportedly based on a company valuation of $6 billion—a nearly threefold increase from its $2 billion valuation in less than six months.“Mistral AI has grown about 3x in valuation since December and about 25x in the last 12 months,” Mistral AI researcher Devendra Chaplot wrote on LinkedIn—adding that the company is hiring.The Series B fundraising round was led by General Catalyst, with participation from notable investors like Lightspeed Venture Partners, Andreessen Horowitz, Nvidia, Samsung Venture Investment Corporation, Salesforce Ventures, Cisco, and IBM.“We are grateful to our new and existing investors for their continued confidence and support for our global expansion,” Arthur Mensch, CEO and cofounder of Mistral AI tweeted. “This will accelerate our roadmap as we continue to bring frontier AI into everyone’s hands.”The cash infusion could make Mistral the world’s most valuable open-source AI company and the fourth largest AI company in general, behind only OpenAI, Anthropic and Databricks. The company was founded in April 2023 by a team that included former employees of Meta and Google's DeepMind AI project.In announcing the fundraise, Mensch emphasized the capital-intensive nature of the industry, citing the need for increased computing power and talent acquisition to "break the barriers of artificial intelligence." The capital will accelerate the company's roadmap, enhancing computing capacity, recruitment efforts, and global expansion plans—particularly in the United States, he said.Mistral AI has been focused on commercializing its proprietary models through API-based products tailored for corporate clients with specific business needs, largely aimed at privacy or personalization. Simultaneously, the company has developed and released open-source models like Mistral 7B, Mixtral 8x7B, and Mixtral 8x22B under the Apache 2.0 license, making them accessible to developers and researchers.This open-source focus is a key factor in Mistral AI's success. By comparison, Stability AI—which develops Stable Diffusion, the world’s leading open-source image generator with virtually no competition in the space—is valued at over $1 billion.Both firms are still dwarfed by top AI firm OpenAI, which also tripled its valuation with a February deal that put its worth at a whopping $80 billion.At a technical level, the highly efficient models from Mistral can outperform larger offerings on various benchmarks, making open-source models competitive with top commercial AI models like GPT-3.5 Turbo from OpenAI, Claude 2 from Anthropic, or Gemini Pro from Google on the LMSys Chatbot Arena Leaderboard.Although Mistral AI offers a free chatbot, revenue streams include enterprise plans, licensing proprietary models on a pay-per-token basis, and a forthcoming API that supports model fine-tuning for customers through usage fees or subscriptions. The company also plans to commercialize its models through a multi-year partnership with Microsoft's Azure platform, which includes a $16.3 million investment and equity participation.The AI boom has revitalized the open-source industry, with significant contributions from major tech companies. Meta leads the charge with 1909 open source models released to date. Google has over 800 contributions, Microsoft has shared 300 models, and Apple 47 contributions.Beyond the open-source community, significant investments are being made in AI developments across various fields. Several AI startups, including Inflection.ai, Modal.com, Character.ai, and Perplexity.ai have recently secured substantial funding rounds to advance generative AI applications.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
+
+----------------
+
+Bitcoin Whales Open Massive Long Positions at $69,000 per BTC on Bybit and HTX | Cryptoglobe
+
+
+                                
+Major Bitcoin investors, colloquially known as whales, have recently opened massive long positions on the flagship cryptocurrency via popular cryptocurrency exchanges Bybit and HTX at around $69,000.
+
+
+
+That’s according to Ki Young Ju, CEO of cryptocurrency analytics firm CryptoQuant, who pointed out that these massive long positions are interesting in light of similar activity seen back in August 2023, when Bitcoin whales opened large long positions on BTC ahead of a parabolic price rise that saw the cryptocurrency move from around $25,000 to a new all-time high above $73,500.
+
+
+
+
+
+
+
+According to Young Ju, the price of the flagship cryptocurrency isn’t currently overvalued “based on network fundamentals,” which he backed up with the Thermo Cap ratio, with Thermo Cap being described as the “cumulative value of all Bitcoin mined so far, representing the total investment cost in the network.”
+
+
+
+Per his words, a higher Thermo Cap ratio indicates stronger network fundamentals, with that ratio being found by dividing market capitalization by the Thermo Cap.
+
+
+
+
+
+
+
+As CryptoGlobe reported, the price of Bitcoin could benefit from the growth of money supply in the United States as global liquidity has recently surged to near the $100 trillion mark, at a time in which BTC itself is trading at $71,000.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+According to a chart shared on the microblogging platform X (formerly known as Twitter) by the founder of on-chain data service LookIntoBitcoin, Philip Swift, global supply – known as M2 – is nearing a historic high around $100 trillion.
+
+
+
+This unprecedented level of liquidity is historically correlated with Bitcoin price movements, according to Swift. His platform tracks global M2 data and compares it to Bitcoin price behavior, and shows that the current M2 of $94 trillion dwarfs the figure observed in late 2021, when Bitcoin hit its previous all-time high of $69,000, with a $3 trillion increase.
+
+
+
+Furthermore, M2 has rebounded a full 10% since dipping to $85 trillion in late 2022, coinciding with the depths of the crypto bear market.  These findings resonate with other recent liquidity-based analyses, which also project a bullish outlook for Bitcoin.
+
+
+
+The relationship between Bitcoin and the U.S. M1 money supply is also noteworthy. This metric is currently breaking out of a seven-year consolidation period – the longest in Bitcoin’s history – suggesting significant room for growth.
+
+
+
+Featured image via Unsplash.
+
+                            
+                        
+
+----------------
+
+Ripple Expands Crypto Footprint with Two Strategic Acquisitions
+
+
+							
+
+Ripple’s acquisitions of Metaco and Standard Custody bolster its cryptocurrency market position.
+
+
+
+Jack McDonald’s dual role enhances Ripple’s stablecoin initiatives, ensuring seamless integration.
+
+
+
+Ripple’s proactive growth strategy underscores its commitment to innovation and excellence.
+
+
+
+
+Ripple CEO Brad Garlinghouse announced the completion of two significant acquisitions, marking a major step forward in the company’s expansion strategy. Ripple has acquired Metaco and Standard Custody to further solidify its position in the cryptocurrency sector.
+
+
+
+
+
+
+
+Jack McDonald also added to his Twitter post highlighting that he has joined the Ripple team assuming the role of Senior Vice President of Stablecoins. McDonald’s appointment underscores Ripple’s dedication to fostering talent and expertise within its ranks.
+
+
+
+Ripple made public earlier this year that it intended to purchase Standard Custody, and that acquisition has finally happened. This purchase demonstrates Ripple’s dedication to growing its product line and improving its skills in the cryptocurrency industry.
+
+
+
+
+
+
+
+McDonald’s dual role as CEO of Standard Custody and Senior Vice President of Stablecoins positions him strategically within Ripple, ensuring seamless integration and alignment of objectives across both entities. His leadership will play a pivotal role in steering Ripple’s stablecoin initiatives towards fruition.
+
+
+
+The closing of these deals demonstrates Ripple’s proactive strategy for expansion and innovation. With the addition of new products to its portfolio and the acquisition of top talent like McDonald, Ripple is well-positioned to make significant strides in developing and implementing blockchain-based solutions.
+
+
+
+Garlinghouse expressed optimism about the future and highlighted Ripple’s commitment to bringing about significant change in the crypto asset market. Now that Metaco and Standard Custody are part of its organization, Ripple is in a good position to carry out its goal of making cross-border transactions easy, safe, and effective.
+
+
+
+
+
+
+
+
+
+McDonald’s joining the team strengthens Ripple’s standing as a major participant in the bitcoin market. His knowledge and visionary leadership will surely help make Ripple’s stablecoin projects a success and open the door for more expansion and innovation in the XRPL ecosystem.
+
+
+
+Jack McDonald’s hiring and Ripple’s recent acquisitions demonstrate the company’s dedication to growth, innovation, and quality in the cryptocurrency industry. With an emphasis on strategic leadership and teamwork, Ripple is well-positioned to continue bringing about positive change in the industry.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+GameStop Stock Surges as Roaring Kitty Skewers Recent Losses - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsVideo game retailer GameStop saw a considerable rebound on Wednesday, closing up 22.8% after experiencing two consecutive days of significant losses. That followed last week’s spike amid the latest return of influencer Roaring Kitty (aka Keith Gill).After a challenging start to the week, GameStop's stock plummeted by more than 8% in early Tuesday trading. However, by the end of the day, it had surged, marking an impressive turnaround. This recovery can be attributed to several factors, including completing a major share offering and shifting market sentiment.Meanwhile, Roaring Kitty continued to poke fun at himself and the ongoing developments, even as he lost around $350 million on his GME position from last Thursday through the close of business on Monday.He shared a meme on Twitter on Tuesday that showed a character looking at an “Options Basics 101” course, apparently skewering himself over his own paper losses. Roaring Kitty has yet to share his latest disclosure of his portfolio, as of this writing, including the value of his options holdings—though he’s sure to see a sizable increase given the price jump.Share offering impactOn Tuesday, GameStop announced the completion of its previously disclosed at-the-market (ATM) equity offering program. The company sold the maximum number of shares registered under the ATM program, generating approximately $2.137 billion in gross proceeds. GameStop intends to use the net proceeds from this offering for general corporate purposes, which may include acquisitions and investments. This successful share offering significantly bolstered the company's financial position, increasing its cash reserves to over $4 billion and contributing to the stock's rapid recovery.The surge in GameStop's stock price has been met with a mixture of surprise and enthusiasm across social media and trading platforms. More than 136 million shares were traded on Tuesday as retail investors rode the stock's revival, buoyed by the recent return of Roaring Kitty after he accumulated sizable GME options.Moreover, analysts from S3 Partners have noted a significant amount of short squeeze activity, which has likely fueled the rapid price increase. This phenomenon occurs when investors who have bet against the stock are forced to buy shares to cover their positions, driving the price up further.Broader market trends also likely played a role in GameStop's stock movements.Wall Street traded relatively flat as investors exercised caution in anticipation of the upcoming inflation report and Wednesday's Federal Open Market Committee (FOMC) meeting.The S&P 500 was down about 0.2%, experiencing its poorest daily performance so far this month. However, the tech-centric Nasdaq 100 remained stable, supported by a robust surge in Apple following Monday’s reveal of its new AI offerings.Edited by Andrew HaywardDisclaimerThe views and opinions expressed by the author are for informational purposes only and do not constitute financial, investment, or other advice.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+ZKsync Announces Historic Airdrop with 3.6 Billion Tokens Distributed
+
+
+																Matter Labs, the creators of ZKsync, announced on Tuesday that a community airdrop for their new ZK tokens will start next week.
+The Ethereum Layer 2 service provider will distribute 3.675 billion tokens, representing 17.5% of the total token supply through airdrops, to about 695,232 eligible wallets.
+ZK Airdrop Coming Next Week
+In the release, the team announced that ZK will have a total supply of around 21 billion tokens. As per Matter Labs’ statement, the 17.5% airdrop makes this the most extensive token distribution from a Layer 2 network.
+The report further states that 89% of the airdropped tokens will go to a group classified as users, while 11% will be apportioned to the contributors. Users are people who met the threshold of transactional activities by the snapshot date, March 24.
+On the other hand, contributors, including developers, researchers, the community, individuals, and companies, actively participated in turning ZKsnyc into the L2 behemoth it is today. While users will claim tokens from next week, the contributors will have to wait for at least one more and begin making claims from June 24.
+
+
+
+
+ZKSync has provided a wallet eligibility checker where individuals can check whether they qualify for the airdrops. As per the documentation, every airdropped token is immediately unlocked and can be transferred immediately without requiring a vesting period.
+Interestingly, 66% of the total ZK tokens allocation is apportioned to the community, while only 33% is allocated to investors and teams. While talking about their decision to apportion more to the community, the ZKsync Association said:
+“Awarding more tokens in the airdrop than to the Matter Labs team and investors is more than a symbolic decision for the community… The community will have the largest supply of liquid tokens to direct protocol governance upgrades.”
+The distribution of these team tokens will start in June 2025 and continue for a four-year vesting period ending in 2028. The decision to delay the unlock dates for team tokens by one year comes a few months after another competitor, StarkWare, was forced to postpone the team unlock date following criticism online.
+Real Tokens for Real People
+As per the ZkSync statement, this airdrop focuses on rewarding real people while filtering out bots and sybil wallets. The network employs many criteria to spot and reward wallets from real people with real on-chain activity.
+When asked whether there would be selling pressure due to a large sum of tokens being unlocked immediately on the airdrop, Matter Labs CEO Alex Gluchowski said, “People are free to dispose of their tokens.”
+Alex said that they want holders of the tokens to participate in governance. If one does not want to, they can sell them.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Token Unlocks to Test Crypto Market Stability This Week
+
+
+							
+
+Significant token unlocks this week could lead to increased market volatility and notable price movements.
+
+
+
+Major Tokens like DYDX, Pendle, and Aptos are set to unlock millions in tokens, impacting prices.
+
+
+
+Token unlock events can lead to price fluctuations, offering both risks and opportunities for traders.
+
+
+
+
+Investors prepare for a wave of token unlocks this week, which could inject millions of dollars worth of new cryptocurrencies into the market and potentially create significant price volatility. Projects like DYDX, Pendle, Aptos (APT), 1inch, Immutable X (IMX), CyberConnect (CYBER), and Strike (STRK) are among those set to release previously locked tokens into circulation.
+
+
+
+
+
+
+
+Source: Token unlocks
+
+
+
+DYDX, a decentralized exchange, will unlock $2.71 million worth of tokens, constituting 0.58% of its total supply. Currently trading at $1.75, DYDX has experienced a 7.41% decline over the past 24 hours. With a market cap of $467.76 million and 55.6% of its total supply already unlocked, this event could further influence DYDX’s market performance.
+
+
+
+Pendle, priced at $5.18, has a market cap of $809.27 million. It will release $192.97 thousand worth of tokens, a relatively small 0.02% of its total supply. This minor unlock may not significantly impact Pendle’s price, but it remains a point of interest for traders.
+
+
+
+Aptos (APT) will unlock $91.38 million worth of tokens, accounting for 2.58% of its supply. Currently priced at $8.09, APT has seen a 4.27% decrease in the last 24 hours. With a market cap of $3.55 billion, this significant unlock could trigger heightened trading activity and price volatility.
+
+
+
+1inch, a decentralized exchange aggregator, is set to unlock $6.36 thousand worth of tokens, a minuscule fraction of its supply. Its current price is $0.424, down 5% over the last day. With 85.6% of its supply already unlocked, this event is likely to have minimal immediate impact.
+
+
+
+
+
+
+
+
+
+
+Immutable X (IMX) will release $48.25 million worth of tokens, representing 1.72% of its supply. Priced at $1.89, IMX has seen a 5.5% decrease in the last 24 hours. As a leading Layer 2 scaling solution for NFTs, IMX’s token unlock could influence its market dynamics and attract significant trading interest.
+
+
+
+CyberConnect (CYBER) will unlock $6.82 million worth of tokens, representing 3.96% of its supply. Currently priced at $7.70, CYBER has dropped by 5.06% over the past day. This unlock event could lead to notable price fluctuations as the market absorbs the new tokens.
+
+
+
+Strike (STRK) will release $69.38 thousand worth of tokens, 4.92% of its supply. With a current price of $1.08 and a 4.07% decline in the last 24 hours, STRK’s unlock might prompt increased trading activity and potential price changes.
+
+
+
+The increased supply from major token unlocks will, no doubt, impact the value of digital assets like DYDX, Pendle, and Aptos, potentially reshaping the landscape for investors.
 
 															
 									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
