@@ -1,470 +1,3 @@
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Crypto Mainstream Adoption Has Increased in Recent Months, Canaccord Says
-
-“With digital assets hovering near all-time highs, some incremental logjam beak on the regulatory front, good business execution by GLXY and some rerate up on an sum-of-the-parts (SOTP) valuation, we are boosting out price target,” analysts led by Joseph Vafi wrote.
-
-----------------
-
-Ethereum’s Pectra Upgrade May Be Split Into Two Forks - The Defiant
-
-Developers have already penciled in nine EIPs for inclusion in Ethereum's next hard fork.With Ethereum’s forthcoming Pectra upgrade shaping up to be the most expansive in the network’s history, developers are considering splitting its deployment over two separate hard forks.Following the latest All Core Devs Execution call on June 6, Christine Kim, a researcher at Galaxy Digital, tweeted that developers are exploring executing the upgrade over two forks.Kim noted that nine Ethereum Improvement Proposals (EIPs) are already confirmed for inclusion, with an additional five upgrades under consideration. She added that the upgrades are being staged in batches across devnet implementations, enabling Pectra’s scope to expand in the lead-up to deployment.“It is A LOT for one upgrade, so there's still a good chance Pectra gets split,” Kim said. “Staging multiple EIPs for implementation on devnets is a new development for the Ethereum governance process that leaves the door open for an upgrade with an ever-changing scope.”Pectra’s upcoming Devnet 1 will include the same eight EIPs tested on Devnet 0.Disruptive changesAccording to Vitalik Buterin, Ethereum’s chief scientist, Pectra is among the last upgrades expected to introduce disruptive changes to Ethereum.“After scaling is done, we’re in a stage where the hardest and fastest parts of the Ethereum protocol’s transition are essentially over,” Buterin said during an Ethereum Foundation livestream in April 2023. “Various things will need to be done, but those… things can be safely done at a slower pace.”Five execution layer upgrades and four consensus layer upgrades have been “finalized” for inclusion as part of Pectra so far, spanning an eclectic assortment of EIPs dating as far back as 2020.Verkle Trees and statelessnessEIP-2935 is a critical component of Pectra required to facilitate the introduction of Verkle Trees and statelessness. Verkle Trees will remove the need for nodes to store the network’s state locally, significantly reducing the computational requirements on validators.According to Kim, developers are also working on three related “parallel upgrades” that are likely to be bundled into Pectra.These include the development of validator light clients, which do not download the entire Ethereum blockchain. Light clients are intended to improve the decentralization of Ethereum by allowing users to validate the network using "resource-constrained devices such as tablets and cell phones.”With nodes no longer required to store the entire block history of Ethereum, EIP-4444 would also formalize the deletion of historic data from full nodes after a set amount of time, further reducing the computational demands for validators in a bid to improve node decentralization.“With EIP-4444: History Expiry, you would not have to store most of the history locally,” said Buterin. “The amount of data that you would need to be a node would decrease from multiple terabytes to... being able to run a node in RAM.”DApps and other nodes that need to access deleted block history would be able to query third-party data services following EIP-4444’s deployment.Developers are also exploring PeerDAS, which would provide further Layer 2 data availability following the introduction of proto-danksharding in March.Consensus layer upgradesMany of the upgrades set for inclusion in Pectra seek to improve the functionality and efficiency of Ethereum staking.EIP-6110 aims to decrease the delay between stakers depositing collateral on the Ethereum mainnet execution layer and the corresponding transaction processing on the Beacon Chain. It would also reduce the complexity of validator client software.EIP-7251 aims to slow the growth and reduce the size of Ethereum’s validator set to bolster the network's security. EIP-7002 would expand the number of designs available to developers creating staking pools.EIP-7549 targets improving the efficiency of attestations, which would reduce network load and node bandwidth demands.Execution layer upgradesOn the execution layer, EIP-2537 and EIP-7865 would bolster interoperability between the Ethereum mainnet and its Beacon Chain consensus layer. This would expand the functionality of decentralized staking pools, DAOs, and dApps that communicate with the Beacon Chain for staking functions.A bundle of ten EIPs relating to EVM Object Format (EOF) aims to facelift the Ethereum Virtual Machine, Ethereum’s core smart contract engine. EOF would improve the upgradability of EVM contracts alongside the efficiency of smart contract code execution.EIP-7702 is a controversial upgrade that would enable “smart account” features for regular externally owned account (EOA) wallets. The upgrade would enable batched transaction execution, transaction fee sponsoring, and delegated wallet security, but critics have warned the upgrade could make users vulnerable to new attack vectors.“It's important to note that devs are staging the implementation of Pectra EIPs, meaning if EOF or EIP-7702 or PeerDAS don't make it into a devnet over the coming months, devs may drop it entirely from the upgrade or split out Pectra into two hard forks,” Kim said.Unconfirmed upgradesKim noted two additional consensus layer upgrades that developers have not yet confirmed for inclusion in Pectra.EIP-7688 would make it easier for staking pools to verify whether a participating validator has been slashed.Developers may also consider reducing the rate of new Ether issuance. Mike Neuder, an Ethereum Foundation researcher, recently advocated for such a move, arguing that the Ethereum network and ecosystem has undergone “Seismic” change since Ether’s staking rewards mechanism was finalized amid the lead-up to the Beacon Chain’s deployment in 2020.However, the proposal quickly proved divisive, with many community members pushing back against Nueder’s suggestion. Some onlookers feared it could open the door to Ethereum Foundation researchers frequently meddling with the network’s tokenomics without input from the broader community.
-
-----------------
-
-Walmart and Mohawk Industries Receive Analyst Upgrades, Gain in Premarket - Tokenist
-
-
-					
-Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
-
-
-
-Walmart (NYSE: WMT) and Mohawk Industries (NYSE: MHK) have received positive analyst upgrades from JPMorgan and Raymond James, respectively, reflecting strong outlooks and favorable market positions.
-
-
-
-JPMorgan upgraded Walmart to “Overweight” with a price target of $81, citing expectations of multi-year double-digit EPS growth, while Raymond James upgraded Mohawk Industries to “Strong Buy” with a price target of $140, based on a positive outlook and historical valuation metrics.
-
-
-
-Both companies have shown recent stock price increases in premarket trading, despite varying macroeconomic challenges, and are supported by analyst optimism and strategic positioning in their respective sectors.
-
-
-
-JPMorgan Upgrades Walmart to “Overweight”, Sets $81 Price Target
-
-
-
-JPMorgan has upgraded Walmart’s stock rating from “Neutral” to “Overweight”, reflecting a strong balance of defense and offense for the retail giant.
-
-
-
-The firm increased Walmart’s price target from $66 to $81, citing expectations of multi-year double-digit EPS growth driven by market share gains and international segment profit inflection. Walmart’s fiscal year forecast was raised in May following better-than-expected quarterly results, with anticipated benefits from higher-margin alternative profit pools.
-
-
-
-The upgrade also considers macroeconomic factors such as a softening consumer backdrop and an uncertain second half of 2024.
-
-
-
-Walmart’s stock has risen 31.76% year-to-date as of the last close, with 37 of 40 analysts rating the stock as “buy” or higher, and a median price target of $71.50. The company’s EPS forecast for 2024 is maintained at $2.57, above the Wall Street consensus of $2.43.
-
-
-
-Walmart’s stock rose by 1.44% in premarket trading on June 10, 2024 at the time of writing, reflecting its strong performance and significant returns over the past five years, outpacing the S&P 500. 
-
-
-
-
-
-Raymond James Upgrades Mohawk Industries to “Strong Buy”, Sets $140 Price Target
-
-
-
-Raymond James has upgraded Mohawk Industries’ stock rating from “Market Perform” to “Strong Buy”, setting a new price target of $140.00.
-
-
-
-The upgrade is based on a positive outlook and historical valuation metrics, reflecting a strong correlation between Mohawk’s stock performance and FNA margins. The recent decrease in WTI prices since the Q1 financial report is considered a positive factor, and Mohawk’s shares are viewed as below net asset appraised/replacement value, offering a favorable risk-reward balance.
-
-
-
-Mohawk Industries reported mixed Q1 2024 results, with net sales decreasing by 4.5% to $2.7 billion, while adjusted EPS rose by 6% to $1.86. Despite challenges in the residential remodeling sector, the company remains optimistic about a market recovery in the second half of the year. Jefferies upgraded Mohawk’s stock price target to $130.00, maintaining a “Hold” rating.
-
-
-
-The firm’s market capitalization stands at $7.24 billion, with a forward-looking P/E ratio adjusted to 13.31 and a solid gross profit margin of 25.44%.
-
-
-
-MHK increased by 2.27% in premarket trading on June 10, 2024, despite a challenging macroeconomic backdrop. The company’s financials reveal a mixed picture with a negative net income and profit margin, but significant free cash flow.
-
-
-
-Analyst price targets range from $108 to $145, focusing on potential recovery and value investing strategies. Mohawk’s performance reflects its positioning in the furnishings, fixtures, and appliances sector, with strategic measures in place to navigate market challenges.
-
-
-
-
-
-
-
-Disclaimer: The author does not hold or have a position in any securities discussed in the article.
-
-
-
-
-
-				
-
-				
-
-		
-			About the author
-		
-
-		
-		
-
-					
-				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
-			
-		
-	
-
-									
-				
-			
-
-----------------
-
-Roaring Kitty Posts on Twitter Again. Does It Mean He's Buying AMC? - Decrypt
-
-We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsRoaring Kitty is posting on Twitter again, pushing GME up 5% in pre-market trading. But, some internet detectives believe that he’s hinting that he owns stock in AMC.After posting a single tweet a week ago, returning to Reddit on Thursday, and livestreaming on Friday, the GameStop bull is back to posting movie references.Keith Gill, better known as Roaring Kitty or DeepFuckingValue, was at the center of the GameStop short squeeze in 2021—forever tying his name to the company.But, due to his longtime habit of communicating through movie references on Twitter, people are starting to believe he also owns AMC—another meme stock popularized in 2021.His latest post is a screenshot from the opening shot of the Batman movie “The Dark Knight,” showing Heath Ledger’s Joker character holding a kitten mask right before he robs a bank. Some Twitter detectives have taken particular interest in the mask, believing there are hidden numbers and messages within the kitten's fur.Many people see the number five on the mask which they believe is due to AMC’s stock price currently hovering around $5. Others see the word AMC written on the mask. However the original photo of the kitten has been found, debunking the theory that RoaringKitty added any hidden messages in the mask.That hasn’t stopped people believing that Roaring Kitty holds AMC. This belief is only strengthened by a clip from Roaring Kitty’s livestream where he speaks about movies, almost begging the audience to read between the lines.“Oh movies, alright let's go! Yeah movies… yeah, now we’re talking!” He said smirking at the viewer, “Just random things.”AMC opened at $5.30 on Friday morning, dropping 7.4% by close to $4.91 and is largely unmoved in pre-market trading. While GameStop opened at $37.69 but after a disappointing Q1 report and Roaring Kitty’s stream the stock dropped 25% to $28.22. However, in pre-market, GME is up 5% to $29.59.This comes following the meme stock influencer’s return to social media last week. After posting an Uno card on Twitter, he posted on the Reddit community Superstonk showing his purported GameStop positions totalling $586 million.He then scheduled a livestream for Friday with some theorizing he could become a GameStop billionaire on stream. Unfortunately for Gill, the company’s Q1 report was released early and sent GME crashing 30%, putting a damper on the party. Despite this, the meme stock influencer still garnered over 700,000 viewers as the price of GameStop fell.Edited by Stacy Elliott.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
-
-----------------
-
-Euro Power Play: Ripple and Clear Junction Team up for Faster Cross-Border Payments
-
-
-							
-
-Ripple’s partnership with Clear Junction facilitates secure payouts in GBP and EUR, enhancing XRP’s utility in European transactions.
-
-
-
-Despite short-term market corrections, XRP shows resilience with a slight price increase, signaling potential for future growth.
-
-
-
-Analysts foresee a promising trajectory for XRP, anticipating a powerful upward movement amid potential market fluctuations.
-
-
-
-
-Ripple is forging deeper ties within the European financial sector through a strategic partnership with Clear Junction, a leading provider of international payment solutions for regulated institutions. The collaboration aims to simplify cross-border transactions by enabling fast and secure payouts in Euros and British pounds, with plans to expand to additional currencies in the future.
-
-
-
-As cryptocurrency expert EDO Farina points out, Ripple’s long-term vision aligns with David Schwartz’s recent essay, which emphasizes the gradual pace of change within international banking. Schwartz states, “Revolutionizing international finance isn’t something that you expect to happen overnight.”
-
-
-
-
-
-
-
-This partnership positions XRP as a frontrunner in Europe by integrating it into Clear Junction’s payment infrastructure. The collaboration underscores Ripple’s commitment to boosting XRP’s utility and adoption among regulated financial institutions across the continent.
-
-
-
-Despite recent market corrections, XRP exhibits resilience, with a minor price increase amidst broader volatility. Analyst Matthew Dixon suggests XRP is currently undergoing a corrective phase, potentially preceding a significant upward move. While bullish on XRP’s long-term prospects, Dixon acknowledges potential short-term fluctuations, such as those influenced by upcoming Consumer Price Index (CPI) data.
-
-
-
-
-
-
-
-XRP is currently priced at $0.4974, with a trading volume of $514,062,852.64. It has gained 0.58% in the last 24 hours but remains down 3.89% over the past week. Despite these short-term movements, analysts maintain a positive outlook on XRP’s future performance.
-
-
-
-
-
-
-
-
-
-Ripple’s strategic alliance with Clear Junction marks a significant step toward wider XRP adoption within European finance. As Ripple continues to forge partnerships and enhance XRP’s functionalities, the crypto asset is expected to experience steady growth and gain wider recognition within the international financial system.
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-Will BONK See a Multi-Month Low Due to Investors’ Skepticism?
-
-
-BONK price will likely witness a bearish outcome as the meme coin craze is seemingly ending. 
-The enthusiasm among meme coin holders is declining rapidly, which is visible in their actions.
-BONK Investors Pull Back 
-
-BONK’s price enjoyed its holders’ optimism, but as the macro conditions turn unfavorable for the crypto market, this optimism seems to be fading away. This is clearly evident in the weighted sentiment of all BONK investors.
-This metric combines and analyses all the mentions and expressions pertaining to a topic. The data helps to provide a more nuanced view of public opinion or investor sentiment. Upticks suggest bullishness, while downticks hint at bearishness.
-In the case of BONK, the investors’ sentiment, which turned bearish at the beginning of the month, is intensifying. 
-BONK Weighted Sentiment. Source: Santiment
-
-The impact of this intensifying skepticism is visible in the meme coin’s funding rate. The funding rate is a periodic payment exchanged between traders in a futures contract to keep the contract price aligned with the spot price. 
-It reflects the difference between perpetual futures prices and spot prices, where a positive rate indicates a bullish market, and a negative rate indicates a bearish market. Generally, positive rates suggest the dominance of long contracts over short ones and vice versa.
-BONK, while maintaining a positive funding rate, is noting a decline. This shows that traders are liquidating and pulling out long contracts. 
-Read More: How to Buy Solana Meme Coins: A Step-By-Step Guide
-BONK Funding Rate. Source: Coinglass
-As the price drops further, it won’t be surprising to see the funding rate become negative.
-BONK Price Prediction: Keeping Above a Key Support
-
-BONK price is holding above the critical support of $0.00002748, a level that has been tested as support and resistance. The chances of a decline below this line are significant, and the meme coin could thus fall to $0.00002153.
-The aforementioned conditions do hint at a further decline, although $0.00002000 will act as a support floor. This will potentially prevent BONK from falling any lower.
-Read More: Bonk Airdrop Eligibility: Who Can Claim and How?
-BONK Price Analysis. Source: TradingView
-But if the broader market conditions improve, BONK could capitalize on it and bounce back. Should the breakdown fail or the meme coin recover mid-way, a recovery to $0.00003000 is on the cards. Breaching the same would invalidate the bearish thesis.
-
-
-Disclaimer
-In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-AI revises Terra Classic price prediction for end of 2024
-
-
-    Although many assets in the cryptocurrency market have recorded a successful year so far, this has not been the case for Terra Classic (LUNC), the price of which has been recording poor results on all of its charts and has declined by over 20% since the year’s turn.
-
-
-
-Indeed, Terra Classic has been lagging behind the rest of the crypto sector in price, although it has recently started to recover after Binance, one of the largest crypto exchanges in the world, added support for LUNC, according to the official announcement on June 8.
-
-
-
-Terra Classic (LUNC) price prediction
-
-
-
-In this context, Finbold has consulted several artificial intelligence (AI) platforms, including the recent generative AI models, for insights on the price movements of Terra Classic by the end of this year, all of which agree on one thing – modest price increases are possible.
-
-
-
-
-
-
-
-Specifically, the advanced machine learning algorithms over at the finance and crypto price predicting platform CoinPriceForecast have set the price of Terra Classic at $0.00011696 by the end of 2024, which would represent an increase of 9.77% from its current price, provided it comes true.
-
-
-
-Terra Classic price year-end prediction. Source: CoinPriceForecast
-
-
-
-Furthermore, the most recent and advanced iteration of the OpenAI invention ChatGPT, called ChatGPT-4o, suggests a price growth to a minimum price of $0.000096 and a maximum of $0.000244, or an average of $0.000118 to $0.000149 by December 2024, adding that:
-
-
-
-
-“These figures take into account the ongoing technical developments, community engagement, and market trends prevalent in the ecosystem.”
-
-
-
-
-Meanwhile, Claude 3 Opus, a recent AI model by Anthropic, has offered the possible Terra Classic year-end price in a range between $0.00004 and $0.00021, citing “optimism within the Terra Classic community as members try to revive the LUNC blockchain project, and the LUNC burn mechanism which is a key driver behind the price rise.”
-
-
-
-Finally, Google Gemini, the AI chatbot platform developed by Alphabet (NASDAQ: GOOGL), predicts that LUNC could reach a low-end price of $0.00009, “considering analyst predictions and potential short-term dips,” or a high-end price of $0.00025, taking into account potential long-term growth.
-
-
-
-Terra Classic price analysis
-
-
-
-For now, LUNC is trading at the price of $0.00010655, which indicates a decline of 0.99% on the day, a 10.19% drop across the week, and an increase of 2.61% in the past month, while dropping 23.17% this year, according to the data on June 10.
-
-
-
-Terra Classic price year-to-date (YTD) chart. Source: Finbold
-
-
-
-It is also important to note that crypto analyst Javon Marks is confident that LUNC might be in its early stages of a bullish breakout, projecting it to hit $0.00021439 “at an unprecedented pace,” as he pointed out in an X post in late May.
-
-
-
-
-
-
-
-That said, the crypto sector can sometimes be a volatile and unpredictable space so doing one’s own research, carefully weighing all the risks and individual risk tolerance, as well as keeping up with any relevant developments and news is critical when investing.
-
-
-
-Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
-
-  
-
-----------------
-
-Ripple CTO Issues Critical Scam Warning to XRP Army
-
-
-
-
-Cover image via www.youtube.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-Ripple chief executive officer (CTO) David Schwartz has published a crucial scam warning for the XRP army and the global cryptocurrency community.Citing a tweet published by an account that impersonated @loopringorg - the official X handle of the Loopring protocol - the post mentioned a security breach suffered by Loopring and a large amount of customer funds lost to hackers and “user compensation claims.”Image via XSchwartz warned that this was a scam message: “Caution! This is a scam post!” By now, the fake account has been quickly suspended by the X team, and the Ripple CTO edited his original post by adding a link to an actual tweet published by @loopringorg. In that tweet, the project’s team shared details of the incident, explaining what really happened.
-
-Loopring smart wallets breachThe post published by @loopringorg revealed that a few hours ago some Loopring Smart Wallets suffered from a hacker attack. The hacker falsely posed as the wallet owner, resetting ownership and withdrawing assets from the targeted wallets.The hacker attack was successful as the culprits managed to compromise Loopring’s 2FA service and gained approval for the above-mentioned recovery from the Official Loopring Guardian. All operations connected with the Guardian service have been suspended for now, while the team is collaborating with Mist security experts as to how the 2FA service was breached.The Loopring team is now actively working with law enforcement and security experts as they are attempting to track down the hacker. The two hacker addresses were shared in the post as the Loopring team asked the crypto community for assistance: “If you have any information that could help us track down the hacker, please share it with us.”Ripple CTO's earlier scam warningAs reported by U.Today last week, Schwartz addressed the XRP community on a similar issue. He shared a screenshot of a direct message received by another X user, from someone who called themselves the X support team.The message stated that this user’s account was “under investigation for copyright violations” and urged the user to complete a form accessible through the link added to the message. Should the form not be filled out within 24 hours, the scammer claimed, the account would be suspended. The Ripple CTO said that that screenshot was fake.
-
-
-
-----------------
-
-What's Going On With Bitcoin Mining Stock Bitfarms Today? - Bitfarms (NASDAQ:BITF) - Benzinga
-
-Bitfarms Ltd BITF shares are trading lower. The company on Monday announced the adoption of a shareholder rights plan amid a recent takeover initiative from Bitcoin BTC/USD miner Riot Platforms.What To Know: Bitfarms on Monday said its board unanimously approved a shareholder rights plan aimed at preserving the integrity of its previously announced strategic alternatives review process.Bitfarms previously initiated a strategic alternatives review process to consider continuing to execute on the company’s business plan, a business combination or other strategic transaction or a sale of the company following a takeover attempt from Riot Platforms Inc RIOT.The special committee ultimately determined that Riot’s offer “significantly undervalued” the company. The shareholder rights plan announcement comes a day after Riot announced that it had built a 12% stake in Bitfarms as it continues to pursue a potential takeover. Under terms of the new plan, if Riot or another entity builds a stake of more than 15% in the company between June 20 and Sept. 10, Bitfarms will issue new shares, diluting the stake of Riot or other entity pursuing a hostile takeover. See Also: Will Bitcoin ‘Swipe The Low’ Ahead Of Wednesday’s FOMC Meeting?BITF Price Action: Bitfarms shares were down 5.42% at $2.27 at the time of publication, according to Benzinga Pro. Photo: Shutterstock.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Solana Mainnet Upgrade Brings Positivity To SOL ETF Appro...
-
-
-                                What to Expect from Solana's Mainnet Upgrade Amid US Election 2024                                Solana is a leading blockchain platform gearing up for a significant mainnet upgrade to version 1.18.15. This move comes as traders speculate on the potential for SOL's price to surge towards $250.What's The NewsThe Solana team has announced the readiness of the v1.18.15 mainnet upgrade. This upgrade is primarily designed to alleviate congestion problems that have plagued the network, especially with the recent surge in memecoin activities on the Solana blockchain. According to an official post by Solana Status on 10th June validators are encouraged to adopt this new stable release. The update includes several enhancements, such as the addition of certificate authority certificates to the Docker image, bug fixes, and metrics improvements. Additionally, it optimizes the scheduler for worker precompile verification and adjusts logging for shallow threshold checks during the consensus mechanism.Solana Set for Mainnet Launch UpgradeThe Solana v1.18.15 upgrade is a critical step for the network. Validators are instructed to upgrade when delinquent stakes are below 5% and to report any issues. This upgrade aims to ensure smoother network operations and to handle the increased demand effectively. This update is designed to address major congestion problems on the network due to the influx of Solana-based memecoins. Key improvements in this release include adding authority certificates to the docker image, bug fixes, and enhancements to the scheduler for better transaction handling.Impact of Solana Mainnet Upgrade on Solana ETF ApprovalThe Solana v1. 18. 15 mainnet upgrades may help to improve network activity and solve the problem of congestion, which may lead to increased investor trust in Solana’s technology. Therefore, the upgrade is a positive technical move but regulatory and political factors would be more decisive in the approval of Solana ETF.Recently, the approval of Spot Ether ETF brings high expectations for the Approval of Solana ETF. However, the approval of a Solana ETF depends on other regulatory aspects and the results of the US presidential election 2024 that might define the further development of cryptocurrency regulation and the approval of the Solana ETF.Former President Donald Trump, who is campaigning for re-election has voiced support for cryptocurrencies and is termed as the ‘crypto president’. If Trump wins Solana ETF approval might be easier to come by.On the other side, if President Biden is re-elected the cautious approach towards cryptocurrency regulation by SEC Chair Gary Gensler will be continued. This could result in further delays in the approval of Solana ETF due to concerns about market manipulation, liquidity, and centralization.What CoinGabbar Has Concluded?The Solana v1.18.15 mainnet upgrade is a decisive step to increase the network’s performance as the demand continues to rise, which can lead to an SOL price pump. However, other market factors such as the U.S. presidential elections also contribute to the future of Solana ETF approval. The future of cryptocurrencies in the US greatly depends on the result of the presidential election of 2024. These developments should be eyed closely by investors as they will greatly influence the future progress and usage of Solana and othersAlso Read: Trump VS Biden And The Future Of Domestic Bitcoin Mining
-                            
-                        
-
-----------------
-
-Can This Altcoin Dethrone Chainlink and Surpass LINK Dominance? 💪 - YouTube
-
-AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
-
-----------------
-
-Defi Protocol Uwu Lend Suffers $19.3M Expolit: Arkham
-
-Patryn endured a turbulent period before releasing UwU Lend. Quadriga CX collapsed and soon after an address linked to Patryn transferred $5.5 million worth of ether (ETH) to now sanctioned coin mixer Tornado Cash in 2022, whilst he was the treasurer for the Wonderland DAO.
-
-----------------
-
-Shiba Inu Exec Gives Crucial Statement on SHIB Metaverse
-
-
-Shiba Inu (SHIB) ecosystem marketing lead Lucie recently made a significant announcement on X regarding the future of the SHIB Metaverse. She highlighted the potential adoption of fully homomorphic encryption (FHE) privacy layers, a technology that could revolutionize the way users interact in the virtual world.Lucie suggested that the SHIB Army might consider incorporating fully homomorphic encryption (FHE) privacy layers into its operating system. She mentioned that FHE technology, specifically Zama in their case, allows data analysis to be performed directly on encrypted data without revealing the private data to the analyzing party. Lucie added that this technology could be applied in the SHIB Metaverse to ensure that users' interactions remain both private and secure by embedding FHE technology within the virtual world. While the option for public interaction will remain, the addition of FHE technology will allow users who prefer to build and engage privately to do so without compromising their data security. This dual approach is expected to enhance the overall user experience, catering to a broader range of preferences within the community.Excitement around Shiba Inu MetaverseLucie’s tweet also recalled her earlier excitement in March, when she hinted at significant plans for the Shiba Inu Metaverse, including the introduction of a new token, TREAT. Notably, TREAT is set to play a crucial role in the ecosystem, designed to serve multiple purposes, including providing rewards within the SHIB Metaverse.The development and integration of TREAT are anticipated to bring substantial benefits to the Metaverse, fostering engagement and incentivizing participation. As the Shiba Inu Metaverse continues to evolve, these technological advancements and strategic developments underscore Shiba Inu’s commitment to creating a secure, rewarding and inclusive virtual environment for its community.The incorporation of FHE technology, developed by Zama, into the SHIB Metaverse could also set a precedent for other virtual worlds and ecosystems to follow. As privacy concerns continue to grow in the digital age, the project’s proactive approach to data security and user privacy could position it as a leader in the space. The Shiba Inu community, known for its enthusiastic and supportive nature, is likely to welcome these advancements with open arms.
-
-
-
-----------------
-
-Financial Sector Dominates Q1 Crypto Funding With $323M Inflows - Benzinga
-
-Crypto venture capital funding in the first quarter saw the financial sector rake in the most investments. What Happened: Tom Dunleavy, Managing Partner at MV Capital, quoted figures from blockchain analytics firm Messari, revealing that deal volume decreased by 8.8% month-over-month (MoM) to $1.28 billion. The number of deals saw a slight increase of 0.7%, sustaining near yearly high levels with a total of 303 deals. The financial sector emerged as the most active, accounting for 25.2% of the total fundraising volume, with $323 million secured. This sector’s robust performance underscores its pivotal role in the evolving crypto ecosystem. Notable deals include Securitize, which raised $47 million, reflecting significant investor confidence in financial technologies within the crypto space.Surge In Consumer Sector DealsInterestingly, the consumer sector experienced an explosive growth in deal volume, surging by 248.4% MoM to $246 million. This dramatic increase was primarily driven by Farcaster‘s $150 million raise.Such significant investments highlight the growing interest and potential within the consumer-facing crypto projects.Also Read: Bitcoin Peak of $120,000 By Late 2024, Major Alt Season To Follow: BitfinexKey Deals And InvestmentsAmong the most notable deals in Q1 were Farcaster ($150 million), Polymarket ($70 million), Babylon ($70 million), and Humanity Protocol ($30 million). These investments reflect a diverse range of interests and innovations within the crypto sector, from decentralized social networks to prediction markets and identity verification protocols.The sustained high levels of deal activity, despite a decrease in overall funding volume, suggest a robust and resilient investment environment. The financial sector’s leading role indicates a continued focus on enhancing and expanding financial technologies within the crypto industry.These trends and their broader implications for the digital asset market will be key topics at the upcoming Benzinga Future of Digital Assets event on Nov. 19.Read Next: Can Bitcoin Reach $83,000? Key Factors Needed For A Breakout: 10x ResearchImage: Shutterstock
-
-----------------
-
-Crypto investments soar with $2 billion inflow amid US macroeconomic shifts
-
-Investor confidence in crypto-related investment products surged last week, buoyed by the US macroeconomic situation.In its latest weekly report, CoinShares observed that these financial instruments saw net inflows of $2 billion last week, matching the total inflows recorded for May.Additionally, this marks the fifth consecutive week of positive inflows, with the assets drawing around $4.3 billion worth of investments during the period. Notably, this is the second-longest streak of inflows since the US Securities and Exchange Commission (SEC) approved spot Bitcoin exchange-traded funds (ETF) in January.James Butterfill, CoinShares’ head of research, noted that inflows were widespread across providers like BlackRock, Fidelity, Proshares, Bitwise, and Purpose, with a notable reduction in outflows from Grayscale.Chart Showing Crypto ETPs Flows by Provider (Source: CoinShares)Butterfill explained that the inflows could be attributed to the “weaker-than-expected US macro data,” which has raised expectations for monetary policy rate cuts. He added:“[The] positive price action saw total assets under management (AuM) rise above the $100 billion mark for the first time since March this year.”Meanwhile, trading activity for these investment products surged after weeks of subdued activities. Last week, trading volume was boosted by 55% to $12.8 billion, significantly exceeding the $8 billion recorded in the prior week.Bitcoin, Ethereum drive flowsBitcoin (BTC) remains a crucial interest for investors, registering $1.9 billion in inflows. Meanwhile, short BTC products experienced outflows for the third consecutive week, totaling $5.3 million.Crypto ETP Flows (Source: CoinShares)Ethereum (ETH) saw a significant resurgence, with $69 million in inflows, marking its best week since March. This pushed ETH’s year-to-date flows to $81 million, recovering from earlier losses before the SEC approved several spot Ethereum ETF 19b-4 filings.Other significant altcoins had minor activities, with inflows under $1 million. However, Fantom and XRP stood out, recording inflows of $1.4 million and $1.2 million, respectively.Mentioned in this articleLatest Alpha Market Report
-
-----------------
-
-Tectris program to transform the travel industry with Web3 innovations
-
-
-    Ennea Capital Partners, Falkensteiner Ventures, Trips Community, Chain4Travel, and other key players in the travel sector have unveiled Tectris, a program set to nurture startups developing blockchain, cryptocurrency, and artificial intelligence (AI) technology to revolutionize the travel industry, according to the latest information shared with Finbold on June 10.
-
-
-
-Leading the charge in the quest for a Web3-oriented travel industry, Tectris will focus on advancements like tokenization, decentralized ownership, and automated trust protocols.
-
-
-
-Tectris is a remote program with a registration deadline of July 31, 2024. Semi-finals will be held in scenic Umbria, Italy, during the Web3 in Travel Conference on September 3–4, 2024, with the finals scheduled for Q4 2024 in Vienna, Austria.
-
-
-
-
-
-
-
-Tectris program participation and opportunities
-
-
-
-From June to November 2024, Tectris will select ten of the most promising Web3 travel startups, providing them with a robust foundation to build upon. 
-
-
-
-The program will invest in open protocols, essential for the Web3 travel industry’s infrastructure, as well as in non-protocol, for-profit startups demonstrating successful Web3 applications in the industry.
-
-
-
-Luca De Giglio, co-founder of Tectris, expressed his enthusiasm for the initiative: 
-
-
-
-
-“With a dynamic lineup of contributors, this accelerator and syndicate is poised to support startups by providing exactly what they need to thrive. Through our Discord channel, Tectris transforms into an open-space incubator dedicated to nurturing Web3 travel innovations.”
-
-
-
-
-Participants in the program can look forward to not only funding opportunities of up to €250,000 but also coaching, industry expertise, and partnership opportunities with established names in travel and hospitality. 
-
-
-
-The program will accept applications from teams and solo founders alike at the concept or pre-seed stage within the Web3 and blockchain domains, specifically targeting the travel, hospitality, and leisure verticals. 
-
-
-
-The initiative represents a significant step toward integrating Web3 technologies with the travel industry, promising to reshape how travel experiences are created.
-
-
-
-Tectris launching partners
-
-
-
-About Tectris launching partners:
-
-
-
-
-
-Ennea Capital Partners: A leading M&A, investment, and advisory firm known for supporting founders and investors throughout all stages of their business cycle;
-
-
-
-
-Falkensteiner Ventures: A boutique VC and incubator focusing on early-stage startups in travel and hospitality;
-
-
-
-
-TripsCommunity: The first travel DAO, pioneering the integration of Web3 technologies in the travel industry to decentralize future booking systems;
-
-
-
-
-Chain4Travel: A firm at the forefront of digital innovation for the global travel industry, which initiated the L1 Camino Network. 
-  
-
-  
-
-----------------
-
 99Bitcoins New Crypto ICO Passes $2 Million Mark, Audit
 
 
@@ -8768,3 +8301,544 @@ ETH was trading at $3,473 at press time, reflecting a 4.95% drop over the past 2
         
 
         
+
+----------------
+
+European law authorities raise concerns over privacy coins, Layer-2 networks and crypto mixers
+
+The EU Innovation Hub for Internal Security has released its first comprehensive report on encryption, focusing significantly on crypto-related issues.The report, a collaboration between Europol, Eurojust, and other EU agencies, delves into how cryptocurrencies are impacting law enforcement efforts.It highlights the significant gaps in law enforcement’s ability to track and recover illicit digital assets moved via decentralized methods like privacy coins, layer-2 networks, and crypto mixers.Crypto and Law EnforcementAccording to the report, cryptocurrencies, which rely heavily on public-private key cryptography, pose unique challenges and opportunities for law enforcement.The report outlines how cryptocurrencies are increasingly used for laundering criminal proceeds, complicating efforts to trace illicit funds. The rise of technologies such as zero-knowledge proofs (ZKP) and Layer-2 (L2) networks, which enhance privacy, may further obscure the origins and movements of these funds.The report said that currently, law enforcement can only recover funds moved via custodial wallets — where users do not hold their own private keys — by cooperating with exchanges and service providers to seize crypto suspected of criminal activity.This cooperation is crucial, given the stringent user identification measures (know-your-customer, or KYC) mandated by anti-money laundering regulations. However, illicit funds moved via decentralized wallets and addresses remain beyond the reach of law enforcement due to the enhanced privacy offered by these technologies.Technological Advancements and Data ObfuscationThe report highlighted several advancements that complicate tracking crypto transactions. Privacy coins like Monero obscure transaction details, presenting significant tracing challenges despite being less popular than Bitcoin among criminals.Meanwhile, cryptocurrencies such as Dash and Litecoin offer optional encryption features that enhance transaction obfuscation. Mimblewimble, a protocol used by Grin and Beam, hides transaction details and uses aggregate verification techniques.ZKPs, used by currencies like Zcash and mixing services like Tornado Cash, verify transactions without revealing details, posing substantial tracing challenges.Furthermore, L2 solutions like the Lightning Network for Bitcoin create payment channels that do not broadcast all transactions to the blockchain, complicating law enforcement tracking efforts.Future stepsThe report noted the paramount need for law enforcement to keep up with technological developments and emphasized that access to suspects’ private keys is critical for overcoming encryption challenges.The report also urged state agencies to enhance technical capabilities and foster closer collaboration with crypto exchanges and custodial wallet providers, which are essential for effectively tackling the misuse of digital assets for criminal purposes.The report called for continued research into “user-controlled” encryption and its impact on digital forensics and decryption capabilities. It also highlighted quantum computing’s potential to revolutionize cryptographic protocols and said that EU funding schemes are vital for supporting research projects to address these challenges.The report urged policymakers to prioritize funding to enhance law enforcement’s ability to counteract the misuse of cryptocurrencies.Mentioned in this articleLatest Alpha Market Report
+
+----------------
+
+Biggest Bank in the World Says Ethereum Is ‘Digital Oil,’ Bitcoin ‘Digital Gold’: Report - The Daily Hodl
+
+
+								The world’s biggest bank, the Industrial and Commercial Bank of China (ICBC), is reportedly calling Bitcoin (BTC) “digital gold” and Ethereum (ETH) “digital oil.”
+In a new report shared by Matthew Siegel, VanEck’s head of digital assets, the ICBC gives praise to the top two cryptocurrencies by market cap.
+
+
+
+
+
+
+
+
+
+
+The report also says that market demand is strong for digital assets, pushing innovation in the sector.
+“Market demand drives the continuous iteration of digital currencies.” 
+The report draws comparisons between Bitcoin and gold while also saying the crypto king has added benefits.
+“Bitcoin retains the scarcity similar to gold through mathematical consensus, while solving its problem of being difficult to divide, difficult to identify authenticity and inconvenient to carry. Its monetary attributes are gradually weakening, while its asset attributes are constantly strengthening.” 
+In calling Ethereum “digital oil,” the report praises various characteristics of the top smart contract platform’s ecosystem. While ICBC highlights some of the network’s shortcomings, it also believes technological advances will resolve them over time.
+“Ethereum has been continuously upgrading its technology in terms of security, scalability, and sustainability, providing technical power for the digital future… 
+Ethereum introduces Turing completeness with its exclusive programming language (Solidity) and virtual machine (EVM), allowing developers to write and arrange for a variety of complex smart contracts and applications, providing a strong platform support for blockchain technology. Its flexibility has been widely recognized in the fields of decentralized finance (DeFi) and non-fungible tokens (NFT), and is gradually extending to the physical infrastructure network (DePin). 
+In essence, Ethereum’s Turing completeness enables it to execute any programming instructions under the premise of correct instructions and sufficient resources, but it also poses several practical problems… 
+Looking ahead, Ethereum developers will continue to work on finding the Pareto optimum between sustainability, security and efficiency.” 
+Bitcoin is trading for $66,502 at time of writing, down 5% in the last 24 hours. Meanwhile, Ethereum is trading for $3,464 at time of writing, down more than 6% on the day.
+Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
+
+Check Price Action
+
+Follow us on X, Facebook and Telegram
+
+Surf The Daily Hodl Mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Generated Image: Midjourney
+								
+								
+																
+															
+
+
+						
+
+----------------
+
+2 cryptocurrencies to reach $10 billion market cap in the second half of the year
+
+
+    The cryptocurrency market experienced volatile trading last week, starting on a high note only to reverse course by week’s end. Initially, optimism surged as several analysts predicted Bitcoin (BTC) would reach new highs. 
+
+
+
+However, the release of robust U.S. job data on Friday altered the sentiment, resulting in a downturn in the crypto markets.
+
+
+
+Despite this, several cryptocurrencies are approaching significant market cap milestones, including the notable $10 billion mark.
+
+
+
+
+
+
+
+Finbold has identified two cryptocurrencies likely to surpass this threshold. These predictions hinge not only on market conditions but also on the potential benefits of high supply inflation, which could lead to an increased market cap even if price movements remain minimal.
+
+
+
+Polkadot (DOT)
+
+
+
+Polkadot (DOT), currently trading at $6.34 with a market cap of $9.14 billion, is on track to hit a $10 billion market cap by year-end.
+
+
+
+Despite recent market fluctuations, its ecosystem continues to grow, with a Total Value Locked (TVL) of $70,383  and key projects like Energy Web, Xcavate, and Phyken Network showcasing its expanding influence in the blockchain space.
+
+
+
+Polkadot  price and market cap. Source: CoinMarketCap
+
+
+
+Polkadot’s integration of Real-World Assets (RWAs) and the upcoming release of Polkadot 2.0 are clear indicators of its commitment to innovation and mass adoption.
+
+
+
+
+
+
+
+The increasing adoption of Polkadot’s Software Development Kit (SDK) for asset tokenization and the positive outlook from industry experts like Michaël van de Poppe strengthen its market position. 
+
+
+
+These strategic developments, along with Polkadot’s strong framework for asset tokenization, suggest substantial growth potential, making the $10 billion market cap a realistic target.
+
+
+
+Chainlink (LINK)
+
+
+
+Chainlink (LINK), currently trading at $14.87 with a market cap of $8.73 billion, has strong potential to reach a $10 billion market cap soon. 
+
+
+
+Despite a recent 7.39% one-day decrease and trading 23% below its yearly high of $22.85, Chainlink’s innovative developments and growing ecosystem continue to drive investor confidence.
+
+
+
+A recent collaboration with The Depository Trust and Clearing Corporation (DTCC) and major U.S. financial institutions like JP Morgan (NYSE: JPM) and BNY Mellon underscores its potential.
+
+
+
+Chainlink price and market cap. Source: CoinMarketCap
+
+
+
+The successful pilot project, Smart NAV, demonstrated the use of Chainlink’s interoperability protocol CCIP to standardize and disseminate net asset value (NAV) data across blockchains. 
+
+
+
+This project highlighted Chainlink’s role in enabling on-chain use cases such as tokenized funds and smart contracts. 
+
+
+
+With such significant industry support and real-world applications, Chainlink is on track to achieve a $10 billion market cap.
+
+
+
+It’s worth noting that despite being supported by several fundamentals, the possibility of the highlighted cryptocurrencies reaching the $10 billion mark will largely depend on market conditions.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
+
+----------------
+
+Ethereum Buying Pressure Reaches Critical Level Amid Massive Whale Buying
+
+
+																Institutional investors have been accumulating Ethereum at a rapid pace after the SEC’s recent approval of Spot Ethereum ETFs. Crypto analyst Ali Martinez noted that this accumulation trend has created buying pressure that could be the much-needed catalyst for Ethereum to break above the $4,000 price mark.
+According to a social media post by Ali Martinez, the number of Ethereum addresses holding over 10,000 ETH tokens has increased by 3% in the last three weeks, showing a positive trend among large investors. 
+Whales Accumulating Pushes Ethereum Buying Pressure
+Speculation over ETF approvals and increasing institutional buy-in have helped fuel Ethereum’s price increase earlier this year. The first price surge occurred in February when multiple reports came out of the SEC potentially approving Spot Ethereum ETF applications after the approval of Spot Bitcoin ETFs.
+
+	Related Reading
+
+
+ This saw the price of Ethereum surging over 83% throughout the month to reach above $4,000 again for the first time since 2021. Similarly, court rulings in May, which increased the odds of Spot Ethereum ETF approval, pushed the price of ETH above $3,000 again. 
+Now that the SEC has finally approved these spot ETF applications, institutional investors are taking the chance to load up their portfolios with Ethereum. According to Glassnode data, this accumulation, which has been going on for the past three weeks, has pushed the number of wallets holding over 10,000 ETH past 975 and steadily approaching 1,000 addresses. Furthermore, data shows that the number of ETH mega-whale addresses has steadily increased in the past 30 days, with the recent metric showing an addition of 15 whale addresses. 
+
+On-chain data also reveals that social sentiment for ETH has stabilized after intense enthusiasm post-Spot Ethereum ETF approval. However, this hasn’t stopped the massive withdrawal from exchanges, leading Ethereum to become scarcer on centralized exchanges. This trend has now seen the Ethereum balance on centralized exchanges dropping below Bitcoin, even as Spot Bitcoin ETF wallets also accumulate Bitcoins. According to Glassnode data, less than 10.56% of Ethereum’s total supply is currently held on major exchanges.  
+ETH Price Outlook: What’s Next After Critical Buying Pressure?
+With whales doubling down on Ethereum, the buying pressure has reached a critical point. This surge of interest signals a very bullish outlook for Ethereum’s price in the coming months, although there could be short-term volatility. 
+
+	Related Reading
+
+
+At the time of writing, Ethereum is trading at $3,527 and has fallen 3.83% in the past 24 hours. While the increase in buying pressure is a good start, the bulls still have some work to do to push Ethereum’s price higher. The first major resistance wall is around $3,700, where 1.82 million addresses hold 1.8 million ETH.
+BTC price at $3,500 | Source: ETHUSD on Tradingview.com
+Featured image created with Dall.E, chart from Tradingview.com
+																								
+															
+
+
+						
+
+----------------
+
+Bitcoin Price Plunges as $245 Million in Crypto Longs Are Liquidated - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsBitcoin's price is sinking, dropping by 5% over the last 24 hours and prompting a growing wave of liquidations across the crypto ecosystem, totaling $265 million over the past 24 hours.As of this writing, Bitcoin is sitting at a price of $66,548, down from a 24-hour peak above $70,000. Crypto long positions have been most severely affected by the price action, with some $245 million in longs liquidated over the past day, per data from CoinGlass, including about $57 million in Bitcoin long positions.Editor's note: This story is breaking and will be updated with additional detail.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+Is This One of the Reasons for Today's Big Decline in Bitcoin? Here's the 535 Million Dollar Worth Transaction - Bitcoin Sistemi
+
+
+Data provided by cryptocurrency analysis company Arkham reveals that a wallet that has been dormant for a long time has been carrying a large amount of Bitcoin.
+According to data, a cryptocurrency wallet that has been dormant for 5.5 years without any movement moved 8,000 Bitcoins, which corresponds to approximately $ 535 million, at the time of writing.
+
+
+The data shows that the BTC assets in question were distributed across a number of different cryptocurrency wallets, four of which belonged to Binance deposit addresses. The amount transferred to Binance was recorded as 1,416 BTC.
+The giant whale wallet paid approximately $108 in fees for the transfer of the $535 million BTC in question.
+
+
+
+
+
+
+The overall cryptocurrency market witnessed an unexpected decline today. Bitcoin, the world's largest cryptocurrency, has decreased by approximately 4.57% in the last 24 hours. With the decline, the BTC price fell below $ 67,000 and is trading at $ 66,588 at the time of writing.
+The general reason for the decrease is thought to be that both CPI and interest rate decision data will come from the USA tomorrow.
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Bitcoin's Value Is ‘Many Multiples’ Above Its Current Price: Billionaire Investor Bill Miller - Decrypt
+
+We do the research, you get the alpha!Get exclusive reports and access to key insights on airdrops, NFTs, and more! Subscribe now to Alpha Reports and up your game!Go to Alpha ReportsLegendary investor Bill Miller says he’s “still betting on Bitcoin,” which has ample room to rise despite currently trading close to all-time highs.In a Tuesday article, the billionaire argued that Bitcoin’s “intrinsic value” is “many multiples” of its market cap today and that the asset is at the center of a “secular shift around how humans think about capital and its governance.”“The promise of Bitcoin is simple,” Miller wrote. “Namely, that changes in someone’s purchasing power should not be controlled by an authority tied to the circumstances of one’s birth.”Given that its blockchain-based accounting is “far superior” to all fiat alternatives, the investor claimed Bitcoin’s $1.5 trillion market cap is a fraction of a percent of its total addressable market.Miller has been one of Bitcoin’s most vocal high-net-worth proponents for several years. In 2015, Miller Value Partners published “A Value Investor’s Case For Bitcoin,” which claimed Bitcoin “could have enormous upside if it catches on” as a store of value similar to gold, and captured the precious metal’s market cap. At the time, that model would have brought Bitcoin’s price to $314,000 per coin.Miller assigned just a 0.25% probability of this happening back then, but today he doesn’t find it so farfetched—especially in a fiat world fast approaching “a quadrillion dollars” of total capital.“Humans are notoriously bad at contextualizing the relevance and potential of new technologies,” he said.Miller’s track record suggests he has a knack for spotting good investments. During his time at Legg Mason, he’s known for investments that outperformed the stock market for fifteen straight years from 1991 to 2005. He also purchased Amazon (AMZN) stock at its IPO in 1997, which has exploded over 205,000% since.In 2022, Miller revealed that his portfolio was split 50/50 between both Amazon and Bitcoin—and that he was buying the latter asset with leverage.“I believe that continuing to ignore Bitcoin will serve those who do it over the next decade as well as it has over the past one—not well,” he concluded in his latest piece. “It’s still early.”Edited by Ryan Ozawa.Daily Debrief NewsletterStart every day with the top news stories right now, plus original features, a podcast, videos and more.
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Andrew Tate's $1M Solana Meme Coin Investment Causes Stir Amidst Facing Criminal Charges - Benzinga
+
+Controversial influencer Andrew Tate has stirred up social media with his announcement of a $1 million investment in Solana meme coins, despite facing serious criminal charges.Tate, known for his provocative online presence, announced on Friday his plans to invest heavily in various Solana-based meme coins. This move has sparked a frenzy on social media, with followers promoting their meme coins for his potential investment.Don’t Miss:Tate’s investment claims, however, may be exaggerated. Evidence suggests that he has spent significantly less than the announced $1 million. This is not his first venture into the crypto world, as he previously expressed interest in investing in Bitcoin.Earlier this year, Tate claimed on an X post that he made $85 million on the last DeFi Bull Run on Pancake and prefaced it with telling his followers that as great as meme coins are, there are “genuinely technological useful or innovating blockchain coins”.Despite his ongoing legal troubles, including serious charges in Romania and a pending extradition request from British authorities, Tate’s bold crypto investment announcements have kept the public’s attention on him.His recent announcement to invest in various “junk” tokens is seen by some as a distraction from these legal issues, while also highlighting the unpredictable market influence of such popular figures.While some critics question the legitimacy of his claims, his public statements reflect a broader pattern of controversial actions designed to maintain public attention.Read Next:Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+Stocks Ease Ahead Of Wednesday's Key Events, Apple Jumps To Record Highs, Bitcoin Tumbles To $66,500: What's Driving Markets Tuesday? - Apple (NASDAQ:AAPL) - Benzinga
+
+Wall Street traded slightly in the red on Tuesday morning as markets took a cautious stance ahead of the inflation report and the Federal Open Market Committee (FOMC) meeting on Wednesday.The S&P 500 dipped 0.2% by 12:55 p.m. in New York, marking its worst daily performance month-to-date. Despite the overall market decline, the tech-heavy Nasdaq 100 avoided losses, buoyed by a strong rally in Apple Inc. AAPL. The Cupertino-based iPhone maker surged 5.9%, mirroring last month’s post-earnings reaction, driven by bullish analyst notes following Tuesday’s WWDC event.Blue-chip stocks in the Dow Jones fell 0.7%, while small-cap stocks lagged, down 1%. Treasury yields saw little movement, with the benchmark 10-year note holding steady at a 4.46% yield.Commodities were broadly softer, with gold and silver declining by 0.2% and 1.9%, respectively, while West Texas Intermediate (WTI) crude oil remained stable at $77 a barrel. Bitcoin BTC/USD was the day’s biggest underperformer, falling over 4% to $66,500 and eyeing its worst daily performance since late April.Tuesday’s Performance In Major US Indices, ETFsMajor IndicesPrice1-day %chgNasdaq 10019,076.800.0%S&P 5005,348.59-0.2%Dow Jones38,578.53-0.7%Russell 20002,018.79-1.0%Updated at 12:55 p.m. ETAccording to Benzinga Pro data:
+The SPDR S&P 500 ETF Trust SPY was 0.3% lower to $534.10.
+
+
+
+The SPDR Dow Jones Industrial Average DIA was 0.7% lower to $386.43.
+
+
+
+The tech-heavy Invesco QQQ Trust (ARCA: QQQ) was flat at $464.60.
+
+
+
+Sector-wise, the Technology Select Sector SPDR Fund XLK outperformed, up by 1%, while the Financials Select Sector SPDR Fund XLF lagged, down 1.5%.
+Tuesday’s Stock Movers
+FMC Corp. FMC rose 3.5% after Pierre Brondeau returned as president and chief executive officer.
+
+
+
+NextEra Energy Inc. NEE tanked 6.7%, eyeing the worst daily performance since October 2023, after the company issued weaker guidance.
+
+
+
+State Street Corp. STT and BlackRock Inc. BLK fell 4.5% and 1.7%, respectively, after Reuters revealed that a U.S. congressional committee is set to accuse the biggest Wall Street firms over climate-related collusions. 
+
+
+
+Affirm Holdings Inc. AFRM rose over 8% after Apple announced the inclusion of the company’s products in Apple Pay later this year. 
+
+
+
+DXC Technology Company DXC surged 11.5% amid acquisition interest from Apollo Global Management and Kyndryl Holdings 
+Read now: Affirm Soars After Apple Partnership Announcement: What It Means For UsersImage generated using artificial intelligence via Midjourney.Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+Just Don’t Call It Blockchain: Apple's New AI Privacy Tech Explained - Decrypt
+
+Apple is taking a deep dive into AI with its new Apple Intelligence suite of features across iPhones, iPads, and Macs. While some requests will, with user permission, be routed to OpenAI’s ChatGPT, a top exec says Apple's own AI services rely on a “blockchain-ish” model to ensure user privacy.But what does that really mean? Following Apple's keynote presentation, its Senior Vice President of Software Engineering Craig Federighi and SVP of Machine Learning and AI Strategy John Giannandrea took the stage for a press interview about the consumer tech giant’s big AI push, moderated by content creator Justine “iJustine” Ezarik.Asked how Apple would make sure its customer information remained private if it leaves their devices, Federighi explained that user requests sent to Apple servers are anonymized, as their IP addresses are masked and the server itself is prevented from keeping a log of information. On top of that, an image of the server software will be publicly shared so that it can be audited by independent security researchers, and user devices will only interact with servers with auditable software.“It’s a clever kind of blockchain-ish attestation log to make sure the iPhone will only trust the software that’s been publicly put out there,” Federighi said, adding that Apple will soon issue a white paper about its security model. “It’s a really extraordinary step up in terms of the level of trust you can place in server computing.”As the company dives deeper into AI and the personal data it uses to deliver its services, he added, “it’s essential that you can know that no one—not Apple, not anyone else—would have access to any of the information used to process your request.”One of Apple’s most prominent executives indeed said that the firm is using “blockchain-ish” tech—but Federighi did not say specifically that the firm is using an actual blockchain, and certainly didn’t say that the tech juggernaut is building on a decentralized model.Decrypt reached out to Apple to clarify Federighi’s comments, but did not immediately receive a response.What it meansApple shared some details in an extensive security blog post on Monday about Private Cloud Compute (PCC), which Apple designed to handle user requests. As Federighi noted, it anonymizes user requests and then relies on servers that use publicly auditable software to handle those AI needs.Apple calls that last point “Verifiable Transparency.” Sound familiar?In essence, Apple will make its software images public to prove that its system is secure. Then, it will build a check into the system to ensure that devices can only interact with servers that use software that’s been shared publicly for auditing purposes. And that system is built with cryptography.“This promise, too, is an enforceable guarantee: user devices will be willing to send data only to PCC nodes that can cryptographically attest to running publicly listed software,” the post reads, with a bullet point further emphasizing that Apple will be “publishing the measurements of all code running on PCC in an append-only and cryptographically tamper-proof transparency log.”Furthermore, the post adds: “Specifically, the user’s device will wrap its request payload key only to the public keys of those PCC nodes whose attested measurements match a software release in the public transparency log. And the same strict code signing technologies that prevent loading unauthorized software also ensure that all code on the PCC node is included in the attestation.”Public keys? Nodes? A “cryptographically tamper-proof transparency log,” of all things? It’s not difficult to understand why Federighi would call it a “blockchain-ish” approach. It’s also easy to see why crypto-natives are taking shots at Apple on social media for not actually calling it a blockchain when it apparently shares so many commonalities.“Say blockchains without saying blockchains,” tweeted Wei Dai, Research Partner at crypto investment firm 1KX, with a screenshot from the blog post.But while the Private Cloud Compute model is designed to be transparent and invites public scrutiny, Apple is not launching a decentralized network: It’s still ultimately running the show as a centralized player. There’s no decentralized consensus model in play, and users still ultimately have to trust what Apple is saying regarding its privacy mechanisms.“That’s not my read,” tweeted Riccardo “fluffypony” Spagni, founder of privacy coin Monero, in reply to Dai. “I think it’s more like a linked list, or actually more like [Github]. There’s no consensus mechanism here, there’s a central publisher.”“This isn’t a blockchain,” Spagni added in a further reply.However, Apple has been exploring the potential for blockchain tech. In a patent application filed in 2023 and published earlier this year, Apple sought to patent a “Distributed Network Management System“ that explicitly mentions the potential use of blockchain in some implementations. Elsewhere, a recently granted Apple patent describes a “decentralized ledger” used in the process of publishing media assets.Private Cloud Compute isn’t a blockchain, based on what we know so far. But Apple said in its security post that more details are forthcoming, and the firm doesn’t appear to have shut the door on potential use cases for blockchain tech. What’s here is “blockchain-ish,” at least, in the words of Craig Federighi—and that’s an interesting claim from Apple all the same.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
+
+----------------
+
+SushiSwap dissolves DAO, repositions as Sushi Labs with new council structure - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            Decentralized exchange SushiSwap has rebranded as Sushi Labs, an autonomous company replacing the protocol’s decentralized autonomous organization (DAO), although the SushiSwap name will still be used for its DEX-focused operations.In a bid to address slowing growth and liquidity issues, SushiSwap has introduced a new business model under the name Sushi Labs. The revamp replaces the decentralized autonomous organization (DAO) with a “council structure” similar to that of derivatives protocol Synthetix.Sushi Labs will operate under four councils: the Sushi High Kitchen, the Treasury Council, the Grants Council, and the Ambassador Council. The High Kitchen, comprising six to eight members, will serve as the central governing body overseeing a multisig setup for transactions.Jared Grey, now Sushi Labs’ managing director, asserted that the new organizational structure, budget, and leveraging of successful products like Route Processor will help enhance liquidity on the Sushi DEX.
+“Many attribute Sushi’s stagnated growth and AMM liquidity issues to LPs migrating to other DEXs and seeking better yield. However, with our newly established organizational structure, sufficient budget, and leveraging successful products like Route Processor, we have the tools to enhance liquidity on the Sushi DEX,” Grey explains.
+The transition also involves a shift to a multitoken product suite, which Sushi claims will help distribute product costs and provide more reward opportunities for token holders.While the move has sparked debate and criticism for its centralized nature, with some community members accusing the protocol of a hostile takeover, Sushi maintains that the changes are necessary to address financial challenges and improve liquidity management.The decentralized exchange generated $1.62 million in fees in May 2023, a sharp decline compared to its performance during the previous bull cycle.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+If THIS Happens Cardano ADA is Going to Moon in ..... - YouTube
+
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+
+----------------
+
+Could Shiba Inu (SHIB) Price Lose Key Support Due to Selling?
+
+
+Shiba Inu’s (SHIB) price continues to show a drawdown in response to rapidly developing bearish market conditions.
+The surge in selling and declining confidence among SHIB holders will potentially catalyze the correction.
+Shiba Inu Investors Lose Optimism
+
+Shiba Inu’s price could decline in the coming days as SHIB holders continue to sell their holdings. The total supply on the exchange has noted a sharp uptick, bringing it to a six-month high.
+In the last 48 hours, the wallets across all exchanges have risen by more than 4.66 trillion SHIB. This $103 million worth of supply has been sold off by investors looking to secure whatever gains they have accumulated. The selling could also have been the result of investors offsetting their losses.
+Shiba Inu Supply in Exchanges. Source: Santiment
+This sentiment to prevent further losses has also been extended to some of the most secure investors. Long-term holders known for their resilience have been moving their assets.
+
+In the last few days, multiple spikes have been noted in the age-consumed metric. This metric calculates the total days lost by multiplying the total supply moved with the total number of days it has been since the last move.
+Spikes in the same hint at large amounts of supplies or very old coins moving, both of which are bearish for the asset. 
+Read More: How To Buy Shiba Inu (SHIB) and Everything You Need To Know
+Shiba Inu Age Consumed. Source: Santiment
+Thus, Shiba Inu’s price could be observed to be at a drawdown for these reasons.
+SHIB Price Prediction: One Last Support
+
+Shiba Inu’s price has already failed the breach of $0.00002584 and fallen out of the consolidation between this level and $0.00002267. The meme coin is now headed towards the critical support at $0.00002093, which has not been broken since April.
+There is a chance of a drop below it, potentially sending SHIB to $0.00002000. This would mark a multi-month low for the asset.
+Read More: Shiba Inu (SHIB) Price Prediction 2024/2025/2030
+Shiba Inu Price Analysis. Source: TradingView
+But if Shiba Inu’s price bounces back from $0.00002093, it could recover slightly. This would result in SHIB’s continuing consolidation, also invalidating the bearish thesis.
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Analysts Remain Optimistic Despite Large Ethereum Sell-Off
+
+
+							
+
+A massive $1.1 billion Ethereum dump was made by a wallet collecting ETH since November 2018.
+
+
+
+Ethereum’s current market behavior is seen as a precursor to a bullish altcoin season.
+
+
+
+Market sentiment remains optimistic with predictions of a $10k ETH in the current bull run.
+
+
+
+
+An Ethereum whale transaction has captured the attention of the crypto community. A wallet, which had been accumulating Ethereum since November 11, 2018, executed a massive $1.1 billion sale, split into two transactions of 150,000 ETH each. The identity behind these transactions remains unknown, but the sheer size of the trade has sparked widespread discussion and analysis.
+
+
+
+
+
+
+
+Despite this large-scale sell-off, market sentiment towards Ethereum and altcoins remains notably optimistic. Prominent voices in the crypto community, such as ParabolicPump, argue that Ethereum’s price movements are indicative of broader market trends. 
+
+
+
+According to ParabolicPump, Ethereum’s price chart suggests the market is still within a bullish cycle that has yet to peak. The current live price of Ethereum stands at $3,532.80, reflecting a 3.77% decrease over the past 24 hours. However, this short-term dip has not dampened the long-term outlook.
+
+
+
+
+
+
+
+
+
+Crypto analysts suggest that the current price action is intended to shake out weaker holders, and as the bull cycle continues, significant gains are anticipated. Ethereum has not yet reached new all-time highs in the current cycle, as highlighted by ParabolicPump, who projects that Ethereum’s price could reach $10,000. Reaching this milestone would likely spark more interest from retail investors, further driving the market.
+
+
+
+This optimistic outlook extends beyond Ethereum to the altcoin space. Analysts believe that near the end of the cycle, altcoins will see their biggest price fluctuations. Known as “Altseason,” this period is marked by parabolic increases for numerous altcoins, propelled by the popularity of prominent cryptocurrencies such as Ethereum.
+
+
+
+
+
+
+
+The recent Ethereum sale and the ongoing bullish sentiment present a complex landscape for investors. While large whale movements can signal potential market volatility, the overarching narrative suggests continued growth.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+This Is Why Bitcoin Could Rally Post-FOMC Meeting
+
+
+Bitcoin’s price has consistently exhibited notable volatility around Federal Open Market Committee (FOMC) meetings. 
+Historical data from recent meetings indicates that Bitcoin tends to experience a drop in value before the FOMC’s interest rate decisions, followed by significant gains post-announcement.
+Bitcoin Dips Before FOMC, Rallies Post Fed Decision
+
+The Federal Open Market Committee is a branch of the Federal Reserve System responsible for overseeing the nation’s open market operations. The FOMC meetings are crucial events where key decisions on the interest rate at which banks lend to each other and monetary policy are made.
+These meetings typically occur eight times a year and involve a thorough discussion of the US economy and the various factors influencing its performance.
+On December 13, 2023, the FOMC decided to hold rates steady between 5.25% and 5.50%. Leading up to this meeting, Bitcoin’s price fell by 8.76%. However, after the announcement, Bitcoin surged by 22.07%. This pattern repeated on January 31, 2024, when the FOMC again held rates steady, causing a 4.55% drop in Bitcoin’s value before the meeting and a 26.34% increase afterward.
+Read more: Bitcoin (BTC) Price Prediction 2024 / 2025 / 2030
+The trend continued on March 20, 2024, with Bitcoin dropping 11.82% before the FOMC meeting and rising 18.09% post-decision. Similarly, on May 1, 2024, Bitcoin saw a 12.69% decline before the rates were held steady and a 15.95% rise after the announcement.
+Bitcoin Price Performance. Source: TradingView
+Looking ahead to the upcoming FOMC meeting on June 12, 2024, Bitcoin has already dropped 8.25%. US Senators Elizabeth Warren, Jacky Rosen, and John Hickenlooper have urged the Federal Reserve to cut rates, citing the adverse effects of current monetary policy on inflation and the economy. 
+
+
+“The Fed’s monetary policy is not helping to reduce inflation. Indeed, it is driving up housing and auto insurance costs—two of the key drivers of inflation—threatening the health of the economy and risking a recession that could push thousands of American workers out of their jobs,” the senators stated in their letter to Fed Chair Jerome Powell.
+
+Read more: How to Protect Yourself From Inflation Using Cryptocurrency
+Given the historical data, market watchers anticipate a potential rebound in Bitcoin’s price post-announcement. The consistent pattern suggests that regardless of the Fed’s decision, Bitcoin often recovers and even thrives after the initial uncertainty surrounding the FOMC meetings dissipates.
+Understanding these trends can help investors make informed decisions, balancing the risks and opportunities presented by Bitcoin’s inherent volatility around major economic announcements. 
+
+
+Disclaimer
+In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+New Crypto IEO To Watch - eTukTuk ($TUK) Listings Soon
+
+
+This article was paid for*
+One of the hottest crypto presales of 2024 – eTukTuk ($TUK) – is now in its final stages and could end soon. The presale has already raised over $3.4 million, a sign of its strong demand and the growing potential of green cryptocurrencies. 
+eTukTuk’s play-to-earn game – inspired by Crazy Taxi – as well as its long-term goal of popularizing eTukTuks in developing nations such as Sri Lanka have caught the attention of smart money traders. 
+A few popular YouTube trading experts such as Gain Trading Crypto have tipped eTukTuk as the next 100x cryptocurrency. 
+
+VIDEO
+
+Earn Rewards for Playing eTukTuk’s P2E Games
+The eTukTuk project identifies renewable energy to be the need of the hour, with climate change and global warming becoming increasingly dire every year. For instance, UK-based NGO Christian Aid reported that extreme weather – caused by anthropogenic climate change – is costing $41 billion globally. 
+eTukTuk has come up with a unique solution to combat this issue and raise awareness about the worsening crisis. 
+It has launched play-to-earn games – now available on both Android and iOS devices – inspired by the popular Crazy Taxi game. Players can race their eTukTuks through the vibrant streets of Sri Lanka, win and earn free crypto in the form of additional $TUK tokens. 
+
+Players can continue to unlock new cities, upgrade their vehicles and earn bonus rewards, simply by continuing to participate in the thrilling races. Additionally, investors can stake their $TUK holdings and earn passive income, currently at an APY of over 80%. 
+
+However, its play-to-earn games are only a part of the broader eTukTuk solution. 
+The project aims to create an EV movement in developing nations such as Sri Lanka by tackling common obstacles. For instance, it is creating charging stations in remote areas, ensuring that the eTukTuks become just as viable as the fossil fuel-based tuk-tuks that are prevalent in these nations. 
+Similarly, eTukTuk is looking to launch its own Zero Emission Vehicles (ZEVs), a more cost-effective and sustainable alternative to the common tuk-tuks. 
+eTukTuk Price Prediction From Experts
+As previously mentioned, smart money traders are backing eTukTuk as one of the most important new crypto IEOs to watch, owing to its play-to-earn utility as well as its strong performance during the presale. 
+In a recent video, popular trader Michael Wrubel – who has over 300k subscribers – claimed to be bullish on eTukTuk. 
+
+VIDEO
+
+Similarly, Cilinix Crypto tipped $TUK as an excellent long-term investment. 
+
+VIDEO
+
+eTukTuk could also be one of the cryptocurrencies that benefit significantly from Elon Musk and the upcoming US presidential elections. 
+For instance, a recent report highlighted that Elon Musk could land an advisory role in the Trump administration. Despite Musk’s recent conservative leanings, he remains an avid supporter of renewable energy, especially EVs, considering his ownership of Tesla. 
+Being one of the top green crypto presales, eTukTuk could witness a significant bounce in such a scenario. $TUK could even be one of the rare crypto tokens that could benefit from a Biden victory, considering the Democrat’s pro-renewable energy stance. 
+Interested buyers looking to get into eTukTuk early have no time to lose, considering that its presale is now in its final stages. They can head to the eTukTuk website and use the over-the-counter widget to purchase the token.
+
+*Cryptonomist did not write the article or test the platform.
+
+
+----------------
+
+US gov’t chasing USDT held on Binance after $1M pig-butchering scam
+
+
+The US has launched a forfeiture complaint against almost $200,000 worth of tether (USDT) held on Binance in connection to pig-butchering scams that stole over $1 million. That’s according to documents filed in the District Court of Columbia.
+The court claims that the USDT represents the proceeds of “wire fraud, wire fraud conspiracy, money laundering, and money laundering conspiracy.” 
+According to the documents submitted on June 7, an anonymous victim of two pig-butchering scams, reported to the police that they had lost roughly $1.1 million between January 2021 and December 2022. 
+The victim first developed a romantic relationship with a scammer known as Eva Markus on Facebook Dating, believing they were an engineer and diamond mine owner. Markus convinced the victim her diamond mine had exploded and that she needed the funds to hire an attorney to return to America. The victim transferred more than $400,000.
+
+Read more: Another Chinese money laundering scheme tied to Deltec and Tether
+The victim then started a second romantic relationship with another woman on Facebook Dating claiming to be called Lisa Warren. Warren claimed to invest in crypto and convinced the victim, who was looking to recoup their losses from Markus, to send her $55,000 in bitcoin as an investment.
+The victim was then persuaded to sell their home and hand over the profits as a crypto investment, altogether sending roughly $600,000 in crypto. However, after some digging and recovering only $15,000 in funds, the victim realized they had been scammed and alerted the police. 
+Binance froze USDT for FBI 
+The bitcoin sent to Warren’s wallet address was used to track down the illicit funds. Authorities discovered funds from the Markus scam had been mostly cashed out but that roughly half of the funds lost to Warren remained intact. 
+The FBI traced the crypto transactions to a Binance account held under the name Izuchukwu Henry Okolo. Binance discovered in November 2023 that Okolo had converted their bitcoin to 196,721 USDT. The exchange froze the funds and alerted the FBI who later seized them.
+Binance has come under increased scrutiny after US regulators appointed legal firm Sullivan & Cromwell and forensic accounting expert Forensic Risk Alliance to monitor the exchange. The firms will check that Binance is adhering to money-laundering and sanction laws following its $4.3 billion settlement with the US government. 
+The documents also disclose that criminals involved in the pig butchering scams may be victims themselves. The US has also found Okolo’s submitted claims about the nature of the seized USDT to be false. 
+Got a tip? Send us an email or ProtonMail. For more informed news, follow us on X, Instagram, Bluesky, and Google News, or subscribe to our YouTube channel.
+ 
