@@ -1,106 +1,3 @@
-Shiba Inu Issues Major Wallet Alert for All SHIB Holders
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-The Shiba Inu community is facing a significant threat from a surge of fraudulent websites designed to steal user funds. These scams, some masquerading as wallet connection tools, are targeting unsuspecting SHIB holders by enticing them to connect their wallets under pretenses.In this light, Shibarmy Scam Alerts, an X handle dedicated to exposing scams, has issued an alert to the Shiba Inu community to beware of fake wallet connection tools.Of recent, numerous fake websites have emerged across the cryptocurrency space. In this regard, Shiba Inu holders need to be aware that there is no legitimate reason to connect their wallets to any website for syncing with the network, refreshing rewards, or fixing liquidity pool issues. These functions do not require any external website connections, and any site suggesting otherwise is a scam. Shibarmy Scam Alerts reiterates that there is no website Shiba Inu holders need to connect their wallet to so it can sync up with the network, refresh rewards, or fix any issues they might be having with liquidity pools.The Shiba Inu-focused X account shares tips on how Shiba Inu community members can protect themselves from such scams, which includes verifying the legitimacy of a website before connecting their wallets.Shiba Inu holders should also ensure they use official links from trusted sources. Also as a precaution, Shiba Inu community members should keep themselves updated with the latest warnings and alerts from the Shiba Inu team. Sharing related information with fellow community members can also help prevent potential losses.Finally, the key takeaway for the Shiba Inu community is to remain alert and cautious; and before connecting their wallets to any site, they should always double-check its legitimacy.
-
-
-
-----------------
-
-Ripple Initiates Discussions with NBG to Expand to Georgia Coin Edition
-
-
-							
-
-As per recent reports, Ripple has been planning to expand its footprint in Georgia.
-Ripple’s executives have communicated with the National Bank of Georgia (NBG).
-Previously, NBG announced Ripple as the technology partner of its CBDC project, Digital Lari.
-
-
-
-
-Recent reports suggest that the blockchain firm Ripple is planning to expand its footprint in Georgia. As per a recent X post shared by Ripple’s CBDC Advisor Antony Welfare, Ripple’s Vice President James Wallis and Ripple partner EPAM Systems’ representative Alistair Brown have been in communication with the National Bank of Georgia (NBG).
-
-
-
-
-
-
-
-Welfare shared a screenshot that highlighted the key focus of the Ripple executives’ meeting with the NBG. Reportedly, the discussion focused on “exploring potential avenues for collaboration in the digitalization of the Georgian economy.”
-
-
-
-
-
-
-
-
-
-Notably, Ripple is the official technology partner of NBG’s Central Bank Digital Currency (CBDC) project, Digital Lari. In a press release dated November 2, 2023, Ripple asserted that NBG chose Ripple after a competitive selection process.
-
-
-
-Reflecting on the National Bank’s statement, Ripple stated that the selection was based on Ripple’s “deep understanding of the project’s purposes and use cases, as well as a full commitment to the project’s success, sustainable business continuity, clear project development roadmap, and gradual deployment approach to use-cases.” In addition, the bank highlighted Ripple’s experience in “conducting real-life pilot project deployments, ranging from primary CBDC digital infrastructure to smart contracts and tokenization.”
-
-
-
-Despite these developments, Ripple’s native token, XRP is moving through a bearish trail. As of press time, XRP stands at a price of $0.4941, marking a slight dip of 0.96% in one day. Over the past 7 days and 30 days, the token has experienced more notable declines of 4.65% and 5.35%, respectively. A significant decline of 66% in the 24-hour trading volume of XRP showcases the token’s lowering interest in the community. 
-
-															
-									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
-								
-							
-						
-						
-						
-
-----------------
-
-How To Create Hyper-Realistic AI Images with Stable Diffusion - Decrypt
-
-Are you ready to blur the line between reality and AI-generated art?If you follow the generative AI space, and image generation in particular, you're likely familiar with Stable Diffusion. This open-source AI platform has ignited a creative revolution, empowering artists and enthusiasts alike to explore the realms of human creativity—all on their own computers, for free.With any simple prompt, you can get a picturesque landscape, a fantasy illustration, a 3D creature or a cartoon. But the real eye-popping capabilities are in the ability of these tools to create stunningly realistic imagery.To do so requires some finesse, however, and some attention to detail that generalistic models sometimes lack. Some avid users can quickly tell when an image is generated with MidJourney or Dall-e just by looking at it. But when it comes to creating images that fool the human brain, Stable Diffusion's versatility is unbeaten.From the meticulous handling of color and composition to the uncanny ability to convey human emotion and expression, some custom models are redefining what's possible in the world of generative AI. Here are some specialized models that we think are la crème de la crème of hyper-realistic image generation with Stable Diffusion.We used the same prompt with all of our models and avoided using LoRas—Low-Rank Adaptation add-on modifiers—to be more fair in our comparisons. Our results were based on prompting and text embeddings. We also used incremental changes to test small variations in our generations.The promptsOur positive prompt was: professional photo, closeup portrait photo of caucasian man, wearing a black sweater, serious face, dramatic lighting, nature, gloomy, cloudy weather, bokehOur negative prompt (instructing Stable Diffusion on what not to generate) was: embedding:BadDream, embedding:UnrealisticDream, embedding:FastNegativeV2, embedding:JuggernautNegative-neg, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, embedding:negative_hand-neg.All of the resources used will be listed at the end of this article.Stable Diffusion 1.5: the AI veteran that's aging with graceStable Diffusion 1.5 is like a good old American muscle car that beat fancier, latest-model cars in a drag race. Developers have been messing around with SD1.5 for so long that it effectively buried Stable Diffusion 2.1 in the ground. In fact, a lot of users today still prefer this version over SDXL, which is two generations newer.When it comes to creating images that are virtually indistinguishable from real-life photos, these models are your new best friends.1. Juggernaut RbornJuggernaut Rborn is a fan-favorite model is known for its realistic color composition and impressive ability to differentiate between subjects and backgrounds. This model is particularly good at generating high-quality skin details, hair, and bokeh effects in portraits.The latest version has been fine-tuned to deliver even more compelling results. Juggernaut has always offered color compositions that tend to be more realistic than the saturated, unnatural colors of many other Stable Diffusion models. Its generations tend to be warmer, more washed out, similar to an unedited RAW photo.Getting the best results will still require some tweaking: use the DPM++ 2M Karras sampler, set to around 35 steps, and an average CFG scale of 7.2. Realistic Vision v5.1A true trailblazer in the realm of photorealistic image generation, Realistic Vision v5.1 brought a pivotal moment in the evolution of Stable Diffusion, enabling it to compete against MidJourney and any other model in terms of photorealism. The v5.1 iteration excels at capturing facial expressions and imperfections, making it a top choice for portrait enthusiasts. It also handles emotions well and focuses more on the subject than the background, ensuring the final result is always realistic. This model is a popular choice thanks to its impressive performance and versatility.There is a newer version (v6.0), but we like V5.1 more because we feel it is still better in the little details that matter in realistic images. Things like skin, hair, or nails tend to be more convincing in 5.1, but other than that, results are similar, and the improvements seem incremental.3. I Can’t Believe It’s Not PhotographyWith its versatility and impressive lighting effects, the cheekily named I Can’t Believe It’s Not Photography model is a great all-around option for hyper-realistic image generation. It is very creative, handles different angles well, and can be used for a variety of subjects, not just people.This model is particularly good at 640x960 resolution —which is higher than original SD1.5— but can also deliver great results at 768x1152 which is a level of resolution native to SDXL.For optimal results, use the DPM++ 3M SDE Karras or DPM++ 2M Karras sampler, 20-30 steps, and a 2.5-5 CFG scale (which is lower than usual).Honorable Mentions:Photon V1: This versatile model excels in producing realistic results for a wide range of subjects, including people.Realistic Stock Photo: If you want to generate people with the polished and perfected look of stock photos, this model is an excellent choice. It creates convincing and accurate images without any skin imperfections.aZovya Photoreal: Although not as well-known, this model produces impressive results and can enhance the performance of other models when merged with their training recipes.Stable Diffusion XL: The Versatile VisionariesWhile Stable Diffusion 1.5 is our top pick for photorealistic images, Stable Diffusion XL offers more versatility and high-quality results without resorting to tricks like upscaling. It requires a little bit of power, but can be run with GPUs with 6GB of vRAM—2GB less than SD1.5 requires.Here are the models that are leading the charge.1. Juggernaut XL (Version x)Building on the success of its predecessor, Juggernaut XL brings a cinematic look and impressive subject focus to Stable Diffusion XL. This model delivers the same characteristic color composition that steps away from saturation, along with good body proportions and the ability to understand long prompts. It focuses more on the subject and it defines the factions very well—as well as any SDXL model can right now.For the best results, use a resolution of 832x1216 (for portraits), the DPM++ 2M Karras sampler, 30-40 steps, and a low CFG scale of 3-7.2. RealVisXLCustomized with realism in mind, RealVisXL is a top choice for capturing the subtle imperfections that make us human. It excels at generating skin lines, moles, changes of tones, and jaws, ensuring that the final result is always convincing. It is probably the best model to generate realistic humans.For optimal results, use 15-30+ sampling steps and the DPM++ 2M Karras sampling method.3. HelloWorld XL v6.0Generalistic model HelloWorld XL v6.0 offers a unique approach to image generation, thanks to its use of GPT4v tagging. While it may take some time to get used to, the results are well worth the effort.This model is particularly good at delivering the analog aesthetic that is often missing in AI-generated images. It also handles body proportions, imperfections, and lighting well. However, it is different from other SDXL models at its core, which means that you may need to adjust your prompts and tags to achieve the best results.For comparison, here is a similar generation using the GPT4v tagging, with the positive prompt: film aesthetic, professional photo, closeup portrait photo of caucasian man, wearing black sweater, serious face, in the nature, gloomy and cloudy weather, wearing a wool black sweater, deeply atmospheric, cinematic quality, hints of analog photography influence.Honorable mentions for SDXL include: PhotoPedia XL, Realism Engine SDXL and the deprecated Fully Real XL.Pro tips for hyper-realistic imagesNo matter which model you choose, here are some expert tips to help you achieve impressive, lifelike results:
-
-Experiment with embeddings: To enhance the aesthetics of your images, try using embeddings recommended by the model creator or use widely popular ones like BadDream, UnrealisticDream, FastNegativeV2, and JuggernautNegative-neg. There are also embeddings available for specific features, such as hands, eyes, and specific .
-
-
-Embrace the power of LoRAs: While we left them out here, these handy tools can help you add details, adjust lighting, and enhance skin texture in your images. There are many LoRAs available, so don't be afraid to experiment and find the ones that work best for you.
-
-
-Use face detailing extension tools: These features can help you achieve excellent results in faces and hands, making your images even more convincing. The Adetailer extension is available for A1111, while the Face Detailer Pipe node can be used in ComfyUI.
-
-
-Get creative with ControlNets: If you're a perfectionist when it comes to hands, ControlNets can help you achieve flawless results. There are also ControlNets available for other features, such as faces and bodies, so don't be afraid to experiment and find the ones that work best for you.
-
-For help gettings started, you can read our guide to Stable Diffusion.Here are the resources we referenced in this guide:SD1.5 Models:SDXL Models:Embeddings:We hope you found this tour of Stable Diffusion tools helpful as you explore AI-generated images and art. Happy creating!Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-Key Reason Why Bitcoin Price Has Not Topped $70K Named by Top Trader
-
-
-
-
-Cover image via www.freepik.com
-
-Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
-
-
-
-According to trader Gert van Lagen, long-term Bitcoin holders distributing their acquired coins to new ETF holders is the key reason why the leading cryptocurrency by market capitalization is yet to decisively break the $70,000 level.In mid-May, van Lagen noted that the distribution of long-term Bitcoin holders to short-term ones was already in "full swing." This assumption is based on recent on-chain data that shows the roll over in coins that were held longer than 12 months."Parabolic" price discoveryVan Lagen has stated that previous distributions of this kind led to "parabolic" price discoveries at first. These price discoveries would be followed by prolonged bear markets.Despite Bitcoin failing to gain a footing above the crucial $70,000 level, the consensus appears to be that the ongoing bull run is far from over.As reported by U.Today, Galaxy Digital CEO Mike Novogratz has predicted that the price of the bellwether cryptocurrency could potentially reach $100,000 by the end of the year if it manages to surpass the major resistance area around $73,000 in the near future.Both Fundstrat co-founder Tom Lee and prominent commodity trader Peter Brandt see the price of Bitcoin potentially peaking at $150,000 during this cycle.Bitcoin ETFs are on rollU.S.-based spot exchange-traded funds (ETFs) have managed to record 19 days of consecutive inflows. As reported by U.Today, these products recorded the second-largest inflows ever ($880 million) on Tuesday.According to leading analyst Eric Balchunas, Bitcoin ETFs are showing impressive staying power despite their volatile performance.Throwing wrench in worksDespite highly impressive ETF flows, the Bitcoin price plunged on Friday following the release of U.S. jobs data. The number of jobs added in May was much higher than expected. The strength of the labor market will likely dissuade the U.S. Federal Reserve from speeding up rate cuts. Such a scenario will not be beneficial for risk assets like Bitcoin.
-
-
-
-----------------
-
 Decline in crypto-margined futures signals shift towards stable collateral | CryptoSlate
 
   CryptoSlate on X x.com/cryptoslate Follow us on X for your essential dose of daily crypto news and deep dives. Join 55k followers 
@@ -9297,3 +9194,85 @@ Disclaimer
 In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
 
  
+
+
+----------------
+
+Uniswap Labs Supercharges Gaming Portfolio With Acquisition Of 'Crypto: The Game' - Details | Bitcoinist.com
+
+
+								Uniswap Labs made a significant move into the blockchain gaming industry with its recent acquisition of ‘Crypto: The Game’ (CTG), an on-chain survival game. 
+Notably, the second season of CTG witnessed unprecedented success, with all 800 available spots selling out within a mere 13 minutes. Recognizing the game’s popularity among both the core crypto community and outsiders, Uniswap Labs announced the acquisition on Monday.
+Uniswap Labs And CTG Founders Team Up
+In a statement to Fortune, Mary-Catherine Lader, Chief Operating Officer at Uniswap Labs, expressed excitement about the acquisition, saying, We’ve seen CTG generate a ton of excitement, and Uniswap is focused on making on-chain experiences more human and fun.” While the exact purchase amount remains undisclosed, it involves a combination of cash, tokens, and equity.
+
+Under the terms of the acquisition, the founders of CTG, Dylan Abruscato, Tyler Cagle, and Bryan Lee, will join the Uniswap team. Together, they are currently collaborating on the development of season three while exploring new interactive crypto experiences for consumers. 
+Importantly, the game will not simply become a promotional platform for Uniswap’s wallet or exchange, as clarified by the companies during a conference call.
+Dylan Abruscato, co-founder of Crypto The Game, expressed enthusiasm about the support from Uniswap Labs, stating, “Now we have the full force of Uniswap Labs behind us, we think that’s going to help us make season three the best one yet.” 
+Convergence Of Gaming And Crypto Communities?
+Inspired by popular TV shows like Survivor and Squid Game, CTG’s first two seasons followed a format where contestants purchased 0.1 Ethereum (ETH) (approximately $367) to join one of ten tribes consisting of 80 players. 
+Over the course of ten days, participants engaged in daily challenges voted each other out and ultimately competed for a grand prize. Season one saw a Japanese player claim a pot of over $150,000, while the prize pool grew to around $250,000 in season two.
+Uniswap Labs sponsored a challenge during season two, joining forces with partners such as Adidas and Wormhole. This sponsorship reportedly provided Uniswap with valuable insights into the game’s ability to attract new users to the world of crypto. 
+According to Fortune Magazine, CTG has gained a “cult-like” following within the crypto community, with enthusiasts closely following the game’s developments through various platforms, including podcasts and media outlets.
+
+Dylan Abruscato emphasized the diverse fan base of CTG, which comprises crypto Twitter enthusiasts, venture capitalists, founders, and influential figures like 3LAU, Packy McCormick, Jesse Pollak, and Bored Elon. 
+Significantly, the game has also managed to captivate “normies” (individuals new to crypto) who make up about 10%–15% of the audience, presenting an opportunity to onboard new users into the world of decentralized finance (DeFi).
+Although the precise number of viewers during the previous season remains unknown, CTG recorded approximately 50,000 unique visitors to its website over the ten-day gameplay period. 
+Dylan Abruscato described the game as a “24/7 crypto reality show” with villain arcs, drama, and fan favorites, which has become a spectacle within the crypto community.
+The daily chart shows UNI’s price recovery. Source: UNIUSD on TradingView.com
+Currently, the UNI token is trading at $10.29, showcasing a significant 4.5% price increase subsequent to the announcement of the acquisition. 
+Moreover, the token has experienced a remarkable 7% surge in the past week alone, contributing to its overall upward trend observed over the last month, which has resulted in an impressive 45% price increase.
+Featured image from DALL-E, chart from TradingView.com 
+								
+								
+																	
+															
+						
+
+----------------
+
+How Unisat's PIZZA airdrop skyrocketed its on-chain activity - AMBCrypto
+
+
+
+Unisat saw spikes in some key on-chain metrics.
+The platform has concluded its Pizza airdrop.
+
+Analysis showed that Unisat, Bitcoin service provider known for its Ordinals marketplace, experienced a spike in several on-chain metrics, including volume, transactions, and users lately. 
+This surge was attributed to the recently concluded PIZZA airdrop, which significantly increased activity on the platform.
+Unisat sets volume record
+An analysis of marketplaces on the Bitcoin network showed that Unisat has recently experienced a spike in some key metrics. 
+A study of the volume on Dune Analytics revealed that it has been growing steadily over the past few days, with a significant increase on 9th June. 
+The chart showed that the platform recorded over $4.5 million in volume that day, marking its all-time high (ATH). 
+Furthermore, this was the highest daily volume recorded on any platform on 9th June.
+Source: Dune Analytics
+Additionally, an analysis of the number of transactions showed consistent growth. 
+The chart indicated that the number of transactions surpassed 8,000 as of this writing, marking an all-time high (ATH). Similar to the volume, this number was also the highest recorded on any platform.
+Further analysis revealed that with the spike in volume, Unisat controlled over 48% of the marketplace’s total volume. Additionally, its share of the transactions was over 50%.
+Unisat records ATH in users
+Despite the surge in volume and transactions, data showed that the cumulative unique users on Unisat were still behind other major platforms.
+ As of this writing, the number of unique users was around 125,000. While this is relatively low compared to other platforms, it represents an increase from previous weeks.
+The change in the number of users became more evident in the daily user statistics.
+ Analysis of the data showed that the number of unique daily users spiked to a new high, surpassing 9,500. This was the highest number Unisat has ever seen. 
+It was also the highest among the other platforms. The closest competitor had around 6,000 daily users.
+Pizza airdrop contributes to spike in metrics
+The primary reason for the spike Unisat saw in these metrics was its Pizza airdrop. 
+A few months ago, the platform announced the airdrop of its token, PIZZA. According to its post on 9th June, all the PIZZA tokens have been airdropped to addresses that claimed them.
+ 
+
+
+
+
+
+
+----------------
+
+'Dogecoin Killer' Shiba Inu's Burn Rate Explodes 13458% As Shibarium Transactions Spike, 7.7M SHIB Kicked Out Of Circulation - Benzinga
+
+Shiba Inu's SHIB/USD burn rate shot up exponentially in the last 24 hours amid a sharp increase in the transactions on the layer-1 blockchain, Shibarium.What Happened: Around 7.7 million SHIB tokens were kicked out of circulation, according to data from Shibburn, marking an astounding 13458.99% jump.Coin burning happens when a cryptocurrency token is intentionally sent to an unusable wallet address to remove it from circulation. This is done to create scarcity and boost its demand and market value.As of this writing, about 410.72 trillion SHIBs have been burned. Why It Matters:  The jump in burn rate comes as new transactions on Shibarium blockchain spiked 45% in the last 24 hours. Increased transactions typically lead to a higher burn rate for the token.The increase in on-chain activity was also supported by a 28% increase in daily active addresses in the last 24 hours, as reported by IntoTheBlock.That said, large transactions volume plunged 52%, while holdings of long-term investors dropped by 0.02%, indicating selling pressure. Price Action: At the time of writing, SHIB was exchanging hands at $0.0000226, falling 3.15% in the last 24 hours, according to data from Benzinga Pro. The second-largest memecoin was trading 7% lower over the last week.Read Next: Edward Snowden Takes A Jab At Elizabeth Warren’s Anti-Bitcoin Stance Through The Infamous ‘We’re All Going To Die’ Remark Broadcast On China-Controlled TVMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
+
+----------------
+
+Edward Snowden Takes A Jab At Elizabeth Warren's Anti-Bitcoin Stance Through The Infamous 'We're All Going To Die' Remark Broadcast On China-Controlled TV - Benzinga
+
+Renowned whistleblower and privacy advocate Edward Snowden poked fun at Senator Elizabeth Warren (D-Mass.) for her anti-Bitcoin BTC/USD stance by comparing it with the bizarre perspective of the Chinese Communist Party.What Happened: In a cheeky X post on Monday, Snowden wrote, "Elizabeth “banks should control everything” Warren: nobody will ever hate bitcoin more than me; the chinese communist party: hold my maotai."Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
