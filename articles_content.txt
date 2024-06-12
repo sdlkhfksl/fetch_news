@@ -1,234 +1,3 @@
-Coinbase Proposes New Metric To Accurately Track Blockchain and Crypto Adoption - The Daily Hodl
-
-
-								Coinbase, the largest crypto exchange in the US, says there’s a need to accurately measure the true adoption of blockchains beyond what already exists.
-In a new blog post, Coinbase says that as more applications launch, tracking the adoption of blockchain ecosystems becomes difficult as traditional metrics like total transactions or daily active addresses become distorted due to spam and Sybil attacks – an exploit that involves the forging of multiple identities in peer-to-peer networks.
-
-
-
-
-
-
-
-
-
-
-To address these difficulties, Coinbase proposes using the h-index, which was originally created to measure the productivity and impact of scientific publications.
-Coinbase says it has taken the h-index and adapted it to blockchains by tracking the number of addresses that have been on the receiving end of transactions the same number of times.
-Says Coinbase,
-“The h-index originated in academia as a way to quantify the research output and impact of a researcher, calculated by counting the number of publications that have been cited at least that same number of times. (For example, five publications that have been cited five times each would have an h-index of five.) 
-We have adapted this metric to measure the activity on blockchain networks by looking at the number of addresses that have been on the receiving end of transactions at least that same number of times. In other words, an h-index of 100 means that 100 different receiving addresses had received transactions from at least 100 unique sending addresses over a given time frame.”
-Using the new metric, Coinbase says that out of all the Ethereum Virtual Machine (EVM)-compatible chains, ETH has the strongest level of adoption, followed by Base, Arbitrum (ARB), Optimism (OP), Polygon (MATIC), Avalanche (AVAX) and Fantom (FTM).
-“Our findings indicate that Ethereum and Base have the most widespread user activity of those measured, with Arbitrum and Polygon PoS following close behind.”
-Source: Coinbase
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Solana To Flip Ethereum And Become "Altcoin Leader" In Next Bull Cycle: Analyst
-
-
-								Solana and top cryptocurrencies like Ethereum and Bitcoin are struggling at spot rates. Following the plunge on June 6, prices are under pressure, cementing the position of sellers who have been dominant since late May 2024. 
-Will The Solana Uptrend Remain?
-Even so, some analysts are upbeat, expecting not only altcoins to recover in the sessions ahead but specifically for Solana, a top-5 coin, to emerge as a leader in the next cycle. 
-
-In a post of X, one analyst noted that provided bulls maintain the current uptrend, rejecting any attempt for lower lows, SOL will continue to float higher. 
-Solana in an uptrend | Source: @0xGumshoe via X
-Of note, this will continue the trend seen from the better part of H2 2023, when the coin rose from obscurity to become one of the top performers, even outdoing Bitcoin. Looking at the daily chart, SOL is up 100% from January 2023 lows and roughly 8X from the pits of September 2023.
-Even though there has been a cool-off after the rally to as high as $210 in March 2024, the uptrend remains. So far, SOL is down 25% from March peaks, with prices retesting a key support trend line. As bulls soak in selling pressure, attempting to reject bears of June 6, keeping prices above $160 will be crucial.
- 
-Solana price trending sideways on the daily chart | Source: SOLUSDT on Binance, TradingView
-Though technical candlestick formations support this bullish outlook, there are favorable developments from the fundamental side of the equation. 
-Solana Finds Adoption But Will Regulators Crack The Whip?
-Increasingly, more financial institutions are integrating Solana to future-proof their offerings. So far, PayPal, Visa, and Stripe support Solana. 
-Most importantly, as they integrate Solana, they recognize the need to adapt to rapidly changing user preferences, most of which are looking for cheaper and faster transactions. Solana boasts a theoretical throughput of up to 65,000 transactions per second (TPS).
-Meanwhile, though Ethereum has the largest network, it can only process 15 transactions every second, negatively impacting transaction fees. Depending on network demand, transferring tokens or executing smart contracts on Ethereum can be expensive. Fees fluctuate and, at one point, rose to over $50, according to YCharts data.
-Ethereum gas fees | Source: YCharts
-Though Solana is fast becoming a choice for institutions and meme coin deployers, there are ongoing challenges. In lawsuits filed by the United States Securities and Exchange Commission (SEC) against Binance and Coinbase, the regulator alleges that Solana is an unregistered security. 
-
-At the same time, unlike BTC and ETH, SOL, listed on the CME market, lacks a developed futures market. This absence, considered when the United States SEC wants to approve an exchange-traded fund (ETF), may take years before the product goes live.
-Feature image from Canva, chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-Optimism Celebrates Stage 1 Decentralization With Permissionless Fault Proofs - The Defiant
-
-Users can now permissionlessly execute withdrawals from OP Mainnet to Layer 1 Ethereum.The Optimism ecosystem is celebrating a significant milestone in its roadmap towards decentralization.On June 10, Optimism, the team behind the Layer 2 network, OP Mainnet, launched support for permissionless fault proofs on the network. The upgrade allows users to execute ETH and ERC-20 withdrawals without requiring actions from centralized third parties, and enables any OP Mainnet user to challenge and remove invalid withdrawals in exchange for compensation.“Governance-approved, permissionless fault proofs are live on OP Mainnet, and with them, the OP Stack arrives at Stage 1 [decentralization],” Optimism said. “In the coming months, we seek to roll out additional proof systems… on testnet.”The Optimism community overwhelmingly voted in favor of adopting permissionless fault proofs in a governance proposal that ended on May 30.Permissionless fault proofs will also roll out across other networks leveraging Optimism’s OP Stack infrastructure, including Base, Mode, and Zora, in the near future.Stage 1 decentralizationOptimism said OP Mainnet has now achieved “Stage 1” decentralization, a term coined by Vitalik Buterin to describe when a Layer 2 network is operating with “limited training wheels” in place.Withdrawals from rollups are executed through the network posting a Layer 2 state root value to the Ethereum mainnet. The root value allows the Ethereum mainnet to verify that funds have been withdrawn from Layer 2.Buterin said that Stage 1 rollups must feature an operational fraud or validity proof scheme enabling a project to accept or reject state roots in a decentralized fashion.Permissionless fault proofs allow any user to post root values so long as they provide collateral that can be forfeited in the event they behave dishonestly. Accounts disputing transactions must also provide collateral that can be slashed.Buterin said that Stage 1 projects can still maintain a multisig mechanism, often referred to as a “security council,” with the authority to override fraud or validity proofs to protect a network against malicious actors. These multisig accounts must comprise at least 8 different entities from outside of the project’s development team and require approval from at least 75% of signers.“While participation in the Fault Proof System is permissionless, the Optimism Security Council retains the power to intervene and revert the system back to a permissioned state in the event of a failure in the system,” Optimism said. “Having this fallback is part of a responsible and safe rollout of the Fault Proof System.”According to L2beat, OP Mainnet is now one of four Layer 2 networks currently operating at Stage 1 decentralization, alongside Arbitrum, ZkSync Lite, and dYdX v3. L2beat also lists DeGate v1 and Fuel v1 as having achieved Stage 2 decentralization, meaning no centralized entity can post state roots for a project.“Launching fault proofs on OP Mainnet… and achieving Stage 1 decentralization are important milestones, but the endgame is Stage 2 decentralization,” Optimism said.OP Mainnet is currently the third largest Layer 2 network with a total value locked of $7.31 billion, according to L2beat.
-
-----------------
-
-Optimism Finally Gets Its Mission-Critical 'Fault Proofs'
-
-“We literally deleted the entire system essentially, re-architected it, and rewrote the entire thing,” Karl Floersch, the CEO of OP Labs, said in an interview with CoinDesk. “That was brutal, but absolutely the correct decision.”
-
-----------------
-
-Real Vision Analyst Jamie Coutts Issues Altcoin Warning As Markets Kick Off Week in the Red - Here’s His Outlook - The Daily Hodl
-
-
-								Real Vision analyst Jamie Coutts is warning that the altcoin market is in a bearish trend after a strong six-month long run.
-The former Bloomberg analyst tells his 18,400 followers on the social media platform X that most alts are now being outperformed by Bitcoin (BTC).
-
-
-
-
-
-
-
-
-
-
-“A quick update on the altcoin malaise. Most crypto funds are overweight alts and not having as much fun as they would like, despite having a cracking six months from Q4 2023 to Q1 2024. Despite ETH’s recent outperformance, there’s been no follow-through (top chart) and the smart contract platform (SCP) sector continues to lag behind Bitcoin. The altseason index (bottom) confirms this trend, heading lower with only 18% of the top 100 assets (excluding stables) outperforming BTC.”
-Source: Jamie Coutts/X
-However, the analyst predicts alts will surge later this year and that the altcoin season index, which measures the profitability of digital assets relative to BTC, could start flashing bullish for alts within months.
-“I still believe a turnaround will happen in the second half of the year – sooner rather than later, as liquidity at the margins is starting to improve (recent central bank cuts). 
-Altseason signal: while the short-term alt price action remains bearish, a moving average bullish cross on the top chart and a reversal on the altseason index sub-chart would be a pretty clear signal that things have changed.”
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: DALLE3
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-In Defense of Meme Coins
-
-As Ravi Bakhai, who is building a meme-coin trading platform called Hype, explained, meme coins have essentially become a big, generalized betting market for determining how relevant anything is at any given time. For instance, Iggy Azalea’s MOTHER token literally put a price on her fame, and the rapper’s ability to draw an audience of crypto enthusiasts.
-
-----------------
-
-Friend.tech Plans to Launch Friendchain | Bankless
-
-
-Friend.tech, one of the leading crypto social apps, has announced plans to move from Coinbase's Layer 2 network, Base, to its own L2 called Friendchain.What's the scoop?Friendchain will be developed in partnership with blockchain infra provider Conduit.Friend.tech’s native token, FRIEND, will serve as the upcoming L2’s gas token. The timeline for the migration from Base is yet to be announced.Bankless take:The move isn’t necessarily surprising. In May 2024, Friend.tech’s pseudonymous founder Racer offered a $200,000 bounty for a chain migration plan in a since-deleted tweet amid their rising dissatisfaction with the Base ecosystem. Beyond the Base discontent, though, Friend.tech moving to its own chain allows it greater control over its tech stack and user experience. This autonomy can enable more tailored optimizations and potentially quicker experimental iterations on the platform's features.Also, the use of FRIEND as a gas token will introduce a new economic dynamic that will be worth tracking going forward, as many L2s don’t currently use their native tokens for gas. Success here will depend on how well Friend.tech can navigate the associated risks and capitalize on the strategic opportunities it presents.
- 
-
-
-
-----------------
-
-Here's the Most Talked About Cryptocurrencies on Social Media - One is Bitcoin, the Other is a Big Surprise - Bitcoin Sistemi
-
-
-Santiment, one of the most popular cryptocurrency analysis companies, examined the crypto assets with the most social interest in a new report.
-Santiment verilerine göre, sosyal medya platformları arasında hakkında en çok konuşulan kripto paralar Bitcoin (BTC) ve Cardano (ISLAND) oldu.
-
-
-Santiment analysts stated that bulls and bears are fighting hard for BTC at the $70,000 level, and Bitcoin's market cap is almost 50% lower than Apple's.
-Buna ek olarak Cardano’nun sosyal medya platformlarında sıkça konuşulma nedeni olarak ise platformun kısa bir süre önce sahip olduğu akıllı sözleşmeler, NFT’ler, Ethereum ile sürekli olarak karşılaştırılması ve ISLAND ağının merkeziyetsizliğinin giderek büyümesini gösterdi.
-
-
-
-
-
-Data shows that topics talked about Bitcoin are almost half positive and negative. On the other hand, interestingly for Cardano, more than half of the discussions on social media are on the positive side.
-
-The most talked about cryptocurrencies on social media platforms, both positive and negative, are listed as follows:
-
-
-
-BTC
-ISLAND
-LRC
-XRP
-LEFT
-MNTC
-GAME
-BNB
-ALGO
-AVAX
-
-*This is not investment advice.
-
-
-Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
-
-
-
-
-
-
-
-
-----------------
-
 SocialFi App Friendtech to Develop Own Blockchain - The Defiant
 
 Friendtech is leaving Base in favor of its own native blockchain, built with the assistance of Conduit.SocialFi app Friendtech has unveiled plans to build its own native blockchain, dubbed Friendchain, which will be developed with the help of Conduit, a platform for quickly deploying rollups on Ethereum-compatible networks.The move comes as daily active users (DAU) and the price of the FRIEND token are both near all-time lows.FRIEND Price Since LaunchConduit enables users to “deploy a rollup in minutes, not months.” The no-code platform birthed other popular rollup chains such as Zora, Aevo, and Orderly.Following its launch in August last year, Friendtech took the crypto space by storm, and amassed $50 million in fees in under 3 months. However, usage, fees, and sentiment surrounding the social-fi dApp have fallen drastically since their October 2023 highs.Friendtech Daily Active UsersFRIEND is up 18% in the past 24 hours, trading at a $85 million market capitalization.
@@ -8848,3 +8617,260 @@ Featured image via Unsplash.
 [no-title]
 
 Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Bitcoin No Longer Electronic Cash? Circulation At 13yr Low
+
+
+								On-chain data suggests Bitcoin is no longer being used as electronic cash by its userbase as the token’s circulation has seen a steep drop.
+Bitcoin ‘Velocity’ Has Plunged To Historical Lows Recently
+As explained by CryptoQuant founder and CEO Ki Young Ju in a post on X, Bitcoin’s circulation has recently slowed down. The on-chain indicator of relevance here is “Velocity,” which keeps track of the rate at which the cryptocurrency’s tokens are circulating in the market.
+
+When the value of this metric is high, the coins move around faster on the network. On the other hand, a low value implies tokens are still inside an address long before being transferred.
+Below is a chart that shows how the Velocity of Bitcoin has changed throughout its history.
+
+The value of the metric appears to have registered a rapid decline over the last couple of years | Source: @ki_young_ju on X
+As displayed in the above graph, the Bitcoin Velocity had been rising during the 2021 bull run and had observed a peak in the middle of the 2022 bear market. Following this top, though, the metric completely reversed its trend as it started sharply going down instead.
+This drawdown continued until the last few months of 2023, and the indicator has been moving sideways since then. The chart shows that these low levels that the metric has recently been consolidating are the lowest in around 13 years.
+This would mean the cryptocurrency’s circulation rate is the same as in 2011. Now, as for the significance of the recent trend, it may tell us how the current userbase of the cryptocurrency is looking at the asset.
+Bitcoin was originally meant to be cash in electronic form that works peer-to-peer (P2P), without requiring any central entity at all. The fact that the BTC tokens are no longer being circulated would imply that they aren’t being used much for monetary transactions. As the CryptoQuant founder puts it,
+Despite Satoshi’s vision of “P2P Electronic Cash,” Bitcoin is primarily used as “Digital Gold,” with institutions holding it without frequent transactions.
+
+It’s unclear whether the recent low Velocity is here to stay for BTC, given that the indicator did observe a rapid increase to high values just a few years back.
+As the graph shows, the indicator has gone through cycles over the cryptocurrency’s history, shifting between highs and lows. Ju notes Bitcoin will see its velocity “peak someday when BTC is widely used for payments.”
+BTC Price
+Bitcoin has extended its latest decline as its price is now down to just $66,400. The cryptocurrency’s returns now stand at -8% since the $72,000 high registered on Friday.
+
+Looks like the price of the asset has plunged over the past day | Source: BTCUSD on TradingView
+Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+In Conversation With Brian Nelson
+
+I think it goes back to a couple of core principles that Treasury has reflected for a long time in its rulemaking. One is, you know, focus on the activity, not necessarily the product, and then based on the activity, making sure that we are building regulatory obligations to meet the risk associated with that type of activity. And certainly, that reflects the really the core of what we do and how we think about our regulations, which is that they need to be risk based and drive risk based behavior. So when you think about, again, these 80s and mixers and you reflect on the fact that they are really both I'm very attracted to elicit actors. But to this is, I think the important point and in terms of like, how do we manage privacy versus anonymity, you have these mixing entities that are not doing meaningful KYC, there's no AML/CFT, there are none of the things that are in place to manage exactly this tension. So it's not that everybody needs to know who you are transacting with. But there has to be a capacity, we think, for a U.S.person to be in a position to FOLLOW U.S.law, and not engage with a sanctioned individual, or a U.S.financial institution to not unwittingly engage in activity that is supporting the building of weapons in North Korea, and the like. So, ultimately, that's the good news is we balanced it, and I think we have sort of the policy framework to balance it. But we recognize that the technology is developing quickly, we recognize that we need to engage closely with industry so that we understand the technology and as we think through potential new regulatory authorities, and, you know, a new definition of financial institution that clearly covers virtual assets, and virtual assets are riders and, and the like that, that we are doing in a way that is informed by what we are learning from, from, frankly, from smart people in this room.
+
+----------------
+
+Bitfarms Outlines Defense Plan Against Rival Riot's Ongoing Takeover Bid
+
+
+																Bitfarms announced on Monday that its Board of Directors has unanimously approved a shareholder rights plan, effective immediately, to preserve the integrity of its strategic alternatives review process in response to an unsolicited takeover offer from Riot Platforms Inc.
+The plan, commonly known as a “poison pill,” is intended to prevent any party from gaining control of Bitfarms without providing fair value to all shareholders.
+‘Poison pill’ Strategy
+A poison pill strategy is a defensive measure used to prevent corporate takeovers by making a deal too expensive for the acquiring company. Bitfarms stated that it would issue new stock to existing shareholders, diluting the stake of any entity pursuing a hostile takeover.
+Under the Rights Plan, one right will be issued for each common share outstanding as of June 20. These rights will become exercisable if any person or entity acquires 15% or more of Bitfarms’ outstanding common shares without complying with the plan’s “Permitted Bid” provisions.
+Permitted Bids must be made to all shareholders, remain open for 105 days, and meet other specific conditions. While the Rights Plan is effective immediately, it requires shareholder ratification within six months.
+
+
+
+
+Bitfarms also disclosed that the Toronto Stock Exchange (TSX) will defer its consideration of the Rights Plan until it is assured that the appropriate securities commission will not intervene. This deferral does not affect the plan’s adoption or operation, which will remain effective for a minimum of six months from June 10, the date of adoption, unless terminated earlier.
+Riot’s Takeover Plans
+Riot Platforms made its unsolicited proposal public in May, offering to buy Bitfarms for about $950 million. The company also expressed its intention to request a special shareholder meeting to add independent directors to Bitfarms’ board.
+This came after Bitfarms rejected Riot’s takeover approach in April. Riot initially offered $2.30 per share in cash and stock for Bitfarms, approximately 20% above the firm’s share price before the offer was made.
+Following an evaluation of the proposal, Bitfarms’ Special Committee of independent directors concluded that Riot’s offer significantly undervalued the company and its growth prospects.
+On May 28, Riot acquired a 9.25% stake in Bitfarms, becoming the company’s largest shareholder. Riot further increased its stake by purchasing an additional 1.5 million shares on June 5, raising its total ownership to approximately 12%. By June 5, Riot beneficially owned 47,830,440 shares of Bitfarms.
+
+SPECIAL OFFER (Sponsored)
+Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
+LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
+
+
+						
+																			
+												
+										
+					
+					
+
+
+----------------
+
+Floki Among Top Losers Today, Plunges 9% - What These Key Technical Indicators Tell Us About Its Near Future - Benzinga
+
+The broader market slump hit Floki FLOKI/USD, causing the dog-themed memecoin to become one of the biggest losers in the last 24 hours.What Happened: Floki endured losses of more than 9%, surpassing the declines seen in blue-chip currencies like Bitcoin BTC/USD, Ethereum ETH/USD, and the broader memecoin sector. The trading volume plunged 3.45% to $437 million in the last 24 hours.With the latest correction, the Ethereum-based meme token's weekly losses soared to 31%. The Relative Strength Index, a popular technical analysis tool, flashed a neutral signal for FLOKI, according to TradingView, indicating a balance between bullish and bearish sentiment. The RSI is a momentum oscillator that tracks the speed and change of price movements.  Typically, the RSI is considered overbought when above 70 and oversold when below 30. It is hovering above 45 as of this writing. The Awesome Oscillator, which calculates the difference between a 34 Period and 5 Period Simple Moving Average, flashed a similar signal.On the other hand, the Moving Average Convergence Divergence, another popular tool among technical analysts, flashed a sell signal at 0.0000117563. The MACD is primarily used to gauge an asset’s overall trend. The crossover of the signal line and the MACD line gives trading signalsWhy It Matters: Despite the latest pullback, FLOKI has been one of the top performers in 2024, rising more than 6X year-to-date. In fact, it hit its record high of $0.000309 last week, before the sharp retracement began.As of this writing, about 86% of FLOKI holders were in profit, according to IntoTheBlock. The total balance of wallets belonging to long-term holders has remained unchanged in the last 24 hours, lending credence to the neutral market sentiment. Photo Courtesy: Maurice NORBERT On Shutterstock.comPrice Action: At the time of writing, FLOKI was exchanging hands at $0.0002284, according to data from Benzinga Pro. Read Next: Donald Trump Champions Miners In His Latest Crypto Advocacy Initiative: ‘The Guy Is A Huge Fan Of Bitcoin’
+
+----------------
+
+Trump Wants 'All Remaining' Bitcoin To Be Made In The US
+
+
+								In a notable gathering at Mar-a-Lago on Tuesday (June 11) night, former President Donald Trump met with key figures in the Bitcoin mining industry, affirming his support for the sector and pledging to advocate for its interests both domestically and internationally. Trump expressed a deep appreciation for the role of miners in stabilizing the national energy grid and underscored his readiness to support their efforts from the White House.
+Following the meeting, the Trump campaign posted via Truth Social, “VOTE FOR TRUMP! Bitcoin mining may be our last line of defense against a CBDC. Biden’s hatred of Bitcoin only helps China, Russia, and the Radical Communist Left. We want all the remaining Bitcoin to be MADE IN THE USA!!! It will help us be ENERGY DOMINANT!!!”
+Trump Commits To Bitcoin
+David Bailey, CEO of Bitcoin Magazine and a notable advocate in Trump’s circle for BTC policy, conveyed the significance of the event on X (formerly Twitter), stating, “Today was a historic moment in our journey towards hyperbitcoinization. The former and next President of the United States gathered America’s hashrate and committed to championing our cause in DC and on the global stage. BTC will THRIVE in the US. Orange Man+Orange Coin= Good.”
+
+The sentiment was echoed by several industry leaders who were present. Brian Morgenstern, Head of Public Policy at Riot Platforms (NASDAQ: RIOT), highlighted the constructive discussions, remarking, “Great conversation today with President Trump about the importance of Bitcoin mining & energy abundance in the US.”
+Jason Les, CEO of Riot, also commented positively on the discussions: “Very good meeting with President Trump on Bitcoin and US energy dominance!!!”
+S Matthew Schultz, Executive Chairman and Co-Founder of Cleanspark, shared a personal note, emphasizing Trump’s support for their operations in states like Georgia, Mississippi, and Wyoming, “So. I just ran into a guy that’s a huge fan of Bitcoin and LOVES what we’re doing at Cleanspark in Georgia and Mississippi and Wyoming.”
+Adding to the narrative, Zach Bradford, CEO of Cleanspark Inc., underscored the impact of BTC mining on local communities and infrastructure development, “We work hard everyday making rural Georgia and Mississippi communities Great. BTC mining is helping to build the infrastructure of the future and we are working hard to make sure as America’s Bitcoin Miner we have support from our leaders past, present and future.”
+
+The dialogue also covered the political struggles and misconceptions surrounding the mining industry. Amanda Fabiano, founder of Fabiano Consulting and board member at Terawulf Inc. (NASDAQ: WULF), stressed the need for informed political support: “Our industry has faced an enormous amount of political struggle, fueled by misinformation and misguided narratives. Our industry needs politicians that are interested in learning about the benefits of Bitcoin and Bitcoin mining.”
+Salman Khan, CFO at Marathon Digital (NASDAQ: MARA), added his perspective on the bipartisan discussions, “Today, I met former President Trump to discuss important bipartisan issues that affect our ency. We appreciate the recognition of our industry’s importance and are committed to advocate for its future.”
+This meeting comes at a time when the Biden administration and Democratic lawmakers have intensified scrutiny over the environmental impact of BTC mining. Trump’s proactive stance, including his promise to commute the sentence of Ross Ulbricht and accept BTC and crypto for campaign donations, signals a potential shift in political dynamics that could influence the cryptocurrency industry’s trajectory.
+At press time, BTC traded at $67,447.
+BTC price, 1-day chart | Source: BTCUSD on TradingView.com
+Featured image from X @DavidFBailey, chart from TradingView.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Why Solana nodes are '10x higher than Ethereum' - founder Anatoly Yakovenko - AMBCrypto
+
+
+
+Solana’s founder proposed a mechanism to lower entry barriers to node operations. 
+The executive mulled ways of dealing with voting fees to address the issue. 
+
+Solana [SOL] and Ethereum [ETH] leaders have debated various issues in the space for a while. 
+Most recently, the Solana Foundation’s clampdown on validators using MEV (Maximum Extractable Value) sandwich attacks caught major attention. 
+The Foundation withdrew financial support to some validators to reduce the attacks.  
+It emerged that running a Solana validator node is very costly, about $65K per year, which calls for the Solana Foundation to offer financial support in some cases. 
+On the contrary, an Ethereum validator costs 32 ETH as a one-off payment, and excludes hardware and other resources. 
+Why Solana nodes are 10x costlier
+Solana founder Anatoly Yakovenko clarified the cost difference on ‘Ethereum’s better investment’ in its consensus system. 
+‘Economic barrier for honest nodes participate in consensus on Solana is 10x higher than ethereum atm.  Largely due to the investment Ethereum has made into BLS aggregation for consensus messages.” 
+The BLS refers to Boneh-Lynn-Shacham, an efficient signature scheme leveraged by Ethereum. Notably, the scheme can contain several independently verified messages by validators. 
+This allows several messages to be aggregated effectively, lowering overall costs. 
+As Yakovenko noted, Solana’s current mechanism doesn’t match Ethereum’s technique. However, the founder added that Solana would eventually implement such a system. 
+‘Maybe that’s something that Solana will implement eventually, maybe it will be voting subcommittees, maybe nothing. As hardware improves, the lower bound fee to send a message to the entire cluster will drop, so the cost per vote will drop, and the economic barrier will drop as well’ 
+However, one user noted that most of the cost was inflated by voting fees and asked how Solana would solve that. In his response, Yakovenko said, 
+‘Voting subcommittees would allow lowering the vote fee, and rotating the boxes in/out of the committee, which would reduce the vote load and results in lower vote costs’ 
+In the past seven days, 80% of total Solana transactions were related to votes, underscoring their dominance on block transactions. 
+Source: Solscan
+Since the vote transactions also attract fees like the rest, validators bear the cost. Their higher dominance suggests that voting fees are the main contributor and perhaps barrier to entry into the space. 
+It remains to be seen whether Solana will implement the solution as floated by the founder. 
+In the meantime, SOL shed 6% as crypto investors de-risked ahead of the FOMC (Federal Open Meeting Committee) meeting. 
+SOL hit a low of $145 on the 11th of June, the level last hit in mid-May, as the market rout extended liquidations across the markets. 
+
+
+
+
+
+
+----------------
+
+Historic Bitcoin Move from US Presidential Candidate Donald Trump! - Bitcoin Sistemi
+
+
+Former US President Donald Trump, who was hostile to Bitcoin and cryptocurrencies during his previous presidency, has experienced a major change.
+While re-nominated Trump has loudly supported BTC and cryptocurrencies in this election campaign, Trump recently met with a number of Bitcoin miners.
+
+
+According to Bloomberg, Trump told miners that he would support Bitcoin mining.
+Stating that Joe Biden and his administration opposed Bitcoin mining and helped rival countries, Donald Trump promised to support Bitcoin miners and the mining industry if he returns to the White House.
+
+
+
+
+
+Among the attendees of Trump's meeting with Bitcoin miners was Nasdaq-listed Bitcoin mining company CleanSpark Inc. and representatives from Riot Platforms were also present.
+“I just ran into a guy who is a huge Bitcoin fan and supports what we do at CleanSpark Inc. in Georgia, Mississippi, and Wyoming,” CleanSpark co-founder S. Matthew Schultz said in the X post.
+
+
+Donald Trump also wrote the following about BTC mining on his social media platform Truth Social:
+
+“VOTE FOR TRUMP! Bitcoin mining could be our last line of defense against CBDC.
+Biden's hatred of Bitcoin only benefits China, Russia, and the Radical Communist Left.
+We want all remaining Bitcoins to be produced IN the USA!!! It will help us become ENERGY MASTERS!!!”
+
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+ProShares Spot Ethereum ETF Now Has Updated S-1 Application - Coincu
+
+
+
+	
+
+Key Points:
+
+
+
+
+ProShares filed for a spot Ethereum ETF, with BNY Mellon and Coinbase in key roles.
+
+
+
+The SEC is reviewing NYSE Arca’s proposal to list and trade ProShares spot Ethereum ETF, with a decision expected in 45 days.
+
+
+
+The timeline for final approvals and the launch of ProShares spot Ethereum ETF remains uncertain.
+
+
+
+
+ProShares has submitted an S-1 registration statement for the ProShares spot Ethereum ETF, according to a June 11 filing.
+
+
+
+ProShares Spot Ethereum ETF Now Has Updated S-1 Application 4
+
+
+
+ProShares Spot Ethereum ETF Updated Registration Statement
+
+
+
+The document elaborates on various participants’ roles in ProShares spot Ethereum ETF, with the Bank of New York Mellon (BNY Mellon) as a pivotal player. BNY Mellon will act as the transfer agent, processing purchase and redemption orders and maintaining ownership records. Additionally, BNY Mellon will be the fund’s administrator and cash custodian.
+
+
+
+The filing also details the roles of other key participants. Coinbase Custody will hold the Ethereum, Coinbase Inc. will operate as the prime execution agency, Delaware Trust Company will act as the trustee, and ProShare Capital Management will be the fund’s sponsor. Coinbase Credit is set to function as the trade credit lender, enabling ProShares to borrow Ethereum and cash for transactions that surpass its trading balance.
+
+
+
+The document indicates flexibility in these roles, including an initial two-year term for BNY Mellon’s administrator position, with provisions for annual renewals. ProShares reserves the right to add or terminate Ethereum custodians, cash custodians, and prime execution agents as needed. Coinbase also retains the option to resign from its role as a cash customer.
+
+
+
+
+Timeline for Ethereum ETFs Approval Remains Uncertain
+
+
+
+Previously, the SEC has acknowledged NYSE Arca’s proposed rule change to list and trade shares of the ProShares spot Ethereum ETF. This proposal, submitted on June 10, is currently open for public comment for 21 days following its publication in the Federal Register. The SEC then has 45 days to approve, disapprove, or extend its review period. If approved, NYSE Arca can list and trade shares of the fund. However, no definitive timeline for the final approvals and launch has been established.
+
+
+
+While the SEC has approved the form 19b-4 filings for eight Ether ETFs, the S-1 registration statements, including that of ProShares spot Ethereum ETF, still await approval. Experts remain divided on the potential timeline for these approvals, leaving the launch dates uncertain.
+
+
+
+DISCLAIMER: The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.
+Visited 5 times, 5 visit(s) today
+
+	
+	
+
+
+
+	
