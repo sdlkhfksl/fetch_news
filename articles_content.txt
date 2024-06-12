@@ -1,615 +1,3 @@
-Is Ethereum's price dip signaling the start of a new rally? - AMBCrypto
-
-
-
-More whale addresses have accumulated ETH in the last few weeks.
-ETH’s bull trend has continued to weaken with the price drop.
-
-Ethereum [ETH], which has been moving closer to a bear trend over the past few days, has presented a buying opportunity for large investors. 
-According to recent data, big wallets have acquired more Ethereum as the price declined, which is a bullish signal.
-Whale addresses scoop up Ethereum
-AMBCrypto’s analysis of some major Ethereum addresses revealed a slight increase starting from the end of the previous month. Specifically, wallets holding over 10,000 ETH showed growth beginning around the 19th of May. 
-At this point, the number of such wallets was approximately 952, and Ethereum was trading at around $3,074.
-The number of wallets holding over 10,000 ETH grew from around 952 to approximately 980 as of this writing. 
-Despite the ETH price increase to around $3,700, these addresses have continued accumulating more Ethereum.
-Source: Glassnode
-Additionally, AMBCrypto’s look at the mega whale chart over the last 30 days revealed a noticeable development: the trend has flipped to the upside. 
-This indicated an increase in accumulation by most of the major wallets, reflecting heightened buying pressure.
- With this move, it is just a matter of time before the price picks up—a trend that these addresses are betting on.
-More Ethereum flows out of exchanges
-Ethereum’s Netflow on CryptoQuant showed that it had been dominated by negative flows in the last few weeks. The chart indicated that the volume of outflows has consistently surpassed inflows in the new month.
-Source: CryptoQuant
-A look at the chart showed that since the beginning of the new month, more ETH has left exchanges than has flowed into them. 
-The analysis indicated that from the 1st of June to now, the negative flow volume was over $354 million, while the positive netflow volume was around $226 million. 
-This netflow trend, combined with the accumulation by major wallets, is a positive sign for ETH despite its recent price trend.
-ETH moves closer to the neutral line
-AMBCrypto’s analysis of Ethereum on a daily timeframe showed that it has been trending in the $3,600 price range for the past three days. 
-As of this writing, it is trading at around $3,670, experiencing a decline of approximately 0.8%. ETH saw a slight gain in the previous trading session, but the recent decline has wiped this out.
-Source: TradingView
-
-Realistic or not, here’s ETH’s market cap in BTC’s terms
-
-Ethereum’s Relative Strength Index (RSI) showed that it was above 52 as of this writing. However, the RSI is on a downward trend, indicating that a further price decline could push it below the neutral line. 
-This means that while the trend is currently bullish, it is weakening.
-
-
-
-
-
-
-----------------
-
-Elon Musk Says He Will Ban Apple Devices From His Companies If They Integrate OpenAI - Decrypt
-
-Elon Musk has threatened to ban Apple devices at his companies after the tech giant announced that it would integrate OpenAI’s flagship AI model, ChatGPT, across its product line—potentially affecting billions of iPhones, Macs, and iPads.“If Apple integrates OpenAI at the OS level, then Apple devices will be banned at my companies,” Musk posted to Twitter following Apple's AI announcements on Monday. “That is an unacceptable security violation.”The CEO of Tesla and SpaceX and co-founder of Neuralink said the policy would extend to guests as well.“Visitors will have to check their Apple devices at the door, where they will be stored in a Faraday cage,” he vowed.Musk is certainly not the first company executive to ban AI tools from its offices. In fact, Apple itself banned employees from using ChatGPT—the same tool the tech giant is now tapping to enhance its 13-year-old virtual assistant, Siri.In another tweet, Musk questioned Apple’s decision to partner with OpenAI instead of building its own generative AI model.“It’s patently absurd that Apple isn’t smart enough to make their own AI, yet is somehow capable of ensuring that OpenAI will protect your security and privacy,” Musk wrote.In announcing its ChatGPT partnership, Apple stressed that Siri would ask users for permission before connecting to the AI model, and that its implementation would be encrypted and kept private and secure. Musk was skeptical.“Apple has no clue what’s actually going on once they hand your data over to OpenAI,” he tweeted. “They’re selling you down the river.”The explosive emergence of ChatGPT has sparked bans at several organizations. Last year, the U.S. House of Representatives prohibited staffers from using ChatGPT over privacy concerns. At the same time, Samsung also banned the use of ChatGPT on company systems.Musk had not previously objected to increasing integration of AI into hardware and software by other big tech companies, including Microsoft, Meta, and Google—which has also introduced a smartphone with deep AI integration. His aversion to ChatGPT specifically, versus AI in general, likely stems from longstanding bad blood between him and OpenAI.The billionaire has repeatedly spoken out against OpenAI, the company he co-founded in 2015 along with Sam Altman, Ilya Sutskever, Greg Brockman, Andrej Karpathy, and several others. In fact, Musk took credit last May for the creation of OpenAI, saying it wouldn’t exist without him."I was instrumental in recruiting the key scientists and engineers, most notably Ilya Sutskever," Musk told CNBC. "Ilya joining was the linchpin for OpenAI being ultimately a success."In March, Musk filed a lawsuit against OpenAI and Sam Altman, accusing the company of straying from its humanitarian roots."This case is filed to compel OpenAI to adhere to the founding agreement and return to its mission to develop AGI for the benefit of humanity," Musk said in the complaint, "not to personally benefit the individual defendants and the largest technology company in the world."In response to Musk's lawsuit, OpenAI published internal emails that suggested Musk was also motivated by profit.“We need to go with a much bigger number than $100M to avoid sounding hopeless relative to what Google or Facebook are spending,” Musk allegedly wrote. “I think we should say that we are starting with a $1B funding commitment. This is real. I will cover whatever anyone else doesn't provide.”OpenAI did not respond to Decrypt’s request for comment.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-Loopring Smart Wallets Suffer a $5 Million Exploit
-
-
-																On Sunday, Loopring, an Ethereum zero-knowledge roll-up protocol, announced a significant security vulnerability attack on its smart wallets, linked to the Loopring Official Guardian.
-The project is collaborating with security and law enforcement agencies to investigate how the two-factor authentication system was compromised and to track down the cybercriminals.
-Loopring Official Guardian Exposed
-In a comprehensive announcement shared on platform X, Loopring disclosed that the attacker targeted a subset of the wallet, capitalizing on the vulnerabilities of the Official Guardian. As such, some wallets within Loopring fell victim to this security breach.
-
-
-The malicious actor circumvented Loopring’s authorized Guardian services by impersonating wallet owners. This allowed them to initiate unauthorized recoveries on wallets that relied solely on the compromised Guardian without the permission of the actual users.
-
-
-
-
-By specifically targeting the Official Guardian and 2FA service, the attacker siphoned substantial assets from several wallets.
-Loopring and blockchain audit firm Cyvers Alert identified and publicly shared the two malicious wallets. Onchain data from Etherscan revealed that one of the hacker’s wallets seized about $5 million worth of assets from the compromised wallets. The wallet has already swapped the crypto for ETH and still holds 1,373 ETH worth $5 million.
-It is important to note that not all wallets were exposed. Wallets employing multiple guardians or alternative third-party guardians were not affected by the recent exploit.
-Commitment to Protect Investors
-Loopring announced on their X platform that they are working with Mist security experts and law enforcement agencies to determine how their two-factor authentication service was compromised and to track down the malicious actors.
-To protect users, Loopring has temporarily suspended all Guardian-related and 2FA-related operations, which has since stopped the compromise. The network encourages anyone with additional information about the exploit to come forward and commits to providing updates as the investigation progresses.
-As per their report, they remain steadfast in showing their commitment to safeguarding the interests of their users.
-According to data from Coingecko, Loopring’s native token, LRC, experienced a slight reaction when news of the attack emerged. It is currently trading at $0.2199, reflecting a 2.7% decrease in the past 24 hours and an 18% decrease over the past 7 days.
-
-SPECIAL OFFER (Sponsored)
-Binance Free $600 (CryptoPotato Exclusive): Use this link to register a new account and receive $600 exclusive welcome offer on Binance (full details).
-LIMITED OFFER 2024 at BYDFi Exchange: Up to $2,888 welcome reward, use this link to register and open a 100 USDT-M position for free!
-
-
-						
-																			
-												
-										
-					
-					
-
-
-----------------
-
-World's largest bank ICBC praises the evolution of Bitcoin, Ethereum as innovative financial assets
-
-The world’s largest lender, Industrial and Commercial Bank of China (ICBC), recently published an in-depth analysis highlighting the rapid evolution and growing diversity in digital currencies, where it compared Bitcoin to gold and deemed Ethereum “digital oil.”The report emphasizes the human capacity for imaginative belief, as noted by historian Yuval Noah Harari, as a driving force behind the exponential growth in digital currency types and applications.VanEck head of digital assets research Matthew Sigel noted:“Chinese SOE banks keep writing love letters to Bitcoin and Ethereum.”The ICBC report outlines the divergent development paths of various digital currencies, each addressing unique needs within the financial ecosystem.The love letterAccording to ICBC’s report, market demand has fueled innovation in the digital currency sector, from the birth of Bitcoin (BTC) to advancements in Ethereum (ETH) and the exploration of central bank digital currencies (CBDCs).ICBC said that Bitcoin has managed to retain a scarcity similar to gold through its mathematical consensus mechanism. The flagship crypto has resolved issues related to divisibility, authenticity verification, and portability. The report added that despite Bitcoin’s waning monetary attributes, its status as an asset is solidifying.Meanwhile, Ethereum provides “technical power for the digital future” and is establishing itself as “digital oil” capable of powering myriad applications across the web3 ecosystem.Ethereum, distinct from Bitcoin, incorporates Turing completeness through its proprietary programming language, Solidity, and its virtual machine, EVM.This feature allows developers to create and manage complex smart contracts and applications, positioning Ethereum as a critical platform for DeFi and NFTs. The report also acknowledged Ethereum’s potential to extend its influence to decentralized physical infrastructure networks (DePin).Despite the potential, Ethereum faces several practical challenges, including security vulnerabilities, scalability issues due to high computational demands, and significant energy consumption.Ethereum developers are exploring various solutions to address these challenges. The introduction of the Proof of Stake (POS) consensus mechanism and sharding technology in the Ethereum 2.0 upgrade aims to enhance network throughput and sustainability.  Additionally, developers are working on Layer 2 solutions such as state channels, side chains, and rollups to improve scalability.Stablecoins and CBDCsThe report also highlighted the crucial role of stablecoins in bridging the gap between the digital currency market and the real world. Stablecoins, which peg their value to traditional assets like fiat currencies, offer stability in the volatile crypto market.ICBC said that stablecoins facilitate seamless transactions and provide a reliable store of value, making them an essential tool for everyday financial activities and a bridge for integrating digital currencies into the global financial system.Furthermore, CBDCs represent a significant innovation in the modern monetary system. By digitizing fiat currencies, central banks can improve the efficiency of payment systems, reduce transaction costs, and enhance the effectiveness of monetary policy.According to the report, CBDCs can streamline cross-border transactions, reduce reliance on intermediaries, and offer greater financial inclusion by providing access to digital financial services for unbanked populations.The report noted that the development and implementation of CBDC infrastructure requires careful consideration of privacy, security, and regulatory implications to ensure their success and widespread adoption.The report concluded that while the development vision for each digital currency varies, all aim to enhance financial inclusion, security, and payment efficiency. As digital currencies continue to evolve, developers and policymakers need to focus on balancing sustainability, security, and efficiency.Mentioned in this articleLatest Alpha Market Report
-
-----------------
-
-Forget Shiba Inu And Dogecoin, Crypto Whales Are Buying Millions Worth Of This Meme Coin | Bitcoinist.com
-
-
-								Crypto whales are gearing up for what might be an interesting week for PEPE. On-chain data reveals crypto whales have been busy over the weekend as many look to position themselves before the start of the new week. Amidst this positioning and accumulation, PEPE has shot up as an interesting option for a few whales.
-Crypto Whales Make Large PEPE Purchases
-PEPE is coming off of a seven-day period of intense volatility and bearish momentum. Price action indicates the meme coin lost about 20% of its value last week, and it seems some whales are going with a buy-the-dip strategy. Multiple transactions involving billions of PEPE tokens were recorded. According to on-chain data, there were multiple instances of whales buying millions worth of PEPE during the weekend, giving a glimpse of whether the decline might be coming to an end. 
-
-A notable example of this strategy is the accumulation of 447.67 billion PEPE tokens worth $5.48 million by venture capital firm Nascent. As noted by Spot On Chain, this interesting accumulation by Nascent means PEPE is now the biggest cryptocurrency in its portfolio, indicating the company’s fervent belief in the meme coin. 
-
-
-Lookonchain revealed another intriguing accumulation.ording to the on-chain tracker, a particular whale withdrew 231.6 billion PEPE worth $2.9 million from Kraken over the weekend. Interestingly, this wasn’t a one-off purchase, as transaction data shows this whale has been accumulating since March 16. This whale has now withdrawn approximately 750.34 billion PEPE worth $8.34 million from Kraken during this timeframe.
-Yet another PEPE accumulation example over the weekend was the withdrawal of 303.4 billion PEPE worth $3.8 million from Binance and OKX into two private wallets 0x81cC and 0xf226, respectively. 
-Source: Etherscan
-PEPE Taking A Leg Up
-The last seven days haven’t been rosy for PEPE investors, considering the meme coin decline in the middle of market challenges. Price data shows that PEPE fell from $0.00001524 to a low of $0.00001193, indicating a 21% decline over the week. However, a recent change into positive price percentage indicates that the meme coin is starting to rebound in response to whale accumulation over the weekend. With whales making such large splashes in PEPE, it may not be long before retail investors start experiencing FOMO and pile into the meme coin themselves.
-
-At the time of writing, PEPE is trading at $0.00001239 and has been up by 0.72% in the past 24 hours. This price recovery suggests PEPE might continue on a leg up for the rest of the week. 
-PEPE crashes with the market | Source: PEPEUSDT on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Trader Unveils List of Five Strong Altcoins Including Injective Amid Choppy Market Conditions - The Daily Hodl
-
-
-								A closely followed crypto analyst is listing five altcoins he believes are showing strength despite the choppy market conditions.
-Pseudonymous crypto trader Altcoin Sherpa tells his 217,200 followers on the social media platform X that layer-1 protocol Injective (INJ), cross-chain protocol Wormhole (W), data democratization project JasmyCoin (JASMY), Bitcoin (BTC) layer-2 scaling solution Stacks (STX) and layer-1 blockchain Toncoin (TON) all look bullish amid a generally range-bound market.
-
-
-
-
-
-
-
-
-
-
-“Eyes on these for active trades, a lot of stuff looks like cr*p right now.” 
-According to the analyst, Wormhole is one of his top picks. However, he warns that it’s still possible for W to pullback and stagnate.
- “W is one of the strongest coins out there right now, would keep an eye on this if you are actively trading. I want to buy this on the breakout – if you see it pull back strongly, it’s still going to be trading within this same range and not ready for the big move we all want.”
-Source: Altcoin Sherpa/X
-W is trading for $0.644 at time of writing, a fractional decrease during the last 24 hours.
-Moving on to JASMY, Altcoin Sherpa says the token looks “extremely strong” and will likely rise to its resistance level before it corrects.
-“JASMY extremely strong. No clue what this thing does but it didn’t even budge today, honestly looks like it could go all the way to $0.067 before any significant pullback.”
-Source: Altcoin Sherpa/X
-JASMY is trading for $0.0397 at time of writing, a 5.25% increase during the last 24 hours.
-Don't Miss a Beat – Subscribe to get email alerts delivered directly to your inbox 
-
-Check Price Action
-
-Follow us on X, Facebook and Telegram
-
-Surf The Daily Hodl Mix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp
-
-Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any losses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
-
-Generated Image: Midjourney
-								
-								
-																
-															
-
-
-						
-
-----------------
-
-Sora Who? Kling Is the New AI Video Generator Everyone Is Talking About - Decrypt
-
-While OpenAI’s forthcoming Sora AI video generation tool has creatives both tantalized and horrified, a new player has emerged that has many AI enthusiasts crowing about its capabilities. Developed by Kuaishou, a Chinese tech giant and competitor to TikTok, Kling is also already available—with some caveats.Kling's capabilities surpass the competition in several significant ways. Kling can generate videos up to two minutes long in 1080p resolution at 30 frames per second. This is a substantial improvement over Pika and RunwayML, which can generate only a few seconds each—and it’s twice as much as what OpenAI said Sora would handle.Kling appears on the scene shortly after the release of Vidu, another Chinese AI video creation tool developed by Shengshu Technology and Tsinghua University. Vidu generates shorter videos, but can create highly realistic and detailed videos with Universal Vision Transformer (U-ViT) technology, which has already proven superior to Runway and Pika.For its part, Kling uses advanced 3D face and body reconstruction technology to generate realistic movements and limb movements based on a single, full-body picture. It also avoids other common problems that some AI video generators have when depicting people, such as extra or impossibly bent limbs.Like Sora, Kling also has a better understanding of real-world physics, allowing for more accurate simulation of physical interactions between objects. It’s also designed to accurately follow prompts and create sequences of shots with multiple views, allowing for more complex and dynamic videos.Image: Kling/KuaishouKuaishou released a series of demo videos showing how Kling would render the scenes OpenAI demonstrated with Sora. The videos seemed very realistic, with good scene compositions and movements. The quality was superior to Runway and Pika in terms of realism and consistency, and was on par with Sora—even surpassing it in some generations.Some users have shared other creations on social media, and they seem convincing enough to justify the hype.Kling is currently available as a public demo in China through a waitlist, but Kuaishou is promising a wider global release.The Kling website is in Mandarin and appears to require a Chinese phone number in order to register. You will also need to download the Kwaicut app and follow the steps shown on the official Kling-AI website before securing a place in line.Until then, for those looking to generate AI videos, the best choices are Pika Labs, RunwayML and—for local generation—Stable Video Diffusion.Edited by Ryan Ozawa.Generally Intelligent NewsletterA weekly AI journey narrated by Gen, a generative AI model.
-
-----------------
-
-Megaphone
-
-
-
-----------------
-
-Bitcoin flat despite high ETF inflows as hedge funds short BTC at record levels - Crypto Briefing
-
-
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-
-----------------
-
-Newcomer Base challenges Solana with rapid adoption
-
-What is CryptoSlate Alpha?A web3 membership designed to empower you with cutting-edge insights and knowledge, powered by Access Protocol. Learn more ›Connected to AlphaWelcome! 👋 You are connected to CryptoSlate Alpha. To manage your wallet connection, click the button below.Important: You must lock a minimum of 20,000 ACSIf you don't have enough, buy ACS on the following exchanges:Connect via Access ProtocolAccess Protocol is a web3 monetization paywall. When users stake ACS, they can access paywalled content. Sign up for Access ›Disclaimer: By choosing to lock your ACS tokens with CryptoSlate, you accept and recognize that you will be bound by the terms and conditions of your third-party digital wallet provider, as well as any applicable terms and conditions of the Access Foundation. CryptoSlate shall have no responsibility or liability with regard to the provision, access, use, locking, security, integrity, value, or legal status of your ACS Tokens or your digital wallet, including any losses associated with your ACS tokens. It is solely your responsibility to assume the risks associated with locking your ACS tokens with CryptoSlate. For more information, visit our terms page.
-
-----------------
-
-Crypto Analyst Predicts XRP Price Will Rally 50,000% To $250, Here’s When
-
-
-																Crypto analyst Chad Steingraber has made an ultra-bullish price prediction for the XRP price, stating that the crypto token’s price could rise to three figures. The analyst also outlined when this price target will be attained. 
-XRP Will Hit $250 In This Market Cycle
-Steingraber mentioned in an X (formerly Twitter) post that XRP will reach $250 by 2025, which he believes will represent the market top for the crypto token in this bull run. He made this prediction while stating that Bitcoin and Ethereum will hit $250,000 and $25,000 in 2025, which will also be their market top.
-
-	Related Reading
-
-
-Steingraber has previously provided several reasons why he is so bullish on XRP and believes the crypto token could attain such heights. He once alluded to a potential XRP ETF as one factor that could trigger significant price surges for XRP. He explained that an XRP ETF would give the crypto token an added utility as fund issuers for the XRP ETFs will direct their assets into an institutional liquidity hub. 
-He believes an XRP ETF will drive more demand for the crypto token, ultimately driving up its price when a supply shock occurs. Steingraber also believes that the Securities and Exchange Commission’s (SEC) lawsuit against Ripple is one of the factors suppressing XRP’s price up until now. 
-He had earlier claimed that XRP’s price wasn’t going up because new money wasn’t flowing into its ecosystem and affirmed that the crypto token would likely see an influx of new money once the SEC’s case against Ripple is over. Steingraber isn’t the only one who believes that XRP’s price could skyrocket and climb to three figures once the lawsuit ends. 
-Crypto analyst JackTheRippler also predicted that XRP would rise above $100 once the case ends. The analyst even gave a more bullish prediction than Steingraber’s, stating that XRP hitting $10,000 was achievable after the lawsuit. Crypto analyst CryptoBull also predicted that XRP could reach three figures, rallying 28,900% to $154. 
-XRP Price To $7.5 In The Meantime
-Crypto analyst Egrag Crypto has suggested that XRP rising to $7.5 is the price target to watch before the crypto token reaches the heights analysts like Steingraber predict. In an X post, he stated that “$7.5 is target number 1.” Egrag went on to outline how this move to $7.5 will likely take place. 
-
-	Related Reading
-
-
-Source: X
-He stated he is highly convinced that XRP will break the white triangle (on the chart he shared) and hit the measured move at $1.5. From there, he expects XRP to make its move to $7.5. However, he warned that the Fib 1.618 zone where $7.5 is situated is “critical” and that a lot of profit-taking will happen there, suggesting that XRP could significantly decline once it reaches such heights. 
-Egrag added that the next targets for XRP will be “mid-double digits near Fib 2.414 & 2.618” if XRP archives a weekly close above Fib 1.618. 
-Price drops below $0.5 | Source: XRPUSDT on Tradingview.com
-Featured image created with Dall.E, chart from Tradingview.com
-																								
-															
-
-
-						
-
-----------------
-
-BNB's Price Surge Propels Binance's CZ To Richest US Prisoner Status With $38B Net Worth | Bitcoinist.com
-
-
-								Binance Coin (BNB), the native token of the world’s largest crypto exchange Binance, recently hit an all-time high of $725 on June 6th, the first week of exchange founder Chagpeng Zhao’s (CZ) four-month prison sentence in the US. 
-According to a Bloomberg report, this price rally for the Binance Coin has made CZ the richest person ever to serve time in a US federal prison. Despite his legal troubles, the token’s market capitalization surpassed $109 billion in the past week, based on data from CoinGecko. 
-BNB’s Price Surge Mirrors Exchange’s Rise? 
-Per the report, Binance Coin’s price trajectory mirrors the fortunes of the exchange itself, as the total value of assets on the platform has climbed from approximately $80 billion in early January to $125 billion currently. 
-This growth has further solidified Binance’s dominance in the cryptocurrency industry despite a challenging period last year that culminated in the company paying a historic $4.3 billion fine to settle a case with US authorities.
-
-BNB holders benefit from trading-fee discounts on the Binance platform. The token is also utilized for fee settlements on Binance Smart Chain, a blockchain widely used by crypto applications, including games and exchanges.
-The recent surge in BNB’s value was foreshadowed by derivative market trading patterns in late May, followed by increased spot demand in June, as buying consistently outpaced selling between June 2 and 5, as Kaiko analyst Dessislava Aubert noted. 
-While BNB trades on several centralized exchanges, Bloomberg notes that Binance remains the dominant platform, accounting for 85% of BNB’s trading volume globally.
-Binance Founder CZ’s Wealth Surpasses $38 Billion
-As previously reported, Binance had faced allegations of anti-money laundering (AML) and sanctions breaches, including failing to prevent access to the exchange by groups such as Hamas, Al Qaeda, and other militant organizations. Zhao agreed to pay a personal fine of $50 million as part of the settlement. 
-However, this amount is relatively small compared to Zhao’s estimated net worth of $38.5 billion, a fortune primarily denominated in BNB. Zhao has previously stated that he is a significant shareholder in Binance.
-
-Referred to as “CZ,” Zhao currently ranks as the 40th wealthiest person globally, with his net worth having grown by $4.1 billion in 2024, according to the Bloomberg Billionaires Index. 
-While the extent of Zhao’s BNB holdings remains undisclosed, a 2017 whitepaper from BNB’s initial coin offering (ICO) revealed that 80 million tokens, valued at approximately $56 billion today, were allocated to the founding team. 
-Overall, despite the legal and regulatory challenges faced by Binance and its co-founder, the surge in the value of BNB highlights the continued interest and confidence in the token and its associated ecosystem. 
-The 1-D chart shows BNB’s price correction following its ATH milestone. Source: BNBUSD on TradingView.com
-At the time of writing, BNB was trading at $652, down 4% in the last 24 hours. However, on a year-to-date basis, the token is up a substantial 176%. 
-Featured image from DALL-E, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-Fault Proofs Go Live on OP Mainnet | Bankless
-
-
-Not financial or tax advice. Bankless is not a bank, a credit union, or any other type of financial institution. No content on this website is financial, accounting, legal or tax advice. Bankless content is strictly educational and is not investment advice or a solicitation to buy or sell any assets or to make any financial decisions. This newsletter is not tax advice. Talk to your accountant. Do your own research.
-Disclosure. From time-to-time we may add links in this newsletter to this website to products we use. We may receive commission if you make a purchase through one of these links. Additionally, the Bankless team holds crypto assets. See our investment conflict of interest disclosures here. Bankless, LLC is doing business in California as Bonkless, LLC. 
-This site is protected by reCAPTCHA.
-
-
-
-----------------
-
-XRP Whales Make $28 Million Binance Outflow: Bullish Sign?
-
-
-								On-chain data shows the XRP whales have made some large outflows from the Binance exchange, a sign that may be positive for the asset’s price.
-XRP Whales Have Made Some Transactions During The Past 24 Hours
-According to data from the cryptocurrency transaction tracker service Whale Alert, a few large transactions have been spotted on the XRP network during the past day.
-All of these transfers have been of a scale generally associated with whale entities. Whales are humongous investors capable of moving large amounts quickly across the market, thus having the potential to move the price of the asset.
-As such, the moves made by these holders during the last 24 hours can be worth knowing about as, even if they don’t end up having any visible effects on the cryptocurrency, they can at least provide possible hints about the sentiment among these large investors.
-
-First, the latest of these transfers involved the movement of 26,440,906 XRP, which was worth almost $13.2 million when the transaction went through on the blockchain.
-Naturally, the consequences this transfer may have depend on the whale’s intent behind making it. It’s usually hard to say anything about it for sure, but the address details can sometimes provide some hints. Below are the details for this XRP whale transfer.
-
-Looks like this transfer only took a negligible fee of 0.003 XRP to go through on the blockchain | Source: Whale Alert
-As is visible above, the sending address in this transaction was a wallet attached to the cryptocurrency exchange Binance, while the receiver was an unknown wallet.
-Unknown wallets aren’t affiliated with any known centralized platform and are likely to be the investors’ addresses. Moves like this, where coins go from exchanges to unknown wallets, are exchange outflows.
-Investors may withdraw from the custody of these central entities to hold onto their coins for extended periods, so exchange outflows can potentially have a bullish effect on the price.
-The second whale transaction from today was also an exchange outflow; just like this one, it involved the Binance platform.
-
-The second exchange outflow from the past day | Source: Whale Alert
-This exchange outflow was even greater, as the whale withdrew 30,406,274 XRP (around $15 million) from Binance with it. Naturally, these two whale outflows can be a positive sign for the cryptocurrency.
-
-The third and oldest transaction from the past day, though, wasn’t so bullish. It was an exchange inflow, which is the opposite type of transaction.
-
-The exchange inflow made by a whale during the last 24 hours | Source: Whale Alert
-With this transaction, an investor deposited 30,320,000 XRP ($15 million) on the Bitstamp platform. Holders usually transfer their coins to exchanges whenever they want to use one of their services, which can include selling.
-As such, exchange inflows can be bearish for the price. While this inflow is sizeable, it’s only large enough to cancel out one of the outflows, so a net amount of the asset has still fled the custody of exchanges during the past day.
-XRP Price
-XRP has experienced a drawdown of around 4% in the past week, pushing its price down to $0.50.
-
-The price of the asset seems to have been moving sideways since the drop | Source: XRPUSD on TradingView
-Featured image from Dall-E, whale-alert.io, chart from TradingView.com
-								
-								
-																	
-															
-						
-
-----------------
-
-Polygon beats Ethereum in key area - What it means for MATIC - AMBCrypto
-
-
-
-Polygon has beaten Ethereum in terms of gas usage and overall activity.
-The price of MATIC fell considerably over the last few days.
-
-Polygon [MATIC] witnessed a massive uptick in activity over the last few months and has slowly and steadily garnered attention from multiple users.
-Polygon races to the top
-Due to the growing popularity of Polygon, it outperformed Ethereum in terms of gas usage. Moreover, Polygon had outdone Ethereum in terms of monthly active users.
-Source: token terminal
-If users are flocking to Polygon for its lower fees and faster transactions, it could slow down Ethereum’s adoption rate.
-However, it’s important to remember that Polygon isn’t a direct competitor, but rather a Layer-2 scaling solution built on top of Ethereum. In the long run, a thriving Polygon ecosystem could actually benefit Ethereum.
-What about MATIC?
-Even though the Polygon network made significant progress, MATIC wasn’t able to see green.
-Even though the price of MATIC moved sideways for the most part, there was a steep decline observed when the price hit the $0.7413 level on the 6th of June.
-The OBV (On Balance Volume) for MATIC declined materially during this period. A declining OBV during this period suggested that selling pressure outweighed buying pressure for MATIC.
-A positive CMF, even at a low value like 0.03, indicates that there might still be some money flowing into MATIC despite the OBV decline.
-A positive CMF with a lower trading volume could suggest larger investors or whales accumulating MATIC despite the short-term price dip.
-Source: Trading View
-Apart from whale interest, there was retail interest in MATIC observed as well.
-AMBCrypto’s analysis of Santiment’s data indicated that the addresses holding anywhere between 0 and 100 coins had increased their rate of accumulation.
-The rise in the accumulation of MATIC suggests that many traders are looking at the recent price dip of MATIC as an opportunity to buy the token at a discount.
-Source: Santiment
-
-Realistic or not, here’s MATIC’s market cap in ETH’s terms
-
-Despite MATIC struggling to see growth in terms of price, Polygon managed to do really well in the DeFi sector.
-Notably, Polygon’s Proof-of-Stake (PoS), zero-knowledge Ethereum [ETH] Virtual Machine (zkEVM), and Coconut Development Kit (CDK) have become the go-to options for DeFi developers.
-
-
-
-
-
-
-----------------
-
-Bitcoin, Ethereum, Dogecoin Remain Choppy, Analyst Forecasts 2X-10X Increase For King Crypto This Bull Cycle - Benzinga
-
-Leading cryptocurrencies traded mostly flat on Monday, as efforts by bulls for an upside breakout stalled yet again.CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Bitcoin BTC/USD-0.02%$69,473.14Ethereum ETH/USD-0.79%$3,666.35Dogecoin DOGE/USD-0.75%$0.1449What Happened: Bitcoin hit $70,000 during trading hours but faced rejection soon after, dipping to the $69,500 zone. Similarly, Ethereum broke $3,700 briefly, only to relegate to $3,660.In the last 24 hours, 51,865 traders were liquidated, with the total liquidations coming in at $95 million. Long liquidations accounted for 78% of the total.Observations from Bitcoin's liquidation heatmap showed significant leverage concentrations around $70,826 and $70,320, suggesting a high number of potential liquidations at these levels.The number of traders opening long positions for Bitcoin surged sharply in the last 24 hours when compared to those shorting the asset, reflecting optimism about the price rise.This was also apparent in the strengthening "Greed" sentiment on the Cryptocurrency Fear & Greed Index, paving the way for a potential increase in buying pressure.Top Gainer (24 Hour)CryptocurrencyGains +/-Price (Recorded 8:30 p.m. EDT)Oasis (ROSE)+9.35%$0.1271Gnosis (GNO)+8.79%$354.64Injective (INJ)+7.10%$29.50The global cryptocurrency market cap is $2.53 trillion, shrinking 0.67% in the last 24 hours.The stock market lifted on Monday. The Dow Jones Industrial Average added  69.05 points, or 0.18%, to close at 38,868.04. The S&P 500 gained 0.26 to end at a record high of 5,360.79, while the tech-focused Nasdaq 100 advanced 0.35% to hit 17,192.53, its highest ever..The rally comes ahead of the Federal Reserve's latest rate decision and May's consumer price index data, both due on Wednesday. The CPI is the preferred inflation gauge for the Fed and investors closely track the data to ascertain the likelihood of rate cuts by the central bank.See More: Best Cryptocurrency ScannersAnalyst Notes: Widely followed cryptocurrency analyst Timothy Peterson noted Bitcoin's 200-day Moving Average hitting an all-time high, a signal which he thinks marks the end of the recovery phase."Historically, this is followed by 1-2 years of upward trends and frequent new all-time highs, with price increases of 2x to 10x," Peterson remarked.On the other hand, another prominent analyst, Michaël van de Poppe, flagged a buying opportunity for altcoins that have remained stagnant this year. "It's been a strange bull market. Solana has been doing great, Bitcoin has been rallying to an all-time high pre-halving and after the Spot ETF launch, but altcoins have gone silent since that. Is a reversal on the horizon for Altcoins? Very likely it is," Van de Poppe predicted.Photo via ShutterstockRead Next: Crypto Adoption Is Coming ‘Slow And Steady,’ Research Report Says
-
-----------------
-
-Why Bitcoin’s Big Breakout Is Just Around The Corner, According To These Experts
-
-
-								Bitcoin’s price stability below $70,000 over the past months has sparked various speculations and analyses among traders and investors.
-While the crypto community grapples with the cryptocurrency’s lackluster performance, notable crypto figures like Samson Mow and Adam Back have presented their perspectives, offering a hopeful outlook for the future of Bitcoin’s valuation.
-
-Analyzing The Factors Behind BTC Price Behavior
-Samson Mow, a staunch Bitcoin advocate and CEO of Jan3, has publicly forecasted a dramatic upsurge in Bitcoin’s price despite its recent period of price stagnation.
-In sync with Mow’s optimism, Adam Back, a prominent figure in the cryptocurrency sphere with historical ties to Bitcoin’s enigmatic creator, Satoshi Nakamoto, has suggested that the current suppression in Bitcoin prices may be attributed to urgent selling by certain market participants needing liquidity.
-According to Adam Back, these sellers are depleting their Bitcoin reserves, hinting at a potential market rebound once these assets are fully liquidated.
-This perspective is supported by data indicating active basis trading where Bitcoin is collateral rather than BTC ETFs. Additionally, the ongoing purchase activities through CME futures suggest an underlying demand waiting to influence market prices.
-Echoing Back’s analysis, Mow highlighted the increase in short interest among newer traders, which he considers unsustainable. He anticipates that these short positions will likely lead to significant liquidations, which could catalyze a sharp price increase.
-
-Mow metaphorically described Bitcoin’s current price level as a “compressed coil,” poised to explode upward, reflecting a strong rebound that could disrupt the market’s temporary stasis.
-Global Economic Indicators and Rate Cuts: Their Impact on Bitcoin’s Market Stability
-In the broader context, the crypto market is witnessing cautious movements, as seen with BTC’s slight uptick of 0.9% over the past week, maintaining its consolidation below the $70,000 mark.
-BTC price is moving sideways on the 4-hour chart. Source: BTC/USDT on TradingView.com
-This cautious trend is mirrored in global economic reactions. Recent US non-farm payroll data inducing a “risk-off” sentiment among investors has led to a shift away from riskier assets amidst prevailing economic uncertainties.
-As central banks worldwide, including the European Central Bank and the Bank of Canada, implement rate cuts, the investment landscape is adjusting to these changes, with implications for cryptocurrency markets, particularly BTC.
-
-Singapore-based crypto trading firm QCP Capital notes this as a “buy the dip” moment, recognizing potential bullish signals amidst the market’s fluctuations.
-Featured image created with DALL-E, Chart from TradingView
-								
-								
-																	
-															
-						
-
-----------------
-
-[no-title]
-
-Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
-
-----------------
-
-Protocol Village: Wormhole Opens W Staking
-
-June 10: Wormhole, the blockchain interoperability protocol, will allow holders of its W token to stake with the Tally Governance Portal, "allowing the opportunity to participate in governance and influence the future direction of the Wormhole DAO and platform," according to the team." The update marks "a significant step toward decentralizing Wormhole through MultiGov, an industry-first multichain governance system for DAOs on Solana, Ethereum mainnet, and EVM L2s," Wormhole said in a statement. "The Wormhole DAO will be the first to adopt MultiGov, enabling W holders to create, vote on, and execute governance proposals on any supported chain."
-
-----------------
-
-DeFi Technologies Adopts Bitcoin as Treasury Reserve
-
-
-DeFi Technologies Inc., a leading Canadian financial technology (fintech) company, has embraced Bitcoin (BTC) as its primary treasury reserve asset. This strategic move involves an initial purchase of 110 BTC, which signifies the company’s integration of traditional capital markets with decentralized finance (DeFi).
-The decision aligns with the broader trend of companies seeking portfolio diversification and alternative revenue streams amid changing economic conditions.
-DeFi Technologies Invests in Bitcoin as a Hedge Against Inflation
-
-Recognizing Bitcoin as a major asset class with a market value surpassing $1 trillion, DeFi Technologies considers it an effective inflation hedge. Bitcoin’s scarcity, finite nature, digital resilience, and architectural stability make it a more attractive option than traditional assets. Olivier Roussy Newton, CEO of DeFi Technologies, expressed the company’s confidence in Bitcoin.
-
-“We have adopted Bitcoin as our primary treasury reserve asset, reflecting our confidence in its role as a hedge against inflation and a safe haven from monetary debasement. As the best-performing asset over the past decade, Bitcoin offers significant short to long-term potential to expand the company’s treasury,” Newton noted.
-
-Read more: 7 Best Platforms To Buy Bitcoin (BTC) With Canadian Dollars
-
-DeFi Technologies’ latest venture has garnered attention from notable figures in the crypto industry. Anthon Pompliano, a prominent Bitcoin advocate and the founder and partner of investment management firm Morgan Creek Digital Assets, shared his thoughts on the company’s move.
-
-“Bitcoin is slowly seeping into public company treasuries around the world. We remain shareholders of DeFi Technologies (DEFTF) and believe the business is still undervalued,” he wrote on X (Twitter).
-
-The decision by DeFi Technologies comes amid significant monetary policy shifts. Recently, the Bank of Canada (BoC) decided to lower its key policy rate from 5% to 4.75%, aiming to ease the burden on highly indebted consumers.
-Lower interest rates make borrowing cheaper for both consumers and businesses. This change potentially leads to increased spending and investment.
-Lower interest rates can also mean reduced capital costs for companies like DeFi Technologies. Moreover, as returns on safer investments decrease, the attractiveness of alternative assets such as Bitcoin increases.
-Matteo Greco, a research analyst at Fineqia, shared his thoughts on this perspective. Greco emphasized Bitcoin’s potential to act as a leveraged version of gold for those who believe in its store-of-value attributes.
-
-Read more: How to Invest in Bitcoin?
-
-VIDEO
-
-According to him, viewing Bitcoin as a store of value makes sense for portfolio allocation. While gold has historically preserved purchasing power with stability, it offers limited performance. Bitcoin, in contrast, can be seen as a leveraged version of gold for those who believe in its store-of-value potential.
-
-“Over the past 15 years, Bitcoin has consistently increased in value against fiat currencies, albeit with higher volatility. Investors who accept the possibility of short-term drawdowns have found Bitcoin to be an extremely valuable mid- to long-term investment,” he told BeInCrypto.
-
-
-
-Disclaimer
-In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
-
- 
-
-
-----------------
-
-Uniswap Labs Supercharges Gaming Portfolio With Acquisition Of 'Crypto: The Game' - Details | Bitcoinist.com
-
-
-								Uniswap Labs made a significant move into the blockchain gaming industry with its recent acquisition of ‘Crypto: The Game’ (CTG), an on-chain survival game. 
-Notably, the second season of CTG witnessed unprecedented success, with all 800 available spots selling out within a mere 13 minutes. Recognizing the game’s popularity among both the core crypto community and outsiders, Uniswap Labs announced the acquisition on Monday.
-Uniswap Labs And CTG Founders Team Up
-In a statement to Fortune, Mary-Catherine Lader, Chief Operating Officer at Uniswap Labs, expressed excitement about the acquisition, saying, We’ve seen CTG generate a ton of excitement, and Uniswap is focused on making on-chain experiences more human and fun.” While the exact purchase amount remains undisclosed, it involves a combination of cash, tokens, and equity.
-
-Under the terms of the acquisition, the founders of CTG, Dylan Abruscato, Tyler Cagle, and Bryan Lee, will join the Uniswap team. Together, they are currently collaborating on the development of season three while exploring new interactive crypto experiences for consumers. 
-Importantly, the game will not simply become a promotional platform for Uniswap’s wallet or exchange, as clarified by the companies during a conference call.
-Dylan Abruscato, co-founder of Crypto The Game, expressed enthusiasm about the support from Uniswap Labs, stating, “Now we have the full force of Uniswap Labs behind us, we think that’s going to help us make season three the best one yet.” 
-Convergence Of Gaming And Crypto Communities?
-Inspired by popular TV shows like Survivor and Squid Game, CTG’s first two seasons followed a format where contestants purchased 0.1 Ethereum (ETH) (approximately $367) to join one of ten tribes consisting of 80 players. 
-Over the course of ten days, participants engaged in daily challenges voted each other out and ultimately competed for a grand prize. Season one saw a Japanese player claim a pot of over $150,000, while the prize pool grew to around $250,000 in season two.
-Uniswap Labs sponsored a challenge during season two, joining forces with partners such as Adidas and Wormhole. This sponsorship reportedly provided Uniswap with valuable insights into the game’s ability to attract new users to the world of crypto. 
-According to Fortune Magazine, CTG has gained a “cult-like” following within the crypto community, with enthusiasts closely following the game’s developments through various platforms, including podcasts and media outlets.
-
-Dylan Abruscato emphasized the diverse fan base of CTG, which comprises crypto Twitter enthusiasts, venture capitalists, founders, and influential figures like 3LAU, Packy McCormick, Jesse Pollak, and Bored Elon. 
-Significantly, the game has also managed to captivate “normies” (individuals new to crypto) who make up about 10%–15% of the audience, presenting an opportunity to onboard new users into the world of decentralized finance (DeFi).
-Although the precise number of viewers during the previous season remains unknown, CTG recorded approximately 50,000 unique visitors to its website over the ten-day gameplay period. 
-Dylan Abruscato described the game as a “24/7 crypto reality show” with villain arcs, drama, and fan favorites, which has become a spectacle within the crypto community.
-The daily chart shows UNI’s price recovery. Source: UNIUSD on TradingView.com
-Currently, the UNI token is trading at $10.29, showcasing a significant 4.5% price increase subsequent to the announcement of the acquisition. 
-Moreover, the token has experienced a remarkable 7% surge in the past week alone, contributing to its overall upward trend observed over the last month, which has resulted in an impressive 45% price increase.
-Featured image from DALL-E, chart from TradingView.com 
-								
-								
-																	
-															
-						
-
-----------------
-
-How Unisat's PIZZA airdrop skyrocketed its on-chain activity - AMBCrypto
-
-
-
-Unisat saw spikes in some key on-chain metrics.
-The platform has concluded its Pizza airdrop.
-
-Analysis showed that Unisat, Bitcoin service provider known for its Ordinals marketplace, experienced a spike in several on-chain metrics, including volume, transactions, and users lately. 
-This surge was attributed to the recently concluded PIZZA airdrop, which significantly increased activity on the platform.
-Unisat sets volume record
-An analysis of marketplaces on the Bitcoin network showed that Unisat has recently experienced a spike in some key metrics. 
-A study of the volume on Dune Analytics revealed that it has been growing steadily over the past few days, with a significant increase on 9th June. 
-The chart showed that the platform recorded over $4.5 million in volume that day, marking its all-time high (ATH). 
-Furthermore, this was the highest daily volume recorded on any platform on 9th June.
-Source: Dune Analytics
-Additionally, an analysis of the number of transactions showed consistent growth. 
-The chart indicated that the number of transactions surpassed 8,000 as of this writing, marking an all-time high (ATH). Similar to the volume, this number was also the highest recorded on any platform.
-Further analysis revealed that with the spike in volume, Unisat controlled over 48% of the marketplace’s total volume. Additionally, its share of the transactions was over 50%.
-Unisat records ATH in users
-Despite the surge in volume and transactions, data showed that the cumulative unique users on Unisat were still behind other major platforms.
- As of this writing, the number of unique users was around 125,000. While this is relatively low compared to other platforms, it represents an increase from previous weeks.
-The change in the number of users became more evident in the daily user statistics.
- Analysis of the data showed that the number of unique daily users spiked to a new high, surpassing 9,500. This was the highest number Unisat has ever seen. 
-It was also the highest among the other platforms. The closest competitor had around 6,000 daily users.
-Pizza airdrop contributes to spike in metrics
-The primary reason for the spike Unisat saw in these metrics was its Pizza airdrop. 
-A few months ago, the platform announced the airdrop of its token, PIZZA. According to its post on 9th June, all the PIZZA tokens have been airdropped to addresses that claimed them.
- 
-
-
-
-
-
-
-----------------
-
-'Dogecoin Killer' Shiba Inu's Burn Rate Explodes 13458% As Shibarium Transactions Spike, 7.7M SHIB Kicked Out Of Circulation - Benzinga
-
-Shiba Inu's SHIB/USD burn rate shot up exponentially in the last 24 hours amid a sharp increase in the transactions on the layer-1 blockchain, Shibarium.What Happened: Around 7.7 million SHIB tokens were kicked out of circulation, according to data from Shibburn, marking an astounding 13458.99% jump.Coin burning happens when a cryptocurrency token is intentionally sent to an unusable wallet address to remove it from circulation. This is done to create scarcity and boost its demand and market value.As of this writing, about 410.72 trillion SHIBs have been burned. Why It Matters:  The jump in burn rate comes as new transactions on Shibarium blockchain spiked 45% in the last 24 hours. Increased transactions typically lead to a higher burn rate for the token.The increase in on-chain activity was also supported by a 28% increase in daily active addresses in the last 24 hours, as reported by IntoTheBlock.That said, large transactions volume plunged 52%, while holdings of long-term investors dropped by 0.02%, indicating selling pressure. Price Action: At the time of writing, SHIB was exchanging hands at $0.0000226, falling 3.15% in the last 24 hours, according to data from Benzinga Pro. The second-largest memecoin was trading 7% lower over the last week.Read Next: Edward Snowden Takes A Jab At Elizabeth Warren’s Anti-Bitcoin Stance Through The Infamous ‘We’re All Going To Die’ Remark Broadcast On China-Controlled TVMarket News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Edward Snowden Takes A Jab At Elizabeth Warren's Anti-Bitcoin Stance Through The Infamous 'We're All Going To Die' Remark Broadcast On China-Controlled TV - Benzinga
-
-Renowned whistleblower and privacy advocate Edward Snowden poked fun at Senator Elizabeth Warren (D-Mass.) for her anti-Bitcoin BTC/USD stance by comparing it with the bizarre perspective of the Chinese Communist Party.What Happened: In a cheeky X post on Monday, Snowden wrote, "Elizabeth “banks should control everything” Warren: nobody will ever hate bitcoin more than me; the chinese communist party: hold my maotai."Market News and Data brought to you by Benzinga APIs© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.
-
-----------------
-
-Mark Cuban Says Crypto Could Tip The Scale In Favor Of Trump In 2024 Election Despite Ex-President's Questionable Knowledge: 'Do You Really Think He Understands Anything' - Benzinga
-
-Billionaire and prominent television celebrity, Mark Cuban, has hinted that the 2024 presidential race could be swayed by the influence of cryptocurrency, potentially favoring Donald Trump over Joe Biden.What Happened: Cuban voiced concerns about both Biden’s and Trump’s grasp of cryptocurrency, The Block reported Monday. Despite the former president’s $14 million portfolio, Cuban was unimpressed and remarked, “Do you really think he understands anything about crypto? Beyond saying he made money selling NFTs?”However, he alluded to the fact that the recent pro-cryptocurrency speech by the Republican candidate could prove to be a game-changer in the forthcoming election.Cuban reiterated his earlier stance that Biden’s allegiance to SEC Chairman Gary Gensler might cost him the presidency.Why It Matters: A long-term cryptocurrency investor, Cuban has previously expressed concerns about the SEC’s anti-crypto stance under Biden’s administration. He said that the cryptocurrency vote, particularly from younger and independent voters, could be pivotal in the election outcome.Meanwhile, Trump has declared himself the “crypto president” after raising $12 million at a San Francisco fundraiser, criticizing Democrats’ attempts to regulate the industry.With cryptocurrency becoming a key issue for up to 20% of swing state voters, the mouth-watering contest between Biden and Trump could have significant implications for the digital asset market. Analysts at Standard Chartered predict that Bitcoin could reach as high as $150,000 in the event of a Trump victory.Price Action: At the time of writing, Bitcoin was exchanging hands at $67,882.06, retracing 2.42% in the last 24 hours, according to data from Benzinga Pro.Photo by Kathy Hutchins on ShutterstockRead Next: GameStop Could Start ‘Biggest Bitcoin Adoption Story Of The Year’ With This Move, Trader SuggestsDisclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
-
-----------------
-
-Ethereum Price Downward Drift: Decline Resumes Again
-
-
-																Ethereum price failed to clear the $3,720 resistance. ETH declined again and is now at risk of more losses below the $3,550 support zone.
-
-Ethereum started a fresh decline from the $3,720 resistance zone.
-The price is trading below $3,650 and the 100-hourly Simple Moving Average.
-There is a key bearish trend line forming with resistance near $3,680 on the hourly chart of ETH/USD (data feed via Kraken).
-The pair could extend losses if there is a close below the $3,550 support.
-
-Ethereum Price Dips Again
-Ethereum price attempted a decent increase above the $3,650 resistance zone. ETH even spiked above $3,700 but the bears were active. A high was formed at $3,710 and the price started a fresh decline. There was a sharp decline below the $3,660 and $3,650 levels.
-A low was formed near $3,565 and the price is now consolidating losses, like Bitcoin. Ethereum is now trading below $3,650 and the 100-hourly Simple Moving Average.
-If there is a fresh increase or a recovery wave, the price might face resistance near the 23.6% Fib retracement level of the downward move from the $3,710 swing high to the $3,565 low. The first major resistance is near the $3,640 level.
-There is also a key bearish trend line forming with resistance near $3,680 on the hourly chart of ETH/USD. The trend line is close to the 61.8% Fib retracement level of the downward move from the $3,710 swing high to the $3,565 low.
-Source: ETHUSD on TradingView.com
-An upside break above the $3,680 resistance might send the price higher. The next key resistance sits at $3,720, above which the price might gain traction and rise toward the $3,750 level. If the bulls push Ether above the $3,750 level, the price might rise and test the $3,800 resistance. Any more gains could send Ether toward the $3,880 resistance zone.
-More Losses In ETH?
-If Ethereum fails to clear the $3,650 resistance, it could continue to move down. Initial support on the downside is near $3,550. The next major support is near the $3,520 zone.
-The main support sits at $3,500. A clear move below the $3,500 support might push the price toward $3,320. Any more losses might send the price toward the $3,250 level in the near term.
-Technical Indicators
-Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone.
-Hourly RSI – The RSI for ETH/USD is now below the 50 zone.
-Major Support Level – $3,550
-Major Resistance Level – $3,650
-																								
-															
-
-
-						
-
-----------------
-
-US Bitcoin spot ETFs end 19-day inflow streak ahead of CPI report and FOMC meeting - Crypto Briefing
-
-
-            
-            
-                            
-            
-                            
-            
-            US spot Bitcoin exchange-traded funds (ETFs) have seen their first outflows after a 19-day streak of inflows, according to data from HODL15Capital.On Monday, the ETFs experienced approximately $65 million in outflows, with Grayscale Bitcoin Trust (GBTC) reporting nearly $40 million in withdrawals.Fidelity Wise Origin Bitcoin Fund (FBTC) faced outflows of $3 million. Invesco Galaxy Bitcoin ETF (BTCO) saw a substantial $20.5 million leave its fund. Valkyrie Bitcoin Fund (BRRR) reported nearly $16 million in outflows.In contrast, Bitwise Bitcoin ETF (BITB) saw almost $8 million in net inflows while BlackRock’s iShares Bitcoin Trust (IBIT) recorded around $6 million in inflows.Other funds, including ARK 21Shares Bitcoin ETF (ARKB), Franklin Templeton Bitcoin ETF (EZBC), VanEck Bitcoin Trust (HODL), and WisdomTree Physical Bitcoin (BTCW), reported no activity in terms of inflows or outflows during the day’s trading session.US Bitcoin funds have been active buyers, accumulating approximately 25,700 BTC in the first week of June alone. IBIT remains the largest Bitcoin ETF globally, with over 304,000 BTC under management, while GBTC holds the second position with over 284,000 BTC, valued at $19.7 billion.US economic sentiment and anticipation of the Federal Reserve’s (Fed) monetary policy may have influenced Monday’s ETF flows.All eyes are on the Consumer Price Index (CPI) report and the Federal Open Market Committee (FOMC) meeting, both scheduled for Wednesday, June 12. CPI inflation is estimated at 3.4% and core CPI at 3.5%.Investors also closely monitor the Fed’s interest rate decision. The CME FedWatch Tool indicates that the market highly expects the Fed to maintain rates between 525 and 550 basis points.Upcoming economic events could also impact Bitcoin’s price dynamics. As reported by Crypto Briefing, Bitcoin’s perpetual futures markets have seen elevated funding rates, indicating a premium for long positions and a potential correction for spot prices following the FOMC meeting.According to CoinGecko’s data, Bitcoin is trading at around $68,300 at press time, down almost 2% over the past 24 hours.
-
-            
-            
-                            
-            
-                            
-            
-                            
-                    
-                        
-                        
-
-                        
-                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
-                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
-                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
-                            See full terms and conditions.
-                        
-                    
-                
-            
-            
-                            
-
-            
-        
-    
-
-----------------
-
 Bitcoin Price Falters: Another Downturn In Crypto Prices
 
 
@@ -9294,3 +8682,976 @@ Disclaimer
 In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased, transparent reporting. This news article aims to provide accurate, timely information. However, readers are advised to verify facts independently and consult with a professional before making any decisions based on this content. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
 
  
+
+
+----------------
+
+As PEPE loses 15.92% in 7 days, Is THIS a potential support level? - AMBCrypto
+
+
+
+Rising volume combined with the price decrease might drive a lower value for the memecoin.
+If a reversal occurs, PEPE could jump to $0.000014.
+
+The last seven days have been tough for memecoins including Pepe [PEPE]. According to data from CoinMarketCap, the price of the token was $0.000012.
+This represented a 15.92% decrease in the last seven days.
+However, it does not seem like things would change for the better. One reason for this could be linked to PEPE’s increasing volume.
+At press time, the was $1.22 billion. An increase in volume means that interest in a particular cryptocurrency is increasing. On the other hand, a decrease in volume suggest less buying and selling.
+No way ahead for the memecoin
+If volume increases alongside the price, it means that there is a lot of buying going on. In this case, the uptrend could be strengthened.
+However, while PEPE’s volume increased, the price fell, indicating that the downtrend could get stronger. If this continues, the price of the token might tumble, and a target of $0.000020 could be possible.
+Source: Santiment
+A few days ago, AMBCrypto reported that whales were buying the dip. In non-crypto terms, a whale is an individual that possesses large quantities of a cryptocurrency.
+Because of their large holdings, whales have the capability to influence price significantly. However, the effect of the accumulation has yet to reflect on the memecoin’s price.
+As a result, we went ahead to check if selling was still intense or not. To do this, we looked at the exchange flow.
+According to Santiment, the exchange inflow was 5.63 billion. On the other hand, PEPE’s exchange outflow was $5.67 billion. Exchange Inflow tracks the number of tokens sent to exchanges.
+An increase in the Exchange Inflow, most times, lead to a price decrease. However, if the exchange outflow increases, it means market participants are choosing to hold the cryptocurrency.
+Source: Santiment
+Hence, the difference in the inflow and outflow was minimal. Therefore, the token might not undergo another correction.
+PEPE’s price eyes $0.000010
+As such, PEPE might not fall below $0.000010. However, if the market condition gets overheated, bearish forces might lead the price lower.
+From the technical perspective, AMBCrypto analyzed the token on the 4-hour chart. First off, we looked at the Fibonacci retracement tool, which shows a specific support and resistance point.
+This could be vital to the price movement of the token. At press time, the 0.236 Fibonacci level was at $0.000010. This was a support level for PEPE, and indicates that the price might drop to the region.
+This was also supported by the Moving Average Convergence Divergence (MACD). At press time, the MACD was positive.
+Source: TradingView
+
+Read Pepe’s [PEPE] Price Prediction 2024-2025
+
+But the 12 EMA (blue) and 26 EMA (orange) were in the negative region, implying that the momentum was not completely bullish.
+However, if buying pressure increases, PEPE’s price could key into the $0.000014 resistance where the 0.618 golden ratio resided.
+
+
+
+
+
+
+----------------
+
+MetaMask Adds 'Pooled Staking' for Cheaper Ethereum Validation
+
+Staking on Ethereum conventionally requires users to tie up 32 ETH with the network, which at current market prices totals some $112,000. "Pooled" services like Lido, Rocket Pool and now MetaMask give more users access to staking by bundling together assets from various people, making it possible for anyone to stake even if they don't have 32 ETH.
+
+----------------
+
+Vitalik Buterin Says Ethereum Is ‘ Where Yesterday’s FUD Is Today’s Solved Problem’ | Cryptoglobe
+
+
+                                
+On June 11, Ethereum Foundation co-founder Vitalik Buterin commented on the current state of Ethereum Layer 2 (L2) projects, and more specifically Optimism’s OP Mainnet.
+
+
+
+The image he embedded in his post on the social media platform X (formerly known as Twitter) shows a list of L2 scaling solutions for Ethereum, categorized by their stage of development and the type of rollup technology they use (ZK Rollup or Optimistic Rollup). Vitalik Buterin’s post suggests that “stage 1+” L2s are those with robust proof systems that provide strong security guarantees. He welcomes Optimism to this group and expresses his hope that more L2s, particularly those using Zero-Knowledge (ZK) proofs, will soon achieve this level of maturity.
+
+
+
+Based on this image, there are currently no ZK-Rollups in stage 2, which is the stage Buterin is referring to when he mentions “proof systems that actually have teeth”. Only Optimistic Rollups like Fuel V1 and DeGate V1 have reached stage 2.
+
+
+
+
+
+
+
+The image is a screenshot from L2BEAT, a website dedicated to tracking and comparing various Ethereum Layer 2 scaling solutions.
+
+
+
+
+
+
+
+            
+            
+
+            
+            
+
+            
+            
+
+        
+
+L2BEAT offers a detailed overview of different L2 projects, covering aspects such as technology, performance, security, and adoption metrics. Their categorization system is designed to help users grasp the diverse approaches to scaling Ethereum and to stay informed about the current status of each project.
+
+
+
+Stage refers to the rollup stage based on its featured and maturity:
+
+
+
+Stage 0 (“full training wheels”)Stage 1 (“limited training wheels”)Stage 2 (“No training wheels”)
+
+
+
+Stage 0: Full Training Wheels
+
+
+
+The “Stage 0” designation signifies that the Layer 2 solution is in its initial development phase, marked by several key limitations:
+
+
+
+Incomplete Proof System: The mechanism for verifying transactions, known as the proof system, is still being developed.Withdrawal Censorship: There is a risk that users’ withdrawals can be restricted by centralized operators who have permission to control this process.Centralized Upgrades: Updates managed by centralized actors, as opposed to a more decentralized Security Council, provide users with less than 7 days to exit in the event of operator issues or censorship.
+
+
+
+Stage 1: Limited Training Wheels
+
+
+
+The “Stage 1” status indicates some progression from Stage 0 but highlights areas needing improvement to achieve further decentralization and user assurance:
+
+
+
+Restricted Fraud Proofs: Only pre-approved (whitelisted) actors can submit fraud proofs, which limits openness and decentralization.Short Upgrade Notices: Upgrades that are not related to on-chain provable bugs give users less than 30 days to exit, limiting their response time.Broad Security Council Actions: The Security Council’s actions are not strictly limited to on-chain provable bugs, suggesting a need for clearer governance rules.
+
+
+
+L2BEAT points out that these stages do not reflect the security of the rollup itself.
+
+                            
+                        
+
+----------------
+
+Symbiotic launches 'permissionless restaking' protocol, secures $5.8M funding - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            Symbiotic, a new restaking protocol, has officially launched and announced a $5.8 million seed funding round led by prominent crypto-native investors Paradigm and cyber.Fund, signaling strong support for Symbiotic’s vision of creating a permissionless and modular framework for networks to customize their restaking implementations.Crypto Briefing previously reported that Lido co-founders Konstantin Lomashuk and Vasiliy Shapovalov, along with venture capital firm Paradigm were secretly funding Symbiotic. The protocol is a direct competitor to EigenLayer, although it has key differences in terms of the security model. Notably, Symbiotic allows the use of a number of ERC-20 tokens and is not limited to ETH and staked Ether derivatives (such as Lido’s stETH).According to its announcement, Symbiotic aims to address the challenges faced by decentralized networks in ensuring adequate security and incentivizing infrastructure operators to adhere to protocol rules. By introducing a neutral coordination layer, Symbiotic enables networks to leverage the security of existing ecosystems, providing a streamlined and safe path to decentralization for projects at various stages of development.One of the standout features of Symbiotic is its highly flexible and modular design, which grants networks unparalleled control over their restaking implementation. Network builders can customize critical aspects such as collateral assets, asset ratios, node operator selection mechanics, rewards, and slashing mechanisms. This adaptability allows participants to opt in and out of shared security arrangements coordinated through Symbiotic, ensuring that each network can tailor its security setup to its unique requirements and goals.Symbiotic’s architecture prioritizes risk minimization through the use of non-upgradeable core contracts deployed on Ethereum. By eliminating external governance risks and single points of failure, the protocol provides a trustless and robust environment for participants. The minimal yet flexible contract design further minimizes execution layer risks, instilling confidence in the platform’s security.Another key advantage of Symbiotic is its capital efficiency, achieved through a permissionless, multi-asset, and network-agnostic design. By enabling the restaking of collateral from diverse sources, the protocol can offer scalable and cost-effective security solutions for networks of varying sizes. An evolving cross-network reputation system for operators enhances capital efficiency and trust within the ecosystem, benefiting network builders and participants alike.Symbiotic’s potential to support a wide array of use cases has already attracted the attention of several notable projects. Ethena, Chainbound’s Bolt, Hyperlane, Marlin’s Kalypso, Fairblock, Ojo, and Rollkit are among the many projects exploring the integration of Symbiotic’s restaking primitives. These collaborations span various domains, including cross-chain asset transfers, zero-knowledge proof marketplaces, and application-specific security requirements, showcasing the protocol’s versatility and broad appeal.
+“Symbiotic is a shared security protocol that serves as a thin coordination layer, empowering network builders to control and adapt their own (re)staking implementation in a permissionless manner,” the protocol said.
+As Symbiotic enters its bootstrapping phase and begins integrating restaked collateral, the impact of its shared security model could be critical to the decentralized finance sector. With its focus on flexibility, risk minimization, and capital efficiency, Symbiotic has the potential to become a cornerstone of the decentralized economy, empowering networks to achieve greater security and alignment while enabling an inclusive and collaborative ecosystem.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+Pepe, Bonk surge despite sell-off in memecoins - CoinJournal
+
+
+
+                    
+
+                    
+PEPE and BONK look to be defying this outlook with notable gains in the past 24 hours.
+Respected crypto analyst Michael van de Poppe believes a crypto bounce is likely amid multiple macroeconomic events this week.
+
+Pepe (PEPE) and Bonk (BONK) are leading top meme coin gainers today as Dogecoin and Shiba Inu struggle alongside the broader crypto market.
+Bitcoin’s sharp declines on Tuesday, coupled with bleeding for Ethereum, Solana and other altcoins, saw the sell-off pressure cascade into memecoins.
+Analyst on crypto market outlook
+According to crypto analyst Michael van de Poppe, while BTC and altcoins have struggled with downside pressure, a “bottom could be in” amid several macroeconomic events lined up for this week.
+It includes the anticipated CPI release, FOMC meeting and the Federal Reserve’s interest rate decision. These are events that could have a notable impact on the broader market.
+“The markets have been correcting down as the anticipation of these events usually has a negative relationship with the price action on the crypto markets, especially altcoins. On top of that, Roaring Kitty’s event and GameStop’s correction of last week didn’t have a positive impact on the price action,” he posted on X.
+Van de Poppe says a bullish flip is likely given previous market reactions to FOMC meetings.
+Pepe price
+PEPE traded to lows of $0.00001163 on June 11, hitting the level amid downside pressure across the market.
+While the price of Pepe remains below a downtrend line formed after the rejection from around $0.000017 in late May, today’s bounce sees it trade near $0.000013. 
+This price level has Pepe up 8% in the past 24 hours after paring some of the early gains amid intense volatility across the meme coin market.
+Nonetheless, PEPE looks poised for more upside action if buyers hold the support area.
+Bonk price
+Bonk (BONK) is the first Solana-based dog-themed memecoin, which went parabolic in late 2023 to help Solana break above the $200 level.
+In recent months, this token has lagged newly launched counterparts such as dogwifhat (WIF). However, Bonk remains a top meme coin on Solana and is currently soaring alongside GME.
+Price of Bonk is currently at $0.00002872, up 6% in the past 24 hours. BONK soared to an all-time high of $0.00004547 in March this year. 
+While down 17% this past week, today’s bounce could spark a new surge.
+
+
+                    
+
+                        Share this articleCategoriesTags
+                    
+                
+
+                
+
+----------------
+
+U.S. CPI and Fed Meeting: Things to Watch Out as BTC Nurses Losses
+
+The Labor Department's CPI, due at 12:30 UTC, is expected to show the cost of living increased by 0.1% in May, following April's 0.3% increase, according to FactSet. That would keep the annual inflation rate steady at 3.4%. Meanwhile, the core figure, excluding the volatile food and energy metrics, is forecast to rise 0.3% for May, matching April's pace.
+
+----------------
+
+Tether's EU Exit and the Road Ahead for Stablecoins
+
+
+                                EU's Ban on Major Stablecoins Sparks Crypto Volatility and Confusion                                The crypto world is preparing for a big change as the European Union plans to ban several major stablecoins, including Tether (USDT), starting July 1st. The new EU regulations, known as the Markets in Crypto-Assets (MiCA) Regulation, will effectively remove cryptocurrencies like Tether from being traded within the 27-nation bloc. This major regulatory shift is expected to have a noticeable impact on the digital asset markets, causing considerable doubt and challenges as the crypto community adjusts to these new rules.For beginners, stablecoins are cryptocurrencies designed to maintain a stable value by being pegged to traditional assets like the US dollar or commodities like gold. Their stability makes them attractive for traders, investors, and businesses dealing in crypto. However, the EU authorities have growing concerns about the risks they create.The main point causing concern? Lack of transparency and proper backing. Many major stablecoins, like Tether, don't fully back up their digital coins with the assets they claim. This makes them vulnerable to sudden withdrawals and financial instability that could affect the entire crypto ecosystem.EU's MiCA Rules – Tether's Exit and AlternativesEnter the EU's new Markets in Crypto-Assets (MiCA) rules are a major change aimed at controlling the stablecoin Wild West. MiCA demands issuers hold enough liquid reserves to cover all stablecoins in circulation, go through comprehensive audits, and meet strict capital requirements. In simple terms, this makes them more like heavily regulated banks or money market funds.For Tether, the $60 billion stablecoin giant, meeting MiCA's ambitious standards seems like a distant dream. Its famously unclear reserves are a mix of corporate bonds, other cryptos, and loans instead of solid cash and liquid assets. Achieving MiCA's high standards would expose its entire business model to scrutiny.So from July, Tether will vanish from major EU crypto exchanges like Kraken and Bitstamp, replaced by approved alternatives like Circle's USD Coin (USDC) and Societe Generale's EUR CoinVertible. But can these reliable options fill Tether's huge gap?EU's MiCA Rules Trigger Liquidity ConcernsMarket makers fear a severe liquidity shortage as traders rush from euros into dollars to continue using Tether outside the EU. A divided market split between regulated and unregulated areas could ignite, increasing volatility.Yet, regulators appear unaffected, focused on managing the "crypto-chaos." They argue that bringing transparency and safety around important stablecoins justifies short-term disturbance.Paolo Ardoino, Tether's outspoken CEO, has blasted the EU's "hugely restrictive" rules as overkill that will choke off innovation. He claims their push for banks to fully back and control stablecoins defeats their decentralized purpose.Tether's Transparency Impact – EU's Crypto Policy ShiftCritics argue that Tether brought this on itself through years of lack of transparency about its unclear reserves. Its multi-billion dollar settlements with US regulators highlighted how the largely unregulated model enabled risky practices.As the crypto world prepares for another volatile summer, all attention is on Europe's bold regulatory experiment. Will it control the stablecoin new territory and set the groundwork for safer, more transparent digital money? Or will strict rules fragment markets, crush liquidity, and harm crypto innovation?Only Time Will TellSo, I think, only time will tell if the EU's shock therapy has resolved crypto's disordered and divided problems or created an even more unstable future. Prepare crypto adventurers, instability lies ahead.Also read - Trump Goes All-In on Crypto in 2024 Presidential Campaign
+                            
+                        
+
+----------------
+
+Insider Trading Alert on Solana (SOL) Based Memecoin: Price Dropped by 95 Percent! - Bitcoin Sistemi
+
+While investors in Solana (SOL)-based memecoins continue, a large sell-off in a memecoin caused the price to crash.
+Another case of insider trading occurred in the Memecoin market, and the SOL-based memecoin called SPIKE fell by up to 95%.
+
+
+According to Lookonchain's post, investors who had insider information about the memecoin named SPIKE started selling tokens like crazy shortly after the token was launched.
+Insiders received large amounts of SPIKE through multiple wallets. However, he soon sold 292.95 million SPIKEs, equivalent to 29.3% of the total supply, for SOL 7,056 ($1.06 million).
+
+
+
+
+
+These sales caused the SPIKE price to drop by 95% in a short time. At the time of writing, SPIKE continues to trade at $ 0.00887, with a decrease of 78.8% in the last 24 hours.
+
+“Insiders are selling SPIKE like crazy and the price is down 95%!
+Insiders purchased large amounts of SPIKE through multiple wallets.
+Then, in a short time, 292.95 million SPIKE (29.3% of the total supply) was sold for 7,056 SOL ($1.06 million).”
+
+
+
+
+
+What is SPIKE?
+Solana-based SPIKE is known as the first documented artwork and drawing by Matt Furie.
+Matt Furie is an American comic book artist and illustrator. He is known for creating Pepe the Frog, a character from the Boy's Club series, which was released in 2005. Furie also owns the artwork that inspired the popular memecoin PEPE.
+
+
+
+
+
+*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+In a Bizarre Statement, Trump Says Bitcoin Should Only be Mined in the US - Tokenist
+
+
+					
+Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
+
+
+
+Former President Donald Trump is calling for the centralization of Bitcoin (BTC) mining in the United States, arguing it would help the country achieve “energy dominance.” In a post on Truth Social, Trump declared, “We want all the remaining Bitcoin to be MADE IN THE USA!!!” He further suggested that U.S.-based mining could serve as “our last line of defense” against central bank digital currencies (CBDCs) and claimed that President Biden’s “hatred of Bitcoin” benefits geopolitical rivals like China and Russia.
+
+
+
+The comments came after Trump, who became the first presidential candidate to accept cryptocurrency donations in 2023, met with executives from U.S. mining firms CleanSpark Inc. (NASDAQ: CLSK) and Riot Platforms (NASDAQ: RIOT). The former president’s embrace of Bitcoin mining aligns with his “America First” energy policies but raises questions about the implications of centralizing the decentralized cryptocurrency.
+
+
+
+Understanding Bitcoin Mining
+
+
+
+Bitcoin mining is the process by which new bitcoins are created and transactions are verified on the cryptocurrency’s blockchain network. Miners use specialized computers to solve complex mathematical problems, receiving newly minted bitcoins as a reward for their efforts. Currently, a successful miner earns 3.125 bitcoins for adding a block to the blockchain, an amount that is halved roughly every four years.
+
+
+
+The mining process is highly energy-intensive, with the Bitcoin network consuming an estimated 176 terawatt-hours of electricity annually worldwide. Profitability depends on factors like the price of Bitcoin, cost of equipment, and access to cheap electricity. As the cryptocurrency has gained mainstream acceptance, publicly traded companies have entered the mining space, with Marathon Digital Holdings ($5.60B), CleanSpark ($3.63B), and Riot Blockchain ($2.88B) ranking among the largest by market capitalization.
+
+
+
+
+
+Implications of Bitcoin Mining Centralization
+
+
+
+While Trump’s call for U.S.-centric Bitcoin mining could bring more transparency and regulatory oversight compared to mining in countries like China, it raises concerns about centralization. Bitcoin’s decentralized nature is considered one of its core strengths, with a global network of miners competing to validate transactions.
+
+
+
+Concentrating significant mining power within U.S. borders could make the network more vulnerable to government interference or targeted attacks. It may also run counter to the cryptocurrency’s founding ethos of decentralization and power distribution. 
+
+
+
+
+
+
+
+Do you think Bitcoin mining should be centralized in any one country? Let us know in the comments below.
+
+
+
+Disclaimer: The author does not hold or have a position in any securities discussed in the article.
+
+
+
+
+
+				
+
+				
+
+		
+			About the author
+		
+
+		
+		
+
+					
+				Tim Fries is the cofounder of The Tokenist. He has a B. Sc. in Mechanical Engineering from the University of Michigan, and an MBA from the University of Chicago Booth School of Business. Tim served as a Senior Associate on the investment team at RW Baird's US Private Equity division, and is also the co-founder of Protective Technologies Capital, an investment firm specializing in sensing, protection and control solutions.
+			
+		
+	
+
+									
+				
+			
+
+----------------
+
+Altcoins Bleed Against Bitcoin: Is the Market Waiting for the ETH ETF?
+
+
+							
+
+The market lacks a driving narrative, impacting altcoins unless a major catalyst, like the ETH ETF, emerges.
+
+
+
+Despite bearish sentiment, whales are accumulating altcoins down 30%-50%, signaling long-term confidence.
+
+
+
+Utility-based tokens might be a strategic buy now, anticipating a Bitcoin surge past $100K for a broader market rally.
+
+
+
+
+The much-anticipated “altseason” has yet to arrive, with the total market capitalization of altcoins falling back to December 2023 levels.
+
+
+
+Despite the currently bearish sentiment, no major narratives are propelling the market, unlike the ICO boom of 2017, DeFi surge in 2020, or NFT craze in 2023. The absence of such trends suggests altcoins may continue to underperform against Bitcoin unless a catalyst, such as the approval of spot Ethereum ETFs emerge.
+
+
+
+As noted by top crypto analyst Ash Crypto, the current market conditions could present a strategic buying opportunity. Altcoins have declined 30% to 50% from recent highs, dampening retail investor interest.
+
+
+
+
+
+
+
+However, whales continue to accumulate, signaling potential long-term confidence. This suggests a prudent strategy might be to focus on accumulating utility-focused tokens and await a Bitcoin breakout above $100,000, which could ignite a broader market rally.
+
+
+
+
+
+
+
+
+
+According to CoinMarketCap data, the overall cryptocurrency market sentiment is bearish. Ethereum (ETH) is currently trading at $3,501.46, down 2.72 % in the last 24 hours. Binance Coin (BNB) is at $605.98, down 2.95%, and Solana (SOL) has dropped 4.46% to $149.33.
+
+
+
+
+
+
+
+Source: Coinmarketcap
+
+
+
+XRP’s live price is $0.481372, with a 24-hour trading volume of $1,309,737,077, showing a 0.87% decrease. Cardano is trading at $0.425030, with a 24-hour trading volume of $527,842,682, down by 1.56%. Shiba Inu, priced at $0.000022 with a 24-hour trading volume of $810,863,260, has declined by 1.12%. 
+
+
+
+In contrast, Toncoin (TON) has risen 2.27% to $7.03, while Dogecoin (DOGE) is down 0.98% at $0.139692.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+Zimbabwe Is Seeking Comments on the Crypto Industry as It Works on Policy: Report
+
+"In line with global trends and best practices, Zimbabwe is embarking on an exercise to assess and understand the cryptocurrency landscape," the government said in a statement published in the state-run Herald newspaper Wednesday. It's "inviting all cryptocurrency service providers," whether operating inside or outside the country but providing services to people in Zimbabwe, to provide comments.
+
+----------------
+
+[no-title]
+
+Your browser is up to dateYou can use YouTube's latest features!Browse YouTube
+
+----------------
+
+Worldcoin (WLD) Faces Major Support Test - What's Next?
+
+
+Worldcoin (WLD) price failed to enter the Ichimoku Cloud, indicating a strong resistance at $5. 
+The price broke below the 200 EMA last Friday and experienced a 21% decline on a single daily candlestick following this price drop. 
+Worldcoin Holds Support Despite Persistent Bearish Trend
+
+This significant price action set the tone for the subsequent bearish trend observed over the analyzed period. Additionally, the price has reverted to reach an important resistance level at $4.45, which served as support in the past and corresponds to a 4-hour Ichimoku baseline plateau. 
+Currently, the price has stabilized around the $3.69 mark. Another important Baseline (Ichimoku) plateau that served as a key resistance level during December 2023.
+Worldcoin Price Analysis (Daily). Source: TradingView
+
+If the price manages to reclaim the $4.45 level and breaks above it, this could potentially shift WLD’s mid-term outlook to a more positive trajectory. Conversely, dropping below $3.69 could push the price down to lower support levels, such as $2.55.
+Read More: How to Buy Worldcoin (WLD) and Everything You Need to Know
+Worldcoin Faces Major Sell-Off
+The subsequent weeks from June 2 and June 9 exhibited sharp declines, with prices plummeting to $4.25 and $3.81, respectively. This indicates persistent sell-off pressure and a lack of buying support at these levels.On May 12, the number of active addresses was 1,963, signaling robust user engagement. However, this metric steadily declined, falling to 1,267 by June 9. 
+Worldcoin Active Addresses (Ethereum). Source: Santiment
+From May 12 to June 12, 2024, Worldcoin’s price plummeted by 34%. Underscoring a period of significant bearish pressure. The number of active addresses declined by approximately 35.1%, dropping back to levels seen in mid-February 2024.The reduction in active addresses suggests a waning interest among users, possibly driven by the declining price and broader market sentiment. This drop in active addresses aligns with the bearish price action, indicating reduced participation and potential exit of market participants.
+
+Strategic Recommendations
+Positive Scenario: If Worldcoin’s price manages to reclaim the $4.45 level and break above it, this could potentially shift WLD’s mid-term outlook to a more positive trajectory. This price movement would likely attract new buyers and restore confidence among existing investors, leading to increased trading volume and positive momentum.
+Read More: Worldcoin (WLD) Price Prediction 2024/2025/2030
+Negative Scenario: Conversely, if the price drops below $3.69, this could push the price down to lower support levels, such as $2.55. Breaking this key support level might trigger further sell-offs, increasing bearish sentiment and leading to additional downward pressure.
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+
+
+
+
+----------------
+
+Outflows Continued in Bitcoin ETFs Before US Inflation Data! Here are the Details - Bitcoin Sistemi
+
+
+US spot Bitcoin exchange-traded funds (ETFs) faced significant net outflows of $200 million on Tuesday, continuing the trend that ended a record streak of consecutive net inflows from Monday.
+US Spot Bitcoin ETFs See $200 Million Net Outflow Ahead of FOMC Meeting
+Grayscale's GBTC led the outflows with $121 million leaving the fund on Tuesday. Ark Invest's ARKB followed with a net outflow of $56 million, while Bitwise's BITB retreated $12 million. Fidelity and VanEck also experienced single-digit net outflows, according to SoSoValue data.
+
+
+Other funds, including BlackRock's IBIT, recorded no flows on Tuesday, indicating a broader cautious trend among investors.
+11 U.S. spot bitcoin ETFs had just ended a 19-day streak of net inflows in which they accumulated $64.93 million on Monday. Despite recent outflows, these funds have generated a total of $15.42 billion in net inflows since their launch in January.
+
+
+
+
+
+
+Market participants are now closely watching key economic indicators to be released later this week. Federal Open Market Committee (FOMC) meeting results and the latest Consumer Price Index (CPI) data will be announced today.
+CPI, a key measure of inflation, is expected to rise 0.1% from April, signaling a broader disinflationary trend, according to a report published on CNBC.
+
+
+The Federal Reserve's rate-setting meeting is not expected to bring any surprises, with CME Group predicting a 99.4% probability that the Fed will maintain its current 5.25% to 5.50% interest rate.
+*This is not investment advice.
+
+
+
+
+
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Trump calls Bitcoin mining 'last line of defense' against a CBDC
+
+
+    After reportedly meeting with several Bitcoin (BTC) miners at his Mar-a-Lago resort in Palm Beach, Florida, during which he promised support for Bitcoin mining if elected into the White House, former United States President Donald Trump had more to say on the matter.
+
+
+
+Specifically, Trump expressed his view that “Bitcoin mining may be our last line of defense against a CBDC,” referring to the earlier announced central bank digital currency that many believe threatens the nation’s economy, in a post on his Truth Social account shared on June 12.
+
+
+
+Donald Trump’s post on Bitcoin mining. Source: Truth Social
+
+
+
+CBDC issue in the US
+
+
+
+As a reminder, CBDCs have become a point of contention in US politics, with Congressman Tom Emmer warning that they might be “CCP-style surveillance tool” out to “destroy the American way of life” as he was presenting his CBDC Anti-Surveillance State Act, arguing that:
+
+
+
+
+
+
+
+
+“With this legislation, we are going to stop unelected bureaucrats in the Biden Administration from using a central bank digital currency that threatens to destroy the American way of life.”
+
+
+
+
+Back in January, the (repeat) presidential hopeful pledged he would “never allow a CBDC,” or digitized or tokenized form of currency issued and regulated by the central bank with the underlying technology possibly involving blockchain, if he returned to the White House, stating that:
+
+
+
+
+“Tonight, I’m also making another promise to protect Americans from government tyranny. As your president, I will never allow the creation of a central bank digital currency.”
+
+
+
+
+CBDCs around the world
+
+
+
+Meanwhile, a growing number of countries around the world are actively exploring CBDCs, with over 100 of them in various phases of this process – either research, development, or pilot stage – last year, according to the data acquired by Finbold back in July 2023.
+
+
+
+In October, the Governing Council of the European Central Bank (ECB) announced it was advancing its digital euro project, despite ECB president Christine Lagarde earlier triggering privacy concerns after stating that the Eurozone’s CBDC “will not be completely anonymous.”  
+
+  
+
+----------------
+
+Shiba Inu fans petition for a SHIB ETF: Will it be the next big thing? - AMBCrypto
+
+
+
+SHIB community pushes for ETF amid Bitcoin and Ethereum approvals.
+Solana and XRP ETF possibilities add to market speculation.
+
+With the approval of the spot Bitcoin [BTC] ETF in January and the anticipated launch of the Ethereum [ETH] ETF in June, the market is speculating which coin will be the next. 
+Amidst the discussions, the Shiba Inu [SHIB] community is buzzing about the possibility of a SHIB ETF.
+The petition
+The SHIB community has petitioned Grayscale, a prominent crypto ETF issuer, to consider launching a Shiba Inu ETF. 
+Interestingly, the petition has gained 10,596 signatures so far, sparking excitement within the community.
+The petition launched on Change.org noted, 
+“The introduction of a Shiba Inu ETF would symbolize a progressive stance towards cryptocurrency investment, mirroring the market’s dynamism and diversity.”
+What’s driving this buzz?
+Further justifying the launch of a SHIB ETF, the SHIBARMY highlighted several key points. 
+ Firstly, recent Google Trends data reveals Shiba Inu’s remarkable popularity, positioning it as the second most popular cryptocurrency in the U.S., after Bitcoin.
+Secondly, the proposed ETF would streamline SHIB investments, bypassing the complexities of direct crypto purchases and digital wallet management. 
+Additionally, a SHIB ETF would provide investors with a regulated and accessible avenue for capitalizing on the potential of Shiba Inu. 
+They further added, 
+“As an ERC-20 token on the Ethereum blockchain, Shiba Inu notably satisfies the Howey Test criteria, affirming its status as a non-security under U.S. law.”
+This highlights SHIB’s strong market demand, investor confidence and growing adoption. 
+SHIB isn’t alone!
+Well, this wasn’t the first instance of an altcoin sparking excitement about its ETF. 
+Notably, CNBC ‘Fast Money’ trader Brian Kelly and Daniel Yan, co-founder of Matrixport, have suggested that a Solana [SOL] ETF could be in the works.
+Ripple CEO Brad Garlinghouse further echoed this sentiment during a recent interview at Consensus 2024 who noted, 
+“I think it’s just a matter of time, and it’s inevitable there’s gonna be an Ripple [XRP] ETF, there’s gonna be a Solana ETF, there’s gonna be a Cardano [ADA] ETF, and that’s great.” 
+Shiba Inu’s market trends
+The speculation surrounding a potential SHIB ETF has made a significant impact on its burn rate. 
+As per Shibburn data, in the past 24 hours, the burn rate surged by an astonishing 2834.92%, highlighting the heightened interest and activity surrounding Shiba Inu at the time of writing.
+Despite the surge in Shiba Inu’s burn rate, the price action appeared largely unaffected, with red candlesticks dominating the daily charts and indicating a 1.17% drop over the past 24 hours. 
+This performance was further confirmed by the Relative Strength Index (RSI), which remained below the neutral level. 
+However, things remain uncertain as, Shiba Inu was observed to be in a consolidation phase, showing no clear signs of a significant upward or downward trend, but rather moving within a relatively narrow price range. 
+Source: TradingView
+
+
+
+
+
+
+----------------
+
+Crypto execs court Labour as UK election looms - Crypto Briefing
+
+
+            
+            
+                            
+            
+                            
+            
+            UK Prime Minister Rishi Sunak recently announced a snap election, placing the country’s political situation into uncertainty and turmoil. In response, crypto executives have turned to the competition to gather support and lobby for clearer crypto regulation.According to a report from Bloomberg, two nights prior to Sunak’s announcement, crypto executives gathered on a House of Commons terrace, mingling with lawmakers over wine and canapes. This event was, according to Bloomberg’s sources, organized by US-based crypto exchange Coinbase Global Inc. and its adviser, former Conservative Chancellor George Osborn. This session was claimed to be part of a concerted effort to strengthen ties with British policymakers.While members of both major political parties attended, the crypto industry’s influence campaign has increasingly focused on the Labour Party, given its commanding and steady lead in opinion polls.Sunak’s decision to set the election for July 4 confirmed the wisdom of this approach, but it also highlighted the uncertainty surrounding crypto regulation in the UK, as Labour has not held power since 2010, when Bitcoin was still in its infancy.Labour leader Keir Starmer has remained largely quiet on the topic of cryptocurrencies, leaving industry insiders guessing about his intentions for regulation should his party emerge victorious.Laura Navaratnam, UK policy lead at the Crypto Council for Innovation, suggested that even Labour may not have a clear stance yet, claiming that while everyone else is “trying to guess” what Starmer’s intentions are for the country’s crypto sector, it’s also possible that Labour does not know “what they think yet.”The upcoming elections in the UK and US, set just four months apart, represent a critical juncture for the crypto industry. Since the previous electoral cycles, the sector has experienced a severe market downturn and intensified regulatory scrutiny. However, the past year has also brought a remarkable resurgence, marked by the approval of Bitcoin and Ether exchange-traded products in both countries.In the US, the crypto industry is bolstering campaign contributions to crypto-friendly candidates to sustain this positive momentum. Meanwhile, in the UK, the focus has been on cultivating relationships with Starmer and the Labour Party.
+“We’re fearful that if the government delays too long in getting a full regulatory package in place, we’re going to be way behind our competitors,” said CryptoUK board advisor Ian Taylor.
+The crypto industry’s wish list for the UK includes swiftly introducing comprehensive regulations, reviving the stablecoin legislation proposal, easing restrictions on marketing crypto products, and addressing difficulties in obtaining banking access. However, the fate of these objectives remains uncertain, particularly if Labour takes the reins of government.As the election approaches, crypto executives are also turning their attention to key Labour figures such as Rachel Reeves, the shadow chancellor, and Tulip Siddiq, the shadow city minister. These two figures are likely to oversee efforts to restore London’s status as a global financial hub post-Brexit should Labour secure a win.The crypto industry is also adapting its political messaging to resonate with a potential Labour government. Rather than emphasizing pro-market and pro-competition themes, companies are prioritizing grassroots outreach in Labour strongholds and demonstrating how digital assets can benefit ordinary people.
+
+            
+            
+                            
+            
+                            
+            
+                            
+                    
+                        
+                        
+
+                        
+                            The information on or accessed through this website is obtained from independent sources we believe to be accurate and reliable, but Decentral Media, Inc. makes no representation or warranty as to the timeliness, completeness, or accuracy of any information on or accessed through this website. Decentral Media, Inc. is not an investment advisor. We do not give personalized investment advice or other financial advice. The information on this website is subject to change without notice. Some or all of the information on this website may become outdated, or it may be or become incomplete or inaccurate. We may, but are not obligated to, update any outdated, incomplete, or inaccurate information.
+                            Crypto Briefing may augment articles with AI-generated content created by Crypto Briefingâs own proprietary AI platform. We use AI as a tool to deliver fast, valuable and actionable information without losing the insight - and oversight - of experienced crypto natives. All AI augmented content is carefully reviewed, including for factural accuracy, by our editors and writers, and always draws from multiple primary and secondary sources when available to create our stories and articles.
+                            You should never make an investment decision on an ICO, IEO, or other investment based on the information on this website, and you should never interpret or otherwise rely on any of the information on this website as investment advice. We strongly recommend that you consult a licensed investment advisor or other qualified financial professional if you are seeking investment advice on an ICO, IEO, or other investment. We do not accept compensation in any form for analyzing or reporting on any ICO, IEO, cryptocurrency, currency, tokenized sales, securities, or commodities.
+                            See full terms and conditions.
+                        
+                    
+                
+            
+            
+                            
+
+            
+        
+    
+
+----------------
+
+Shiba Inu Loses 14% In Last 7 Days - Will The Misery Worsen?
+
+
+																Shiba Inu (SHIB) might be facing its own demise as analysts predict a continuation of its week-long price decline. The meme coin, known for its association with the adorable Shiba Inu dog breed, has lost nearly 14% of its value in the past seven days, raising concerns about its future.
+Source: Coingecko
+
+	Related Reading
+
+
+Bearish Signals Fill The Air
+Technical indicators often used to gauge market sentiment are flashing red for SHIB. The Relative Strength Index (RSI) and Money Flow Index (MFI) currently sit at 38 and 35, respectively. While these values suggest the asset might be oversold and ripe for a rebound, other indicators paint a bleaker picture.
+The Elder Ray Index, which measures the strength of buyers versus sellers, has been firmly in negative territory since June last week, indicating a clear dominance of bears in the market.
+SHIB price down in the last week. Source: Coingecko
+The current technical outlook for SHIB is bearish. The lack of buying pressure combined with strong selling momentum suggests the price could drop further in the short term. Analysts expect to see SHIB retreating to the $0.000020 mark.
+Is The Howl Of The Crowd Fading?
+NewsBTC’s analysis also highlights a potential decline in investor interest for the self-proclaimed “Dogecoin Killer”. This waning enthusiasm could be a significant contributing factor to the price drop.
+The meme coin’s initial surge to prominence relied heavily on social media hype and community-driven movements. However, with the overall cryptocurrency market experiencing a correction, and meme coins facing increased scrutiny, the “Shiba Army” might be losing some of its steam.
+Total crypto market cap currently at $2.39 trillion. Chart: TradingView
+While the immediate future appears bleak for SHIB, a complete collapse isn’t entirely out of the question. Market sentiment could trigger a price rebound. If bulls regain control and investor confidence returns,
+SHIB could potentially climb back up to the $0.000024 mark. However, analysts warn that this scenario hinges heavily on unforeseen market forces and a renewed wave of community support.
+Source: CoinCodex
+SHIB Price Forecast
+Meanwhile, with a projected value of $0.00007 by July 12, 2024, the present analysis of Shiba Inu (SHIB) points to a large potential price growth of 226%. But even with this bullish price forecast, the technical indications show that the market is still pessimistic.
+
+	Related Reading
+
+
+Source: CoinCodex
+The Fear & Greed Index, which pegs high levels of greed at 72, supports this feeling. Shiba Inu’s price volatility over the last 30 days has been moderate at 4.50%. Only 40% of the days have seen increases, suggesting that there hasn’t been much bullish momentum.
+Featured image from Reddit, chart from TradingView
+																								
+															
+
+
+						
+
+----------------
+
+FTX's Ghost Token: Can FTT Defy the Odds and Deliver 5X Returns?
+
+
+							
+
+FTT hit a low of $1.37, crashing by 15% from the weekly high of $1.61.
+
+
+
+Analyst Mags argued that FTT would either see a 5X rally or drop to zero.
+
+
+
+Targeting a $10 price point, the analyst predicts an “inverse FTX” scenario for FTT.
+
+
+
+
+FTX’s native token, FTT, has plummeted amid the ongoing Bitcoin-led price correction, recently hitting a low of $1.37, down approximately 15% from its weekly high of $1.6109. The token has also declined over 20% from its value a month ago.
+
+
+
+However, some market analysts see potential in FTT, betting on significant price growth. In an X post, technical analyst Mags revealed accumulating FTT over the past few weeks, acknowledging that FTT is a “shitcoin” lacking inherent utility to boost its value beyond market speculation.
+
+
+
+
+
+
+
+Despite this, Mags asserted that FTT could experience gains of up to 500% when market conditions improve, arguing that FTT will either see a 5X rally or drop to zero.
+
+
+
+Specifically targeting a $10 price point, the analyst predicts an “inverse FTX” scenario for FTT, drawing parallels to FTT’s price of $25 just days before FTX’s bankruptcy. Following the bankruptcy in November 2022, FTT lost nearly 100% of its value, hovering around $1 ever since. Mags anticipates a dramatic comeback for FTT in the current bull market, similar to its previous trajectory.
+
+
+
+
+
+
+
+
+
+Specifically targeting a $10 price point, the analyst predicts what he calls an “inverse FTX” scenario for FTT. This outlook is inspired by the fact that FTT traded as high as $25 just days before FTX went bankrupt. Mags is not the only one projecting an “inverse FTX” case for FTT. Analyst Javon Marks suggested as well that FTT is in an oversold trend, based on technical indicators. He projected an impending 270% rally, potentially pushing FTT to the $6 level before any further upward movement.
+
+															
+									Disclaimer: The information presented in this article is for informational and educational purposes only. The article does not constitute financial advice or advice of any kind. Coin Edition is not responsible for any losses incurred as a result of the utilization of content, products, or services mentioned. Readers are advised to exercise caution before taking any action related to the company.
+								
+							
+						
+						
+						
+
+----------------
+
+FED Interest Rate Decision is Expected in Bitcoin Today! At what time will it be announced? Here are the Expectations! - Bitcoin Sistemi
+
+The FED left interest rates unchanged at 5.25-5.50 percent in May. Following the May decision, markets are now waiting for the June interest rate decision.
+When Will the June FED Interest Rate Decision Be Announced?
+While the fourth FED interest rate decision of 2024 is expected to have an impact on gold, dollar, oil, Bitcoin (BTC) and crypto currencies, the FED will announce its June decision on June 12, that is, today at 21:00 CET.
+
+
+FED President Jerome Powell will make a statement after the decision.
+In Which Direction Are Expectations Concentrating?
+Macroeconomic data, which signals that the fight against inflation may last longer than expected, increases concerns that the FED may start interest rate cuts later.
+
+
+
+
+
+While the probability of the FED not changing interest rates in June is priced at 99.4%, expectations for an interest rate cut in the US this year have now dropped to one or two.
+At this point, economists revise the FED's expectation of 3 interest rate cuts in 2024 to 2, while they do not expect the first interest rate cut to be made before September.
+
+
+However, economists think that the US inflation data to be announced today will be important data for postponing the FED's interest rate cut decision to a later date.
+According to LH Meyer/Monetary Policy Analytics Economist Derek Tang, speaking to Bloomberg, the FED sees an upside risk in inflation.
+
+
+
+
+
+Tang said about this:
+
+“At this point, the interest rate decision means a relaxation process that must be carried out very carefully. “FED members do not intend to stimulate the economy in an undesirable way as a result of excessive easing.”
+
+According to Bloomberg Economics, which provides a comprehensive macroeconomic research service to Bloomberg's Terminal subscribers, this meeting may be the most important meeting of the year, where FED President Jerome Powell will give the clearest clue about the interest rate cut schedule.
+Bloomberg economist Anna Wong said that instead of three interest rate cuts in March, she predicts that there will be two interest rate cuts expected on the dot plot today.
+
+While the FED was expected to keep interest rates constant in June, Bitcoin started the critical week with a decline. BTC, which dropped from $69,000 to $66,000 in the last two days, continues to be traded at $67,380 at the time of writing.
+.*This is not investment advice.
+
+
+Follow our Telegram and Twitter  account now for exclusive news, analytics and on-chain data!
+
+
+
+
+
+
+
+
+----------------
+
+Trump Wants All Remaining Bitcoin Mined In The United States - The Defiant
+
+Trump met with Bitcoin mining execs at the former president’s Mar-a-Lago resort on June 11.Donald Trump is courting the Bitcoin mining industry in the Republican presidential candidate’s latest pro-crypto push.On June 11, Trump said he wants every remaining Bitcoin (BTC) to be mined within the United States. Trump added that bolstering the domestic mining industry will also serve to promote the country’s energy industry and protect the nation against hypothetical moves to introduce a central bank digital currency (CBDC)."Bitcoin mining may be our last line of defense against a CBDC,” Trump posted on his social media platform, Truth Social. “We want all the remaining Bitcoin to be made in the USA!!! It will help us be energy dominant."Trump also held a meeting with executives from Bitcoin mining companies including CleanSpark Inc., Riot Blockchain, and Galaxy Digital at his Mar-a-Lago residence.Bitcoin’s supply is hard-capped at 21 million coins. Nearly 94% of BTC or 19.7 million coins have already been mined, much of which was produced in jurisdictions offering cheap renewable energy such as China. The final BTC is expected to be mined by the year 2140.Amanda Fabiano, head of mining at Galaxy Digital and one of the meeting’s attendees, tweeted that promoting the Bitcoin mining industry serves to strengthen the U.S. electrical grid and foster job creation, particularly in “small-town” areas."Our industry has faced an enormous amount of political struggle, fueled by misinformation and misguided narratives,” she said. “Today, a representation of Bitcoin miners had the chance to explain that to President Trump.”CleanSpark co-founder, Matthew Schultz, was also present at the meeting. Schultz told Bloomberg that Trump committed to supporting the Bitcoin mining industry should he become re-elected.The news follows President Joe Biden proposing a 30% tax on electricity used for Bitcoin mining, among other regulations aimed at the cryptocurrency industry in March.The Biden administration’s proposed 2025 budget estimated the new taxes could generate nearly $10 billion in revenue next year and more than $42 billion across the next decade. The proposed excise tax targets firms using computing resources to mine digital assets and would be phased in over three years: starting at 10% in the first year, increasing to 20% in the second, and reaching 30% in the third year, effective after Dec. 31, 2024.Despite Trump's pro-mining pronouncements, the former president failed to provide any policy proposals aimed at supporting the U.S. mining sector.Bitcoin halving hits miner revenuesThe cryptocurrency mining sector has recently taken a hit after mining rewards were cut in half by the quadrennial Bitcoin halving event in April.Data from blockchain.com shows that on April 16, the day of the halving, the Bitcoin hash rate peaked at 650 exahashes per second (EH/s), but has since dropped to 593 EH/s — indicating that many inefficient miners have been forced offline due to reduced rewards no longer offsetting their operational expenses.Other miners have been selling off their reserves in a bid to keep afloat, presumably anticipating higher BTC prices in the future. According to CryptoQuant, miner reserves have dropped to their lowest level since July 2021 amid the largest annual drop since 2011.Trump courts crypto industryDespite Trump’s recent pro-crypto pivot, some in the web3 community are skeptical that the presidential candidate would deliver on his promises if re-elected, noting that he failed to introduce permissive cryptocurrency regulations during his four-year term from 2016 through 2020.His recent supportive remarks appear aimed at gaining the favor from the crypto industry ahead of the 2024 election. In 2021, Trump labeled Bitcoin a "scam."Regardless, Trump’s pro-cryptocurrency stance has garnered him support from web3 industry leaders. He reportedly raised $12 million at a Silicon Valley fundraising event on June 6. Last month, Trump also announced he would accept political donations in the form of cryptocurrencies.
+
+----------------
+
+Trump vows to make US a Bitcoin mining powerhouse if re-elected
+
+European law authorities raise concerns over privacy coins, Layer-2 networks and crypto mixers Regulation 17 hours agoThe report highlights significant gaps in law enforcement's ability to track and recover illicit digital assets moved via privacy coins, layer-2 networks, and crypto mixers.  
+
+----------------
+
+Bitcoin And Gold: China's Largest Bank Highlights Comparable Scarcity | Bitcoinist.com
+
+
+								Digital assets, like Bitcoin, have ushered in a new era for the cryptocurrency industry by radically changing the financial and technological landscape. Recently,  the world’s largest bank by total assets, the Industrial and Commercial Bank of China (ICBC), has applauded the remarkable growth and evolution of digital currencies, emphasizing their transformative potential in the financial landscape. Particularly, the bank focused on Bitcoin, likening its limited quantity and intrinsic rarity to that of gold. 
+Bitcoin’s Scarcity Comparable to Gold
+ICBC bank lauded digital currencies for their significance in a constantly changing financial environment in its Macro Economy In-depth Analysis. VanEck head of digital asset research Matthew Sigel shared the report on the X (formerly Twitter) platform, calling it a love letter to Bitcoin and Ethereum.
+
+The analysis highlights the exponential increase of digital currency types and uses as a result of human beings’ capacity for imaginative belief. According to the report, the ongoing evolution of digital currencies is driven by market demand, as evidenced by the inception of Bitcoin, the creation of Ethereum, and the ongoing investigation of official digital currencies by different central banks.
+Furthermore, the bank made a comparison between Bitcoin and gold, claiming that the crypto asset retains a scarcity similar to gold. Given BTC’s mathematical consensus, which addresses its issues of being hard to split, hard to detect authenticity, and cumbersome to carry, this comparison was made. “Its monetary attributes are gradually weakening, while its asset attributes are constantly strengthing,” the report added.
+ICBC’s analysis highlights Bitcoin’s limited supply of 21 million coins in keeping with the finite character of gold, which has historically supported its value. With only 21 million coins ever to be produced, BTC, sometimes known as digital gold, has long been praised for its scarcity. Specifically, the crypto asset’s rapid increase in value and popularity over time can be attributed to its scarcity.
+This analogy emphasizes how BTC is quickly becoming the modern counterpart of gold as a digital store of value. Additionally, the fact that one of the most powerful financial institutions in the world has acknowledged Bitcoin’s scarcity lends the cryptocurrency more credibility and attraction to both institutional and individual investors.
+Ethereum Is Digital Oil
+The report also delved into Ethereum’s uniqueness and role in the digital currency landscape. It referred to Ethereum as “digital oil” because of its vital function in enabling decentralized apps and smart contracts in the blockchain network. According to ICBC, Ethereum introduces Turing completeness, in contrast to Bitcoin, with its unique virtual machine (EVM) and programming language (solidity). 
+
+Due to its Turing completeness, ETH can execute any programming instruction as long as the instructions are accurate and have enough resources. Thus, developers can have the ability to create and organize a wide range of intricate smart contracts and applications, hence offering robust platform support for blockchain technology.
+ETH’s adaptability has attracted widespread recognition in the domains of Non-fungible tokens (NFT) and Decentralized Finance (DeFi), and it is progressively expanding to the physical infrastructure network (DePin).
+BTC trading at $67,416 on the 1D chart | Source: BTCUSDT on Tradingview.com
+Featured image from Adobe Stock, chart from Tradingview.com
+								
+								
+																	
+															
+						
+
+----------------
+
+Shiba Inu Exec Teases Guide on How to Deal With Bearish Days
+
+
+
+
+Cover image via stock.adobe.com
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+Bearish days are some of the most troubling times in the digital currency ecosystem, and investors tend to lose faith during this period. Drawing on this, Shiba Inu Marketing Lead Lucie has shared some unique things community members can do to weather the current bearish storm.Bear market to-do listIt is worth noting that bearish market days are often characterized by elongated days, wherein Shiba Inu ends the trading day down on the negative. At the time of writing, Shiba Inu has slumped by 0.34% in 24 hours and by more than 15% over the past week.According to Lucie, it is best for longer-term investors to stay away from the market. While away, the SHIB publicist said investors can try to focus on long-term goals. As a community, Shiba Inu’s long-term goal is to hit the one-cent price mark. To achieve this, a lot of SHIB needs to go off circulation through burning, with enough use cases added to the market. Lucie also emphasized the need to educate oneself to get through the bear market. The executive advocated limiting social media exposure where fear, uncertainty and doubt (FUD) spread, while also pushing for portfolio diversification. Another intention is to stay connected with positive communities while practicing discipline.When needed, Lucie noted that taking breaks is important, with users likely to do better when they reflect on past market cycles.Brighter days triggeredAs a financial market product, it is unlikely that Shiba Inu will stay down forever. With its strong correlation with Bitcoin (BTC), it is also likely to follow any bullish recovery the premier coin might see moving forward.Shibarium, the project’s Ethereum-based layer-2 scaling solution also serves as a major catalyst to watch as Shiba Inu plots a pathway to recovery.
+
+
+
+----------------
+
+What's Next for Algorand (ALGO) as Millions Hit Order Books?
+
+
+Algorand’s (ALGO) price reached a monthly low of $0.15 on Tuesday, June 11, despite trading around $0.18 in early June. On-chain analysis examines the token’s potential, highlighting indicators that may drive ALGO’s price action.
+In March, ALGO followed the broader altcoin rally, reaching a yearly peak of $0.31. However, as the market fell to the demand of bearish forces, so did ALGO. Is the token ready for respite, or is a further downtrend in the works?
+Algorand Sellers on the Sidelines
+BeInCrypto examines the Order Books of 11 crypto exchanges to gain insight into this. Employing this metric, one can ascertain whether investors plan to sell off many tokens or buy them.
+The Order Books have the “bid” and “ask” segments, as shown below. In simple terms, a bid is a price level at which traders are willing to buy a cryptocurrency. The opposite is ask, which describes prices targeted at selling.
+According to data obtained from IntoTheBlock, Algorand investors have placed bids to buy 53.97 million tokens. At an average price of $0.16, those assets are worth $8.09 million. 
+Algorand Order Books On Exchanges. Source: IntoTheBlock
+On the other side of the divide, another set lined up to sell a staggering $80.27 million ALGO. This average asked price was $0.16, meaning the value that could be sold is $12.84 million. 
+
+Therefore, the significant difference between the buy and sell orders indicates that bears are in charge. 
+Read more: What Is Algorand (ALGO)?
+Bearish Sentiment Lingers For Algorand
+Furthermore, Santiment data revealed that the Weighted Sentiment around Algorand was negative. Weighted Sentiment tracks the level of positive or negative comments about a project. If the metric is positive, it means that the average market participant is optimistic. 
+This could lead to increased buying pressure and a possible price increase. Alternatively, a negative reading suggests that most participants share cynical opinions about a token. 
+In this instance, it becomes difficult for the price to bounce except on rare occasions where the negative sentiment becomes extreme.
+Algorand Weighted Sentiment. Source: Santiment
+In summary, ALGO may attempt to revisit $0.16. However, the block of sell orders in that region and the bleak outlook may force a rejection. If this prediction plays out, Algorand’s price may slide further.
+ALGO Price Prediction: Can It Slide to $0.14? 
+
+Besides the abovementioned indicators, the Global In and Out of Money (GIOM) supports this bearish forecast.  In non-technical terms, the GIOM categorizes addresses based on those making money at a breakeven point and addresses holding at a loss.
+With this metric, one can identify support and resistance regions. The larger the group, the more a price level can hold as resistance or support.  
+The chart below shows that 1.12 million addresses purchased 2.68 billion Algorand tokens at an average price of $0.19. This means that if ALGO approaches this sell-wall, holders may try to break even. Hence, this could be a resistance point for ALGO, and a rejection to $0.14 may be likely. 
+Algorand (ALGO) GIOM and Price Prediction. Source: IntoTheBlock
+However, one may need to look for Algorand’s network activity. For instance, the number of zero-balance and active addresses on the network has been increasing since June 10. Precisely, active addresses were 102.670 on June 11. Zero-balance addresses were, however, 37,980 on the same day.
+
+Active addresses estimate the number of users on a blockchain, while zero-balance addresses measure the number of new wallets interacting with a network.
+The increase in both metrics may be positive for Algorand. If the number continues to grow, it could invalidate the bearish theory. 
+Read more: Algorand (ALGO) Price Prediction 2024/2025/2030
+
+Algorand Active Addresses. Source: IntoTheBlock
+In addition, one has to keep an eye on the $0.15 region. This could prevent ALGO from another downturn since millions of holders bought a ton of tokens at that price. 
+Beyond that, network activity has been the most intense in the same region this month. If these holders mount pressure on the token at this point, ALGO may bounce toward $0.17.
+
+
+
+Disclaimer
+In line with the Trust Project guidelines, this price analysis article is for informational purposes only and should not be considered financial or investment advice. BeInCrypto is committed to accurate, unbiased reporting, but market conditions are subject to change without notice. Always conduct your own research and consult with a professional before making any financial decisions. Please note that our Terms and Conditions, Privacy Policy, and Disclaimers have been updated.
+
+ 
+
+
+----------------
+
+Notcoin (NOT) Price Prediction for June 12
+
+
+
+
+Cover image via U.Today
+
+Disclaimer: The opinions expressed by our writers are their own and do not represent the views of U.Today. The financial and market information provided on U.Today is intended for informational purposes only. U.Today is not liable for any financial losses incurred while trading cryptocurrencies. Conduct your own research by contacting financial experts before making any investment decisions. We believe that all content is accurate as of the date of publication, but certain offers mentioned may no longer be available.
+
+
+
+Despite a recent sharp market dump, a bounce back has not happened yet, according to CoinStats.NOT chart by CoinStatsNOT/USDThe rate of Notcoin (NOT) has risen by 2% since yesterday.Image by TradingViewOn the hourly chart, the price of NOT is near the resistance of $0.0166. If it breaks out, there is a chance to see a test of the $0.017 zone shortly.Image by TradingViewOn the daily time frame, bears are still more powerful than bulls. The rate of NOT has bounced off the support of $0.01526. But if the price comes back to it, the strength might be enough for a dump to the $0.0.13 range. Such a scenario is relevant until the end of the week.Image by TradingViewOn the weekly chart, there are not so many levels yet. In this case, one should focus on the last candle low. If the current bar closes below it, the correction may continue to the $0.012-$0.014 zone.NOT is trading at $0.0162 at press time.
+
+
+
+----------------
+
+Crypto trader turns $30M to $17M in two months, loses $13M
+
+
+    A crypto trader and the formerly largest Ethena (ENA) staker has capitulated with $13 million of mostly realized losses. As fear took over, the investor unstaked a $17 million position built with an initial investment of around $30 million.
+
+
+
+Notably, the trader built his position from April 5 to April 10 with four 5 million ENA withdrawals from Binance. According to a Lookonchain report on X, the purchases resulted in a 23.24 million ENA position worth $30 million. The average price was $1.29 per token.
+
+
+
+Later, the Ethereum (ETH) address ‘0x886b70db1A5Ec9DA60231D3A059b640dB7f116ed‘ staked the recently acquired ENA, becoming the token’s largest staker, interested in the yield.
+
+
+
+
+
+
+
+However, the strategy backfired, with a consistent two-month price loss since the top when this crypto trader bought the tokens. As a result, he unstaked a then-worth $17.3 million position and sold 19.36 million at a loss. By Lookonchain‘s posting time, the capitulation was worth $14.1 million, with ENA at $0.71.
+
+
+
+Ethena (ENA) price. Source: CoinGecko / Lookonchain
+
+
+
+Ethena whales sell-off since April’s all-time high
+
+
+
+It is worth noting that Ethena whales have been selling off their tokens since the all-time high reached in April.
+
+
+
+Finbold gathered data from Santiment showing the whale activity of addresses holding between 10 million to 100 million Ethena tokens. Overall, these whales held 459 million ENA on April 8, dropping 33% to 305 million ENA on June 12.
+
+
+
+Ethena addresses with 10M-100M ENA. Source: Santiment’s SanBase Pro / Finbold (Vini Barbosa)
+
+
+
+Ethena raises concerns while backed by known crypto traders
+
+
+
+Interestingly, at that time, Ethena got in the spotlight, backed by known crypto traders and investors such as Arthur Hayes. The increased attention raised concerns and similarities with Terra (LUNA), backing an algorithm stablecoin, as reported by Finbold in April.
+
+
+
+In summary, Ethena is a protocol built on Ethereum that has a governance token, ENA. Ethena aims to be “the internet bond,” providing a synthetic dollar, USDe, and “internet native yield.” 
+
+
+
+Nevertheless, it is impossible to know whether Ethena will be a huge success or a drastic failure. Investors engaging with USDe must understand the risks and make conscious decisions moving forward.
+
+
+
+Disclaimer: The content on this site should not be considered investment advice. Investing is speculative. When investing, your capital is at risk.  
+
+  
