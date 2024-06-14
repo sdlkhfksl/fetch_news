@@ -1,35 +1,39 @@
 import feedparser
 import requests
-import re
 import time
 from collections import deque
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 
-# 创建会话并设置用户代理
-session = requests.Session()
-session.headers['User-Agent'] = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1'
+# Helper Functions
+def get_real_url(url):
+    """Retrieve the final URL using Selenium."""
+    options = Options()
+    options.add_argument("--headless")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    service = Service(ChromeDriverManager().install())
+    
+    driver = webdriver.Chrome(service=service, options=options)
 
-# 定义重定向和格式化URL的函数
-def reformat_url(url):
-    result = re.sub(r'https://cryptopanic.com/news/(\d+)/.*', r'https://cryptopanic.com/news/click/\1/', url)
-    return result
-
-def get_real_url(re_url):
-    """Retrieve the final URL after following redirects, with retry mechanism."""
-    for attempt in range(3):
-        time.sleep(10)  # 添加的延时
-        try:
-            response = session.get(re_url, timeout=5)
-            response.raise_for_status()
-            return response.url
-        except requests.exceptions.RequestException as e:
-            print(f'Error fetching real URL, attempt {attempt + 1}: {e}')
-            if attempt == 2:
-                return None  # 如果三次重试均失败，返回None
+    try:
+        driver.get(url)
+        time.sleep(5)  # 等待页面加载完成
+        real_url = driver.current_url
+        return real_url
+    except Exception as e:
+        print(f'Error fetching real URL: {e}')
+        return None
+    finally:
+        driver.quit()
 
 # 读取累积的链接或初始化一个空deque，最多存储30条链接
 try:
     with open('accumulated_links.txt', 'r') as file:
-        accumulated_links = deque(file.read().splitlines(), maxlen=300)
+        accumulated_links = deque(file.read().splitlines(), maxlen=30)
 except FileNotFoundError:
     accumulated_links = deque(maxlen=30)
 
@@ -38,8 +42,7 @@ feed_url = 'https://cryptopanic.com/news/rss/'
 feed = feedparser.parse(feed_url)
 
 for entry in feed.entries:
-    formatted_url = reformat_url(entry.link)
-    final_url = get_real_url(formatted_url)
+    final_url = get_real_url(entry.link)
     
     if final_url and final_url not in accumulated_links:
         accumulated_links.append(final_url)  # 添加新链接到deque中
