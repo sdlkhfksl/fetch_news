@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from collections import deque
 
 # Configuration
-CRYPTOPANIC_API_TOKEN = "29fbfbbfbf3228ccdf295f99b96eeed102d62902"
+CRYPTOPANIC_API_TOKEN = os.getenv("CRYPTOPANIC_API_TOKEN", "29fbfbbfbf3228ccdf295f99b96eeed102d62902")
 
 # Logging Configuration
 log_file = "./fetch_and_save_real_urls.log"  # Log file in root directory
@@ -53,39 +53,64 @@ def fetch_new_article_links(api_token):
     data = response.json()
     return [post['url'] for post in data['results'] if 'url' in post]
 
-# Directory to store real URLs
-output_file = "./real_urls.txt"
+# Directory to store URLs
+raw_urls_file = "./raw_urls.txt"
+real_urls_file = "./real_urls.txt"
 
-# Load existing URLs to maintain the latest 50 links
-url_queue = deque(maxlen=50)
+# Load existing raw URLs to maintain the latest 50 links
+raw_url_queue = deque(maxlen=50)
 try:
-    with open(output_file, "r") as file:
+    with open(raw_urls_file, "r") as file:
         for line in file:
-            url_queue.append(line.strip())
+            raw_url_queue.append(line.strip())
 except FileNotFoundError:
-    logging.info(f"{output_file} file not found, starting with an empty deque")
+    logging.info(f"{raw_urls_file} file not found, starting with an empty deque")
+
+# Load existing real URLs to maintain the latest 50 links
+real_url_queue = deque(maxlen=50)
+try:
+    with open(real_urls_file, "r") as file:
+        for line in file:
+            real_url_queue.append(line.strip())
+except FileNotFoundError:
+    logging.info(f"{real_urls_file} file not found, starting with an empty deque")
 
 # Fetch new article links
 new_links = fetch_new_article_links(CRYPTOPANIC_API_TOKEN)
 
 # Process each link to get the real URL and save it to file
+new_raw_urls = []
 for url in new_links:
-    real_url = extract_real_url_with_selenium(url)
-    if real_url and real_url not in url_queue:
-        url_queue.append(real_url)
-        logging.info(f"Processed URL: {real_url}")
-    else:
-        if not real_url:
-            logging.warning(f"Failed to process URL: {url}")
-        else:
-            logging.info(f"URL already in queue: {real_url}")
-    time.sleep(10)  # Rate-limit our requests
+    if url not in raw_url_queue:
+        new_raw_urls.append(url)
+        raw_url_queue.append(url)
 
-# Save the latest 20 URLs back to the file
+        real_url = extract_real_url_with_selenium(url)
+        if real_url and real_url not in real_url_queue:
+            real_url_queue.append(real_url)
+            logging.info(f"Processed and stored URL: {real_url}")
+        else:
+            logging.warning(f"Failed to process URL: {url}")
+        time.sleep(10)  # Rate-limit our requests
+    else:
+        logging.info(f"URL {url} has already been processed and stored")
+
+# Save the latest 50 raw URLs to file
 try:
-    with open(output_file, "w") as file:
-        for url in url_queue:
+    with open(raw_urls_file, "w") as file:
+        for url in raw_url_queue:
             file.write(url + "\n")
-    logging.info(f"Successfully wrote to {output_file}")
+    logging.info(f"Successfully wrote to {raw_urls_file}")
 except Exception as e:
-    logging.error(f"Failed to write to {output_file}: {e}")
+    logging.error(f"Failed to write to {raw_urls_file}: {e}")
+
+# Save the latest 50 real URLs to file
+try:
+    with open(real_urls_file, "w") as file:
+        for url in real_url_queue:
+            file.write(url + "\n")
+    logging.info(f"Successfully wrote to {real_urls_file}")
+except Exception as e:
+    logging.error(f"Failed to write to {real_urls_file}: {e}")
+
+logging.info(f"Completed processing. Stored URLs count: {len(real_url_queue)}")
