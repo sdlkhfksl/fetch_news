@@ -6,7 +6,7 @@ on:
     - cron: '5 * * * *'  # Execute run_other_script_every_hour at the 5th minute of every hour
 
 jobs:
-  fetch-and-save-urls:
+  fetch-and-process-links:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,7 +24,7 @@ jobs:
           sudo apt install -y wget gnupg
           wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo apt install -y ./google-chrome-stable_current_amd64.deb
-          pip install requests bs4 selenium webdriver_manager
+          pip install requests selenium webdriver_manager beautifulsoup4
 
       - name: Run fetch_and_save_real_urls.py
         run: |
@@ -42,7 +42,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add real_urls.txt
+          git add raw_urls.txt real_urls.txt
           git commit -m "Update list of processed news links" || echo "No changes to commit"
           git push
 
