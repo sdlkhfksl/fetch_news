@@ -5,7 +5,6 @@ from datetime import datetime, timedelta
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import classification_report
-from sklearn.preprocessing import StandardScaler
 import logging
 import time
 
@@ -14,7 +13,7 @@ YOUR_CRYPTOCOMPARE_API_KEY = "f71cf8d61d8774c76d598ad982ff4f6860d9b15777c2fb4e3e
 TELEGRAM_BOT_TOKEN = "5925179620:AAELdC5OfDHXqvpBNEx5xEOjCzcPdY0isck"
 TELEGRAM_CHAT_ID = "1640026631"
 
-# 监控的加密货币列表，增加BNB
+# 监控的加密货币列表
 CURRENCY_IDS = ['bitcoin', 'ethereum', 'binancecoin']
 
 # 币种缩写映射表
@@ -34,7 +33,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S',
     handlers=[
-        logging.FileHandler("crypto_alerts.log"),
+        logging.FileHandler("macd.log"),
         logging.StreamHandler()
     ]
 )
@@ -90,29 +89,38 @@ def prepare_data(df):
     df['price_diff'] = df['close'].diff().shift(-1)
     df['target'] = np.where(df['price_diff'] > 0, 1, 0)
     features = ['macd', 'signal', 'histogram', 'rsi', 'upper_band', 'lower_band', 'volatility', 'volume']
-    
-    # 特征标准化
-    scaler = StandardScaler()
-    df[features] = scaler.fit_transform(df[features])
-    
     df = df.dropna()
     logging.info("Data prepared successfully.")
     return df[features], df['target']
 
-# 训练和调整随机森林模型
-def train_random_forest(X_train, y_train):
-    logging.info("Starting grid search for RandomForest parameters...")
-    param_grid = {
-        'n_estimators': [100, 200, 300],
-        'max_depth': [None, 10, 20, 30],
-        'min_samples_split': [2, 5, 10],
-        'min_samples_leaf': [1, 2, 4]
-    }
-    grid_search = GridSearchCV(RandomForestClassifier(random_state=42), param_grid, cv=3, scoring='accuracy', n_jobs=-1)
-    grid_search.fit(X_train, y_train)
-    best_model = grid_search.best_estimator_
-    logging.info("Grid search completed. Best parameters found.")
-    return best_model
+# 获取数据并训练随机森林模型
+def train_models():
+    models = {}
+    for currency_key in CURRENCY_IDS:
+        df = get_market_data(currency_key)
+        df = calculate_indicators(df)
+        X, y = prepare_data(df)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+        logging.info(f"Training model for {currency_key}...")
+
+        # 随机森林分类器和参数调优
+        param_grid = {
+            'n_estimators': [100, 200, 300],
+            'max_depth': [None, 10, 20, 30],
+            'min_samples_split': [2, 5, 10],
+            'min_samples_leaf': [1, 2, 4]
+        }
+
+        grid_search = GridSearchCV(RandomForestClassifier(random_state=42), param_grid, cv=3, scoring='accuracy', n_jobs=-1)
+        grid_search.fit(X_train, y_train)
+        best_model = grid_search.best_estimator_
+        models[currency_key] = best_model
+
+        # 预测并输出分类报告
+        y_pred = best_model.predict(X_test)
+        logging.info(f"\nClassification report for {currency_key}:\n" + classification_report(y_test, y_pred))
+
+    return models
 
 # 获取 UTC+8 时间戳
 def get_utc_plus_8_time():
@@ -137,94 +145,35 @@ def send_alert(currency_key, message):
     except Exception as e:
         logging.error(f"Error sending alert message: {e}")
 
-# 检查交易信号
-def check_signals(df):
-    logging.info("Checking for trade signals...")
-    latest = df.iloc[-1]
-    previous = df.iloc[-2]
-    signals = []
-    signal_details = []
-
-    # MACD 交叉信号
-    if previous['macd'] < previous['signal'] and latest['macd'] > latest['signal']:
-        signals.append(1)
-        signal_details.append("MACD 交叉（买入信号）")
-    elif previous['macd'] > previous['signal'] and latest['macd'] < latest['signal']:
-        signals.append(-1)
-        signal_details.append("MACD 交叉（卖出信号）")
-
-    # RSI 超买/超卖信号
-    if latest['rsi'] < 30:
-        signals.append(1)
-        signal_details.append("RSI 超卖（买入信号）")
-    elif latest['rsi'] > 70:
-        signals.append(-1)
-        signal_details.append("RSI 超买（卖出信号）")
-
-    # 布林带突破信号
-    if latest['close'] < latest['lower_band']:
-        signals.append(1)
-        signal_details.append("布林带下轨（买入信号）")
-    elif latest['close'] > latest['upper_band']:
-        signals.append(-1)
-        signal_details.append("布林带上轨（卖出信号）")
-
-    return signals, signal_details
-
-# 检查模型预测信号
-def check_model_signal(df, model):
-    logging.info("Checking model prediction signal...")
-    latest = df.iloc[-1:]
-    prediction = model.predict(latest[['macd', 'signal', 'histogram', 'rsi', 'upper_band',```python
-'lower_band', 'volatility', 'volume']])
-    return prediction[0]
-
-# 主函数
-def main():
-    models = {}
-    for currency_key in CURRENCY_IDS:
-        df = get_market_data(currency_key)
-        df = calculate_indicators(df)
-        X, y = prepare_data(df)
-
-        # 划分训练集和测试集
-        logging.info(f"Splitting data into training and testing sets for {currency_key}...")
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-        logging.info("Data split successfully.")
-
-        # 训练随机森林模型
-        model = train_random_forest(X_train, y_train)
-        models[currency_key] = model
-
-        # 预测并输出分类报告
-        logging.info(f"Predicting test data and generating classification report for {currency_key}...")
-        y_pred = model.predict(X_test)
-        logging.info(f"\n{currency_key}:\n" + classification_report(y_test, y_pred))
-
+# 检查交易信号并使用模型进行预测
+def check_signals_and_predict(models):
     while True:
         for currency_key in CURRENCY_IDS:
+            logging.info(f"Checking {currency_key} for signals...")
             df = get_market_data(currency_key)
             df = calculate_indicators(df)
-            
-            # 检查信号
-            signals, signal_details = check_signals(df)
-            model_signal = check_model_signal(df, models[currency_key])
-            if model_signal == 1:
-                signal_details.append("随机森林模型（买入信号）")
-            else:
-                signal_details.append("随机森林模型（卖出信号）")
-            
-            # 计算信号权重
-            buy_signals = signals.count(1)
-            sell_signals = signals.count(-1)
+            latest = df.iloc[-1]
+            previous = df.iloc[-2]
+            signals = []
 
-            # 发送通知
-            if buy_signals >= 2 or model_signal == 1:
-                send_alert(currency_key, f"买入信号！\n详细信息:\n" + "\n".join(signal_details))
-            elif sell_signals >= 2 or model_signal == 0:
-                send_alert(currency_key, f"卖出信号！\n详细信息:\n" + "\n".join(signal_details))
-        
-        time.sleep(300)  # 每5分钟检查一次
+            # MACD 交叉信号
+            if previous['macd'] < previous['signal'] and latest['macd'] > latest['signal']:
+                signals.append("MACD 交叉（买入信号）")
+            elif previous['macd'] > previous['signal'] and latest['macd'] < latest['signal']:
+                signals.append("MACD 交叉（卖出信号）")
 
+            # 如果有信号，使用随机森林模型进行预测
+            if signals:
+                X_latest = df[['macd', 'signal', 'histogram', 'rsi', 'upper_band', 'lower_band', 'volatility', 'volume']].iloc[-1].values.reshape(1, -1)
+                prediction = models[currency_key].predict(X_latest)[0]
+                prediction_message = "预测价格将上涨" if prediction == 1 else "预测价格将下跌"
+                signals.append(prediction_message)
+                message = "; ".join(signals)
+                send_alert(currency_key, message)
+
+        time.sleep(300)  # 每五分钟检测一次
+
+# 主流程
 if __name__ == "__main__":
-    main()
+    models = train_models()
+    check_signals_and_predict(models)
