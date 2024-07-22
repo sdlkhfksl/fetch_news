@@ -199,7 +199,7 @@ def main():
                 data = {}
                 for indicator in indicators:
                     data[indicator] = fetch_taapi_data(indicator, symbol)
-                    time.sleep(30)  # 等待 30 秒后再发起下一个请求
+                    time.sleep(10)  # 等待 30 秒后再发起下一个请求
                 
                 bullish_percentage, bearish_percentage, signals = analyze_market(data, current_price, macd_signal, rsi_signal)
                 
