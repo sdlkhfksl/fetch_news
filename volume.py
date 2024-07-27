@@ -7,7 +7,7 @@ BOT_TOKEN = '7087052045:AAF3eJLHSvBGKtqqa2l_e7su_ESiteL8ai8'
 CHAT_ID = '1640026631'
 
 # Cryptocurrency IDs
-CURRENCY_IDS = ['bitcoin', 'ethereum', 'uniswap', 'shiba-inu', 'ripple', 'binancecoin', 'cardano', 'worldcoin-wld', 'solana', 'avalanche-2', 'polkadot', 'the-open-network']
+CURRENCY_IDS = ['bitcoin', 'ethereum', 'dogecoin', 'uniswap', 'shiba-inu', 'ripple', 'binancecoin', 'cardano', 'worldcoin-wld', 'solana', 'avalanche-2', 'polkadot', 'the-open-network']
 
 def get_price_and_volume(currency_id):
     url = f'https://api.coingecko.com/api/v3/simple/price?ids={currency_id}&vs_currencies=usd&include_24hr_vol=true'
