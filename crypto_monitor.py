@@ -18,6 +18,7 @@ PERCENT_CHANGE_CHAT_ID = '1640026631'  # Replace with your actual chat ID for pe
 # List of cryptocurrencies to monitor (symbol format for Binance)
 CURRENCY_IDS = [
     'BTCUSDT',
+    'DOGEUSDT',
     'ETHUSDT',
     'UNIUSDT',
     'SHIBUSDT',
