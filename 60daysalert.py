@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 # API Keys and Telegram Bot configuration
 BOT_TOKEN = '7087052045:AAF3eJLHSvBGKtqqa2l_e7su_ESiteL8ai8'
 CHAT_ID = '1640026631'
-MESSARI_API_KEY = 'WsXyGZ85UQETYVfXhxLYhi01nV9CP1W0V34iO05Nfj76z1t9'
+MESSARI_API_KEY = 'WsXyGZ85UQETYVfXhxLYhi01nV9CP1W0V34iO05N4476z1t9'
 COINMARKETCAP_API_KEY = '8dcc830a-c866-405c-8531-357278d4f821'
 
 # Currency IDs
