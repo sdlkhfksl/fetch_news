@@ -12,7 +12,7 @@ TELEGRAM_CHAT_ID = '1640026631'
 BTC_TICKER = 'BTC/USDT'
 ETH_TICKER = 'ETH/USDT'
 INTERVALS = ['1h', '1d']  # 增加1天时间间隔
-YOUR_CRYPTOCOMPARE_API_KEY = 'your_cryptocompare_api_key'
+YOUR_CRYPTOCOMPARE_API_KEY = 'f71cf8d61d8774c76d598ad982ff4f6860d9b15777c2fb4e3e4580d3087109b5'
 
 # Logging 配置
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
