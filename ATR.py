@@ -78,8 +78,8 @@ while True:
         if len(price_data['bitcoin']) == 2:
             bitcoin_current_price = price_data['bitcoin'][-1]
             bitcoin_prev_price = price_data['bitcoin'][0]
-            bitcoin_current_level = int(bitcoin_current_price // 1000) * 1000
-            bitcoin_prev_level = int(bitcoin_prev_price // 1000) * 1000
+            bitcoin_current_level = int(bitcoin_current_price // 500) * 500
+            bitcoin_prev_level = int(bitcoin_prev_price // 500) * 500
 
             logging.info(f'Bitcoin Current Level: {bitcoin_current_level}, Bitcoin Previous Level: {bitcoin_prev_level}')
 
