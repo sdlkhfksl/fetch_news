@@ -97,7 +97,6 @@ def send_telegram_message(message):
         logging.error(f"An error occurred: {err}")
 
 def check_for_updates():
-    global last_pub_dates
     for channel_name, channel_id in CHANNEL_IDS.items():
         logging.info(f"Checking for updates for channel: {channel_name}")
         playlist_id = get_uploads_playlist_id(channel_id)
@@ -120,10 +119,7 @@ def check_for_updates():
             if last_pub_dates[channel_id] is None:
                 last_pub_dates[channel_id] = pub_date
                 logging.info(f"First run for channel {channel_name}, updating last_pub_date.")
-                continue
-            
-            # Check if the latest video is new
-            if pub_date > last_pub_dates[channel_id]:
+            elif pub_date > last_pub_dates[channel_id]:
                 last_pub_dates[channel_id] = pub_date
                 message = f'New video on {channel_name}:\nTitle: {title}\nPublished at: {pub_date}\nURL: {video_url}'
                 send_telegram_message(message)
@@ -131,6 +127,9 @@ def check_for_updates():
                 logging.info(f"No new videos for channel {channel_name}.")
         else:
             logging.info(f"No videos found in playlist for channel {channel_name}.")
+
+        # Sleep for 15 seconds between requests for different channels
+        time.sleep(15)
 
 def main():
     while True:
